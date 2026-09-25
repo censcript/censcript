@@ -3062,7 +3062,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20260925080200 +0000" stop="20260925083000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: Canada And Europe</title>
 </programme>
 <programme start="20260925083000 +0000" stop="20260925090000 +0000" channel="DW English.mncvision">
     <title>DW News Africa</title>
@@ -6575,7 +6575,7 @@
     <title>Mini Program</title>
 </programme>
 <programme start="20260925033000 +0000" stop="20260925034500 +0000" channel="NHK World Premium.mncvision">
-    <title>Hiyokko, Ep 38</title>
+    <title>Hiyokko, Ep 37</title>
 </programme>
 <programme start="20260925034500 +0000" stop="20260925040000 +0000" channel="NHK World Premium.mncvision">
     <title>The Scent Of The Wind, Ep 130</title>

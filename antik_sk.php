@@ -1916,7 +1916,7 @@
     <title lang="id">Fidlivareška (6)</title>
   </programme>
   <programme start="20260926213000 +0000" stop="20260926222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (20)</title>
   </programme>
   <programme start="20260926222000 +0000" stop="20260926224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Kung Fu Panda II (23)</title>
@@ -1999,23 +1999,29 @@
   <programme start="20260927043500 +0000" stop="20260927045000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Tomáš a Priatelia II (19)</title>
   </programme>
-  <programme start="20260927045000 +0000" stop="20260927054000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+  <programme start="20260927045000 +0000" stop="20260927050500 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Flopy (219)</title>
+  </programme>
+  <programme start="20260927050500 +0000" stop="20260927053000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Volám sa Caillou I (10)</title>
+  </programme>
+  <programme start="20260927053000 +0000" stop="20260927054000 +0000" channel="RiK TV.webtv.sk">
+    <title lang="id">Ovečka Shaun II (21)</title>
   </programme>
   <programme start="20260927054000 +0000" stop="20260927055000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Maxipes Fík III (5)</title>
   </programme>
   <programme start="20260927055000 +0000" stop="20260927060500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tučniaky z madagaskaru II (15)</title>
+    <title lang="id">Tučniaky z madagaskaru I (15)</title>
   </programme>
   <programme start="20260927060500 +0000" stop="20260927062000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (171)</title>
   </programme>
   <programme start="20260927062000 +0000" stop="20260927062500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Všetko najlepšie s Flopym</title>
   </programme>
   <programme start="20260927062500 +0000" stop="20260927064000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tučniaky z madagaskaru II (16)</title>
+    <title lang="id">Tučniaky z madagaskaru I (16)</title>
   </programme>
   <programme start="20260927064000 +0000" stop="20260927074500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Štístko a Poupěnka: Pojď si hrát</title>
@@ -2030,7 +2036,7 @@
     <title lang="id">Dobrodružstvá Bolka a Lolka I (21)</title>
   </programme>
   <programme start="20260927083500 +0000" stop="20260927085000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (170)</title>
   </programme>
   <programme start="20260927085000 +0000" stop="20260927090000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď V (84)</title>
@@ -2057,7 +2063,7 @@
     <title lang="id">Hot Wheels autíčka V (3)</title>
   </programme>
   <programme start="20260927103000 +0000" stop="20260927104500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (226)</title>
   </programme>
   <programme start="20260927104500 +0000" stop="20260927105500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun II (22)</title>
@@ -2081,7 +2087,7 @@
     <title lang="id">Kung Fu Panda II (23)</title>
   </programme>
   <programme start="20260927124000 +0000" stop="20260927125500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tučniaky z madagaskaru II (17)</title>
+    <title lang="id">Tučniaky z madagaskaru I (17)</title>
   </programme>
   <programme start="20260927125500 +0000" stop="20260927130000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Dobrodružstvá Bolka a Lolka I (23)</title>
@@ -2099,7 +2105,7 @@
     <title lang="id">Požiarnik Sam VII (19)</title>
   </programme>
   <programme start="20260927135000 +0000" stop="20260927142000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (190)</title>
   </programme>
   <programme start="20260927142000 +0000" stop="20260927154500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Včielka Mája</title>
@@ -2114,7 +2120,7 @@
     <title lang="id">Barbie: Dom snov II (5)</title>
   </programme>
   <programme start="20260927162000 +0000" stop="20260927171000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (12)</title>
   </programme>
   <programme start="20260927171000 +0000" stop="20260927172000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Maxipes Fík III (5)</title>
@@ -2123,7 +2129,7 @@
     <title lang="id">Jožinko a kamaráti II (8)</title>
   </programme>
   <programme start="20260927173500 +0000" stop="20260927175000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Tučniaky z madagaskaru II (18)</title>
+    <title lang="id">Tučniaky z madagaskaru I (18)</title>
   </programme>
   <programme start="20260927175000 +0000" stop="20260927180500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Mojo Transformer I (30)</title>
@@ -2159,13 +2165,13 @@
     <title lang="id">Priatelia z farmy I (10)</title>
   </programme>
   <programme start="20260927211000 +0000" stop="20260927212000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Ovečka Shaun II (26)</title>
+    <title lang="id">Ovečka Shaun II (25)</title>
   </programme>
   <programme start="20260927212000 +0000" stop="20260927213000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Tomáš a Priatelia I (2)</title>
   </programme>
   <programme start="20260927213000 +0000" stop="20260927222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (23)</title>
   </programme>
   <programme start="20260926220000 +0000" stop="20260927030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -2611,8 +2617,11 @@
   <programme start="20260927114000 +0000" stop="20260927140000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20260927143000 +0000" stop="20260927163000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20260927143000 +0000" stop="20260927153000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Nákupy z pohodlí domova</title>
+  </programme>
+  <programme start="20260927153000 +0000" stop="20260927163000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Zpívejte si s námi</title>
   </programme>
   <programme start="20260927163000 +0000" stop="20260927183000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
@@ -3748,8 +3757,11 @@
   <programme start="20260927175500 +0000" stop="20260927181500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">SHOWTIME</title>
   </programme>
-  <programme start="20260927181500 +0000" stop="20260927184000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20260927181500 +0000" stop="20260927182000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Hlasy zločinu</title>
+  </programme>
+  <programme start="20260927182000 +0000" stop="20260927184000 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Monika Absolonová slaví 50!</title>
   </programme>
   <programme start="20260927184000 +0000" stop="20260927190000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Prima HISTORIE</title>
@@ -4591,7 +4603,7 @@
   <programme start="20260927000500 +0000" stop="20260927013500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">FRISCH AUF! Göppingen - Rhein-Neckar Löwen</title>
   </programme>
-  <programme start="20260927013500 +0000" stop="20260927050000 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20260927013500 +0000" stop="20260927031500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">THW Kiel - SG Flensburg-Handewitt</title>
   </programme>
   <programme start="20260927050000 +0000" stop="20260927050500 +0000" channel="Nova Sport 1.webtv.sk">
@@ -15052,7 +15064,7 @@
   <programme start="20260927205900 +0000" stop="20260927213100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Štafeta hrdinov 2026 pokračuje na Devín</title>
   </programme>
-  <programme start="20260927213100 +0000" stop="20260928003100 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20260927213100 +0000" stop="20260927222200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Aký kraj chce Igor Šimko?</title>
   </programme>
   <programme start="20260926220000 +0000" stop="20260926230000 +0000" channel="TV Poprad.webtv.sk">
@@ -16297,13 +16309,13 @@
   <programme start="20260927010500 +0000" stop="20260927015000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">100 pytan do... (51)</title>
   </programme>
-  <programme start="20260927015000 +0000" stop="20260927020200 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Reportaz TVP INFO</title>
+  <programme start="20260927015000 +0000" stop="20260927020100 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Dekalog wg Jana Pawła II (5)</title>
   </programme>
-  <programme start="20260927020200 +0000" stop="20260927025000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260927020100 +0000" stop="20260927025100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Opowiesci obozowe (1)</title>
   </programme>
-  <programme start="20260927025000 +0000" stop="20260927032100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260927025100 +0000" stop="20260927032100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Opowiesci obozowe (2)</title>
   </programme>
   <programme start="20260927032100 +0000" stop="20260927034300 +0000" channel="TVP Info.webtv.sk">
@@ -16420,10 +16432,10 @@
   <programme start="20260927112700 +0000" stop="20260927113000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20260927113000 +0000" stop="20260927115200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260927113000 +0000" stop="20260927115300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polscy szpiedzy (10)</title>
   </programme>
-  <programme start="20260927115200 +0000" stop="20260927120000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20260927115300 +0000" stop="20260927120000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
   <programme start="20260927120000 +0000" stop="20260927122400 +0000" channel="TVP Info.webtv.sk">
@@ -16495,10 +16507,10 @@
   <programme start="20260926235500 +0000" stop="20260927000000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie dnia (818)</title>
   </programme>
-  <programme start="20260927000000 +0000" stop="20260927000400 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260927000000 +0000" stop="20260927000500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Sport</title>
   </programme>
-  <programme start="20260927000400 +0000" stop="20260927001000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260927000500 +0000" stop="20260927001000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pogoda</title>
   </programme>
   <programme start="20260927001000 +0000" stop="20260927010000 +0000" channel="TVP Polonia.webtv.sk">
@@ -16579,10 +16591,10 @@
   <programme start="20260927175500 +0000" stop="20260927180500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pytanie dnia (819)</title>
   </programme>
-  <programme start="20260927180500 +0000" stop="20260927181000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260927180500 +0000" stop="20260927181500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Sport</title>
   </programme>
-  <programme start="20260927181000 +0000" stop="20260927182000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260927181500 +0000" stop="20260927182000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pogoda</title>
   </programme>
   <programme start="20260927182000 +0000" stop="20260927191500 +0000" channel="TVP Polonia.webtv.sk">

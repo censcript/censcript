@@ -3614,104 +3614,179 @@
     <display-name>TVB Xing He</display-name>
   </channel>
   <programme start="20260924150500 +0000" stop="20260924160500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">16</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260924160500 +0000" stop="20260924170500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">23</category>
+    <title lang="en">Brother's Keeper</title>
+    <desc lang="en">Qiao Tiansheng (Ruco Chan) and Luo Weixin (Edwin Siu) are half-brothers, separated by fate in Hong Kong and Macau, respectively, and subjected to the harsh realities of a turbulent historical era. Their mother, Zhou Yumei (Louise Lee), raises Weixin in Macau as a black market operator. With hard work and the help of his friends Yao Wenying (Kristal Tin) and Long Fei (Yuen Siu-cheung), Weixin overcomes numerous hardships and challenges to achieve success. Meanwhile, Tiansheng, struggling to make ends meet in Hong Kong, takes a shortcut, associating with a triad member, Jiang Yong (Louis Cheung), and having an affair with a wealthy woman, leaving his girlfriend, Zhuo Jing (Linda Chung), heartbroken and ultimately losing both his money and his girlfriend. Originally inseparable siblings, they drifted apart as the tides of time turned and the future became unpredictable. Yet, a belief remained deeply ingrained in their shared blood, and no matter how bitter or difficult the trials, they eventually reunited on a new and vibrant path...</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260924170500 +0000" stop="20260924180500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">14</category>
+    <title lang="en">Every Step You Take</title>
+    <desc lang="en">Due to an accident, magazine photographer SUNG TIN-CHUNG (Myolie Wu) not only lost her parents but also her sight. Nevertheless, born to be aesthete, TIN-CHUNG, who loves binge-watching TV drama, never gives up on herself. Accompanied by her boyfriend TO CHING-HENG (Jonathan Cheung) and a guide dog, she gradually rebuilds her lost confidence, and an advertising slogan "With Love, Nothing is Impossible" even becomes her motto, helping her let go of her sorrows. Unknown to her, the advertising producer, KAM YIN-CHUNG (Moses Chan), is actually her next-door neighbour. Work addict YIN-CHUNG cannot keep friends and co-workers, not even his apprentice YUEN YUEN (Elaine Yiu), who wants to resign. Feeling rather puzzled, YIN-CHUNG decides to take a long vacation and move back to his former residence, and in the meantime to get back in touch with his old friend YU KA-KING (Mak Cheung Ching). While it's the best opportunity for YIN-CHUNG to start anew, it also helps him gain a better understanding of himself. With her boyfriend having a change of heart, TIN-CHUNG is once again at the lowest ebb, fortunately, she still has YIN-CHUNG by her side as her guardian angel. Though they are poles apart in personality, the chemistry between them ignites the spark of love. So you think you can see? However, there might still be a blind spot. Whereas vision impairment doesn't deter one from seeing the light......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260924180500 +0000" stop="20260924190500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">9</category>
+    <title lang="en">Line Walker: Bull Fight</title>
+    <desc lang="en">After completion of a three-year undercover operation, Sit Ka-keung (Raymond Lam) returns to Hong Kong, opens a foot massage place and continues to gather intelligence. Criminal Intelligence Bureau (CIB) Chief Inspector Cheung Kei-gee (Mandy Wong) keeps Cheuk Hoi (Michael Miu) under close surveillance as she suspects Cheuk Hoi has become a gangster after being released from prison. Ka-keung and Cheuk Hoi are drawn into an organ trafficking case. They team up with female decoy Dou Ah-hei (Sisley Choi) and Security Bureau Investigator Wai Chok-wing (Kenneth Ma) to crack down on the syndicate involved. Security Bureau then sets up Security Intelligence Agnecy and invites Chui Tin-tong (Benjamin Yuen) to join their team and take the helm of CIB. Chum Foon-hei (Hui Shiu Hung) has managed to escaped death. He then covertly investigates secrets of some gang. Ngai Tak-lai, younger brother of deceased Cheung Hing head Victor, is actually the founder of the mysterious society. He is also plotting to take revenge on Ka-keung and Cheuk Hoi.</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260924190500 +0000" stop="20260924200500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">25</category>
+    <title lang="en">Executioner, The</title>
+    <desc lang="en">In order to protect his benefactor's daughter-in-law, YUEN SO-SUM (Elaine Yiu), throughout her pregnancy and childbirth, cold-blooded executioner YIP SHEUNG-LUK (Kenny Wong) arranges for SO-SUM to settle down in the home of a renowned midwife in town, FA YUI-HUNG (Maggie Shiu). As such, they run into an obscure murder, and SHEUNG-LUK even uses his saber to help save a new life. Due to the unknown background of this newborn baby boy, SHEUNG-LUK and YUI-HUNG are involuntarily caught up in the whirlwind of political infighting. As a team, they play cohesively and competently despite being poles apart in personality, managing to avert disaster over and over again. Slowly, their love grows in the face of adversity. On the other hand, childhood sweethearts CHIK CHI-TSAU (Matt Yeung) and CHUK SIU-MOON (Katy Kung), who grow up together in a brothel, arrive at YUI-HUNG's home, beseeching SHEUNG-LUK to take CHI-TSAU as his apprentice. In fact, CHI-TSAU is up to something as he attempts to take advantage of this to avoid punishment, so SHEUNG-LUK cannot make up his mind. With the sudden appearance of a mysterious magician, SZEMA CAU (Joel Chan), they all get entangled in complicated relationships. Gradually, the real identity of the baby boy is unmasked, sounding the death knell in the meantime......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260924200500 +0000" stop="20260924210500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">15</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260924210500 +0000" stop="20260924220500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">16</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260924220500 +0000" stop="20260924230500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">23</category>
+    <title lang="en">Brother's Keeper</title>
+    <desc lang="en">Qiao Tiansheng (Ruco Chan) and Luo Weixin (Edwin Siu) are half-brothers, separated by fate in Hong Kong and Macau, respectively, and subjected to the harsh realities of a turbulent historical era. Their mother, Zhou Yumei (Louise Lee), raises Weixin in Macau as a black market operator. With hard work and the help of his friends Yao Wenying (Kristal Tin) and Long Fei (Yuen Siu-cheung), Weixin overcomes numerous hardships and challenges to achieve success. Meanwhile, Tiansheng, struggling to make ends meet in Hong Kong, takes a shortcut, associating with a triad member, Jiang Yong (Louis Cheung), and having an affair with a wealthy woman, leaving his girlfriend, Zhuo Jing (Linda Chung), heartbroken and ultimately losing both his money and his girlfriend. Originally inseparable siblings, they drifted apart as the tides of time turned and the future became unpredictable. Yet, a belief remained deeply ingrained in their shared blood, and no matter how bitter or difficult the trials, they eventually reunited on a new and vibrant path...</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260924230500 +0000" stop="20260925000500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">14</category>
+    <title lang="en">Every Step You Take</title>
+    <desc lang="en">Due to an accident, magazine photographer SUNG TIN-CHUNG (Myolie Wu) not only lost her parents but also her sight. Nevertheless, born to be aesthete, TIN-CHUNG, who loves binge-watching TV drama, never gives up on herself. Accompanied by her boyfriend TO CHING-HENG (Jonathan Cheung) and a guide dog, she gradually rebuilds her lost confidence, and an advertising slogan "With Love, Nothing is Impossible" even becomes her motto, helping her let go of her sorrows. Unknown to her, the advertising producer, KAM YIN-CHUNG (Moses Chan), is actually her next-door neighbour. Work addict YIN-CHUNG cannot keep friends and co-workers, not even his apprentice YUEN YUEN (Elaine Yiu), who wants to resign. Feeling rather puzzled, YIN-CHUNG decides to take a long vacation and move back to his former residence, and in the meantime to get back in touch with his old friend YU KA-KING (Mak Cheung Ching). While it's the best opportunity for YIN-CHUNG to start anew, it also helps him gain a better understanding of himself. With her boyfriend having a change of heart, TIN-CHUNG is once again at the lowest ebb, fortunately, she still has YIN-CHUNG by her side as her guardian angel. Though they are poles apart in personality, the chemistry between them ignites the spark of love. So you think you can see? However, there might still be a blind spot. Whereas vision impairment doesn't deter one from seeing the light......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260925000500 +0000" stop="20260925010500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">9</category>
+    <title lang="en">Line Walker: Bull Fight</title>
+    <desc lang="en">After completion of a three-year undercover operation, Sit Ka-keung (Raymond Lam) returns to Hong Kong, opens a foot massage place and continues to gather intelligence. Criminal Intelligence Bureau (CIB) Chief Inspector Cheung Kei-gee (Mandy Wong) keeps Cheuk Hoi (Michael Miu) under close surveillance as she suspects Cheuk Hoi has become a gangster after being released from prison. Ka-keung and Cheuk Hoi are drawn into an organ trafficking case. They team up with female decoy Dou Ah-hei (Sisley Choi) and Security Bureau Investigator Wai Chok-wing (Kenneth Ma) to crack down on the syndicate involved. Security Bureau then sets up Security Intelligence Agnecy and invites Chui Tin-tong (Benjamin Yuen) to join their team and take the helm of CIB. Chum Foon-hei (Hui Shiu Hung) has managed to escaped death. He then covertly investigates secrets of some gang. Ngai Tak-lai, younger brother of deceased Cheung Hing head Victor, is actually the founder of the mysterious society. He is also plotting to take revenge on Ka-keung and Cheuk Hoi.</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260925010500 +0000" stop="20260925020500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">25</category>
+    <title lang="en">Executioner, The</title>
+    <desc lang="en">In order to protect his benefactor's daughter-in-law, YUEN SO-SUM (Elaine Yiu), throughout her pregnancy and childbirth, cold-blooded executioner YIP SHEUNG-LUK (Kenny Wong) arranges for SO-SUM to settle down in the home of a renowned midwife in town, FA YUI-HUNG (Maggie Shiu). As such, they run into an obscure murder, and SHEUNG-LUK even uses his saber to help save a new life. Due to the unknown background of this newborn baby boy, SHEUNG-LUK and YUI-HUNG are involuntarily caught up in the whirlwind of political infighting. As a team, they play cohesively and competently despite being poles apart in personality, managing to avert disaster over and over again. Slowly, their love grows in the face of adversity. On the other hand, childhood sweethearts CHIK CHI-TSAU (Matt Yeung) and CHUK SIU-MOON (Katy Kung), who grow up together in a brothel, arrive at YUI-HUNG's home, beseeching SHEUNG-LUK to take CHI-TSAU as his apprentice. In fact, CHI-TSAU is up to something as he attempts to take advantage of this to avoid punishment, so SHEUNG-LUK cannot make up his mind. With the sudden appearance of a mysterious magician, SZEMA CAU (Joel Chan), they all get entangled in complicated relationships. Gradually, the real identity of the baby boy is unmasked, sounding the death knell in the meantime......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260925020500 +0000" stop="20260925030500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">15</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260925030500 +0000" stop="20260925040500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">16</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260925040500 +0000" stop="20260925050500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">23</category>
+    <title lang="en">Brother's Keeper</title>
+    <desc lang="en">Qiao Tiansheng (Ruco Chan) and Luo Weixin (Edwin Siu) are half-brothers, separated by fate in Hong Kong and Macau, respectively, and subjected to the harsh realities of a turbulent historical era. Their mother, Zhou Yumei (Louise Lee), raises Weixin in Macau as a black market operator. With hard work and the help of his friends Yao Wenying (Kristal Tin) and Long Fei (Yuen Siu-cheung), Weixin overcomes numerous hardships and challenges to achieve success. Meanwhile, Tiansheng, struggling to make ends meet in Hong Kong, takes a shortcut, associating with a triad member, Jiang Yong (Louis Cheung), and having an affair with a wealthy woman, leaving his girlfriend, Zhuo Jing (Linda Chung), heartbroken and ultimately losing both his money and his girlfriend. Originally inseparable siblings, they drifted apart as the tides of time turned and the future became unpredictable. Yet, a belief remained deeply ingrained in their shared blood, and no matter how bitter or difficult the trials, they eventually reunited on a new and vibrant path...</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20260925050500 +0000" stop="20260925060500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">14</category>
+    <title lang="en">Every Step You Take</title>
+    <desc lang="en">Due to an accident, magazine photographer SUNG TIN-CHUNG (Myolie Wu) not only lost her parents but also her sight. Nevertheless, born to be aesthete, TIN-CHUNG, who loves binge-watching TV drama, never gives up on herself. Accompanied by her boyfriend TO CHING-HENG (Jonathan Cheung) and a guide dog, she gradually rebuilds her lost confidence, and an advertising slogan "With Love, Nothing is Impossible" even becomes her motto, helping her let go of her sorrows. Unknown to her, the advertising producer, KAM YIN-CHUNG (Moses Chan), is actually her next-door neighbour. Work addict YIN-CHUNG cannot keep friends and co-workers, not even his apprentice YUEN YUEN (Elaine Yiu), who wants to resign. Feeling rather puzzled, YIN-CHUNG decides to take a long vacation and move back to his former residence, and in the meantime to get back in touch with his old friend YU KA-KING (Mak Cheung Ching). While it's the best opportunity for YIN-CHUNG to start anew, it also helps him gain a better understanding of himself. With her boyfriend having a change of heart, TIN-CHUNG is once again at the lowest ebb, fortunately, she still has YIN-CHUNG by her side as her guardian angel. Though they are poles apart in personality, the chemistry between them ignites the spark of love. So you think you can see? However, there might still be a blind spot. Whereas vision impairment doesn't deter one from seeing the light......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.13.</episode-num>
+    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20260925060500 +0000" stop="20260925070500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">9</category>
+    <title lang="en">Line Walker: Bull Fight</title>
+    <desc lang="en">After completion of a three-year undercover operation, Sit Ka-keung (Raymond Lam) returns to Hong Kong, opens a foot massage place and continues to gather intelligence. Criminal Intelligence Bureau (CIB) Chief Inspector Cheung Kei-gee (Mandy Wong) keeps Cheuk Hoi (Michael Miu) under close surveillance as she suspects Cheuk Hoi has become a gangster after being released from prison. Ka-keung and Cheuk Hoi are drawn into an organ trafficking case. They team up with female decoy Dou Ah-hei (Sisley Choi) and Security Bureau Investigator Wai Chok-wing (Kenneth Ma) to crack down on the syndicate involved. Security Bureau then sets up Security Intelligence Agnecy and invites Chui Tin-tong (Benjamin Yuen) to join their team and take the helm of CIB. Chum Foon-hei (Hui Shiu Hung) has managed to escaped death. He then covertly investigates secrets of some gang. Ngai Tak-lai, younger brother of deceased Cheung Hing head Victor, is actually the founder of the mysterious society. He is also plotting to take revenge on Ka-keung and Cheuk Hoi.</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20260925070500 +0000" stop="20260925080500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">25</category>
+    <title lang="en">Executioner, The</title>
+    <desc lang="en">In order to protect his benefactor's daughter-in-law, YUEN SO-SUM (Elaine Yiu), throughout her pregnancy and childbirth, cold-blooded executioner YIP SHEUNG-LUK (Kenny Wong) arranges for SO-SUM to settle down in the home of a renowned midwife in town, FA YUI-HUNG (Maggie Shiu). As such, they run into an obscure murder, and SHEUNG-LUK even uses his saber to help save a new life. Due to the unknown background of this newborn baby boy, SHEUNG-LUK and YUI-HUNG are involuntarily caught up in the whirlwind of political infighting. As a team, they play cohesively and competently despite being poles apart in personality, managing to avert disaster over and over again. Slowly, their love grows in the face of adversity. On the other hand, childhood sweethearts CHIK CHI-TSAU (Matt Yeung) and CHUK SIU-MOON (Katy Kung), who grow up together in a brothel, arrive at YUI-HUNG's home, beseeching SHEUNG-LUK to take CHI-TSAU as his apprentice. In fact, CHI-TSAU is up to something as he attempts to take advantage of this to avoid punishment, so SHEUNG-LUK cannot make up his mind. With the sudden appearance of a mysterious magician, SZEMA CAU (Joel Chan), they all get entangled in complicated relationships. Gradually, the real identity of the baby boy is unmasked, sounding the death knell in the meantime......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260925080500 +0000" stop="20260925090500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">15</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260925090500 +0000" stop="20260925100500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">16</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20260925100500 +0000" stop="20260925110500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">24</category>
+    <title lang="en">Brother's Keeper</title>
+    <desc lang="en">Qiao Tiansheng (Ruco Chan) and Luo Weixin (Edwin Siu) are half-brothers, separated by fate in Hong Kong and Macau, respectively, and subjected to the harsh realities of a turbulent historical era. Their mother, Zhou Yumei (Louise Lee), raises Weixin in Macau as a black market operator. With hard work and the help of his friends Yao Wenying (Kristal Tin) and Long Fei (Yuen Siu-cheung), Weixin overcomes numerous hardships and challenges to achieve success. Meanwhile, Tiansheng, struggling to make ends meet in Hong Kong, takes a shortcut, associating with a triad member, Jiang Yong (Louis Cheung), and having an affair with a wealthy woman, leaving his girlfriend, Zhuo Jing (Linda Chung), heartbroken and ultimately losing both his money and his girlfriend. Originally inseparable siblings, they drifted apart as the tides of time turned and the future became unpredictable. Yet, a belief remained deeply ingrained in their shared blood, and no matter how bitter or difficult the trials, they eventually reunited on a new and vibrant path...</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.23.</episode-num>
+    <episode-num system="onscreen">S1E24</episode-num>
   </programme>
   <programme start="20260925110500 +0000" stop="20260925120500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">15</category>
+    <title lang="en">Every Step You Take</title>
+    <desc lang="en">Due to an accident, magazine photographer SUNG TIN-CHUNG (Myolie Wu) not only lost her parents but also her sight. Nevertheless, born to be aesthete, TIN-CHUNG, who loves binge-watching TV drama, never gives up on herself. Accompanied by her boyfriend TO CHING-HENG (Jonathan Cheung) and a guide dog, she gradually rebuilds her lost confidence, and an advertising slogan "With Love, Nothing is Impossible" even becomes her motto, helping her let go of her sorrows. Unknown to her, the advertising producer, KAM YIN-CHUNG (Moses Chan), is actually her next-door neighbour. Work addict YIN-CHUNG cannot keep friends and co-workers, not even his apprentice YUEN YUEN (Elaine Yiu), who wants to resign. Feeling rather puzzled, YIN-CHUNG decides to take a long vacation and move back to his former residence, and in the meantime to get back in touch with his old friend YU KA-KING (Mak Cheung Ching). While it's the best opportunity for YIN-CHUNG to start anew, it also helps him gain a better understanding of himself. With her boyfriend having a change of heart, TIN-CHUNG is once again at the lowest ebb, fortunately, she still has YIN-CHUNG by her side as her guardian angel. Though they are poles apart in personality, the chemistry between them ignites the spark of love. So you think you can see? However, there might still be a blind spot. Whereas vision impairment doesn't deter one from seeing the light......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.14.</episode-num>
+    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20260925120500 +0000" stop="20260925130500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">10</category>
+    <title lang="en">Line Walker: Bull Fight</title>
+    <desc lang="en">After completion of a three-year undercover operation, Sit Ka-keung (Raymond Lam) returns to Hong Kong, opens a foot massage place and continues to gather intelligence. Criminal Intelligence Bureau (CIB) Chief Inspector Cheung Kei-gee (Mandy Wong) keeps Cheuk Hoi (Michael Miu) under close surveillance as she suspects Cheuk Hoi has become a gangster after being released from prison. Ka-keung and Cheuk Hoi are drawn into an organ trafficking case. They team up with female decoy Dou Ah-hei (Sisley Choi) and Security Bureau Investigator Wai Chok-wing (Kenneth Ma) to crack down on the syndicate involved. Security Bureau then sets up Security Intelligence Agnecy and invites Chui Tin-tong (Benjamin Yuen) to join their team and take the helm of CIB. Chum Foon-hei (Hui Shiu Hung) has managed to escaped death. He then covertly investigates secrets of some gang. Ngai Tak-lai, younger brother of deceased Cheung Hing head Victor, is actually the founder of the mysterious society. He is also plotting to take revenge on Ka-keung and Cheuk Hoi.</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.9.</episode-num>
+    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20260925130500 +0000" stop="20260925140500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">26</category>
+    <title lang="en">Executioner, The</title>
+    <desc lang="en">In order to protect his benefactor's daughter-in-law, YUEN SO-SUM (Elaine Yiu), throughout her pregnancy and childbirth, cold-blooded executioner YIP SHEUNG-LUK (Kenny Wong) arranges for SO-SUM to settle down in the home of a renowned midwife in town, FA YUI-HUNG (Maggie Shiu). As such, they run into an obscure murder, and SHEUNG-LUK even uses his saber to help save a new life. Due to the unknown background of this newborn baby boy, SHEUNG-LUK and YUI-HUNG are involuntarily caught up in the whirlwind of political infighting. As a team, they play cohesively and competently despite being poles apart in personality, managing to avert disaster over and over again. Slowly, their love grows in the face of adversity. On the other hand, childhood sweethearts CHIK CHI-TSAU (Matt Yeung) and CHUK SIU-MOON (Katy Kung), who grow up together in a brothel, arrive at YUI-HUNG's home, beseeching SHEUNG-LUK to take CHI-TSAU as his apprentice. In fact, CHI-TSAU is up to something as he attempts to take advantage of this to avoid punishment, so SHEUNG-LUK cannot make up his mind. With the sudden appearance of a mysterious magician, SZEMA CAU (Joel Chan), they all get entangled in complicated relationships. Gradually, the real identity of the baby boy is unmasked, sounding the death knell in the meantime......</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
   </programme>
   <programme start="20260925140500 +0000" stop="20260925150500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">17</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20260925150500 +0000" stop="20260925160500 +0000" channel="unknown.unifitv">
-    <title lang="en">Unknown</title>
-    <category lang="en">18</category>
+    <title lang="en">I Bet Your Pardon</title>
+    <desc lang="en">LUNG SEI (Kent Cheng) of the “Con Eight” is thrown in jail after being framed by Chinese Chief Detective MAN HUNG (Kent Tong) and his senior PONG FUNG (Paul Chun). MAN HUNG even steals his girlfriend PAK-HOP (Angie Cheong). Five years later, now top producer LUNG SEI not only has SHU KEI (Choi Hon Yik) and MAK KEI (James Ng) as his right-hand men, but is also reunited with his daughter SIU-YU (Ada Wong). After the murder of his fellow alum TONG WAI (Wong Pak Man), LUNG SEI believes his disciple AH-LONG (Edward Ma) is the culprit, triggering a gambling showdown between them…… SIU-YU confesses to dancing teacher PAK-HOP about her crush on aspiring director HO KA-CHUN (Dominic Ho), leading to a serendipitous reunion of PAK-HOP and LUNG SEI. PAK-HOP steals MAN HUNG's account book detailing illegal transactions and money laundering to elope with LUNG SEI, but they are crushed by MAN HUNG who is furious about this. As LUNG SEI is escorted to jail, he is released by a mystery man. They set a trap, pledging to lure the all-powerful MAN HUNG into it……</desc>
+    <category lang="en">Drama Series</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <channel id="cctv4hd.unifitv">
     <display-name>CCTV-4</display-name>

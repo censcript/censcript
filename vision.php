@@ -26,7 +26,7 @@
 <title>Terlanjur Mencintaimu (RCTI)</title>
 </programme>
 <programme start="20260925150000 +0000" stop="20260925160000 +0000" channel="RCTI.vision">
-<title>Cinta Dua Kasta</title>
+<title>Love By Accident</title>
 </programme>
 <programme start="20260925160000 +0000" stop="20260925171500 +0000" channel="RCTI.vision">
 <title>Cinta Dari Surga</title>
@@ -606,12 +606,6 @@
 </programme>
 <programme start="20260926113000 +0000" stop="20260926121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260924230000 +0000" stop="20260925023000 +0000" channel="ANTV.vision">
-<title>One 2 Ka 4</title>
-</programme>
-<programme start="20260925023000 +0000" stop="20260925060000 +0000" channel="ANTV.vision">
-<title>Dilwale</title>
 </programme>
 <programme start="20260925060000 +0000" stop="20260925073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260925060000 +0000" stop="20260925070000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
+</programme>
+<programme start="20260925070000 +0000" stop="20260925070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20260925070300 +0000" stop="20260925080000 +0000" channel="TVRI.vision">
+<title>Jejak Langkah</title>
 </programme>

@@ -97,17 +97,17 @@
     <programme start="20260925053000 +0000" stop="20260925055500 +0000" channel="Channel 5.mewatch">
         <title>LEGO Dreamzzz S2 - EP 10</title>
     </programme>
-    <programme start="20260925055500 +0000" stop="20260925080000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260925055500 +0000" stop="20260925064000 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Heats - 25 Sep 2026</title>
     </programme>
-    <programme start="20260925080000 +0000" stop="20260925100000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260925064000 +0000" stop="20260925075500 +0000" channel="Channel 5.mewatch">
+        <title>Artistic Gymnastics - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Individual Balance Beam Final</title>
+    </programme>
+    <programme start="20260925075500 +0000" stop="20260925100000 +0000" channel="Channel 5.mewatch">
         <title>Swimming - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Finals - 25 Sep 2026</title>
     </programme>
-    <programme start="20260925100000 +0000" stop="20260925110000 +0000" channel="Channel 5.mewatch">
+    <programme start="20260925100000 +0000" stop="20260925120000 +0000" channel="Channel 5.mewatch">
         <title>Athletics - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Heats | Finals - 25 Sep 2026</title>
-    </programme>
-    <programme start="20260925110000 +0000" stop="20260925120000 +0000" channel="Channel 5.mewatch">
-        <title>Artistic Gymnastics - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Individual Balance Beam Final</title>
     </programme>
     <programme start="20260925120000 +0000" stop="20260925123000 +0000" channel="Channel 5.mewatch">
         <title>(Live) 20th Asian Games Aichi-Nagoya 2026: Today At The Games - EP 6</title>
@@ -767,22 +767,22 @@
         <title>No programme available now. Next broadcast on 26th September, Saturday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260924160000 +0000" stop="20260925050000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 1pm. Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Elise Mertens BEL vs Maja Chwalinska POL</title>
     </programme>
-    <programme start="20260925050000 +0000" stop="20260925070000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles QF Match 1</title>
+    <programme start="20260925050000 +0000" stop="20260925063000 +0000" channel="Live 2.mewatch">
+        <title>Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Elise Mertens BEL vs Maja Chwalinska POL</title>
     </programme>
-    <programme start="20260925070000 +0000" stop="20260925090000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles QF Match 2</title>
+    <programme start="20260925063000 +0000" stop="20260925083000 +0000" channel="Live 2.mewatch">
+        <title>Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Wang Xinyu CHN vs Tatiana Prozorova</title>
     </programme>
-    <programme start="20260925090000 +0000" stop="20260925103000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 25th September, Friday 6.30pm. Singapore Tennis Open 2026: Women’s Singles QF Match 3</title>
+    <programme start="20260925083000 +0000" stop="20260925103000 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 25th September, Friday 6.30pm. Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Mirra Andreeva vs Leylah Fernandez CAN</title>
     </programme>
     <programme start="20260925103000 +0000" stop="20260925123000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles QF Match 3</title>
+        <title>Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Mirra Andreeva vs Leylah Fernandez CAN</title>
     </programme>
     <programme start="20260925123000 +0000" stop="20260925143000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles QF Match 4</title>
+        <title>Singapore Tennis Open 2026: Women&#039;s Singles Quarter-final - Maria Sakkari GRE vs Talia Gibson AUS</title>
     </programme>
     <programme start="20260925143000 +0000" stop="20260925160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 26th September, Saturday 2.30pm. Singapore Tennis Open 2026: Women’s Singles SF Match 1</title>
