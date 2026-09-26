@@ -1246,15 +1246,12 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="tv3.unifitv">
-    <title lang="en">ISTIMEWA MAJALAH 3</title>
-    <desc lang="en">ISTIMEWA MAJALAH 3</desc>
+  <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="tv3.unifitv">
+    <title lang="en">WANITA MILIK KAIDEN</title>
+    <desc lang="en">Puan Sri Atilia disahkan lumpuh separuh badan, tak mampu berjalan. Dilla pula, dalam kesedihan, hubungi dan hendak jumpa Haila, yang terkejut bila Dilla ceritakan tentang Akmal. Dilla sedar khilafnya.</desc>
     <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926120000 +0000" channel="tv3.unifitv">
-    <title lang="en">BICARA SEMASA</title>
-    <desc lang="en">BICARA SEMASA</desc>
-    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.24.</episode-num>
+    <episode-num system="onscreen">S1E25</episode-num>
   </programme>
   <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="tv3.unifitv">
     <title lang="en">BULETIN UTAMA (2026/2027)</title>
@@ -2631,24 +2628,7 @@
     <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20260926020000 +0000" stop="20260926020500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20260926020500 +0000" stop="20260926021500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20260926021500 +0000" stop="20260926023000 +0000" channel="tvs.unifitv">
-    <title lang="en">Ripples Of Time</title>
-    <desc lang="en">Ripples of Time explores the history of Kuching's kampungs along Sungai Sarawak, tracing their journey from early settlements to modern-day development, highlighting stories of heritage, displacement, and resilience.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
-  </programme>
-  <programme start="20260926023000 +0000" stop="20260926040000 +0000" channel="tvs.unifitv">
+  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Majlis Perasmian Sarawakku Sayang</title>
     <desc lang="en">Siaran langsung Majlis Perasmian Sarawakku Sayang, di Kompleks Sukan Betong, Sarawak.</desc>
     <category lang="en">News</category>
@@ -3341,11 +3321,11 @@
     <episode-num system="onscreen">S1E19</episode-num>
   </programme>
   <programme start="20260926013500 +0000" stop="20260926020500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1809.</episode-num>
-    <episode-num system="onscreen">S1E1810</episode-num>
+    <title lang="en">Try It? Really? (Sr.2)</title>
+    <desc lang="en">Elena Kong once again leads the team, joining forces with Cheung Chun-long, Chu Man-han, Ng Yip-kwan, and Tseng Zhan-wang to form the "Try It Out Team," returning with acclaim after the hit first season and enthusiastic praise from netizens. This new in-depth exploration of Taiwan will see the team continue their relaxed, authentic, and down-to-earth style, guiding viewers deep into the island's heart. The team travels to Kaohsiung, Tainan, and Taipei, continuing the show's spirit by uncovering controversial shops with polarized online reviews, as well as hidden gems and little-known experiences tucked away in the city's corners. The team is committed to presenting the most genuine on-site feedback, aiming to create a practical travel guide to Taiwan that avoids pitfalls for viewers.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20260926020500 +0000" stop="20260926030500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Ratman To The Rescue</title>
@@ -3465,8 +3445,8 @@
     <episode-num system="onscreen">S1E268</episode-num>
   </programme>
   <programme start="20260926120500 +0000" stop="20260926143500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Woo Fung Concert 2026</title>
-    <desc lang="en">Veteran Hong Kong entertainer Woo Fung celebrates his remarkable seven-decade career with a spectacular concert at the Hong Kong Coliseum. At 94, he performs classic songs alongside star guests including Andy Lau, Jacky Cheung and Nick Cheung. Filled with music, laughter and touching memories, the concert also marks his Guinness World Record as the oldest Chinese artist to hold a solo concert.</desc>
+    <title lang="en">Bowie's Fantastic Supreme Party Concert 2026</title>
+    <desc lang="en">This TVB broadcast captures the historic, record-breaking live performance of legendary Hong Kong actor and singer Bowie Wu (Woo Fung) at the Hong Kong Coliseum. At 94 years old, Bowie Wu makes history as the oldest performer to headline a solo concert at the iconic venue, setting a Guinness World Record.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260926143500 +0000" stop="20260926145000 +0000" channel="tvbjade.unifitv">
@@ -14495,12 +14475,19 @@
     <episode-num system="xmltv_ns">0.5024.</episode-num>
     <episode-num system="onscreen">S1E5025</episode-num>
   </programme>
-  <programme start="20260926021500 +0000" stop="20260926030500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  <programme start="20260926021500 +0000" stop="20260926030000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The Professionals</title>
+    <desc lang="en">We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5995.</episode-num>
-    <episode-num system="onscreen">S1E5996</episode-num>
+    <episode-num system="xmltv_ns">0.5136.</episode-num>
+    <episode-num system="onscreen">S1E5137</episode-num>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926030500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Kyoto has many stores specialising in traditional snacks and treats, called Oyatsu. Some purveyors continue to use age-old ingredients and methods.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5146.</episode-num>
+    <episode-num system="onscreen">S1E5147</episode-num>
   </programme>
   <programme start="20260926030500 +0000" stop="20260926031500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14677,12 +14664,19 @@
     <episode-num system="xmltv_ns">0.5032.</episode-num>
     <episode-num system="onscreen">S1E5033</episode-num>
   </programme>
-  <programme start="20260926101500 +0000" stop="20260926110500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  <programme start="20260926101500 +0000" stop="20260926110000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The Professionals</title>
+    <desc lang="en">We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5995.</episode-num>
-    <episode-num system="onscreen">S1E5996</episode-num>
+    <episode-num system="xmltv_ns">0.5136.</episode-num>
+    <episode-num system="onscreen">S1E5137</episode-num>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926110500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Core Kyoto Mini</title>
+    <desc lang="en">Kyoto has many stores specialising in traditional snacks and treats, called Oyatsu. Some purveyors continue to use age-old ingredients and methods.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5146.</episode-num>
+    <episode-num system="onscreen">S1E5147</episode-num>
   </programme>
   <programme start="20260926110500 +0000" stop="20260926111500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14783,11 +14777,11 @@
     <episode-num system="onscreen">S1E5036</episode-num>
   </programme>
   <programme start="20260926151500 +0000" stop="20260926160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">NHK World-Japan presents a wide range of programmes from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="en">The Professionals</title>
+    <desc lang="en">We follow French cuisine chef Kobayashi Kei, the first Japanese to earn three stars in France. Astounding the senses with the full potential of the ingredients, his dishes are praised as works of art.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5995.</episode-num>
-    <episode-num system="onscreen">S1E5996</episode-num>
+    <episode-num system="xmltv_ns">0.5136.</episode-num>
+    <episode-num system="onscreen">S1E5137</episode-num>
   </programme>
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>

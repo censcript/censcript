@@ -472,9 +472,6 @@
 <programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="Trans 7.vision">
-<title>Selebrita Pagi On The Weekend</title>
-</programme>
 <programme start="20260926013000 +0000" stop="20260926021500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
@@ -486,9 +483,6 @@
 </programme>
 <programme start="20260926041500 +0000" stop="20260926050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualang</title>
 </programme>
 <programme start="20260926054500 +0000" stop="20260926063000 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
@@ -597,12 +591,6 @@
 </programme>
 <programme start="20260927113000 +0000" stop="20260927121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926023000 +0000" channel="ANTV.vision">
-<title>Aap Mujhse Achche Lagne Lage</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926060000 +0000" channel="ANTV.vision">
-<title>Om Shanti Om</title>
 </programme>
 <programme start="20260926060000 +0000" stop="20260926073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -769,29 +757,8 @@
 <programme start="20260925233000 +0000" stop="20260926010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="TVOne.vision">
-<title>Antara</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="TVOne.vision">
-<title>Xpose</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
-</programme>
 <programme start="20260926040000 +0000" stop="20260926053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku</title>
 </programme>
 <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
@@ -1497,4 +1464,37 @@
 </programme>
 <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="TVRI.vision">
+<title>Bangga Buatan Indonesia</title>
+</programme>
+<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="TVRI.vision">
+<title>Rumah Cahaya</title>
+</programme>
+<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="TVRI.vision">
+<title>Jurnal Asian Games Ke-20</title>
+</programme>
+<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="TVRI.vision">
+<title>Indonesia Raya Jelajah Sains</title>
+</programme>
+<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="TVRI.vision">
+<title>Dunia Dalam Berita</title>
+</programme>
+<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="TVRI.vision">
+<title>Jelajah Kopi</title>
+</programme>
+<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="TVRI.vision">
+<title>Monitor Olahraga Malam</title>
+</programme>
+<programme start="20260926153000 +0000" stop="20260926163000 +0000" channel="TVRI.vision">
+<title>TVRI Klasik</title>
+</programme>
+<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="TVRI.vision">
+<title>Spotlight</title>
+</programme>
+<programme start="20260926173000 +0000" stop="20260926213000 +0000" channel="TVRI.vision">
+<title>Dari Gelanggang Ke Gelanggang</title>
 </programme>
