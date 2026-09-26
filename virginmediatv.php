@@ -4318,16 +4318,16 @@
 <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Azerbaijan Grand Prix: Chequered Flag</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260926140000 +0000" stop="20260926144500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260926144500 +0000" stop="20260926154500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926174500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260926154500 +0000" stop="20260926175500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Race</title>
 </programme>
-<programme start="20260926174500 +0000" stop="20260926181500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20260926175500 +0000" stop="20260926183000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
 </programme>
 <programme start="20260925233000 +0000" stop="20260926023000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4921,16 +4921,16 @@
 <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Formula 1 - Azerbaijan Grand Prix: Chequered Flag</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260926140000 +0000" stop="20260926144500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260926144500 +0000" stop="20260926154500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926174500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260926154500 +0000" stop="20260926175500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Azerbaijan Grand Prix: Race</title>
 </programme>
-<programme start="20260926174500 +0000" stop="20260926181500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20260926175500 +0000" stop="20260926183000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
 </programme>
 <programme start="20260925223000 +0000" stop="20260926000300 +0000" channel="TG4+1_HD.virginmediatv">
