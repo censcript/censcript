@@ -2338,17 +2338,11 @@
 <programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>AI Decoded</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Talking Movies - Festival Review</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
 </programme>
 <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2648,7 +2642,7 @@
     <title>Quest&#039;s World of Wonder - Porto, Portugal</title>
 </programme>
 <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="CNN_HD.virginmediatv">
-    <title>First of All With Victor Blackwell</title>
+    <title>CNN This Morning Weekend</title>
 </programme>
 <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="CNN_HD.virginmediatv">
     <title>Smerconish</title>
@@ -2657,7 +2651,7 @@
     <title>CNN Creators</title>
 </programme>
 <programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>Inside Africa - Madagascar&#039;s Island of Giants</title>
 </programme>
 <programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="CNN_HD.virginmediatv">
     <title>The Amanpour Hour</title>

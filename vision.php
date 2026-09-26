@@ -601,12 +601,6 @@
 <programme start="20260926100000 +0000" stop="20260926110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="ANTV.vision">
-<title>Si Rawing 2</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="ANTV.vision">
-<title>Ajian Nyi Mas Gandasari</title>
-</programme>
 <programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="ANTV.vision">
 <title>Jeritan Malam</title>
 </programme>
@@ -768,9 +762,6 @@
 </programme>
 <programme start="20260926130000 +0000" stop="20260926143000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="TVOne.vision">
-<title>Khasanah Qur&#039;an</title>
 </programme>
 <programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20260926230000 +0000" stop="20260927000000 +0000" channel="TVRI.vision">
 <title>Klik Indonesia Pagi</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="TVRI.vision">
+<title>Feature LKBN Antara</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927030000 +0000" channel="TVRI.vision">
+<title>Misa Minggu</title>
 </programme>
