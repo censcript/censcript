@@ -4379,10 +4379,10 @@
     <title>Laver Cup - Day 1</title>
 </programme>
 <programme start="20260926114500 +0000" stop="20260926140000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 5</title>
+    <title>Live: Laver Cup - Match 5: Flavio Cobolli v Learner Tien</title>
 </programme>
 <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 6</title>
+    <title>Live: Laver Cup - Match 6: Alexander Zverev v Alex de Minaur</title>
 </programme>
 <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>T100 Triathlon World Tour - French Riviera</title>
@@ -4397,7 +4397,7 @@
     <title>UEFA Champions League Magazine - Episode 4</title>
 </programme>
 <programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 7</title>
+    <title>Live: Laver Cup - Match 7: Alcaraz v Taylor Fritz</title>
 </programme>
 <programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Ultimate Pool NxtGen - Future Stars: Group 3</title>

@@ -82,8 +82,11 @@
     <programme start="20260926053000 +0000" stop="20260926063000 +0000" channel="Channel 5.mewatch">
         <title>Diving - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Synchronised Platform Final</title>
     </programme>
-    <programme start="20260926063000 +0000" stop="20260926104500 +0000" channel="Channel 5.mewatch">
+    <programme start="20260926063000 +0000" stop="20260926080000 +0000" channel="Channel 5.mewatch">
         <title>Table Tennis - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Doubles Quarter-Finals &amp; Men&#039;s Singles Quarter-Finals</title>
+    </programme>
+    <programme start="20260926080000 +0000" stop="20260926104500 +0000" channel="Channel 5.mewatch">
+        <title>Badminton - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Round of 32 | 16</title>
     </programme>
     <programme start="20260926104500 +0000" stop="20260926130000 +0000" channel="Channel 5.mewatch">
         <title>The Ice Road</title>

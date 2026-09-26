@@ -490,9 +490,6 @@
 <programme start="20260926063000 +0000" stop="20260926071500 +0000" channel="Trans 7.vision">
 <title>Mancing Mania Strike Back</title>
 </programme>
-<programme start="20260926071500 +0000" stop="20260926081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Akhir Pekan</title>
-</programme>
 <programme start="20260926081500 +0000" stop="20260926090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
@@ -762,9 +759,6 @@
 </programme>
 <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="TVOne.vision">
 <title>Breaking News</title>
-</programme>
-<programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan</title>
 </programme>
 <programme start="20260926090000 +0000" stop="20260926110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20260926173000 +0000" stop="20260926213000 +0000" channel="TVRI.vision">
 <title>Dari Gelanggang Ke Gelanggang</title>
+</programme>
+<programme start="20260926213000 +0000" stop="20260926230000 +0000" channel="TVRI.vision">
+<title>Serambi Islami</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927000000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Pagi</title>
 </programme>
