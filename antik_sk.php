@@ -781,37 +781,7 @@
   <programme start="20260928010500 +0000" stop="20260928021500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Smiechoty (7)</title>
   </programme>
-  <programme start="20260928021500 +0000" stop="20260928022000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928022000 +0000" stop="20260928023000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928023000 +0000" stop="20260928024000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928024000 +0000" stop="20260928024500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928024500 +0000" stop="20260928025500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928025500 +0000" stop="20260928030000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928030000 +0000" stop="20260928031000 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928031000 +0000" stop="20260928031500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928031500 +0000" stop="20260928032500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928032500 +0000" stop="20260928033500 +0000" channel="DajTo.webtv.sk">
-    <title lang="id">Zig a Sharko</title>
-  </programme>
-  <programme start="20260928033500 +0000" stop="20260928040000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928021500 +0000" stop="20260928040000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Zig a Sharko</title>
   </programme>
   <programme start="20260928040000 +0000" stop="20260928045500 +0000" channel="DajTo.webtv.sk">
@@ -826,10 +796,10 @@
   <programme start="20260928060500 +0000" stop="20260928063500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Kredenc (23)</title>
   </programme>
-  <programme start="20260928063500 +0000" stop="20260928070500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928063500 +0000" stop="20260928071000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Partička (4)</title>
   </programme>
-  <programme start="20260928070500 +0000" stop="20260928081500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928071000 +0000" stop="20260928081500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná III (7)</title>
   </programme>
   <programme start="20260928081500 +0000" stop="20260928085000 +0000" channel="DajTo.webtv.sk">
@@ -847,40 +817,40 @@
   <programme start="20260928103000 +0000" stop="20260928105000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku IV (16)</title>
   </programme>
-  <programme start="20260928105000 +0000" stop="20260928113000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928105000 +0000" stop="20260928113500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku IV (17)</title>
   </programme>
-  <programme start="20260928113000 +0000" stop="20260928120000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928113500 +0000" stop="20260928120000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku IV (18)</title>
   </programme>
   <programme start="20260928120000 +0000" stop="20260928123000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku IV (19)</title>
   </programme>
-  <programme start="20260928123000 +0000" stop="20260928125500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928123000 +0000" stop="20260928130000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku IV (20)</title>
   </programme>
-  <programme start="20260928125500 +0000" stop="20260928132500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928130000 +0000" stop="20260928132500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku IV (21)</title>
   </programme>
-  <programme start="20260928132500 +0000" stop="20260928140000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928132500 +0000" stop="20260928140500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Priatelia X (12)</title>
   </programme>
-  <programme start="20260928140000 +0000" stop="20260928143500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928140500 +0000" stop="20260928143500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Priatelia X (13)</title>
   </programme>
-  <programme start="20260928143500 +0000" stop="20260928150000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928143500 +0000" stop="20260928150500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa III (16)</title>
   </programme>
-  <programme start="20260928150000 +0000" stop="20260928153000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928150500 +0000" stop="20260928153000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa III (17)</title>
   </programme>
   <programme start="20260928153000 +0000" stop="20260928160000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">2 baby na mizine I (3)</title>
   </programme>
-  <programme start="20260928160000 +0000" stop="20260928163000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928160000 +0000" stop="20260928162500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">2 baby na mizine I (4)</title>
   </programme>
-  <programme start="20260928163000 +0000" stop="20260928173500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928162500 +0000" stop="20260928173500 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Horná Dolná III (8)</title>
   </programme>
   <programme start="20260928173500 +0000" stop="20260928183000 +0000" channel="DajTo.webtv.sk">
@@ -889,10 +859,10 @@
   <programme start="20260928183000 +0000" stop="20260928204000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Prianie smrti</title>
   </programme>
-  <programme start="20260928204000 +0000" stop="20260928223500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20260928204000 +0000" stop="20260928223000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Bozk draka</title>
   </programme>
-  <programme start="20260927204000 +0000" stop="20260927225500 +0000" channel="Doma.webtv.sk">
+  <programme start="20260927204500 +0000" stop="20260927225500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Na výške s mamou</title>
   </programme>
   <programme start="20260927225500 +0000" stop="20260928003000 +0000" channel="Doma.webtv.sk">
@@ -922,10 +892,10 @@
   <programme start="20260928075000 +0000" stop="20260928082500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Frasier IV (8)</title>
   </programme>
-  <programme start="20260928082500 +0000" stop="20260928091000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260928082500 +0000" stop="20260928091500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med IX (2)</title>
   </programme>
-  <programme start="20260928091000 +0000" stop="20260928101000 +0000" channel="Doma.webtv.sk">
+  <programme start="20260928091500 +0000" stop="20260928101000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Zakázané ovocie III (34)</title>
   </programme>
   <programme start="20260928101000 +0000" stop="20260928110500 +0000" channel="Doma.webtv.sk">
@@ -1150,19 +1120,19 @@
   <programme start="20260928213500 +0000" stop="20260929002000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20260927205500 +0000" stop="20260927221500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260927210500 +0000" stop="20260927222500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20260927221500 +0000" stop="20260928003000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260927222500 +0000" stop="20260928004000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260928003000 +0000" stop="20260928030500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260928004000 +0000" stop="20260928025500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260928030500 +0000" stop="20260928050500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260928025500 +0000" stop="20260928045500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20260928050500 +0000" stop="20260928071500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20260928045500 +0000" stop="20260928071500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
   <programme start="20260928071500 +0000" stop="20260928092500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1631,7 +1601,7 @@
     <title lang="id">Krimi Online - Dana Jelinková Dudzíková</title>
   </programme>
   <programme start="20260928051000 +0000" stop="20260928055000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Michal Kiča a Pavol Hamžík</title>
   </programme>
   <programme start="20260928055000 +0000" stop="20260928063000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">V tieni zločinu - Vincent Bujňák</title>
@@ -1658,7 +1628,7 @@
     <title lang="id">Kukačky (4)</title>
   </programme>
   <programme start="20260928130000 +0000" stop="20260928134000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Igor Šimko a Marián Viskupič</title>
   </programme>
   <programme start="20260928134000 +0000" stop="20260928142000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Len peniaze nestačia - Peter Konečný</title>
