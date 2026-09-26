@@ -721,19 +721,13 @@
     <programme start="20260926160000 +0000" stop="20260927110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 27th September, Sunday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20260925160000 +0000" stop="20260926063000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th September, Saturday 2.30pm. Singapore Tennis Open 2026: Women’s Singles SF Match 1</title>
+    <programme start="20260925160000 +0000" stop="20260926100000 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 26th September, Saturday 6.00pm. Singapore Tennis Open 2026: Women’s Singles Semi-final- Leylah Fernandez CAN vs Maja Chwalinska POL</title>
     </programme>
-    <programme start="20260926063000 +0000" stop="20260926083000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles SF Match 1</title>
+    <programme start="20260926100000 +0000" stop="20260926123000 +0000" channel="Live 2.mewatch">
+        <title>Singapore Tennis Open 2026: Women’s Singles Semi-final - Leylah Fernandez CAN vs Maja Chwalinska POL</title>
     </programme>
-    <programme start="20260926083000 +0000" stop="20260926100000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th September, Saturday 6pm. Singapore Tennis Open 2026: Women’s Singles SF Match 2</title>
-    </programme>
-    <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles SF Match 2</title>
-    </programme>
-    <programme start="20260926120000 +0000" stop="20260926160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260926123000 +0000" stop="20260926160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 27th September, Sunday 5pm. Singapore Tennis Open 2026: Women’s Singles Final</title>
     </programme>
     <programme start="20260926160000 +0000" stop="20260927090000 +0000" channel="Live 2.mewatch">
