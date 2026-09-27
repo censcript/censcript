@@ -493,6 +493,9 @@
 <programme start="20260927154500 +0000" stop="20260927163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
+<programme start="20260927163000 +0000" stop="20260927174500 +0000" channel="Trans 7.vision">
+<title>Website Tengah Malam</title>
+</programme>
 <programme start="20260927174500 +0000" stop="20260927183000 +0000" channel="Trans 7.vision">
 <title>Superbike 2026</title>
 </programme>
@@ -573,6 +576,12 @@
 </programme>
 <programme start="20260927100000 +0000" stop="20260927110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="ANTV.vision">
+<title>Darah Pendekar</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927170000 +0000" channel="ANTV.vision">
+<title>Menjelang Ajal</title>
 </programme>
 <programme start="20260927170000 +0000" stop="20260927183000 +0000" channel="ANTV.vision">
 <title>A Hearty Response</title>
@@ -1488,13 +1497,4 @@
 </programme>
 <programme start="20260928093000 +0000" stop="20260928103000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
-</programme>
-<programme start="20260928103000 +0000" stop="20260928110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260928110000 +0000" stop="20260928120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20260927000000 +0000" stop="20260927030000 +0000" channel="DAAI TV.vision">
-<title>DAAI TV</title>
 </programme>
