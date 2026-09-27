@@ -15097,12 +15097,12 @@
     <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20260927143000 +0000" stop="20260927154500 +0000" channel="spotv.unifitv">
+  <programme start="20260927143000 +0000" stop="20260927154000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 LET: The Solheim Cup - Highlights</title>
     <desc lang="en">The Solheim Cup sees Team Europe and Team USA battle in the prestigious biennial match play event, showcasing the finest women's golf talent in a thrilling team contest.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20260927154500 +0000" stop="20260927185500 +0000" channel="spotv.unifitv">
+  <programme start="20260927154000 +0000" stop="20260927185500 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 WTCS Series, Pontevedra - Men's Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>

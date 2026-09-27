@@ -1,7620 +1,7293 @@
-<programme start="20260925232000 +0000" stop="20260926001500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>ER - Days Like This</title>
+<programme start="20260926230500 +0000" stop="20260927000500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Romesh Ranganathan&#039;s Parents&#039; Evening - Episode 3</title>
 </programme>
-<programme start="20260926001500 +0000" stop="20260926005900 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Hotel Inspector - Atlantic House, Bude</title>
+<programme start="20260927000500 +0000" stop="20260927010500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Cilla - Episode 1</title>
 </programme>
-<programme start="20260926005900 +0000" stop="20260926010400 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260927010500 +0000" stop="20260927051000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
-<programme start="20260926010400 +0000" stop="20260926053000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>Channel Off Air</title>
+<programme start="20260927051000 +0000" stop="20260927060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Unbeatable - Episode 29</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926062000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>Tipping Point: Lucky Stars - Episode 9</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Long Lost Family - Episode 2</title>
 </programme>
-<programme start="20260926110000 +0000" stop="20260926121500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>John and Lisa&#039;s Weekend Kitchen - Episode 8</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Heathrow: Britain&#039;s Busiest Airport - Episode 6</title>
 </programme>
-<programme start="20260926121500 +0000" stop="20260926152000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>Live: Horse Racing - Newmarket - Cambridgeshire: Day 1</title>
-</programme>
-<programme start="20260926152000 +0000" stop="20260926160000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>Rookie Nurses - Episode 1</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>Week In Review - Episode 29</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>News at 5:30</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20260927133000 +0000" stop="20260927143000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Deal or No Deal - Paisley</title>
 </programme>
-<programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Nationwide - Episode 109</title>
+<programme start="20260927143000 +0000" stop="20260927153000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>The Chase: Celebrity Special - Episode 3</title>
 </programme>
-<programme start="20260926002500 +0000" stop="20260926012500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>The Kelly Clarkson Show - Episode 15</title>
+<programme start="20260927153000 +0000" stop="20260927163000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Celebrity Catchphrase - Stephen Mangan, Kemi Rodgers and Tom Allen</title>
 </programme>
-<programme start="20260926012500 +0000" stop="20260926021000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>The Kelly Clarkson Show - Episode 77</title>
-</programme>
-<programme start="20260926021000 +0000" stop="20260926050000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Euronews</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926070500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Euronews</title>
-</programme>
-<programme start="20260926111000 +0000" stop="20260926120500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>The Repair Shop - Favourite Fixes</title>
-</programme>
-<programme start="20260926120500 +0000" stop="20260926121500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>RTÉ News: One O&#039;Clock</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926131500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>At Your Service - Shanbally House</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926141500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Donncha&#039;s Away Games - Episode 1</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926151000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>The Good Ship Murder - Alicante: Christmas Special</title>
-</programme>
-<programme start="20260926151000 +0000" stop="20260926164500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Marry Me in Yosemite</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926165500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Nuacht</title>
-</programme>
-<programme start="20260926165500 +0000" stop="20260926170000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>RTÉ News with ISL</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926170100 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>The Angelus - Field of Dreams, Curraheen, Cork</title>
-</programme>
-<programme start="20260926170100 +0000" stop="20260926173500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>RTÉ News: Six One</title>
-</programme>
-<programme start="20260926173500 +0000" stop="20260926192500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Ron&#039;s Gone Wrong</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926000500 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Spent - Episode 4</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926004000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>The Change - Episode 4</title>
-</programme>
-<programme start="20260926004000 +0000" stop="20260926050000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Euronews</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Euronews</title>
-</programme>
-<programme start="20260926114000 +0000" stop="20260926121500 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Home and Away - Episode 213</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926135500 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Key to Love</title>
-</programme>
-<programme start="20260926135500 +0000" stop="20260926145000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Bake Off: The Professionals - Fruit Cakes And Eclairs</title>
-</programme>
-<programme start="20260926145000 +0000" stop="20260926155000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Amazing Hotels: Life Beyond the Lobby - Hacienda Vira Vira, Chile</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926162000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>UCL Weekly Magazine - Episode 40</title>
-</programme>
-<programme start="20260926162000 +0000" stop="20260926165000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>Animal Control - Goats, Snakes, and Dogs</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926180000 +0000" channel="RTE_Two_HD.virginmediatv">
-    <title>James May&#039;s Great Explorers - Christopher Columbus</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926001000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>Bump - The Startle Reflex</title>
-</programme>
-<programme start="20260926001000 +0000" stop="20260926060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>The Chase - The Bloopers</title>
-</programme>
-<programme start="20260926110500 +0000" stop="20260926125000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>The Voice USA - The Battles, Part 3</title>
-</programme>
-<programme start="20260926125000 +0000" stop="20260926150000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>Live: UEFA Nations League Football - Group B1: Slovenia v Scotland</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>Peter Andre&#039;s 60 Minute Makeover - Episode 4</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>The 1% Club - Episode 6</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
-    <title>Help Me Buy a Home - Episode 1</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926002500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Malcolm in the Middle - Lois Strikes Back</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926010000 +0000" channel="TG4_HD.virginmediatv">
-    <title>Malcolm in the Middle - Hal&#039;s Dentist</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926012500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Nuacht TG4 - Episode 268</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926022500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Opry le Daniel - New Country</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926025500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Scéalta Na Gcorn - Derry</title>
-</programme>
-<programme start="20260926025500 +0000" stop="20260926032000 +0000" channel="TG4_HD.virginmediatv">
-    <title>Comhrá - Éamonn Keogh</title>
-</programme>
-<programme start="20260926032000 +0000" stop="20260926034500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Cúramóirí - Episode 3</title>
-</programme>
-<programme start="20260926034500 +0000" stop="20260926043000 +0000" channel="TG4_HD.virginmediatv">
-    <title>France 24</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="TG4_HD.virginmediatv">
-    <title>France 24</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926050200 +0000" channel="TG4_HD.virginmediatv">
-    <title>Cúla 4</title>
-</programme>
-<programme start="20260926050200 +0000" stop="20260926051300 +0000" channel="TG4_HD.virginmediatv">
-    <title>Seal le Sailí - Mín agus Garbh</title>
-</programme>
-<programme start="20260926051300 +0000" stop="20260926052000 +0000" channel="TG4_HD.virginmediatv">
-    <title>Garáiste Gecko - Cóiriú Ciúin; Sár-Mheicneoir; Ag Spraoi go Bog</title>
-</programme>
-<programme start="20260926052000 +0000" stop="20260926054500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Lyla in the Loop - Crack You Up; Power Out Cookout</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926060800 +0000" channel="TG4_HD.virginmediatv">
-    <title>Gailearaí Scú Scú - Episode 15</title>
-</programme>
-<programme start="20260926112500 +0000" stop="20260926133000 +0000" channel="TG4_HD.virginmediatv">
-    <title>Live: United Rugby Championship - Fidelity SecureDrive Lions v Leinster</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926165200 +0000" channel="TG4_HD.virginmediatv">
-    <title>Live: Rásaí Beo - Listowel Harvest Festival</title>
-</programme>
-<programme start="20260926165200 +0000" stop="20260926165500 +0000" channel="TG4_HD.virginmediatv">
-    <title>An Aimsir Láithreach - Episode 269</title>
-</programme>
-<programme start="20260926165500 +0000" stop="20260926175700 +0000" channel="TG4_HD.virginmediatv">
-    <title>Ollchlár Ros Na Rún - Episode 2</title>
-</programme>
-<programme start="20260926175700 +0000" stop="20260926180000 +0000" channel="TG4_HD.virginmediatv">
-    <title>An Aimsir Láithreach - Episode 269</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926004300 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Human Error - Episode 6</title>
-</programme>
-<programme start="20260926004300 +0000" stop="20260926005300 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926005300 +0000" stop="20260926010000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926054500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926064000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Heartbeat - An American in Aidensfield</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Emmerdale - Episode 184</title>
-</programme>
-<programme start="20260926123500 +0000" stop="20260926130500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Emmerdale - Episode 185</title>
-</programme>
-<programme start="20260926130500 +0000" stop="20260926133500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Emmerdale - Episode 186</title>
-</programme>
-<programme start="20260926133500 +0000" stop="20260926141000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Emmerdale - Episode 187</title>
-</programme>
-<programme start="20260926141000 +0000" stop="20260926161000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>A Touch of Frost - Care and Protection</title>
-</programme>
-<programme start="20260926161000 +0000" stop="20260926165000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>How to Clean Up for Cash - Episode 1</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926172000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Ed Finn&#039;s America - Episode 3</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926175000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Ed Finn&#039;s America - Episode 4</title>
-</programme>
-<programme start="20260926175000 +0000" stop="20260926185000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>The Hotel Inspector - Madonna Halley Hotel</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926011900 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>This Morning - Episode 189</title>
-</programme>
-<programme start="20260926011900 +0000" stop="20260926013000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926060500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926115500 +0000" stop="20260926125500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>Dress to Impress - Aaron</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926135500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>The Hotel Inspector - The Rutland Arms</title>
-</programme>
-<programme start="20260926135500 +0000" stop="20260926145500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>Who&#039;s Doing the Dishes? - Frazer Hines</title>
-</programme>
-<programme start="20260926145500 +0000" stop="20260926155500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>Storage Hoarders - Episode 2</title>
-</programme>
-<programme start="20260926155500 +0000" stop="20260926165000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>John and Lisa&#039;s Weekend Kitchen - Eat In, Not Out</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926175500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>Impossible Engineering - US Navy&#039;s Super Submarine</title>
-</programme>
-<programme start="20260926175500 +0000" stop="20260926190000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>River Monsters - Alligator Gar</title>
-</programme>
-<programme start="20260925231500 +0000" stop="20260926005500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Motherhood</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926012500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Nationwide - Episode 109</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926022500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>The Kelly Clarkson Show - Episode 15</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926031000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>The Kelly Clarkson Show - Episode 77</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926060000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Euronews</title>
-</programme>
-<programme start="20260926110500 +0000" stop="20260926121000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Ros na Rún - Episode 31</title>
-</programme>
-<programme start="20260926121000 +0000" stop="20260926130500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>The Repair Shop - Favourite Fixes</title>
-</programme>
-<programme start="20260926130500 +0000" stop="20260926131500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>RTÉ News: One O&#039;Clock</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926141500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>At Your Service - Shanbally House</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926151500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Donncha&#039;s Away Games - Episode 1</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926161000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>The Good Ship Murder - Alicante: Christmas Special</title>
-</programme>
-<programme start="20260926161000 +0000" stop="20260926174500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Marry Me in Yosemite</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926175500 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Nuacht</title>
-</programme>
-<programme start="20260926175500 +0000" stop="20260926180000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>RTÉ News with ISL</title>
-</programme>
-<programme start="20260925234000 +0000" stop="20260926002500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>The Celebrity Inner Circle - Episode 2</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926003000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Weather for the Week Ahead</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Tech Now</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Streets of Gold: Mumbai - Episode 6</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Roelf Meyer: The Interview</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>The Media Show</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>The Travel Show - How To Eat Like An Italian</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Breakfast</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926121000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC Weekend News</title>
-</programme>
-<programme start="20260926121000 +0000" stop="20260926121500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC Weather</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926124500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Homes Under the Hammer - A Riverside Grade Two Listed Cottage</title>
-</programme>
-<programme start="20260926124500 +0000" stop="20260926151000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Live: Sportscene - UEFA Nations League, Group B1: Slovenia v Scotland</title>
-</programme>
-<programme start="20260926151000 +0000" stop="20260926161000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Garden Rescue - (Extended Versions):Egham and Tamworth</title>
-</programme>
-<programme start="20260926161000 +0000" stop="20260926162000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC Weekend News</title>
-</programme>
-<programme start="20260926162000 +0000" stop="20260926163000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC Newsline</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926171500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>The Celebrity Inner Circle - Episode 3</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926194500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Strictly Come Dancing - Week 1</title>
-</programme>
-<programme start="20260925235000 +0000" stop="20260926005000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Saving Lives at Sea - Lifeguard Emergency</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926012000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Panorama - Grooming Gangs: Why Were We Ignored?</title>
-</programme>
-<programme start="20260926012000 +0000" stop="20260926022000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>The Big Deal - Episode 6</title>
-</programme>
-<programme start="20260926022000 +0000" stop="20260926052500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>This Is BBC TWO</title>
-</programme>
-<programme start="20260926052500 +0000" stop="20260926053500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Piripenguins - Pancake&#039;s Big Beak Freakout</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926054500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Big Lizard - All About Coral</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926055000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Weasy Family - Mission Calm</title>
-</programme>
-<programme start="20260926055000 +0000" stop="20260926060500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Super Happy Magic Forest - New Broom</title>
-</programme>
-<programme start="20260926093500 +0000" stop="20260926121500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>The Life and Death of Colonel Blimp</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926124500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Marcus Wareing&#039;s Tales from a Kitchen Garden - Episode 1</title>
-</programme>
-<programme start="20260926124500 +0000" stop="20260926131500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Nadiya&#039;s Everyday Baking - Afternoon Tea</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926134500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Race Against the Tide - Episode 6</title>
-</programme>
-<programme start="20260926134500 +0000" stop="20260926153000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Lover Come Back</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926161500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Flog It! - Sheffield 14</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926184500 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Live: Super League Rugby - Semi-Final: Wigan Warriors v Wakefield Trinity</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926002000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>ER - And Baby Makes Two</title>
-</programme>
-<programme start="20260926002000 +0000" stop="20260926011500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>ER - Days Like This</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926015900 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>The Hotel Inspector - Atlantic House, Bude</title>
-</programme>
-<programme start="20260926015900 +0000" stop="20260926020400 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926020400 +0000" stop="20260926063000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926131500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>John and Lisa&#039;s Weekend Kitchen - Episode 8</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926162000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>Live: Horse Racing - Newmarket - Cambridgeshire: Day 1</title>
-</programme>
-<programme start="20260926162000 +0000" stop="20260926170000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>Rookie Nurses - Episode 1</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
-    <title>Week In Review - Episode 29</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>News at 5:30</title>
 </programme>
-<programme start="20260925235000 +0000" stop="20260926004000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Ramsay&#039;s Kitchen Nightmares USA - Flamango&#039;s</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+    <title>Dermot&#039;s Taste of Ireland - Wexford County</title>
 </programme>
-<programme start="20260926004000 +0000" stop="20260926010500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Come Dine with Me - Boston: Annika</title>
+<programme start="20260926222500 +0000" stop="20260927003000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>The Gift</title>
 </programme>
-<programme start="20260926010500 +0000" stop="20260926013500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Come Dine with Me - Boston: Katy</title>
+<programme start="20260927003000 +0000" stop="20260927014000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Wolf Hall: The Mirror and the Light - Jenneke</title>
 </programme>
-<programme start="20260926013500 +0000" stop="20260926020000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Come Dine with Me - Boston: Adrian</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926022500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Come Dine with Me - Boston: Sylwia</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926025500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Come Dine with Me - Boston: Carolyn</title>
-</programme>
-<programme start="20260926025500 +0000" stop="20260926035000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Inside the World&#039;s Most Luxurious... - Cruises</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926044000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Location, Location, Location - North London</title>
-</programme>
-<programme start="20260926044000 +0000" stop="20260926045000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Sunday Brunch</title>
-</programme>
-<programme start="20260926045000 +0000" stop="20260926051500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>A Place in the Sun - Valencia</title>
-</programme>
-<programme start="20260926051500 +0000" stop="20260926054500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Cheers - Teacher&#039;s Pet</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926061000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Cheers - The Mail Goes to Jail</title>
-</programme>
-<programme start="20260926113500 +0000" stop="20260926121000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Four in a Bed - The National Hotel</title>
-</programme>
-<programme start="20260926121000 +0000" stop="20260926124000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Four in a Bed - The Black Bull Inn</title>
-</programme>
-<programme start="20260926124000 +0000" stop="20260926131000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Four in a Bed - Braeview Glamping</title>
-</programme>
-<programme start="20260926131000 +0000" stop="20260926134500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Four in a Bed - Payment Day</title>
-</programme>
-<programme start="20260926134500 +0000" stop="20260926151500 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>The Great British Bake Off - Cake Week</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926160000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>The Great British Bake Off: Second Helpings - Episode 1</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Channel 4 News</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926190000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260925224000 +0000" stop="20260926012500 +0000" channel="E4.virginmediatv">
-    <title>Kingsman: The Golden Circle</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926021500 +0000" channel="E4.virginmediatv">
-    <title>Below Deck Down Under - Making Enemies</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926024000 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - I, Carumbus</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926030500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Double Double Boy in Trouble</title>
-</programme>
-<programme start="20260926030500 +0000" stop="20260926033000 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Do Pizza Bots Dream of Electric Guitars</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926035500 +0000" channel="E4.virginmediatv">
-    <title>The Goldbergs - Alligator Schwartz</title>
-</programme>
-<programme start="20260926035500 +0000" stop="20260926042000 +0000" channel="E4.virginmediatv">
-    <title>The Goldbergs - The Proposal</title>
-</programme>
-<programme start="20260926042000 +0000" stop="20260926050000 +0000" channel="E4.virginmediatv">
-    <title>Brooklyn Nine-Nine - Fancy Brudgom</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926061000 +0000" channel="E4.virginmediatv">
-    <title>LEGO Masters: Grand Masters of the Galaxy - Run the Gauntlet</title>
-</programme>
-<programme start="20260926111500 +0000" stop="20260926121500 +0000" channel="E4.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Curtis House</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926131500 +0000" channel="E4.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Calumet Inn</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926134500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Dude, Where&#039;s My Ranch?</title>
-</programme>
-<programme start="20260926134500 +0000" stop="20260926141500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Old Yeller-Belly</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926144500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Brake My Wife, Please</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926151500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - The Bart of War</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926154500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Moe Baby Blues</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926161500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Regarding Margie</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926164500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - The Monkey Suit</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926171500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Marge and Homer Turn a Couple Play</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926174500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Bart Stops to Smell the Roosevelts</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926181500 +0000" channel="E4.virginmediatv">
-    <title>The Simpsons - Replaceable You</title>
-</programme>
-<programme start="20260925232000 +0000" stop="20260926002500 +0000" channel="More4.virginmediatv">
-    <title>999: On the Front Line - Episode 3</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926013000 +0000" channel="More4.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 5</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="More4.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 4</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="More4.virginmediatv">
-    <title>Food Unwrapped - Deep South Adventure</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926075500 +0000" channel="More4.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926113500 +0000" stop="20260926123500 +0000" channel="More4.virginmediatv">
-    <title>A Place in the Sun - St Lucia</title>
-</programme>
-<programme start="20260926123500 +0000" stop="20260926134000 +0000" channel="More4.virginmediatv">
-    <title>A Place in the Sun - Andalucía, Spain</title>
-</programme>
-<programme start="20260926134000 +0000" stop="20260926144000 +0000" channel="More4.virginmediatv">
-    <title>A Place in the Sun - Andalucía, Spain</title>
-</programme>
-<programme start="20260926144000 +0000" stop="20260926151500 +0000" channel="More4.virginmediatv">
-    <title>Come Dine with Me - Essex: Natalie</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926155000 +0000" channel="More4.virginmediatv">
-    <title>Come Dine with Me - Essex: Alison</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926162000 +0000" channel="More4.virginmediatv">
-    <title>Come Dine with Me - Essex: Amarinder</title>
-</programme>
-<programme start="20260926162000 +0000" stop="20260926165000 +0000" channel="More4.virginmediatv">
-    <title>Come Dine with Me - Essex: Donia</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926172000 +0000" channel="More4.virginmediatv">
-    <title>Come Dine with Me - Essex: Dean</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926175500 +0000" channel="More4.virginmediatv">
-    <title>Four in a Bed - Abbey House</title>
-</programme>
-<programme start="20260926175500 +0000" stop="20260926182500 +0000" channel="More4.virginmediatv">
-    <title>Four in a Bed - Compton House</title>
-</programme>
-<programme start="20260925224500 +0000" stop="20260926004500 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
-</programme>
-<programme start="20260926004500 +0000" stop="20260926011500 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Grimsburg - How to Lose an Ankle Monitor in 10 Days</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926014500 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Grimsburg - Across the Flutiverse</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926021000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Road Wars - Episode 5</title>
-</programme>
-<programme start="20260926021000 +0000" stop="20260926030000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Hawaii Five-0 - Ai No I Ka &#039;Ape He Mane&#039;o No Ko Ka Nuku</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>S.W.A.T. - Hopeless Sinner</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>S.W.A.T. - Under Fire</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926064500 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Alvin and the Chipmunks: Chipwrecked</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Superstore - Spring Cleaning</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The Simpsons - Lard of the Dance</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926160000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The Simpsons - Homer to the Max</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The Simpsons - I&#039;m With Cupid</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>FBI - Creating a Monster</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>FBI: International - Keen as a Bean</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>FBI: Most Wanted - A Man Without a Country</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Motorway Patrol - Episode 7</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Motorway Patrol - Episode 8</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Brit Cops: Law and Disorder - Gun Arrest</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Sun, Sea and A&amp;E - Bomb</title>
-</programme>
-<programme start="20260926114000 +0000" stop="20260926122000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Caught Red Handed - Episode 11</title>
-</programme>
-<programme start="20260926122000 +0000" stop="20260926130000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Caught Red Handed - Episode 12</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 4</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 5</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 6</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 7</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 8</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 9</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 10</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 11</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 12</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_Witness_HD.virginmediatv">
-    <title>Nothing to Declare - Episode 13</title>
-</programme>
-<programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Breeders - No Cure (Part 1)</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926005500 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Breeders - No Cure (Part 2)</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926013000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 6</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Community - Basic Intergluteal Numismatics</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Community - Cooperative Polygraphy</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Sort Of - Sort of Gone</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Sort Of - Sort of Back</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Sort Of - Sort of Mary Poppins</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Community - Heroic Origins</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 1</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 2</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 3</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 4</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 5</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Two Weeks To Live - Episode 6</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Will &amp; Grace - Dolls and Dolls</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Will &amp; Grace - May Divorce Be With You</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Will &amp; Grace - 23</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>Will &amp; Grace - 24</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_Comedy_HD.virginmediatv">
-    <title>The Office - Viewing Party</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>How I Caught the Killer - The Suitcase Murderer</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>The Real Manhunter - Sian Blake</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Stop Search Seize - Episode 10</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Brit Cops: Law and Disorder - Gun Arrest</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Motorway Patrol - Episode 9</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Motorway Patrol - Episode 10</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Border Security: America&#039;s Front Line - Episode 1</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Murder Uncut - The Sergeant&#039;s Wife</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>World&#039;s Most Evil Killers - Diane Downs</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Britain&#039;s Most Evil Killers - David Heiss</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>The Real Manhunter - Chohan Family</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926165500 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>Killer in My Village - Victoria Greenwood</title>
-</programme>
-<programme start="20260926165500 +0000" stop="20260926175500 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>The Girl on the Milk Carton - A Devastating Disappearance</title>
-</programme>
-<programme start="20260926175500 +0000" stop="20260926190000 +0000" channel="Sky_Crime_HD.virginmediatv">
-    <title>The Girl on the Milk Carton - A Monster Revealed</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>London Calling - Every Picture Tells a Story</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926031000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Blur: Live at Wembley Stadium</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926040500 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>The Art of the Garden - Cleve West, Horatio&#039;s Garden, Salisbury</title>
-</programme>
-<programme start="20260926040500 +0000" stop="20260926050000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>The Prince&#039;s Master Crafters: The Next Generation - Stained Glass</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926063000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Peter and the Wolf</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Opry Live - Kelsea Ballerini Ashley Cooke John Foster Ella Langley</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Discovering Film - Robert De Niro</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926154500 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Ian Fleming The Curse Of Bond: The Spy Who Killed Me</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926164500 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Discovering Film - Jane Fonda</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926174500 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>Discovering Film - Gary Oldman</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="Sky_Arts_HD.virginmediatv">
-    <title>How The Beatles Changed the World</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Africa&#039;s Wild Horizons - Africa&#039;s Great Oasis - The Okavango</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Becoming Orangutan - Growing Pains</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Malawi Wildlife Rescue - Big Buck Chase</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Great Blue Wild - Cozumel</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Hope for Wildlife - Frozen Hope</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Strange Creatures - Stinkers</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Strange Creatures - Winged Weirdos</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Violent Earth - Hurricane</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Deep Dive Australia - Tropical Shores</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Deep Dive Australia - The Cool South</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Deep Dive Australia - The Wild West</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>Attenborough&#039;s Global Adventure - Episode 1</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Nature_HD.virginmediatv">
-    <title>David Attenborough&#039;s Global Adventure: Home Planet</title>
-</programme>
-<programme start="20260925234500 +0000" stop="20260926004500 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Dart Kings - Eric Bristow</title>
-</programme>
-<programme start="20260926004500 +0000" stop="20260926014500 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Dart Kings - Jocky Wilson</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926024500 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Dart Kings - Phil Taylor</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926040000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Adam Hills: Foot Fault</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Discovering Film - William Holden</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Discovering Film - Joan Crawford</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Terry Venables: A Man Can Dream</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926145000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Steve McQueen: The Lost Movie</title>
-</programme>
-<programme start="20260926145000 +0000" stop="20260926153000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>The Great Horsemeat Scandal</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926171500 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>I Am Richard Pryor</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926190000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
-    <title>Gene Wilder</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Road Wars - Episode 17</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Police 24/7 - Man&#039;s Best Friend</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Highway Patrol - Two for the Price of One</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Highway Patrol - You Should Buy Me a Slab</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Border Patrol - Episode 9</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Border Patrol - Episode 10</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Highway Cops - Episode 7</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Highway Cops - Episode 8</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Border Patrol - Episode 7</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Border Patrol - Episode 8</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Caught on Dashcam - Episode 7</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926134000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Caught Red Handed - Episode 7</title>
-</programme>
-<programme start="20260926134000 +0000" stop="20260926142000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Caught Red Handed - Episode 8</title>
-</programme>
-<programme start="20260926142000 +0000" stop="20260926150000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Caught Red Handed - Episode 9</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Monkey Life - Episode 13</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Monkey Life - Episode 14</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Africa&#039;s Wild Horizons - The Waterberg - Mountains of Life</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Mix_HD.virginmediatv">
-    <title>Africa&#039;s Hunters - The Hungry Leopard</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Death in Paradise - Murder in the Stars</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926014500 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Murdoch Mysteries - Crabtree a la Carte</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926030000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Murdoch Mysteries - The Great White Moose</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926061000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Father Brown - The Sands of Time</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Father Brown - The Wheels of Wrath</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Father Brown - The Serpent Within</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>Murdoch Mysteries: Home for the Holidays</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="UandAlibi_HD.virginmediatv">
-    <title>The Mentalist - Blood and Sand</title>
-</programme>
-<programme start="20260925233500 +0000" stop="20260926001500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>The Royle Family - Making Ends Meet</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926005500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Not Going Out - Alcohol</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926014000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Mrs Brown&#039;s Boys - SuperMammy</title>
-</programme>
-<programme start="20260926014000 +0000" stop="20260926021000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Black Ops - Episode 6</title>
-</programme>
-<programme start="20260926021000 +0000" stop="20260926030000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>The Green Green Grass - The Final Curtain</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926063000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926113500 +0000" stop="20260926121500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Open All Hours - Duet for Solo Bicycle</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926125500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Open All Hours - How to Ignite Your Errand Boy</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926133500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Open All Hours - The Man From Down Under</title>
-</programme>
-<programme start="20260926133500 +0000" stop="20260926141000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Open All Hours - The Cool Cocoa Tin Lid</title>
-</programme>
-<programme start="20260926141000 +0000" stop="20260926152500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Only Fools and Horses... - Little Problems</title>
-</programme>
-<programme start="20260926152500 +0000" stop="20260926160000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>The Vicar of Dibley - Dibley Live</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926164000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>The Vicar of Dibley - Animals</title>
-</programme>
-<programme start="20260926164000 +0000" stop="20260926171500 +0000" channel="UandGold_HD.virginmediatv">
-    <title>Open All Hours - Beware of the Dog</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926180000 +0000" channel="UandGold_HD.virginmediatv">
-    <title>The Vicar of Dibley - Community Spirit</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926001500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>8 Out of 10 Cats - Episode 9</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926005000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>8 Out of 10 Cats - Best Bits</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926011500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Whose Line Is It Anyway? USA - Jeff Davis 16</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926014500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Whose Line Is It Anyway? USA - Gary Anthony Williams 11</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926023000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Michael McIntyre&#039;s Big Show - Episode 5</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926025000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Key &amp; Peele - Sexy Vampires</title>
-</programme>
-<programme start="20260926025000 +0000" stop="20260926031500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show - Merritt Wever</title>
-</programme>
-<programme start="20260926031500 +0000" stop="20260926050000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Routine</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Cruise TV with LoveitBookit</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Michael McIntyre&#039;s Big Show - Episode 5</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With Two Parts</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With All the Poker</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One Where the Monkey Gets Away</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926145500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Evil Orthodontist</title>
-</programme>
-<programme start="20260926145500 +0000" stop="20260926152500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Fake Monica</title>
-</programme>
-<programme start="20260926152500 +0000" stop="20260926155500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Ick Factor</title>
-</programme>
-<programme start="20260926155500 +0000" stop="20260926162000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Birth</title>
-</programme>
-<programme start="20260926162000 +0000" stop="20260926165000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One Where Rachel Finds Out</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926172000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With Ross&#039;s New Girlfriend</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926175000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Breast Milk</title>
-</programme>
-<programme start="20260926175000 +0000" stop="20260926200000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Coming to America</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926001000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 5</title>
-</programme>
-<programme start="20260926001000 +0000" stop="20260926005000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 6</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926015000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Not Going Out - Resolutions</title>
-</programme>
-<programme start="20260926015000 +0000" stop="20260926022500 +0000" channel="UandDave_HD.virginmediatv">
-    <title>House of Games - Episode 25</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926030000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Judge Romesh - Episode 7</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926061000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926114000 +0000" stop="20260926122000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 5</title>
-</programme>
-<programme start="20260926122000 +0000" stop="20260926130000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 6</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926134000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 7</title>
-</programme>
-<programme start="20260926134000 +0000" stop="20260926142000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 8</title>
-</programme>
-<programme start="20260926142000 +0000" stop="20260926152000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Wagging Rights - Episode 2</title>
-</programme>
-<programme start="20260926152000 +0000" stop="20260926160000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - More Unseen Bits</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926164000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - At Christmas</title>
-</programme>
-<programme start="20260926164000 +0000" stop="20260926172000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 1</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926180000 +0000" channel="UandDave_HD.virginmediatv">
-    <title>Would I Lie to You? - Episode 2</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Primeval - In The Good Old Days</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Fantasy Island - Welcome to the Snow Globe Part Two</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>The Walking Dead - The Calm Before</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Most Haunted - Dalston Hall</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Most Haunted - Somerleyton Hall, Suffolk</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Most Haunted - The Chough Hotel</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Star Trek: Deep Space Nine - Emissary</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Star Trek: Deep Space Nine - Past Prologue</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Star Trek: Deep Space Nine - A Man Alone</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Star Trek: Voyager - Homestead</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Star Trek: Voyager - Renaissance Man</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
-    <title>Star Trek: Voyager - Endgame</title>
-</programme>
-<programme start="20260925233500 +0000" stop="20260926001000 +0000" channel="UandW_HD.virginmediatv">
-    <title>Ghosts - Something To Share?</title>
-</programme>
-<programme start="20260926001000 +0000" stop="20260926004000 +0000" channel="UandW_HD.virginmediatv">
-    <title>My Family - Imperfect Strangers</title>
-</programme>
-<programme start="20260926004000 +0000" stop="20260926011000 +0000" channel="UandW_HD.virginmediatv">
-    <title>My Family - The Second Greatest Story Ever Told</title>
-</programme>
-<programme start="20260926011000 +0000" stop="20260926020000 +0000" channel="UandW_HD.virginmediatv">
-    <title>My Family - Waiting to Inhale</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926051000 +0000" channel="UandW_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926051000 +0000" stop="20260926060000 +0000" channel="UandW_HD.virginmediatv">
-    <title>The Bill - An Unwanted Death</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="UandW_HD.virginmediatv">
-    <title>999: Rescue Squad - Episode 3</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="UandW_HD.virginmediatv">
-    <title>999: Rescue Squad - Episode 4</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="UandW_HD.virginmediatv">
-    <title>999: Rescue Squad - Episode 5</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="UandW_HD.virginmediatv">
-    <title>999: Rescue Squad - Episode 6</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="UandW_HD.virginmediatv">
-    <title>999: Rescue Squad - Episode 7</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="UandW_HD.virginmediatv">
-    <title>999: Rescue Squad - Episode 8</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Find It, Fix It, Flog It - Episode 15</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Secrets of the London Underground - Brompton Road</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926051000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926051000 +0000" stop="20260926061000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Secrets of the London Underground - Kings Cross</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Flipping Bangers - Reliant Kitten</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Canal Boat Diaries - Wolverhampton to Anglesey Basin</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Canal Boat Diaries - Great Barr to Atherstone</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Canal Boat Diaries - Atherstone to Moira</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Frozen Planet II - Frozen Lands</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="UandYesterday_HD.virginmediatv">
-    <title>Frozen Planet II - Our Frozen Planet</title>
-</programme>
-<programme start="20260925235500 +0000" stop="20260926010000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Taskmaster - OLLIE</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="E4_Extra.virginmediatv">
-    <title>8 Out of 10 Cats Does Countdown - Episode 3</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926060500 +0000" channel="E4_Extra.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Don&#039;t Tell the Bride - The Afternoon Tea Stag Do One</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Undercover Boss USA - Taco Bueno</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Undercover Boss USA - Associa</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - Social</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - Lowery&#039;s Seafood Restaurant</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="E4_Extra.virginmediatv">
-    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - Blend on Main</title>
-</programme>
-<programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - Weekend at Barry&#039;s</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926005000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - The Jenny, the Baker, the Prosthetics Maker</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926012000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Pawn Stars - Behind the Wheel</title>
-</programme>
-<programme start="20260926012000 +0000" stop="20260926015000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Pawn Stars - Locked and Loaded</title>
-</programme>
-<programme start="20260926015000 +0000" stop="20260926024000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>World War II: Witness to War - Final Victory</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926032500 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Rust Valley Restorers - The Family Circus</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926041000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Rust Valley Restorers - No Reserve</title>
-</programme>
-<programme start="20260926041000 +0000" stop="20260926050000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Rust Valley Restorers - Scouts Honour</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Secrets of Great British Castles - Stirling Castle</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Hunters - Never a Safe Bet</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Hunters - Checkmate</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - Indiana Ivy and the Temple of Phlegm</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - Tour de Van Nuys</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - Bo-ZAK That Whip!</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - We Don&#039;t Use the S Word Around Here</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - Talkin&#039; in Cody</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Storage Wars - Om Sweet Om</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Egypt&#039;s Unexplained Files - Building A Superpower</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_History_HD.virginmediatv">
-    <title>Egypt&#039;s Unexplained Files - Death and the After Life</title>
-</programme>
-<programme start="20260925233500 +0000" stop="20260926000500 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>Top of the Pops - 28/04/2000</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926003500 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>Top of the Pops - 05/05/2000</title>
-</programme>
-<programme start="20260926003500 +0000" stop="20260926011000 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>Top of the Pops - 25 September 1980</title>
-</programme>
-<programme start="20260926011000 +0000" stop="20260926014000 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>Top of the Pops - 25 September 1986</title>
-</programme>
-<programme start="20260926014000 +0000" stop="20260926022500 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>Reel Stories - Sting</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926062500 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>This Is BBC Four</title>
-</programme>
-<programme start="20260926102500 +0000" stop="20260926142500 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>This Is BBC Four</title>
-</programme>
-<programme start="20260926142500 +0000" stop="20260926180000 +0000" channel="BBC_FOUR.virginmediatv">
-    <title>This Is BBC Four</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Middle - The Wonderful World of Hecks</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="TLC_HD.virginmediatv">
-    <title>Dr. Pimple Popper - Bubble, Bubble, Ear&#039;s in Trouble!</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926033000 +0000" channel="TLC_HD.virginmediatv">
-    <title>My 600-Lb. Life - Lucas&#039; Journey</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="TLC_HD.virginmediatv">
-    <title>Say Yes to the Dress UK - Fifty Shades of Bridal</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="TLC_HD.virginmediatv">
-    <title>Say Yes to the Dress - Mom, You&#039;ve Said Just Enough</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="TLC_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="TLC_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The 21-Second Excitation</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Boyfriend Complexity</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Alien Parasite Hypothesis</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Justice League Recombination</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Bus Pants Utilization</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Love Car Displacement</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Thespian Catalyst</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Benefactor Factor</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Cohabitation Formulation</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Toast Derivation</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Prestidigitation Approximation</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="TLC_HD.virginmediatv">
-    <title>The Big Bang Theory - The Zarnecki Incursion</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="True_Crime.virginmediatv">
-    <title>UK Crime Files - Wrongful Revenge</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="True_Crime.virginmediatv">
-    <title>This Much Is True Crime - Lucy Letby: What They&#039;re Not Telling You</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="True_Crime.virginmediatv">
-    <title>Britain&#039;s Countryside Killers - A Storm Across Skye</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926035000 +0000" channel="True_Crime.virginmediatv">
-    <title>48 Hours - It&#039;s About Danni</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926041500 +0000" channel="True_Crime.virginmediatv">
-    <title>Close Calls: On Camera - Episode 1</title>
-</programme>
-<programme start="20260926041500 +0000" stop="20260926044500 +0000" channel="True_Crime.virginmediatv">
-    <title>Close Calls: On Camera - Episode 2</title>
-</programme>
-<programme start="20260926044500 +0000" stop="20260926080000 +0000" channel="True_Crime.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Love Is Legally Blind!; Intervention or Bullying?</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Honeymoon That Never Happened!; Senior Sibling Stealing?</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Trouble Money!; Waterfront Property Nightmare; $5,000 Friend or Foe?</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Teen&#039;s First Car Calamity!</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Coveted Corvette; Deer in the Headlights!</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Caregiver Catastrophe</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926152500 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Almost Homeless; Fight Over a Lemon!; Animal House</title>
-</programme>
-<programme start="20260926152500 +0000" stop="20260926155000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Party Pony Abuse?!; Twitter Friend Payback!</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926161500 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Roommate Meets Jail Cell!; Pushing, Shoving and Bleeding?!</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926164000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Stop Laughing! Your Dog Is Dead!; Man Jumps on One Foot for the Judge!</title>
-</programme>
-<programme start="20260926164000 +0000" stop="20260926170500 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - He&#039;ll Never Find Me in Egypt!; Oh No! Judge Judy&#039;s Making a Call!</title>
-</programme>
-<programme start="20260926170500 +0000" stop="20260926173000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Extreme Bullying and Life-Threatening Texts?!</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="True_Crime.virginmediatv">
-    <title>Judge Judy - Artist&#039;s Botched Gallery Attempt!</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926003000 +0000" channel="ITV3.virginmediatv">
-    <title>Scott &amp; Bailey - Ghost</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926012500 +0000" channel="ITV3.virginmediatv">
-    <title>The Royal - If Not for You</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926013000 +0000" channel="ITV3.virginmediatv">
-    <title>Unwind with ITV - Episode 321</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926050000 +0000" channel="ITV3.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="ITV3.virginmediatv">
-    <title>George and Mildred - Finders Keepers</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926074500 +0000" channel="ITV3.virginmediatv">
-    <title>Inspector Morse - The Silent World of Nicholas Quinn</title>
-</programme>
-<programme start="20260926110500 +0000" stop="20260926130500 +0000" channel="ITV3.virginmediatv">
-    <title>Agatha Christie&#039;s Poirot - Five Little Pigs</title>
-</programme>
-<programme start="20260926130500 +0000" stop="20260926150500 +0000" channel="ITV3.virginmediatv">
-    <title>Midsomer Murders - Murder on St Malley&#039;s Day</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926170500 +0000" channel="ITV3.virginmediatv">
-    <title>Midsomer Murders - A Talent for Life</title>
-</programme>
-<programme start="20260926170500 +0000" stop="20260926190500 +0000" channel="ITV3.virginmediatv">
-    <title>Midsomer Murders - Painted in Blood</title>
-</programme>
-<programme start="20260925220500 +0000" stop="20260926000500 +0000" channel="ITV4.virginmediatv">
-    <title>All Elite Wrestling: Dynamite</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926010000 +0000" channel="ITV4.virginmediatv">
-    <title>Dark Side of the Ring - Brian Pillman Part Two</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926012000 +0000" channel="ITV4.virginmediatv">
-    <title>Two and a Half Men - A Jock Strap in Hell</title>
-</programme>
-<programme start="20260926012000 +0000" stop="20260926020000 +0000" channel="ITV4.virginmediatv">
-    <title>Unwind with ITV - Episode 231</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926050000 +0000" channel="ITV4.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926052000 +0000" channel="ITV4.virginmediatv">
-    <title>ITV Racing - The Derby Through the Years</title>
-</programme>
-<programme start="20260926052000 +0000" stop="20260926055000 +0000" channel="ITV4.virginmediatv">
-    <title>The Protectors - See No Evil</title>
-</programme>
-<programme start="20260926055000 +0000" stop="20260926071000 +0000" channel="ITV4.virginmediatv">
-    <title>The Big Match Revisited - 13 September 1980</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130500 +0000" channel="ITV4.virginmediatv">
-    <title>The Professionals - Blood Sports</title>
-</programme>
-<programme start="20260926130500 +0000" stop="20260926152500 +0000" channel="ITV4.virginmediatv">
-    <title>Hornblower - The Duchess and the Devil</title>
-</programme>
-<programme start="20260926152500 +0000" stop="20260926173500 +0000" channel="ITV4.virginmediatv">
-    <title>Sharpe - Sharpe&#039;s Eagle</title>
-</programme>
-<programme start="20260926173500 +0000" stop="20260926184000 +0000" channel="ITV4.virginmediatv">
-    <title>The Professionals - Episode 1</title>
-</programme>
-<programme start="20260925231000 +0000" stop="20260926004000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Lee Evans: Live in Scotland</title>
-</programme>
-<programme start="20260926004000 +0000" stop="20260926015000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Jimmy Carr&#039;s Am I the A******? - A Burger Burglar and a Supermarket Sweeper</title>
-</programme>
-<programme start="20260926015000 +0000" stop="20260926021500 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Comedy Central Live - Sofie Hagen</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926024000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Spin City - Dick Clark&#039;s Rockin&#039; Make Out Party &#039;99</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926030000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Spin City - Back to the Future IV: Judgement Day</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926032500 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Impractical Jokers - Autograph Corrector</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926035000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Impractical Jokers - The Bogey Man</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926041000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Impractical Jokers - Hell on Wheels</title>
-</programme>
-<programme start="20260926041000 +0000" stop="20260926043500 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Everybody Loves Raymond - The Bigger Person</title>
-</programme>
-<programme start="20260926043500 +0000" stop="20260926050000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Everybody Loves Raymond - The First Time</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926052000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Everybody Loves Raymond - Say Uncle</title>
-</programme>
-<programme start="20260926052000 +0000" stop="20260926060000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Everybody Loves Raymond - Separation</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - The End of an Era</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Every Witch Way but Loose</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Double-Time</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - The Halloween Scene</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Heart of the Matter</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - You Can&#039;t Twin</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - House of PI&#039;s</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Welcome, Traveler</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Some of My Best Friends Are Half-Mortals</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Lost at C</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - Sabrina&#039;s Perfect Christmas</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Comedy_Extra.virginmediatv">
-    <title>Sabrina, the Teenage Witch - My Best Shot</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926002500 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Drug Addict Destruction?; Restraining Order Damages; Freeway Crash</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926005000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Pawned Family Jewelry; Hurricane Season Dog Fight; Motorcycle Mayhem</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926011500 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Brother/Sister Lease War!; BFs Not Forever; Deceased Father&#039;s Harley</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926014000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Fish Tank Destruction!</title>
-</programme>
-<programme start="20260926014000 +0000" stop="20260926020500 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Eco Friendly Backfire!; Betrayal of Trust!</title>
-</programme>
-<programme start="20260926020500 +0000" stop="20260926023000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Divorce Slap in the Face!; Wrong Side of the Law?</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Sick Before the Wedding!; Three&#039;s a Crowd!</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Mom&#039;s Million Dollar Settlement!; Stucco Job From Hell!</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Judge Judy - Motorcycle Racing Family Drama!; Single Old Lady Scam?!</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Medical Detectives - Gold Rush</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Medical Detectives - Four on the Floor</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926080000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Fraud Squad - NHS</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>Fraud Squad - NHS</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>UK Crime Files - Blackpool Double Murder</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>UK Crime Files - The Blackpool Poisoner</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>UK Crime Files - Drug Den Murder</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="True_Crime_Xtra.virginmediatv">
-    <title>UK Crime Files - The Tattoo Clue</title>
-</programme>
-<programme start="20260925223000 +0000" stop="20260926002500 +0000" channel="Legend.virginmediatv">
-    <title>Upgrade</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926022000 +0000" channel="Legend.virginmediatv">
-    <title>The Guest</title>
-</programme>
-<programme start="20260926022000 +0000" stop="20260926040000 +0000" channel="Legend.virginmediatv">
-    <title>The Legend of the 7 Golden Vampires</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Legend.virginmediatv">
-    <title>..programmes start at 5.30am</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926060000 +0000" channel="Legend.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926125000 +0000" channel="Legend.virginmediatv">
-    <title>Fair Wind to Java</title>
-</programme>
-<programme start="20260926125000 +0000" stop="20260926153500 +0000" channel="Legend.virginmediatv">
-    <title>The Flight of the Phoenix</title>
-</programme>
-<programme start="20260926153500 +0000" stop="20260926173000 +0000" channel="Legend.virginmediatv">
-    <title>Lancaster Skies</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926190000 +0000" channel="Legend.virginmediatv">
-    <title>Comanche Station</title>
-</programme>
-<programme start="20260925223000 +0000" stop="20260926003000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>The Hitcher</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926021500 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>Assault on Station 33</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926040000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>Super Cyclone</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>The Lost World - Salvation</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926080000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>The Lost World - Cave of Fear</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>The Lost World - Salvation</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926155000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>Dark Storm</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926160000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>This is LegendXtra</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926175000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>Wild Horses</title>
-</programme>
-<programme start="20260926175000 +0000" stop="20260926180000 +0000" channel="Legend_Xtra.virginmediatv">
-    <title>This is LegendXtra</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Salvage Hunters - Episode 15</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Salvage Hunters - Scotland Special</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Salvage Hunters: The Restorers - Episode 20</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>How It&#039;s Made - Plastic Moulds; Automatic Oil Filters; Filing Cabinets; Blown Glass</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>How It&#039;s Made - Plastic Moulds; Automatic Oil Filters; Filing Cabinets; Blown Glass</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Massive Engineering Mistakes - Oklahoma Freeway Free-fall</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Wheeler Dealers - Chevrolet Corvette Stingray</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Wheeler Dealers - 2000 Porsche 996</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Shed &amp; Buried: Classic Cars - MG MGA</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Shed &amp; Buried: Classic Cars - Standard 14</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Shed &amp; Buried - Episode 1</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Shed &amp; Buried - Best Bits: Pete Bullen</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Shed &amp; Buried - Best Bits: Brian Ferris</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Discovery_Quest_HD.virginmediatv">
-    <title>Shed &amp; Buried - Best Bits: Eamon</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Junkyard Empire - MotherTrucker</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Texas Metal - Imposta to Impala</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Wheeler Dealers - 1970 VW Fastback</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>James May&#039;s Shed Load Of Ideas - Supermarket Trolley-Bike</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>James May&#039;s Shed Load Of Ideas - Fly Tipping</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>James May&#039;s Shed Load Of Ideas - Cinema Seat</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>World&#039;s Greatest Cars - Rally</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Salvage Hunters: Classic Cars - Range Rover &amp; Porsche 944</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Salvage Hunters: Classic Cars - Volvo 122S Amazon &amp; Toyota MR2</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Challenge.virginmediatv">
-    <title>The Chase - Episode 125</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Challenge.virginmediatv">
-    <title>The Chase: Celebrity Special - Episode 6</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Challenge.virginmediatv">
-    <title>The Chase - Episode 71</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Bullseye 10</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Episode 11</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Episode 12</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Episode 13</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Challenge.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Challenge.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Challenge.virginmediatv">
-    <title>Tenable - Episode 1</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Challenge.virginmediatv">
-    <title>Bridge of Lies - Episode 19</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Challenge.virginmediatv">
-    <title>The Chase - Episode 141</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Challenge.virginmediatv">
-    <title>Beat the Chasers - Episode 6</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Challenge.virginmediatv">
-    <title>The Chase: Celebrity Special - Episode 5</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Challenge.virginmediatv">
-    <title>The Chase: Celebrity Special - Episode 14</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Forensic Detectives - Dead Wrong</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Murder on CCTV - Vanished at Noon</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Murder on CCTV - On Her Watch</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Forensic Detectives - Remnant of Blame</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Quest_Red.virginmediatv">
-    <title>Forensic Detectives - Partners in Crime</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Quest_Red.virginmediatv">
-    <title>The Murder Tapes - The Last Laugh</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Quest_Red.virginmediatv">
-    <title>The Murder Tapes - This Guy&#039;s Getting Paranoid</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Quest_Red.virginmediatv">
-    <title>The Murder Tapes - Things Weigh on You</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Quest_Red.virginmediatv">
-    <title>The Murder Tapes - Cover the Camera and I&#039;ll Talk</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Sister Boniface Mysteries - Stage Fright</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>At Home With the Braithwaites - Episode 5</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Copper - La Tempete</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926061500 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Father Brown - The Whistle in the Dark</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Pie in the Sky - A Shot in the Dark</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Pie in the Sky - Undesirable Elements</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Pie in the Sky - Passion Fruit Fool</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>The Chelsea Detective - The 13th Earl: Part 1</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>The Chelsea Detective - The 13th Earl: Part 2</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Really.virginmediatv">
-    <title>Help! My House is Haunted - Bad Luck Bungalow</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="Really.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Really.virginmediatv">
-    <title>Salvage Hunters - End Of An Era</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Really.virginmediatv">
-    <title>Salvage Hunters - History Lessons</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Really.virginmediatv">
-    <title>Celebrity Fantasy Homes - Cambridge</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Episode 37</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Episode 38</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Oil Lamp, Fret Saw, Drum Kit</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Trumpet, Mobo Roundabout, Champion&#039;s Belt</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Episode 2</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Really.virginmediatv">
-    <title>The Repair Shop - Jamaican Pump Organ, WW1 Crib, Naval Rigging Set</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion First</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion First</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Unfiltered</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Unfiltered</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>I See It First</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>I See It First</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Most Watched</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Most Watched</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trending Today</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trending Today</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Stars</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Stars</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Buzz</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Buzz</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>This Week In Style</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>This Week In Style</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trend Tracker</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trend Tracker</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Style Icons</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Style Icons</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Evolution</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Evolution</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Code</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Code</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="ID.virginmediatv">
-    <title>A Crime to Remember - Devil&#039;s Advocate</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="ID.virginmediatv">
-    <title>Til Death Do Us Part - Blood is Thicker Than Water</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="ID.virginmediatv">
-    <title>Til Death Do Us Part - Some Kind of Monster</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="ID.virginmediatv">
-    <title>Who the Hell Did I Marry? - The Bride Who Will Never Be</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ID.virginmediatv">
-    <title>Faking It: Tears of a Crime - Harold Shipman</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="ID.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="ID.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="ID.virginmediatv">
-    <title>Disappeared - The End of Innocence</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="ID.virginmediatv">
-    <title>Disappeared - A Fateful Meeting</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="ID.virginmediatv">
-    <title>Disappeared - Dark Waters</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="ID.virginmediatv">
-    <title>Evil Lives Here: Shadows of Death - The Lookout</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="ID.virginmediatv">
-    <title>Evil Lives Here: Shadows of Death - Devil in Disguise</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="ID.virginmediatv">
-    <title>Evil Lives Here: Shadows of Death - Free to Kill Again</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="QVC.virginmediatv">
-    <title>Festive Culinary Gifts</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="QVC.virginmediatv">
-    <title>A Taste of Christmas</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="QVC.virginmediatv">
-    <title>Gift for Foodies</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="QVC.virginmediatv">
-    <title>Andi Peters&#039; Food Fest</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="Food_Network.virginmediatv">
-    <title>Man v. Food Nation - Tulsa</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Food_Network.virginmediatv">
-    <title>Man v. Food Nation - Mobile</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="Food_Network.virginmediatv">
-    <title>Cake Boss - Cuckoo Cake, Birthday Surprise, and New Bakery</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Food_Network.virginmediatv">
-    <title>Cake Boss - Extraterrestrials and Giant Tacos</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Food_Network.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Food_Network.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Food_Network.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Food_Network.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Food_Network.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Food_Network.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Food_Network.virginmediatv">
-    <title>Diners, Drive-Ins and Dives - Triple D Nation: Recipes &#039;Round the World</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Food_Network.virginmediatv">
-    <title>Diners, Drive-Ins and Dives - Triple D Nation: Seafood, Schnitzel and Spam</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Food_Network.virginmediatv">
-    <title>James Martin: Sweet - Sponges</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Food_Network.virginmediatv">
-    <title>James Martin: Sweet - Posh Puds</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Food_Network.virginmediatv">
-    <title>James Martin: Sweet - Supermarkets</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Food_Network.virginmediatv">
-    <title>James Martin: Sweet - Kids</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Dream Team</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Crowd-Pleasers</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Flavour Bombs</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Quality Matters</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Retro Bangers</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Playing with Fire</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Perfect 10</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Food_Network.virginmediatv">
-    <title>Tom Kerridge Secrets of the Pub Kitchen - Memory Lane</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>The Real Murders of Atlanta - Fatal Abduction</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>On the Case With Paula Zahn - Web of Torment</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Accident, Suicide, or Murder - Ashes to Ashes</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Accident, Suicide, or Murder - Justice for Jennifer?</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Accident, Suicide, or Murder - Mystery in Montebello</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Hometown Tragedy - Unmasking the Golden State Killer</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Hometown Tragedy - Missing in Milwaukee</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Court Cam - Episode 33</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926125500 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Court Cam - Episode 38</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926132500 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Court Cam - Episode 28</title>
-</programme>
-<programme start="20260926132500 +0000" stop="20260926135000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Court Cam - Episode 34</title>
-</programme>
-<programme start="20260926135000 +0000" stop="20260926141500 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Court Cam - Episode 30</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926144000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Court Cam - Episode 35</title>
-</programme>
-<programme start="20260926144000 +0000" stop="20260926150500 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>My Strange Arrest - Naked Chaos</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926153500 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>My Strange Arrest - Revenge for Grandma</title>
-</programme>
-<programme start="20260926153500 +0000" stop="20260926160000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>My Strange Arrest - Naked at the Gym</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>#TextMeWhenYouGetHome - Deanna Cook</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
-    <title>Killer Investigations - Murder in the Farmhouse</title>
-</programme>
-<programme start="20260925222500 +0000" stop="20260926050000 +0000" channel="RTE_News_Now.virginmediatv">
+<programme start="20260927014000 +0000" stop="20260927050000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="RTE_News_Now.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927070500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
-<programme start="20260926110000 +0000" stop="20260926120500 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Current Affairs Round-up</title>
+<programme start="20260927120000 +0000" stop="20260927121000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>RTÉ News: One O&#039;Clock</title>
 </programme>
-<programme start="20260926120500 +0000" stop="20260926130000 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Saturday with Cormac Ó hEadhra</title>
+<programme start="20260927121000 +0000" stop="20260927124000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Cheap Irish Homes - Episode 4</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Latest News and Weather</title>
+<programme start="20260927124000 +0000" stop="20260927133500 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Death Valley - Episode 1</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Latest News and Weather</title>
+<programme start="20260927133500 +0000" stop="20260927140500 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>The Random Driving Test - Episode 2</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Latest News and Weather</title>
+<programme start="20260927140500 +0000" stop="20260927143500 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Donal&#039;s Italian Kitchen - Italian American Classics</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926164500 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Latest News and Weather</title>
+<programme start="20260927143500 +0000" stop="20260927164000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Mirror Mirror</title>
 </programme>
-<programme start="20260926164500 +0000" stop="20260926170100 +0000" channel="RTE_News_Now.virginmediatv">
+<programme start="20260927164000 +0000" stop="20260927165000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nuacht</title>
 </programme>
-<programme start="20260926170100 +0000" stop="20260926173000 +0000" channel="RTE_News_Now.virginmediatv">
+<programme start="20260927165000 +0000" stop="20260927170000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>RTÉ News with ISL</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927170100 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>The Angelus - Ballindoon Abbey, Sligo</title>
+</programme>
+<programme start="20260927170100 +0000" stop="20260927173000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>RTÉ News: Six One</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="RTE_News_Now.virginmediatv">
-    <title>Latest News and Weather</title>
+<programme start="20260927173000 +0000" stop="20260927183000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>At Your Service - Cornamucklagh House</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260926231000 +0000" stop="20260927000500 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Red Eye - Episode 5</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now</title>
+<programme start="20260927000500 +0000" stop="20260927012000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Herrhausen - The Banker and the Bomb</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927012000 +0000" stop="20260927050000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Euronews</title>
 </programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Streets of Gold: Mumbai - Episode 6</title>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Euronews</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927113500 +0000" stop="20260927120500 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Home and Away - Episode 155</title>
 </programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Roelf Meyer: The Interview</title>
+<programme start="20260927120500 +0000" stop="20260927134000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Love on the Right Course</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927134000 +0000" stop="20260927143500 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Solar System - Volcano Worlds</title>
 </programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Media Show</title>
+<programme start="20260927143500 +0000" stop="20260927154000 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Mammals - The New Wild</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927154000 +0000" stop="20260927163500 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Portillo&#039;s Andalucia - Malaga and Ronda</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Travel Show - How To Eat Like An Italian</title>
+<programme start="20260927163500 +0000" stop="20260927173500 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>Kingdom - Four Crowns, One Kingdom</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927173500 +0000" stop="20260927183500 +0000" channel="RTE_Two_HD.virginmediatv">
+    <title>China&#039;s Wild Guangdong - Mountains</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
+<programme start="20260926233000 +0000" stop="20260927003500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Ant and Dec&#039;s Limitless Win - Episode 2</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927003500 +0000" stop="20260927010500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Bump - Relative Strangers</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927010500 +0000" stop="20260927013500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Bump - Sin Salida</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927013500 +0000" stop="20260927060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Channel Off Air</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926144500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927113500 +0000" stop="20260927132000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>The Voice USA - The Battles, Part 4 and the Knockouts Premiere</title>
 </programme>
-<programme start="20260926144500 +0000" stop="20260926150000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newswatch</title>
+<programme start="20260927132000 +0000" stop="20260927135000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Friends - The One in Massapequa</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927135000 +0000" stop="20260927142000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Friends - The One With Joey&#039;s Interview</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Political Thinking with Nick Robinson - Paul Greengrass</title>
+<programme start="20260927142000 +0000" stop="20260927145000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Friends - The One With the Baby Shower</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927145000 +0000" stop="20260927152000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Friends - The One With the Cooking Class</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927152000 +0000" stop="20260927155000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Friends - The One Where Rachel Is Late</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
+<programme start="20260927155000 +0000" stop="20260927180000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+    <title>Live: UEFA Nations League Football - Group A4: Denmark v Wales</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+<programme start="20260926231500 +0000" stop="20260927003000 +0000" channel="TG4_HD.virginmediatv">
+    <title>Survivor - Cinema</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="TG4_HD.virginmediatv">
+    <title>Cheers - How to Recede in Business</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+<programme start="20260927010000 +0000" stop="20260927011500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Nuacht TG4 - Episode 269</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+<programme start="20260927011500 +0000" stop="20260927014500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Taoscadh ón Tobar - Doireann Ní Ghlacáin</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News</title>
+<programme start="20260927014500 +0000" stop="20260927021500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Geantraí - John Joe&#039;s Bar, Kilcar</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Mornings with Jones and Melbourne</title>
+<programme start="20260927021500 +0000" stop="20260927031000 +0000" channel="TG4_HD.virginmediatv">
+    <title>Ollchlár Ros Na Rún - Episode 2</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Mornings with Jones and Melbourne</title>
+<programme start="20260927031000 +0000" stop="20260927033500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Síorstíl - Episode 4</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today with Sam Washington</title>
+<programme start="20260927033500 +0000" stop="20260927040500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Pobal Mhúscraí - Episode 4</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>The News Hour with Jonathan Samuels</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>The News Hour with Jonathan Samuels</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>The News Hour with Jonathan Samuels</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_News_HD.virginmediatv">
-    <title>The News Hour with Jonathan Samuels</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926001500 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926003000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926011500 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926013000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926021400 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926021400 +0000" stop="20260926023000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926024600 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926024600 +0000" stop="20260926030000 +0000" channel="Euronews.virginmediatv">
-    <title>Made In Europe</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926031500 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926031500 +0000" stop="20260926033000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Euronews.virginmediatv">
-    <title>Global Week-End</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926041500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926041500 +0000" stop="20260926043000 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926050500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926050500 +0000" stop="20260926052900 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926052900 +0000" stop="20260926053400 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926053400 +0000" stop="20260926060000 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926120500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926120500 +0000" stop="20260926123000 +0000" channel="Euronews.virginmediatv">
-    <title>12 Minutes With</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926123800 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926123800 +0000" stop="20260926124800 +0000" channel="Euronews.virginmediatv">
-    <title>Made In Europe</title>
-</programme>
-<programme start="20260926124800 +0000" stop="20260926130000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926130500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926130500 +0000" stop="20260926132900 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926132900 +0000" stop="20260926133400 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926133400 +0000" stop="20260926140000 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926140500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926140500 +0000" stop="20260926143000 +0000" channel="Euronews.virginmediatv">
-    <title>12 Minutes With</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926143800 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926143800 +0000" stop="20260926144800 +0000" channel="Euronews.virginmediatv">
-    <title>Made In Europe</title>
-</programme>
-<programme start="20260926144800 +0000" stop="20260926150000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926150500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926152900 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926152900 +0000" stop="20260926153400 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926153400 +0000" stop="20260926160000 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926160500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926160500 +0000" stop="20260926163000 +0000" channel="Euronews.virginmediatv">
-    <title>12 Minutes With</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926163800 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926163800 +0000" stop="20260926164800 +0000" channel="Euronews.virginmediatv">
-    <title>Made In Europe</title>
-</programme>
-<programme start="20260926164800 +0000" stop="20260926170000 +0000" channel="Euronews.virginmediatv">
-    <title>News</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926170500 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926170500 +0000" stop="20260926172900 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926172900 +0000" stop="20260926173400 +0000" channel="Euronews.virginmediatv">
-    <title>5 Minutes</title>
-</programme>
-<programme start="20260926173400 +0000" stop="20260926180000 +0000" channel="Euronews.virginmediatv">
-    <title>The Ring</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Closing Bell: Overtime</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Fast Money</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>American Greed - Murderous Plot Meets Reality TV</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Executive Decisions - Standard Chartered&#039;s Bill Winters</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>CNBC Sport: On the Record - #306 - TOUCHDOWNS, ACES, AND SLAM DUNKS</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Managing Middle East - Majid Al Futtaim</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Founder Effect - Moving the Middle East: Careem and TruKKer</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Executive Decisions - Standard Chartered&#039;s Bill Winters</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>CNBC Sport: On the Record - #306 - TOUCHDOWNS, ACES, AND SLAM DUNKS</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Reaction Sports - September</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>World Fencing League</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Executive Decisions - Standard Chartered&#039;s Bill Winters</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>CNBC Sport: On the Record - #306 - TOUCHDOWNS, ACES, AND SLAM DUNKS</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>American Greed - Brooklyn&#039;s Madoff; Corrupted Software</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Managing Asia - AT&amp;S</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>The Score - Crypto FC: Football&#039;s Big Gamble</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>The Tech Download - WPP&#039;s Daniel Hulme</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>CNBC Meets - Rafa Nadal</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Anderson Cooper 360</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="CNN_HD.virginmediatv">
-    <title>The Source With Kaitlan Collins</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="CNN_HD.virginmediatv">
-    <title>CNN NewsNight With Abby Phillip</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Laura Coates Live</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="CNN_HD.virginmediatv">
-    <title>The Story Is With Elex Michaelson</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="CNN_HD.virginmediatv">
-    <title>The Story Is With Elex Michaelson</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Quest&#039;s World of Wonder - Porto, Portugal</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="CNN_HD.virginmediatv">
-    <title>CNN This Morning Weekend</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Smerconish</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="CNN_HD.virginmediatv">
-    <title>CNN Creators</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa - Madagascar&#039;s Island of Giants</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="CNN_HD.virginmediatv">
-    <title>The Amanpour Hour</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="CNN_HD.virginmediatv">
-    <title>World Sport</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Quest&#039;s World of Wonder - Porto, Portugal</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Smerconish</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="BBC_News.virginmediatv">
-    <title>Tech Now</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="BBC_News.virginmediatv">
-    <title>Streets of Gold: Mumbai - Episode 6</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="BBC_News.virginmediatv">
-    <title>Roelf Meyer: The Interview</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="BBC_News.virginmediatv">
-    <title>The Media Show</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="BBC_News.virginmediatv">
-    <title>The Travel Show - How To Eat Like An Italian</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="BBC_News.virginmediatv">
-    <title>AI Decoded</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="BBC_News.virginmediatv">
-    <title>Talking Movies - Festival Review</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="BBC_News.virginmediatv">
-    <title>AI Decoded</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="BBC_News.virginmediatv">
-    <title>The Media Show</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="BBC_News.virginmediatv">
-    <title>Roelf Meyer: The Interview</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="BBC_News.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="BBC_News.virginmediatv">
-    <title>Unspun World with John Simpson</title>
-</programme>
-<programme start="20260925234000 +0000" stop="20260926015000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Joint Committee on Housing, Local Government and Heritage</title>
-</programme>
-<programme start="20260926015000 +0000" stop="20260926031000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Joint Committee on Public Petitions and the Ombudsmen</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926044000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Select Committee on Budgetary Oversight</title>
-</programme>
-<programme start="20260926044000 +0000" stop="20260926064000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Joint Committee on Further and Higher Education, Research, Innovation and Science</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926125000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Seanad Commencement Debates</title>
-</programme>
-<programme start="20260926125000 +0000" stop="20260926141000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Seanad Private Members&#039; Business</title>
-</programme>
-<programme start="20260926141000 +0000" stop="20260926153000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Seanad Private Members&#039; Business</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926171000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha</title>
-</programme>
-<programme start="20260926171000 +0000" stop="20260926193000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Select Committee on Tourism, Culture, Arts, Sport and Media</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Expedition Unknown - Sunken City of Pirates</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Expedition Unknown - Shipwreck Triangle of Greece</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Gold Divers - Clash of the Titans</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Street Outlaws: Locals Only - Make Me, Minnesota</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>How Do They Do It? - Royal Enfield, Art Fraud, Milk</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>How Do They Do It? - Crash-Testing Cars; Expensive Dutch Tableware; High-End Hand-Made Pocket-Size Umbrellas</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>The Woodland Workshop - The Perils Of Steam Bending</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>The Woodland Workshop - Surfboard Chair</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>The Woodland Workshop - Balls In Space</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>The Woodland Workshop - Redwood Dragon</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>The Woodland Workshop - Firefighting Farmer</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Discovery_HD.virginmediatv">
-    <title>Deadliest Catch - Raw Nerves</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How the Universe Works - The Interstellar Mysteries</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How the Universe Works - Did the Big Bang Really Happen?</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How the Universe Works - Battle of the Dark Universe</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Secrets of the Underground - California&#039;s Hidden Doomsday</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Secrets of the Underground - Secret History of the New World</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How Do They Do It? - Crayons, Mirrors, Chain-Less Bicycle</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How Do They Do It? - Steam-Powered Boat Waterwall</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Truth Behind the Moon Landing - CIA&#039;s Secret Space War</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Truth Behind the Moon Landing - Killing Armstrong</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Alien Highway - Missouri Mayhem</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>Alien Highway - UFO Terror</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How It&#039;s Made - CNC Assembly Machines, Lemon Tarts, and Miniature War Figures</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Discovery_Science.virginmediatv">
-    <title>How It&#039;s Made - Chemical Tank Pressure Vents, Candy Wafers, Food Trucks, Traditional Ropes</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Mysteries at the Museum - Man on Wire and More</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Mysteries at the Museum - White House Water</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Expedition X - Mothman Phenomenon</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Expedition Unknown - Secrets of The Nazca</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Shed &amp; Buried - Episode 6</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Shed &amp; Buried - Best Bits: Rodney</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Shed &amp; Buried - Episode 8</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Shed &amp; Buried - Episode 9</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Salvage Hunters: The Restorers - Episode 10</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Salvage Hunters: The Restorers - In a Spin</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Discovery_History.virginmediatv">
-    <title>Salvage Hunters: The Restorers - Time Please</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Discovery_History.virginmediatv">
-    <title>How the Universe Works - Dark History of the Solar System</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Richard E. Grant&#039;s 7 Deadly Sins - Sloth</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Treehouse Masters - Super Spy Treehouse</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Animal Cops: Phoenix - Breeding Trouble</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Animal Cops: Phoenix - Trailer Park Tragedy</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Pit Bulls and Parolees - Home Is Where the Dog Is</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Pit Bulls and Parolees - Here in Their Golden Years</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>My Cat From Hell - Kitten Impossible: Roadtrip Rescue</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>My Cat From Hell - Mojito Cat</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Treehouse Masters - A Treehouse Fit for a Viking</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Animal_Planet_HD.virginmediatv">
-    <title>Saved By The Barn - Hog Chase Rescue</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="DMAX.virginmediatv">
-    <title>Naked and Afraid - 23 Days</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="DMAX.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="DMAX.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="DMAX.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="DMAX.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="DMAX.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="DMAX.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="DMAX.virginmediatv">
-    <title>Salvage Dawgs - Dublin Mill</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="DMAX.virginmediatv">
-    <title>Salvage Dawgs - Drayton Mill</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="DMAX.virginmediatv">
-    <title>Deadliest Catch - The Purpose of Porpoises</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="DMAX.virginmediatv">
-    <title>Gem Hunters Down Under - Family and Friends</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="DMAX.virginmediatv">
-    <title>Gem Hunters Down Under - Exploration</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="DMAX.virginmediatv">
-    <title>Gem Hunters Down Under - The Deepest Cut</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="DMAX.virginmediatv">
-    <title>Aussie Gold Hunters - Episode 2</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="DMAX.virginmediatv">
-    <title>Aussie Gold Hunters - Episode 3</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="DMAX.virginmediatv">
-    <title>Aussie Gold Hunters - Episode 4</title>
-</programme>
-<programme start="20260925235500 +0000" stop="20260926005500 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Life Below Zero: Next Generation - Dead Fall</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926012500 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Made in a Day - Satellites</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926015500 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>To Catch a Smuggler - Drugs, Guns and Money</title>
-</programme>
-<programme start="20260926015500 +0000" stop="20260926022000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>To Catch a Smuggler - Club Drugs and Party People</title>
-</programme>
-<programme start="20260926022000 +0000" stop="20260926024500 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Food Factory - Mint Chocolate &amp; Chips</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926031000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Food Factory - Peanut Butter Cups &amp; Butterscotch</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926033500 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Prairie Dog Manor - The Little Rascal</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926040000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Prairie Dog Manor - Homeward Bound</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926070000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Nazi Megastructures - Hitler&#039;s Luftwaffe</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Apocalypse: Hitler Takes on the West - The Trap</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Apocalypse: Hitler Takes on the West - Last Battles</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>How the Tudors Lost Their Heads - Anne Boleyn</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Air Crash Investigation - Sioux City Fireball</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="National_Geographic_HD.virginmediatv">
-    <title>Air Crash Investigation - Deadly Myth</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Snakes in the City - Trailer Park Terror</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>The Incredible Dr. Pol - Llama-Rama Ding-Dong</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Yukon Vet - A Hoarse Horse</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Life Below Zero: Next Generation - The Messenger</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926070000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Alaska&#039;s Grizzly Gauntlet - Salmon Slaughterhouse</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Alaska&#039;s Grizzly Gauntlet - Moose Ambush</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Ice Road Rescue - Stuck Trucks</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Ice Road Rescue - Black Ice</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Ice Road Rescue - Into The Woods</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Wild Arctic: Kingdom of Ice</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Ancient Aliens: The Ultimate Evidence - Aliens and the Lost Ark</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Hazardous History With Henry Winkler - Spectacular Stunts</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Hazardous History With Henry Winkler - Very Extreme Sports</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Hazardous History With Henry Winkler - Treacherous Travel</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Hazardous History With Henry Winkler - Food Fiascos</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Ancient Aliens - The Abduction Files</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Battle Treasures With Foxy And Bruce - Air Combat Honours</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Battle Treasures With Foxy And Bruce - Special Ops</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Ancient Aliens - The Abduction Files</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Ancient Aliens - Aliens in Our Midst</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Greatest Prison Escapes With Billy Hayes - Puppy Love</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>Greatest Prison Escapes With Billy Hayes - Panzer Pals</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_History_2.virginmediatv">
-    <title>World War Weird - Episode 7</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Blaze.virginmediatv">
-    <title>In Search of Aliens - The Mystery of the Cyclops</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Blaze.virginmediatv">
-    <title>Killer Britain With Dermot Murnaghan - Parsons</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926024500 +0000" channel="Blaze.virginmediatv">
-    <title>Junk and Disorderly - Ardingley</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926031000 +0000" channel="Blaze.virginmediatv">
-    <title>Hardcore Pawn: Behind The Deal - Tripped Out Cash</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926033500 +0000" channel="Blaze.virginmediatv">
-    <title>Hardcore Pawn: Behind The Deal - Fire Bomb</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926040000 +0000" channel="Blaze.virginmediatv">
-    <title>Hardcore Pawn: Behind The Deal - Back in Action</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Blaze.virginmediatv">
-    <title>Dickinson&#039;s Real Deal - Bradford 1</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926052000 +0000" channel="Blaze.virginmediatv">
-    <title>Storage Wars - Once Upon a Locker in the West</title>
-</programme>
-<programme start="20260926052000 +0000" stop="20260926054500 +0000" channel="Blaze.virginmediatv">
-    <title>Storage Wars - Locker Mountain High</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926061000 +0000" channel="Blaze.virginmediatv">
-    <title>Storage Wars - Fontan-o-rama</title>
-</programme>
-<programme start="20260926110500 +0000" stop="20260926120500 +0000" channel="Blaze.virginmediatv">
-    <title>Mysteries From Above - The Planet Unlocked</title>
-</programme>
-<programme start="20260926120500 +0000" stop="20260926130500 +0000" channel="Blaze.virginmediatv">
-    <title>Mysteries From Above - Out of Place</title>
-</programme>
-<programme start="20260926130500 +0000" stop="20260926140500 +0000" channel="Blaze.virginmediatv">
-    <title>Mysteries From Above - Disaster From Above</title>
-</programme>
-<programme start="20260926140500 +0000" stop="20260926150500 +0000" channel="Blaze.virginmediatv">
-    <title>Queens of Ancient Egypt - The Other Cleopatra</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926160500 +0000" channel="Blaze.virginmediatv">
-    <title>Queens of Ancient Egypt - Cleopatra&#039;s Daughter</title>
-</programme>
-<programme start="20260926160500 +0000" stop="20260926170000 +0000" channel="Blaze.virginmediatv">
-    <title>Bradley Walsh: Egypt&#039;s Cosmic Code - Search for the Boy King</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Blaze.virginmediatv">
-    <title>Holy Marvels With Dennis Quaid - Where Ark Thou?</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Post Credits - Why Women&#039;s Sports Are Winning at the Content Game</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="Bloomberg.virginmediatv">
-    <title>The David Rubenstein Show - David Booth</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Originals</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Wall Street Week</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Leaders with Francine Lacqua: The Podcast - Kristalina Georgieva on the IMF&#039;s Role as Global Truth Teller</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Bloomberg.virginmediatv">
-    <title>How Larry Ellison Built His Empire</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Primer - AI Is Pushing Chipmaking to Its Limits</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Primer - Making New Nuclear Fuel for an Atomic Renaissance</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Bloomberg.virginmediatv">
-    <title>The Amazon Divide</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926140000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg This Weekend</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Wall Street Week</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Bloomberg.virginmediatv">
-    <title>The Mishal Husain Show</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Bloomberg.virginmediatv">
-    <title>The David Rubenstein Show</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg Next Africa</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Quantum Marketing - How Lectric Is Looking to Fuel the eBike Industry</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Leaders with Francine Lacqua: The Podcast - BHP&#039;s Mike Henry on Critical Minerals and the Mining Giant&#039;s Future</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Bloomberg.virginmediatv">
-    <title>The David Rubenstein Show - David Booth</title>
-</programme>
-<programme start="20260925215000 +0000" stop="20260926000500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>The Fix</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926021500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>The History of Sound</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926034500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>Rabbit Trap</title>
-</programme>
-<programme start="20260926034500 +0000" stop="20260926053500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>Tow</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926072000 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>The Moment</title>
-</programme>
-<programme start="20260926104500 +0000" stop="20260926123000 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>Nirvanna the Band the Show the Movie</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926141500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>The Moment</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926155500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>Hungry</title>
-</programme>
-<programme start="20260926155500 +0000" stop="20260926174500 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>Supergirl</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="Sky_Premiere_HD.virginmediatv">
-    <title>The Fix</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926011500 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Shazam!</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926031500 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>The Bourne Ultimatum</title>
-</programme>
-<programme start="20260926031500 +0000" stop="20260926035500 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Sky Cinema Preview - Sept 2026</title>
-</programme>
-<programme start="20260926035500 +0000" stop="20260926055500 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Ghostbusters</title>
-</programme>
-<programme start="20260926055500 +0000" stop="20260926072500 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Antz</title>
-</programme>
-<programme start="20260926102500 +0000" stop="20260926122500 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Spider-Man: Into the Spider-Verse</title>
-</programme>
-<programme start="20260926122500 +0000" stop="20260926143000 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Spider-Man</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926164000 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Spider-Man 2</title>
-</programme>
-<programme start="20260926164000 +0000" stop="20260926190000 +0000" channel="Sky_Select_HD.virginmediatv">
-    <title>Spider-Man: Homecoming</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926011000 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic Park III</title>
-</programme>
-<programme start="20260926011000 +0000" stop="20260926032500 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic World</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926054500 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic World: Fallen Kingdom</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926081000 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic World Rebirth</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926124500 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>The Lost World: Jurassic Park</title>
-</programme>
-<programme start="20260926124500 +0000" stop="20260926143000 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic Park III</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926164500 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic World</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926190000 +0000" channel="Sky_Hits_HD.virginmediatv">
-    <title>Jurassic World: Fallen Kingdom</title>
-</programme>
-<programme start="20260925224000 +0000" stop="20260926002500 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>Matilda</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926020000 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>Paulie</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926035000 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>*batteries not Included</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926053500 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>Matilda</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926071000 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>Paulie</title>
-</programme>
-<programme start="20260926111000 +0000" stop="20260926133500 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>Hook</title>
-</programme>
-<programme start="20260926133500 +0000" stop="20260926152000 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>Jumanji</title>
-</programme>
-<programme start="20260926152000 +0000" stop="20260926171500 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>E.T. the Extra-Terrestrial</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926190000 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>The Wizard of Oz</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926010500 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>The Angry Birds Movie</title>
-</programme>
-<programme start="20260926010500 +0000" stop="20260926024500 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>The Angry Birds Movie 2</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>The Cinema List: Family Favourites</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>Small Soldiers</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926062000 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>Tim Burton&#039;s Corpse Bride</title>
-</programme>
-<programme start="20260926114500 +0000" stop="20260926133000 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>Kung Fu Panda</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926151500 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>Kung Fu Panda 2</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926170000 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>Kung Fu Panda 3</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926184000 +0000" channel="Sky_Family_HD.virginmediatv">
-    <title>How to Train Your Dragon</title>
-</programme>
-<programme start="20260925225500 +0000" stop="20260926004500 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>28 Years Later: The Bone Temple</title>
-</programme>
-<programme start="20260926004500 +0000" stop="20260926025000 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Constantine</title>
-</programme>
-<programme start="20260926025000 +0000" stop="20260926032500 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Sky Cinema Preview - Sept 2026</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926054000 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Nosferatu</title>
-</programme>
-<programme start="20260926054000 +0000" stop="20260926073000 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>It Feeds</title>
-</programme>
-<programme start="20260926111000 +0000" stop="20260926125500 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Anacondas: The Hunt for the Blood Orchid</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926150500 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Innerspace</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926165000 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>It Feeds</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926190000 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Star Trek Beyond</title>
-</programme>
-<programme start="20260925223500 +0000" stop="20260926001000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Marmaduke</title>
-</programme>
-<programme start="20260926001000 +0000" stop="20260926014500 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Honey Don&#039;t!</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926033000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Bride Wars</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926053500 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Mile End Kicks</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926073000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Twinless</title>
-</programme>
-<programme start="20260926110500 +0000" stop="20260926130000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Panda Plan 2: The Magical Tribe</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926151500 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Bridesmaids</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926171500 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Superbad</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926190000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
-    <title>Nirvanna the Band the Show the Movie</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926020000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Goodfellas</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926035000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Lurker</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926055000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Sharp Corner</title>
-</programme>
-<programme start="20260926055000 +0000" stop="20260926080500 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Dog Day Afternoon</title>
-</programme>
-<programme start="20260926100500 +0000" stop="20260926121000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Now You See Me</title>
-</programme>
-<programme start="20260926121000 +0000" stop="20260926143000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Now You See Me 2</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926164500 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Mr &amp; Mrs Smith</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926190000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Sherlock Holmes</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926005500 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>True Grit</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926024000 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>The Cut</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926042500 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>Wish You Were Here</title>
-</programme>
-<programme start="20260926042500 +0000" stop="20260926060500 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>Love Me</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926121500 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>Don&#039;t Let&#039;s Go to the Dogs Tonight</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926142000 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>Valentine&#039;s Day</title>
-</programme>
-<programme start="20260926142000 +0000" stop="20260926161500 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>True Grit</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926190000 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>One Battle After Another</title>
-</programme>
-<programme start="20260925230500 +0000" stop="20260926012000 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>Kraven the Hunter</title>
-</programme>
-<programme start="20260926012000 +0000" stop="20260926032000 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>The Italian Job</title>
-</programme>
-<programme start="20260926032000 +0000" stop="20260926033500 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>The Cinema List: Nature Gone Wild</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926052500 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>The Mechanic</title>
-</programme>
-<programme start="20260926052500 +0000" stop="20260926071000 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>Mr. Nice Guy</title>
-</programme>
-<programme start="20260926104500 +0000" stop="20260926125500 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>The Expendables 3</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926145500 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>Supergirl</title>
-</programme>
-<programme start="20260926145500 +0000" stop="20260926165500 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20260926165500 +0000" stop="20260926190000 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>Justice League</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926021000 +0000" channel="Film_Four.virginmediatv">
-    <title>The Northman</title>
-</programme>
-<programme start="20260926021000 +0000" stop="20260926061000 +0000" channel="Film_Four.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926100000 +0000" stop="20260926122000 +0000" channel="Film_Four.virginmediatv">
-    <title>Anzio</title>
-</programme>
-<programme start="20260926122000 +0000" stop="20260926123000 +0000" channel="Film_Four.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926150500 +0000" channel="Film_Four.virginmediatv">
-    <title>The Long Ships</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926151500 +0000" channel="Film_Four.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926173500 +0000" channel="Film_Four.virginmediatv">
-    <title>The Kid Who Would Be King</title>
-</programme>
-<programme start="20260926173500 +0000" stop="20260926174500 +0000" channel="Film_Four.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="Film_Four.virginmediatv">
-    <title>The Eagle</title>
-</programme>
-<programme start="20260925215000 +0000" stop="20260926000500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>The Fix</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926021500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>The History of Sound</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926034500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>Rabbit Trap</title>
-</programme>
-<programme start="20260926034500 +0000" stop="20260926053500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>Tow</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926072000 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>The Moment</title>
-</programme>
-<programme start="20260926104500 +0000" stop="20260926123000 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>Nirvanna the Band the Show the Movie</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926141500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>The Moment</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926155500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>Hungry</title>
-</programme>
-<programme start="20260926155500 +0000" stop="20260926174500 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>Supergirl</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="Sky_Premiere.virginmediatv">
-    <title>The Fix</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926011500 +0000" channel="Sky_Select.virginmediatv">
-    <title>Shazam!</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926031500 +0000" channel="Sky_Select.virginmediatv">
-    <title>The Bourne Ultimatum</title>
-</programme>
-<programme start="20260926031500 +0000" stop="20260926035500 +0000" channel="Sky_Select.virginmediatv">
-    <title>Sky Cinema Preview - Sept 2026</title>
-</programme>
-<programme start="20260926035500 +0000" stop="20260926055500 +0000" channel="Sky_Select.virginmediatv">
-    <title>Ghostbusters</title>
-</programme>
-<programme start="20260926055500 +0000" stop="20260926072500 +0000" channel="Sky_Select.virginmediatv">
-    <title>Antz</title>
-</programme>
-<programme start="20260926102500 +0000" stop="20260926122500 +0000" channel="Sky_Select.virginmediatv">
-    <title>Spider-Man: Into the Spider-Verse</title>
-</programme>
-<programme start="20260926122500 +0000" stop="20260926143000 +0000" channel="Sky_Select.virginmediatv">
-    <title>Spider-Man</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926164000 +0000" channel="Sky_Select.virginmediatv">
-    <title>Spider-Man 2</title>
-</programme>
-<programme start="20260926164000 +0000" stop="20260926190000 +0000" channel="Sky_Select.virginmediatv">
-    <title>Spider-Man: Homecoming</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926011000 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic Park III</title>
-</programme>
-<programme start="20260926011000 +0000" stop="20260926032500 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic World</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926054500 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic World: Fallen Kingdom</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926081000 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic World Rebirth</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926124500 +0000" channel="Sky_Hits.virginmediatv">
-    <title>The Lost World: Jurassic Park</title>
-</programme>
-<programme start="20260926124500 +0000" stop="20260926143000 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic Park III</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926164500 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic World</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926190000 +0000" channel="Sky_Hits.virginmediatv">
-    <title>Jurassic World: Fallen Kingdom</title>
-</programme>
-<programme start="20260925224000 +0000" stop="20260926002500 +0000" channel="Sky_Greats.virginmediatv">
-    <title>Matilda</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926020000 +0000" channel="Sky_Greats.virginmediatv">
-    <title>Paulie</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926035000 +0000" channel="Sky_Greats.virginmediatv">
-    <title>*batteries not Included</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926053500 +0000" channel="Sky_Greats.virginmediatv">
-    <title>Matilda</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926071000 +0000" channel="Sky_Greats.virginmediatv">
-    <title>Paulie</title>
-</programme>
-<programme start="20260926111000 +0000" stop="20260926133500 +0000" channel="Sky_Greats.virginmediatv">
-    <title>Hook</title>
-</programme>
-<programme start="20260926133500 +0000" stop="20260926152000 +0000" channel="Sky_Greats.virginmediatv">
-    <title>Jumanji</title>
-</programme>
-<programme start="20260926152000 +0000" stop="20260926171500 +0000" channel="Sky_Greats.virginmediatv">
-    <title>E.T. the Extra-Terrestrial</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926190000 +0000" channel="Sky_Greats.virginmediatv">
-    <title>The Wizard of Oz</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926010500 +0000" channel="Sky_Family.virginmediatv">
-    <title>The Angry Birds Movie</title>
-</programme>
-<programme start="20260926010500 +0000" stop="20260926024500 +0000" channel="Sky_Family.virginmediatv">
-    <title>The Angry Birds Movie 2</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="Sky_Family.virginmediatv">
-    <title>The Cinema List: Family Favourites</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="Sky_Family.virginmediatv">
-    <title>Small Soldiers</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926062000 +0000" channel="Sky_Family.virginmediatv">
-    <title>Tim Burton&#039;s Corpse Bride</title>
-</programme>
-<programme start="20260926114500 +0000" stop="20260926133000 +0000" channel="Sky_Family.virginmediatv">
-    <title>Kung Fu Panda</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926151500 +0000" channel="Sky_Family.virginmediatv">
-    <title>Kung Fu Panda 2</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926170000 +0000" channel="Sky_Family.virginmediatv">
-    <title>Kung Fu Panda 3</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926184000 +0000" channel="Sky_Family.virginmediatv">
-    <title>How to Train Your Dragon</title>
-</programme>
-<programme start="20260925225500 +0000" stop="20260926004500 +0000" channel="Sky_Horror.virginmediatv">
-    <title>28 Years Later: The Bone Temple</title>
-</programme>
-<programme start="20260926004500 +0000" stop="20260926025000 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Constantine</title>
-</programme>
-<programme start="20260926025000 +0000" stop="20260926032500 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Sky Cinema Preview - Sept 2026</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926054000 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Nosferatu</title>
-</programme>
-<programme start="20260926054000 +0000" stop="20260926073000 +0000" channel="Sky_Horror.virginmediatv">
-    <title>It Feeds</title>
-</programme>
-<programme start="20260926111000 +0000" stop="20260926125500 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Anacondas: The Hunt for the Blood Orchid</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926150500 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Innerspace</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926165000 +0000" channel="Sky_Horror.virginmediatv">
-    <title>It Feeds</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926190000 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Star Trek Beyond</title>
-</programme>
-<programme start="20260925223500 +0000" stop="20260926001000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Marmaduke</title>
-</programme>
-<programme start="20260926001000 +0000" stop="20260926014500 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Honey Don&#039;t!</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926033000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Bride Wars</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926053500 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Mile End Kicks</title>
-</programme>
-<programme start="20260926053500 +0000" stop="20260926073000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Twinless</title>
-</programme>
-<programme start="20260926110500 +0000" stop="20260926130000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Panda Plan 2: The Magical Tribe</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926151500 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Bridesmaids</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926171500 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Superbad</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926190000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
-    <title>Nirvanna the Band the Show the Movie</title>
-</programme>
-<programme start="20260925232500 +0000" stop="20260926020000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Goodfellas</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926035000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Lurker</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926055000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Sharp Corner</title>
-</programme>
-<programme start="20260926055000 +0000" stop="20260926080500 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Dog Day Afternoon</title>
-</programme>
-<programme start="20260926100500 +0000" stop="20260926121000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Now You See Me</title>
-</programme>
-<programme start="20260926121000 +0000" stop="20260926143000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Now You See Me 2</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926164500 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Mr &amp; Mrs Smith</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926190000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Sherlock Holmes</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926005500 +0000" channel="Sky_Drama.virginmediatv">
-    <title>True Grit</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926024000 +0000" channel="Sky_Drama.virginmediatv">
-    <title>The Cut</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926042500 +0000" channel="Sky_Drama.virginmediatv">
-    <title>Wish You Were Here</title>
-</programme>
-<programme start="20260926042500 +0000" stop="20260926060500 +0000" channel="Sky_Drama.virginmediatv">
-    <title>Love Me</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926121500 +0000" channel="Sky_Drama.virginmediatv">
-    <title>Don&#039;t Let&#039;s Go to the Dogs Tonight</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926142000 +0000" channel="Sky_Drama.virginmediatv">
-    <title>Valentine&#039;s Day</title>
-</programme>
-<programme start="20260926142000 +0000" stop="20260926161500 +0000" channel="Sky_Drama.virginmediatv">
-    <title>True Grit</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926190000 +0000" channel="Sky_Drama.virginmediatv">
-    <title>One Battle After Another</title>
-</programme>
-<programme start="20260925230500 +0000" stop="20260926012000 +0000" channel="Sky_Action.virginmediatv">
-    <title>Kraven the Hunter</title>
-</programme>
-<programme start="20260926012000 +0000" stop="20260926032000 +0000" channel="Sky_Action.virginmediatv">
-    <title>The Italian Job</title>
-</programme>
-<programme start="20260926032000 +0000" stop="20260926033500 +0000" channel="Sky_Action.virginmediatv">
-    <title>The Cinema List: Nature Gone Wild</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926052500 +0000" channel="Sky_Action.virginmediatv">
-    <title>The Mechanic</title>
-</programme>
-<programme start="20260926052500 +0000" stop="20260926071000 +0000" channel="Sky_Action.virginmediatv">
-    <title>Mr. Nice Guy</title>
-</programme>
-<programme start="20260926104500 +0000" stop="20260926125500 +0000" channel="Sky_Action.virginmediatv">
-    <title>The Expendables 3</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926145500 +0000" channel="Sky_Action.virginmediatv">
-    <title>Supergirl</title>
-</programme>
-<programme start="20260926145500 +0000" stop="20260926165500 +0000" channel="Sky_Action.virginmediatv">
-    <title>S.W.A.T.</title>
-</programme>
-<programme start="20260926165500 +0000" stop="20260926190000 +0000" channel="Sky_Action.virginmediatv">
-    <title>Justice League</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926021000 +0000" channel="Film4_HD.virginmediatv">
-    <title>The Northman</title>
-</programme>
-<programme start="20260926021000 +0000" stop="20260926061000 +0000" channel="Film4_HD.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926100000 +0000" stop="20260926122000 +0000" channel="Film4_HD.virginmediatv">
-    <title>Anzio</title>
-</programme>
-<programme start="20260926122000 +0000" stop="20260926123000 +0000" channel="Film4_HD.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926150500 +0000" channel="Film4_HD.virginmediatv">
-    <title>The Long Ships</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926151500 +0000" channel="Film4_HD.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926173500 +0000" channel="Film4_HD.virginmediatv">
-    <title>The Kid Who Would Be King</title>
-</programme>
-<programme start="20260926173500 +0000" stop="20260926174500 +0000" channel="Film4_HD.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="Film4_HD.virginmediatv">
-    <title>The Eagle</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926105500 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Chequered Flag</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: Laver Cup - Day 2</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926184500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live: Super League Rugby - Semi-Final: Wigan Warriors v Wakefield Trinity</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Prem Classics - 2012/13: Manchester United v Everton</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926021500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2012: Wolverhampton Wanderers v West Bromwich Albion</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926023000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2009: Burnley v Manchester United</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926024500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2013: Cardiff City v Manchester City</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2001: Arsenal v Charlton Athletic</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Best Premier League Goals - 2002/03</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Legends - David Seaman</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Icons - Paolo Di Canio</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926051500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Fan&#039;s Vote - 2015: Manchester United v Norwich City</title>
-</programme>
-<programme start="20260926051500 +0000" stop="20260926053000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Fan&#039;s Vote - 1993: Oldham Athletic v Southampton</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926054500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2005: Portsmouth v Southampton</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2012: Queens Park Rangers v Liverpool</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Stories - Granit Xhaka</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Big Interview - Lewie Coyle</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926155000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Live: WSL - London City Lionesses v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Championship Retro - 2019 Play-Off Semi-Final: Leeds United v Derby County</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926011500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Play-Off Classics - 2010: Cardiff v Leicester</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926013000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Play-Off Classics - 2010: Blackpool v Cardiff</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926014500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Play-Off Classics - 2012: Blackpool v West Ham</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Play-Off Classics - 2013: Watford v Leicester</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Scottish Premiership Football - Rangers v Celtic</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926024500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Greatest - 2016/17: Burton Albion v Birmingham City</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Greatest - 2016/17: Birmingham City v Aston Villa</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Cup - Final: Chelsea v Manchester City</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Best Goals of the Carabao Cup - 2018/19</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>The Story of Frank Soo</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Cup Retro - 2011: Birmingham City v Arsenal</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Cup - Round 3: Liverpool v Tottenham Hotspur</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926190000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>Live: EFL League Two - Oldham Athletic v Salford City</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Women&#039;s One-Day International Cricket - 2nd ODI: England v Ireland</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
-</programme>
-<programme start="20260926044500 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>One-Day International Cricket - 1st ODI: England v India</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>One-Day International Cricket - 2nd ODI: England v Sri Lanka</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>One-Day International Cricket - 1st ODI: England v India</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>One-Day International Cricket - 2nd ODI: England v India</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>One-Day International Cricket - 3rd ODI: England v India</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>International T20 Cricket - 5th T20: England v India</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Nepal Climbing Cricket&#039;s Mountain</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Test Cricket - 3rd Test, Day 1: England v Pakistan</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 4</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 4</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 4</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Presidents Cup, PGA Tour Golf - Day 2: Highlights</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Legends Tour Golf - Ni Legends Open</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926100000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 2</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926153000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Live: Open de France, DP World Tour Golf - Day 3</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Live: Presidents Cup, PGA Tour Golf - Day 3: Fourballs</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Minnesota Vikings at Chicago Bears</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Detroit Lions at Buffalo Bills</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Denver Broncos at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926141500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Pittsburgh Steelers at New England Patriots</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926143000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Washington Commanders at Dallas Cowboys</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926144500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Seattle Seahawks at Arizona Cardinals</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926150000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Atlanta Falcons at Green Bay Packers</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926014500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Super League Rugby - Semi-Final: Leeds Rhinos v Warrington Wolves</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>EFL Greatest - 2013/14: Derby County v Nottingham Forest</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926083000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live Tennis - WTA/ATP: Day 6</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926135000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live: Presidents Cup, PGA Tour Golf - Day 3: Fourballs</title>
-</programme>
-<programme start="20260926135000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live: EFL League One - Cambridge United v AFC Wimbledon</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Match Centre</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926163000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Match Centre</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Match Centre</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Prem Classics - 2009/10: Blackburn Rovers v Burnley</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>EFL - 2021/22 Championship Season Review</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>IndyCar Series Racing - Grand Prix of Long Beach: Highlights</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926041500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>My Icon - Maggie Alphonsi</title>
-</programme>
-<programme start="20260926041500 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>My Icon - Nasser Hussain</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926044500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Legends of Darts - Eric Bristow</title>
-</programme>
-<programme start="20260926044500 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Legends of Darts - Bob Anderson</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926051500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2012: Manchester United v Everton</title>
-</programme>
-<programme start="20260926051500 +0000" stop="20260926053000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 1996/97: Newcastle United v Leicester City</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926054500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 1994: Liverpool v Manchester United</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2016: Swansea City v Crystal Palace</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926121500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Legends of Darts - Dennis Priestley</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Legends of Darts - Adrian Lewis</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926133000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>British Kart Championships - Silverstone</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926143000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>British GT Championship Motor Racing - Donington Park: Highlights</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926154000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Martin Brundle with Lando Norris</title>
-</programme>
-<programme start="20260926154000 +0000" stop="20260926155000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Martin Brundle with Lando Norris</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>Live: WSL - London City Lionesses v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: Day Highlights - Day 5</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP &amp; WTA Classic Matches - ATP Beijing 2024: Carlos Alcaraz v Jannick Sinner</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 97</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926063000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live Tennis - WTA/ATP: Day 6</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live: Laver Cup - Day 2</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926161500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: WTA Canadian Open 2026 - Final</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926163000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP Canadian Open 2026 - Final</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 97</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
-    <title>Racing to Win</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
-    <title>Racing Specials - For The Love Of The Racehorse</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926080000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
-    <title>Live: Australian Racing</title>
-</programme>
-<programme start="20260926100000 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
-    <title>Live: International Raceday</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926200000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
-    <title>Live: Raceday</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926001500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926014500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926030000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926043000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926054500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926071500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260926111500 +0000" stop="20260926121500 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Full SP: Preview</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926173000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Live: Racing</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Full SP: Review</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926001500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926014500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926030000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926043000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926054500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926071500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260926111500 +0000" stop="20260926121500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Full SP: Preview</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926173000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Live: Racing</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Full SP: Review</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Premier League Free-Kicks</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926011500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926030000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League - Fulham v Manchester United</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Everton v Manchester United</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926054500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926060000 +0000" channel="MUTV.virginmediatv">
-    <title>Access All Areas - Fulham</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926121500 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League - Fulham v Manchester United</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926130000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926134000 +0000" channel="MUTV.virginmediatv">
-    <title>Farewell Casemiro</title>
-</programme>
-<programme start="20260926134000 +0000" stop="20260926140000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Casemiro</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="MUTV.virginmediatv">
-    <title>Under 18 Premier League - Highlights: Manchester United U18 v Wolverhampton Wanderers U18</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926151500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926153000 +0000" channel="MUTV.virginmediatv">
-    <title>Access All Areas - Fulham</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926171500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926173000 +0000" channel="MUTV.virginmediatv">
-    <title>Access All Areas - Fulham</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Fulham v Manchester United</title>
-</programme>
-<programme start="20260925223500 +0000" stop="20260926000500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>FIA Formula 2 Championship - Azerbaijan: Sprint Race</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926001500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Yuki Tsonada at the Skypad</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926012500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: 3rd Practice</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926033500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926040500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Qualifying</title>
-</programme>
-<programme start="20260926040500 +0000" stop="20260926043000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best Of Australia 2026</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best Of China 2026</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926062000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>FIA Formula 2 Championship - Azerbaijan: Feature Race 1</title>
-</programme>
-<programme start="20260926105500 +0000" stop="20260926130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Chequered Flag</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926144500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926154500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926175500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926175500 +0000" stop="20260926183000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926023000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Major League Baseball - Cleveland Guardians at Kansas City Royals</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>MLB Plays of the Week - Episode 25</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>UEFA Champions League Magazine - Episode 4</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926080000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Australian Rules - Grand Final: Fremantle v Brisbane Lions</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: CRO Race Road Cycling - Stage 5</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>PREM Rugby - Harlequins v Bath</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926161500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: PREM Rugby - Exeter Chiefs v Gloucester</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926184500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: PREM Rugby - Sale Sharks v Bristol Bears</title>
-</programme>
-<programme start="20260925223000 +0000" stop="20260926001500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Lions Uncut: Australia 2025</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926011500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>PREM Rugby - Northampton Saints v Newcastle Red Bulls</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926013000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>No Filter Rugby - Autumn Nations Series: England v New Zealand</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926043000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Major League Baseball - Arizona Diamondbacks at San Diego Padres</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>T100 Triathlon World Tour - French Riviera</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Laver Cup - Day 1</title>
-</programme>
-<programme start="20260926114500 +0000" stop="20260926140000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 5: Flavio Cobolli v Learner Tien</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 6: Alexander Zverev v Alex de Minaur</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>T100 Triathlon World Tour - French Riviera</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926164500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>TNT Sports Reload - Episode 38</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926171600 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Inside Serie A - International Break Special</title>
-</programme>
-<programme start="20260926171600 +0000" stop="20260926174500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>UEFA Champions League Magazine - Episode 4</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Laver Cup - Match 7: Alcaraz v Taylor Fritz</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Ultimate Pool NxtGen - Future Stars: Group 3</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Golden Trail World Series - Myoko Trail</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>UCI Road World Championships - Montréal: Highlights</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>FEI World Cup Jumping - Williamsburg</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Fishing: On the Bank - Greys Lochstyle Team Championship</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>ETPL - Final: Edinburgh Castle Rockers v Belfast Wolves</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>CPL T20 - Final: Antigua &amp; Barbuda Falcons v Jamaica Kingsmen</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>PREM Rugby - Northampton Saints v Newcastle Red Bulls</title>
-</programme>
-<programme start="20260926113000 +0000" stop="20260926123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>UCI Road World Championships - Montréal: Highlights</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926184500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Live: UCI Road World Championships - Montréal: Women&#039;s Elite Road Race</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Serie A Full Impact - Episode 5</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Inside Serie A - International Break Special</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Laver Cup - Day 1</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>World Climbing Series - Chongqing</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Discovery Golf - Episode 30</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Formula E Flashback - London ePrix 2015</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926051500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Premier League Reload - Matchday 5</title>
-</programme>
-<programme start="20260926051500 +0000" stop="20260926053000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>British Superbikes Rewind - Round 9 Showdown: Assen GP</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926063000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>MotoGP - Austrian Grand Prix</title>
-</programme>
-<programme start="20260926114500 +0000" stop="20260926130000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: FIM Superbike World Championship Motorcycle Racing - Italian Round: Supersport Race 1</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926143000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: FIM Superbike World Championship Motorcycle Racing - Italian Round: Superbike Race 1</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>FIM Speedway Grand Prix - Round 9: Grand Prix of Denmark</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926200000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: FIM Speedway Grand Prix - Round 10: Grand Prix of Poland</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>UEFA Champions League Magazine - Episode 4</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926023000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>United Rugby Championship - Connacht v DHL Stormers</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926043000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Top 14 - USA Perpignan v Union Bordeaux-Bègles</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Sporting Countdowns - Episode 8</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Coppa Italia Show - Round 2 Highlights</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Top 14 Highlights - Round 3</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926134500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Live: United Rugby Championship - 10bet Lions v Leinster</title>
-</programme>
-<programme start="20260926134500 +0000" stop="20260926161000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Live: United Rugby Championship - Hollywoodbets Sharks v Ospreys</title>
-</programme>
-<programme start="20260926161000 +0000" stop="20260926185500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Live: United Rugby Championship - Munster v Glasgow Warriors</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926023000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: NHL Hockey - Pre-Season: New York Rangers v New York Islanders</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Temples of Sport - Lord&#039;s Cricket Ground</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>United Rugby Championship - Ulster v Edinburgh</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Grand Prix Insights - Episode 18</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926073000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Scottish Premiership Football - Kilmarnock v Heart of Midlothian</title>
-</programme>
-<programme start="20260926115500 +0000" stop="20260926122500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Top 14 Highlights - Round 3</title>
-</programme>
-<programme start="20260926122500 +0000" stop="20260926143000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: Top 14 - USA Perpignan v Union Bordeaux-Bègles</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926162500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: Top 14 - Stade Français Paris v LOU Rugby</title>
-</programme>
-<programme start="20260926162500 +0000" stop="20260926183000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: United Rugby Championship - Zebre Parma v Vodacom Bulls</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926105500 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Chequered Flag</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: Laver Cup - Day 2</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926184500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live: Super League Rugby - Semi-Final: Wigan Warriors v Wakefield Trinity</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Prem Classics - 2012/13: Manchester United v Everton</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926021500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2012: Wolverhampton Wanderers v West Bromwich Albion</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926023000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2009: Burnley v Manchester United</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926024500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2013: Cardiff City v Manchester City</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2001: Arsenal v Charlton Athletic</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Best Premier League Goals - 2002/03</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Legends - David Seaman</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Legends - Paolo Di Canio</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926051500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Fan&#039;s Vote - 2015: Manchester United v Norwich City</title>
-</programme>
-<programme start="20260926051500 +0000" stop="20260926053000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Fan&#039;s Vote - 1993: Oldham Athletic v Southampton</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926054500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2005: Portsmouth v Southampton</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2012: Queens Park Rangers v Liverpool</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Stories - Granit Xhaka</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Big Interview - Lewie Coyle</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926155000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Live: WSL - London City Lionesses v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Championship Retro - 2019 Play-Off Semi-Final: Leeds United v Derby County</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926011500 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Play-Off Classics - 2010: Cardiff v Leicester</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926013000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Play-Off Classics - 2010: Blackpool v Cardiff</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926014500 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Play-Off Classics - 2012: Blackpool v West Ham</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Play-Off Classics - 2013: Watford v Leicester</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Scottish Premiership Football - Rangers v Celtic</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926024500 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Greatest - 2016/17: Burton Albion v Birmingham City</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Greatest - 2016/17: Birmingham City v Aston Villa</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Cup - Final: Chelsea v Manchester City</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Best Goals of the Carabao Cup - 2018/19</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>The Story of Frank Soo</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Cup Retro - 2011: Birmingham City v Arsenal</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Cup - Round 3: Liverpool v Tottenham Hotspur</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926190000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>Live: EFL League Two - Oldham Athletic v Salford City</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Women&#039;s One-Day International Cricket - 2nd ODI: England v Ireland</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
-</programme>
-<programme start="20260926044500 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>One-Day International Cricket - 1st ODI: England v India</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>One-Day International Cricket - 2nd ODI: England v Sri Lanka</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>One-Day International Cricket - 1st ODI: England v India</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>One-Day International Cricket - 2nd ODI: England v India</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>One-Day International Cricket - 3rd ODI: England v India</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>International T20 Cricket - 5th T20: England v India</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Nepal Climbing Cricket&#039;s Mountain</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Test Cricket - 3rd Test, Day 1: England v Pakistan</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 4</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 4</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 4</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Presidents Cup, PGA Tour Golf - Day 2: Highlights</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Legends Tour Golf - Ni Legends Open</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926100000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Open de France, DP World Tour Golf - Day 2</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926153000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Live: Open de France, DP World Tour Golf - Day 3</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Live: Presidents Cup, PGA Tour Golf - Day 3: Fourballs</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Minnesota Vikings at Chicago Bears</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Detroit Lions at Buffalo Bills</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Denver Broncos at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926141500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Pittsburgh Steelers at New England Patriots</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926143000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Washington Commanders at Dallas Cowboys</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926144500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Seattle Seahawks at Arizona Cardinals</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926150000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Atlanta Falcons at Green Bay Packers</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926014500 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Super League Rugby - Semi-Final: Leeds Rhinos v Warrington Wolves</title>
-</programme>
-<programme start="20260926014500 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>EFL Greatest - 2013/14: Derby County v Nottingham Forest</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926083000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live Tennis - WTA/ATP: Day 6</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926135000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live: Presidents Cup, PGA Tour Golf - Day 3: Fourballs</title>
-</programme>
-<programme start="20260926135000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live: EFL League One - Cambridge United v AFC Wimbledon</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Match Centre</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926163000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Soccer Saturday</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Match Centre</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Match Centre</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Prem Classics - 2009/10: Blackburn Rovers v Burnley</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>EFL - 2021/22 Championship Season Review</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>IndyCar Series Racing - Grand Prix of Long Beach: Highlights</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926041500 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>My Icon - Maggie Alphonsi</title>
-</programme>
-<programme start="20260926041500 +0000" stop="20260926043000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>My Icon - Nasser Hussain</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926044500 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Legends of Darts - Eric Bristow</title>
-</programme>
-<programme start="20260926044500 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Legends of Darts - Bob Anderson</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926051500 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2012: Manchester United v Everton</title>
-</programme>
-<programme start="20260926051500 +0000" stop="20260926053000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 1996/97: Newcastle United v Leicester City</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926054500 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 1994: Liverpool v Manchester United</title>
-</programme>
-<programme start="20260926054500 +0000" stop="20260926060000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>The Premier League&#039;s Greatest Games - 2016: Swansea City v Crystal Palace</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926121500 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Legends of Darts - Dennis Priestley</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926123000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Legends of Darts - Adrian Lewis</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926133000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>British Kart Championships - Silverstone</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926143000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>British GT Championship Motor Racing - Donington Park: Highlights</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926154000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Martin Brundle with Lando Norris</title>
-</programme>
-<programme start="20260926154000 +0000" stop="20260926155000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Martin Brundle with Lando Norris</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>Live: WSL - London City Lionesses v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: Day Highlights - Day 5</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP &amp; WTA Classic Matches - ATP Beijing 2024: Carlos Alcaraz v Jannick Sinner</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 97</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926063000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live Tennis - WTA/ATP: Day 6</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live: Laver Cup - Day 2</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926161500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: WTA Canadian Open 2026 - Final</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926163000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP Canadian Open 2026 - Final</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 97</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
-</programme>
-<programme start="20260925223500 +0000" stop="20260926000500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>FIA Formula 2 Championship - Azerbaijan: Sprint Race</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926001500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Yuki Tsonada at the Skypad</title>
-</programme>
-<programme start="20260926001500 +0000" stop="20260926012500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: 3rd Practice</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926033500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926040500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Qualifying</title>
-</programme>
-<programme start="20260926040500 +0000" stop="20260926043000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best Of Australia 2026</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best Of China 2026</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926062000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>FIA Formula 2 Championship - Azerbaijan: Feature Race 1</title>
-</programme>
-<programme start="20260926105500 +0000" stop="20260926130000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Live: Formula 1 - Azerbaijan Grand Prix: Chequered Flag</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926144500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926154500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926175500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260926175500 +0000" stop="20260926183000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ted&#039;s Notebook - Azerbaijan Grand Prix: Race</title>
-</programme>
-<programme start="20260925223000 +0000" stop="20260926000300 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>High Noon</title>
-</programme>
-<programme start="20260926000300 +0000" stop="20260926000500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>An Aimsir Láithreach - Episode 268</title>
-</programme>
-<programme start="20260926000500 +0000" stop="20260926010000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Éire &amp; Taisteal - Episode 3</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926012500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Malcolm in the Middle - Lois Strikes Back</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926020000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Malcolm in the Middle - Hal&#039;s Dentist</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926022500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Nuacht TG4 - Episode 268</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926032500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Opry le Daniel - New Country</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926035500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Scéalta Na Gcorn - Derry</title>
-</programme>
-<programme start="20260926035500 +0000" stop="20260926042000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Comhrá - Éamonn Keogh</title>
-</programme>
-<programme start="20260926042000 +0000" stop="20260926044500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Cúramóirí - Episode 3</title>
-</programme>
-<programme start="20260926044500 +0000" stop="20260926050000 +0000" channel="TG4+1_HD.virginmediatv">
+<programme start="20260927040500 +0000" stop="20260927043000 +0000" channel="TG4_HD.virginmediatv">
     <title>France 24</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="TG4_HD.virginmediatv">
+    <title>France 24</title>
 </programme>
-<programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926005000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>American Pie</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926014000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Ramsay&#039;s Kitchen Nightmares USA - Flamango&#039;s</title>
-</programme>
-<programme start="20260926014000 +0000" stop="20260926020500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Come Dine with Me - Boston: Annika</title>
-</programme>
-<programme start="20260926020500 +0000" stop="20260926023500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Come Dine with Me - Boston: Katy</title>
-</programme>
-<programme start="20260926023500 +0000" stop="20260926030000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Come Dine with Me - Boston: Adrian</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926032500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Come Dine with Me - Boston: Sylwia</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926035500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Come Dine with Me - Boston: Carolyn</title>
-</programme>
-<programme start="20260926035500 +0000" stop="20260926045000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Inside the World&#039;s Most Luxurious... - Cruises</title>
-</programme>
-<programme start="20260926045000 +0000" stop="20260926054000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Location, Location, Location - North London</title>
-</programme>
-<programme start="20260926054000 +0000" stop="20260926055000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Sunday Brunch</title>
-</programme>
-<programme start="20260926055000 +0000" stop="20260926061500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>A Place in the Sun - Valencia</title>
-</programme>
-<programme start="20260926113500 +0000" stop="20260926120500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>The Simpsons - So It&#039;s Come to This: The Simpsons Clip Show</title>
-</programme>
-<programme start="20260926120500 +0000" stop="20260926123500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Four in a Bed - The Firs</title>
-</programme>
-<programme start="20260926123500 +0000" stop="20260926131000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Four in a Bed - The National Hotel</title>
-</programme>
-<programme start="20260926131000 +0000" stop="20260926134000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Four in a Bed - The Black Bull Inn</title>
-</programme>
-<programme start="20260926134000 +0000" stop="20260926141000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Four in a Bed - Braeview Glamping</title>
-</programme>
-<programme start="20260926141000 +0000" stop="20260926144500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Four in a Bed - Payment Day</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926161500 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>The Great British Bake Off - Cake Week</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926170000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>The Great British Bake Off: Second Helpings - Episode 1</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Channel 4 News</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926200000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
-</programme>
-<programme start="20260925234000 +0000" stop="20260926022500 +0000" channel="E4+1.virginmediatv">
-    <title>Kingsman: The Golden Circle</title>
-</programme>
-<programme start="20260926022500 +0000" stop="20260926031500 +0000" channel="E4+1.virginmediatv">
-    <title>Below Deck Down Under - Making Enemies</title>
-</programme>
-<programme start="20260926031500 +0000" stop="20260926034000 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - I, Carumbus</title>
-</programme>
-<programme start="20260926034000 +0000" stop="20260926040500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Double Double Boy in Trouble</title>
-</programme>
-<programme start="20260926040500 +0000" stop="20260926043000 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Do Pizza Bots Dream of Electric Guitars</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926045500 +0000" channel="E4+1.virginmediatv">
-    <title>The Goldbergs - Alligator Schwartz</title>
-</programme>
-<programme start="20260926045500 +0000" stop="20260926052000 +0000" channel="E4+1.virginmediatv">
-    <title>The Goldbergs - The Proposal</title>
-</programme>
-<programme start="20260926052000 +0000" stop="20260926060000 +0000" channel="E4+1.virginmediatv">
-    <title>Brooklyn Nine-Nine - Fancy Brudgom</title>
-</programme>
-<programme start="20260926111500 +0000" stop="20260926121500 +0000" channel="E4+1.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Murphy&#039;s Historic Hotel</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926131500 +0000" channel="E4+1.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Curtis House</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926141500 +0000" channel="E4+1.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Calumet Inn</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926144500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Dude, Where&#039;s My Ranch?</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926151500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Old Yeller-Belly</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926154500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Brake My Wife, Please</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926161500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - The Bart of War</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926164500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Moe Baby Blues</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926171500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Regarding Margie</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926174500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - The Monkey Suit</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926181500 +0000" channel="E4+1.virginmediatv">
-    <title>The Simpsons - Marge and Homer Turn a Couple Play</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>FBI - Stay in Your Lane</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>FBI - Creating a Monster</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>FBI: International - Keen as a Bean</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>FBI: Most Wanted - A Man Without a Country</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Motorway Patrol - Episode 7</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Motorway Patrol - Episode 8</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Brit Cops: Law and Disorder - Gun Arrest</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926124000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Caught Red Handed - Episode 10</title>
-</programme>
-<programme start="20260926124000 +0000" stop="20260926132000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Caught Red Handed - Episode 11</title>
-</programme>
-<programme start="20260926132000 +0000" stop="20260926140000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Caught Red Handed - Episode 12</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 4</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 5</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 6</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 7</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 8</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 9</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 10</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_Witness_+1.virginmediatv">
-    <title>Nothing to Declare - Episode 11</title>
-</programme>
-<programme start="20260925232000 +0000" stop="20260926002000 +0000" channel="More4+1.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 4</title>
-</programme>
-<programme start="20260926002000 +0000" stop="20260926012500 +0000" channel="More4+1.virginmediatv">
-    <title>999: On the Front Line - Episode 3</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926023000 +0000" channel="More4+1.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 5</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926033000 +0000" channel="More4+1.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 4</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="More4+1.virginmediatv">
-    <title>Food Unwrapped - Deep South Adventure</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926085500 +0000" channel="More4+1.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926113500 +0000" stop="20260926123500 +0000" channel="More4+1.virginmediatv">
-    <title>A Place in the Sun - Almería coast</title>
-</programme>
-<programme start="20260926123500 +0000" stop="20260926133500 +0000" channel="More4+1.virginmediatv">
-    <title>A Place in the Sun - St Lucia</title>
-</programme>
-<programme start="20260926133500 +0000" stop="20260926144000 +0000" channel="More4+1.virginmediatv">
-    <title>A Place in the Sun - Andalucía, Spain</title>
-</programme>
-<programme start="20260926144000 +0000" stop="20260926154000 +0000" channel="More4+1.virginmediatv">
-    <title>A Place in the Sun - Andalucía, Spain</title>
-</programme>
-<programme start="20260926154000 +0000" stop="20260926161500 +0000" channel="More4+1.virginmediatv">
-    <title>Come Dine with Me - Essex: Natalie</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926165000 +0000" channel="More4+1.virginmediatv">
-    <title>Come Dine with Me - Essex: Alison</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926172000 +0000" channel="More4+1.virginmediatv">
-    <title>Come Dine with Me - Essex: Amarinder</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926175000 +0000" channel="More4+1.virginmediatv">
-    <title>Come Dine with Me - Essex: Donia</title>
-</programme>
-<programme start="20260926175000 +0000" stop="20260926182000 +0000" channel="More4+1.virginmediatv">
-    <title>Come Dine with Me - Essex: Dean</title>
-</programme>
-<programme start="20260925235500 +0000" stop="20260926003500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>The Vicar of Dibley - Animals</title>
-</programme>
-<programme start="20260926003500 +0000" stop="20260926011500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>The Royle Family - Making Ends Meet</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926015500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Not Going Out - Alcohol</title>
-</programme>
-<programme start="20260926015500 +0000" stop="20260926024000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Mrs Brown&#039;s Boys - SuperMammy</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926031000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Black Ops - Episode 6</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926040000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>The Green Green Grass - The Final Curtain</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926115500 +0000" stop="20260926123500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Open All Hours - The Ginger Men</title>
-</programme>
-<programme start="20260926123500 +0000" stop="20260926131500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Open All Hours - Duet for Solo Bicycle</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926135500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Open All Hours - How to Ignite Your Errand Boy</title>
-</programme>
-<programme start="20260926135500 +0000" stop="20260926143500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Open All Hours - The Man From Down Under</title>
-</programme>
-<programme start="20260926143500 +0000" stop="20260926151000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Open All Hours - The Cool Cocoa Tin Lid</title>
-</programme>
-<programme start="20260926151000 +0000" stop="20260926162500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Only Fools and Horses... - Little Problems</title>
-</programme>
-<programme start="20260926162500 +0000" stop="20260926170000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>The Vicar of Dibley - Dibley Live</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926174000 +0000" channel="UandGold_+1.virginmediatv">
-    <title>The Vicar of Dibley - Animals</title>
-</programme>
-<programme start="20260926174000 +0000" stop="20260926181500 +0000" channel="UandGold_+1.virginmediatv">
-    <title>Open All Hours - Beware of the Dog</title>
-</programme>
-<programme start="20260925210000 +0000" stop="20260926003000 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>Braveheart</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926031000 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>The Northman</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926071000 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926110000 +0000" stop="20260926132000 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>Anzio</title>
-</programme>
-<programme start="20260926132000 +0000" stop="20260926133000 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926160500 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>The Long Ships</title>
-</programme>
-<programme start="20260926160500 +0000" stop="20260926161500 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>Bridge of Spies: Interview Special</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926183500 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>The Kid Who Would Be King</title>
-</programme>
-<programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Iain Stirling&#039;s Roast The Internet - Jonathan Ross, AJ Odudu, Lou Sanders</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926011500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>8 Out of 10 Cats - Episode 9</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926015000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>8 Out of 10 Cats - Best Bits</title>
-</programme>
-<programme start="20260926015000 +0000" stop="20260926021500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Whose Line Is It Anyway? USA - Jeff Davis 16</title>
-</programme>
-<programme start="20260926021500 +0000" stop="20260926024500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Whose Line Is It Anyway? USA - Gary Anthony Williams 11</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926033000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Michael McIntyre&#039;s Big Show - Episode 5</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926035000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Key &amp; Peele - Sexy Vampires</title>
-</programme>
-<programme start="20260926035000 +0000" stop="20260926041500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show - Merritt Wever</title>
-</programme>
-<programme start="20260926041500 +0000" stop="20260926044000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Routine</title>
-</programme>
-<programme start="20260926044000 +0000" stop="20260926050000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Apothecary Table</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Teleshopping</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Stoned Guy</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With Two Parts</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Michael McIntyre&#039;s Big Show - Episode 5</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With Two Parts</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With All the Poker</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One Where the Monkey Gets Away</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926155500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Evil Orthodontist</title>
-</programme>
-<programme start="20260926155500 +0000" stop="20260926162500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Fake Monica</title>
-</programme>
-<programme start="20260926162500 +0000" stop="20260926165500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Ick Factor</title>
-</programme>
-<programme start="20260926165500 +0000" stop="20260926172000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With the Birth</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926175000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One Where Rachel Finds Out</title>
-</programme>
-<programme start="20260926175000 +0000" stop="20260926182000 +0000" channel="Comedy_+1.virginmediatv">
-    <title>Friends - The One With Ross&#039;s New Girlfriend</title>
-</programme>
-<programme start="20260925230000 +0000" stop="20260926060000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926121000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Lex and Plu Space Taxi Drivers - Storm of Likes</title>
-</programme>
-<programme start="20260926121000 +0000" stop="20260926121500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Bluey - The Weekend</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926122500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Bluey - Stumpfest</title>
-</programme>
-<programme start="20260926122500 +0000" stop="20260926123000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Bluey - Explorers</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926123500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Yakka Dee - Sheep</title>
-</programme>
-<programme start="20260926123500 +0000" stop="20260926125500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Tír na nÓg - Fionn Flaithiúil</title>
-</programme>
-<programme start="20260926125500 +0000" stop="20260926130000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Adam Loves Adventure - Unhappy Birthday</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926131000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Adam Loves Adventure - The Big Sneeze</title>
-</programme>
-<programme start="20260926131000 +0000" stop="20260926131500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Brewster the Rooster - Brandon&#039;s Bee-Line</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926132500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Brewster the Rooster - Flat as a Pancake</title>
-</programme>
-<programme start="20260926132500 +0000" stop="20260926134000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Body Brothers - Bicycles</title>
-</programme>
-<programme start="20260926134000 +0000" stop="20260926135000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>The Day Henry Met? - The Day Henry Met... A Guitar</title>
-</programme>
-<programme start="20260926135000 +0000" stop="20260926140000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Ballybraddan - Shall I Compare Thee to a Landed Salmon?</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926141500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Tír na nÓg - Tóraíocht Taisce</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926142000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Puffin Rock As Gaeilge - Picnic ag Baba</title>
-</programme>
-<programme start="20260926142000 +0000" stop="20260926143000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Puffin Rock As Gaeilge - Campáil i bpluais</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926144500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Andy&#039;s Wild Adventures - Prairie Dogs</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926145500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Fireman Sam - Magic Mandini and the Great Normanski</title>
-</programme>
-<programme start="20260926145500 +0000" stop="20260926151000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Fireman Sam - Pontypandy&#039;s Big Show</title>
-</programme>
-<programme start="20260926151000 +0000" stop="20260926151500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Fia&#039;s Fairies - The Big Clean Up</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926152500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Mixmups - Diggy Pirate Hunt</title>
-</programme>
-<programme start="20260926152500 +0000" stop="20260926153500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>The Wee Littles - A Wee Little Dance</title>
-</programme>
-<programme start="20260926153500 +0000" stop="20260926154000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Lex and Plu Space Taxi Drivers - Storm of Likes</title>
-</programme>
-<programme start="20260926154000 +0000" stop="20260926155000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>The Wee Littles - Ooh, New Shoes!</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926160000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Bellie and Whizz `Minding Me&#039; - Grumpy</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926161000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Bellie and Whizz `Minding Me&#039; - Love</title>
-</programme>
-<programme start="20260926161000 +0000" stop="20260926162500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Daniel Tiger&#039;s Neighbourhood - Daniel Loves Tigey</title>
-</programme>
-<programme start="20260926162500 +0000" stop="20260926164000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Let&#039;s Find Out - Trains</title>
-</programme>
-<programme start="20260926164000 +0000" stop="20260926165000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Builder Brothers Dream Factory - Trainspiration</title>
-</programme>
-<programme start="20260926165000 +0000" stop="20260926170000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Builder Brothers Dream Factory - Disappearing Pigeons</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926171500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Kiva Can Do - Party Island</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926172500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Peek Zoo - The Bird That Wouldn&#039;t Sing</title>
-</programme>
-<programme start="20260926172500 +0000" stop="20260926174000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Tír na nÓg - Fionn Flaithiúil</title>
-</programme>
-<programme start="20260926174000 +0000" stop="20260926174500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>Happy the Hoglet - Happy Water Works</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926180000 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>BeddyByes - Friend Song</title>
-</programme>
-<programme start="20260925203000 +0000" stop="20260926003000 +0000" channel="TRTE.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926003000 +0000" stop="20260926050000 +0000" channel="TRTE.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926063000 +0000" channel="TRTE.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926113000 +0000" stop="20260926140000 +0000" channel="TRTE.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926145000 +0000" channel="TRTE.virginmediatv">
-    <title>Bake Off: The Professionals - Fruit Cakes And Eclairs</title>
-</programme>
-<programme start="20260926145000 +0000" stop="20260926155000 +0000" channel="TRTE.virginmediatv">
-    <title>Amazing Hotels: Life Beyond the Lobby - Hacienda Vira Vira, Chile</title>
-</programme>
-<programme start="20260926155000 +0000" stop="20260926162000 +0000" channel="TRTE.virginmediatv">
-    <title>UCL Weekly Magazine - Episode 40</title>
-</programme>
-<programme start="20260926162000 +0000" stop="20260926163000 +0000" channel="TRTE.virginmediatv">
-    <title>Animal Control - Goats, Snakes, and Dogs</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926203000 +0000" channel="TRTE.virginmediatv">
-    <title>Channel Off Air</title>
-</programme>
-<programme start="20260925184600 +0000" stop="20260926024600 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Cúla 4 ar ais 6 am</title>
-</programme>
-<programme start="20260926024600 +0000" stop="20260926050000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Cúla 4 ar ais 6 am</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926050200 +0000" channel="Cula4_HD.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927050200 +0000" channel="TG4_HD.virginmediatv">
     <title>Cúla 4</title>
 </programme>
-<programme start="20260926050200 +0000" stop="20260926051300 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Seal le Sailí - Mín agus Garbh</title>
+<programme start="20260927050200 +0000" stop="20260927051300 +0000" channel="TG4_HD.virginmediatv">
+    <title>Saol Faoi Shráid - The Land of Youth</title>
 </programme>
-<programme start="20260926051300 +0000" stop="20260926052000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Garáiste Gecko - Cóiriú Ciúin; Sár-Mheicneoir; Ag Spraoi go Bog</title>
+<programme start="20260927051300 +0000" stop="20260927052000 +0000" channel="TG4_HD.virginmediatv">
+    <title>Garáiste Gecko - Motorcycle Madness; Sly and The Mole; Kat&#039;s Rocket Sky Chase</title>
 </programme>
-<programme start="20260926052000 +0000" stop="20260926054500 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Lyla in the Loop - Crack You Up; Power Out Cookout</title>
+<programme start="20260927052000 +0000" stop="20260927054500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Lyla in the Loop - Soccer Practice Practice; Sibling Swap</title>
 </programme>
-<programme start="20260926054500 +0000" stop="20260926060800 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Gailearaí Scú Scú - Episode 15</title>
+<programme start="20260927054500 +0000" stop="20260927060700 +0000" channel="TG4_HD.virginmediatv">
+    <title>Gailearaí Scú Scú - Episode 16</title>
 </programme>
-<programme start="20260926115600 +0000" stop="20260926120900 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Garfield Show - Long Lost Lyman</title>
+<programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="TG4_HD.virginmediatv">
+    <title>Live: GAA Beo - Kilkenny Club Hurling Championship, Quarter-Final: O&#039;Loughlin Gaels v Tullaroan</title>
 </programme>
-<programme start="20260926120900 +0000" stop="20260926122200 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Garfield Show - The Garfield-Only Show</title>
+<programme start="20260927140000 +0000" stop="20260927171000 +0000" channel="TG4_HD.virginmediatv">
+    <title>Live: Sacar na mBan Beo - Women&#039;s FAI Cup, Final: Shelbourne FC v Athlone Town</title>
 </programme>
-<programme start="20260926122200 +0000" stop="20260926123400 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Garfield Show - Every Witch Way</title>
+<programme start="20260927171000 +0000" stop="20260927172500 +0000" channel="TG4_HD.virginmediatv">
+    <title>Éire Eile - Fréamhacha</title>
 </programme>
-<programme start="20260926123400 +0000" stop="20260926124600 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Garfield Show - More Than Meets the Eye</title>
+<programme start="20260927172500 +0000" stop="20260927175700 +0000" channel="TG4_HD.virginmediatv">
+    <title>Trasna na dTonnta - Episode 2</title>
 </programme>
-<programme start="20260926124600 +0000" stop="20260926130000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>The Garfield Show - Fast Friends</title>
+<programme start="20260927175700 +0000" stop="20260927180000 +0000" channel="TG4_HD.virginmediatv">
+    <title>An Aimsir Láithreach - Episode 270</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926132200 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Gearóid na Gaisce - My Gadget Will Go On; The Gadgetator</title>
+<programme start="20260926221000 +0000" stop="20260927001000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Beyond the Blackboard</title>
 </programme>
-<programme start="20260926132200 +0000" stop="20260926133500 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Dodo - Poetry Slam</title>
+<programme start="20260927001000 +0000" stop="20260927010600 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Prime Suspect 1973 - Episode 2</title>
 </programme>
-<programme start="20260926133500 +0000" stop="20260926140000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Cois Cladaigh - Episode 3</title>
+<programme start="20260927010600 +0000" stop="20260927054500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Channel Off Air</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926141100 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Johnny Test - How to Train Your Johnny</title>
+<programme start="20260927054500 +0000" stop="20260927064000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Heartbeat - Witch Hunt</title>
 </programme>
-<programme start="20260926141100 +0000" stop="20260926142200 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Johnny Test - Johnny and Clyde</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Coronation Street - Episode 185</title>
 </programme>
-<programme start="20260926142200 +0000" stop="20260926143300 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Johnny Test - Johnny&#039;s Super Massive Kart Wheelies 7</title>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Coronation Street - Episode 186</title>
 </programme>
-<programme start="20260926143300 +0000" stop="20260926144800 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Johnny Test - Smooth Talking Johnny</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Coronation Street - Episode 187</title>
 </programme>
-<programme start="20260926144800 +0000" stop="20260926150000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Animal Fanpedia - Hunters</title>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Coronation Street - Episode 188</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926152400 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Harvey Beaks - Princess Wants a Mom; Rage Against the Michelle</title>
+<programme start="20260927140000 +0000" stop="20260927160500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>A Touch of Frost - Not With Kindness</title>
 </programme>
-<programme start="20260926152400 +0000" stop="20260926153000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Haigh Tusa! Céard Faoi.. - Hey You! What If... You Only Ate Burgers?</title>
+<programme start="20260927160500 +0000" stop="20260927164000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Joanna Page&#039;s Wild Life - Episode 10</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926155200 +0000" channel="Cula4_HD.virginmediatv">
+<programme start="20260927164000 +0000" stop="20260927175500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Hotel India - Episode 2</title>
+</programme>
+<programme start="20260927175500 +0000" stop="20260927183500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+    <title>Marcus Wareing Simply Provence - Episode 1</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927001500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Love Island Games - Episode 5: Aftersun</title>
+</programme>
+<programme start="20260927001500 +0000" stop="20260927013400 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Love Island Games - Episode 6</title>
+</programme>
+<programme start="20260927013400 +0000" stop="20260927060500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927115500 +0000" stop="20260927125500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Dress to Impress - Connor</title>
+</programme>
+<programme start="20260927125500 +0000" stop="20260927135500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>The Hotel Inspector - Sandygate Hotel</title>
+</programme>
+<programme start="20260927135500 +0000" stop="20260927145500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Alex Polizzi&#039;s Secret Italy - Venice and the North</title>
+</programme>
+<programme start="20260927145500 +0000" stop="20260927155500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Storage Hoarders - Episode 3</title>
+</programme>
+<programme start="20260927155500 +0000" stop="20260927165500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>John and Lisa&#039;s Weekend Kitchen - Our Table</title>
+</programme>
+<programme start="20260927165500 +0000" stop="20260927175500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>Impossible Engineering - The Glass Skyscraper</title>
+</programme>
+<programme start="20260927175500 +0000" stop="20260927190000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+    <title>River Monsters - European Maneater</title>
+</programme>
+<programme start="20260926232500 +0000" stop="20260927013000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>The Gift</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927024000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Wolf Hall: The Mirror and the Light - Jenneke</title>
+</programme>
+<programme start="20260927024000 +0000" stop="20260927060000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Euronews</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>The Week in Politics - Episode 26</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927131000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>RTÉ News: One O&#039;Clock</title>
+</programme>
+<programme start="20260927131000 +0000" stop="20260927134000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Cheap Irish Homes - Episode 4</title>
+</programme>
+<programme start="20260927134000 +0000" stop="20260927143500 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Death Valley - Episode 1</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927150500 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>The Random Driving Test - Episode 2</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927153500 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Donal&#039;s Italian Kitchen - Italian American Classics</title>
+</programme>
+<programme start="20260927153500 +0000" stop="20260927174000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Mirror Mirror</title>
+</programme>
+<programme start="20260927174000 +0000" stop="20260927175000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Nuacht</title>
+</programme>
+<programme start="20260927175000 +0000" stop="20260927180000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>RTÉ News with ISL</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Talking Movies - Festival Review</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Unspun World with John Simpson</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>AI Decoded</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Global Eye</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Streets of Gold: Mumbai - Episode 6</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927121000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC Weekend News</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927121500 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Weather for the Week Ahead</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927125000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Songs of Praise - 65th Anniversary</title>
+</programme>
+<programme start="20260927125000 +0000" stop="20260927135000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Homes Under the Hammer - Mistaken Identity</title>
+</programme>
+<programme start="20260927135000 +0000" stop="20260927151500 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Shrek</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927153000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC Weekend News</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927154000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>BBC Newsline</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927180000 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Live: Match of the Day Wales - UEFA Nations League, Group A4: Denmark v Wales</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927010000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Nostalgia</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Colin from Accounts - Episode 5</title>
+</programme>
+<programme start="20260927013500 +0000" stop="20260927020500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Colin from Accounts - Matching Set</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927051000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>This Is BBC TWO</title>
+</programme>
+<programme start="20260927051000 +0000" stop="20260927055500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>The A to Z of TV Gardening - Letter V</title>
+</programme>
+<programme start="20260927055500 +0000" stop="20260927064000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Glorious Gardens from Above - Scottish Borders</title>
+</programme>
+<programme start="20260927114000 +0000" stop="20260927130500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>The 39 Steps</title>
+</programme>
+<programme start="20260927130500 +0000" stop="20260927144000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>The Lady Vanishes</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927152500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Flog It! - Harrogate 20</title>
+</programme>
+<programme start="20260927152500 +0000" stop="20260927161500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Kingdom - Episode 2</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927171500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>This Farming Life - Episode 4</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927181500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Wild Tales from the Village</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927000500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>The Hotel Inspector - The Bulstone Hotel, Branscombe</title>
+</programme>
+<programme start="20260927000500 +0000" stop="20260927010500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Romesh Ranganathan&#039;s Parents&#039; Evening - Episode 3</title>
+</programme>
+<programme start="20260927010500 +0000" stop="20260927020500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Cilla - Episode 1</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927061000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>John and Lisa&#039;s Weekend Kitchen - Christmas Kitchen</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Long Lost Family - Episode 2</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Heathrow: Britain&#039;s Busiest Airport - Episode 6</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927153000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Deal or No Deal - Paisley</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927163000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>The Chase: Celebrity Special - Episode 3</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927173000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Celebrity Catchphrase - Stephen Mangan, Kemi Rodgers and Tom Allen</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>News at 5:30</title>
+</programme>
+<programme start="20260926232000 +0000" stop="20260927011000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Withnail and I</title>
+</programme>
+<programme start="20260927011000 +0000" stop="20260927020500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Ramsay&#039;s Kitchen Nightmares USA - Bazzini</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927023000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The Simpsons - Woo-Hoo Dunnit</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927025500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The Simpsons - Treehouse of Horror XXIX</title>
+</programme>
+<programme start="20260927025500 +0000" stop="20260927032000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The Simpsons - Who Shot Mr. Burns? (Part One)</title>
+</programme>
+<programme start="20260927032000 +0000" stop="20260927034500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The Simpsons - So It&#039;s Come to This: The Simpsons Clip Show</title>
+</programme>
+<programme start="20260927034500 +0000" stop="20260927041000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The Simpsons - Lisa the Vegetarian</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927050500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Location, Location, Location - South London</title>
+</programme>
+<programme start="20260927050500 +0000" stop="20260927053500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Cheers - If Ever I Would Leave You</title>
+</programme>
+<programme start="20260927053500 +0000" stop="20260927060000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Cheers - The Executive&#039;s Executioner</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927144000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>A Knight&#039;s Tale</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927151000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Kirstie and Phil&#039;s Love It or List It: Brilliant Builds - Making Your Budget Stretch</title>
+</programme>
+<programme start="20260927151000 +0000" stop="20260927161500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>George Clarke&#039;s Amazing Spaces - Camping Pod and a Straw Bale House</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927171500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Worst House on the Street - Sheffield: Maria and Lauren</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927174500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Channel 4 News</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927184500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The World&#039;s Biggest Cruise Ship</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927001000 +0000" channel="E4.virginmediatv">
+    <title>First Dates - Episode 3</title>
+</programme>
+<programme start="20260927001000 +0000" stop="20260927010500 +0000" channel="E4.virginmediatv">
+    <title>Vanderpump Rules - SUR-ving Drama</title>
+</programme>
+<programme start="20260927010500 +0000" stop="20260927020000 +0000" channel="E4.virginmediatv">
+    <title>Vanderpump Rules - Manifest and Chill</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927025000 +0000" channel="E4.virginmediatv">
+    <title>Vanderpump Rules - Crash Out Queens</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927033500 +0000" channel="E4.virginmediatv">
+    <title>Ramsay&#039;s Hotel Hell - Four Seasons Inn</title>
+</programme>
+<programme start="20260927033500 +0000" stop="20260927050000 +0000" channel="E4.virginmediatv">
+    <title>Don&#039;t Tell the Bride - Jazmin and Sonny</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927061000 +0000" channel="E4.virginmediatv">
+    <title>Hollyoaks: Omnibus - Episode 39</title>
+</programme>
+<programme start="20260927110500 +0000" stop="20260927124000 +0000" channel="E4.virginmediatv">
+    <title>The Great British Bake Off - Cake Week</title>
+</programme>
+<programme start="20260927124000 +0000" stop="20260927130500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - The Ten-Per-Cent Solution</title>
+</programme>
+<programme start="20260927130500 +0000" stop="20260927133500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - Politically Inept With Homer</title>
+</programme>
+<programme start="20260927133500 +0000" stop="20260927140500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - The Daughter Also Rises</title>
+</programme>
+<programme start="20260927140500 +0000" stop="20260927143500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - At Long Last Leave</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927150500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - How I Wet Your Mother</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927154000 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - Sex, Pies and Idiot-Scrapes</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927160500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - Lost Verizon</title>
+</programme>
+<programme start="20260927160500 +0000" stop="20260927163500 +0000" channel="E4.virginmediatv">
+    <title>The Simpsons - Double Double Boy in Trouble</title>
+</programme>
+<programme start="20260927163500 +0000" stop="20260927181000 +0000" channel="E4.virginmediatv">
+    <title>LEGO Masters: Grand Masters of the Galaxy - Caught in the Act</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927001000 +0000" channel="More4.virginmediatv">
+    <title>999: On the Front Line - Episode 5</title>
+</programme>
+<programme start="20260927001000 +0000" stop="20260927011500 +0000" channel="More4.virginmediatv">
+    <title>24 Hours in A&amp;E - Forever Changes</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927022000 +0000" channel="More4.virginmediatv">
+    <title>24 Hours in A&amp;E - Episode 2</title>
+</programme>
+<programme start="20260927022000 +0000" stop="20260927025000 +0000" channel="More4.virginmediatv">
+    <title>Food Unwrapped - Caribbean Adventure</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927075500 +0000" channel="More4.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="More4.virginmediatv">
+    <title>A Place in the Sun - Costa del Sol, Spain</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="More4.virginmediatv">
+    <title>A Place in the Sun - Mojácar</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927145000 +0000" channel="More4.virginmediatv">
+    <title>A Place in the Sun - Almeria</title>
+</programme>
+<programme start="20260927145000 +0000" stop="20260927152000 +0000" channel="More4.virginmediatv">
+    <title>Come Dine with Me - Midlands: Becci</title>
+</programme>
+<programme start="20260927152000 +0000" stop="20260927155000 +0000" channel="More4.virginmediatv">
+    <title>Come Dine with Me - Midlands: Louise</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927162000 +0000" channel="More4.virginmediatv">
+    <title>Come Dine with Me - Midlands: Hezron</title>
+</programme>
+<programme start="20260927162000 +0000" stop="20260927165000 +0000" channel="More4.virginmediatv">
+    <title>Come Dine with Me - Midlands: Lorna</title>
+</programme>
+<programme start="20260927165000 +0000" stop="20260927172000 +0000" channel="More4.virginmediatv">
+    <title>Come Dine with Me - Midlands: Ian</title>
+</programme>
+<programme start="20260927172000 +0000" stop="20260927175500 +0000" channel="More4.virginmediatv">
+    <title>Four in a Bed - Knockaloe Beg</title>
+</programme>
+<programme start="20260927175500 +0000" stop="20260927182500 +0000" channel="More4.virginmediatv">
+    <title>Four in a Bed - The Arches</title>
+</programme>
+<programme start="20260926233000 +0000" stop="20260927011500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Bill &amp; Ted&#039;s Excellent Adventure</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927021000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>The Force: North East - Saturday Night and Sunday Morning</title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927030500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Road Wars - Episode 1</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927033000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Road Wars - Episode 1</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Road Wars - Episode 2</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Highway Patrol - Get On the Ground</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Highway Patrol - Liar, Liar</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Surviving Earth - When the Continents Collided</title>
+</programme>
+<programme start="20260927111500 +0000" stop="20260927125500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>The Bachelor King</title>
+</programme>
+<programme start="20260927125500 +0000" stop="20260927132500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Superstore - Cheyenne&#039;s Wedding</title>
+</programme>
+<programme start="20260927132500 +0000" stop="20260927135500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Superstore - Tornado</title>
+</programme>
+<programme start="20260927135500 +0000" stop="20260927142500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Superstore - Grand Re-Opening</title>
+</programme>
+<programme start="20260927142500 +0000" stop="20260927145500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Superstore - Brett&#039;s Dead</title>
+</programme>
+<programme start="20260927145500 +0000" stop="20260927152500 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Superstore - Part-Time Hires</title>
+</programme>
+<programme start="20260927152500 +0000" stop="20260927180000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Live: WSL - Chelsea v Arsenal</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>The Good Doctor - Critical Support</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>The Force: Manchester - Episode 2</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Brit Cops: Law and Disorder - Taxi Driver</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>A1: Highway Patrol - Episode 7</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Road Wars - Episode 3</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927054000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Caught Red Handed - Episode 10</title>
+</programme>
+<programme start="20260927054000 +0000" stop="20260927062000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Caught Red Handed - Episode 11</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>UK Border Force - Episode 3</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 16</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 17</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 18</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 19</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 20</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 1</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Near Collapse</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 3</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Frequent Flyer</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_Witness_HD.virginmediatv">
+    <title>Nothing to Declare - Episode 5</title>
+</programme>
+<programme start="20260926234500 +0000" stop="20260927010000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927021500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927033000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927063000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
+</programme>
+<programme start="20260927113000 +0000" stop="20260927124500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927131500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Animal Control - Bats and Camels</title>
+</programme>
+<programme start="20260927131500 +0000" stop="20260927134500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Animal Control - Scaredy Cats and Card Sharks</title>
+</programme>
+<programme start="20260927134500 +0000" stop="20260927141500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Animal Control - Coyotes and Eagles</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927144500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Animal Control - Golden Moose and Wiener Dogs</title>
+</programme>
+<programme start="20260927144500 +0000" stop="20260927151500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Will &amp; Grace - Dames at Sea</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927154500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Will &amp; Grace - Last Ex to Brooklyn</title>
+</programme>
+<programme start="20260927154500 +0000" stop="20260927161000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Will &amp; Grace - Home Court Disadvantage</title>
+</programme>
+<programme start="20260927161000 +0000" stop="20260927163500 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Will &amp; Grace - Me and Mr. Jones</title>
+</programme>
+<programme start="20260927163500 +0000" stop="20260927170000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Will &amp; Grace - A-Story, Bee-Story</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>Will &amp; Grace - Heart Like a Wheelchair</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_Comedy_HD.virginmediatv">
+    <title>The Office - Ultimatum</title>
+</programme>
+<programme start="20260926232000 +0000" stop="20260927001000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>World&#039;s Most Evil Killers - Todd Christopher Kohlhepp</title>
+</programme>
+<programme start="20260927001000 +0000" stop="20260927010000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Crime Scene Raw - Rosalyn Lewis &amp; Shawndell McLeod</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Crime Scene Raw - Aaron Friar</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>What the Killer Did Next - Joy Morgan</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>The Force: Manchester - Episode 10</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Stop Search Seize - Episode 9</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Highway Cops - Episode 1</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Highway Cops - Episode 2</title>
+</programme>
+<programme start="20260927114000 +0000" stop="20260927122000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Caught Red Handed - Episode 8</title>
+</programme>
+<programme start="20260927122000 +0000" stop="20260927130000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Caught Red Handed - Episode 9</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Caught on Dashcam - Episode 1</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>What the Killer Did Next - Megan Newton: The Opportunist Murder</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>The Real Manhunter - Murders Of Anne Carryer And Elizabeth Blood</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>Killer in My Village - Sarah Ashwell</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Crime_HD.virginmediatv">
+    <title>World&#039;s Most Evil Killers - Richard Ramirez</title>
+</programme>
+<programme start="20260926214500 +0000" stop="20260927001500 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Phil Lynott: Songs for While I&#039;m Away</title>
+</programme>
+<programme start="20260927001500 +0000" stop="20260927013000 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Jimi Hendrix Live at Woodstock</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927025000 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Led Zeppelin: In the Light - 1973-1980</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927034500 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>The Rolling Stones: Live At The Marquee</title>
+</programme>
+<programme start="20260927034500 +0000" stop="20260927050000 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Black Sabbath: Paranoid (Classic Album)</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Kiss Me Kate</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927134500 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Jesus Christ Superstar Live in Concert</title>
+</programme>
+<programme start="20260927134500 +0000" stop="20260927160000 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Legends: Live at Montreux</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927181000 +0000" channel="Sky_Arts_HD.virginmediatv">
+    <title>Tina Turner: Live in Barcelona</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Planet Shark - Ultimate Predator</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>High as an Animal</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Shadowlands - Bound by Blood</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Shadowlands - Life in Dark Water</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Shadowlands - Age of Independence</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Baby Animals - Lil&#039; Hunters</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Baby Animals - Family Ties</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>The Secret Life of the Hermit Crab - Episode 1</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Moon: Nature&#039;s Secret Force - Dining By Moonlight</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Moon: Nature&#039;s Secret Force - Moonlit Romance</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Moon: Nature&#039;s Secret Force - Guided By The Moon</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>Attenborough&#039;s Journey</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Nature_HD.virginmediatv">
+    <title>High as an Animal</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>Chimp Crazy - Monkey Love</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>Chimp Crazy - Gone Ape</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>Chimp Crazy - Head Shot</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040500 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>Chimp Crazy - Fantasy Island</title>
+</programme>
+<programme start="20260927040500 +0000" stop="20260927050000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>The Directors - Rob Reiner</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>Discovering Film - Olivia De Haviland</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927135000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>I Am Paul Walker</title>
+</programme>
+<programme start="20260927135000 +0000" stop="20260927145000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>The Alien Autopsy Scandal - The Cameraman</title>
+</programme>
+<programme start="20260927145000 +0000" stop="20260927155000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>The Alien Autopsy Scandal - Fact Or Fiction?</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927165000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>The Alien Autopsy Scandal - Are We Alone?</title>
+</programme>
+<programme start="20260927165000 +0000" stop="20260927182000 +0000" channel="Sky_Documentaries_HD.virginmediatv">
+    <title>The Salt Path Scandal</title>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Queen: Live at Wembley Stadium - Ep 1</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927013000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Killer in My Village - Terry Edmonds</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Motorway Patrol - Episode 10</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Motorway Patrol - Motorway Patrol 1</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Motorway Patrol - Motorway Patrol 2</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Border Patrol - Border Patrol 3</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Border Patrol - Border Patrol 4</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Border Patrol - Border Patrol 5</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Border Patrol - Border Patrol 6</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Border Patrol - Episode 9</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Border Patrol - Episode 10</title>
+</programme>
+<programme start="20260927113000 +0000" stop="20260927123000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Caught on Dashcam - Episode 9</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927150000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Live: WSL - Liverpool v Everton</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927161000 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Wildlife ER - A Prickly Problem</title>
+</programme>
+<programme start="20260927161000 +0000" stop="20260927171500 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>The Secret Life of the Hermit Crab - Episode 1</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927174500 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Extraordinary Animals - Aggressive</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927181500 +0000" channel="Sky_Mix_HD.virginmediatv">
+    <title>Extraordinary Animals - Flamboyant</title>
+</programme>
+<programme start="20260926234500 +0000" stop="20260927004500 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Murdoch Mysteries - Child&#039;s Play</title>
+</programme>
+<programme start="20260927004500 +0000" stop="20260927014000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Murdoch Mysteries - Bad Medicine</title>
+</programme>
+<programme start="20260927014000 +0000" stop="20260927030000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Murdoch Mysteries - The Prince and the Rebel</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927061000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Father Brown - The Serpent Within</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Murdoch Mysteries: Home for the Holidays</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>The Mentalist - Blood and Sand</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Father Brown - The Man in the Shadows</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927182000 +0000" channel="UandAlibi_HD.virginmediatv">
+    <title>Beyond Paradise - Christmas Special</title>
+</programme>
+<programme start="20260926235500 +0000" stop="20260927003000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Black Ops - Episode 6</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010500 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 5</title>
+</programme>
+<programme start="20260927010500 +0000" stop="20260927015000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 4</title>
+</programme>
+<programme start="20260927015000 +0000" stop="20260927022000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>The Power of Parker - Miss Stockport</title>
+</programme>
+<programme start="20260927022000 +0000" stop="20260927030000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 5</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927061000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927114000 +0000" stop="20260927122000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Open All Hours - How to Ignite Your Errand Boy</title>
+</programme>
+<programme start="20260927122000 +0000" stop="20260927130000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Open All Hours - The Man From Down Under</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927134000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Open All Hours - The Cool Cocoa Tin Lid</title>
+</programme>
+<programme start="20260927134000 +0000" stop="20260927145500 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Only Fools and Horses... - Little Problems</title>
+</programme>
+<programme start="20260927145500 +0000" stop="20260927162000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>Only Fools and Horses... - Mother Nature&#039;s Son</title>
+</programme>
+<programme start="20260927162000 +0000" stop="20260927170000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>The Vicar of Dibley - Community Spirit</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927174000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>The Vicar of Dibley - The Window and the Weather</title>
+</programme>
+<programme start="20260927174000 +0000" stop="20260927182000 +0000" channel="UandGold_HD.virginmediatv">
+    <title>The Vicar of Dibley - Election</title>
+</programme>
+<programme start="20260926235000 +0000" stop="20260927002000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>8 Out of 10 Cats - Best Bits</title>
+</programme>
+<programme start="20260927002000 +0000" stop="20260927005000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Whose Line Is It Anyway? USA - Danielle Panabaker / Gary Anthony</title>
+</programme>
+<programme start="20260927005000 +0000" stop="20260927011500 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Comedy Central Presents - Amy Schumer</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927014500 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Comedy Central Presents - Jeff Dunham</title>
+</programme>
+<programme start="20260927014500 +0000" stop="20260927023000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Dara O Briain: Craic Dealer</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927031500 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Michael McIntyre: Showtime</title>
+</programme>
+<programme start="20260927031500 +0000" stop="20260927033500 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Stupid Central - Episode 9</title>
+</programme>
+<programme start="20260927033500 +0000" stop="20260927040000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Stupid Central - Episode 10</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Cruise TV with LoveitBookit</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One With the Lesbian Wedding</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One With the Prom Video</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Ross and Rachel ... You Know</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Joey Moves Out</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Eddie Moves In</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Dr Ramoray Dies</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Eddie Won&#039;t Go</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Old Yeller Dies</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Mr Bean - Back to School, Mr. Bean</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180500 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Mr Bean - Tee Off, Mr. Bean</title>
+</programme>
+<programme start="20260926235500 +0000" stop="20260927005500 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Have I Got a Bit More News for You - Episode 1</title>
+</programme>
+<programme start="20260927005500 +0000" stop="20260927015500 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Live at the Apollo - Episode 6</title>
+</programme>
+<programme start="20260927015500 +0000" stop="20260927023000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>I&#039;ll Get This - Episode 4</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Judge Romesh - Episode 11</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927061000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Wagging Rights - Episode 2</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927134000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Mortimer and Whitehouse: Gone Fishing - Driffield Beck, East Yorkshire: Brown Trout</title>
+</programme>
+<programme start="20260927134000 +0000" stop="20260927142000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Mortimer and Whitehouse: Gone Fishing - River Trent, Nottinghamshire - Barbel</title>
+</programme>
+<programme start="20260927142000 +0000" stop="20260927150000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Would I Lie to You? - Episode 6</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927154000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Would I Lie to You? - Episode 7</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927162000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Would I Lie to You? - Episode 8</title>
+</programme>
+<programme start="20260927162000 +0000" stop="20260927170000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Would I Lie to You? - The Unseen Bits</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="UandDave_HD.virginmediatv">
+    <title>Explore - Patagonia to the Pampas</title>
+</programme>
+<programme start="20260926233000 +0000" stop="20260927002000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>The Walking Dead - Bounty</title>
+</programme>
+<programme start="20260927002000 +0000" stop="20260927011000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>The Walking Dead - Guardians</title>
+</programme>
+<programme start="20260927011000 +0000" stop="20260927021000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>The Walking Dead - Chokepoint</title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927031000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>The Walking Dead - Scars</title>
+</programme>
+<programme start="20260927031000 +0000" stop="20260927040000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Most Haunted - Annesley Hall</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Most Haunted - Ghost House</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Most Haunted - The Black Swan Hotel</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Stargate SG-1 - Ethon</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Stargate SG-1 - Off the Grid</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Stargate SG-1 - The Scourge</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Stargate Atlantis - Identity</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Stargate Atlantis - Vegas</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Sci-Fi_HD.virginmediatv">
+    <title>Stargate Atlantis - Enemy at the Gate</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="UandW_HD.virginmediatv">
+    <title>My Family - Misery</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="UandW_HD.virginmediatv">
+    <title>My Family - Auto Erotica</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="UandW_HD.virginmediatv">
+    <title>My Family - A Handful of Dust</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927051000 +0000" channel="UandW_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927051000 +0000" stop="20260927060000 +0000" channel="UandW_HD.virginmediatv">
+    <title>Inside the Ambulance - Episode 3</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="UandW_HD.virginmediatv">
+    <title>The Supervet - Monty, Odin &amp; Maya</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="UandW_HD.virginmediatv">
+    <title>The Supervet - Poppy, Keira &amp; Bella</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="UandW_HD.virginmediatv">
+    <title>The Supervet - Pretzel, Bran &amp; Wobble</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="UandW_HD.virginmediatv">
+    <title>The Supervet - Marlee jethro and muffin</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="UandW_HD.virginmediatv">
+    <title>The Supervet - Lexie, Charlie, and Locky</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="UandW_HD.virginmediatv">
+    <title>Pete Wicks: For Dogs&#039; Sake - Crumble&#039;s Big Adventure</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Bangers and Cash - Albion/Lambrettas/Cosworth</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Secrets of the London Underground - Kings Cross</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927051000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927051000 +0000" stop="20260927061000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Secrets of the London Underground - Quainton Road and Kingsway</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Canal Boat Diaries - Great Barr to Atherstone</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Canal Boat Diaries - Atherstone to Moira</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Caribbean with Simon Reeve - Dominican Republic, Haiti and Puerto Rico</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Caribbean with Simon Reeve - Barbados, Venezuela and Colombia</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Canal Boat Diaries - Braunston to Lapworth</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="UandYesterday_HD.virginmediatv">
+    <title>Canal Boat Diaries - Yardley Wood to Netherton Tunnel</title>
+</programme>
+<programme start="20260926234500 +0000" stop="20260927005000 +0000" channel="E4_Extra.virginmediatv">
+    <title>8 Out of 10 Cats Does Countdown - Episode 1</title>
+</programme>
+<programme start="20260927005000 +0000" stop="20260927013500 +0000" channel="E4_Extra.virginmediatv">
+    <title>8 Out of 10 Cats - Episode 3</title>
+</programme>
+<programme start="20260927013500 +0000" stop="20260927020000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Friday Night Dinner - Lord Luck</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927060500 +0000" channel="E4_Extra.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Couples Come Dine with Me - North London</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Couples Come Dine with Me - North London</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - Seafarer&#039;s Family Restaurant</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - Southern Kitchen</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - The Park Restaurant &amp; Bar</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="E4_Extra.virginmediatv">
+    <title>Gordon Ramsay&#039;s 24 Hours to Hell and Back - Bear&#039;s Den Pizza</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Fishing for Trouble</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - All Out War</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Judgment Day</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Bid or Die</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Never a Safe Bet</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Checkmate</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>The Sound and the Fury - 1942-1943</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>The Sound and the Fury - 1944-1945</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Judgment Day</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Storage Hunters - Bid or Die</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Pawn Stars - Darting and Dodging</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Burke And Hare</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - 10 Rillington Place</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Bible John</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Kelso Cochrane</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_History_HD.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Dr Crippen</title>
+</programme>
+<programme start="20260926235500 +0000" stop="20260927002500 +0000" channel="BBC_FOUR.virginmediatv">
+    <title>Keeping Up Appearances - Let There Be Light</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927012500 +0000" channel="BBC_FOUR.virginmediatv">
+    <title>Simon King&#039;s Shetland Diaries - Episode 2</title>
+</programme>
+<programme start="20260927012500 +0000" stop="20260927022500 +0000" channel="BBC_FOUR.virginmediatv">
+    <title>The Riviera: A History in Pictures - Painting Paradise</title>
+</programme>
+<programme start="20260927022500 +0000" stop="20260927062500 +0000" channel="BBC_FOUR.virginmediatv">
+    <title>This Is BBC Four</title>
+</programme>
+<programme start="20260927102500 +0000" stop="20260927142500 +0000" channel="BBC_FOUR.virginmediatv">
+    <title>This Is BBC Four</title>
+</programme>
+<programme start="20260927142500 +0000" stop="20260927180000 +0000" channel="BBC_FOUR.virginmediatv">
+    <title>This Is BBC Four</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="TLC_HD.virginmediatv">
+    <title>Dr. Pimple Popper - Scarry Scarry Night</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="TLC_HD.virginmediatv">
+    <title>Dr. Pimple Popper - My Brainlike Bump</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927040000 +0000" channel="TLC_HD.virginmediatv">
+    <title>My 600-Lb. Life - Margaret&#039;s Journey</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="TLC_HD.virginmediatv">
+    <title>Say Yes to the Dress - Kleinfeld, Here I Come!</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="TLC_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="TLC_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Russian Rocket Reaction</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Rhinitis Revelation</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Good Guy Fluctuation</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Isolation Permutation</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Ornithophobia Diffusion</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Flaming Spittoon Acquisition</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Speckerman Recurrence</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Shiny Trinket Maneuver</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Recombination Hypothesis</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Beta Test Initiation</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Friendship Contraction</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="TLC_HD.virginmediatv">
+    <title>The Big Bang Theory - The Vacation Solution</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="True_Crime.virginmediatv">
+    <title>This Much Is True Crime - Lucy Letby: What They&#039;re Not Telling You</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="True_Crime.virginmediatv">
+    <title>UK Forensic Breakthroughs - Fibre Analysis Breakthrough</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="True_Crime.virginmediatv">
+    <title>Bloodline Detectives - Jane Doe by the Road</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Defective Doberman?!; Minister Mischief?!</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927035500 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Roommate Cat Fight?!; Pink Eye, Stink Eye!</title>
+</programme>
+<programme start="20260927035500 +0000" stop="20260927042000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Ex-Lover Restraining Order?!; Don&#039;t Show Me the Money!</title>
+</programme>
+<programme start="20260927042000 +0000" stop="20260927044500 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Adoption Turmoil?!; Harassment and Deception?</title>
+</programme>
+<programme start="20260927044500 +0000" stop="20260927080000 +0000" channel="True_Crime.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Postman vs. Large Dog!; World&#039;s Worst Boat Shoppers?</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Child Attacked by Dog; Marital Property Payback; Loan vs. Investment 101</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Ex-Friend Without Benefits!; Loan Me, Loan Me Not!</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Drama Mama Standoff!; Give Back the Engagement Ring!</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Show Me the Property Damage!; Take Care of Me!</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Vicious Dog or Super Scammer?; Prison Payback</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927152500 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Cell Phone Wars!; Landlord Break-In?!</title>
+</programme>
+<programme start="20260927152500 +0000" stop="20260927155000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - The Never-Ending Car Story!; Botched Boxer Breeding</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927161500 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Fractured Jaw at the Rodeo!; A Pit Bull Is a Stupid Dog to Have!</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927164000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Man&#039;s Fear of Large Dogs Comes Back to Bite Him!; Gas Explosion Anxiety!</title>
+</programme>
+<programme start="20260927164000 +0000" stop="20260927170500 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - Coon Cat Custody; Crash Sob Story!</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927173000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - America Not So Great Again!</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="True_Crime.virginmediatv">
+    <title>Judge Judy - I Won&#039;t Rat Out a Friend!; Bartender Blackmail?</title>
+</programme>
+<programme start="20260926225500 +0000" stop="20260927010500 +0000" channel="ITV3.virginmediatv">
+    <title>Inspector Morse - Dead on Time</title>
+</programme>
+<programme start="20260927010500 +0000" stop="20260927013000 +0000" channel="ITV3.virginmediatv">
+    <title>Unwind with ITV - Episode 322</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927050000 +0000" channel="ITV3.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927071500 +0000" channel="ITV3.virginmediatv">
+    <title>Inspector Morse - The Wolvercote Tongue</title>
+</programme>
+<programme start="20260927115000 +0000" stop="20260927130000 +0000" channel="ITV3.virginmediatv">
+    <title>Downton Abbey - Episode 5</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927141500 +0000" channel="ITV3.virginmediatv">
+    <title>Downton Abbey - Episode 6</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927153000 +0000" channel="ITV3.virginmediatv">
+    <title>Downton Abbey - Episode 7</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927170000 +0000" channel="ITV3.virginmediatv">
+    <title>Downton Abbey - Episode 8</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="ITV3.virginmediatv">
+    <title>A Taste For Murder - Ragù a Modo Tuo (Ragu Whichever Way You Like It)</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927011000 +0000" channel="ITV4.virginmediatv">
+    <title>All Elite Wrestling: Dynamite</title>
+</programme>
+<programme start="20260927011000 +0000" stop="20260927013500 +0000" channel="ITV4.virginmediatv">
+    <title>Two and a Half Men - It&#039;s Always Nazi Week</title>
+</programme>
+<programme start="20260927013500 +0000" stop="20260927020000 +0000" channel="ITV4.virginmediatv">
+    <title>Unwind with ITV - Episode 232</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927050000 +0000" channel="ITV4.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927052000 +0000" channel="ITV4.virginmediatv">
+    <title>World of Sport - TV Firsts</title>
+</programme>
+<programme start="20260927052000 +0000" stop="20260927055000 +0000" channel="ITV4.virginmediatv">
+    <title>The Protectors - Disappearing Trick</title>
+</programme>
+<programme start="20260927055000 +0000" stop="20260927062000 +0000" channel="ITV4.virginmediatv">
+    <title>Motorsport Mundial - Episode 39</title>
+</programme>
+<programme start="20260927093000 +0000" stop="20260927170500 +0000" channel="ITV4.virginmediatv">
+    <title>Live: British Touring Car Championship - Silverstone</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927181000 +0000" channel="ITV4.virginmediatv">
+    <title>Junk and Disorderly - Kempton Park Autojumble</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Friends - The One Where Ross Finds Out</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Friends - The One With the List</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Friends - The One With Phoebe&#039;s Dad</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Friends - The One With Russ</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927022000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Friends - The One With the Lesbian Wedding</title>
+</programme>
+<programme start="20260927022000 +0000" stop="20260927024500 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927033000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Jimmy Carr&#039;s Am I the A******? - Radioactive Revenge and a Ruined Christmas</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927041500 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Iain Stirling&#039;s Roast The Internet - Jonathan Ross, AJ Odudu, Lou Sanders</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927043500 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Everybody Loves Raymond - Frank Paints the House</title>
+</programme>
+<programme start="20260927043500 +0000" stop="20260927050000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Everybody Loves Raymond - Ally&#039;s Birth</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927052000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Everybody Loves Raymond - Ray&#039;s Ring</title>
+</programme>
+<programme start="20260927052000 +0000" stop="20260927060000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Everybody Loves Raymond - Frank Goes Downstairs</title>
+</programme>
+<programme start="20260927115500 +0000" stop="20260927124500 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 14</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927133000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 15</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927141500 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 16</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927150000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 17</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927155000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 18</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927163500 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 19</title>
+</programme>
+<programme start="20260927163500 +0000" stop="20260927172000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 20</title>
+</programme>
+<programme start="20260927172000 +0000" stop="20260927181000 +0000" channel="Comedy_Extra.virginmediatv">
+    <title>Criminally Funny - Episode 21</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927002500 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - Witness to Vandalism!; Domestic Dispute Ejection?!; Courts Are for Married Folks!</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927005000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - Redneck With a Laser Pointer?!; Engine Blew? It&#039;s Up to You!</title>
+</programme>
+<programme start="20260927005000 +0000" stop="20260927011500 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - Halfway House Flood!; Painter Misses the Obvious?!</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927014000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - Widow&#039;s Cadillac Woes!; Anxious Dog Bites Pet Sitter!</title>
+</programme>
+<programme start="20260927014000 +0000" stop="20260927020500 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - Here&#039;s the Real Reason We&#039;re Not Married!; Jail Time Buick Bummer!; Home Sale Fail!</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927023000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - Kindergarten Teacher Abuse?!; Horse Grazing Ignorance?!; Fiance in Legal Trouble!</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Judge Judy - College Teacher&#039;s DUI Drama!; Haunted Police Payday?</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Medical Detectives - A Bag of Evidence</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Medical Detectives - Tooth or Consequences</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Medical Detectives - The Sniffing Revenge</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Medical Detectives - Sleight of Hand</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>Fraud Squad - NHS</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>UK Crime Files - Murdered By A Friend</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>UK Crime Files - Anagram Serial Killer</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>UK Crime Files - Killer Commadore</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>UK Crime Files - Gangland Murders</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="True_Crime_Xtra.virginmediatv">
+    <title>UK Crime Files - Mystery of the Man in the Woods</title>
+</programme>
+<programme start="20260926220500 +0000" stop="20260927000500 +0000" channel="Legend.virginmediatv">
+    <title>D-Tox</title>
+</programme>
+<programme start="20260927000500 +0000" stop="20260927020500 +0000" channel="Legend.virginmediatv">
+    <title>First Kill</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927040000 +0000" channel="Legend.virginmediatv">
+    <title>A Violent Man</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Legend.virginmediatv">
+    <title>..programmes start at 5.30am</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927060000 +0000" channel="Legend.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927125000 +0000" channel="Legend.virginmediatv">
+    <title>The Virginian</title>
+</programme>
+<programme start="20260927125000 +0000" stop="20260927144000 +0000" channel="Legend.virginmediatv">
+    <title>Angel and the Badman</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927164000 +0000" channel="Legend.virginmediatv">
+    <title>Eagle&#039;s Wing</title>
+</programme>
+<programme start="20260927164000 +0000" stop="20260927190000 +0000" channel="Legend.virginmediatv">
+    <title>The Arrival</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927015000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>Warrior</title>
+</programme>
+<programme start="20260927015000 +0000" stop="20260927034000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>The Curse of the Werewolf</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927041000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>The Twilight Zone - The Night of the Meek</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927050000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>The Twilight Zone - Dust</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>The A-Team - The Duke of Whispering Pines</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>The A-Team - Beneath the Surface</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927155000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>The Day the Earth Stopped</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927160000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>This is LegendXtra</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927175000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>Asteroid vs. Earth</title>
+</programme>
+<programme start="20260927175000 +0000" stop="20260927180000 +0000" channel="Legend_Xtra.virginmediatv">
+    <title>This is LegendXtra</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>Hunting Atlantis - Mystery of the Golden King</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>Hunting Atlantis - Island of Rings</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>NASA&#039;s Unexplained Files - Saturn&#039;s Moon Monsters</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>How It&#039;s Made - Cutting Tools; Stained Glass; Semi-Trailers; Recorders</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>How It&#039;s Made - Conga Drums; Metal Plating; Buttons</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>American Pickers - Junkyard Jewels</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>The Repair Shop - Elijah&#039;s Painting, Ana&#039;s Doll and Parisian Plate</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>The Repair Shop - Henrietta&#039;s Portrait, Sewing Machine Table and Yellow Submarine</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>The Repair Shop - Episode 9</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>The Repair Shop - Episode 12</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>The Yorkshire Auction House - Can Toy Cars Get Us to the Arctic</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Discovery_Quest_HD.virginmediatv">
+    <title>The Yorkshire Auction House - Lighting The Way To Auction</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Bitchin&#039; Rides: Road to the Ridler - Episode 8</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Planes That Changed the World - SR-71 Blackbird- Hypersonic Surveillance</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Planes That Changed the World - Airbus A380- Giant Of The Sky</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - H is for Help!</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - American Dream</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - Old Mates and Motor-Racing</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - Marshalling the Raw Recruits</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Shed &amp; Buried - Suffolk</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Shed &amp; Buried - Witney</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Shed &amp; Buried - Stormy Weather, Hidden Treasure</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Shed &amp; Buried - Hot Rods, Trucks and Miniature Bikes</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Challenge.virginmediatv">
+    <title>Bullseye - Bullseye 1</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Challenge.virginmediatv">
+    <title>Bullseye - Bullseye 2</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase - Episode 29</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase - Episode 30</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase: Celebrity Special - Episode 8</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase - Episode 83</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Challenge.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Challenge.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Challenge.virginmediatv">
+    <title>Tenable - Episode 2</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Challenge.virginmediatv">
+    <title>Bridge of Lies - Episode 20</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase - Episode 142</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase - Episode 190</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase: Celebrity Special - Episode 6</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Challenge.virginmediatv">
+    <title>The Chase: Celebrity Special - Episode 16</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Forensic Detectives - Deadly Dealings</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Murder on CCTV - Beth&#039;s Last Party</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Murder on CCTV - Maurice&#039;s Last Visitor</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Quest_Red.virginmediatv">
+    <title>The FBI Files - Terror for Sale</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Quest_Red.virginmediatv">
+    <title>The FBI Files - Death of a Diplomat</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Who Killed Jane Doe? - The Lady in the Woods</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Who Killed Jane Doe? - Girl Gone West</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Who Killed Jane Doe? - Her Whispering Bones</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Quest_Red.virginmediatv">
+    <title>Devil in Suburbia - Under His Eye</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927012000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Inspector Alleyn Mysteries - Death at the Bar</title>
+</programme>
+<programme start="20260927012000 +0000" stop="20260927021000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Pie in the Sky - A Shot in the Dark</title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927030000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Copper - Arsenic and Old Cake</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927061000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927110500 +0000" stop="20260927131000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Nora Roberts&#039; Angels Fall</title>
+</programme>
+<programme start="20260927131000 +0000" stop="20260927153000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>Catherine Cookson Dramas - The Fifteen Streets</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927164000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>South Riding - Episode 1</title>
+</programme>
+<programme start="20260927164000 +0000" stop="20260927175000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>South Riding - Episode 2</title>
+</programme>
+<programme start="20260927175000 +0000" stop="20260927190000 +0000" channel="UandDrama_HD.virginmediatv">
+    <title>South Riding - Episode 3</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Really.virginmediatv">
+    <title>Help! My House is Haunted - Rising Souls of the Rising Sun</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927030000 +0000" channel="Really.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Really.virginmediatv">
+    <title>Salvage Hunters - Curated Collections</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Really.virginmediatv">
+    <title>Salvage Hunters - One Stop Shop</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Really.virginmediatv">
+    <title>Celebrity Fantasy Homes - Sherrie Hewson</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Friendly Kenly</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Bustle to the &#039;Burbs</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Nova Scotia Homecoming Queen</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - City Mouse vs. Country Mouse</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Really.virginmediatv">
+    <title>Escape to the Country - Cornwall</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Really.virginmediatv">
+    <title>Escape to the Country - Dorset</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Really.virginmediatv">
+    <title>A Place in the Sun - Murcia</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Really.virginmediatv">
+    <title>A Place in the Sun - Naxos</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion First</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion First</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Unfiltered</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Unfiltered</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>I See It First</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>I See It First</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Most Watched</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Most Watched</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Trending Today</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Trending Today</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Stars</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Stars</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Buzz</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Buzz</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>This Week In Style</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>This Week In Style</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Trend Tracker</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Trend Tracker</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Style Icons</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Style Icons</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Evolution</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Evolution</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Code</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Fashion_TV.virginmediatv">
+    <title>Fashion Code</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="ID.virginmediatv">
+    <title>The Black Widower: The Six Wives of Thomas Randolph - This Is War</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="ID.virginmediatv">
+    <title>On the Case With Paula Zahn - Room 106</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="ID.virginmediatv">
+    <title>On the Case With Paula Zahn - The Year of Fear</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="ID.virginmediatv">
+    <title>Mother, May I Murder?</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="ID.virginmediatv">
+    <title>Disappeared - Billy Smolinski: Favourite Son</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="ID.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="ID.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="ID.virginmediatv">
+    <title>Still a Mystery - Death and Silence</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="ID.virginmediatv">
+    <title>Still a Mystery - Somebody Knows Something</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="ID.virginmediatv">
+    <title>Still a Mystery - Clues Caught on Camera</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="ID.virginmediatv">
+    <title>Faking It: Tears of a Crime - Mitchell Quy and Mick Philpott</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="ID.virginmediatv">
+    <title>Faking It: Tears of a Crime - Ian Huntley</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="ID.virginmediatv">
+    <title>Faking It: Tears of a Crime - Tracie Andrews and Mike Gifford-Hull</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Gifts with Floral Street</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="QVC.virginmediatv">
+    <title>Nails Inc.</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="QVC.virginmediatv">
+    <title>Beauty Deals with Floral Street</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="QVC.virginmediatv">
+    <title>Doll10 Beauty</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="QVC.virginmediatv">
+    <title>Elemis Skin Therapies</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="QVC.virginmediatv">
+    <title>Floral Street</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Food_Network.virginmediatv">
+    <title>Diners, Drive-Ins and Dives - Triple D Nation: Smashed and Sauced</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Food_Network.virginmediatv">
+    <title>Diners, Drive-Ins and Dives - Triple D Nation: Funky Flavortown</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Food_Network.virginmediatv">
+    <title>Diners, Drive-Ins and Dives - Triple D Nation: Mex-Italian and Meatless</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Food_Network.virginmediatv">
+    <title>Diners, Drive-Ins and Dives - Triple D Nation: Coast to Coast Flavor</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Food_Network.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Food_Network.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Food_Network.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Food_Network.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Food_Network.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Food_Network.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Food_Network.virginmediatv">
+    <title>Diners, Drive-Ins and Dives - Triple D Nation: Burgers, Bowls and Bangers</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Food_Network.virginmediatv">
+    <title>Diners, Drive-Ins and Dives - Triple D Nation: Feel-Good Flavor</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Food_Network.virginmediatv">
+    <title>James Martin: Sweet - Patisserie</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Food_Network.virginmediatv">
+    <title>James Martin: Sweet - Comfort Food</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Food_Network.virginmediatv">
+    <title>James Martin: Sweet - Chocolate</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Food_Network.virginmediatv">
+    <title>James Martin: Sweet - Celebration Cakes</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Food_Network.virginmediatv">
+    <title>The Great British Bake Off - Semi-Final - Patisserie</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Food_Network.virginmediatv">
+    <title>The Great British Bake Off - The Final</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Food_Network.virginmediatv">
+    <title>The Great British Bake Off - Cake</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Food_Network.virginmediatv">
+    <title>The Great British Bake Off - Biscuits</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>I Survived a Crime - Episode 19</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>I Survived a Crime - Episode 8</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927024000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Lizzie Borden: 40 Whacks - Lizzie Borden: 40 Whacks</title>
+</programme>
+<programme start="20260927024000 +0000" stop="20260927030500 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Hometown Tragedy - Unmasking the Golden State Killer</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927033000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Hometown Tragedy - The Killing That Rattled Creighton</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Hometown Tragedy - The Florida Fugitive</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Hometown Tragedy - The Oklahoma Girl Scout Murders</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Hometown Tragedy - Crime Briefs</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>#Dead2Me - Ian Bennett</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Nightmare in Suburbia - The Judas Sisters</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Crimes That Shook Britain - Keith Blakelock</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Crimes That Shook Britain - Ann Maguire</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Look What You Made Me Do - Real Life NCIS</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Look What You Made Me Do - No Body, No Crime</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Crime_and_Investigation_HD.virginmediatv">
+    <title>Look What You Made Me Do - A Grudge And A Gun</title>
+</programme>
+<programme start="20260926221500 +0000" stop="20260927050000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Euronews</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Euronews</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>This Week</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927131500 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Latest News and Weather</title>
+</programme>
+<programme start="20260927131500 +0000" stop="20260927140000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Mass</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>The Week in Politics</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>This Week</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927164000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Latest News and Weather</title>
+</programme>
+<programme start="20260927164000 +0000" stop="20260927165500 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Nuacht</title>
+</programme>
+<programme start="20260927165500 +0000" stop="20260927170100 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>ISL Weekly Weather</title>
+</programme>
+<programme start="20260927170100 +0000" stop="20260927173000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>RTÉ News: Six One</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927181500 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>The Week in Politics</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Talking Movies - Festival Review</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Unspun World with John Simpson</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>AI Decoded</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Global Eye</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Streets of Gold: Mumbai - Episode 6</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Talking Business</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>The Travel Show - How To Eat Like An Italian</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Tech Now</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Global Eye</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Mornings with Jones and Melbourne</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Mornings with Jones and Melbourne</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News Today with Matt Barbet</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sunday Morning Highlights</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News Today</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News Today</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News Today</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News Today</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sky News Today</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>Sunday Morning Highlights</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>The News Hour with Jonathan Samuels</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>The News Hour with Jonathan Samuels</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>The News Hour with Jonathan Samuels</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_News_HD.virginmediatv">
+    <title>The News Hour with Jonathan Samuels</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927000500 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927000500 +0000" stop="20260927002900 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927002900 +0000" stop="20260927003400 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927003400 +0000" stop="20260927010000 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927010500 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927010500 +0000" stop="20260927013000 +0000" channel="Euronews.virginmediatv">
+    <title>12 Minutes With</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927013800 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927013800 +0000" stop="20260927014800 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260927014800 +0000" stop="20260927020000 +0000" channel="Euronews.virginmediatv">
+    <title>News</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927020500 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927022900 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927022900 +0000" stop="20260927023400 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927023400 +0000" stop="20260927030000 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927033000 +0000" channel="Euronews.virginmediatv">
+    <title>12 Minutes With</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927033800 +0000" channel="Euronews.virginmediatv">
+    <title>Global Week-End</title>
+</programme>
+<programme start="20260927033800 +0000" stop="20260927034800 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260927034800 +0000" stop="20260927040000 +0000" channel="Euronews.virginmediatv">
+    <title>News</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927040500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927040500 +0000" stop="20260927042900 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927042900 +0000" stop="20260927043400 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927043400 +0000" stop="20260927050000 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927050500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927050500 +0000" stop="20260927053000 +0000" channel="Euronews.virginmediatv">
+    <title>12 Minutes With</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927053800 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927053800 +0000" stop="20260927054800 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260927054800 +0000" stop="20260927060000 +0000" channel="Euronews.virginmediatv">
+    <title>News</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927120500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927122900 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927122900 +0000" stop="20260927123400 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927123400 +0000" stop="20260927130000 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927130500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927130500 +0000" stop="20260927133000 +0000" channel="Euronews.virginmediatv">
+    <title>12 Minutes With</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927133800 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927133800 +0000" stop="20260927134800 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260927134800 +0000" stop="20260927140000 +0000" channel="Euronews.virginmediatv">
+    <title>News</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927140500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927140500 +0000" stop="20260927142900 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927142900 +0000" stop="20260927143400 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927143400 +0000" stop="20260927150000 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927150500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927153000 +0000" channel="Euronews.virginmediatv">
+    <title>12 Minutes With</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927153800 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927153800 +0000" stop="20260927154800 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260927154800 +0000" stop="20260927160000 +0000" channel="Euronews.virginmediatv">
+    <title>News</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927160500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927160500 +0000" stop="20260927162900 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927162900 +0000" stop="20260927163400 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927163400 +0000" stop="20260927170000 +0000" channel="Euronews.virginmediatv">
+    <title>The Ring</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927170500 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927173000 +0000" channel="Euronews.virginmediatv">
+    <title>12 Minutes With</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927173800 +0000" channel="Euronews.virginmediatv">
+    <title>5 Minutes</title>
+</programme>
+<programme start="20260927173800 +0000" stop="20260927174800 +0000" channel="Euronews.virginmediatv">
+    <title>Made In Europe</title>
+</programme>
+<programme start="20260927174800 +0000" stop="20260927180000 +0000" channel="Euronews.virginmediatv">
+    <title>News</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>Managing Asia - AT&amp;S</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Score - Crypto FC: Football&#039;s Big Gamble</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Tech Download - WPP&#039;s Daniel Hulme</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>CNBC Meets - Rafa Nadal</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>American Greed - Brooklyn&#039;s Madoff; Corrupted Software</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>Managing Asia - AT&amp;S</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Score - Crypto FC: Football&#039;s Big Gamble</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Tech Download - WPP&#039;s Daniel Hulme</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>CNBC Meets - Rafa Nadal</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>Managing Asia - AT&amp;S</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Score - Crypto FC: Football&#039;s Big Gamble</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>CNBC Sports - Longines Fei Jumping World Cup - North American League - Williamsburg, Mi - 1</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>Longines League of Nations - St. Tropez-Gassin (FRA)</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>Managing Asia - AT&amp;S</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Score - Crypto FC: Football&#039;s Big Gamble</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>American Greed - Murderous Plot Meets Reality TV</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Tech Download - WPP&#039;s Daniel Hulme</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>CNBC Meets - Rafa Nadal</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>Managing Asia - AT&amp;S</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="CNBC_HD.virginmediatv">
+    <title>The Score - Crypto FC: Football&#039;s Big Gamble</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Smerconish</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="CNN_HD.virginmediatv">
+    <title>World Sport</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Seasons - Taste</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Inside Africa - Madagascar&#039;s Island of Giants</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="CNN_HD.virginmediatv">
+    <title>African Voices - Hilda Baci</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="CNN_HD.virginmediatv">
+    <title>CNN Newsroom</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="CNN_HD.virginmediatv">
+    <title>CNN Newsroom</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Quest&#039;s World of Wonder - Porto, Portugal</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="CNN_HD.virginmediatv">
+    <title>CNN Newsroom</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Inside Africa - Madagascar&#039;s Island of Giants</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Inside Politics With Manu Raju</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="CNN_HD.virginmediatv">
+    <title>State of the Union With Jake Tapper and Dana Bash</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Fareed Zakaria GPS - Episode 41</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Inside Politics With Manu Raju</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="CNN_HD.virginmediatv">
+    <title>World Sport</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Inside Africa - Madagascar&#039;s Island of Giants</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="CNN_HD.virginmediatv">
+    <title>African Voices - Hilda Baci</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927174500 +0000" channel="CNN_HD.virginmediatv">
+    <title>Marketplace Africa</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927180000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Marketplace Europe - Cernobbio Forum</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="BBC_News.virginmediatv">
+    <title>Talking Movies - Festival Review</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="BBC_News.virginmediatv">
+    <title>Unspun World with John Simpson</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="BBC_News.virginmediatv">
+    <title>AI Decoded</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="BBC_News.virginmediatv">
+    <title>Global Eye - Indonesia&#039;s Toxic Haze Crisis</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="BBC_News.virginmediatv">
+    <title>Streets of Gold: Mumbai - Episode 6</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="BBC_News.virginmediatv">
+    <title>Talking Business</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="BBC_News.virginmediatv">
+    <title>The Travel Show - How To Eat Like An Italian</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="BBC_News.virginmediatv">
+    <title>Tech Now</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="BBC_News.virginmediatv">
+    <title>Streets of Gold: Mumbai - Episode 6</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="BBC_News.virginmediatv">
+    <title>Global Eye - Indonesia&#039;s Toxic Haze Crisis</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="BBC_News.virginmediatv">
+    <title>BBC News</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="BBC_News.virginmediatv">
+    <title>Talking Business</title>
+</programme>
+<programme start="20260926225000 +0000" stop="20260927010000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Climate, Environment and Energy</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927031500 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Health</title>
+</programme>
+<programme start="20260927031500 +0000" stop="20260927053000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Enterprise, Tourism and Employment</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927070000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Select Committee on Budgetary Oversight</title>
+</programme>
+<programme start="20260927070000 +0000" stop="20260927121000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Parliamentary Questions</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927131500 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>In Focus</title>
+</programme>
+<programme start="20260927131500 +0000" stop="20260927135000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Leaders&#039; Questions Tuesday</title>
+</programme>
+<programme start="20260927135000 +0000" stop="20260927144000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Leaders&#039; Questions Wednesday</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927150000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Leaders&#039; Questions Thursday</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927173000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Private Members&#039; Business</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>In Focus</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>How the Universe Works - Dark History of Earth</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>How the Universe Works - Voyager&#039;s Ultimate Mission</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Texas Metal - Beyond ZL1, Part 2</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Texas Metal - Street Rod Milk Truck</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Wheeler Dealers - 2000 Porsche 996</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Building Off the Grid - Missouri Modern Farmhouse</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Building Off the Grid - Vermont Timber Frame House</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927160000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Homestead Rescue - By a Landslide</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927180000 +0000" channel="Discovery_HD.virginmediatv">
+    <title>Homestead Rescue - Black Hills Hope</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>In Search of Monsters - The Jersey Devil</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>The Alaska Triangle - The Alaskan Loch Ness Monster</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>Alien Highway - Missouri Mayhem</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How Do They Do It? - Ammo, Dental Drill, Road Markings</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How Do They Do It? - Episode 15</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How Do They Do It? - Crayons, Mirrors, Chain-Less Bicycle</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How Do They Do It? - Steam-Powered Boat Waterwall</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How Do They Do It? - Borsalino Hats, Folding Bicycles and Skyr</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How Do They Do It? - Stratocaster Guitars, Kalles Caviar and Aston Martin Racing</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>Savage Builds - Mad Max Melee</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>Savage Builds - Forging Excalibur</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How the Universe Works - Nightmares of Neutron Stars</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How the Universe Works - When Supernovas Strike</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How It&#039;s Made - Wooden Matches; Tillage Machines; Telescopic Gangways</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Discovery_Science.virginmediatv">
+    <title>How It&#039;s Made - Mosquito Coils; Solar Assist Tricycles; Palm Oil</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Blowing Up History - Seven Wonders Of The Bible</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Combat Dealers - War Factories</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Combat Dealers - After D-Day</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Combat Dealers - SAS</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Combat Dealers - Arnhem</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Combat Dealers: Reloaded - Paras</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Discovery_History.virginmediatv">
+    <title>World&#039;s Greatest Motorcycle Rides - Australia Part 1</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Discovery_History.virginmediatv">
+    <title>World&#039;s Greatest Motorcycle Rides - Australia Part 2</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Discovery_History.virginmediatv">
+    <title>World&#039;s Greatest Motorcycle Rides - Australia Part 3</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Discovery_History.virginmediatv">
+    <title>Blowing Up History - Secrets of Seahenge</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927003000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>The Million Dollar Duck</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Little Giants - Medieval Raptor</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>The Haunted - Leave House</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Extinct or Alive - Florida Black Panther</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>The Zoo - Wild Dogs on the Move</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Pit Bulls and Parolees - Never Let Go</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Pit Bulls and Parolees - A Dream Realized</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>My Cat From Hell - Mayday! Mayday!</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>My Cat From Hell - Bad Max</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Treehouse Masters - The Bird Barn Treehouse</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Animal_Planet_HD.virginmediatv">
+    <title>Bad Dog! - Monkey Business</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="DMAX.virginmediatv">
+    <title>Body Bizarre - My Baby&#039;s Face Tumor</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="DMAX.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="DMAX.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="DMAX.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="DMAX.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="DMAX.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="DMAX.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="DMAX.virginmediatv">
+    <title>Baggage Battles - Golden Ticket</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="DMAX.virginmediatv">
+    <title>Baggage Battles - Swami Says</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="DMAX.virginmediatv">
+    <title>Chasing Classic Cars - Where Are They Now?</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="DMAX.virginmediatv">
+    <title>Chasing Classic Cars - Barn Find or Bust?</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="DMAX.virginmediatv">
+    <title>Junkyard Empire - Up in Smoke</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="DMAX.virginmediatv">
+    <title>Junkyard Empire - Money&#039;s on the Finish Line</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="DMAX.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - Land Rover</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="DMAX.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - The Pressure is On</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="DMAX.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - Pedal to the Metal</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="DMAX.virginmediatv">
+    <title>Richard Hammond&#039;s Workshop - Deadline for D-Day</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Hitler&#039;s Last Stand - Hell in Hoven</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Loss of a Legend</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Pressure Point</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Deadly Exchange</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927070000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Dead of Winter</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Killer Attitude</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Deadly Myth</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Disaster at Dutch Harbor</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - The Death of JFK Jr.</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="National_Geographic_HD.virginmediatv">
+    <title>Air Crash Investigation - Explosive Proof</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Bizarre Animal Friends - The Most Unlikely of All</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Africa&#039;s Deadliest - Masters of Intimidation</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Africa&#039;s Deadliest - Cut Throat</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Yukon Vet - Hold Your Mini Horses</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927070000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Casey and Brutus: Grizzly Encounters - When Grizzlies Attack</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Africa&#039;s Wild Geniuses</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Seen on Safari - Expect the Unexpected</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Seen on Safari - Born to Run</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Heartland Docs, DVM - Lost &amp; Hound</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
+    <title>Asia&#039;s Killer Hornets</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>World War Weird - Episode 7</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>World War II: Witness to War - Final Victory</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Hell on Earth: WWII - The Shame Of Returning Alive</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Crimes That Shook Britain - Rachel Nickell</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Ancient Aliens - The Abduction Files</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927055500 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Ancient Aliens - Britain&#039;s UFO Files</title>
+</programme>
+<programme start="20260927055500 +0000" stop="20260927065500 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Ancient Aliens - Mysteries of the Norse Gods</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Commando Missions - Raincoat Operation</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Ancient Aliens - Britain&#039;s UFO Files</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Ancient Aliens - Mysteries of the Norse Gods</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Hitler and Churchill: The Eagle And the Lion - Episode 1</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>Hitler and Churchill: The Eagle And the Lion - Episode 2</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_History_2.virginmediatv">
+    <title>World War Weird - Episode 8</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Blaze.virginmediatv">
+    <title>The Bermuda Triangle: Into Cursed Waters - Killer Queen</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Blaze.virginmediatv">
+    <title>Killer Britain With Dermot Murnaghan - Dunkley</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Blaze.virginmediatv">
+    <title>Evidence of the Unexplained - Episode 3</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Blaze.virginmediatv">
+    <title>Evidence of the Unexplained - Episode 4</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Blaze.virginmediatv">
+    <title>Evidence of the Unexplained - Episode 5</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927052500 +0000" channel="Blaze.virginmediatv">
+    <title>Hardcore Pawn - War on the Floor</title>
+</programme>
+<programme start="20260927052500 +0000" stop="20260927054500 +0000" channel="Blaze.virginmediatv">
+    <title>Hardcore Pawn - Secret Shopper</title>
+</programme>
+<programme start="20260927054500 +0000" stop="20260927061000 +0000" channel="Blaze.virginmediatv">
+    <title>Hardcore Pawn - Cousin vs. Cousin</title>
+</programme>
+<programme start="20260927113500 +0000" stop="20260927120500 +0000" channel="Blaze.virginmediatv">
+    <title>Storage Wars - Locker Mountain High</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927123500 +0000" channel="Blaze.virginmediatv">
+    <title>Storage Wars - Fontan-o-rama</title>
+</programme>
+<programme start="20260927123500 +0000" stop="20260927130500 +0000" channel="Blaze.virginmediatv">
+    <title>Storage Wars - The Hunch-Back of La Habra</title>
+</programme>
+<programme start="20260927130500 +0000" stop="20260927133500 +0000" channel="Blaze.virginmediatv">
+    <title>Storage Wars - The 300th Time&#039;s the Charm!</title>
+</programme>
+<programme start="20260927133500 +0000" stop="20260927140000 +0000" channel="Blaze.virginmediatv">
+    <title>Storage Wars - You Can Lead a Horse to a Locker, but You Can&#039;t Make Him Bid</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Blaze.virginmediatv">
+    <title>Storage Wars - Piles To Go Before I Keep</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927170500 +0000" channel="Blaze.virginmediatv">
+    <title>Live: CHAMP Rugby - Doncaster Knights v Hartpury University</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927180000 +0000" channel="Blaze.virginmediatv">
+    <title>The Curse of Oak Island - Whistle While You Work</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Bloomberg.virginmediatv">
+    <title>The Amazon Divide</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Originals</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Bloomberg.virginmediatv">
+    <title>How Larry Ellison Built His Empire</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Chief Future Officer - Mandy Fields, e.l.f. Beauty</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Chief Future Officer</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Investigates - The True Cost of USAID Cuts</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Tech: Decoding the Future</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Originals</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Bloomberg.virginmediatv">
+    <title>The Circuit - Artificial Intelligence Pioneer Fei-Fei Li</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Bloomberg.virginmediatv">
+    <title>How Larry Ellison Built His Empire</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Latitude</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927140000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg This Weekend</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Bloomberg.virginmediatv">
+    <title>The Mishal Husain Show - Mohammed Bin Abdulrahman Al Thani</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Bloomberg.virginmediatv">
+    <title>The David Rubenstein Show - David Booth</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Quantum Marketing - How Lectric Is Looking to Fuel the eBike Industry</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Bloomberg.virginmediatv">
+    <title>How Larry Ellison Built His Empire</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Wall Street Week</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Bloomberg.virginmediatv">
+    <title>The David Rubenstein Show - David Booth</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Bloomberg.virginmediatv">
+    <title>Bloomberg Next Africa</title>
+</programme>
+<programme start="20260926235000 +0000" stop="20260927013500 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Nirvanna the Band the Show the Movie</title>
+</programme>
+<programme start="20260927013500 +0000" stop="20260927032500 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Tow</title>
+</programme>
+<programme start="20260927032500 +0000" stop="20260927050000 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Do Not Enter</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Hamlet</title>
+</programme>
+<programme start="20260927105000 +0000" stop="20260927123500 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Nirvanna the Band the Show the Movie</title>
+</programme>
+<programme start="20260927123500 +0000" stop="20260927143500 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Hamlet</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927162500 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Supergirl</title>
+</programme>
+<programme start="20260927162500 +0000" stop="20260927180000 +0000" channel="Sky_Premiere_HD.virginmediatv">
+    <title>Hungry</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927010000 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Matilda</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927024000 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Babe</title>
+</programme>
+<programme start="20260927024000 +0000" stop="20260927034000 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Sky Cinema Preview - Sept 2026</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927052500 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>The Witches</title>
+</programme>
+<programme start="20260927052500 +0000" stop="20260927065500 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Shaun the Sheep Movie</title>
+</programme>
+<programme start="20260927102500 +0000" stop="20260927121500 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Babe</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927143500 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Spider-Man: Homecoming</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927170500 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Spider-Man: No Way Home</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927190000 +0000" channel="Sky_Select_HD.virginmediatv">
+    <title>Matilda</title>
+</programme>
+<programme start="20260926233500 +0000" stop="20260927015500 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>The Lost World: Jurassic Park</title>
+</programme>
+<programme start="20260927015500 +0000" stop="20260927034000 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>Jurassic Park III</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927060000 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20260927104000 +0000" stop="20260927125000 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>Jurassic Park</title>
+</programme>
+<programme start="20260927125000 +0000" stop="20260927150500 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>The Lost World: Jurassic Park</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927165000 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>Jurassic Park III</title>
+</programme>
+<programme start="20260927165000 +0000" stop="20260927190000 +0000" channel="Sky_Hits_HD.virginmediatv">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20260926225000 +0000" stop="20260927003000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Caddyshack</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927021500 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Singin&#039; in the Rain</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927041500 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Tootsie</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927050000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Sky Cinema Preview - Sept 2026</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927064000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Arthur</title>
+</programme>
+<programme start="20260927103500 +0000" stop="20260927121500 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Caddyshack</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927141500 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Tootsie</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927155000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Bean: The Ultimate Disaster Movie</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927172000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Ace Ventura: Pet Detective</title>
+</programme>
+<programme start="20260927172000 +0000" stop="20260927190000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>Ace Ventura: When Nature Calls</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927004000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>The Witches</title>
+</programme>
+<programme start="20260927004000 +0000" stop="20260927024000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>Annie</title>
+</programme>
+<programme start="20260927024000 +0000" stop="20260927041000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>The Secret Life of Pets</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927055000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>The SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20260927055000 +0000" stop="20260927073500 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927125000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>How to Train Your Dragon</title>
+</programme>
+<programme start="20260927125000 +0000" stop="20260927144000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>How to Train Your Dragon 2</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927170000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>Hook</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927194000 +0000" channel="Sky_Family_HD.virginmediatv">
+    <title>Wicked</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927005500 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>28 Years Later: The Bone Temple</title>
+</programme>
+<programme start="20260927005500 +0000" stop="20260927025000 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Annabelle: Creation</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927043500 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Annabelle</title>
+</programme>
+<programme start="20260927043500 +0000" stop="20260927064000 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Constantine</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927132500 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Man Finds Tape</title>
+</programme>
+<programme start="20260927132500 +0000" stop="20260927153000 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Star Trek Beyond</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927171000 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Zombieland</title>
+</programme>
+<programme start="20260927171000 +0000" stop="20260927190000 +0000" channel="Sky_Horror_HD.virginmediatv">
+    <title>Get Out</title>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927002500 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>American Pie 2</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927021000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>American Pie: The Wedding</title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927041000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>American Pie: Reunion</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927051000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>Sky Cinema Preview - Sept 2026</title>
+</programme>
+<programme start="20260927051000 +0000" stop="20260927072000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>Bridget Jones: Mad About the Boy</title>
+</programme>
+<programme start="20260927114000 +0000" stop="20260927132000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>The Man With Two Brains</title>
+</programme>
+<programme start="20260927132000 +0000" stop="20260927151000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>Nirvanna the Band the Show the Movie</title>
+</programme>
+<programme start="20260927151000 +0000" stop="20260927170500 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>The Phoenician Scheme</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927190000 +0000" channel="Sky_Cinema_Comedy_HD.virginmediatv">
+    <title>Finding Your Feet</title>
+</programme>
+<programme start="20260926232000 +0000" stop="20260927012500 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Fatal Attraction</title>
+</programme>
+<programme start="20260927012500 +0000" stop="20260927032000 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>The Girl on the Train</title>
+</programme>
+<programme start="20260927032000 +0000" stop="20260927050000 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Black Bag</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927064500 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Dirty Harry</title>
+</programme>
+<programme start="20260927110500 +0000" stop="20260927124500 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Hungry</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927145500 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Sherlock Holmes</title>
+</programme>
+<programme start="20260927145500 +0000" stop="20260927170500 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Sherlock Holmes: A Game of Shadows</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927190000 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Civil War</title>
+</programme>
+<programme start="20260926224500 +0000" stop="20260927003000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>Don&#039;t Let&#039;s Go to the Dogs Tonight</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927035500 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>The Brutalist</title>
+</programme>
+<programme start="20260927035500 +0000" stop="20260927055000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>The Choral</title>
+</programme>
+<programme start="20260927055000 +0000" stop="20260927081000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>True Grit</title>
+</programme>
+<programme start="20260927102500 +0000" stop="20260927131000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>One Battle After Another</title>
+</programme>
+<programme start="20260927131000 +0000" stop="20260927150500 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>Grease</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927171000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>About Time</title>
+</programme>
+<programme start="20260927171000 +0000" stop="20260927190000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>A Big Bold Beautiful Journey</title>
+</programme>
+<programme start="20260926225000 +0000" stop="20260927004500 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Supergirl</title>
+</programme>
+<programme start="20260927004500 +0000" stop="20260927023500 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>The Italian Job</title>
+</programme>
+<programme start="20260927023500 +0000" stop="20260927041500 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Vendetta</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927061500 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Green Lantern</title>
+</programme>
+<programme start="20260927100000 +0000" stop="20260927121000 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Bullet Train</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927140000 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Supergirl</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927162500 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Transformers</title>
+</programme>
+<programme start="20260927162500 +0000" stop="20260927190000 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Transformers: Revenge of the Fallen</title>
+</programme>
+<programme start="20260926222500 +0000" stop="20260927003000 +0000" channel="Film_Four.virginmediatv">
+    <title>The Menu</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927022500 +0000" channel="Film_Four.virginmediatv">
+    <title>The Imposter</title>
+</programme>
+<programme start="20260927022500 +0000" stop="20260927062500 +0000" channel="Film_Four.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927100000 +0000" stop="20260927120500 +0000" channel="Film_Four.virginmediatv">
+    <title>Garden of Evil</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927134500 +0000" channel="Film_Four.virginmediatv">
+    <title>The Incredible Shrinking Man</title>
+</programme>
+<programme start="20260927134500 +0000" stop="20260927153000 +0000" channel="Film_Four.virginmediatv">
+    <title>Brian and Charles</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927173000 +0000" channel="Film_Four.virginmediatv">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Film_Four.virginmediatv">
+    <title>Hidden Figures</title>
+</programme>
+<programme start="20260926235000 +0000" stop="20260927013500 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Nirvanna the Band the Show the Movie</title>
+</programme>
+<programme start="20260927013500 +0000" stop="20260927032500 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Tow</title>
+</programme>
+<programme start="20260927032500 +0000" stop="20260927050000 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Do Not Enter</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Hamlet</title>
+</programme>
+<programme start="20260927105000 +0000" stop="20260927123500 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Nirvanna the Band the Show the Movie</title>
+</programme>
+<programme start="20260927123500 +0000" stop="20260927143500 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Hamlet</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927162500 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Supergirl</title>
+</programme>
+<programme start="20260927162500 +0000" stop="20260927180000 +0000" channel="Sky_Premiere.virginmediatv">
+    <title>Hungry</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927010000 +0000" channel="Sky_Select.virginmediatv">
+    <title>Matilda</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927024000 +0000" channel="Sky_Select.virginmediatv">
+    <title>Babe</title>
+</programme>
+<programme start="20260927024000 +0000" stop="20260927034000 +0000" channel="Sky_Select.virginmediatv">
+    <title>Sky Cinema Preview - Sept 2026</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927052500 +0000" channel="Sky_Select.virginmediatv">
+    <title>The Witches</title>
+</programme>
+<programme start="20260927052500 +0000" stop="20260927065500 +0000" channel="Sky_Select.virginmediatv">
+    <title>Shaun the Sheep Movie</title>
+</programme>
+<programme start="20260927102500 +0000" stop="20260927121500 +0000" channel="Sky_Select.virginmediatv">
+    <title>Babe</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927143500 +0000" channel="Sky_Select.virginmediatv">
+    <title>Spider-Man: Homecoming</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927170500 +0000" channel="Sky_Select.virginmediatv">
+    <title>Spider-Man: No Way Home</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927190000 +0000" channel="Sky_Select.virginmediatv">
+    <title>Matilda</title>
+</programme>
+<programme start="20260926233500 +0000" stop="20260927015500 +0000" channel="Sky_Hits.virginmediatv">
+    <title>The Lost World: Jurassic Park</title>
+</programme>
+<programme start="20260927015500 +0000" stop="20260927034000 +0000" channel="Sky_Hits.virginmediatv">
+    <title>Jurassic Park III</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927060000 +0000" channel="Sky_Hits.virginmediatv">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20260927104000 +0000" stop="20260927125000 +0000" channel="Sky_Hits.virginmediatv">
+    <title>Jurassic Park</title>
+</programme>
+<programme start="20260927125000 +0000" stop="20260927150500 +0000" channel="Sky_Hits.virginmediatv">
+    <title>The Lost World: Jurassic Park</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927165000 +0000" channel="Sky_Hits.virginmediatv">
+    <title>Jurassic Park III</title>
+</programme>
+<programme start="20260927165000 +0000" stop="20260927190000 +0000" channel="Sky_Hits.virginmediatv">
+    <title>Jurassic World</title>
+</programme>
+<programme start="20260926225000 +0000" stop="20260927003000 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Caddyshack</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927021500 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Singin&#039; in the Rain</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927041500 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Tootsie</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927050000 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Sky Cinema Preview - Sept 2026</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927064000 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Arthur</title>
+</programme>
+<programme start="20260927103500 +0000" stop="20260927121500 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Caddyshack</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927141500 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Tootsie</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927155000 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Bean: The Ultimate Disaster Movie</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927172000 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Ace Ventura: Pet Detective</title>
+</programme>
+<programme start="20260927172000 +0000" stop="20260927190000 +0000" channel="Sky_Greats.virginmediatv">
+    <title>Ace Ventura: When Nature Calls</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927004000 +0000" channel="Sky_Family.virginmediatv">
+    <title>The Witches</title>
+</programme>
+<programme start="20260927004000 +0000" stop="20260927024000 +0000" channel="Sky_Family.virginmediatv">
+    <title>Annie</title>
+</programme>
+<programme start="20260927024000 +0000" stop="20260927041000 +0000" channel="Sky_Family.virginmediatv">
+    <title>The Secret Life of Pets</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927055000 +0000" channel="Sky_Family.virginmediatv">
+    <title>The SpongeBob SquarePants Movie</title>
+</programme>
+<programme start="20260927055000 +0000" stop="20260927073500 +0000" channel="Sky_Family.virginmediatv">
+    <title>Kung Fu Panda</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927125000 +0000" channel="Sky_Family.virginmediatv">
+    <title>How to Train Your Dragon</title>
+</programme>
+<programme start="20260927125000 +0000" stop="20260927144000 +0000" channel="Sky_Family.virginmediatv">
+    <title>How to Train Your Dragon 2</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927170000 +0000" channel="Sky_Family.virginmediatv">
+    <title>Hook</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927194000 +0000" channel="Sky_Family.virginmediatv">
+    <title>Wicked</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927005500 +0000" channel="Sky_Horror.virginmediatv">
+    <title>28 Years Later: The Bone Temple</title>
+</programme>
+<programme start="20260927005500 +0000" stop="20260927025000 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Annabelle: Creation</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927043500 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Annabelle</title>
+</programme>
+<programme start="20260927043500 +0000" stop="20260927064000 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Constantine</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927132500 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Man Finds Tape</title>
+</programme>
+<programme start="20260927132500 +0000" stop="20260927153000 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Star Trek Beyond</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927171000 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Zombieland</title>
+</programme>
+<programme start="20260927171000 +0000" stop="20260927190000 +0000" channel="Sky_Horror.virginmediatv">
+    <title>Get Out</title>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927002500 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>American Pie 2</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927021000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>American Pie: The Wedding</title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927041000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>American Pie: Reunion</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927051000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>Sky Cinema Preview - Sept 2026</title>
+</programme>
+<programme start="20260927051000 +0000" stop="20260927072000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>Bridget Jones: Mad About the Boy</title>
+</programme>
+<programme start="20260927114000 +0000" stop="20260927132000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>The Man With Two Brains</title>
+</programme>
+<programme start="20260927132000 +0000" stop="20260927151000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>Nirvanna the Band the Show the Movie</title>
+</programme>
+<programme start="20260927151000 +0000" stop="20260927170500 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>The Phoenician Scheme</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927190000 +0000" channel="Sky_Cinema_Comedy.virginmediatv">
+    <title>Finding Your Feet</title>
+</programme>
+<programme start="20260926232000 +0000" stop="20260927012500 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Fatal Attraction</title>
+</programme>
+<programme start="20260927012500 +0000" stop="20260927032000 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>The Girl on the Train</title>
+</programme>
+<programme start="20260927032000 +0000" stop="20260927050000 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Black Bag</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927064500 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Dirty Harry</title>
+</programme>
+<programme start="20260927110500 +0000" stop="20260927124500 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Hungry</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927145500 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Sherlock Holmes</title>
+</programme>
+<programme start="20260927145500 +0000" stop="20260927170500 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Sherlock Holmes: A Game of Shadows</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927190000 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Civil War</title>
+</programme>
+<programme start="20260926224500 +0000" stop="20260927003000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>Don&#039;t Let&#039;s Go to the Dogs Tonight</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927035500 +0000" channel="Sky_Drama.virginmediatv">
+    <title>The Brutalist</title>
+</programme>
+<programme start="20260927035500 +0000" stop="20260927055000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>The Choral</title>
+</programme>
+<programme start="20260927055000 +0000" stop="20260927081000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>True Grit</title>
+</programme>
+<programme start="20260927102500 +0000" stop="20260927131000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>One Battle After Another</title>
+</programme>
+<programme start="20260927131000 +0000" stop="20260927150500 +0000" channel="Sky_Drama.virginmediatv">
+    <title>Grease</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927171000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>About Time</title>
+</programme>
+<programme start="20260927171000 +0000" stop="20260927190000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>A Big Bold Beautiful Journey</title>
+</programme>
+<programme start="20260926225000 +0000" stop="20260927004500 +0000" channel="Sky_Action.virginmediatv">
+    <title>Supergirl</title>
+</programme>
+<programme start="20260927004500 +0000" stop="20260927023500 +0000" channel="Sky_Action.virginmediatv">
+    <title>The Italian Job</title>
+</programme>
+<programme start="20260927023500 +0000" stop="20260927041500 +0000" channel="Sky_Action.virginmediatv">
+    <title>Vendetta</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927061500 +0000" channel="Sky_Action.virginmediatv">
+    <title>Green Lantern</title>
+</programme>
+<programme start="20260927100000 +0000" stop="20260927121000 +0000" channel="Sky_Action.virginmediatv">
+    <title>Bullet Train</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927140000 +0000" channel="Sky_Action.virginmediatv">
+    <title>Supergirl</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927162500 +0000" channel="Sky_Action.virginmediatv">
+    <title>Transformers</title>
+</programme>
+<programme start="20260927162500 +0000" stop="20260927190000 +0000" channel="Sky_Action.virginmediatv">
+    <title>Transformers: Revenge of the Fallen</title>
+</programme>
+<programme start="20260926222500 +0000" stop="20260927003000 +0000" channel="Film4_HD.virginmediatv">
+    <title>The Menu</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927022500 +0000" channel="Film4_HD.virginmediatv">
+    <title>The Imposter</title>
+</programme>
+<programme start="20260927022500 +0000" stop="20260927062500 +0000" channel="Film4_HD.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927100000 +0000" stop="20260927120500 +0000" channel="Film4_HD.virginmediatv">
+    <title>Garden of Evil</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927134500 +0000" channel="Film4_HD.virginmediatv">
+    <title>The Incredible Shrinking Man</title>
+</programme>
+<programme start="20260927134500 +0000" stop="20260927153000 +0000" channel="Film4_HD.virginmediatv">
+    <title>Brian and Charles</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927173000 +0000" channel="Film4_HD.virginmediatv">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927200000 +0000" channel="Film4_HD.virginmediatv">
+    <title>Hidden Figures</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: One-Day International Cricket - 3rd ODI: England v Sri Lanka</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: WSL - Liverpool v Everton</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927173000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: WSL - Chelsea v Arsenal</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927201500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: NFL Football - Los Angeles Chargers at Buffalo Bills</title>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League Years - 2024/25</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927023000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Prem Classics - 2006/07: West Ham United v Tottenham Hotspur</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927024500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2005: Portsmouth v Southampton</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2012: Queens Park Rangers v Liverpool</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Best Premier League Goals - 2003/04</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League Legends - David Ginola</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League Legends - Juninho</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927051500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - Newcastle v Sunderland</title>
+</programme>
+<programme start="20260927051500 +0000" stop="20260927053000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League Fan&#039;s Vote - 2015: Watford v Liverpool</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927054500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League Fan&#039;s Vote - 2016: West Ham United v Manchester United</title>
+</programme>
+<programme start="20260927054500 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League Fan&#039;s Vote - 2010: Wigan Athletic v Arsenal</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Netbusters - Round 1</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927151500 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Live: WSL - Liverpool v Everton</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927180000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Live: WSL - Chelsea v Arsenal</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>Championship Retro - 2019 Play-Off Final: Aston Villa v Derby County</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927011500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Play-Off Classics - 2014: Derby v QPR</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927013000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Play-Off Classics - 2015: Preston v Chesterfield</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927014500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Play-Off Classics - 2015: Swindon v Sheffield United</title>
+</programme>
+<programme start="20260927014500 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Play-Off Classics - 2017: Bradford v Millwall</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>Scottish Premiership Football - Celtic v Rangers</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927024500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Greatest - 2016/17: Sheffield Wednesday v Newcastle United</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Greatest - 2016/17: Fulham v Aston Villa</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Final: Aston Villa v Manchester City</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>Best Goals of the Carabao Cup - 2019/20</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Trophy Football - Final: Portsmouth v Salford City</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - 2013 Final: Swansea City v Bradford City</title>
+</programme>
+<programme start="20260927105000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>Live: Scottish Women&#039;s Premier League - Rangers v Celtic</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 2: Nottingham Forest v Leeds United</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 2: Preston North End v Everton</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 3: Millwall v Newcastle United</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 3: Chelsea v Leeds United</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 3: Liverpool v Tottenham Hotspur</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927200500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>Live: NFL Football - Cincinnati Bengals at Pittsburgh Steelers</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>International T20 Cricket - 1st T20: England v Sri Lanka</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
+</programme>
+<programme start="20260927044500 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>One-Day International Cricket - 2nd ODI: England v India</title>
+</programme>
+<programme start="20260927090000 +0000" stop="20260927173000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Live: One-Day International Cricket - 3rd ODI: England v Sri Lanka</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927174500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>The Presidents Cup Official Film - 2022</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Open de France, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Presidents Cup, PGA Tour Golf - Day 2: Highlights</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Presidents Cup, PGA Tour Golf - Day 3: Highlights</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Open de France, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927093000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Open de France, DP World Tour Golf - Day 3</title>
+</programme>
+<programme start="20260927103000 +0000" stop="20260927153000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Open de France, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927220000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Presidents Cup, PGA Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Detroit Lions at Buffalo Bills</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Denver Broncos at Kansas City Chiefs</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - New York Giants at Los Angeles Rams</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Minnesota Vikings at Chicago Bears</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL Football - Atlanta Falcons at Green Bay Packers</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927163000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>NFL GameDay Morning - Episode 11</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927201500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+    <title>Live: NFL Football - Los Angeles Chargers at Buffalo Bills</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927014500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Super League Rugby - Semi-Final: Wigan Warriors v Wakefield Trinity</title>
+</programme>
+<programme start="20260927014500 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>EFL Greatest - 2013/14: Queens Park Rangers v Nottingham Forest</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927021500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>EFL Greatest - 2016/17: Cardiff City v Bristol City</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927023000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>EFL Greatest - 2016/17: Burton Albion v Birmingham City</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927024500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>EFL Greatest - 2014/15: Norwich City v Ipswich Town</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>EFL Greatest - 2014/15: Wolverhampton Wanderers v Leeds United</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Rugby Gold - 2002: England v South Africa</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927050500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Live: Women&#039;s NRL - Finals Series: Gold Coast Titans v Brisbane Broncos</title>
+</programme>
+<programme start="20260927050500 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Live Tennis - ATP: Day 7</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927124500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Zuffa Boxing - Johnny Fisher v Michael Pirotton</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>My Icon - Maggie Alphonsi</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927190000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Live: RFL Women&#039;s Super League - Grand Final: Wigan Warriors v York Valkyrie</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>The Sky Sports Catch-Up</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>GT World Challenge Europe Motor Racing - Monza: Highlights</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Ferrari Challenge Europe - Spielberg: Highlights</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Rugby Gold - 2002: England v South Africa</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927050500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Live: Women&#039;s NRL - Finals Series: Gold Coast Titans v Brisbane Broncos</title>
+</programme>
+<programme start="20260927050500 +0000" stop="20260927052000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>My Icon - Keegan Hirst</title>
+</programme>
+<programme start="20260927052000 +0000" stop="20260927053000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>My Icon - Darren Campbell</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927073000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Prem Classics - 2006/07: West Ham United v Tottenham Hotspur</title>
+</programme>
+<programme start="20260927073000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Live: One-Day International Cricket - 2nd ODI: South Africa v Australia</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927161500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2001: Charlton Athletic v West Ham United</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927163000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2002: Manchester City v Manchester United</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927233000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>NFL RedZone - Episode 8</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927003000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>ATP Tour: This Week - Episode 97</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>ATP &amp; WTA Classic Matches - ATP Finals 2003: Roger Federer v Andre Agassi</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927033000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927063000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live Tennis - WTA/ATP: Day 7</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927183000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Live: Laver Cup - Day 3</title>
+</programme>
+<programme start="20260926200000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+    <title>Live: Stateside</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+    <title>Live: Australian Racing</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927083000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+    <title>Live: Hong Kong Horse Racing</title>
+</programme>
+<programme start="20260927083000 +0000" stop="20260927123000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+    <title>Live: International Raceday</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927190000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+    <title>Live: Raceday</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927013000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Racing_UK.virginmediatv">
+    <title>The Full SP: Preview</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927040000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927053000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Racing_UK.virginmediatv">
+    <title>The Full SP: Preview</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927121500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Mark Your Card</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927164500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Live: Racing</title>
+</programme>
+<programme start="20260927164500 +0000" stop="20260927171500 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927180000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927013000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>The Full SP: Preview</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927040000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927053000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>The Full SP: Preview</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927121500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Mark Your Card</title>
+</programme>
+<programme start="20260927121500 +0000" stop="20260927164500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Live: Racing</title>
+</programme>
+<programme start="20260927164500 +0000" stop="20260927171500 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927180000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Irish Racing Replay</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927004500 +0000" channel="MUTV.virginmediatv">
+    <title>Premier League - Fulham v Manchester United</title>
+</programme>
+<programme start="20260927004500 +0000" stop="20260927013000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927030000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - Marcus Rashford</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927034000 +0000" channel="MUTV.virginmediatv">
+    <title>Farewell Casemiro</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927040000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - Casemiro</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927041500 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - MUW At Old Trafford</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927043000 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Fulham</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927053000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - MU Women 18/19</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - MU Women 19/20</title>
+</programme>
+<programme start="20260927115500 +0000" stop="20260927140000 +0000" channel="MUTV.virginmediatv">
+    <title>Live: Radio Commentary - WSL: Manchester United v West Ham United</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927141500 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - MUW At Old Trafford</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927150000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927163000 +0000" channel="MUTV.virginmediatv">
+    <title>All the Goals - Marcus Rashford</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington Podcast - Ameesh Manek &amp; Matt Johnson</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="MUTV.virginmediatv">
+    <title>FA Women&#039;s League Cup - Manchester United v Sheffield United</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="MUTV.virginmediatv">
+    <title>Under 18 Premier League - Everton v Manchester United</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927001000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>British Kart Championships - Silverstone</title>
+</programme>
+<programme start="20260927001000 +0000" stop="20260927002500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Jenson &amp; the FW22</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best Of China 2026</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927011500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best of Japan 2026</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927020000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best of Miami 2026</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best Of Barcelona 2026</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best Of Austria 2026</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927031500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best of Japan 2026</title>
+</programme>
+<programme start="20260927031500 +0000" stop="20260927040000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best of Miami 2026</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927042500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best Of Australia 2026</title>
+</programme>
+<programme start="20260927042500 +0000" stop="20260927050000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - The Best Of China 2026</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>British Kart Championships - Silverstone</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927120500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>British GT Championship Motor Racing - Brands Hatch: Qualifying</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927121000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Liam Lawson IV</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927144000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Live: British GT Championship Motor Racing - Brands Hatch: Race</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927144500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Carlos Sainz Sr &amp; Bernie Collins</title>
+</programme>
+<programme start="20260927144500 +0000" stop="20260927170000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - Azerbaijan Grand Prix: Stand Alone Race</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>British Kart Championships - Silverstone</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927033000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: The Ultimate Fighting Championship - UFC Fight Night: Raul Rosas Jr. v Raoni Barcelos</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927050000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: Women&#039;s Australian Rules - Collingwood Magpies v GWS GIANTS</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: Women&#039;s Australian Rules - Sydney Swans v Brisbane Lions</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: CRO Race Road Cycling - Stage 6</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>TNT Sports Reload - Episode 38</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: PREM Rugby - Leicester Tigers v Saracens</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927190000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Live: The 745 Game</title>
+</programme>
+<programme start="20260926233000 +0000" stop="20260927003000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>PREM Rugby - Sale Sharks v Bristol Bears</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927033000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: Major League Baseball - Arizona Diamondbacks at San Diego Padres</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927043000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>MotoGP - Austrian Grand Prix</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Endurance Uncovered: Racing for Excellence - Episode 6</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Laver Cup - Day 2</title>
+</programme>
+<programme start="20260927104500 +0000" stop="20260927130000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: Laver Cup - Match 9</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: Laver Cup - Match 10</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927170000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: Laver Cup - Match 11</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927190000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: Laver Cup - Match 12</title>
+</programme>
+<programme start="20260926231500 +0000" stop="20260927020000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>Live: Major League Baseball - Tampa Bay Rays at Philadelphia Phillies</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>UCI Road World Championships - Montréal: Women&#039;s Elite Road Race</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>Live: Women&#039;s Australian Rules - Adelaide Crows v Fremantle</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>PREM Rugby - Northampton Saints v Newcastle Red Bulls</title>
+</programme>
+<programme start="20260927081500 +0000" stop="20260927123000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>Live: One-Day International Cricket - 1st ODI: India v West Indies</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927201500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+    <title>Live: UCI Road World Championships - Montréal: Men&#039;s Elite Road Race</title>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927004500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: NWSL - Washington Spirit v Angel City FC</title>
+</programme>
+<programme start="20260927004500 +0000" stop="20260927011500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Inside Serie A - International Break Special</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927013000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Reframe the Game - The Long Away Game</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927083000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: FIA World Endurance Championship Motor Racing - 6 Hours of Fuji: Race</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927130000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: FIM Superbike World Championship Motorcycle Racing - Italian Round: Supersport Race 2</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927143000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: FIM Superbike World Championship Motorcycle Racing - Italian Round: Superbike Race 2</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927164500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>Live: One-Day International Cricket - 1st ODI: India v West Indies</title>
+</programme>
+<programme start="20260927164500 +0000" stop="20260927170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>TNT Sports Cricket Reload - Ireland v India: 2nd T20</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>FIM Superbike World Championship Motorcycle Racing - Italian Round: Superbike Superpole Race</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+    <title>FIM Superbike World Championship Motorcycle Racing - Italian Round: Superbike Race 2</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927020000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>United Rugby Championship - Munster v Glasgow Warriors</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927040000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>United Rugby Championship - Scarlets v Cardiff</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Sporting Greats - Episode 3</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Sporting Greats - Episode 4</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Top 14 - Stade Français Paris v LOU Rugby</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>United Rugby Championship - Connacht v DHL Stormers</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927160000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>United Rugby Championship - 10bet Lions v Leinster</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>UEFA Champions League Magazine - Episode 3</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>UEFA Champions League Magazine - Episode 4</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927190000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+    <title>Top 14 - USA Perpignan v Union Bordeaux-Bègles</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927020000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Top 14 - Stade Français Paris v LOU Rugby</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927040000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>United Rugby Championship - Zebre Parma v Vodacom Bulls</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Bike World - Episode 151</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Temples of Sport - Lord&#039;s Cricket Ground</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Football&#039;s Greatest - Episode 4</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Football&#039;s Greatest - Episode 7</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Temples of Sport - Alpe D&#039;Huez</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927143000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Top 14 - Stade Français Paris v LOU Rugby</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927163000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>United Rugby Championship - Zebre Parma v Vodacom Bulls</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Temples of Sport - Lord&#039;s Cricket Ground</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Bike World - Episode 151</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927183000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>NASCAR Cup Racing Series - Bristol Motor Speedway</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: One-Day International Cricket - 3rd ODI: England v Sri Lanka</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927151500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: WSL - Liverpool v Everton</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927173000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: WSL - Chelsea v Arsenal</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927201500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: NFL Football - Los Angeles Chargers at Buffalo Bills</title>
+</programme>
+<programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League Years - 2024/25</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927023000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Prem Classics - 2006/07: West Ham United v Tottenham Hotspur</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927024500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2005: Portsmouth v Southampton</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2012: Queens Park Rangers v Liverpool</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Best Premier League Goals - 2003/04</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League Legends - David Ginola</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League Legends - Juninho</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927051500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League Fan&#039;s Vote - 2013: Newcastle United v Sunderland</title>
+</programme>
+<programme start="20260927051500 +0000" stop="20260927053000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2015: Watford v Liverpool</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927054500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League Fan&#039;s Vote - 2016: West Ham United v Manchester United</title>
+</programme>
+<programme start="20260927054500 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League Fan&#039;s Vote - 2010: Wigan Athletic v Arsenal</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Netbusters - Round 1</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927151500 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Live: WSL - Liverpool v Everton</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927180000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Live: WSL - Chelsea v Arsenal</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>Championship Retro - 2019 Play-Off Final: Aston Villa v Derby County</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927011500 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Play-Off Classics - 2014: Derby v QPR</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927013000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Play-Off Classics - 2015: Preston v Chesterfield</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927014500 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Play-Off Classics - 2015: Swindon v Sheffield United</title>
+</programme>
+<programme start="20260927014500 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Play-Off Classics - 2017: Bradford v Millwall</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>Scottish Premiership Football - Celtic v Rangers</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927024500 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Greatest - 2016/17: Sheffield Wednesday v Newcastle United</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Greatest - 2016/17: Fulham v Aston Villa</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Final: Aston Villa v Manchester City</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>Best Goals of the Carabao Cup - 2019/20</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Trophy Football - Final: Portsmouth v Salford City</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927070000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - 2013 Final: Swansea City v Bradford City</title>
+</programme>
+<programme start="20260927105000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>Live: Scottish Women&#039;s Premier League - Rangers v Celtic</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 2: Nottingham Forest v Leeds United</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 2: Preston North End v Everton</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 3: Millwall v Newcastle United</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 3: Chelsea v Leeds United</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 3: Liverpool v Tottenham Hotspur</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 3: Manchester United v Brighton &amp; Hove Albion</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927200500 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>Live: NFL Football - Cincinnati Bengals at Pittsburgh Steelers</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927043000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>International T20 Cricket - 1st T20: England v Sri Lanka</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
+</programme>
+<programme start="20260927044500 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>One-Day International Cricket - 2nd ODI: England v India</title>
+</programme>
+<programme start="20260927090000 +0000" stop="20260927173000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Live: One-Day International Cricket - 3rd ODI: England v Sri Lanka</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927174500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Hundred - Women&#039;s Final: Trent Rockets v Sunrisers Leeds</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>The Presidents Cup Official Film - 2022</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Open de France, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Presidents Cup, PGA Tour Golf - Day 2: Highlights</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Presidents Cup, PGA Tour Golf - Day 3: Highlights</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Open de France, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927093000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Open de France, DP World Tour Golf - Day 3</title>
+</programme>
+<programme start="20260927103000 +0000" stop="20260927153000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Open de France, DP World Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927220000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Presidents Cup, PGA Tour Golf - Day 4</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Jacksonville Jaguars at Denver Broncos</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Detroit Lions at Buffalo Bills</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Indianapolis Colts at Kansas City Chiefs</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Denver Broncos at Kansas City Chiefs</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - New York Giants at Los Angeles Rams</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Minnesota Vikings at Chicago Bears</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL Football - Atlanta Falcons at Green Bay Packers</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927163000 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>NFL GameDay Morning - Episode 11</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927201500 +0000" channel="Sky_Sports_Action.virginmediatv">
+    <title>Live: NFL Football - Los Angeles Chargers at Buffalo Bills</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927014500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Super League Rugby - Semi-Final: Wigan Warriors v Wakefield Trinity</title>
+</programme>
+<programme start="20260927014500 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>EFL Greatest - 2013/14: Queens Park Rangers v Nottingham Forest</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927021500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>EFL Greatest - 2016/17: Cardiff City v Bristol City</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927023000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>EFL Greatest - 2016/17: Burton Albion v Birmingham City</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927024500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>EFL Greatest - 2014/15: Norwich City v Ipswich Town</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>EFL Greatest - 2014/15: Wolverhampton Wanderers v Leeds United</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Rugby Gold - 2002: England v South Africa</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927050500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Live: Women&#039;s NRL - Finals Series: Gold Coast Titans v Brisbane Broncos</title>
+</programme>
+<programme start="20260927050500 +0000" stop="20260927060000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Live Tennis - ATP: Day 7</title>
+</programme>
+<programme start="20260927114500 +0000" stop="20260927124500 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Zuffa Boxing - Johnny Fisher v Michael Pirotton</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>My Icon - Maggie Alphonsi</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927190000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Live: RFL Women&#039;s Super League - Grand Final: Wigan Warriors v York Valkyrie</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Sports Sunday</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>The Sky Sports Catch-Up</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>GT World Challenge Europe Motor Racing - Monza: Highlights</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Ferrari Challenge Europe - Spielberg: Highlights</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Rugby Gold - 2002: England v South Africa</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927050500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Live: Women&#039;s NRL - Finals Series: Gold Coast Titans v Brisbane Broncos</title>
+</programme>
+<programme start="20260927050500 +0000" stop="20260927052000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>My Icon - Keegan Hirst</title>
+</programme>
+<programme start="20260927052000 +0000" stop="20260927053000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>My Icon - Darren Campbell</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927073000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Prem Classics - 2006/07: West Ham United v Tottenham Hotspur</title>
+</programme>
+<programme start="20260927073000 +0000" stop="20260927160000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Live: One-Day International Cricket - 2nd ODI: South Africa v Australia</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927161500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2001: Charlton Athletic v West Ham United</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927163000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>The Premier League&#039;s Greatest Games - 2002: Manchester City v Manchester United</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927233000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>NFL RedZone - Episode 8</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927003000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>ATP Tour: This Week - Episode 97</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>ATP &amp; WTA Classic Matches - ATP Finals 2003: Roger Federer v Andre Agassi</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: WTA Korean Open 2026 - Quarter-Finals</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927063000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live Tennis - WTA/ATP: Day 7</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927183000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Live: Laver Cup - Day 3</title>
+</programme>
+<programme start="20260926231000 +0000" stop="20260927001000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>British Kart Championships - Silverstone</title>
+</programme>
+<programme start="20260927001000 +0000" stop="20260927002500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Jenson &amp; the FW22</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927010000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best Of China 2026</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927011500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best of Japan 2026</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927020000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best of Miami 2026</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best Of Barcelona 2026</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best Of Austria 2026</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927031500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best of Japan 2026</title>
+</programme>
+<programme start="20260927031500 +0000" stop="20260927040000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best of Miami 2026</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927042500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best Of Australia 2026</title>
+</programme>
+<programme start="20260927042500 +0000" stop="20260927050000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - The Best Of China 2026</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>British Kart Championships - Silverstone</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927120500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>British GT Championship Motor Racing - Brands Hatch: Qualifying</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927121000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Liam Lawson IV</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927144000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Live: British GT Championship Motor Racing - Brands Hatch: Race</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927144500 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Carlos Sainz Sr &amp; Bernie Collins</title>
+</programme>
+<programme start="20260927144500 +0000" stop="20260927170000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - Azerbaijan Grand Prix: Stand Alone Race</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>British Kart Championships - Silverstone</title>
+</programme>
+<programme start="20260926231500 +0000" stop="20260927001500 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Aperitíf - Aperitíf - 1</title>
+</programme>
+<programme start="20260927001500 +0000" stop="20260927013000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Survivor - Cinema</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Cheers - How to Recede in Business</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927021500 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Nuacht TG4 - Episode 269</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927024500 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Taoscadh ón Tobar - Doireann Ní Ghlacáin</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927031500 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Geantraí - John Joe&#039;s Bar, Kilcar</title>
+</programme>
+<programme start="20260927031500 +0000" stop="20260927041000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Ollchlár Ros Na Rún - Episode 2</title>
+</programme>
+<programme start="20260927041000 +0000" stop="20260927043500 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Síorstíl - Episode 4</title>
+</programme>
+<programme start="20260927043500 +0000" stop="20260927050000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>Pobal Mhúscraí - Episode 4</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
+</programme>
+<programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927170000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927190000 +0000" channel="TG4+1_HD.virginmediatv">
+    <title>TG4+1 ar ais ag 8in / TG4+1 returns at 8pm</title>
+</programme>
+<programme start="20260926220000 +0000" stop="20260927002000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Kingsman: The Secret Service</title>
+</programme>
+<programme start="20260927002000 +0000" stop="20260927021000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Withnail and I</title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927030500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Ramsay&#039;s Kitchen Nightmares USA - Bazzini</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927033000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>The Simpsons - Woo-Hoo Dunnit</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927035500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>The Simpsons - Treehouse of Horror XXIX</title>
+</programme>
+<programme start="20260927035500 +0000" stop="20260927042000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>The Simpsons - Who Shot Mr. Burns? (Part One)</title>
+</programme>
+<programme start="20260927042000 +0000" stop="20260927044500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>The Simpsons - So It&#039;s Come to This: The Simpsons Clip Show</title>
+</programme>
+<programme start="20260927044500 +0000" stop="20260927051000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>The Simpsons - Lisa the Vegetarian</title>
+</programme>
+<programme start="20260927051000 +0000" stop="20260927060500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Location, Location, Location - South London</title>
+</programme>
+<programme start="20260927100000 +0000" stop="20260927130000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Sunday Brunch</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927154000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>A Knight&#039;s Tale</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927161000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Kirstie and Phil&#039;s Love It or List It: Brilliant Builds - Making Your Budget Stretch</title>
+</programme>
+<programme start="20260927161000 +0000" stop="20260927171500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>George Clarke&#039;s Amazing Spaces - Camping Pod and a Straw Bale House</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927181500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Worst House on the Street - Sheffield: Maria and Lauren</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927000500 +0000" channel="E4+1.virginmediatv">
+    <title>Gogglebox - Episode 6</title>
+</programme>
+<programme start="20260927000500 +0000" stop="20260927011000 +0000" channel="E4+1.virginmediatv">
+    <title>First Dates - Episode 3</title>
+</programme>
+<programme start="20260927011000 +0000" stop="20260927020500 +0000" channel="E4+1.virginmediatv">
+    <title>Vanderpump Rules - SUR-ving Drama</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927030000 +0000" channel="E4+1.virginmediatv">
+    <title>Vanderpump Rules - Manifest and Chill</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927035000 +0000" channel="E4+1.virginmediatv">
+    <title>Vanderpump Rules - Crash Out Queens</title>
+</programme>
+<programme start="20260927035000 +0000" stop="20260927043500 +0000" channel="E4+1.virginmediatv">
+    <title>Ramsay&#039;s Hotel Hell - Four Seasons Inn</title>
+</programme>
+<programme start="20260927043500 +0000" stop="20260927060000 +0000" channel="E4+1.virginmediatv">
+    <title>Don&#039;t Tell the Bride - Jazmin and Sonny</title>
+</programme>
+<programme start="20260927110500 +0000" stop="20260927120500 +0000" channel="E4+1.virginmediatv">
+    <title>Ramsay&#039;s Kitchen Nightmares USA - Renate&#039;s German Restaurant</title>
+</programme>
+<programme start="20260927120500 +0000" stop="20260927134000 +0000" channel="E4+1.virginmediatv">
+    <title>The Great British Bake Off - Cake Week</title>
+</programme>
+<programme start="20260927134000 +0000" stop="20260927140500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - The Ten-Per-Cent Solution</title>
+</programme>
+<programme start="20260927140500 +0000" stop="20260927143500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - Politically Inept With Homer</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927150500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - The Daughter Also Rises</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927153500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - At Long Last Leave</title>
+</programme>
+<programme start="20260927153500 +0000" stop="20260927160500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - How I Wet Your Mother</title>
+</programme>
+<programme start="20260927160500 +0000" stop="20260927164000 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - Sex, Pies and Idiot-Scrapes</title>
+</programme>
+<programme start="20260927164000 +0000" stop="20260927170500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - Lost Verizon</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927173500 +0000" channel="E4+1.virginmediatv">
+    <title>The Simpsons - Double Double Boy in Trouble</title>
+</programme>
+<programme start="20260927173500 +0000" stop="20260927191000 +0000" channel="E4+1.virginmediatv">
+    <title>LEGO Masters: Grand Masters of the Galaxy - Caught in the Act</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>FBI - Sacrifice</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>The Good Doctor - Critical Support</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>The Force: Manchester - Episode 2</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Brit Cops: Law and Disorder - Taxi Driver</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>A1: Highway Patrol - Episode 7</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Road Wars - Episode 3</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare UK - Episode 11</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare UK - Episode 12</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>UK Border Force - Episode 3</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 16</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 17</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 18</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 19</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 20</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 1</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Near Collapse</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_Witness_+1.virginmediatv">
+    <title>Nothing to Declare - Episode 3</title>
+</programme>
+<programme start="20260926230500 +0000" stop="20260927000500 +0000" channel="More4+1.virginmediatv">
+    <title>999: On the Front Line - Episode 4</title>
+</programme>
+<programme start="20260927000500 +0000" stop="20260927011000 +0000" channel="More4+1.virginmediatv">
+    <title>999: On the Front Line - Episode 5</title>
+</programme>
+<programme start="20260927011000 +0000" stop="20260927021500 +0000" channel="More4+1.virginmediatv">
+    <title>24 Hours in A&amp;E - Forever Changes</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927032000 +0000" channel="More4+1.virginmediatv">
+    <title>24 Hours in A&amp;E - Episode 2</title>
+</programme>
+<programme start="20260927032000 +0000" stop="20260927035000 +0000" channel="More4+1.virginmediatv">
+    <title>Food Unwrapped - Caribbean Adventure</title>
+</programme>
+<programme start="20260927035000 +0000" stop="20260927085500 +0000" channel="More4+1.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="More4+1.virginmediatv">
+    <title>A Place in the Sun - Roquetas de Mar, Spain</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="More4+1.virginmediatv">
+    <title>A Place in the Sun - Costa del Sol, Spain</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="More4+1.virginmediatv">
+    <title>A Place in the Sun - Mojácar</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927155000 +0000" channel="More4+1.virginmediatv">
+    <title>A Place in the Sun - Almeria</title>
+</programme>
+<programme start="20260927155000 +0000" stop="20260927162000 +0000" channel="More4+1.virginmediatv">
+    <title>Come Dine with Me - Midlands: Becci</title>
+</programme>
+<programme start="20260927162000 +0000" stop="20260927165000 +0000" channel="More4+1.virginmediatv">
+    <title>Come Dine with Me - Midlands: Louise</title>
+</programme>
+<programme start="20260927165000 +0000" stop="20260927172000 +0000" channel="More4+1.virginmediatv">
+    <title>Come Dine with Me - Midlands: Hezron</title>
+</programme>
+<programme start="20260927172000 +0000" stop="20260927175000 +0000" channel="More4+1.virginmediatv">
+    <title>Come Dine with Me - Midlands: Lorna</title>
+</programme>
+<programme start="20260927175000 +0000" stop="20260927182000 +0000" channel="More4+1.virginmediatv">
+    <title>Come Dine with Me - Midlands: Ian</title>
+</programme>
+<programme start="20260926233500 +0000" stop="20260927001500 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 4</title>
+</programme>
+<programme start="20260927001500 +0000" stop="20260927005500 +0000" channel="UandGold_+1.virginmediatv">
+    <title>The Royle Family - Sunday Afternoon</title>
+</programme>
+<programme start="20260927005500 +0000" stop="20260927013000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Black Ops - Episode 6</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020500 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 5</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927025000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 4</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927032000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>The Power of Parker - Miss Stockport</title>
+</programme>
+<programme start="20260927032000 +0000" stop="20260927040000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Gavin &amp; Stacey - Episode 5</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927060000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927124000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Open All Hours - Duet for Solo Bicycle</title>
+</programme>
+<programme start="20260927124000 +0000" stop="20260927132000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Open All Hours - How to Ignite Your Errand Boy</title>
+</programme>
+<programme start="20260927132000 +0000" stop="20260927140000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Open All Hours - The Man From Down Under</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927144000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Open All Hours - The Cool Cocoa Tin Lid</title>
+</programme>
+<programme start="20260927144000 +0000" stop="20260927155500 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Only Fools and Horses... - Little Problems</title>
+</programme>
+<programme start="20260927155500 +0000" stop="20260927172000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>Only Fools and Horses... - Mother Nature&#039;s Son</title>
+</programme>
+<programme start="20260927172000 +0000" stop="20260927180000 +0000" channel="UandGold_+1.virginmediatv">
+    <title>The Vicar of Dibley - Community Spirit</title>
+</programme>
+<programme start="20260926232500 +0000" stop="20260927013000 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>The Menu</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927032500 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>The Imposter</title>
+</programme>
+<programme start="20260927032500 +0000" stop="20260927072500 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927110000 +0000" stop="20260927130500 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>Garden of Evil</title>
+</programme>
+<programme start="20260927130500 +0000" stop="20260927144500 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>The Incredible Shrinking Man</title>
+</programme>
+<programme start="20260927144500 +0000" stop="20260927163000 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>Brian and Charles</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927183000 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>Zathura: A Space Adventure</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927005000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>8 Out of 10 Cats - Episode 9</title>
+</programme>
+<programme start="20260927005000 +0000" stop="20260927012000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>8 Out of 10 Cats - Best Bits</title>
+</programme>
+<programme start="20260927012000 +0000" stop="20260927015000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Whose Line Is It Anyway? USA - Danielle Panabaker / Gary Anthony</title>
+</programme>
+<programme start="20260927015000 +0000" stop="20260927021500 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Comedy Central Presents - Amy Schumer</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927024500 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Comedy Central Presents - Jeff Dunham</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927033000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Dara O Briain: Craic Dealer</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927041500 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Michael McIntyre: Showtime</title>
+</programme>
+<programme start="20260927041500 +0000" stop="20260927043500 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Stupid Central - Episode 9</title>
+</programme>
+<programme start="20260927043500 +0000" stop="20260927050000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Stupid Central - Episode 10</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Teleshopping</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One With Phoebe&#039;s Dad</title>
+</programme>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One With Russ</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One With the Lesbian Wedding</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One With the Prom Video</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One Where Ross and Rachel ... You Know</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One Where Joey Moves Out</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One Where Eddie Moves In</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One Where Dr Ramoray Dies</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One Where Eddie Won&#039;t Go</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Comedy_+1.virginmediatv">
+    <title>Friends - The One Where Old Yeller Dies</title>
+</programme>
+<programme start="20260926230000 +0000" stop="20260927060000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927121000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Lex and Plu Space Taxi Drivers - Quest for Coolness</title>
+</programme>
+<programme start="20260927121000 +0000" stop="20260927122000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Bluey - BBQ</title>
+</programme>
+<programme start="20260927122000 +0000" stop="20260927122500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Bluey - Favourite Thing</title>
+</programme>
+<programme start="20260927122500 +0000" stop="20260927123500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Bluey - Phones</title>
+</programme>
+<programme start="20260927123500 +0000" stop="20260927124000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Yakka Dee - Cheese</title>
+</programme>
+<programme start="20260927124000 +0000" stop="20260927125500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Tír na nÓg - Episode 6</title>
+</programme>
+<programme start="20260927125500 +0000" stop="20260927130000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Adam Loves Adventure - Sploodunnit</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927131000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Adam Loves Adventure - Attack of the Nom Noms</title>
+</programme>
+<programme start="20260927131000 +0000" stop="20260927131500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Brewster the Rooster - Gone-a-Saurus</title>
+</programme>
+<programme start="20260927131500 +0000" stop="20260927132500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Brewster the Rooster - Fire in the Sky</title>
+</programme>
+<programme start="20260927132500 +0000" stop="20260927134500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Body Brothers - Popcorn</title>
+</programme>
+<programme start="20260927134500 +0000" stop="20260927135000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>The Day Henry Met? - The Day Henry Met... A Microscope</title>
+</programme>
+<programme start="20260927135000 +0000" stop="20260927140000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Ballybraddan - The First Round</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927141500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Tír na nÓg - Cuardach na gCréatúr</title>
+</programme>
+<programme start="20260927141500 +0000" stop="20260927142500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Puffin Rock As Gaeilge - An Bhlaosc Fholamh</title>
+</programme>
+<programme start="20260927142500 +0000" stop="20260927143500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Puffin Rock As Gaeilge - Ni Ga Triur</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927145000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Andy&#039;s Wild Adventures - Marine Iguanas</title>
+</programme>
+<programme start="20260927145000 +0000" stop="20260927150000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Go Jetters - The Eiffel Tower, France</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927151500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Go Jetters - The Pyramids of Giza, Egypt</title>
+</programme>
+<programme start="20260927151500 +0000" stop="20260927152000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Fia&#039;s Fairies - Mr Mistéir</title>
+</programme>
+<programme start="20260927152000 +0000" stop="20260927153000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Mixmups - Beepy Egg Hunt</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927154000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>The Wee Littles - The Woolly Littles</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927155500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>The Wee Littles - Reach The Beach</title>
+</programme>
+<programme start="20260927155500 +0000" stop="20260927160500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Bellie and Whizz `Minding Me&#039; - Angry</title>
+</programme>
+<programme start="20260927160500 +0000" stop="20260927161500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Bellie and Whizz `Minding Me&#039; - Disgust</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927163000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Daniel Tiger&#039;s Neighbourhood - Daniel Needs Tigey at School</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927164500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Let&#039;s Find Out - Explosions</title>
+</programme>
+<programme start="20260927164500 +0000" stop="20260927165500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Builder Brothers Dream Factory - Bigfoot</title>
+</programme>
+<programme start="20260927165500 +0000" stop="20260927170500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Builder Brothers Dream Factory - Great Adventure Rally</title>
+</programme>
+<programme start="20260927170500 +0000" stop="20260927171500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Kiva Can Do - Oh My Stars</title>
+</programme>
+<programme start="20260927171500 +0000" stop="20260927172500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Peek Zoo - Happy Hippo</title>
+</programme>
+<programme start="20260927172500 +0000" stop="20260927174000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Tír na nÓg - Episode 6</title>
+</programme>
+<programme start="20260927174000 +0000" stop="20260927174500 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Happy the Hoglet - Happy Water Works</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927180000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>BeddyByes - Squish Up</title>
+</programme>
+<programme start="20260926203000 +0000" stop="20260927003000 +0000" channel="TRTE.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927050000 +0000" channel="TRTE.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927063000 +0000" channel="TRTE.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927113000 +0000" stop="20260927140000 +0000" channel="TRTE.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143500 +0000" channel="TRTE.virginmediatv">
+    <title>Solar System - Volcano Worlds</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927154000 +0000" channel="TRTE.virginmediatv">
+    <title>Mammals - The New Wild</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927163000 +0000" channel="TRTE.virginmediatv">
+    <title>Portillo&#039;s Andalucia - Malaga and Ronda</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927203000 +0000" channel="TRTE.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20260926184500 +0000" stop="20260927024500 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Cúla 4 ar ais 6 am</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927050000 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Cúla 4 ar ais 6 am</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927050200 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Cúla 4</title>
+</programme>
+<programme start="20260927050200 +0000" stop="20260927051300 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Saol Faoi Shráid - The Land of Youth</title>
+</programme>
+<programme start="20260927051300 +0000" stop="20260927052000 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Garáiste Gecko - Motorcycle Madness; Sly and The Mole; Kat&#039;s Rocket Sky Chase</title>
+</programme>
+<programme start="20260927052000 +0000" stop="20260927054500 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Lyla in the Loop - Soccer Practice Practice; Sibling Swap</title>
+</programme>
+<programme start="20260927054500 +0000" stop="20260927060700 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Gailearaí Scú Scú - Episode 16</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927121100 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Nate Is Late - The Cuddly Toy</title>
+</programme>
+<programme start="20260927121100 +0000" stop="20260927122300 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Nate Is Late - The Superhero</title>
+</programme>
+<programme start="20260927122300 +0000" stop="20260927123400 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Nate Is Late - The Alien</title>
+</programme>
+<programme start="20260927123400 +0000" stop="20260927124500 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Nate Is Late - The Robot</title>
+</programme>
+<programme start="20260927124500 +0000" stop="20260927130000 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Nate Is Late - The Pocket Watch</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927132300 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Gearóid na Gaisce - Head Case; Start Your Gadgets</title>
+</programme>
+<programme start="20260927132300 +0000" stop="20260927134500 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Cloch, Páipéar, Siosúr - The Arctic; Prank War</title>
+</programme>
+<programme start="20260927134500 +0000" stop="20260927140800 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Cloch, Páipéar, Siosúr - Key Limes; Six Pieces of Turkey</title>
+</programme>
+<programme start="20260927140800 +0000" stop="20260927141400 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Go Tóin Poill - The Horror Game</title>
+</programme>
+<programme start="20260927141400 +0000" stop="20260927142600 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Animal Fanpedia - Under The Sea</title>
+</programme>
+<programme start="20260927142600 +0000" stop="20260927143700 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Dónall Dána - Horrid Henry and the Boodle Poodle</title>
+</programme>
+<programme start="20260927143700 +0000" stop="20260927144800 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Dónall Dána - Horrid Henry and the New Best Friend</title>
+</programme>
+<programme start="20260927144800 +0000" stop="20260927145900 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Dónall Dána - Horrid Henry, Horrid Boy?</title>
+</programme>
+<programme start="20260927145900 +0000" stop="20260927151000 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Dónall Dána - Horrid Henry So Not a Girl!</title>
+</programme>
+<programme start="20260927151000 +0000" stop="20260927152400 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Dónall Dána - Horrid Henry, Here to Entertain You</title>
+</programme>
+<programme start="20260927152400 +0000" stop="20260927153000 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Haigh Tusa! Céard Faoi.. - Hey You! What If... You threw a ball around the world?</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927155300 +0000" channel="Cula4_HD.virginmediatv">
     <title>Miraculous: Tales of Ladybug and Cat Noir - Antibug</title>
 </programme>
-<programme start="20260926155200 +0000" stop="20260926161500 +0000" channel="Cula4_HD.virginmediatv">
+<programme start="20260927155300 +0000" stop="20260927161500 +0000" channel="Cula4_HD.virginmediatv">
     <title>Miraculous: Tales of Ladybug and Cat Noir - Volpina</title>
 </programme>
-<programme start="20260926161500 +0000" stop="20260926163800 +0000" channel="Cula4_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Kreepaway Kamp Part 2</title>
+<programme start="20260927161500 +0000" stop="20260927162900 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Mo Shaol Do Shaol ISL - Eileanór &amp; Musab</title>
 </programme>
-<programme start="20260926163800 +0000" stop="20260926170000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Snow Yellow</title>
+<programme start="20260927162900 +0000" stop="20260927164500 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Mo Shaol Do Shaol ISL - Episode 3</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926171200 +0000" channel="Cula4_HD.virginmediatv">
+<programme start="20260927164500 +0000" stop="20260927171000 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Mo Pheata - Episode 7</title>
+</programme>
+<programme start="20260927171000 +0000" stop="20260927172200 +0000" channel="Cula4_HD.virginmediatv">
+    <title>SpongeBob SquarePants - Sandy&#039;s Nutty Nieces</title>
+</programme>
+<programme start="20260927172200 +0000" stop="20260927173400 +0000" channel="Cula4_HD.virginmediatv">
+    <title>SpongeBob SquarePants - Insecurity Guards</title>
+</programme>
+<programme start="20260927173400 +0000" stop="20260927174200 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Pat An Madra - Favourite Toy</title>
+</programme>
+<programme start="20260927174200 +0000" stop="20260927175400 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Breadwinners - Bye Bye Booty</title>
+</programme>
+<programme start="20260927175400 +0000" stop="20260927182100 +0000" channel="Cula4_HD.virginmediatv">
+    <title>Club Airéine - Handball</title>
+</programme>
+<programme start="20260926235000 +0000" stop="20260927010000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mush-Mush and the Mushables - Morel in the Dark; The Adventurers; Getting Truffy With It; Good Vibrations; Puff&#039;s Perfect Picnic; Run, Mushpie, Run</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927021000 +0000" channel="Boomerang.virginmediatv">
+    <title>Grizzy and the Lemmings - Make Peace Not War; Disguised Reality; Folds and Folds Again; Cartoon Bear; XXL Bear; Never Judge a Bear by Its Cover; Bear Glasses; Bear Under Close </title>
+</programme>
+<programme start="20260927021000 +0000" stop="20260927031000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mush-Mush and the Mushables - A Frog Of A Problem; Fool The Forest; Mushroomates; Race The Beast; Surprise, It&#039;s Spring</title>
+</programme>
+<programme start="20260927031000 +0000" stop="20260927040000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mush-Mush and the Mushables - Race The Beast; Surprise, It&#039;s Spring; The Missing Mushlet; The Hero Trap</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Boomerang.virginmediatv">
+    <title>Moley - Double Oh Moley; Mona&#039;s Monstrous Makeover; Gardener and Mole; Moley&#039;s Wild Ride; MoleTowns a Stage</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mr Bean: The Animated Series - Coffee Bean; The Big Freeze</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Boomerang.virginmediatv">
+    <title>Dino Ranch: Island Explorers - Treasure Trouble; Clara and the Baby Croc</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mr Bean: The Animated Series - Holiday Teddy; Halloween; Green Bean; Flat Pack</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Boomerang.virginmediatv">
+    <title>Dino Ranch: Island Explorers - Min the Expert; Enter Thunderfin</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Boomerang.virginmediatv">
+    <title>Grizzy and the Lemmings - Pet Sheep; Sheep Joust; Foodie Phantoms</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mr Bean: The Animated Series - Bean&#039;s Blooms; Bean The Pet Groomer; Autograph Hunter; Arcade Trouble</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Boomerang.virginmediatv">
+    <title>Baby Lemmings - Marble Squabble; Foolhardy Plushie; Sneaky Harvest</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Boomerang.virginmediatv">
+    <title>Dino Ranch: Island Explorers - The Dino Boss; Jon and the Giant Croc</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mr Bean: The Animated Series - Remote Control Chaos; Scrapper&#039;s Feeding Time</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mr Bean: The Animated Series - The Robot; Where Did You Get That Cat?</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Boomerang.virginmediatv">
+    <title>Dino Ranch: Island Explorers - Compy Chaos; Clara and the Baby Croc</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Boomerang.virginmediatv">
+    <title>Mr Bean: The Animated Series - Double Date Disaster; Alarm Bean</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927002500 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>Henry Danger - Text, Lies &amp; Video</title>
+</programme>
+<programme start="20260927002500 +0000" stop="20260927005000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>Henry Danger - Opposite Universe</title>
+</programme>
+<programme start="20260927005000 +0000" stop="20260927011500 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Thundermans - The Thunder Games - Part 1</title>
+</programme>
+<programme start="20260927011500 +0000" stop="20260927014000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Thundermans - The Thunder Games - Part 2</title>
+</programme>
+<programme start="20260927014000 +0000" stop="20260927020500 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>iCarly - iBalls</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927023000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Marsupilamis - Golfalami / Mar-Sleepwalker</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Marsupilamis - Shell-shock; The Amazing Coat Man</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927031000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Smurfs - Leaf&#039;s Under the Weather</title>
+</programme>
+<programme start="20260927031000 +0000" stop="20260927033000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Smurfs - Disco Smurf / Dwayne&#039;s New Toy</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927034000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Smurfs - House Call</title>
+</programme>
+<programme start="20260927034000 +0000" stop="20260927040000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Smurfs - Gargamel&#039;s Doggy; Drummer Girl</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Nickelodeon_HD.virginmediatv">
     <title>SpongeBob SquarePants - The Dirty Bubble Bass; Sheldon SquarePants</title>
 </programme>
-<programme start="20260926171200 +0000" stop="20260926172400 +0000" channel="Cula4_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Sheldon SquarePants</title>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>SpongeBob SquarePants - Sammy Suckerfish; Big League Bob</title>
 </programme>
-<programme start="20260926172400 +0000" stop="20260926173600 +0000" channel="Cula4_HD.virginmediatv">
-    <title>SpongeBob SquarePants - The Krusty Bucket</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>Rock Paper Scissors - Resolutions; Paper&#039;s Book Club</title>
 </programme>
-<programme start="20260926173600 +0000" stop="20260926175300 +0000" channel="Cula4_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Squid&#039;s on a Bus</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>Rock Paper Scissors - The Family Business; Glitter Bomb</title>
 </programme>
-<programme start="20260926175300 +0000" stop="20260926180500 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Camp Lakebottom - Nanny Num Nums</title>
-</programme>
-<programme start="20260925235000 +0000" stop="20260926010000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mush-Mush and the Mushables - Compost to Go; Dare for more; A day with Starmush; The Mysterious Seepod; The Disappearing Mushler; Bouncing Back</title>
-</programme>
-<programme start="20260926010000 +0000" stop="20260926021000 +0000" channel="Boomerang.virginmediatv">
-    <title>Grizzy and the Lemmings - Wild Zapping; Warning: Unlimited Lemmings; Bouncing Bear; Masked Racoon; Spinning Lemmings; Game Madness; Household Avatar; Beastly Genie</title>
-</programme>
-<programme start="20260926021000 +0000" stop="20260926031000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mush-Mush and the Mushables - Stuck In The Mud; Get The Egg Home; Fly, Chase, Fly; Oh My Compost; Snails Forever</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926040000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mush-Mush and the Mushables - Snails Forever; A Frog Of A Problem; Fool The Forest; Mushroomates</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Boomerang.virginmediatv">
-    <title>Moley - A Book By Its Cover Part 2; Rally Ho; Paper Molche; Mole in One; Little Lizzie</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mr Bean: The Animated Series - Running on Empty; Bean Bug</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Boomerang.virginmediatv">
-    <title>Dino Ranch: Island Explorers - Clover and the Copycat; A Sticky Situation</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mr Bean: The Animated Series - In The Garden; Ice Cream; Hotel Bean; Home Movie</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Boomerang.virginmediatv">
-    <title>Dino Ranch: Island Explorers - The Dino Boss; Min and the Sleepy Dino</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Boomerang.virginmediatv">
-    <title>Grizzy and the Lemmings - Jelly World; A Bear In The Sheepfold; Musical Discord</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mr Bean: The Animated Series - Alarm Bean; A Day In Bed; Winning Ticket; Wicket&#039;s Driving Lesson</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Boomerang.virginmediatv">
-    <title>Baby Lemmings - Blooming Lullaby; Buzzy Swarm; Landscape layout</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Boomerang.virginmediatv">
-    <title>Dino Ranch: Island Explorers - Min the Expert; Turtle Trouble</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mr Bean: The Animated Series - Bean&#039;s Bath Bother; Hiding At Home</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mr Bean: The Animated Series - Cash Machine; Cat Chaos</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Boomerang.virginmediatv">
-    <title>Dino Ranch: Island Explorers - Miguel&#039;s Very Bad No Good Day; Turtle Trouble</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Boomerang.virginmediatv">
-    <title>Mr Bean: The Animated Series - Bean Hatches A Plan; Karting Bean</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926002500 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Henry Danger - Indestructible Henry, Part 1</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926005000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Henry Danger - Indestructible Henry, Part 2</title>
-</programme>
-<programme start="20260926005000 +0000" stop="20260926011500 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Thundermans - May Z-Force Be With You</title>
-</programme>
-<programme start="20260926011500 +0000" stop="20260926014000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Thundermans - Orange Is the New Max</title>
-</programme>
-<programme start="20260926014000 +0000" stop="20260926020500 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>iCarly - iStill Psycho - Part1</title>
-</programme>
-<programme start="20260926020500 +0000" stop="20260926023000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>iCarly - iStill Psycho - Part 2</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Marsupilamis - Camping Chaos; A Hairy Situation</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926031000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Smurfs - Wanna Bet?</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926033000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Smurfs - Fire Brigade on Foot; The Prettiest Pebble in the World</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926034000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Smurfs - Gargamel, Queen of the Prom</title>
-</programme>
-<programme start="20260926034000 +0000" stop="20260926040000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Smurfs - Smurfalicious Catfood; Waffle Thief</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Beneath the Bun: Krabby Patty Secrets Special</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Cave Dwelling Sponge; The Clam Whisperer</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Rock Paper Scissors - Paper&#039;s Secret Weapon; The Sled Hill</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Rock Paper Scissors - Scissors&#039; Catapult; Pencil and Potato</title>
-</programme>
-<programme start="20260926103000 +0000" stop="20260926123000 +0000" channel="Nickelodeon_HD.virginmediatv">
+<programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="Nickelodeon_HD.virginmediatv">
     <title>The Loud House Movie</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Wylde Pak - The Meatball of Canyon Valley; Sticky Fingers</title>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Boss Baby: Back in Business - Who&#039;s a Good Baby?</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Wylde Pak - Where There&#039;s a Will, There&#039;s a Way; Lost in the Sauce</title>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Thundermans: Undercover - A Midsummer Night&#039;s Scheme</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Boss Baby: Back in Business - Mega Fat</title>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Thundermans: Undercover - Cruel Summer</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Boss Baby: Back in Business - Halloween</title>
+<programme start="20260927153000 +0000" stop="20260927171500 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>The Loud House Movie</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Thundermans: Undercover - I Know What You Did This Summer</title>
+<programme start="20260927171500 +0000" stop="20260927173000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>SpongeBob SquarePants - Breakin&#039;</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Thundermans: Undercover - The Summer I Turned Giddy</title>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Nickelodeon_HD.virginmediatv">
+    <title>SpongeBob SquarePants - Say &#039;Awww!&#039;; Patrick the Mailman</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Rock Paper Scissors - Paper Attends an Elite Institution/The New Landlord</title>
+<programme start="20260926235000 +0000" stop="20260927001500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Alvinnn!!! and the Chipmunks - Lights Camera Uh-Oh; Wax Dave</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Sonic Prime - Barking Up the Wrong Tree</title>
+<programme start="20260927001500 +0000" stop="20260927004000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Alvinnn!!! and the Chipmunks - Alvin Management; Time Capsule</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>Sonic Prime - Situation: Grim</title>
+<programme start="20260927004000 +0000" stop="20260927010500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Alvinnn!!! and the Chipmunks - The Fugitives; Sherlock Chipmunk</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>SpongeBob SquarePants - SpongeBob in RandomLand; SpongeBob&#039;s Bad Habit</title>
+<programme start="20260927010500 +0000" stop="20260927012000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Naughty Nautical Neighbors</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>SpongeBob SquarePants - Food PBBFT! Truck; Upturn Girls</title>
+<programme start="20260927012000 +0000" stop="20260927014500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Missing Identity; Plankton&#039;s Army</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926002500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Alvinnn!!! and the Chipmunks - Simon The Superb/The Sub</title>
+<programme start="20260927014500 +0000" stop="20260927021500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - The Sponge Who Could Fly (aka The Lost Episode)</title>
 </programme>
-<programme start="20260926002500 +0000" stop="20260926004500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Alvinnn!!! and the Chipmunks - Tour Bus; Game Show</title>
+<programme start="20260927021500 +0000" stop="20260927023500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - To Love a Patty; Breath of a Fresh Squidward</title>
 </programme>
-<programme start="20260926004500 +0000" stop="20260926010500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Alvinnn!!! and the Chipmunks - Curiosity Killed The Alvin; House Pest</title>
+<programme start="20260927023500 +0000" stop="20260927030000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Pets or Pests; Komputer Overload</title>
 </programme>
-<programme start="20260926010500 +0000" stop="20260926011500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Jellyfish Jam</title>
+<programme start="20260927030000 +0000" stop="20260927032500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - The Abrasive Side; Earworm</title>
 </programme>
-<programme start="20260926011500 +0000" stop="20260926013500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Spongebob B.C.</title>
+<programme start="20260927032500 +0000" stop="20260927035000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - Baby Steps; Brawl in the Family</title>
 </programme>
-<programme start="20260926013500 +0000" stop="20260926015500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Krabby Land; The Camping Episode</title>
+<programme start="20260927035000 +0000" stop="20260927041000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - The Mad Scientist; Missed Connection</title>
 </programme>
-<programme start="20260926015500 +0000" stop="20260926021500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Roller Cowards; Bucket Sweet Bucket</title>
+<programme start="20260927041000 +0000" stop="20260927043500 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - Kings of the Con</title>
 </programme>
-<programme start="20260926021500 +0000" stop="20260926023500 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Shuffleboarding: Professor Squidward</title>
+<programme start="20260927043500 +0000" stop="20260927050000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - Dad Reputation; Dream a Lily Dream</title>
 </programme>
-<programme start="20260926023500 +0000" stop="20260926030000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Buried in Time; Enchanted Tiki Dreams</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Gramma&#039;s Secret Recipe; The Cent of Money</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Intern for the Worse; The Old and the Restless</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Patrick! the Game; The Sewers of Bikini Bottom</title>
 </programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Teacher&#039;s Union; Head Poet&#039;s Anxiety</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - The Loudest Mission: Relative Chaos</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Stall Monitor; A Pimple Plan</title>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - The Main Drain; Sponge-Cano</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Camped!</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Karen 2.0; InSPONGEiac</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Lost in Bikini Bottom; Tutor Sauce</title>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - Gown and Out; Breaking Dad</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Restraining SpongeBob; Fiasco!</title>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>The Loud House - Ruthless People; What Wood Lincoln Do?</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Pulp Friction; Pets Peeved</title>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Kamp Koral: SpongeBob&#039;s Under Years - The Switch Glitch; Prickly Pests</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - The Monster Who Came to Bikini Bottom; Welcome to the Bikini Bottom Triangle</title>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Kamp Koral: SpongeBob&#039;s Under Years - Are You Smarter Than a Smart Cabin?; Deep Sea Despot</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Free Samples; Home Sweet Rubble</title>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Alvinnn!!! and the Chipmunks - Missing Miss Smith; Monster Madness</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Deal Me Out; Friendzy</title>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Alvinnn!!! and the Chipmunks - Super Girls; Held Back</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>The Loud House - Pasture Bedtime; Shop Girl</title>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>SpongeBob SquarePants - Pineapple Invasion; Salsa Imbecilicus</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Nick_Toons.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Nick_Toons.virginmediatv">
     <title>Kamp Koral: SpongeBob&#039;s Under Years - Painting With Squidward; Kamp Kow</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Kamp Koral: SpongeBob&#039;s Under Years - Helter Shelter; Reveille Revolution</title>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Nick_Toons.virginmediatv">
+    <title>Kamp Koral: SpongeBob&#039;s Under Years - High and Dry/ The Beardsman</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Alvinnn!!! and the Chipmunks - Un-send!; The Orb</title>
+<programme start="20260927000000 +0000" stop="20260927000500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Calling Kylie</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Alvinnn!!! and the Chipmunks - The Music Box; Special Delivery</title>
+<programme start="20260927000500 +0000" stop="20260927001500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - House Rules</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>SpongeBob SquarePants - Food Con Castaways; Snail Mail</title>
+<programme start="20260927001500 +0000" stop="20260927003000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Thomas &amp; Friends: All Engines Go - What&#039;s the Buzz?</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Kamp Koral: SpongeBob&#039;s Under Years - Camp Crossbones; A Jelly Life</title>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington vs. the Seagulls; Paddington and the Light House</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Nick_Toons.virginmediatv">
-    <title>Kamp Koral: SpongeBob&#039;s Under Years - Hats off to Space; In a Nut&#039;s Shell</title>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Pirate Treasure Hunt; Paddington&#039;s Sandcastle Showstopper</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926000500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Being Babies</title>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Puffling Rescue; Paddington Goes Under the Sea</title>
 </programme>
-<programme start="20260926000500 +0000" stop="20260926001500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Mr Cat&#039;s Cafe</title>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Beach Clean Up; Paddington&#039;s Holiday Farewell</title>
 </programme>
-<programme start="20260926001500 +0000" stop="20260926003000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Thomas &amp; Friends: All Engines Go - The Smells of Sodor</title>
+<programme start="20260927023000 +0000" stop="20260927023500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Magic Trick</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington Meets Paddingtron; Paddington&#039;s First Diwali</title>
+<programme start="20260927023500 +0000" stop="20260927024500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Jumping Stick</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington and the Solar Eclipse; Paddington and the Mysterious Inventor</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Summer Holiday Begins; Paddington&#039;s Life Guard Training</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Mysterious Cave Discovery; Paddington and the Fossil Hunt</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926023500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - What Babies Do</title>
-</programme>
-<programme start="20260926023500 +0000" stop="20260926024500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Lenses</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926025000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Igloo</title>
-</programme>
-<programme start="20260926025000 +0000" stop="20260926030000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Party Bus</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926030500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Movie Night</title>
-</programme>
-<programme start="20260926030500 +0000" stop="20260926031500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Art House Day</title>
-</programme>
-<programme start="20260926031500 +0000" stop="20260926032000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Wildflower Wood</title>
-</programme>
-<programme start="20260926032000 +0000" stop="20260926033000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Sunny Day Games</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926034500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - Pups Save a Frozen Camp-Out</title>
-</programme>
-<programme start="20260926034500 +0000" stop="20260926040000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - Pups Save the Fizzy Pickles</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington and the Three Musketeers; Paddington and the Dinosaur Hunt</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Journey Into a Black Hole; Paddington&#039;s Rainbow Race!</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Adventures of Paddington - Paddington Becomes a Talent Show Judge; Paddington Keeps Up With the Kamalis</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Tiny Chef - Chili &amp; Cornbread; Layer Cake</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>The Smurfs - Chef Soup; Adventures in Smurfsitting</title>
-</programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Rubble &amp; Crew - The Crew Builds a Stadium Dome; The Crew Builds a Baggage Claim</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - Mighty Pups, Charged Up: Mighty Pups Versus the Copycat</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - Big Truck Pups Stop a Flood</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - All Paws on Deck</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926143500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Singing Competition</title>
-</programme>
-<programme start="20260926143500 +0000" stop="20260926144500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Holding the Baby</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926145000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Bug Hotel</title>
-</programme>
-<programme start="20260926145000 +0000" stop="20260926150000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Desert Island</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926150500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Captain Daddy Pig</title>
-</programme>
-<programme start="20260926150500 +0000" stop="20260926151500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Foggy Day</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926152000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - The Blackberry Bush</title>
-</programme>
-<programme start="20260926152000 +0000" stop="20260926153000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Folk Music Band</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926154500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Spies</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926160000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Toy Robot</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926161500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Hard Times</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926163000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Betty Caterpillar</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - Pups and Katie Stop the Barking Kitty Crew; Pups Save the Glasses</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Bedtime Stories With Ryan - Goodnight &amp; Hello, Sharing</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926173500 +0000" channel="Nick_Junior.virginmediatv">
+<programme start="20260927024500 +0000" stop="20260927025000 +0000" channel="Nick_Junior.virginmediatv">
     <title>Peppa Pig - Racquet Games</title>
 </programme>
-<programme start="20260926173500 +0000" stop="20260926174500 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - Paper Games</title>
+<programme start="20260927025000 +0000" stop="20260927030000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Adventure Caravan</title>
 </programme>
-<programme start="20260926174500 +0000" stop="20260926175000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - The Olden Days</title>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Caravan Friends</title>
 </programme>
-<programme start="20260926175000 +0000" stop="20260926180000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>Peppa Pig - The Noisy Night</title>
+<programme start="20260927030500 +0000" stop="20260927031500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Chloe&#039;s Birthday Party</title>
 </programme>
-<programme start="20260925175800 +0000" stop="20260926015800 +0000" channel="CBBC.virginmediatv">
-    <title>This is CBBC!</title>
+<programme start="20260927031500 +0000" stop="20260927032000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Broken Party Bus</title>
 </programme>
-<programme start="20260926015800 +0000" stop="20260926060000 +0000" channel="CBBC.virginmediatv">
-    <title>This is CBBC!</title>
+<programme start="20260927032000 +0000" stop="20260927033000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Living Above the Shops</title>
 </programme>
-<programme start="20260926115000 +0000" stop="20260926122000 +0000" channel="CBBC.virginmediatv">
-    <title>Deadly 60 - Meerkat Madness</title>
+<programme start="20260927033000 +0000" stop="20260927034500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>PAW Patrol - Pups Save the Butterflies</title>
 </programme>
-<programme start="20260926122000 +0000" stop="20260926123500 +0000" channel="CBBC.virginmediatv">
-    <title>Bro&#039;s in Control - Fairground Distraction</title>
+<programme start="20260927034500 +0000" stop="20260927040000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>PAW Patrol - Pups Save an Underground Chicken</title>
 </programme>
-<programme start="20260926123500 +0000" stop="20260926124500 +0000" channel="CBBC.virginmediatv">
-    <title>Odd Squad - A Dish Served Odd</title>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington Meets Paddingtron; Paddington&#039;s First Diwali</title>
 </programme>
-<programme start="20260926124500 +0000" stop="20260926130000 +0000" channel="CBBC.virginmediatv">
-    <title>Odd Squad - Odd Jubilee</title>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington and the Solar Eclipse; Paddington and the Mysterious Inventor</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926132500 +0000" channel="CBBC.virginmediatv">
-    <title>Malory Towers - The Scoop</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Pet Hotel; Paddington Plays Golf</title>
 </programme>
-<programme start="20260926132500 +0000" stop="20260926134000 +0000" channel="CBBC.virginmediatv">
-    <title>Danger Mouse - There&#039;s No Place Like Greenback</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Tiny Chef Show - Bean Cake?; Elote</title>
 </programme>
-<programme start="20260926134000 +0000" stop="20260926135000 +0000" channel="CBBC.virginmediatv">
-    <title>Danger Mouse - From Duck to Dawn</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>The Smurfs - Funny Mommy; Smurfy Day Care</title>
 </programme>
-<programme start="20260926135000 +0000" stop="20260926140500 +0000" channel="CBBC.virginmediatv">
-    <title>Danger Mouse - Happy Boom Day!</title>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Rubble &amp; Crew - The Crew Builds Sierra Sparkle&#039;s Bedroom; The Crew Builds A Water Ski Jump</title>
 </programme>
-<programme start="20260926140500 +0000" stop="20260926141500 +0000" channel="CBBC.virginmediatv">
-    <title>Boy Girl Dog Cat Mouse Cheese - Boy Quits Bobbleheads</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>PAW Patrol - Mighty Pups Charged Up: Pups vs. Three Super Baddies</title>
 </programme>
-<programme start="20260926141500 +0000" stop="20260926142500 +0000" channel="CBBC.virginmediatv">
-    <title>Boy Girl Dog Cat Mouse Cheese - Perfectly Dysfunctional</title>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>PAW Patrol - Pups Stop the Cheetah</title>
 </programme>
-<programme start="20260926142500 +0000" stop="20260926143500 +0000" channel="CBBC.virginmediatv">
-    <title>Duck and Frog - Babysitter</title>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>PAW Patrol - Rescue Knights: Pups Save a Dozing Dragon</title>
 </programme>
-<programme start="20260926143500 +0000" stop="20260926144500 +0000" channel="CBBC.virginmediatv">
-    <title>Super Happy Magic Forest - Herbert&#039;s New Hat</title>
+<programme start="20260927143000 +0000" stop="20260927143500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - My Cousin Chloe</title>
 </programme>
-<programme start="20260926144500 +0000" stop="20260926150000 +0000" channel="CBBC.virginmediatv">
-    <title>Super Happy Magic Forest - The Over-Eager Eagle</title>
+<programme start="20260927143500 +0000" stop="20260927144500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Grandpa Pig&#039;s Pond</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926151000 +0000" channel="CBBC.virginmediatv">
-    <title>Super Happy Magic Forest - Super Happy Bake-Off</title>
+<programme start="20260927144500 +0000" stop="20260927145000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Delphine Donkey</title>
 </programme>
-<programme start="20260926151000 +0000" stop="20260926152500 +0000" channel="CBBC.virginmediatv">
-    <title>Dennis &amp; Gnasher Unleashed! - Do Good Dennis</title>
+<programme start="20260927145000 +0000" stop="20260927150000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Bird Spotting</title>
 </programme>
-<programme start="20260926152500 +0000" stop="20260926155500 +0000" channel="CBBC.virginmediatv">
-    <title>Horrible Histories - Top Ten Naughtiest People</title>
+<programme start="20260927150000 +0000" stop="20260927150500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Kiddie Workout</title>
 </programme>
-<programme start="20260926155500 +0000" stop="20260926162000 +0000" channel="CBBC.virginmediatv">
-    <title>Horrible Science - Nasty Nature Special</title>
+<programme start="20260927150500 +0000" stop="20260927151500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Grown-Up Playground</title>
 </programme>
-<programme start="20260926162000 +0000" stop="20260926164500 +0000" channel="CBBC.virginmediatv">
-    <title>Girl Troop vs Aliens - The Full Scale Invasion Badge</title>
+<programme start="20260927151500 +0000" stop="20260927152000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Bigger House</title>
 </programme>
-<programme start="20260926164500 +0000" stop="20260926171000 +0000" channel="CBBC.virginmediatv">
-    <title>A Kind of Spark - Choices</title>
+<programme start="20260927152000 +0000" stop="20260927153000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Cuckoo Clock</title>
 </programme>
-<programme start="20260926171000 +0000" stop="20260926175800 +0000" channel="CBBC.virginmediatv">
-    <title>Crookhaven - The Shilling Test</title>
+<programme start="20260927153000 +0000" stop="20260927154500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Gaston to the Rescue</title>
+</programme>
+<programme start="20260927154500 +0000" stop="20260927160000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Acorn Day</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927161500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Chickens Ride West</title>
+</programme>
+<programme start="20260927161500 +0000" stop="20260927163000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - No Magic Day</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>PAW Patrol - Pups Save a Chicken Tulip; Pups Stop an Xtreme Shark</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Bedtime Stories With Ryan - Goodnight &amp; Hello, Water</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927173500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Simple Science</title>
+</programme>
+<programme start="20260927173500 +0000" stop="20260927174500 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Muddy Puddles</title>
+</programme>
+<programme start="20260927174500 +0000" stop="20260927175000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Polly Parrot</title>
+</programme>
+<programme start="20260927175000 +0000" stop="20260927180000 +0000" channel="Nick_Junior.virginmediatv">
+    <title>Peppa Pig - Mandy Mouse</title>
 </programme>
 <programme start="20260926175800 +0000" stop="20260927015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260925175800 +0000" stop="20260926015800 +0000" channel="Cbeebies.virginmediatv">
-    <title>This Is CBeebies</title>
+<programme start="20260927015800 +0000" stop="20260927060000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
 </programme>
-<programme start="20260926015800 +0000" stop="20260926050000 +0000" channel="Cbeebies.virginmediatv">
-    <title>This Is CBeebies</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="CBBC.virginmediatv">
+    <title>Horrible Science - Manky Materials and Shifty States Special</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926050500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Small Potatoes - Yes Sir</title>
+<programme start="20260927123000 +0000" stop="20260927124500 +0000" channel="CBBC.virginmediatv">
+    <title>Bro&#039;s in Control - Upside Down Challenge</title>
 </programme>
-<programme start="20260926050500 +0000" stop="20260926051000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Puffin Rock - Who&#039;s Been Sleeping in My Den</title>
+<programme start="20260927124500 +0000" stop="20260927130000 +0000" channel="CBBC.virginmediatv">
+    <title>Gladiators: Epic Pranks - Comet in Space!</title>
 </programme>
-<programme start="20260926051000 +0000" stop="20260926052000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Bing - Car Park</title>
+<programme start="20260927130000 +0000" stop="20260927131500 +0000" channel="CBBC.virginmediatv">
+    <title>Football Fantastics - The Zen Den</title>
 </programme>
-<programme start="20260926052000 +0000" stop="20260926052500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Love Monster - Spectacular Sparkly Night</title>
+<programme start="20260927131500 +0000" stop="20260927132500 +0000" channel="CBBC.virginmediatv">
+    <title>SpongeBob SquarePants - ScavengerPants</title>
 </programme>
-<programme start="20260926052500 +0000" stop="20260926053000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Froglets - Skiing</title>
+<programme start="20260927132500 +0000" stop="20260927134000 +0000" channel="CBBC.virginmediatv">
+    <title>SpongeBob SquarePants - Cuddle E. Hugs</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926054500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Piggy Builders - Cherry&#039;s News</title>
+<programme start="20260927134000 +0000" stop="20260927135000 +0000" channel="CBBC.virginmediatv">
+    <title>Submarine Jim - Movie Night</title>
 </programme>
-<programme start="20260926054500 +0000" stop="20260926055000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Roots and Fruits - Corn</title>
+<programme start="20260927135000 +0000" stop="20260927140000 +0000" channel="CBBC.virginmediatv">
+    <title>Submarine Jim - Captain Nice</title>
 </programme>
-<programme start="20260926055000 +0000" stop="20260926060000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Mojo Swoptops - Ice Cream Float</title>
+<programme start="20260927140000 +0000" stop="20260927141500 +0000" channel="CBBC.virginmediatv">
+    <title>Submarine Jim - Pit Stop</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926121500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Octonauts - Blue Fin Tuna</title>
+<programme start="20260927141500 +0000" stop="20260927142000 +0000" channel="CBBC.virginmediatv">
+    <title>Duck and Frog - Campsite</title>
 </programme>
-<programme start="20260926121500 +0000" stop="20260926122500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Vida the Vet - Pippen&#039;s Vanishing Voice</title>
+<programme start="20260927142000 +0000" stop="20260927143000 +0000" channel="CBBC.virginmediatv">
+    <title>Duck and Frog - Musician</title>
 </programme>
-<programme start="20260926122500 +0000" stop="20260926123500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Go Jetters - The Continent of Africa</title>
+<programme start="20260927143000 +0000" stop="20260927144000 +0000" channel="CBBC.virginmediatv">
+    <title>Strictly Pro Dance Off - Episode 2</title>
 </programme>
-<programme start="20260926123500 +0000" stop="20260926124500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Big Lizard - Cosima in Charge</title>
+<programme start="20260927144000 +0000" stop="20260927150500 +0000" channel="CBBC.virginmediatv">
+    <title>Malory Towers - The Birthday</title>
 </programme>
-<programme start="20260926124500 +0000" stop="20260926125000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Yukee - Radio Stripes</title>
+<programme start="20260927150500 +0000" stop="20260927153000 +0000" channel="CBBC.virginmediatv">
+    <title>Pickle Storm - Swaperooni</title>
 </programme>
-<programme start="20260926125000 +0000" stop="20260926130000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Froglets - Pyramid</title>
+<programme start="20260927153000 +0000" stop="20260927155500 +0000" channel="CBBC.virginmediatv">
+    <title>The Next Step: Cheer - Sleepover in the Gym</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926132000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Something Special - We&#039;re All Friends: Bedtime</title>
+<programme start="20260927155500 +0000" stop="20260927161500 +0000" channel="CBBC.virginmediatv">
+    <title>Andy and the Band - Rock Star School: Alien Invasion</title>
 </programme>
-<programme start="20260926132000 +0000" stop="20260926133000 +0000" channel="Cbeebies.virginmediatv">
-    <title>I Can Grow It - Spring:Shady Plants</title>
+<programme start="20260927161500 +0000" stop="20260927163500 +0000" channel="CBBC.virginmediatv">
+    <title>The Football Academy - Kick off</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926134000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Dodge&#039;s Pup School - Treasure Map</title>
+<programme start="20260927163500 +0000" stop="20260927165000 +0000" channel="CBBC.virginmediatv">
+    <title>Bro&#039;s in Control - Face Your Fears</title>
 </programme>
-<programme start="20260926134000 +0000" stop="20260926135000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Waffle the Wonder Dog - Waffle&#039;s Bouncy Castle</title>
+<programme start="20260927165000 +0000" stop="20260927170500 +0000" channel="CBBC.virginmediatv">
+    <title>Total Dramarama - Broken Back Kotter</title>
 </programme>
-<programme start="20260926135000 +0000" stop="20260926140000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Bluey - Double Babysitter</title>
+<programme start="20260927170500 +0000" stop="20260927171500 +0000" channel="CBBC.virginmediatv">
+    <title>Total Dramarama - Weekend at Buddy&#039;s</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926141000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Nikhil and Jay - Nikhil and Jay and the Butterflies</title>
+<programme start="20260927171500 +0000" stop="20260927173500 +0000" channel="CBBC.virginmediatv">
+    <title>Pokémon Horizons: The Series - For Sure! &#039;Cause Sprigatito&#039;s With Me!</title>
 </programme>
-<programme start="20260926141000 +0000" stop="20260926141500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Tish Tash - Jail Break</title>
+<programme start="20260927173500 +0000" stop="20260927175800 +0000" channel="CBBC.virginmediatv">
+    <title>What&#039;s New Scooby-Doo? - Space Ape at the Cape</title>
 </programme>
-<programme start="20260926141500 +0000" stop="20260926143000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Piggy Builders - Egg Race</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926143500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Love Monster - Choose One Thing Day</title>
-</programme>
-<programme start="20260926143500 +0000" stop="20260926144500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Knee High Spies - Mission Dino in Danger</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926150000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Dylan&#039;s Playtime Adventures - Dylan the Airplane Pilot</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926151000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Vida the Vet - Pippen&#039;s Tissue Issue</title>
-</programme>
-<programme start="20260926151000 +0000" stop="20260926151500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Wonderblocks - Mooving Up</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926152500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Yukee - Daffodil Day</title>
-</programme>
-<programme start="20260926152500 +0000" stop="20260926153000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Tiny Tunes - This Old Man</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926153500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Nick Cope&#039;s Popcast - Robot</title>
-</programme>
-<programme start="20260926153500 +0000" stop="20260926154500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Piripenguins - The Mysterious Monster</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926160000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Zog - A Friend for Fergus</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926160500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Rafi the Wishing Wizard - The Do-It-All Wish</title>
-</programme>
-<programme start="20260926160500 +0000" stop="20260926161500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Bluey - Duck Cake</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926162500 +0000" channel="Cbeebies.virginmediatv">
-    <title>JoJo &amp; Gran Gran - Autumn: It&#039;s Time to Build a Den</title>
-</programme>
-<programme start="20260926162500 +0000" stop="20260926163500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Puffin Rock - Bug Bug Buggies</title>
-</programme>
-<programme start="20260926163500 +0000" stop="20260926164500 +0000" channel="Cbeebies.virginmediatv">
-    <title>Charlie and Lola - I Am Going to Save a Panda</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926171000 +0000" channel="Cbeebies.virginmediatv">
-    <title>Moon and Me - Dibillo&#039;s Bow Tie</title>
-</programme>
-<programme start="20260926171000 +0000" stop="20260926172000 +0000" channel="Cbeebies.virginmediatv">
-    <title>BeddyByes - I Spy</title>
-</programme>
-<programme start="20260926172000 +0000" stop="20260926175000 +0000" channel="Cbeebies.virginmediatv">
-    <title>In the Night Garden - Too Loud Tombliboos - Nice and Quiet</title>
-</programme>
-<programme start="20260926175000 +0000" stop="20260926175800 +0000" channel="Cbeebies.virginmediatv">
-    <title>Cbeebies Bedtime Stories - Josh Widdecombe - Alan&#039;s Big, Scary Teeth</title>
+<programme start="20260927175800 +0000" stop="20260928015800 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
 </programme>
 <programme start="20260926175800 +0000" stop="20260927015800 +0000" channel="Cbeebies.virginmediatv">
     <title>This Is CBeebies</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>The Adventures of Paddington - Paddington vs. the Seagulls; Paddington and the Light House</title>
+<programme start="20260927015800 +0000" stop="20260927050000 +0000" channel="Cbeebies.virginmediatv">
+    <title>This Is CBeebies</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Pirate Treasure Hunt; Paddington&#039;s Sandcastle Showstopper</title>
+<programme start="20260927050000 +0000" stop="20260927050500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Small Potatoes - Potato Love</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Puffling Rescue; Paddington Goes Under the Sea</title>
+<programme start="20260927050500 +0000" stop="20260927051000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Puffin Rock - Just Like Puffin</title>
 </programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Beach Clean Up; Paddington&#039;s Holiday Farewell</title>
+<programme start="20260927051000 +0000" stop="20260927052000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Bing - Shadow</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926020500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Bigger House</title>
+<programme start="20260927052000 +0000" stop="20260927052500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Love Monster - In a Spin Day</title>
 </programme>
-<programme start="20260926020500 +0000" stop="20260926021500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - The Big Build</title>
+<programme start="20260927052500 +0000" stop="20260927053000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Froglets - Artists</title>
 </programme>
-<programme start="20260926021500 +0000" stop="20260926022000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Decorating</title>
+<programme start="20260927053000 +0000" stop="20260927054500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Piggy Builders - Drum Drama</title>
 </programme>
-<programme start="20260926022000 +0000" stop="20260926023000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - The New Car</title>
+<programme start="20260927054500 +0000" stop="20260927055000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Roots and Fruits - Plum</title>
 </programme>
-<programme start="20260926023000 +0000" stop="20260926023500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Jigsaw Festival</title>
+<programme start="20260927055000 +0000" stop="20260927060000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Mojo Swoptops - Who Duggit?</title>
 </programme>
-<programme start="20260926023500 +0000" stop="20260926024500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Hobbies</title>
+<programme start="20260927120000 +0000" stop="20260927121500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Octonauts - Blue Whale Rescue</title>
 </programme>
-<programme start="20260926024500 +0000" stop="20260926025000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Patchwork Quilt</title>
+<programme start="20260927121500 +0000" stop="20260927122500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Vida the Vet - Tidbit&#039;s Watermelon Worry</title>
 </programme>
-<programme start="20260926025000 +0000" stop="20260926030000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Granny Sheep&#039;s Art Van</title>
+<programme start="20260927122500 +0000" stop="20260927123500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Go Jetters - The Continent of Europe</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926030500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Being Inspired</title>
+<programme start="20260927123500 +0000" stop="20260927124500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Big Lizard - The Day Ammon Overcame Her Fear</title>
 </programme>
-<programme start="20260926030500 +0000" stop="20260926031500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Sibling School</title>
+<programme start="20260927124500 +0000" stop="20260927125000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Yukee - You Can Do It Yukee</title>
 </programme>
-<programme start="20260926031500 +0000" stop="20260926032000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - New Baby</title>
+<programme start="20260927125000 +0000" stop="20260927130000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Froglets - Birthday Party</title>
 </programme>
-<programme start="20260926032000 +0000" stop="20260926033000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Baby Names</title>
+<programme start="20260927130000 +0000" stop="20260927132000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Something Special - We&#039;re All Friends: Growing</title>
 </programme>
-<programme start="20260926033000 +0000" stop="20260926033500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Holding the Baby</title>
+<programme start="20260927132000 +0000" stop="20260927133000 +0000" channel="Cbeebies.virginmediatv">
+    <title>I Can Grow It - Spring:Climbing Plants</title>
 </programme>
-<programme start="20260926033500 +0000" stop="20260926034500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Hearing Test</title>
+<programme start="20260927133000 +0000" stop="20260927134000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Dodge&#039;s Pup School - Shoes Day</title>
 </programme>
-<programme start="20260926034500 +0000" stop="20260926035000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Favourite Sounds</title>
+<programme start="20260927134000 +0000" stop="20260927135000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Waffle the Wonder Dog - Ping Pong Waffle</title>
 </programme>
-<programme start="20260926035000 +0000" stop="20260926040000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Hospital Sleepover</title>
+<programme start="20260927135000 +0000" stop="20260927140000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Bluey - Bad Mood</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926040500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Caring for Grandpa Pig</title>
+<programme start="20260927140000 +0000" stop="20260927141000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Nikhil and Jay - Nikhil and Jay and the Turmeric Superpower</title>
 </programme>
-<programme start="20260926040500 +0000" stop="20260926041500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Penny Polar Bear&#039;s Party</title>
+<programme start="20260927141000 +0000" stop="20260927141500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Tish Tash - Fish Cake</title>
 </programme>
-<programme start="20260926041500 +0000" stop="20260926042000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Biggest Picture in the World</title>
+<programme start="20260927141500 +0000" stop="20260927143000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Piggy Builders - Drum Drama</title>
 </programme>
-<programme start="20260926042000 +0000" stop="20260926043000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Duck Race!</title>
+<programme start="20260927143000 +0000" stop="20260927143500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Love Monster - Topsy Turvy Day</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926043500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Martial Arts</title>
+<programme start="20260927143500 +0000" stop="20260927144500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Knee High Spies - Mission Pink Prank</title>
 </programme>
-<programme start="20260926043500 +0000" stop="20260926044500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Dr. Hamster&#039;s Ant Farm</title>
+<programme start="20260927144500 +0000" stop="20260927150000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Dylan&#039;s Playtime Adventures - Dylan the Dino Expert</title>
 </programme>
-<programme start="20260926044500 +0000" stop="20260926045000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Grown-Up Playground</title>
+<programme start="20260927150000 +0000" stop="20260927151000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Vida the Vet - Prickly&#039;s Panic</title>
 </programme>
-<programme start="20260926045000 +0000" stop="20260926050000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Run Daddy Run!</title>
+<programme start="20260927151000 +0000" stop="20260927151500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Wonderblocks - Splat!</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926050500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Metal Detector</title>
+<programme start="20260927151500 +0000" stop="20260927152500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Yukee - Slime Sisters</title>
 </programme>
-<programme start="20260926050500 +0000" stop="20260926051500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Being Babies</title>
+<programme start="20260927152500 +0000" stop="20260927153000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Tiny Tunes - Five Little Ducks</title>
 </programme>
-<programme start="20260926051500 +0000" stop="20260926052000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Party Bus</title>
+<programme start="20260927153000 +0000" stop="20260927153500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Nick Cope&#039;s Popcast - Spider</title>
 </programme>
-<programme start="20260926052000 +0000" stop="20260926053000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Jumping Stick</title>
+<programme start="20260927153500 +0000" stop="20260927154500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Piripenguins - The Piris&#039; Inky Issue</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926053500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Night Animals</title>
+<programme start="20260927154500 +0000" stop="20260927160000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Zog - Twiggy&#039;s Tummy Ache</title>
 </programme>
-<programme start="20260926053500 +0000" stop="20260926054500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Long Train Journey</title>
+<programme start="20260927160000 +0000" stop="20260927160500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Rafi the Wishing Wizard - The Tallest Wish</title>
 </programme>
-<programme start="20260926054500 +0000" stop="20260926055000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Tiny Creatures</title>
+<programme start="20260927160500 +0000" stop="20260927161500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Bluey - Handstand</title>
 </programme>
-<programme start="20260926055000 +0000" stop="20260926060000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Tiny Land</title>
+<programme start="20260927161500 +0000" stop="20260927162500 +0000" channel="Cbeebies.virginmediatv">
+    <title>JoJo &amp; Gran Gran - Autumn: It&#039;s Time to Play Football</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926120500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Princess Peppa</title>
+<programme start="20260927162500 +0000" stop="20260927163500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Puffin Rock - Puffins Vs Foxes</title>
 </programme>
-<programme start="20260926120500 +0000" stop="20260926121500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Mummy Pig&#039;s Birthday</title>
+<programme start="20260927163500 +0000" stop="20260927164500 +0000" channel="Cbeebies.virginmediatv">
+    <title>Charlie and Lola - I&#039;ve Got Nobody to Play With</title>
 </programme>
-<programme start="20260926121500 +0000" stop="20260926122000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Bicycles</title>
+<programme start="20260927164500 +0000" stop="20260927171000 +0000" channel="Cbeebies.virginmediatv">
+    <title>Moon and Me - Moon Baby in the Tub!</title>
 </programme>
-<programme start="20260926122000 +0000" stop="20260926123000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - World Book Day</title>
+<programme start="20260927171000 +0000" stop="20260927172000 +0000" channel="Cbeebies.virginmediatv">
+    <title>BeddyByes - Up and Down and Upside Down</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926123500 +0000" channel="Nick_Jr_Too.virginmediatv">
+<programme start="20260927172000 +0000" stop="20260927175000 +0000" channel="Cbeebies.virginmediatv">
+    <title>In the Night Garden - Makka Pakka Gets Lost</title>
+</programme>
+<programme start="20260927175000 +0000" stop="20260927175800 +0000" channel="Cbeebies.virginmediatv">
+    <title>Cbeebies Bedtime Stories - Shirley Ballas: Big Dance</title>
+</programme>
+<programme start="20260927175800 +0000" stop="20260928015800 +0000" channel="Cbeebies.virginmediatv">
+    <title>This Is CBeebies</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Race Against the Storm; Paddington&#039;s Super Snail</title>
+</programme>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>The Adventures of Paddington - Paddington and Paddingtron&#039;s Heroic Day / Paddington&#039;s Heroic Non-Stop Adventure</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>The Adventures of Paddington - Paddington and the Unlikely Hero / Paddington Needs a Hero</title>
+</programme>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Favourite Hero; Paddington and the Skateboarder</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927020500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Coach Peppa</title>
+</programme>
+<programme start="20260927020500 +0000" stop="20260927021500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - The London Marathon</title>
+</programme>
+<programme start="20260927021500 +0000" stop="20260927022000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Grandpa&#039;s Robot</title>
+</programme>
+<programme start="20260927022000 +0000" stop="20260927023000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Paper Games</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927023500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Clouds</title>
+</programme>
+<programme start="20260927023500 +0000" stop="20260927024500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Mr Bull Digs Up the River</title>
+</programme>
+<programme start="20260927024500 +0000" stop="20260927025000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Granny Sheep Moves In</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927030000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Cardboard Boxes</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927030500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Clubhouse Takeaway</title>
+</programme>
+<programme start="20260927030500 +0000" stop="20260927031500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Walkie Talkies</title>
+</programme>
+<programme start="20260927031500 +0000" stop="20260927032000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Peppa&#039;s Office</title>
+</programme>
+<programme start="20260927032000 +0000" stop="20260927033000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Little Swift</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927033500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - What Babies Do</title>
+</programme>
+<programme start="20260927033500 +0000" stop="20260927034500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Lenses</title>
+</programme>
+<programme start="20260927034500 +0000" stop="20260927035000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Igloo</title>
+</programme>
+<programme start="20260927035000 +0000" stop="20260927040000 +0000" channel="Nick_Jr_Too.virginmediatv">
     <title>Peppa Pig - Mr Bull Is Getting Married</title>
 </programme>
-<programme start="20260926123500 +0000" stop="20260926124500 +0000" channel="Nick_Jr_Too.virginmediatv">
+<programme start="20260927040000 +0000" stop="20260927040500 +0000" channel="Nick_Jr_Too.virginmediatv">
     <title>Peppa Pig - Getting Ready For A Wedding</title>
 </programme>
-<programme start="20260926124500 +0000" stop="20260926125000 +0000" channel="Nick_Jr_Too.virginmediatv">
+<programme start="20260927040500 +0000" stop="20260927041500 +0000" channel="Nick_Jr_Too.virginmediatv">
     <title>Peppa Pig - Wedding Day</title>
 </programme>
-<programme start="20260926125000 +0000" stop="20260926130000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Mirrors</title>
+<programme start="20260927041500 +0000" stop="20260927042000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Party Bus</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926131500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Bunty II</title>
+<programme start="20260927042000 +0000" stop="20260927043000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Movie Night</title>
 </programme>
-<programme start="20260926131500 +0000" stop="20260926133000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Nanny&#039;s Magic Test</title>
+<programme start="20260927043000 +0000" stop="20260927043500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Art House Day</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926134500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Giants in the Meadow</title>
+<programme start="20260927043500 +0000" stop="20260927044500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Wildflower Wood</title>
 </programme>
-<programme start="20260926134500 +0000" stop="20260926140000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Mrs Fig&#039;s Magic School</title>
+<programme start="20260927044500 +0000" stop="20260927045000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Sunny Day Games</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Gabby&#039;s Dollhouse - The Magical Mermaid-Lantis</title>
+<programme start="20260927045000 +0000" stop="20260927050000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Magic Trick</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>The Adventures of Paddington - Paddington and the Fingertrap; Paddington Rides a Scooter</title>
+<programme start="20260927050000 +0000" stop="20260927050500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Marbles</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926151500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Daisy and Poppy&#039;s Playgroup</title>
+<programme start="20260927050500 +0000" stop="20260927051500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - The Owl</title>
 </programme>
-<programme start="20260926151500 +0000" stop="20260926153000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - No Magic Day</title>
+<programme start="20260927051500 +0000" stop="20260927052000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Hospital Sleepover</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926154500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Spies</title>
+<programme start="20260927052000 +0000" stop="20260927053000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Big Announcement</title>
 </programme>
-<programme start="20260926154500 +0000" stop="20260926160000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Ben &amp; Holly&#039;s Little Kingdom - Hard Times</title>
+<programme start="20260927053000 +0000" stop="20260927053500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - The Sandpit</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926160500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Daddy Pig&#039;s Birthday</title>
+<programme start="20260927053500 +0000" stop="20260927054500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Stars</title>
 </programme>
-<programme start="20260926160500 +0000" stop="20260926161500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Daddy Pig&#039;s Office</title>
+<programme start="20260927054500 +0000" stop="20260927055000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Nursery Rhymes</title>
 </programme>
-<programme start="20260926161500 +0000" stop="20260926162000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - The Biggest Muddy Puddle in the World</title>
+<programme start="20260927055000 +0000" stop="20260927060000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Edmond Elephant&#039;s Birthday</title>
 </programme>
-<programme start="20260926162000 +0000" stop="20260926163000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Whistling</title>
+<programme start="20260927120000 +0000" stop="20260927120500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - The Police</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926163500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Cruise Ship Holiday</title>
+<programme start="20260927120500 +0000" stop="20260927121500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Gardening</title>
 </programme>
-<programme start="20260926163500 +0000" stop="20260926164500 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Holiday on the Sea</title>
+<programme start="20260927121500 +0000" stop="20260927122000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Hiccups</title>
 </programme>
-<programme start="20260926164500 +0000" stop="20260926165000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Tropical Day Trip</title>
+<programme start="20260927122000 +0000" stop="20260927123000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Metal Detector</title>
 </programme>
-<programme start="20260926165000 +0000" stop="20260926170000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>Peppa Pig - Sailing Home</title>
+<programme start="20260927123000 +0000" stop="20260927123500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - America</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>The Adventures of Paddington - Paddington&#039;s Radio Show; Paddington&#039;s Butler</title>
+<programme start="20260927123500 +0000" stop="20260927124500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - The Diner</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Nick_Jr_Too.virginmediatv">
-    <title>PAW Patrol - Pups Save the Flying Food; Pups Save a Ferris Wheel</title>
+<programme start="20260927124500 +0000" stop="20260927125000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Canyon Country</title>
 </programme>
-<programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Crew; The Others; The Signature; The Gift; The Apprentice; The Check; The Pest; The Hug</title>
+<programme start="20260927125000 +0000" stop="20260927130000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Hollywood</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926014000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Third; The Debt; The Painting; The Pressure; The Responsible; The Dress</title>
+<programme start="20260927130000 +0000" stop="20260927131500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - The New Wand</title>
 </programme>
-<programme start="20260926014000 +0000" stop="20260926032000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Fraud; The Boss; The Move; The Allergy; The Law; The Mothers; The Password; The Shell; The Procrastinators</title>
+<programme start="20260927131500 +0000" stop="20260927133000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Superheroes</title>
 </programme>
-<programme start="20260926032000 +0000" stop="20260926040000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Vacation; The Gripes; The Void</title>
+<programme start="20260927133000 +0000" stop="20260927134500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Mrs. Witch&#039;s Spring Clean</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Prince Ivandoe - The Prince and the Swoony Swanstress; The Prince and the Feather Fluffer-Upper Part 1; The Prince and the Feather Fluffer-Upper Part 2; The Prince and</title>
+<programme start="20260927134500 +0000" stop="20260927140000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - The Fruit Harvest</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Clarence - Balance; The Interrogation</title>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Gabby&#039;s Dollhouse - Carlita the Ice Cream Truck!</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Wonderfully Weird World of Gumball - The Thing; The Trumpet</title>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>The Adventures of Paddington - Paddington and the Kite; Paddington and Drainpipe Dan</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Regular Show: The Lost Tapes - Smoke Alarm on the Water; Party Horse 4: Third Time&#039;s a Charm</title>
+<programme start="20260927150000 +0000" stop="20260927151500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Uncle Gaston</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Regular Show - Last Meal; Fool Me Twice</title>
+<programme start="20260927151500 +0000" stop="20260927153000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Plumbing</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Adventure Time - Wizard; Evicted!</title>
+<programme start="20260927153000 +0000" stop="20260927154500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Daisy &amp; Poppy go Bananas</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Teen Titans Go! - Legs</title>
+<programme start="20260927154500 +0000" stop="20260927160000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Ben &amp; Holly&#039;s Little Kingdom - Mr Elf takes a Holiday</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Regular Show: The Lost Tapes - Artist&#039;s Block</title>
+<programme start="20260927160000 +0000" stop="20260927160500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Long Train Journey</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Clarence - The Big Game; The Boxcurse Children</title>
+<programme start="20260927160500 +0000" stop="20260927161500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Tiny Creatures</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Amazing World of Gumball - The Pizza; The Lie</title>
+<programme start="20260927161500 +0000" stop="20260927162000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Tiny Land</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Teen Titans Go! Starfire - Business Ethics Wink Wink</title>
+<programme start="20260927162000 +0000" stop="20260927163000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Sailing Boat</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Adventure Time - Henchman; Dungeon</title>
+<programme start="20260927163000 +0000" stop="20260927163500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Mandy Mouse&#039;s Birthday</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Regular Show: The Lost Tapes - Secret Menu Item</title>
+<programme start="20260927163500 +0000" stop="20260927164500 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Sleepy Princess</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>The Wonderfully Weird World of Gumball - The Unfollow; The Promposal</title>
+<programme start="20260927164500 +0000" stop="20260927165000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Hop, Skip and Jump!</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Clarence - Straight Illin; Turtle Hats</title>
+<programme start="20260927165000 +0000" stop="20260927170000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>Peppa Pig - Water Park</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010500 +0000" channel="Cartoonito.virginmediatv">
-    <title>Masha and the Bear - Firefighter of the Day; Awesome Blossoms; Sleeping Beauties; How to Train Your Plant; Princess or Dragon?; The Mystery Guest; Happily Feather After; S</title>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>The Adventures of Paddington - Paddington&#039;s Treasure Hunt; Paddington&#039;s Taste of Italy</title>
 </programme>
-<programme start="20260926010500 +0000" stop="20260926020000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Fireman Sam - Mooses&#039;s Sleepout Challenge; Run Norman Run</title>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Nick_Jr_Too.virginmediatv">
+    <title>PAW Patrol - Pups Save a Giant Plant; Pups Get Stuck</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Grizzy and the Lemmings - Hulking Lemmings; Ancestral Bear; Hocus Pocus Lemmingus; Lemming Fortune; Tough Medicine; Tai Chi Lemmings; Domestic Shaolin; Peaceable Enemies; The L</title>
+<programme start="20260926230000 +0000" stop="20260927003000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Amazing World of Gumball - The Sale; The Routine; The Parking; The Upgrade; The Comic; The Romantic; The Uploads; The Wicked</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Lu &amp; the Bally Bunch - Down In The Grumps; Counting Spaghetti; Lu&#039;s New Shoes; Droopy Patrick; Horsefly Jumps; When&#039;s My Turn?; A Twig&#039;s Tale; Play With Me!</title>
+<programme start="20260927003000 +0000" stop="20260927014000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Amazing World of Gumball - The Ghost; The Laziest; The Prank; The Mystery; The Kiss; The GI</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Masha and the Bear - How They Meet; Don&#039;t Wake Till Spring!; One, Two, Three! Light the Christmas Tree!; Tracks of Unknown Animals; Prances with Wolves; Jam Day; Spring...</title>
+<programme start="20260927014000 +0000" stop="20260927032000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Amazing World of Gumball - The Pizza; The Lie; The Butterfly; The Question; The Oracle; The Safety; The Friend; The Saint</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Paddles! The Huggable Polar Bear - Apples Galore</title>
+<programme start="20260927032000 +0000" stop="20260927040000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Amazing World of Gumball - The Mirror; The Burden</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Masha And The Bear - Honey Day; How They Meet; How to Train Your Plant</title>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Prince Ivandoe - The Prince and the Blobby Princess; The Prince and the Wise Wizard of Wisdom; The Prince and the Squeak of Obedience; The Prince and the Princenapper</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Batwheels: Batwing - Dynamic Du-Oh-No</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Clarence - Bird Boy Man; Plane Excited</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926141500 +0000" channel="Cartoonito.virginmediatv">
-    <title>Fireman Sam: The Great Fire of Pontypandy</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Wonderfully Weird World of Gumball - The Distance; The Promposal</title>
 </programme>
-<programme start="20260926141500 +0000" stop="20260926150000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Fireman Sam: Helicopter Heroes - The Great Robot Race; Up Up and Away; Woolly in the Wind; The Big Show</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Regular Show: The Lost Tapes - That&#039;s Funny; Cool Boss</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Fireman Sam - Stuck in the Muck; Swift Drift</title>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Regular Show - Sleep Fighter; Party Re-Pete</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Masha and the Bear - Jam Day; Just Shoot Me; Kidding Around</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Adventure Time - City of Thieves; The Witch&#039;s Garden</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Baby Lemmings - Buzzy Swarm; Blooming Lullaby; Totally Hazelnuts</title>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Teen Titans Go! - Beast Boy on a Shelf</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Batwheels - Up in the Air; Wheel Side Story</title>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Regular Show: The Lost Tapes - That&#039;s Funny</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Fireman Sam - The Ancient Pontypandy Way; The Best Sleepover Ever</title>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Clarence - The Interrogation; Bird Boy Man</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Baby Lemmings - Marble Squabble; Pine Cone Tower; Artistic Recycling</title>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Amazing World of Gumball - The Safety; The Oracle</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="MTV.virginmediatv">
-    <title>Ink Master - Devil&#039;s in the Details</title>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Teen Titans Go! Cyborg - Booby Trap House</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926014500 +0000" channel="MTV.virginmediatv">
-    <title>Ink Master - Match a Master</title>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Adventure Time - What Have You Done?; Rainy Day Daydream</title>
 </programme>
-<programme start="20260926014500 +0000" stop="20260926023500 +0000" channel="MTV.virginmediatv">
-    <title>Ex on the Beach - Heartbreak And Happiness</title>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Regular Show: The Lost Tapes - Smoke Alarm on the Water</title>
 </programme>
-<programme start="20260926023500 +0000" stop="20260926030000 +0000" channel="MTV.virginmediatv">
-    <title>Daria - Boxing Daria</title>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>The Wonderfully Weird World of Gumball - The Trumpet; The Synthesis</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="MTV.virginmediatv">
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Cartoon_Network.virginmediatv">
+    <title>Clarence - Goose Chase; Chimney</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010500 +0000" channel="Cartoonito.virginmediatv">
+    <title>Masha and the Bear - Little Cousin; Get Well Soon!; Recipe for Disaster; Laundry Day; The Grand Piano Lesson; Stripes and Whiskers; Home Alone; Hold Your Breath; The Found</title>
+</programme>
+<programme start="20260927010500 +0000" stop="20260927020000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Fireman Sam - Pontypandy Wonderland Part 1; Pontypandy Wonderland Part 2</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Grizzy and the Lemmings - Parasailing Fishing; Yummy Pirates; Sea Excursion; Sand Lemmings; Non-Peaceful Coaching; Bear In Troubled Waters; Earthquake-Proof Bear; The Spirit Of</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Lu &amp; the Bally Bunch - I Can Catch; That&#039;s My Favourite; Tidy Time; Find The Blueberries; Green Eyed Birthday Monster; But Why?; Cupcake Surprise; A New Pet</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Masha and the Bear - Hokus-Pokus; Construction In Progress; Picture Perfect; Time to Ride My Pony; One-Hit Wonder; Growing Potion; Swept Away; All in the Family</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Paddles! The Huggable Polar Bear - Mother&#039;s Day</title>
+</programme>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Masha and the Bear - Masha Knows Best; Mind your manners; Monkey Business</title>
+</programme>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Batwheels: Batwing - Batwing and the Nets; Up in the Air; Wheel Side Story; When You&#039;re A Jet</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Fireman Sam - The Treasure of Pontypandy Pete</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Fireman Sam - The Return of Norman-Man</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Fireman Sam: Spooky Adventures - Norman&#039;s Ghost; Norman&#039;s Halloween Heist; The Haunted Hay Ride; The Pontypandyness Monster; Wally Wizzo</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Fireman Sam - The Great Robot Race; Car Wash Chaos</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Masha and the Bear - Mushroom Rain; New Kids on the Block!; No Trespassing!</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Baby Lemmings - Foolhardy Plushie; Sneaky Harvest; Totally Antsy</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Batwheels - A Jet Out of Water; Air-Show Don&#039;t Tell</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Fireman Sam - The King of Pontypandy; The Hunt for the Lesser Spotted Wader</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Cartoonito.virginmediatv">
+    <title>Baby Lemmings - Picnic takes all; Hazelnut slide; Down to the Wire</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="MTV.virginmediatv">
+    <title>Ink Master - Face Your Fears</title>
+</programme>
+<programme start="20260927010000 +0000" stop="20260927014500 +0000" channel="MTV.virginmediatv">
+    <title>True Love Or True Lies? - Reliving The Past</title>
+</programme>
+<programme start="20260927014500 +0000" stop="20260927023500 +0000" channel="MTV.virginmediatv">
+    <title>All Star Shore - The Final Shore-Down</title>
+</programme>
+<programme start="20260927023500 +0000" stop="20260927030000 +0000" channel="MTV.virginmediatv">
+    <title>Awkward. - Pilot</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927050000 +0000" channel="MTV.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926052500 +0000" channel="MTV.virginmediatv">
-    <title>Daria - Camp Fear</title>
+<programme start="20260927050000 +0000" stop="20260927052500 +0000" channel="MTV.virginmediatv">
+    <title>Daria - The Story of D</title>
 </programme>
-<programme start="20260926052500 +0000" stop="20260926061000 +0000" channel="MTV.virginmediatv">
-    <title>Teen Mom 2 - What Makes You Happy</title>
+<programme start="20260927052500 +0000" stop="20260927061000 +0000" channel="MTV.virginmediatv">
+    <title>Teen Mom 2 - Run Away</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="MTV.virginmediatv">
-    <title>Charmed - Pre-Witched</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="MTV.virginmediatv">
+    <title>Charmed - All Hell Breaks Loose</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="MTV.virginmediatv">
-    <title>Charmed - Sin Francisco</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="MTV.virginmediatv">
+    <title>Charmed - Charmed Again</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="MTV.virginmediatv">
-    <title>Charmed - The Demon Who Came in From the Cold</title>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="MTV.virginmediatv">
+    <title>Charmed - Charmed Again</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="MTV.virginmediatv">
-    <title>Charmed - Exit Strategy</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="MTV.virginmediatv">
+    <title>Charmed - Hell Hath No Fury</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="MTV.virginmediatv">
-    <title>Charmed - Look Who&#039;s Barking</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="MTV.virginmediatv">
+    <title>Charmed - Size Matters</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="MTV.virginmediatv">
-    <title>Catfish: The TV Show - Catfish: The Untold Stories Part 3</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="MTV.virginmediatv">
+    <title>Catfish: The TV Show - The Untold Stories Part 6</title>
 </programme>
-<programme start="20260925224000 +0000" stop="20260926012500 +0000" channel="E4_HD.virginmediatv">
-    <title>Kingsman: The Golden Circle</title>
+<programme start="20260926230500 +0000" stop="20260927001000 +0000" channel="E4_HD.virginmediatv">
+    <title>First Dates - Episode 3</title>
 </programme>
-<programme start="20260926012500 +0000" stop="20260926021500 +0000" channel="E4_HD.virginmediatv">
-    <title>Below Deck Down Under - Making Enemies</title>
+<programme start="20260927001000 +0000" stop="20260927010500 +0000" channel="E4_HD.virginmediatv">
+    <title>Vanderpump Rules - SUR-ving Drama</title>
 </programme>
-<programme start="20260926021500 +0000" stop="20260926024000 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - I, Carumbus</title>
+<programme start="20260927010500 +0000" stop="20260927020000 +0000" channel="E4_HD.virginmediatv">
+    <title>Vanderpump Rules - Manifest and Chill</title>
 </programme>
-<programme start="20260926024000 +0000" stop="20260926030500 +0000" channel="E4_HD.virginmediatv">
+<programme start="20260927020000 +0000" stop="20260927025000 +0000" channel="E4_HD.virginmediatv">
+    <title>Vanderpump Rules - Crash Out Queens</title>
+</programme>
+<programme start="20260927025000 +0000" stop="20260927033500 +0000" channel="E4_HD.virginmediatv">
+    <title>Ramsay&#039;s Hotel Hell - Four Seasons Inn</title>
+</programme>
+<programme start="20260927033500 +0000" stop="20260927050000 +0000" channel="E4_HD.virginmediatv">
+    <title>Don&#039;t Tell the Bride - Jazmin and Sonny</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927061000 +0000" channel="E4_HD.virginmediatv">
+    <title>Hollyoaks: Omnibus - Episode 39</title>
+</programme>
+<programme start="20260927110500 +0000" stop="20260927124000 +0000" channel="E4_HD.virginmediatv">
+    <title>The Great British Bake Off - Cake Week</title>
+</programme>
+<programme start="20260927124000 +0000" stop="20260927130500 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - The Ten-Per-Cent Solution</title>
+</programme>
+<programme start="20260927130500 +0000" stop="20260927133500 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - Politically Inept With Homer</title>
+</programme>
+<programme start="20260927133500 +0000" stop="20260927140500 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - The Daughter Also Rises</title>
+</programme>
+<programme start="20260927140500 +0000" stop="20260927143500 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - At Long Last Leave</title>
+</programme>
+<programme start="20260927143500 +0000" stop="20260927150500 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - How I Wet Your Mother</title>
+</programme>
+<programme start="20260927150500 +0000" stop="20260927154000 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - Sex, Pies and Idiot-Scrapes</title>
+</programme>
+<programme start="20260927154000 +0000" stop="20260927160500 +0000" channel="E4_HD.virginmediatv">
+    <title>The Simpsons - Lost Verizon</title>
+</programme>
+<programme start="20260927160500 +0000" stop="20260927163500 +0000" channel="E4_HD.virginmediatv">
     <title>The Simpsons - Double Double Boy in Trouble</title>
 </programme>
-<programme start="20260926030500 +0000" stop="20260926033000 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Do Pizza Bots Dream of Electric Guitars</title>
+<programme start="20260927163500 +0000" stop="20260927181000 +0000" channel="E4_HD.virginmediatv">
+    <title>LEGO Masters: Grand Masters of the Galaxy - Caught in the Act</title>
 </programme>
-<programme start="20260926033000 +0000" stop="20260926035500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Goldbergs - Alligator Schwartz</title>
+<programme start="20260926230500 +0000" stop="20260927001000 +0000" channel="More4_HD.virginmediatv">
+    <title>999: On the Front Line - Episode 5</title>
 </programme>
-<programme start="20260926035500 +0000" stop="20260926042000 +0000" channel="E4_HD.virginmediatv">
-    <title>The Goldbergs - The Proposal</title>
+<programme start="20260927001000 +0000" stop="20260927011500 +0000" channel="More4_HD.virginmediatv">
+    <title>24 Hours in A&amp;E - Forever Changes</title>
 </programme>
-<programme start="20260926042000 +0000" stop="20260926050000 +0000" channel="E4_HD.virginmediatv">
-    <title>Brooklyn Nine-Nine - Fancy Brudgom</title>
+<programme start="20260927011500 +0000" stop="20260927022000 +0000" channel="More4_HD.virginmediatv">
+    <title>24 Hours in A&amp;E - Episode 2</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926061000 +0000" channel="E4_HD.virginmediatv">
-    <title>LEGO Masters: Grand Masters of the Galaxy - Run the Gauntlet</title>
+<programme start="20260927022000 +0000" stop="20260927025000 +0000" channel="More4_HD.virginmediatv">
+    <title>Food Unwrapped - Caribbean Adventure</title>
 </programme>
-<programme start="20260926111500 +0000" stop="20260926121500 +0000" channel="E4_HD.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Curtis House</title>
-</programme>
-<programme start="20260926121500 +0000" stop="20260926131500 +0000" channel="E4_HD.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Calumet Inn</title>
-</programme>
-<programme start="20260926131500 +0000" stop="20260926134500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Dude, Where&#039;s My Ranch?</title>
-</programme>
-<programme start="20260926134500 +0000" stop="20260926141500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Old Yeller-Belly</title>
-</programme>
-<programme start="20260926141500 +0000" stop="20260926144500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Brake My Wife, Please</title>
-</programme>
-<programme start="20260926144500 +0000" stop="20260926151500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - The Bart of War</title>
-</programme>
-<programme start="20260926151500 +0000" stop="20260926154500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Moe Baby Blues</title>
-</programme>
-<programme start="20260926154500 +0000" stop="20260926161500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Regarding Margie</title>
-</programme>
-<programme start="20260926161500 +0000" stop="20260926164500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - The Monkey Suit</title>
-</programme>
-<programme start="20260926164500 +0000" stop="20260926171500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Marge and Homer Turn a Couple Play</title>
-</programme>
-<programme start="20260926171500 +0000" stop="20260926174500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Bart Stops to Smell the Roosevelts</title>
-</programme>
-<programme start="20260926174500 +0000" stop="20260926181500 +0000" channel="E4_HD.virginmediatv">
-    <title>The Simpsons - Replaceable You</title>
-</programme>
-<programme start="20260925232000 +0000" stop="20260926002500 +0000" channel="More4_HD.virginmediatv">
-    <title>999: On the Front Line - Episode 3</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926013000 +0000" channel="More4_HD.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 5</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="More4_HD.virginmediatv">
-    <title>24 Hours in A&amp;E - Episode 4</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="More4_HD.virginmediatv">
-    <title>Food Unwrapped - Deep South Adventure</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926075500 +0000" channel="More4_HD.virginmediatv">
+<programme start="20260927025000 +0000" stop="20260927075500 +0000" channel="More4_HD.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926113500 +0000" stop="20260926123500 +0000" channel="More4_HD.virginmediatv">
-    <title>A Place in the Sun - St Lucia</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="More4_HD.virginmediatv">
+    <title>A Place in the Sun - Costa del Sol, Spain</title>
 </programme>
-<programme start="20260926123500 +0000" stop="20260926134000 +0000" channel="More4_HD.virginmediatv">
-    <title>A Place in the Sun - Andalucía, Spain</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="More4_HD.virginmediatv">
+    <title>A Place in the Sun - Mojácar</title>
 </programme>
-<programme start="20260926134000 +0000" stop="20260926144000 +0000" channel="More4_HD.virginmediatv">
-    <title>A Place in the Sun - Andalucía, Spain</title>
+<programme start="20260927140000 +0000" stop="20260927145000 +0000" channel="More4_HD.virginmediatv">
+    <title>A Place in the Sun - Almeria</title>
 </programme>
-<programme start="20260926144000 +0000" stop="20260926151500 +0000" channel="More4_HD.virginmediatv">
-    <title>Come Dine with Me - Essex: Natalie</title>
+<programme start="20260927145000 +0000" stop="20260927152000 +0000" channel="More4_HD.virginmediatv">
+    <title>Come Dine with Me - Midlands: Becci</title>
 </programme>
-<programme start="20260926151500 +0000" stop="20260926155000 +0000" channel="More4_HD.virginmediatv">
-    <title>Come Dine with Me - Essex: Alison</title>
+<programme start="20260927152000 +0000" stop="20260927155000 +0000" channel="More4_HD.virginmediatv">
+    <title>Come Dine with Me - Midlands: Louise</title>
 </programme>
-<programme start="20260926155000 +0000" stop="20260926162000 +0000" channel="More4_HD.virginmediatv">
-    <title>Come Dine with Me - Essex: Amarinder</title>
+<programme start="20260927155000 +0000" stop="20260927162000 +0000" channel="More4_HD.virginmediatv">
+    <title>Come Dine with Me - Midlands: Hezron</title>
 </programme>
-<programme start="20260926162000 +0000" stop="20260926165000 +0000" channel="More4_HD.virginmediatv">
-    <title>Come Dine with Me - Essex: Donia</title>
+<programme start="20260927162000 +0000" stop="20260927165000 +0000" channel="More4_HD.virginmediatv">
+    <title>Come Dine with Me - Midlands: Lorna</title>
 </programme>
-<programme start="20260926165000 +0000" stop="20260926172000 +0000" channel="More4_HD.virginmediatv">
-    <title>Come Dine with Me - Essex: Dean</title>
+<programme start="20260927165000 +0000" stop="20260927172000 +0000" channel="More4_HD.virginmediatv">
+    <title>Come Dine with Me - Midlands: Ian</title>
 </programme>
-<programme start="20260926172000 +0000" stop="20260926175500 +0000" channel="More4_HD.virginmediatv">
-    <title>Four in a Bed - Abbey House</title>
+<programme start="20260927172000 +0000" stop="20260927175500 +0000" channel="More4_HD.virginmediatv">
+    <title>Four in a Bed - Knockaloe Beg</title>
 </programme>
-<programme start="20260926175500 +0000" stop="20260926182500 +0000" channel="More4_HD.virginmediatv">
-    <title>Four in a Bed - Compton House</title>
+<programme start="20260927175500 +0000" stop="20260927182500 +0000" channel="More4_HD.virginmediatv">
+    <title>Four in a Bed - The Arches</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>FBI - Creating a Monster</title>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>The Good Doctor - Critical Support</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>FBI: International - Keen as a Bean</title>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>The Force: Manchester - Episode 2</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>FBI: Most Wanted - A Man Without a Country</title>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Brit Cops: Law and Disorder - Taxi Driver</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Motorway Patrol - Episode 7</title>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>A1: Highway Patrol - Episode 7</title>
 </programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Motorway Patrol - Episode 8</title>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Road Wars - Episode 3</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Brit Cops: Law and Disorder - Gun Arrest</title>
+<programme start="20260927050000 +0000" stop="20260927054000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Caught Red Handed - Episode 10</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Sun, Sea and A&amp;E - Bomb</title>
-</programme>
-<programme start="20260926114000 +0000" stop="20260926122000 +0000" channel="Sky_Witness.virginmediatv">
+<programme start="20260927054000 +0000" stop="20260927062000 +0000" channel="Sky_Witness.virginmediatv">
     <title>Caught Red Handed - Episode 11</title>
 </programme>
-<programme start="20260926122000 +0000" stop="20260926130000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Caught Red Handed - Episode 12</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>UK Border Force - Episode 3</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 4</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 16</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_Witness.virginmediatv">
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 17</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 18</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 19</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 20</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 1</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Near Collapse</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Episode 3</title>
+</programme>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_Witness.virginmediatv">
+    <title>Nothing to Declare - Frequent Flyer</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_Witness.virginmediatv">
     <title>Nothing to Declare - Episode 5</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 6</title>
+<programme start="20260926234500 +0000" stop="20260927010000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 7</title>
+<programme start="20260927010000 +0000" stop="20260927021500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 8</title>
+<programme start="20260927021500 +0000" stop="20260927033000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 9</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 10</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 11</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 12</title>
-</programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_Witness.virginmediatv">
-    <title>Nothing to Declare - Episode 13</title>
-</programme>
-<programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Breeders - No Cure (Part 1)</title>
-</programme>
-<programme start="20260926002500 +0000" stop="20260926005500 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Breeders - No Cure (Part 2)</title>
-</programme>
-<programme start="20260926005500 +0000" stop="20260926013000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 6</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Community - Basic Intergluteal Numismatics</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Community - Cooperative Polygraphy</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Sort Of - Sort of Gone</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Sort Of - Sort of Back</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Sort Of - Sort of Mary Poppins</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Comedy.virginmediatv">
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="Sky_Comedy.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Comedy.virginmediatv">
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Sky_Comedy.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_Comedy.virginmediatv">
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Sky_Comedy.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Teleshopping</title>
+<programme start="20260927050000 +0000" stop="20260927063000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Community - Heroic Origins</title>
+<programme start="20260927113000 +0000" stop="20260927124500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Saturday Night Live UK - Amelia Dimoldenberg / Rachel Chinouriri</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 1</title>
+<programme start="20260927124500 +0000" stop="20260927131500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Animal Control - Bats and Camels</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 2</title>
+<programme start="20260927131500 +0000" stop="20260927134500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Animal Control - Scaredy Cats and Card Sharks</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 3</title>
+<programme start="20260927134500 +0000" stop="20260927141500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Animal Control - Coyotes and Eagles</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 4</title>
+<programme start="20260927141500 +0000" stop="20260927144500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Animal Control - Golden Moose and Wiener Dogs</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 5</title>
+<programme start="20260927144500 +0000" stop="20260927151500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Will &amp; Grace - Dames at Sea</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Two Weeks To Live - Episode 6</title>
+<programme start="20260927151500 +0000" stop="20260927154500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Will &amp; Grace - Last Ex to Brooklyn</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Will &amp; Grace - Dolls and Dolls</title>
+<programme start="20260927154500 +0000" stop="20260927161000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Will &amp; Grace - Home Court Disadvantage</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Will &amp; Grace - May Divorce Be With You</title>
+<programme start="20260927161000 +0000" stop="20260927163500 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Will &amp; Grace - Me and Mr. Jones</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Will &amp; Grace - 23</title>
+<programme start="20260927163500 +0000" stop="20260927170000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Will &amp; Grace - A-Story, Bee-Story</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>Will &amp; Grace - 24</title>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>Will &amp; Grace - Heart Like a Wheelchair</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_Comedy.virginmediatv">
-    <title>The Office - Viewing Party</title>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_Comedy.virginmediatv">
+    <title>The Office - Ultimatum</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>How I Caught the Killer - The Suitcase Murderer</title>
+<programme start="20260926232000 +0000" stop="20260927001000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>World&#039;s Most Evil Killers - Todd Christopher Kohlhepp</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>The Real Manhunter - Sian Blake</title>
+<programme start="20260927001000 +0000" stop="20260927010000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Crime Scene Raw - Rosalyn Lewis &amp; Shawndell McLeod</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Stop Search Seize - Episode 10</title>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Crime Scene Raw - Aaron Friar</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Brit Cops: Law and Disorder - Gun Arrest</title>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>What the Killer Did Next - Joy Morgan</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Motorway Patrol - Episode 9</title>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>The Force: Manchester - Episode 10</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Motorway Patrol - Episode 10</title>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Stop Search Seize - Episode 9</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Border Security: America&#039;s Front Line - Episode 1</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Highway Cops - Episode 1</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Murder Uncut - The Sergeant&#039;s Wife</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Highway Cops - Episode 2</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>World&#039;s Most Evil Killers - Diane Downs</title>
+<programme start="20260927114000 +0000" stop="20260927122000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Caught Red Handed - Episode 8</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Britain&#039;s Most Evil Killers - David Heiss</title>
+<programme start="20260927122000 +0000" stop="20260927130000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Caught Red Handed - Episode 9</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>The Real Manhunter - Chohan Family</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Caught on Dashcam - Episode 1</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926165500 +0000" channel="Sky_Crime.virginmediatv">
-    <title>Killer in My Village - Victoria Greenwood</title>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>What the Killer Did Next - Megan Newton: The Opportunist Murder</title>
 </programme>
-<programme start="20260926165500 +0000" stop="20260926175500 +0000" channel="Sky_Crime.virginmediatv">
-    <title>The Girl on the Milk Carton - A Devastating Disappearance</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>The Real Manhunter - Murders Of Anne Carryer And Elizabeth Blood</title>
 </programme>
-<programme start="20260926175500 +0000" stop="20260926190000 +0000" channel="Sky_Crime.virginmediatv">
-    <title>The Girl on the Milk Carton - A Monster Revealed</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>Killer in My Village - Sarah Ashwell</title>
 </programme>
-<programme start="20260925233000 +0000" stop="20260926003000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>London Calling - Every Picture Tells a Story</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Crime.virginmediatv">
+    <title>World&#039;s Most Evil Killers - Richard Ramirez</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926031000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Blur: Live at Wembley Stadium</title>
+<programme start="20260926214500 +0000" stop="20260927001500 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Phil Lynott: Songs for While I&#039;m Away</title>
 </programme>
-<programme start="20260926031000 +0000" stop="20260926040500 +0000" channel="Sky_Arts.virginmediatv">
-    <title>The Art of the Garden - Cleve West, Horatio&#039;s Garden, Salisbury</title>
+<programme start="20260927001500 +0000" stop="20260927013000 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Jimi Hendrix Live at Woodstock</title>
 </programme>
-<programme start="20260926040500 +0000" stop="20260926050000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>The Prince&#039;s Master Crafters: The Next Generation - Stained Glass</title>
+<programme start="20260927013000 +0000" stop="20260927025000 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Led Zeppelin: In the Light - 1973-1980</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926063000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Peter and the Wolf</title>
+<programme start="20260927025000 +0000" stop="20260927034500 +0000" channel="Sky_Arts.virginmediatv">
+    <title>The Rolling Stones: Live At The Marquee</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Opry Live - Kelsea Ballerini Ashley Cooke John Foster Ella Langley</title>
+<programme start="20260927034500 +0000" stop="20260927050000 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Black Sabbath: Paranoid (Classic Album)</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Discovering Film - Robert De Niro</title>
+<programme start="20260927050000 +0000" stop="20260927080000 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Kiss Me Kate</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926154500 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Ian Fleming The Curse Of Bond: The Spy Who Killed Me</title>
+<programme start="20260927120000 +0000" stop="20260927134500 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Jesus Christ Superstar Live in Concert</title>
 </programme>
-<programme start="20260926154500 +0000" stop="20260926164500 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Discovering Film - Jane Fonda</title>
+<programme start="20260927134500 +0000" stop="20260927160000 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Legends: Live at Montreux</title>
 </programme>
-<programme start="20260926164500 +0000" stop="20260926174500 +0000" channel="Sky_Arts.virginmediatv">
-    <title>Discovering Film - Gary Oldman</title>
+<programme start="20260927160000 +0000" stop="20260927181000 +0000" channel="Sky_Arts.virginmediatv">
+    <title>Tina Turner: Live in Barcelona</title>
 </programme>
-<programme start="20260926174500 +0000" stop="20260926200000 +0000" channel="Sky_Arts.virginmediatv">
-    <title>How The Beatles Changed the World</title>
-</programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_News.virginmediatv">
     <title>Mornings with Jones and Melbourne</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_News.virginmediatv">
     <title>Mornings with Jones and Melbourne</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News Today with Sam Washington</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Sky_News.virginmediatv">
+    <title>Sky News Today with Matt Barbet</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Sky_News.virginmediatv">
+    <title>Sunday Morning Highlights</title>
+</programme>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Sky_News.virginmediatv">
     <title>Sky News Today</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News Today</title>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Sky_News.virginmediatv">
+    <title>Sunday Morning Highlights</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_News.virginmediatv">
-    <title>Sky News Today</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Sky_News.virginmediatv">
     <title>The News Hour with Jonathan Samuels</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Sky_News.virginmediatv">
     <title>The News Hour with Jonathan Samuels</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Sky_News.virginmediatv">
     <title>The News Hour with Jonathan Samuels</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Sky_News.virginmediatv">
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Sky_News.virginmediatv">
     <title>The News Hour with Jonathan Samuels</title>
 </programme>
-<programme start="20260925224500 +0000" stop="20260926004500 +0000" channel="SKY_One.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Qualifying</title>
+<programme start="20260926233000 +0000" stop="20260927011500 +0000" channel="SKY_One.virginmediatv">
+    <title>Bill &amp; Ted&#039;s Excellent Adventure</title>
 </programme>
-<programme start="20260926004500 +0000" stop="20260926011500 +0000" channel="SKY_One.virginmediatv">
-    <title>Grimsburg - How to Lose an Ankle Monitor in 10 Days</title>
+<programme start="20260927011500 +0000" stop="20260927021000 +0000" channel="SKY_One.virginmediatv">
+    <title>The Force: North East - Saturday Night and Sunday Morning</title>
 </programme>
-<programme start="20260926011500 +0000" stop="20260926014500 +0000" channel="SKY_One.virginmediatv">
-    <title>Grimsburg - Across the Flutiverse</title>
+<programme start="20260927021000 +0000" stop="20260927030500 +0000" channel="SKY_One.virginmediatv">
+    <title>Road Wars - Episode 1</title>
 </programme>
-<programme start="20260926014500 +0000" stop="20260926021000 +0000" channel="SKY_One.virginmediatv">
-    <title>Road Wars - Episode 5</title>
+<programme start="20260927030500 +0000" stop="20260927033000 +0000" channel="SKY_One.virginmediatv">
+    <title>Road Wars - Episode 1</title>
 </programme>
-<programme start="20260926021000 +0000" stop="20260926030000 +0000" channel="SKY_One.virginmediatv">
-    <title>Hawaii Five-0 - Ai No I Ka &#039;Ape He Mane&#039;o No Ko Ka Nuku</title>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="SKY_One.virginmediatv">
+    <title>Road Wars - Episode 2</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="SKY_One.virginmediatv">
-    <title>S.W.A.T. - Hopeless Sinner</title>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="SKY_One.virginmediatv">
+    <title>Highway Patrol - Get On the Ground</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="SKY_One.virginmediatv">
-    <title>S.W.A.T. - Under Fire</title>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="SKY_One.virginmediatv">
+    <title>Highway Patrol - Liar, Liar</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926064500 +0000" channel="SKY_One.virginmediatv">
-    <title>Alvin and the Chipmunks: Chipwrecked</title>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="SKY_One.virginmediatv">
+    <title>Surviving Earth - When the Continents Collided</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="SKY_One.virginmediatv">
-    <title>Superstore - Spring Cleaning</title>
+<programme start="20260927111500 +0000" stop="20260927125500 +0000" channel="SKY_One.virginmediatv">
+    <title>The Bachelor King</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="SKY_One.virginmediatv">
-    <title>The Simpsons - Lard of the Dance</title>
+<programme start="20260927125500 +0000" stop="20260927132500 +0000" channel="SKY_One.virginmediatv">
+    <title>Superstore - Cheyenne&#039;s Wedding</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926160000 +0000" channel="SKY_One.virginmediatv">
-    <title>Soccer Saturday</title>
+<programme start="20260927132500 +0000" stop="20260927135500 +0000" channel="SKY_One.virginmediatv">
+    <title>Superstore - Tornado</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="SKY_One.virginmediatv">
-    <title>Formula 1 - Azerbaijan Grand Prix: Highlights</title>
+<programme start="20260927135500 +0000" stop="20260927142500 +0000" channel="SKY_One.virginmediatv">
+    <title>Superstore - Grand Re-Opening</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="SKY_One.virginmediatv">
-    <title>The Simpsons - Homer to the Max</title>
+<programme start="20260927142500 +0000" stop="20260927145500 +0000" channel="SKY_One.virginmediatv">
+    <title>Superstore - Brett&#039;s Dead</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="SKY_One.virginmediatv">
-    <title>The Simpsons - I&#039;m With Cupid</title>
+<programme start="20260927145500 +0000" stop="20260927152500 +0000" channel="SKY_One.virginmediatv">
+    <title>Superstore - Part-Time Hires</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Discovery.virginmediatv">
-    <title>Expedition Unknown - Sunken City of Pirates</title>
+<programme start="20260927152500 +0000" stop="20260927180000 +0000" channel="SKY_One.virginmediatv">
+    <title>Live: WSL - Chelsea v Arsenal</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Discovery.virginmediatv">
-    <title>Expedition Unknown - Shipwreck Triangle of Greece</title>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Discovery.virginmediatv">
+    <title>How the Universe Works - Dark History of Earth</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Discovery.virginmediatv">
-    <title>Gold Divers - Clash of the Titans</title>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Discovery.virginmediatv">
+    <title>How the Universe Works - Voyager&#039;s Ultimate Mission</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Discovery.virginmediatv">
-    <title>Street Outlaws: Locals Only - Make Me, Minnesota</title>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Discovery.virginmediatv">
+    <title>Texas Metal - Beyond ZL1, Part 2</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="Discovery.virginmediatv">
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Discovery.virginmediatv">
+    <title>Texas Metal - Street Rod Milk Truck</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="Discovery.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Discovery.virginmediatv">
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Discovery.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Discovery.virginmediatv">
-    <title>How Do They Do It? - Royal Enfield, Art Fraud, Milk</title>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Discovery.virginmediatv">
+    <title>Wheeler Dealers - 2000 Porsche 996</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Discovery.virginmediatv">
-    <title>How Do They Do It? - Crash-Testing Cars; Expensive Dutch Tableware; High-End Hand-Made Pocket-Size Umbrellas</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Discovery.virginmediatv">
+    <title>Building Off the Grid - Missouri Modern Farmhouse</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Discovery.virginmediatv">
-    <title>The Woodland Workshop - The Perils Of Steam Bending</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Discovery.virginmediatv">
+    <title>Building Off the Grid - Vermont Timber Frame House</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Discovery.virginmediatv">
-    <title>The Woodland Workshop - Surfboard Chair</title>
+<programme start="20260927140000 +0000" stop="20260927160000 +0000" channel="Discovery.virginmediatv">
+    <title>Homestead Rescue - By a Landslide</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Discovery.virginmediatv">
-    <title>The Woodland Workshop - Balls In Space</title>
+<programme start="20260927160000 +0000" stop="20260927180000 +0000" channel="Discovery.virginmediatv">
+    <title>Homestead Rescue - Black Hills Hope</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Discovery.virginmediatv">
-    <title>The Woodland Workshop - Redwood Dragon</title>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Hitler&#039;s Last Stand - Hell in Hoven</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Discovery.virginmediatv">
-    <title>The Woodland Workshop - Firefighting Farmer</title>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Loss of a Legend</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Discovery.virginmediatv">
-    <title>Deadliest Catch - Raw Nerves</title>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Pressure Point</title>
 </programme>
-<programme start="20260925235500 +0000" stop="20260926005500 +0000" channel="National_Geographic.virginmediatv">
-    <title>Life Below Zero: Next Generation - Dead Fall</title>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Deadly Exchange</title>
 </programme>
-<programme start="20260926005500 +0000" stop="20260926012500 +0000" channel="National_Geographic.virginmediatv">
-    <title>Made in a Day - Satellites</title>
-</programme>
-<programme start="20260926012500 +0000" stop="20260926015500 +0000" channel="National_Geographic.virginmediatv">
-    <title>To Catch a Smuggler - Drugs, Guns and Money</title>
-</programme>
-<programme start="20260926015500 +0000" stop="20260926022000 +0000" channel="National_Geographic.virginmediatv">
-    <title>To Catch a Smuggler - Club Drugs and Party People</title>
-</programme>
-<programme start="20260926022000 +0000" stop="20260926024500 +0000" channel="National_Geographic.virginmediatv">
-    <title>Food Factory - Mint Chocolate &amp; Chips</title>
-</programme>
-<programme start="20260926024500 +0000" stop="20260926031000 +0000" channel="National_Geographic.virginmediatv">
-    <title>Food Factory - Peanut Butter Cups &amp; Butterscotch</title>
-</programme>
-<programme start="20260926031000 +0000" stop="20260926033500 +0000" channel="National_Geographic.virginmediatv">
-    <title>Prairie Dog Manor - The Little Rascal</title>
-</programme>
-<programme start="20260926033500 +0000" stop="20260926040000 +0000" channel="National_Geographic.virginmediatv">
-    <title>Prairie Dog Manor - Homeward Bound</title>
-</programme>
-<programme start="20260926040000 +0000" stop="20260926070000 +0000" channel="National_Geographic.virginmediatv">
+<programme start="20260927040000 +0000" stop="20260927070000 +0000" channel="National_Geographic.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="National_Geographic.virginmediatv">
-    <title>Nazi Megastructures - Hitler&#039;s Luftwaffe</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Dead of Winter</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="National_Geographic.virginmediatv">
-    <title>Apocalypse: Hitler Takes on the West - The Trap</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Killer Attitude</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="National_Geographic.virginmediatv">
-    <title>Apocalypse: Hitler Takes on the West - Last Battles</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="National_Geographic.virginmediatv">
-    <title>How the Tudors Lost Their Heads - Anne Boleyn</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="National_Geographic.virginmediatv">
-    <title>Air Crash Investigation - Sioux City Fireball</title>
-</programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="National_Geographic.virginmediatv">
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="National_Geographic.virginmediatv">
     <title>Air Crash Investigation - Deadly Myth</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Snakes in the City - Trailer Park Terror</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Disaster at Dutch Harbor</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>The Incredible Dr. Pol - Llama-Rama Ding-Dong</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - The Death of JFK Jr.</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Yukon Vet - A Hoarse Horse</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="National_Geographic.virginmediatv">
+    <title>Air Crash Investigation - Explosive Proof</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Life Below Zero: Next Generation - The Messenger</title>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Bizarre Animal Friends - The Most Unlikely of All</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926070000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Africa&#039;s Deadliest - Masters of Intimidation</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Africa&#039;s Deadliest - Cut Throat</title>
+</programme>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Yukon Vet - Hold Your Mini Horses</title>
+</programme>
+<programme start="20260927040000 +0000" stop="20260927070000 +0000" channel="Nat_Geo_Wild.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Alaska&#039;s Grizzly Gauntlet - Salmon Slaughterhouse</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Casey and Brutus: Grizzly Encounters - When Grizzlies Attack</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Alaska&#039;s Grizzly Gauntlet - Moose Ambush</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Africa&#039;s Wild Geniuses</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Ice Road Rescue - Stuck Trucks</title>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Seen on Safari - Expect the Unexpected</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Ice Road Rescue - Black Ice</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Seen on Safari - Born to Run</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Ice Road Rescue - Into The Woods</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Heartland Docs, DVM - Lost &amp; Hound</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Wild Arctic: Kingdom of Ice</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Nat_Geo_Wild.virginmediatv">
+    <title>Asia&#039;s Killer Hornets</title>
 </programme>
-<programme start="20260925235500 +0000" stop="20260926002500 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - Weekend at Barry&#039;s</title>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Sky_History.virginmediatv">
+    <title>Storage Hunters - Fishing for Trouble</title>
 </programme>
-<programme start="20260926002500 +0000" stop="20260926005000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - The Jenny, the Baker, the Prosthetics Maker</title>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Sky_History.virginmediatv">
+    <title>Storage Hunters - All Out War</title>
 </programme>
-<programme start="20260926005000 +0000" stop="20260926012000 +0000" channel="Sky_History.virginmediatv">
-    <title>Pawn Stars - Behind the Wheel</title>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Sky_History.virginmediatv">
+    <title>Storage Hunters - Judgment Day</title>
 </programme>
-<programme start="20260926012000 +0000" stop="20260926015000 +0000" channel="Sky_History.virginmediatv">
-    <title>Pawn Stars - Locked and Loaded</title>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Sky_History.virginmediatv">
+    <title>Storage Hunters - Bid or Die</title>
 </programme>
-<programme start="20260926015000 +0000" stop="20260926024000 +0000" channel="Sky_History.virginmediatv">
-    <title>World War II: Witness to War - Final Victory</title>
-</programme>
-<programme start="20260926024000 +0000" stop="20260926032500 +0000" channel="Sky_History.virginmediatv">
-    <title>Rust Valley Restorers - The Family Circus</title>
-</programme>
-<programme start="20260926032500 +0000" stop="20260926041000 +0000" channel="Sky_History.virginmediatv">
-    <title>Rust Valley Restorers - No Reserve</title>
-</programme>
-<programme start="20260926041000 +0000" stop="20260926050000 +0000" channel="Sky_History.virginmediatv">
-    <title>Rust Valley Restorers - Scouts Honour</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_History.virginmediatv">
-    <title>Secrets of Great British Castles - Stirling Castle</title>
-</programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="Sky_History.virginmediatv">
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Sky_History.virginmediatv">
     <title>Storage Hunters - Never a Safe Bet</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="Sky_History.virginmediatv">
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Sky_History.virginmediatv">
     <title>Storage Hunters - Checkmate</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - Indiana Ivy and the Temple of Phlegm</title>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_History.virginmediatv">
+    <title>The Sound and the Fury - 1942-1943</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - Tour de Van Nuys</title>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_History.virginmediatv">
+    <title>The Sound and the Fury - 1944-1945</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - Bo-ZAK That Whip!</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_History.virginmediatv">
+    <title>Storage Hunters - Judgment Day</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - We Don&#039;t Use the S Word Around Here</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_History.virginmediatv">
+    <title>Storage Hunters - Bid or Die</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - Talkin&#039; in Cody</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_History.virginmediatv">
+    <title>Pawn Stars - Darting and Dodging</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="Sky_History.virginmediatv">
-    <title>Storage Wars - Om Sweet Om</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_History.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Burke And Hare</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_History.virginmediatv">
-    <title>Egypt&#039;s Unexplained Files - Building A Superpower</title>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_History.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - 10 Rillington Place</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_History.virginmediatv">
-    <title>Egypt&#039;s Unexplained Files - Death and the After Life</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_History.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Bible John</title>
 </programme>
-<programme start="20260925233000 +0000" stop="20260926001500 +0000" channel="Comedy.virginmediatv">
-    <title>8 Out of 10 Cats - Episode 9</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_History.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Kelso Cochrane</title>
 </programme>
-<programme start="20260926001500 +0000" stop="20260926005000 +0000" channel="Comedy.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_History.virginmediatv">
+    <title>Britain&#039;s Murder Map With Vicky McClure and Jonny Owen - Dr Crippen</title>
+</programme>
+<programme start="20260926235000 +0000" stop="20260927002000 +0000" channel="Comedy.virginmediatv">
     <title>8 Out of 10 Cats - Best Bits</title>
 </programme>
-<programme start="20260926005000 +0000" stop="20260926011500 +0000" channel="Comedy.virginmediatv">
-    <title>Whose Line Is It Anyway? USA - Jeff Davis 16</title>
+<programme start="20260927002000 +0000" stop="20260927005000 +0000" channel="Comedy.virginmediatv">
+    <title>Whose Line Is It Anyway? USA - Danielle Panabaker / Gary Anthony</title>
 </programme>
-<programme start="20260926011500 +0000" stop="20260926014500 +0000" channel="Comedy.virginmediatv">
-    <title>Whose Line Is It Anyway? USA - Gary Anthony Williams 11</title>
+<programme start="20260927005000 +0000" stop="20260927011500 +0000" channel="Comedy.virginmediatv">
+    <title>Comedy Central Presents - Amy Schumer</title>
 </programme>
-<programme start="20260926014500 +0000" stop="20260926023000 +0000" channel="Comedy.virginmediatv">
-    <title>Michael McIntyre&#039;s Big Show - Episode 5</title>
+<programme start="20260927011500 +0000" stop="20260927014500 +0000" channel="Comedy.virginmediatv">
+    <title>Comedy Central Presents - Jeff Dunham</title>
 </programme>
-<programme start="20260926023000 +0000" stop="20260926025000 +0000" channel="Comedy.virginmediatv">
-    <title>Key &amp; Peele - Sexy Vampires</title>
+<programme start="20260927014500 +0000" stop="20260927023000 +0000" channel="Comedy.virginmediatv">
+    <title>Dara O Briain: Craic Dealer</title>
 </programme>
-<programme start="20260926025000 +0000" stop="20260926031500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show - Merritt Wever</title>
+<programme start="20260927023000 +0000" stop="20260927031500 +0000" channel="Comedy.virginmediatv">
+    <title>Michael McIntyre: Showtime</title>
 </programme>
-<programme start="20260926031500 +0000" stop="20260926034000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Routine</title>
+<programme start="20260927031500 +0000" stop="20260927033500 +0000" channel="Comedy.virginmediatv">
+    <title>Stupid Central - Episode 9</title>
 </programme>
-<programme start="20260926034000 +0000" stop="20260926040000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Apothecary Table</title>
+<programme start="20260927033500 +0000" stop="20260927040000 +0000" channel="Comedy.virginmediatv">
+    <title>Stupid Central - Episode 10</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Comedy.virginmediatv">
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Comedy.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Comedy.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Comedy.virginmediatv">
     <title>Cruise TV with LoveitBookit</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Comedy.virginmediatv">
-    <title>Michael McIntyre&#039;s Big Show - Episode 5</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One With the Lesbian Wedding</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With Two Parts</title>
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With All the Poker</title>
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One After the Super Bowl</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One Where the Monkey Gets Away</title>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One With the Prom Video</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926145500 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Evil Orthodontist</title>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One Where Ross and Rachel ... You Know</title>
 </programme>
-<programme start="20260926145500 +0000" stop="20260926152500 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Fake Monica</title>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One Where Joey Moves Out</title>
 </programme>
-<programme start="20260926152500 +0000" stop="20260926155500 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Ick Factor</title>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One Where Eddie Moves In</title>
 </programme>
-<programme start="20260926155500 +0000" stop="20260926162000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Birth</title>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One Where Dr Ramoray Dies</title>
 </programme>
-<programme start="20260926162000 +0000" stop="20260926165000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One Where Rachel Finds Out</title>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One Where Eddie Won&#039;t Go</title>
 </programme>
-<programme start="20260926165000 +0000" stop="20260926172000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With Ross&#039;s New Girlfriend</title>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Comedy.virginmediatv">
+    <title>Friends - The One Where Old Yeller Dies</title>
 </programme>
-<programme start="20260926172000 +0000" stop="20260926175000 +0000" channel="Comedy.virginmediatv">
-    <title>Friends - The One With the Breast Milk</title>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Comedy.virginmediatv">
+    <title>Mr Bean - Back to School, Mr. Bean</title>
 </programme>
-<programme start="20260926175000 +0000" stop="20260926200000 +0000" channel="Comedy.virginmediatv">
-    <title>Coming to America</title>
+<programme start="20260927173000 +0000" stop="20260927180500 +0000" channel="Comedy.virginmediatv">
+    <title>Mr Bean - Tee Off, Mr. Bean</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Primeval - In The Good Old Days</title>
+<programme start="20260926233000 +0000" stop="20260927002000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>The Walking Dead - Bounty</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Fantasy Island - Welcome to the Snow Globe Part Two</title>
+<programme start="20260927002000 +0000" stop="20260927011000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>The Walking Dead - Guardians</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>The Walking Dead - The Calm Before</title>
+<programme start="20260927011000 +0000" stop="20260927021000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>The Walking Dead - Chokepoint</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Most Haunted - Dalston Hall</title>
+<programme start="20260927021000 +0000" stop="20260927031000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>The Walking Dead - Scars</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Most Haunted - Somerleyton Hall, Suffolk</title>
+<programme start="20260927031000 +0000" stop="20260927040000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Most Haunted - Annesley Hall</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Most Haunted - The Chough Hotel</title>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Most Haunted - Ghost House</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Star Trek: Deep Space Nine - Emissary</title>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Most Haunted - The Black Swan Hotel</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Star Trek: Deep Space Nine - Past Prologue</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Stargate SG-1 - Ethon</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Star Trek: Deep Space Nine - A Man Alone</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Stargate SG-1 - Off the Grid</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Star Trek: Voyager - Homestead</title>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Stargate SG-1 - The Scourge</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Star Trek: Voyager - Renaissance Man</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Stargate Atlantis - Identity</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Sci-Fi.virginmediatv">
-    <title>Star Trek: Voyager - Endgame</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Stargate Atlantis - Vegas</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Africa&#039;s Wild Horizons - Africa&#039;s Great Oasis - The Okavango</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Sci-Fi.virginmediatv">
+    <title>Stargate Atlantis - Enemy at the Gate</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Becoming Orangutan - Growing Pains</title>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Planet Shark - Ultimate Predator</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Malawi Wildlife Rescue - Big Buck Chase</title>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>High as an Animal</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Great Blue Wild - Cozumel</title>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Shadowlands - Bound by Blood</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Hope for Wildlife - Frozen Hope</title>
+<programme start="20260927030000 +0000" stop="20260927040000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Shadowlands - Life in Dark Water</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Strange Creatures - Stinkers</title>
+<programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Shadowlands - Age of Independence</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Strange Creatures - Winged Weirdos</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Baby Animals - Lil&#039; Hunters</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Violent Earth - Hurricane</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Baby Animals - Family Ties</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Deep Dive Australia - Tropical Shores</title>
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>The Secret Life of the Hermit Crab - Episode 1</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Deep Dive Australia - The Cool South</title>
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Moon: Nature&#039;s Secret Force - Dining By Moonlight</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Deep Dive Australia - The Wild West</title>
+<programme start="20260927140000 +0000" stop="20260927150000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Moon: Nature&#039;s Secret Force - Moonlit Romance</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>Attenborough&#039;s Global Adventure - Episode 1</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Moon: Nature&#039;s Secret Force - Guided By The Moon</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="Sky_Nature.virginmediatv">
-    <title>David Attenborough&#039;s Global Adventure: Home Planet</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>Attenborough&#039;s Journey</title>
 </programme>
-<programme start="20260925234500 +0000" stop="20260926004500 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Dart Kings - Eric Bristow</title>
+<programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="Sky_Nature.virginmediatv">
+    <title>High as an Animal</title>
 </programme>
-<programme start="20260926004500 +0000" stop="20260926014500 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Dart Kings - Jocky Wilson</title>
+<programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>Chimp Crazy - Monkey Love</title>
 </programme>
-<programme start="20260926014500 +0000" stop="20260926024500 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Dart Kings - Phil Taylor</title>
+<programme start="20260927010000 +0000" stop="20260927020000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>Chimp Crazy - Gone Ape</title>
 </programme>
-<programme start="20260926024500 +0000" stop="20260926040000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Adam Hills: Foot Fault</title>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>Chimp Crazy - Head Shot</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Discovering Film - William Holden</title>
+<programme start="20260927030000 +0000" stop="20260927040500 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>Chimp Crazy - Fantasy Island</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Discovering Film - Joan Crawford</title>
+<programme start="20260927040500 +0000" stop="20260927050000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>The Directors - Rob Reiner</title>
 </programme>
-<programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Terry Venables: A Man Can Dream</title>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>Discovering Film - Olivia De Haviland</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926145000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Steve McQueen: The Lost Movie</title>
+<programme start="20260927120000 +0000" stop="20260927135000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>I Am Paul Walker</title>
 </programme>
-<programme start="20260926145000 +0000" stop="20260926153000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>The Great Horsemeat Scandal</title>
+<programme start="20260927135000 +0000" stop="20260927145000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>The Alien Autopsy Scandal - The Cameraman</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926171500 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>I Am Richard Pryor</title>
+<programme start="20260927145000 +0000" stop="20260927155000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>The Alien Autopsy Scandal - Fact Or Fiction?</title>
 </programme>
-<programme start="20260926171500 +0000" stop="20260926190000 +0000" channel="Sky_Documentaries.virginmediatv">
-    <title>Gene Wilder</title>
+<programme start="20260927155000 +0000" stop="20260927165000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>The Alien Autopsy Scandal - Are We Alone?</title>
 </programme>
-<programme start="20260925230600 +0000" stop="20260926000500 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927165000 +0000" stop="20260927182000 +0000" channel="Sky_Documentaries.virginmediatv">
+    <title>The Salt Path Scandal</title>
+</programme>
+<programme start="20260926230600 +0000" stop="20260927000500 +0000" channel="DCTV.virginmediatv">
     <title>Democracy Now!</title>
 </programme>
-<programme start="20260926000500 +0000" stop="20260926010500 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927000500 +0000" stop="20260927010500 +0000" channel="DCTV.virginmediatv">
     <title>DCTV - Supporting Irish Music</title>
 </programme>
-<programme start="20260926010500 +0000" stop="20260926012100 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927010500 +0000" stop="20260927012100 +0000" channel="DCTV.virginmediatv">
     <title>Rade: Recording Is Winning</title>
 </programme>
-<programme start="20260926012100 +0000" stop="20260926012300 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927012100 +0000" stop="20260927012300 +0000" channel="DCTV.virginmediatv">
     <title>DCTV interviews Amy Goodman and Tia Lessin</title>
 </programme>
-<programme start="20260926012300 +0000" stop="20260926012700 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927012300 +0000" stop="20260927012700 +0000" channel="DCTV.virginmediatv">
     <title>Dublin Archive_ Justice for Yves</title>
 </programme>
-<programme start="20260926012700 +0000" stop="20260926013200 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927012700 +0000" stop="20260927013200 +0000" channel="DCTV.virginmediatv">
     <title>Dubliners Fight Transport Fare Hikes</title>
 </programme>
-<programme start="20260926013200 +0000" stop="20260926013500 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927013200 +0000" stop="20260927013500 +0000" channel="DCTV.virginmediatv">
     <title>Inchicore Library Reopens</title>
 </programme>
-<programme start="20260926013500 +0000" stop="20260926020700 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927013500 +0000" stop="20260927020700 +0000" channel="DCTV.virginmediatv">
     <title>Ignite - Silent Movies</title>
 </programme>
-<programme start="20260926020700 +0000" stop="20260926023300 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927020700 +0000" stop="20260927023300 +0000" channel="DCTV.virginmediatv">
     <title>The Parlour</title>
 </programme>
-<programme start="20260926023300 +0000" stop="20260926034600 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927023300 +0000" stop="20260927034600 +0000" channel="DCTV.virginmediatv">
     <title>Two Or Three Things About Activism</title>
 </programme>
-<programme start="20260926034600 +0000" stop="20260926034900 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927034600 +0000" stop="20260927034900 +0000" channel="DCTV.virginmediatv">
     <title>Tapestry - Before Jim Larkin</title>
 </programme>
-<programme start="20260926034900 +0000" stop="20260926050000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927034900 +0000" stop="20260927050000 +0000" channel="DCTV.virginmediatv">
     <title>Science Investigators - Forensics</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926055900 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927055900 +0000" channel="DCTV.virginmediatv">
     <title>Democracy Now!</title>
 </programme>
-<programme start="20260926055900 +0000" stop="20260926062400 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927055900 +0000" stop="20260927062400 +0000" channel="DCTV.virginmediatv">
     <title>Read Write Now - A Family Affair</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926125900 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927120000 +0000" stop="20260927125900 +0000" channel="DCTV.virginmediatv">
     <title>Democracy Now!</title>
 </programme>
-<programme start="20260926125900 +0000" stop="20260926130100 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927125900 +0000" stop="20260927130100 +0000" channel="DCTV.virginmediatv">
     <title>DCTV interviews Amy Goodman and Tia Lessin</title>
 </programme>
-<programme start="20260926130100 +0000" stop="20260926130500 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927130100 +0000" stop="20260927130500 +0000" channel="DCTV.virginmediatv">
     <title>Dublin Archive_ Justice for Yves</title>
 </programme>
-<programme start="20260926130500 +0000" stop="20260926131000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927130500 +0000" stop="20260927131000 +0000" channel="DCTV.virginmediatv">
     <title>Dubliners Fight Transport Fare Hikes</title>
 </programme>
-<programme start="20260926131000 +0000" stop="20260926131300 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927131000 +0000" stop="20260927131300 +0000" channel="DCTV.virginmediatv">
     <title>Inchicore Library Reopens</title>
 </programme>
-<programme start="20260926131300 +0000" stop="20260926132800 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927131300 +0000" stop="20260927132800 +0000" channel="DCTV.virginmediatv">
     <title>Rade: Recording Is Winning</title>
 </programme>
-<programme start="20260926132800 +0000" stop="20260926140000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927132800 +0000" stop="20260927140000 +0000" channel="DCTV.virginmediatv">
     <title>Ignite - Silent Movies</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926151300 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927140000 +0000" stop="20260927151300 +0000" channel="DCTV.virginmediatv">
     <title>Two Or Three Things About Activism</title>
 </programme>
-<programme start="20260926151300 +0000" stop="20260926154300 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927151300 +0000" stop="20260927154300 +0000" channel="DCTV.virginmediatv">
     <title>Romancing Ireland - The Spaniard</title>
 </programme>
-<programme start="20260926154300 +0000" stop="20260926160300 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927154300 +0000" stop="20260927160300 +0000" channel="DCTV.virginmediatv">
     <title>Home</title>
 </programme>
-<programme start="20260926160300 +0000" stop="20260926164800 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927160300 +0000" stop="20260927164800 +0000" channel="DCTV.virginmediatv">
     <title>Engage TV - Episode 3</title>
 </programme>
-<programme start="20260926164800 +0000" stop="20260926170000 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927164800 +0000" stop="20260927170000 +0000" channel="DCTV.virginmediatv">
     <title>Rade: the Girl In the Window</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926175900 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927175900 +0000" channel="DCTV.virginmediatv">
     <title>Democracy Now!</title>
 </programme>
-<programme start="20260926175900 +0000" stop="20260926185900 +0000" channel="DCTV.virginmediatv">
+<programme start="20260927175900 +0000" stop="20260927185900 +0000" channel="DCTV.virginmediatv">
     <title>DCTV - Supporting Irish Music</title>
 </programme>
-<programme start="20260925210000 +0000" stop="20260926010000 +0000" channel="CCTv.virginmediatv">
+<programme start="20260926210000 +0000" stop="20260927010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926050000 +0000" channel="CCTv.virginmediatv">
+<programme start="20260927010000 +0000" stop="20260927050000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="CCTv.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="CCTv.virginmediatv">
+<programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="CCTv.virginmediatv">
+<programme start="20260927130000 +0000" stop="20260927170000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="CCTv.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927210000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="EWTN.virginmediatv">
-    <title>EWTN News In-Depth</title>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="EWTN.virginmediatv">
+    <title>Web of Faith 2.0 - Participating in the Mass</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="EWTN.virginmediatv">
-    <title>The Domestic Church - Baptism and the Family</title>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="EWTN.virginmediatv">
+    <title>The Choices We Face - The Hour Of Testing</title>
 </programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="EWTN.virginmediatv">
-    <title>Catholic Canada - Faith In Action Across Canada</title>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="EWTN.virginmediatv">
+    <title>Forgotten Heritage: Europe and Her Saints - St. Dominic: Reaching the Gospel</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="EWTN.virginmediatv">
-    <title>Living Right With Dr. Ray - Paths to Faith</title>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="EWTN.virginmediatv">
+    <title>My Lourdes Faith Journey</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="EWTN.virginmediatv">
-    <title>The Quest for Shakespeare - The Lessons of Lear</title>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="EWTN.virginmediatv">
+    <title>Fathers for Good - Love Without Measure</title>
 </programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="EWTN.virginmediatv">
-    <title>The Spiritual Legacy of Archbishop Fulton J. Sheen - The Blessed Virgin Mary Pt. 1</title>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="EWTN.virginmediatv">
+    <title>The Creed - Holy Spirit, Life-Giver, Lord</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926042000 +0000" channel="EWTN.virginmediatv">
-    <title>The Holy Land Rosary - Joyful Mysteries</title>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="EWTN.virginmediatv">
+    <title>Cross Training - Outdoor Life</title>
 </programme>
-<programme start="20260926042000 +0000" stop="20260926043000 +0000" channel="EWTN.virginmediatv">
-    <title>The Litany of the Blessed Virgin Mary</title>
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="EWTN.virginmediatv">
+    <title>The Spiritual Legacy of Archbishop Fulton J. Sheen - The Blessed Virgin Mary Pt. 2</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="EWTN.virginmediatv">
-    <title>Mother&#039;s Day With Bishop Fulton J. Sheen</title>
+<programme start="20260927040000 +0000" stop="20260927041800 +0000" channel="EWTN.virginmediatv">
+    <title>The Holy Land Rosary - Glorious Mysteries</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="EWTN.virginmediatv">
-    <title>Mother Angelica Live Classics - St. Matthew</title>
+<programme start="20260927041800 +0000" stop="20260927043000 +0000" channel="EWTN.virginmediatv">
+    <title>The Litany of Saint Joseph</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="EWTN.virginmediatv">
-    <title>Daily Mass</title>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="EWTN.virginmediatv">
+    <title>Padre Pio, the Priest Who Bore the Wounds of Christ - Padre Pio: Healer of the Sick</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="EWTN.virginmediatv">
-    <title>Fathers for Good - Care For The Poor</title>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="EWTN.virginmediatv">
+    <title>Saving San Miguel Mission: A Musical Journey of Faith</title>
 </programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="EWTN.virginmediatv">
-    <title>Theology of the Body for Teens</title>
+<programme start="20260927120000 +0000" stop="20260927132000 +0000" channel="EWTN.virginmediatv">
+    <title>Sunday Mass</title>
 </programme>
-<programme start="20260926140000 +0000" stop="20260926142000 +0000" channel="EWTN.virginmediatv">
-    <title>The Chaplet of Divine Mercy</title>
+<programme start="20260927132000 +0000" stop="20260927133000 +0000" channel="EWTN.virginmediatv">
+    <title>The Litany of the Sacred Heart of Jesus</title>
 </programme>
-<programme start="20260926142000 +0000" stop="20260926143000 +0000" channel="EWTN.virginmediatv">
-    <title>Live Adoration From EWTN Chapel - Devotion Special</title>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="EWTN.virginmediatv">
+    <title>Grab Your Catechism with Fr. Connor - The Sacrament of Penance</title>
 </programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="EWTN.virginmediatv">
-    <title>The Church Universal - World Apostolate of Fatima and the Youth</title>
+<programme start="20260927140000 +0000" stop="20260927151500 +0000" channel="EWTN.virginmediatv">
+    <title>Holy Mass From Knock</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="EWTN.virginmediatv">
-    <title>Catholics, the Bible &amp; the Early Church - Catholics &amp; Sexual Morality</title>
+<programme start="20260927151500 +0000" stop="20260927153000 +0000" channel="EWTN.virginmediatv">
+    <title>Into the Breach: the Dignity of Work - God&#039;s Mission For Man</title>
 </programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="EWTN.virginmediatv">
-    <title>Life on the Rock - Dr. Brett Salkeld, Pt. 2</title>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="EWTN.virginmediatv">
+    <title>Turley Talks - Sir James Macmillan</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="EWTN.virginmediatv">
-    <title>At Home With Jim and Joy - Kayce Maddux</title>
+<programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="EWTN.virginmediatv">
+    <title>The World Over Live</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="EWTN.virginmediatv">
-    <title>Dominican Sisters of Mary, Mother of the Eucharist - Mind and Heart: Build a Healthy Mind and Soul</title>
+<programme start="20260927170000 +0000" stop="20260927182000 +0000" channel="EWTN.virginmediatv">
+    <title>Sunday Mass</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926180000 +0000" channel="EWTN.virginmediatv">
-    <title>Daily Mass</title>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Joyce Meyer Enjoying Everyday Life</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Grace &amp; Truth With Duane Sheriff</title>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Water for life</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Touching the World</title>
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Texas Rein</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Compassion to Action</title>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Texas Rein</title>
 </programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Compassion to Action</title>
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Texas Rein</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Compassion to Action</title>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Texas Rein</title>
 </programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Compassion to Action</title>
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Amplified</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Door of Faith with James Corbett</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="The_God_Channel.virginmediatv">
+<programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="The_God_Channel.virginmediatv">
     <title>God TV</title>
 </programme>
-<programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Through the Bible - Andrew Wommack</title>
+<programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>C3 Presence Conference</title>
 </programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Desire of All Nations</title>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>C3 Presence Conference</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Jerusalem Dateline</title>
+<programme start="20260927050000 +0000" stop="20260927053000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>CfAN TV</title>
 </programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>The Cry with Betty King</title>
+<programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>God TV</title>
 </programme>
-<programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Order My Steps</title>
+<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>In Touch: Charles Stanley</title>
 </programme>
-<programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>ORU Chapel</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>ORU Chapel</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Desire of All Nations</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Billy Graham Classic Crusades</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Katherine Ruonala</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>The Lord&#039;s Challenge</title>
-</programme>
-<programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Phaneroo Ministries</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="The_God_Channel.virginmediatv">
-    <title>Tree of Life Church</title>
-</programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="The_God_Channel.virginmediatv">
+<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="The_God_Channel.virginmediatv">
     <title>Grace &amp; Faith Conference</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="The_God_Channel.virginmediatv">
+<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="The_God_Channel.virginmediatv">
     <title>Grace &amp; Faith Conference</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="The_God_Channel.virginmediatv">
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Portions Podcast</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>CITY TV</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Counsel Culture With Bishop O&#039;Neal</title>
+</programme>
+<programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>God TV</title>
+</programme>
+<programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>One Gospel with Johan Toet</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Allen Jackson Ministries</title>
+</programme>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="The_God_Channel.virginmediatv">
     <title>John Kilpatrick Ministries</title>
 </programme>
-<programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="Zee_TV.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>John Kilpatrick Ministries</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="The_God_Channel.virginmediatv">
+    <title>Mark Chironna</title>
+</programme>
+<programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="Zee_TV.virginmediatv">
     <title>Dilo Ki Ram Leela - Episode 31</title>
 </programme>
-<programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Humari Radha - Episode 50</title>
+<programme start="20260927003000 +0000" stop="20260927010000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Humari Radha - Episode 49</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 102</title>
-</programme>
-<programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri - Episode 316</title>
-</programme>
-<programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Vasudha - Episode 334</title>
-</programme>
-<programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 81</title>
-</programme>
-<programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 364</title>
-</programme>
-<programme start="20260926033000 +0000" stop="20260926043000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas - Episode 254</title>
-</programme>
-<programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 81</title>
-</programme>
-<programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 364</title>
-</programme>
-<programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Jagadhatri - Episode 316</title>
-</programme>
-<programme start="20260926100000 +0000" stop="20260926130000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Azaad</title>
-</programme>
-<programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 81</title>
-</programme>
-<programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 364</title>
-</programme>
-<programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 102</title>
-</programme>
-<programme start="20260926143000 +0000" stop="20260926150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Dilo Ki Ram Leela - Episode 31</title>
-</programme>
-<programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas - Episode 255</title>
-</programme>
-<programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="Zee_TV.virginmediatv">
+<programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Episode 103</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926170000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Out and About - Episode 1194</title>
+<programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Jagadhatri - Episode 315</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="Zee_TV.virginmediatv">
+<programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Vasudha - Episode 691</title>
+</programme>
+<programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tum Se Tum Tak - Episode 444</title>
 </programme>
-<programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="Zee_TV.virginmediatv">
+<programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Ganga Mai Ki Betiyaan - Episode 365</title>
+</programme>
+<programme start="20260927033000 +0000" stop="20260927043000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Lakshmi Nivas - Episode 255</title>
+</programme>
+<programme start="20260927043000 +0000" stop="20260927050000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Tum Se Tum Tak - Episode 444</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Sach- Subhash Chandra Show - Episode 24</title>
+</programme>
+<programme start="20260927100000 +0000" stop="20260927133000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Andaz Apna Apna</title>
+</programme>
+<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Ganga Mai Ki Betiyaan - Episode 365</title>
+</programme>
+<programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Tu Hi Re Dil Mein - Episode 103</title>
+</programme>
+<programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="Zee_TV.virginmediatv">
     <title>Dilo Ki Ram Leela - Episode 31</title>
 </programme>
-<programme start="20260925234700 +0000" stop="20260926003800 +0000" channel="TV5.virginmediatv">
-    <title>Au bout de l&#039;enquête, la fin du crime parfait ? - Mysterious disappearances in Mourmelon</title>
+<programme start="20260927150000 +0000" stop="20260927160000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Lakshmi Nivas - Episode 256</title>
 </programme>
-<programme start="20260926003800 +0000" stop="20260926013100 +0000" channel="TV5.virginmediatv">
-    <title>Infrarouge le débat RTS</title>
+<programme start="20260927160000 +0000" stop="20260927163000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Tu Hi Re Dil Mein - Episode 104</title>
 </programme>
-<programme start="20260926013100 +0000" stop="20260926020000 +0000" channel="TV5.virginmediatv">
-    <title>Papilles - Stéphane Carbone&#039;s Calvados</title>
+<programme start="20260927163000 +0000" stop="20260927170000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Out and About - Episode 1195</title>
 </programme>
-<programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="TV5.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Tum Se Tum Tak - Episode 445</title>
+</programme>
+<programme start="20260927173000 +0000" stop="20260927180000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Dilo Ki Ram Leela - Episode 31</title>
+</programme>
+<programme start="20260926235300 +0000" stop="20260927004200 +0000" channel="TV5.virginmediatv">
+    <title>La vallée fracturée - Episode 5</title>
+</programme>
+<programme start="20260927004200 +0000" stop="20260927013200 +0000" channel="TV5.virginmediatv">
+    <title>La vallée fracturée - Episode 6</title>
+</programme>
+<programme start="20260927013200 +0000" stop="20260927020000 +0000" channel="TV5.virginmediatv">
+    <title>Objectif Monde L&#039;hebdo - Musique : mon IA préférée</title>
+</programme>
+<programme start="20260927020000 +0000" stop="20260927030000 +0000" channel="TV5.virginmediatv">
     <title>Le 23h</title>
 </programme>
-<programme start="20260926030000 +0000" stop="20260926032200 +0000" channel="TV5.virginmediatv">
-    <title>Un si grand soleil - Episode 202</title>
+<programme start="20260927030000 +0000" stop="20260927032200 +0000" channel="TV5.virginmediatv">
+    <title>Un si grand soleil - Episode 203</title>
 </programme>
-<programme start="20260926032200 +0000" stop="20260926033100 +0000" channel="TV5.virginmediatv">
+<programme start="20260927032200 +0000" stop="20260927033100 +0000" channel="TV5.virginmediatv">
     <title>Les belges histoires</title>
 </programme>
-<programme start="20260926033100 +0000" stop="20260926035200 +0000" channel="TV5.virginmediatv">
-    <title>Le match dans le match - Episode 121</title>
+<programme start="20260927033100 +0000" stop="20260927035200 +0000" channel="TV5.virginmediatv">
+    <title>Population d&#039;Afrique - Afrique : la détresse des communautés locales derrière l&#039;exploitation illégale des mines</title>
 </programme>
-<programme start="20260926035200 +0000" stop="20260926035700 +0000" channel="TV5.virginmediatv">
+<programme start="20260927035200 +0000" stop="20260927035700 +0000" channel="TV5.virginmediatv">
     <title>Tarmac Comedy</title>
 </programme>
-<programme start="20260926035700 +0000" stop="20260926040600 +0000" channel="TV5.virginmediatv">
-    <title>Tarmac Comedy - Episode 20</title>
+<programme start="20260927035700 +0000" stop="20260927040500 +0000" channel="TV5.virginmediatv">
+    <title>Tarmac Comedy - Episode 21</title>
 </programme>
-<programme start="20260926040600 +0000" stop="20260926043200 +0000" channel="TV5.virginmediatv">
-    <title>À bon entendeur - ABE sonde les aspects les plus divers du quotidien des ménages</title>
+<programme start="20260927040500 +0000" stop="20260927043300 +0000" channel="TV5.virginmediatv">
+    <title>Wari</title>
 </programme>
-<programme start="20260926043200 +0000" stop="20260926050100 +0000" channel="TV5.virginmediatv">
-    <title>Tendance XXI - Episode 17</title>
+<programme start="20260927043300 +0000" stop="20260927050000 +0000" channel="TV5.virginmediatv">
+    <title>Mediterraneo</title>
 </programme>
-<programme start="20260926050100 +0000" stop="20260926052500 +0000" channel="TV5.virginmediatv">
-    <title>Géopolitis - États-Unis - Europe, meilleurs ennemis?</title>
+<programme start="20260927050000 +0000" stop="20260927054400 +0000" channel="TV5.virginmediatv">
+    <title>Savourer</title>
 </programme>
-<programme start="20260926052500 +0000" stop="20260926052800 +0000" channel="TV5.virginmediatv">
-    <title>Klass</title>
+<programme start="20260927054400 +0000" stop="20260927055700 +0000" channel="TV5.virginmediatv">
+    <title>Château ! - Ussé - Grand-Pré</title>
 </programme>
-<programme start="20260926052800 +0000" stop="20260926053200 +0000" channel="TV5.virginmediatv">
-    <title>Klass - Pourquoi les smartphones coûtent si cher ?</title>
+<programme start="20260927055700 +0000" stop="20260927065300 +0000" channel="TV5.virginmediatv">
+    <title>Ça va l&#039;faire ! - Les meilleurs moments</title>
 </programme>
-<programme start="20260926053200 +0000" stop="20260926055900 +0000" channel="TV5.virginmediatv">
-    <title>Nous, les Européens</title>
+<programme start="20260927115900 +0000" stop="20260927133000 +0000" channel="TV5.virginmediatv">
+    <title>Échappées belles - Week-end à Prague</title>
 </programme>
-<programme start="20260926055900 +0000" stop="20260926065200 +0000" channel="TV5.virginmediatv">
-    <title>Les 100 lieux qu&#039;il faut voir</title>
+<programme start="20260927133000 +0000" stop="20260927135800 +0000" channel="TV5.virginmediatv">
+    <title>Top 14 rugby le mag</title>
 </programme>
-<programme start="20260926113000 +0000" stop="20260926120300 +0000" channel="TV5.virginmediatv">
-    <title>Le Journal de la RTBF</title>
+<programme start="20260927135800 +0000" stop="20260927142100 +0000" channel="TV5.virginmediatv">
+    <title>Isack Hadjar et Sophie Adenot : de la piste aux étoiles</title>
 </programme>
-<programme start="20260926120300 +0000" stop="20260926135900 +0000" channel="TV5.virginmediatv">
-    <title>Des racines &amp; des ailes - The Flavour of the Basque Country</title>
+<programme start="20260927142100 +0000" stop="20260927142700 +0000" channel="TV5.virginmediatv">
+    <title>Podium</title>
 </programme>
-<programme start="20260926135900 +0000" stop="20260926142700 +0000" channel="TV5.virginmediatv">
-    <title>Château ! - Candé - Montpoupon</title>
-</programme>
-<programme start="20260926142700 +0000" stop="20260926150000 +0000" channel="TV5.virginmediatv">
+<programme start="20260927142700 +0000" stop="20260927150000 +0000" channel="TV5.virginmediatv">
     <title>Questions pour un champion</title>
 </programme>
-<programme start="20260926150000 +0000" stop="20260926155300 +0000" channel="TV5.virginmediatv">
-    <title>Les 100 lieux qu&#039;il faut voir</title>
+<programme start="20260927150000 +0000" stop="20260927154100 +0000" channel="TV5.virginmediatv">
+    <title>Franc jeu</title>
 </programme>
-<programme start="20260926155300 +0000" stop="20260926160000 +0000" channel="TV5.virginmediatv">
-    <title>Bouffe d&#039;air frais - Repas récup&#039; avec vue</title>
+<programme start="20260927154100 +0000" stop="20260927155400 +0000" channel="TV5.virginmediatv">
+    <title>Le dessous des cartes</title>
 </programme>
-<programme start="20260926160000 +0000" stop="20260926162300 +0000" channel="TV5.virginmediatv">
+<programme start="20260927155400 +0000" stop="20260927160000 +0000" channel="TV5.virginmediatv">
+    <title>Bouffe d&#039;air frais - Poulet curry au sommet</title>
+</programme>
+<programme start="20260927160000 +0000" stop="20260927162700 +0000" channel="TV5.virginmediatv">
     <title>64&#039; actu</title>
 </programme>
-<programme start="20260926162300 +0000" stop="20260926162700 +0000" channel="TV5.virginmediatv">
-    <title>Terriennes - Episode 3</title>
-</programme>
-<programme start="20260926162700 +0000" stop="20260926163000 +0000" channel="TV5.virginmediatv">
+<programme start="20260927162700 +0000" stop="20260927163000 +0000" channel="TV5.virginmediatv">
     <title>Meteo</title>
 </programme>
-<programme start="20260926163000 +0000" stop="20260926165300 +0000" channel="TV5.virginmediatv">
+<programme start="20260927163000 +0000" stop="20260927165300 +0000" channel="TV5.virginmediatv">
     <title>64&#039; débat</title>
 </programme>
-<programme start="20260926165300 +0000" stop="20260926170700 +0000" channel="TV5.virginmediatv">
-    <title>Parlons éco</title>
+<programme start="20260927165300 +0000" stop="20260927170100 +0000" channel="TV5.virginmediatv">
+    <title>L&#039;invité</title>
 </programme>
-<programme start="20260926170700 +0000" stop="20260926173600 +0000" channel="TV5.virginmediatv">
-    <title>Papilles - Paris-Nice avec Thierry Marx</title>
+<programme start="20260927170100 +0000" stop="20260927180000 +0000" channel="TV5.virginmediatv">
+    <title>Les héros du patrimoine - The Heroes Celebrating Their Heritage</title>
 </programme>
-<programme start="20260926173600 +0000" stop="20260926180300 +0000" channel="TV5.virginmediatv">
-    <title>Rassemblance - Ali Akbar (Pakistan)</title>
-</programme>
-<programme start="20260925210000 +0000" stop="20260926010000 +0000" channel="PPV_HD.virginmediatv">
+<programme start="20260926210000 +0000" stop="20260927010000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
 </programme>
-<programme start="20260926010000 +0000" stop="20260926050000 +0000" channel="PPV_HD.virginmediatv">
+<programme start="20260927010000 +0000" stop="20260927050000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
 </programme>
-<programme start="20260926050000 +0000" stop="20260926090000 +0000" channel="PPV_HD.virginmediatv">
+<programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
 </programme>
-<programme start="20260926090000 +0000" stop="20260926130000 +0000" channel="PPV_HD.virginmediatv">
+<programme start="20260927090000 +0000" stop="20260927130000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
 </programme>
-<programme start="20260926130000 +0000" stop="20260926170000 +0000" channel="PPV_HD.virginmediatv">
+<programme start="20260927130000 +0000" stop="20260927170000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
 </programme>
-<programme start="20260926170000 +0000" stop="20260926210000 +0000" channel="PPV_HD.virginmediatv">
+<programme start="20260927170000 +0000" stop="20260927210000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
 </programme>

@@ -722,12 +722,12 @@
         <title>No programme available now. Next broadcast on 28th September, Monday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20260926160000 +0000" stop="20260927090000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 27th September, Sunday 5pm. Singapore Tennis Open 2026: Women’s Singles Final</title>
+        <title>No Programme available now. Next Broadcast on 27th September, Sunday 5pm. Singapore Tennis Open 2026: Women’s Singles Final - Leylah Fernandez CAN vs Talia Gibson AUS</title>
     </programme>
-    <programme start="20260927090000 +0000" stop="20260927110000 +0000" channel="Live 2.mewatch">
-        <title>Singapore Tennis Open 2026: Women’s Singles Final</title>
+    <programme start="20260927090000 +0000" stop="20260927113000 +0000" channel="Live 2.mewatch">
+        <title>Singapore Tennis Open 2026: Women’s Singles Final - Leylah Fernandez CAN vs Talia Gibson AUS</title>
     </programme>
-    <programme start="20260927110000 +0000" stop="20260927160000 +0000" channel="Live 2.mewatch">
+    <programme start="20260927113000 +0000" stop="20260927160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
     <programme start="20260927160000 +0000" stop="20260928160000 +0000" channel="Live 2.mewatch">
