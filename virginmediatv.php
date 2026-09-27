@@ -2224,17 +2224,11 @@
 <programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Talking Business</title>
 </programme>
-<programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
-<programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Travel Show - How To Eat Like An Italian</title>
-</programme>
-<programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now</title>
 </programme>
 <programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -5653,7 +5647,10 @@
 <programme start="20260926175800 +0000" stop="20260927015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260927015800 +0000" stop="20260927060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260927015800 +0000" stop="20260927050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260927050000 +0000" stop="20260927060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="CBBC.virginmediatv">
