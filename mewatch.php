@@ -83,7 +83,7 @@
         <title>Diving - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Synchronised 3m Springboard Final</title>
     </programme>
     <programme start="20260927070000 +0000" stop="20260927093000 +0000" channel="Channel 5.mewatch">
-        <title>Badminton - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Singles &amp; Men&#039;s Doubles Quarter-finals</title>
+        <title>Badminton - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s Singles Quarter-final - INA vs SGP</title>
     </programme>
     <programme start="20260927093000 +0000" stop="20260927110000 +0000" channel="Channel 5.mewatch">
         <title>Athletics - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Heats | Finals - 27 Sep 2026</title>

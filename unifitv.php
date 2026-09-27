@@ -4573,15 +4573,25 @@
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20260926173000 +0000" stop="20260926200000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Sivalinga</title>
-    <desc lang="en">Raheem gets killed when he tries to save a blind man in a train. When the police close the case stating suicide, Raheem's girlfriend asks Shivalingeshwaran, a CID officer, to investigate the death.</desc>
+  <programme start="20260926173000 +0000" stop="20260926194500 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Shivalinga</title>
+    <desc lang="en">A detective investigates a murder case, but things get intense when his wife becomes involved. Twists and turns await in this gripping tale of crime and personal stakes.</desc>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20260926200000 +0000" stop="20260926223000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260926194500 +0000" stop="20260926200000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20260926200000 +0000" stop="20260926221500 +0000" channel="zeethirai.unifitv">
     <title lang="en">Yaman</title>
     <desc lang="en">After losing his father to a bunch of scheming politicians, a young man decides to wade into the corrupt and unscrupulous world of politics to avenge his death.</desc>
     <category lang="en">Action</category>
+  </programme>
+  <programme start="20260926221500 +0000" stop="20260926223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20260926223000 +0000" stop="20260927003000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Sethupathi</title>
@@ -4589,8 +4599,8 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20260927003000 +0000" stop="20260927030000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Theerkatharisi</title>
-    <desc lang="en">A mysterious stranger repeatedly calls the police control room, tipping them off about impending crimes and accidents.</desc>
+    <title lang="en">Theergadharasi</title>
+    <desc lang="en">A mysterious caller keeps alerting the police about upcoming crimes and accidents. Who is this stranger, and how do they know? Join the suspense as the plot unfolds!</desc>
     <category lang="en">Thriller</category>
   </programme>
   <programme start="20260927030000 +0000" stop="20260927053000 +0000" channel="zeethirai.unifitv">
@@ -4598,17 +4608,17 @@
     <desc lang="en">Thiru, a crook, falls in love with Venba and marries her before she goes to Malaysia. However, everything turns upside down when her father sells her for the skin trade.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20260927053000 +0000" stop="20260927090000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Andhaghaaram</title>
-    <desc lang="en">A blind librarian, a struggling cricketer and a lonely psychiatrist find their lives entwined by fate, as unsettling events drive them toward a shared quest for retribution.</desc>
-    <category lang="en">Horror</category>
+  <programme start="20260927053000 +0000" stop="20260927085800 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Andhagaram</title>
+    <desc lang="en">Movie</desc>
+    <category lang="en">Thriller</category>
   </programme>
-  <programme start="20260927090000 +0000" stop="20260927110000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260927085800 +0000" stop="20260927105800 +0000" channel="zeethirai.unifitv">
     <title lang="en">Ko 2</title>
     <desc lang="en">When Kumaran, an ordinary citizen, abducts the chief minister of the state of Tamil Nadu, the whole nation wonders what could have compelled a seemingly innocent man to adopt such a drastic step.</desc>
     <category lang="en">Thriller</category>
   </programme>
-  <programme start="20260927110000 +0000" stop="20260927140000 +0000" channel="zeethirai.unifitv">
+  <programme start="20260927105800 +0000" stop="20260927140000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kanaa</title>
     <desc lang="en">Kousalya, a farmer's daughter, dreams of becoming an international cricketer and winning the World Cup. With her father's support, she faces numerous challenges in her pursuit.</desc>
     <category lang="en">Sports</category>
