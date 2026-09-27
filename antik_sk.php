@@ -3538,13 +3538,13 @@
   <programme start="20260929042600 +0000" stop="20260929043500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Eddie, připravit, jdem! II</title>
   </programme>
-  <programme start="20260929043500 +0000" stop="20260929051000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260929043500 +0000" stop="20260929045700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tlapková patrola X</title>
   </programme>
-  <programme start="20260929051000 +0000" stop="20260929051400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260929045700 +0000" stop="20260929050600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue III</title>
   </programme>
-  <programme start="20260929051400 +0000" stop="20260929052000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20260929050600 +0000" stop="20260929052000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue III</title>
   </programme>
   <programme start="20260929052000 +0000" stop="20260929052100 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3769,10 +3769,10 @@
   <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Kolotoč (80)</title>
   </programme>
-  <programme start="20260929023000 +0000" stop="20260929032000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260929023000 +0000" stop="20260929031500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">DO-RE-MI (210)</title>
   </programme>
-  <programme start="20260929032000 +0000" stop="20260929040000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260929031500 +0000" stop="20260929040000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Televizní noviny</title>
   </programme>
   <programme start="20260929040000 +0000" stop="20260929064000 +0000" channel="Nova International.webtv.sk">
@@ -3847,16 +3847,16 @@
   <programme start="20260929181500 +0000" stop="20260929182000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Počasí</title>
   </programme>
-  <programme start="20260929182000 +0000" stop="20260929193500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260929182000 +0000" stop="20260929192500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Boží plán (9)</title>
   </programme>
-  <programme start="20260929193500 +0000" stop="20260929205000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260929192500 +0000" stop="20260929210000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Survivor Česko &amp; Slovensko III (31)</title>
   </programme>
-  <programme start="20260929205000 +0000" stop="20260929215000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260929210000 +0000" stop="20260929213000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Na vaší straně (134)</title>
   </programme>
-  <programme start="20260929215000 +0000" stop="20260929223500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20260929213000 +0000" stop="20260929221500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3799)</title>
   </programme>
   <programme start="20260928213000 +0000" stop="20260928220500 +0000" channel="Prima SK.webtv.sk">
@@ -16048,11 +16048,11 @@
   <programme start="20260929025500 +0000" stop="20260929030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20260929030000 +0000" stop="20260929031500 +0000" channel="TVP World.webtv.sk">
+  <programme start="20260929030000 +0000" stop="20260929031000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20260929031500 +0000" stop="20260929040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20260929031000 +0000" stop="20260929040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Swamp forests</title>
   </programme>
   <programme start="20260929040000 +0000" stop="20260929043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16567,11 +16567,17 @@
   <programme start="20260929001500 +0000" stop="20260929010500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Komisarz Alex XXIV (2)</title>
   </programme>
-  <programme start="20260929010500 +0000" stop="20260929030000 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260929010500 +0000" stop="20260929025000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Pod wulkanem</title>
   </programme>
-  <programme start="20260929030000 +0000" stop="20260929033500 +0000" channel="TVP Polonia.webtv.sk">
+  <programme start="20260929025000 +0000" stop="20260929030000 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">KabareTOP czyli kabaretowa lista przebojów (2009)</title>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929032500 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Barwy szczescia (3384)</title>
+  </programme>
+  <programme start="20260929032500 +0000" stop="20260929033500 +0000" channel="TVP Polonia.webtv.sk">
+    <title lang="id">Dlaczego krowa... (86)</title>
   </programme>
   <programme start="20260929033500 +0000" stop="20260929043000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Gra słów. Krzyzówka (1146)</title>

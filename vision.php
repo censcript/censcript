@@ -469,44 +469,14 @@
 <programme start="20260926233000 +0000" stop="20260927003000 +0000" channel="Trans 7.vision">
 <title>Spotlite</title>
 </programme>
-<programme start="20260927003000 +0000" stop="20260927013000 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
-</programme>
 <programme start="20260927013000 +0000" stop="20260927021500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
-</programme>
-<programme start="20260927021500 +0000" stop="20260927031500 +0000" channel="Trans 7.vision">
-<title>Heits Abis</title>
-</programme>
-<programme start="20260927031500 +0000" stop="20260927041500 +0000" channel="Trans 7.vision">
-<title>Obrolan Tiap Waktu</title>
-</programme>
-<programme start="20260927041500 +0000" stop="20260927050000 +0000" channel="Trans 7.vision">
-<title>Enaknya Mantul</title>
-</programme>
-<programme start="20260927050000 +0000" stop="20260927054500 +0000" channel="Trans 7.vision">
-<title>Jejak Petualangan</title>
-</programme>
-<programme start="20260927054500 +0000" stop="20260927063000 +0000" channel="Trans 7.vision">
-<title>The Explorer</title>
-</programme>
-<programme start="20260927063000 +0000" stop="20260927071500 +0000" channel="Trans 7.vision">
-<title>Mancing Mania Strike Back</title>
-</programme>
-<programme start="20260927071500 +0000" stop="20260927081500 +0000" channel="Trans 7.vision">
-<title>Redaksi Pagi Akhir Pekan</title>
 </programme>
 <programme start="20260927081500 +0000" stop="20260927090000 +0000" channel="Trans 7.vision">
 <title>Cuan Bos</title>
 </programme>
 <programme start="20260927090000 +0000" stop="20260927100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
-</programme>
-<programme start="20260927100000 +0000" stop="20260927110000 +0000" channel="Trans 7.vision">
-<title>Selebrita On The Weekend</title>
-</programme>
-<programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="Trans 7.vision">
-<title>Legenda Bertuah</title>
 </programme>
 <programme start="20260927113000 +0000" stop="20260927121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
@@ -595,12 +565,6 @@
 <programme start="20260928114500 +0000" stop="20260928121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260926230000 +0000" stop="20260927023000 +0000" channel="ANTV.vision">
-<title>Army</title>
-</programme>
-<programme start="20260927023000 +0000" stop="20260927060000 +0000" channel="ANTV.vision">
-<title>Yodha</title>
-</programme>
 <programme start="20260927060000 +0000" stop="20260927073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -612,9 +576,6 @@
 </programme>
 <programme start="20260927100000 +0000" stop="20260927110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20260927110000 +0000" stop="20260927130000 +0000" channel="ANTV.vision">
-<title>Rahasia Patukan Cobra</title>
 </programme>
 <programme start="20260927130000 +0000" stop="20260927150000 +0000" channel="ANTV.vision">
 <title>Darah Pendekar</title>
@@ -1496,5 +1457,44 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260928020000 +0000" stop="20260928020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928020300 +0000" stop="20260928023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928023000 +0000" stop="20260928030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928030000 +0000" stop="20260928030300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928030300 +0000" stop="20260928033000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928033000 +0000" stop="20260928040000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928040000 +0000" stop="20260928040300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928040300 +0000" stop="20260928043000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928043000 +0000" stop="20260928050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928050000 +0000" stop="20260928060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928060000 +0000" stop="20260928080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928080000 +0000" stop="20260928090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928090000 +0000" stop="20260928093000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260928093000 +0000" stop="20260928103000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

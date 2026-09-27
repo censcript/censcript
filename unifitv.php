@@ -3273,24 +3273,40 @@
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20260926173500 +0000" stop="20260926200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Bowie's Fantastic Supreme Party Concert 2026</title>
-    <desc lang="en">This TVB broadcast captures the historic, record-breaking live performance of legendary Hong Kong actor and singer Bowie Wu (Woo Fung) at the Hong Kong Coliseum. At 94 years old, Bowie Wu makes history as the oldest performer to headline a solo concert at the iconic venue, setting a Guinness World Record.</desc>
+  <programme start="20260926173500 +0000" stop="20260926180500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Mother Knows Best, Doctor Know The Facts</title>
+    <desc lang="en">From a young age, our mothers always instill various "health common sense" in us, but many of these may be wrong? "What Moms Don't Know" takes health myths as its starting point, with hosts Luk Wing and Wong Ka Man guiding viewers through relaxed discussions with doctors on everyday health topics such as "bowel movements" and "eating breakfast," debunking conventional habits and beliefs and prompting viewers to reconsider the truth behind them. The program aims to help viewers navigate the health maze, mastering accurate medical knowledge through doctors' clear and concise explanations, distinguishing truth from falsehood, refusing to spread misinformation, and becoming a savvy "healthy person."</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20260926200500 +0000" stop="20260926203500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">J Music 2026</title>
-    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
+  <programme start="20260926180500 +0000" stop="20260926190500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Mystery Files</title>
+    <desc lang="en">Love is an extremely complex subject, surrounded by numerous “environmental factors” that can alter our dreams and understanding of romance. These factors—ranging from changes in age and the rise of internet culture to the emergence of scams and other seemingly unusual reasons—have led to bizarre, worldview-shattering love stories in society. The TVB Plus live show " Mystery Files" hosted by Fire Lee, Jinny Ng, and Randal Tsang, invites people from all walks of life, celebrity guests, and relationship experts to discuss each episode's theme. With unique perspectives and thought-provoking questions, they boldly explore emotional dilemmas, while also welcoming viewers to join the conversation and solve problems together through the live chatroom and call-ins.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.125.</episode-num>
-    <episode-num system="onscreen">S1E126</episode-num>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
   </programme>
-  <programme start="20260926203500 +0000" stop="20260926210500 +0000" channel="tvbjade.unifitv">
+  <programme start="20260926190500 +0000" stop="20260926193500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Scoop 2026</title>
+    <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.267.</episode-num>
+    <episode-num system="onscreen">S1E268</episode-num>
+  </programme>
+  <programme start="20260926193500 +0000" stop="20260926200500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Thai Rogered (Sr.11)</title>
     <desc lang="en">"Thailand expert" Hu Huichong once again leads the "Tom Yum Family" members to introduce the latest travel information in Bangkok, including glamorous massage parlors with perfect photo spots, newly opened shopping malls with sky parks, and buffet restaurants hailed as the pinnacle of Bangkok tourism. The content is truly rich in Thai elements. In addition, "Bobo" Huang Jingling continues to appear in this episode, giving away plenty of perks. She will accompany Hu Huichong to visit Ayutthaya, Khao Yai, and other areas around Bangkok, recommending popular holiday destinations for locals. Besides "unboxing" hotels, they will also visit pseudo-Japanese photo spots and hotel-attached children's playgrounds, guaranteeing an authentic Thai experience.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20260926200500 +0000" stop="20260926210500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">You Are Not Alone Again</title>
+    <desc lang="en">"'You Are Not Alone' triumphantly returns! In its second season, the show is once again led by the 'King of Ghosts' Leung Si Ho, together with co-hosts Wong Yiu Ying and Wong Chi Yan, as well as editors Wong Ying Yeuk and Tong Chi Yan, bringing audiences even more frights and surprises. Each episode focuses on a different supernatural theme, featuring heavyweight guests who share ghost stories and reveal the secrets of rituals and industry customs. With a world full of mysteries, the program gathers paranormal news from around the globe, and Chi Yan will travel to South Korea and Taiwan to explore local supernatural phenomena. Real-time interaction with the audience is also a highlight of 'Spirit Connection,' with the team closely following live broadcasts,</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
   </programme>
   <programme start="20260926210500 +0000" stop="20260926213500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Magazine 2026</title>
@@ -3381,17 +3397,40 @@
     <episode-num system="xmltv_ns">0.109.</episode-num>
     <episode-num system="onscreen">S1E110</episode-num>
   </programme>
-  <programme start="20260927060500 +0000" stop="20260927083500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Bowie's Fantastic Supreme Party Concert 2026</title>
-    <desc lang="en">This TVB broadcast captures the historic, record-breaking live performance of legendary Hong Kong actor and singer Bowie Wu (Woo Fung) at the Hong Kong Coliseum. At 94 years old, Bowie Wu makes history as the oldest performer to headline a solo concert at the iconic venue, setting a Guinness World Record.</desc>
+  <programme start="20260927060500 +0000" stop="20260927063500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Thai Rogered (Sr.11)</title>
+    <desc lang="en">"Thailand expert" Hu Huichong once again leads the "Tom Yum Family" members to introduce the latest travel information in Bangkok, including glamorous massage parlors with perfect photo spots, newly opened shopping malls with sky parks, and buffet restaurants hailed as the pinnacle of Bangkok tourism. The content is truly rich in Thai elements. In addition, "Bobo" Huang Jingling continues to appear in this episode, giving away plenty of perks. She will accompany Hu Huichong to visit Ayutthaya, Khao Yai, and other areas around Bangkok, recommending popular holiday destinations for locals. Besides "unboxing" hotels, they will also visit pseudo-Japanese photo spots and hotel-attached children's playgrounds, guaranteeing an authentic Thai experience.</desc>
     <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20260927083500 +0000" stop="20260927090500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">J Music 2026</title>
-    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
+  <programme start="20260927063500 +0000" stop="20260927070500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Chill. Hike. Camping</title>
+    <desc lang="en">With travel restricted due to the pandemic, many people have opted to connect with nature and discover the joys of local outings and camping. Four former Miss Hong Kong contestants—Ho Wing-sau, Liu Wai-yee, Wu Mei-yee, and Chan Yeuk-sze—set aside their formalities and escaped the hustle and bustle of city life, joining various "outdoor experts" on adventures. They explored mountains and seas, experiencing outdoor activities like picnics, mountain art photography, car parking, diving, kitesurfing, and even taking on challenges like mountain art tests, boating to collect trash on deserted beaches, and rappelling on a deserted island. These diverse outdoor activities included experiencing a flash flood and witnessing the power of nature! Will they ultimately become Hong Kong "wild women" with exceptional physical strength, willpower, and environmental awareness?</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.125.</episode-num>
-    <episode-num system="onscreen">S1E126</episode-num>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20260927070500 +0000" stop="20260927073500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">News Magazine 2026</title>
+    <desc lang="en">"News Perspective" is a weekly program featuring in-depth coverage of notable news stories from Hong Kong and around the world. It focuses on social issues that matter most to Hong Kong residents and invites people from various sectors, scholars, and experts to discuss and analyze the underlying causes and developments.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.38.</episode-num>
+    <episode-num system="onscreen">S1E39</episode-num>
+  </programme>
+  <programme start="20260927073500 +0000" stop="20260927080500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Mother Knows Best, Doctor Know The Facts</title>
+    <desc lang="en">From a young age, our mothers always instill various "health common sense" in us, but many of these may be wrong? "What Moms Don't Know" takes health myths as its starting point, with hosts Luk Wing and Wong Ka Man guiding viewers through relaxed discussions with doctors on everyday health topics such as "bowel movements" and "eating breakfast," debunking conventional habits and beliefs and prompting viewers to reconsider the truth behind them. The program aims to help viewers navigate the health maze, mastering accurate medical knowledge through doctors' clear and concise explanations, distinguishing truth from falsehood, refusing to spread misinformation, and becoming a savvy "healthy person."</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260927080500 +0000" stop="20260927090500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Mystery Files</title>
+    <desc lang="en">Love is an extremely complex subject, surrounded by numerous “environmental factors” that can alter our dreams and understanding of romance. These factors—ranging from changes in age and the rise of internet culture to the emergence of scams and other seemingly unusual reasons—have led to bizarre, worldview-shattering love stories in society. The TVB Plus live show " Mystery Files" hosted by Fire Lee, Jinny Ng, and Randal Tsang, invites people from all walks of life, celebrity guests, and relationship experts to discuss each episode's theme. With unique perspectives and thought-provoking questions, they boldly explore emotional dilemmas, while also welcoming viewers to join the conversation and solve problems together through the live chatroom and call-ins.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
   </programme>
   <programme start="20260927090500 +0000" stop="20260927093500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Treasury 2026</title>
@@ -3449,7 +3488,7 @@
   </programme>
   <programme start="20260927133500 +0000" stop="20260927141000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Super Fun in Macau</title>
-    <desc lang="en">Four hosts explore Macau's top spots, local eateries, and hidden gems on an unscripted tour funded by the show. The twist: after every meal or activity, they must pass a trivia quiz from the crew, or pay the entire bill themselves.</desc>
+    <desc lang="en">Matthew Ho, along with members of the girl group "MYNT"—Sabrina Mendes,Carmen Ngai ,Ellyn Ngai ,Hilary Chong,Chelsea Mason and Skylar Lo—deeply explored the streets and alleys of Macau, embarking on a fun-filled journey that combines innovative cuisine, century-old shops, unique crafts, and entertaining activities. Through competitions involving food preparation, puzzle challenges, photo opportunities, and historical research, the members will guide viewers to unlock hidden gems, charming shops, nostalgic establishments, and trendy landmarks throughout Macau. The event will also introduce Macau's unique "leisure bus" routes and attractions along the way, as well as the newly launched "Macau History Exploration Guide," allowing everyone to experience the cultural charm of various historical sites.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
