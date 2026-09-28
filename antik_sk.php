@@ -1571,7 +1571,7 @@
     <title lang="id">Štúdio 24</title>
   </programme>
   <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="JOJ 24.webtv.sk">
-    <title lang="id">Udalosti o 17:00</title>
+    <title lang="id">Noviny</title>
   </programme>
   <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Analýzy 24</title>
@@ -1582,14 +1582,8 @@
   <programme start="20260930173000 +0000" stop="20260930181000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Noviny TV JOJ</title>
   </programme>
-  <programme start="20260930181000 +0000" stop="20260930190000 +0000" channel="JOJ 24.webtv.sk">
-    <title lang="id">Analýzy 24</title>
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="JOJ 24.webtv.sk">
-    <title lang="id">Krimi</title>
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="JOJ 24.webtv.sk">
-    <title lang="id">Štúdio 24</title>
+  <programme start="20260930181000 +0000" stop="20260930200000 +0000" channel="JOJ 24.webtv.sk">
+    <title lang="id">Samosprávne voľby 2026 - predvolebná debata</title>
   </programme>
   <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="JOJ 24.webtv.sk">
     <title lang="id">Noviny</title>

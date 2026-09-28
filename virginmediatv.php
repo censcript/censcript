@@ -142,10 +142,10 @@
 <programme start="20260928000500 +0000" stop="20260928004500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Bump - Limerence</title>
 </programme>
-<programme start="20260928004500 +0000" stop="20260928011500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260928004500 +0000" stop="20260928013900 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Bump - Driftwood</title>
 </programme>
-<programme start="20260928011500 +0000" stop="20260928060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20260928013900 +0000" stop="20260928060500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20260928110500 +0000" stop="20260928120500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -4294,19 +4294,19 @@
 <programme start="20260928050000 +0000" stop="20260928070000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Laver Cup</title>
 </programme>
-<programme start="20260928090000 +0000" stop="20260928133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260928090000 +0000" stop="20260928140000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis - ATP Semi-Finals</title>
 </programme>
-<programme start="20260928133000 +0000" stop="20260928143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260928140000 +0000" stop="20260928150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
 </programme>
-<programme start="20260928143000 +0000" stop="20260928153000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Korean Open 2026 - Final</title>
 </programme>
-<programme start="20260928153000 +0000" stop="20260928170000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260928160000 +0000" stop="20260928173000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP Semi-Finals</title>
 </programme>
-<programme start="20260928170000 +0000" stop="20260928183000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20260928173000 +0000" stop="20260928190000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP Semi-Finals</title>
 </programme>
 <programme start="20260927190000 +0000" stop="20260928010000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
@@ -4543,11 +4543,8 @@
 <programme start="20260928050000 +0000" stop="20260928060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>One-Day International Cricket - 1st ODI: India v West Indies</title>
 </programme>
-<programme start="20260928113000 +0000" stop="20260928143000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20260928113000 +0000" stop="20260928150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Shenzhen Open - Round 2: Ronnie O&#039;Sullivan v Jiang Jun</title>
-</programme>
-<programme start="20260928143000 +0000" stop="20260928150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>UEFA Champions League Magazine - Episode 4</title>
 </programme>
 <programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>One-Day International Cricket - 1st ODI: India v West Indies</title>
@@ -4588,14 +4585,8 @@
 <programme start="20260928050000 +0000" stop="20260928060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UCI Road World Championships - Montréal: Men&#039;s Elite Road Race</title>
 </programme>
-<programme start="20260928113000 +0000" stop="20260928143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20260928113000 +0000" stop="20260928150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: Shenzhen Open - Round 2: Ronnie O&#039;Sullivan v Jiang Jun</title>
-</programme>
-<programme start="20260928143000 +0000" stop="20260928144500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>FA Cup: The People&#039;s Story - Everton</title>
-</programme>
-<programme start="20260928144500 +0000" stop="20260928150000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>FA Cup: The People&#039;s Story - Liverpool</title>
 </programme>
 <programme start="20260928150000 +0000" stop="20260928153000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UCI World Cup Mountain Biking - Whistler: Women&#039;s Downhill</title>
@@ -5200,19 +5191,19 @@
 <programme start="20260928050000 +0000" stop="20260928070000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Laver Cup</title>
 </programme>
-<programme start="20260928090000 +0000" stop="20260928133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260928090000 +0000" stop="20260928140000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis - ATP Semi-Finals</title>
 </programme>
-<programme start="20260928133000 +0000" stop="20260928143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260928140000 +0000" stop="20260928150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
 </programme>
-<programme start="20260928143000 +0000" stop="20260928153000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Korean Open 2026 - Final</title>
 </programme>
-<programme start="20260928153000 +0000" stop="20260928170000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260928160000 +0000" stop="20260928173000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP Semi-Finals</title>
 </programme>
-<programme start="20260928170000 +0000" stop="20260928183000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20260928173000 +0000" stop="20260928190000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP Semi-Finals</title>
 </programme>
 <programme start="20260928000000 +0000" stop="20260928010000 +0000" channel="Sky_Sports_F1.virginmediatv">
@@ -6256,7 +6247,10 @@
 <programme start="20260927175800 +0000" stop="20260928015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20260928015800 +0000" stop="20260928060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20260928015800 +0000" stop="20260928050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20260928050000 +0000" stop="20260928060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20260928120000 +0000" stop="20260928121000 +0000" channel="CBBC.virginmediatv">
