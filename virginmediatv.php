@@ -4351,10 +4351,10 @@
 <programme start="20260928054500 +0000" stop="20260928063000 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260928120000 +0000" stop="20260928123000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260928114500 +0000" stop="20260928121500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260928123000 +0000" stop="20260928170000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20260928121500 +0000" stop="20260928170000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260928170000 +0000" stop="20260928173000 +0000" channel="Racing_UK.virginmediatv">
@@ -4396,10 +4396,10 @@
 <programme start="20260928054500 +0000" stop="20260928063000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20260928120000 +0000" stop="20260928123000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260928114500 +0000" stop="20260928121500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20260928123000 +0000" stop="20260928170000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20260928121500 +0000" stop="20260928170000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20260928170000 +0000" stop="20260928173000 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4421,7 +4421,7 @@
     <title>All the Goals - Cristiano Ronaldo</title>
 </programme>
 <programme start="20260928041500 +0000" stop="20260928043000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Edinson Cavani</title>
+    <title>Access All Areas - Fulham</title>
 </programme>
 <programme start="20260928043000 +0000" stop="20260928050000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - Eric Cantona</title>
@@ -4433,7 +4433,7 @@
     <title>All the Goals - Premier League Free-Kicks</title>
 </programme>
 <programme start="20260928120000 +0000" stop="20260928123000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Everton v Manchester United</title>
+    <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
 </programme>
 <programme start="20260928123000 +0000" stop="20260928130000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
@@ -4442,7 +4442,7 @@
     <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
 </programme>
 <programme start="20260928133000 +0000" stop="20260928140000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
+    <title>FA Women&#039;s League Cup - Highlights: Manchester United v Sheffield United</title>
 </programme>
 <programme start="20260928140000 +0000" stop="20260928143000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Fulham v Manchester United</title>
@@ -4454,7 +4454,7 @@
     <title>All the Goals - Cristiano Ronaldo</title>
 </programme>
 <programme start="20260928161500 +0000" stop="20260928163000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Edinson Cavani</title>
+    <title>A Day in the Life: Celin Bizet Donnum</title>
 </programme>
 <programme start="20260928163000 +0000" stop="20260928170000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - Eric Cantona</title>
@@ -4544,7 +4544,7 @@
     <title>One-Day International Cricket - 1st ODI: India v West Indies</title>
 </programme>
 <programme start="20260928113000 +0000" stop="20260928143000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Shenzhen Open - Round 2</title>
+    <title>Live: Shenzhen Open - Round 2: Ronnie O&#039;Sullivan v Jiang Jun</title>
 </programme>
 <programme start="20260928143000 +0000" stop="20260928150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>UEFA Champions League Magazine - Episode 4</title>
@@ -4589,7 +4589,7 @@
     <title>UCI Road World Championships - Montréal: Men&#039;s Elite Road Race</title>
 </programme>
 <programme start="20260928113000 +0000" stop="20260928143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Shenzhen Open - Round 2</title>
+    <title>Live: Shenzhen Open - Round 2: Ronnie O&#039;Sullivan v Jiang Jun</title>
 </programme>
 <programme start="20260928143000 +0000" stop="20260928144500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>FA Cup: The People&#039;s Story - Everton</title>

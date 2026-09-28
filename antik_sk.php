@@ -244,44 +244,23 @@
   <programme start="20260930204500 +0000" stop="20260930220100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">90. výročie narodenia</title>
   </programme>
-  <programme start="20260929220000 +0000" stop="20260929224500 +0000" channel=":24.webtv.sk">
+  <programme start="20260929215700 +0000" stop="20260929224500 +0000" channel=":24.webtv.sk">
     <title lang="id">Komentáre dňa</title>
   </programme>
   <programme start="20260929224500 +0000" stop="20260929233500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260929233500 +0000" stop="20260930000500 +0000" channel=":24.webtv.sk">
+  <programme start="20260929233500 +0000" stop="20260930000000 +0000" channel=":24.webtv.sk">
     <title lang="id">Ekonomika 24</title>
   </programme>
-  <programme start="20260930000500 +0000" stop="20260930003000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet 24</title>
+  <programme start="20260930000000 +0000" stop="20260930030000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Záznam z rokovania NR SR</title>
   </programme>
-  <programme start="20260930003000 +0000" stop="20260930010000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20260930010000 +0000" stop="20260930012500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20260930012500 +0000" stop="20260930015000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy 24</title>
-  </programme>
-  <programme start="20260930015000 +0000" stop="20260930020500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20260930020500 +0000" stop="20260930021500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20260930021500 +0000" stop="20260930024000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
-  </programme>
-  <programme start="20260930024000 +0000" stop="20260930032500 +0000" channel=":24.webtv.sk">
+  <programme start="20260930030500 +0000" stop="20260930035000 +0000" channel=":24.webtv.sk">
     <title lang="id">Komentáre dňa</title>
   </programme>
-  <programme start="20260930032500 +0000" stop="20260930035500 +0000" channel=":24.webtv.sk">
+  <programme start="20260930035000 +0000" stop="20260930042000 +0000" channel=":24.webtv.sk">
     <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20260930035500 +0000" stop="20260930042000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika 24</title>
   </programme>
   <programme start="20260930042000 +0000" stop="20260930050000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet 24</title>

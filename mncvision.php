@@ -7603,16 +7603,16 @@
 <programme start="20260928110000 +0000" stop="20260928114800 +0000" channel="SCTV.mncvision">
     <title>Pesta Bola ASEAN</title>
 </programme>
-<programme start="20260928114800 +0000" stop="20260928144300 +0000" channel="SCTV.mncvision">
+<programme start="20260928114800 +0000" stop="20260928144600 +0000" channel="SCTV.mncvision">
     <title>FIFA ASEAN Cup 2026 (L)</title>
 </programme>
-<programme start="20260928144300 +0000" stop="20260928151500 +0000" channel="SCTV.mncvision">
+<programme start="20260928144600 +0000" stop="20260928150700 +0000" channel="SCTV.mncvision">
     <title>Pesta Bola ASEAN</title>
 </programme>
-<programme start="20260928151500 +0000" stop="20260928164000 +0000" channel="SCTV.mncvision">
+<programme start="20260928150700 +0000" stop="20260928163200 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260928164000 +0000" stop="20260927171000 +0000" channel="SCTV.mncvision">
+<programme start="20260928163200 +0000" stop="20260927170200 +0000" channel="SCTV.mncvision">
     <title>Don&#039;t You Pegang Pegang!</title>
 </programme>
 <programme start="20260927174500 +0000" stop="20260927190000 +0000" channel="SCTV HD.mncvision">
@@ -7660,16 +7660,16 @@
 <programme start="20260928110000 +0000" stop="20260928114800 +0000" channel="SCTV HD.mncvision">
     <title>Pesta Bola ASEAN</title>
 </programme>
-<programme start="20260928114800 +0000" stop="20260928144300 +0000" channel="SCTV HD.mncvision">
+<programme start="20260928114800 +0000" stop="20260928144600 +0000" channel="SCTV HD.mncvision">
     <title>FIFA ASEAN Cup 2026 (L)</title>
 </programme>
-<programme start="20260928144300 +0000" stop="20260928151500 +0000" channel="SCTV HD.mncvision">
+<programme start="20260928144600 +0000" stop="20260928150700 +0000" channel="SCTV HD.mncvision">
     <title>Pesta Bola ASEAN</title>
 </programme>
-<programme start="20260928151500 +0000" stop="20260928164000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260928150700 +0000" stop="20260928163200 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20260928164000 +0000" stop="20260927171000 +0000" channel="SCTV HD.mncvision">
+<programme start="20260928163200 +0000" stop="20260927170200 +0000" channel="SCTV HD.mncvision">
     <title>Don&#039;t You Pegang Pegang!</title>
 </programme>
 <programme start="20260927180000 +0000" stop="20260927190000 +0000" channel="Sindo News TV.mncvision">
@@ -8351,7 +8351,7 @@
     <title>2026 MotoJunior FIM C&#039;ship</title>
 </programme>
 <programme start="20260928080000 +0000" stop="20260928090000 +0000" channel="SPOTV 2.mncvision">
-    <title>Rolex Switzerland Grand Prix</title>
+    <title>SailGP S6: Rolex Switzerland</title>
 </programme>
 <programme start="20260928090000 +0000" stop="20260928093000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 MotoGP After The Flag</title>
@@ -8363,7 +8363,7 @@
     <title>2026 MotoGP Factory Floor</title>
 </programme>
 <programme start="20260928133000 +0000" stop="20260928160000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MLB: NYY Vs BAL</title>
+    <title>2026 MLB: SFG Vs LAD</title>
 </programme>
 <programme start="20260928160000 +0000" stop="20260928163000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 US Open Tennis C&#039;ships</title>
@@ -8396,7 +8396,7 @@
     <title>2026 MotoJunior FIM C&#039;ship</title>
 </programme>
 <programme start="20260928080000 +0000" stop="20260928090000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>Rolex Switzerland Grand Prix</title>
+    <title>SailGP S6: Rolex Switzerland</title>
 </programme>
 <programme start="20260928090000 +0000" stop="20260928093000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MotoGP After The Flag</title>
@@ -8408,7 +8408,7 @@
     <title>2026 MotoGP Factory Floor</title>
 </programme>
 <programme start="20260928133000 +0000" stop="20260928160000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MLB: NYY Vs BAL</title>
+    <title>2026 MLB: SFG Vs LAD</title>
 </programme>
 <programme start="20260928160000 +0000" stop="20260928163000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 US Open Tennis C&#039;ships</title>
@@ -9163,77 +9163,80 @@
 <programme start="20260928154000 +0000" stop="20260928161000 +0000" channel="tvN Movies HD.mncvision">
     <title>The Roundup: No Way Out</title>
 </programme>
-<programme start="20260927170000 +0000" stop="20260927183000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="tvOne.mncvision">
+    <title>Sport Style</title>
 </programme>
-<programme start="20260927183000 +0000" stop="20260927200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260927173000 +0000" stop="20260927183000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20260927183000 +0000" stop="20260927193000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
+</programme>
+<programme start="20260927193000 +0000" stop="20260927200000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20260927200000 +0000" stop="20260927203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Hari Ini</title>
 </programme>
-<programme start="20260927203000 +0000" stop="20260927210000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260927203000 +0000" stop="20260927211500 +0000" channel="tvOne.mncvision">
+    <title>Metropolitan</title>
 </programme>
-<programme start="20260927210000 +0000" stop="20260927213000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260927213000 +0000" stop="20260927230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260927211500 +0000" stop="20260927230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20260927230000 +0000" stop="20260927233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
-<programme start="20260927233000 +0000" stop="20260928010000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260928010000 +0000" stop="20260928013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260927233000 +0000" stop="20260928013000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Pagi</title>
 </programme>
 <programme start="20260928013000 +0000" stop="20260928020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Hidup Sehat</title>
 </programme>
 <programme start="20260928020000 +0000" stop="20260928023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
-<programme start="20260928023000 +0000" stop="20260928030000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20260928030000 +0000" stop="20260928033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260928023000 +0000" stop="20260928033000 +0000" channel="tvOne.mncvision">
+    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20260928033000 +0000" stop="20260928040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Metropolitan</title>
 </programme>
 <programme start="20260928040000 +0000" stop="20260928053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang</title>
 </programme>
 <programme start="20260928053000 +0000" stop="20260928070000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Siang</title>
 </programme>
 <programme start="20260928070000 +0000" stop="20260928080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Breaking News</title>
 </programme>
-<programme start="20260928080000 +0000" stop="20260928090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260928080000 +0000" stop="20260928083000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih</title>
+</programme>
+<programme start="20260928083000 +0000" stop="20260928090000 +0000" channel="tvOne.mncvision">
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260928090000 +0000" stop="20260928110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20260928110000 +0000" stop="20260928130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20260928130000 +0000" stop="20260928143000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260928130000 +0000" stop="20260928140000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
-<programme start="20260928143000 +0000" stop="20260928153000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260928140000 +0000" stop="20260928150000 +0000" channel="tvOne.mncvision">
+    <title>Fakta</title>
 </programme>
-<programme start="20260928153000 +0000" stop="20260928163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20260928150000 +0000" stop="20260928160000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20260928160000 +0000" stop="20260928163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20260928163000 +0000" stop="20260927170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Berita Utama Kriminal</title>
 </programme>
 <programme start="20260927170000 +0000" stop="20260927173000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

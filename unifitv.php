@@ -15489,7 +15489,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20260928133000 +0000" stop="20260928160000 +0000" channel="spotv2.unifitv">
-    <title lang="en">27/9 2026 MLB Regular Season - New York Yankees vs Baltimore Orioles</title>
+    <title lang="en">27/9 2026 MLB Regular Season - San Francisco Giants vs Los Angeles Dodgers</title>
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
