@@ -669,11 +669,11 @@
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20260928030000 +0000" stop="20260928033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Ritma Jiwa</title>
-    <desc lang="en">Program majalah ini memaparkan keunikan seni tarian dan muzik tradisional dari seluruh pelosok negeri di Malaysia, sekali gus mengangkat warisan budaya dan kepelbagaian seni tempatan.</desc>
+    <title lang="en">Ilmuan Islamiah</title>
+    <desc lang="en">Sebuah dokumentari perkembangan ilmu oleh tokoh pemikir Islam, menggabungkan tokoh silam dan kontemporari dalam setiap episod.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260928033000 +0000" stop="20260928040000 +0000" channel="tv1.unifitv">
     <title lang="en">Dimensi Teknologi</title>
@@ -707,11 +707,11 @@
     <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20260928063000 +0000" stop="20260928070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Orang Minyak</title>
-    <desc lang="en">Sebuah drama sitkom yang memaparkan kehidupan seharian Pak Wahab serta pekerjanya Rahmat dan Chun yang turut menguruskan kedai serbaneka di stesen minyak Sini.</desc>
+    <title lang="en">Al-Mulk Nusantara</title>
+    <desc lang="en">Al-Mulk Nusantara</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20260928070000 +0000" stop="20260928070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -719,9 +719,11 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20260928070500 +0000" stop="20260928080000 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : KAMI BAH INI</title>
-    <desc lang="en">Rancangan bual bicara dengan topik bersama tetamu jemputan secara langsung dari Kota Kinabalu, Sabah.</desc>
+    <title lang="en">Ilmuan Islamiah</title>
+    <desc lang="en">Sebuah dokumentari perkembangan ilmu oleh tokoh pemikir Islam, menggabungkan tokoh silam dan kontemporari dalam setiap episod.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20260928080000 +0000" stop="20260928080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -2623,17 +2625,17 @@
     <desc lang="en">TVS Tengahari presents a comprehensive look at domestic and international news stories, providing viewers with an in-depth understanding of current affairs during the midday broadcast.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20260928041500 +0000" stop="20260928043000 +0000" channel="tvs.unifitv">
+  <programme start="20260928041500 +0000" stop="20260928044500 +0000" channel="tvs.unifitv">
+    <title lang="en">Grandstand Liga Premier Sarawak 2026</title>
+    <desc lang="en">Grandstand Liga Premier Sarawak 2026 menyajikan sorotan perlawanan, analisis taktikal, dan perbincangan mendalam bersama hos dan tetamu jemputan tentang perkembangan pasukan dan pemain dalam Liga Bola Sepak Premier Sarawak.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20260928044500 +0000" stop="20260928050000 +0000" channel="tvs.unifitv">
     <title lang="en">TVS Music</title>
     <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
     <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20260928043000 +0000" stop="20260928050000 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo's Blue Gold</title>
-    <desc lang="en">Borneo's Blue Gold is a six-part series exploring the vital role of fresh water in Borneo, examining environmental, cultural, and political impacts, with stunning visuals and expert insights on sustainable water management.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20260928050000 +0000" stop="20260928051500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
@@ -15285,14 +15287,19 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20260927133000 +0000" stop="20260927192500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260927133000 +0000" stop="20260927185500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Rosas Jr. vs. Barcelos - Main</title>
     <desc lang="en">As UFC returns to the Meta APEX on Saturday, September 27, it does so with a stacked fight card headlined by a critical bantamweight main event between Raul “El Nino Problema” Rosas Jr. and Raoni Barcelos. The youngest fighter to win a UFC bout, Rosas Jr. makes his first main event appearance four years after earning the opportunity to compete on the biggest stage in the sport with a win on Dana White's Contender Series. Since then, the now 21-year-old has posted a 6-1 record and five straight victories, including a win over perennial contender Rob Font in March at UFC 326. Though not quite the oldest fighter in the division, Barcelos is one of bantamweight's elder statesmen, but his performance has never been better as he carries a five-fight winning streak that includes victories over rising star Payton Talbott and former champ Cody Garbrandt into his first UFC main event.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260927192500 +0000" stop="20260927193000 +0000" channel="unifisports1.unifitv">
+  <programme start="20260927185500 +0000" stop="20260927190000 +0000" channel="unifisports1.unifitv">
     <title lang="en">LALIGA HISTORIC MOMENTS - GERARD PIQUE'S RETIREMENT</title>
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260927190000 +0000" stop="20260927193000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC Fight Flashback 1004: Teixeira vs. Prochazka</title>
+    <desc lang="en">UFC 275 featured Czech MMA star Jiri Prochazka in his third Octagon outing as he sought UFC gold against newly minted light heavyweight champion, Glover Teixeira. Relive their fight with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260927193000 +0000" stop="20260928015500 +0000" channel="unifisports1.unifitv">
@@ -15360,7 +15367,7 @@
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260928133000 +0000" stop="20260928192500 +0000" channel="unifisports1.unifitv">
+  <programme start="20260928133000 +0000" stop="20260928185500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Rosas Jr. vs. Barcelos - Main</title>
     <desc lang="en">As UFC returns to the Meta APEX on Saturday, September 27, it does so with a stacked fight card headlined by a critical bantamweight main event between Raul “El Nino Problema” Rosas Jr. and Raoni Barcelos. The youngest fighter to win a UFC bout, Rosas Jr. makes his first main event appearance four years after earning the opportunity to compete on the biggest stage in the sport with a win on Dana White's Contender Series. Since then, the now 21-year-old has posted a 6-1 record and five straight victories, including a win over perennial contender Rob Font in March at UFC 326. Though not quite the oldest fighter in the division, Barcelos is one of bantamweight's elder statesmen, but his performance has never been better as he carries a five-fight winning streak that includes victories over rising star Payton Talbott and former champ Cody Garbrandt into his first UFC main event.</desc>
     <category lang="en">Sports</category>
@@ -15688,12 +15695,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928032500 +0000" stop="20260928045500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Singles Day 3 Match 12</title>
+    <title lang="en">Laver Cup - Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928045500 +0000" stop="20260928062500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Doubles Day 3 Match 13</title>
+    <title lang="en">Laver Cup - Singles Day 3 Zverev v Tien</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15703,27 +15710,27 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928081500 +0000" stop="20260928094500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Doubles Day 3 Match 9</title>
+    <title lang="en">Laver Cup - Singles Day 2 Zverev v De Minaur</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928094500 +0000" stop="20260928111500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Singles Day 3 Match 10</title>
+    <title lang="en">Laver Cup - Singles Day 2 Alcaraz v Fritz</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928111500 +0000" stop="20260928124500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Singles Day 3 Match 11</title>
+    <title lang="en">Laver Cup -Doubles Day 2 Ruud/Zverev v Bublik/Nakashima</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928124500 +0000" stop="20260928141500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Singles Day 3 Match 12</title>
+    <title lang="en">Laver Cup - Doubles Day 3 Cobolli/Mensik v De Minaur/Fritz</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20260928141500 +0000" stop="20260928154500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Laver Cup - Doubles Day 3 Match 13</title>
+    <title lang="en">Laver Cup - Singles Day 3 Zverev v Tien</title>
     <desc lang="en">The Laver Cup pits six top European players against six of their counterparts from the rest of the World.</desc>
     <category lang="en">Sports</category>
   </programme>

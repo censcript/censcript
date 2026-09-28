@@ -412,28 +412,31 @@
   <programme start="20260930030000 +0000" stop="20260930035000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260930035000 +0000" stop="20260930040000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930035000 +0000" stop="20260930040500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260930040000 +0000" stop="20260930045000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930040500 +0000" stop="20260930045500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20260930045000 +0000" stop="20260930050000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930045500 +0000" stop="20260930050500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260930050000 +0000" stop="20260930055500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Správy</title>
+  <programme start="20260930050500 +0000" stop="20260930053000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Tichý hlas velikánov</title>
   </programme>
-  <programme start="20260930055500 +0000" stop="20260930072500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hádzaná - Handball Extraliga mužov 2026/27 - HK Agro Topoľčany - HC Sporta Hlohovec (4. kolo)</title>
+  <programme start="20260930053000 +0000" stop="20260930054000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260930072500 +0000" stop="20260930085500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Hádzaná - Handball Extraliga mužov 2026/27 - MHC Štart Nové Zámky - HK Bojnice (4. kolo)</title>
+  <programme start="20260930054000 +0000" stop="20260930071000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Hádzaná - Handball Extraliga mužov 2026/2027 - MHC Štart Nové Zámky - HK Bojnice (4. kolo)</title>
   </programme>
-  <programme start="20260930085500 +0000" stop="20260930105500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930071000 +0000" stop="20260930085000 +0000" channel=":Šport.webtv.sk">
+    <title lang="id">Hádzaná - reprezentácia - Reprezentácia 2026: Slovensko - Rakúsko (ženy)</title>
+  </programme>
+  <programme start="20260930085000 +0000" stop="20260930105000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - reprezentácia do 21 rokov (muži) - Kvalifikácia ME 2027 do 21 rokov: Slovensko - Írsko</title>
   </programme>
-  <programme start="20260930105500 +0000" stop="20260930114500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930105000 +0000" stop="20260930114500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - FutbalSK (magazín)</title>
   </programme>
   <programme start="20260930114500 +0000" stop="20260930123000 +0000" channel=":Šport.webtv.sk">
@@ -442,10 +445,10 @@
   <programme start="20260930123000 +0000" stop="20260930150000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Liga národov 2026 (muži)</title>
   </programme>
-  <programme start="20260930150000 +0000" stop="20260930152500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930150000 +0000" stop="20260930152000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MONACObet liga</title>
   </programme>
-  <programme start="20260930152500 +0000" stop="20260930172500 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930152000 +0000" stop="20260930172500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Cyklistika - MS 2026 (cestná) - MS 2026 (Montreal): ženy (preteky jednotlivkýň)</title>
   </programme>
   <programme start="20260930172500 +0000" stop="20260930191000 +0000" channel=":Šport.webtv.sk">
@@ -454,16 +457,16 @@
   <programme start="20260930191000 +0000" stop="20260930205500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Orange liga 2026/27 - MFK Ružomberok - Tatran Prešov (7. kolo)</title>
   </programme>
-  <programme start="20260930205500 +0000" stop="20260930211000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930205500 +0000" stop="20260930210500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20260930211000 +0000" stop="20260930213900 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930210500 +0000" stop="20260930213700 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Šport 24</title>
   </programme>
-  <programme start="20260930213900 +0000" stop="20260930214100 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930213700 +0000" stop="20260930214000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20260930214100 +0000" stop="20260930234000 +0000" channel=":Šport.webtv.sk">
+  <programme start="20260930214000 +0000" stop="20260930234000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Cyklistika - MS 2026 (cestná) - MS 2026 (Montreal): muži (preteky jednotlivcov)</title>
   </programme>
   <programme start="20260929211000 +0000" stop="20260929222000 +0000" channel="Markíza.webtv.sk">
@@ -2659,11 +2662,8 @@
   <programme start="20260930040000 +0000" stop="20260930050000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Ranní budíček</title>
   </programme>
-  <programme start="20260930050000 +0000" stop="20260930060000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20260930050000 +0000" stop="20260930070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Krásné ráno</title>
-  </programme>
-  <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Vzácné chvíle</title>
   </programme>
   <programme start="20260930070000 +0000" stop="20260930090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Dopolední studio</title>
