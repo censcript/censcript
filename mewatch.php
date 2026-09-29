@@ -103,10 +103,7 @@
     <programme start="20260929054500 +0000" stop="20260929055500 +0000" channel="Channel 5.mewatch">
         <title>Chimera Keepers: Adventures with Incredible Creatures - EP 40</title>
     </programme>
-    <programme start="20260929055500 +0000" stop="20260929060000 +0000" channel="Channel 5.mewatch">
-        <title>(Live) 20th Asian Games Aichi-Nagoya 2026: Daily Action At The Games 1 - EP 10</title>
-    </programme>
-    <programme start="20260929060000 +0000" stop="20260929074500 +0000" channel="Channel 5.mewatch">
+    <programme start="20260929055500 +0000" stop="20260929074500 +0000" channel="Channel 5.mewatch">
         <title>Diving - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s 10m Platform Final</title>
     </programme>
     <programme start="20260929074500 +0000" stop="20260929100000 +0000" channel="Channel 5.mewatch">

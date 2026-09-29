@@ -7924,11 +7924,11 @@
 <programme start="20260929103000 +0000" stop="20260929123000 +0000" channel="Soccer Channel.mncvision">
     <title>Shopee Cup &#039;25/26: JDT Vs BUR</title>
 </programme>
-<programme start="20260929123000 +0000" stop="20260929143000 +0000" channel="Soccer Channel.mncvision">
-    <title>Timnas Spesial U23: IDN Vs SYR</title>
+<programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="Soccer Channel.mncvision">
+    <title>Highlights UEFA Nations League</title>
 </programme>
-<programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="Soccer Channel.mncvision">
-    <title>Bola Bicara</title>
+<programme start="20260929133000 +0000" stop="20260929153000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Spesial U23: IDN Vs SYR</title>
 </programme>
 <programme start="20260929153000 +0000" stop="20260929154500 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -7975,11 +7975,11 @@
 <programme start="20260929103000 +0000" stop="20260929123000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Shopee Cup &#039;25/26: JDT Vs BUR</title>
 </programme>
-<programme start="20260929123000 +0000" stop="20260929143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Timnas Spesial U23: IDN Vs SYR</title>
+<programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Highlights UEFA Nations League</title>
 </programme>
-<programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Bola Bicara</title>
+<programme start="20260929133000 +0000" stop="20260929153000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Timnas Spesial U23: IDN Vs SYR</title>
 </programme>
 <programme start="20260929153000 +0000" stop="20260929154500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>
@@ -8027,7 +8027,7 @@
     <title>Sports Today</title>
 </programme>
 <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="Sportstars.mncvision">
-    <title>Street Workout</title>
+    <title>Sportventure</title>
 </programme>
 <programme start="20260929103000 +0000" stop="20260929130000 +0000" channel="Sportstars.mncvision">
     <title>Best Of Badminton</title>
@@ -8039,7 +8039,7 @@
     <title>Satu Hati Untuk Garuda</title>
 </programme>
 <programme start="20260929153000 +0000" stop="20260929154500 +0000" channel="Sportstars.mncvision">
-    <title>Street Workout</title>
+    <title>Sportventure</title>
 </programme>
 <programme start="20260929154500 +0000" stop="20260929161500 +0000" channel="Sportstars.mncvision">
     <title>UEFA Nations League (L)</title>
@@ -8324,7 +8324,7 @@
     <title>Sports Today</title>
 </programme>
 <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="Sportstars HD.mncvision">
-    <title>Street Workout</title>
+    <title>Sportventure</title>
 </programme>
 <programme start="20260929103000 +0000" stop="20260929130000 +0000" channel="Sportstars HD.mncvision">
     <title>Best Of Badminton</title>
@@ -8336,7 +8336,7 @@
     <title>Satu Hati Untuk Garuda</title>
 </programme>
 <programme start="20260929153000 +0000" stop="20260929154500 +0000" channel="Sportstars HD.mncvision">
-    <title>Street Workout</title>
+    <title>Sportventure</title>
 </programme>
 <programme start="20260929154500 +0000" stop="20260929161500 +0000" channel="Sportstars HD.mncvision">
     <title>UEFA Nations League (L)</title>

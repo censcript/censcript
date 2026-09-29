@@ -616,12 +616,6 @@
 <programme start="20260930114500 +0000" stop="20260930121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20260928230000 +0000" stop="20260929023000 +0000" channel="ANTV.vision">
-<title>Sanam Bewafa</title>
-</programme>
-<programme start="20260929023000 +0000" stop="20260929060000 +0000" channel="ANTV.vision">
-<title>Kabhi Alvida Naa Kehna</title>
-</programme>
 <programme start="20260929060000 +0000" stop="20260929073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20260929040300 +0000" stop="20260929043000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

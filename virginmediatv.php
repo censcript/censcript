@@ -1928,7 +1928,7 @@
     <title>Bullseye - Episode 15</title>
 </programme>
 <programme start="20260929040000 +0000" stop="20260929043000 +0000" channel="Challenge.virginmediatv">
-    <title>Bullseye - Episode 16</title>
+    <title>Bullseye - Christmas Special 1987</title>
 </programme>
 <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="Challenge.virginmediatv">
     <title>Bullseye - Episode 17</title>
