@@ -2272,6 +2272,183 @@
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="49923086914927.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20260929000000 +0000" stop="20260929001500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260929001500 +0000" stop="20260929004500 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929004500 +0000" stop="20260929013000 +0000" channel="387238.shahid">
+        <title>Al Nowaylati Season 1 Episode 20</title>
+    </programme>
+    <programme start="20260929013000 +0000" stop="20260929021500 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260929021500 +0000" stop="20260929025500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260929025500 +0000" stop="20260929033000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260929033000 +0000" stop="20260929050000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20260929050000 +0000" stop="20260929054000 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929054000 +0000" stop="20260929060300 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929060300 +0000" stop="20260929063500 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260929063500 +0000" stop="20260929071500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260929071500 +0000" stop="20260929080000 +0000" channel="387238.shahid">
+        <title>Al Nowaylati Season 1 Episode 20</title>
+    </programme>
+    <programme start="20260929080000 +0000" stop="20260929100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20260929100000 +0000" stop="20260929104500 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929104500 +0000" stop="20260929111500 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929111500 +0000" stop="20260929115000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260929115000 +0000" stop="20260929122500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260929122500 +0000" stop="20260929131000 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260929131000 +0000" stop="20260929140000 +0000" channel="387238.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260929160000 +0000" stop="20260929172500 +0000" channel="387238.shahid">
+        <title>Nadeena Khaleeji 27</title>
+    </programme>
+    <programme start="20260929172500 +0000" stop="20260929193000 +0000" channel="387238.shahid">
+        <title>Khaleeji Arabian Dyar 27 Saudi 2026: Saudi Arabia X Iraq</title>
+    </programme>
+    <programme start="20260929193000 +0000" stop="20260929210000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20260929210000 +0000" stop="20260929213500 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260929213500 +0000" stop="20260929223000 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260929223000 +0000" stop="20260929233000 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260929233000 +0000" stop="20260930001500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260930001500 +0000" stop="20260930004500 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260930004500 +0000" stop="20260930013000 +0000" channel="387238.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260930013000 +0000" stop="20260930021500 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260930021500 +0000" stop="20260930025500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260930025500 +0000" stop="20260930033000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260930033000 +0000" stop="20260930050000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20260930050000 +0000" stop="20260930053700 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260930053700 +0000" stop="20260930060000 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260930060000 +0000" stop="20260930063000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260930063000 +0000" stop="20260930071500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260930071500 +0000" stop="20260930080000 +0000" channel="387238.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260930080000 +0000" stop="20260930100000 +0000" channel="387238.shahid">
+        <title>Sabah Al Khair Ya Arab</title>
+    </programme>
+    <programme start="20260930100000 +0000" stop="20260930104500 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260930104500 +0000" stop="20260930111500 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260930111500 +0000" stop="20260930113000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
+    </programme>
+    <programme start="20260930113000 +0000" stop="20260930121500 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260930121500 +0000" stop="20260930130000 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 5</title>
+    </programme>
+    <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="387238.shahid">
+        <title>Al Nowaylati Season 1 Episode 22</title>
+    </programme>
+    <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="387238.shahid">
+        <title>Set Shabab Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 318</title>
+    </programme>
+    <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 6</title>
+    </programme>
+    <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="387238.shahid">
+        <title>Taht Al Daght</title>
+    </programme>
+    <programme start="20260930193000 +0000" stop="20260930210000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20260930210000 +0000" stop="20260930213500 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 318</title>
+    </programme>
+    <programme start="20260930213500 +0000" stop="20260930222300 +0000" channel="387238.shahid">
+        <title>Min Kothr Hobbi Lak Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260930222300 +0000" stop="20260930223000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930223000 +0000" stop="20260930233000 +0000" channel="387238.shahid">
+        <title>Wild Ommo Season 1 Episode 6</title>
+    </programme>
+    <programme start="20260930233000 +0000" stop="20260930235959 +0000" channel="387238.shahid">
+        <title>Ali Klay Season 1 Episode 28</title>
+    </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -2279,117 +2456,6 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="1005232.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929000000 +0000" stop="20260929060000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929060000 +0000" stop="20260929065000 +0000" channel="1003218.shahid">
-        <title>Market Open</title>
-    </programme>
-    <programme start="20260929065000 +0000" stop="20260929065900 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929065900 +0000" stop="20260929074900 +0000" channel="1003218.shahid">
-        <title>Market Pulse</title>
-    </programme>
-    <programme start="20260929074900 +0000" stop="20260929080000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929080000 +0000" stop="20260929085000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 1</title>
-    </programme>
-    <programme start="20260929085000 +0000" stop="20260929090000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929090000 +0000" stop="20260929095000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 2</title>
-    </programme>
-    <programme start="20260929095000 +0000" stop="20260929100000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929100000 +0000" stop="20260929105000 +0000" channel="1003218.shahid">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20260929105000 +0000" stop="20260929110000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929110000 +0000" stop="20260929112500 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 3</title>
-    </programme>
-    <programme start="20260929112500 +0000" stop="20260929113000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929113000 +0000" stop="20260929122000 +0000" channel="1003218.shahid">
-        <title>Closing Bell</title>
-    </programme>
-    <programme start="20260929122000 +0000" stop="20260929130000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929130000 +0000" stop="20260929130500 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929130500 +0000" stop="20260929140000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929140000 +0000" stop="20260929145000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 4</title>
-    </programme>
-    <programme start="20260929145000 +0000" stop="20260929150000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929150000 +0000" stop="20260929155000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 5</title>
-    </programme>
-    <programme start="20260929155000 +0000" stop="20260929160000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929160000 +0000" stop="20260929160500 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929160500 +0000" stop="20260930060000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930060000 +0000" stop="20260930065900 +0000" channel="1003218.shahid">
-        <title>Market Open</title>
-    </programme>
-    <programme start="20260930065900 +0000" stop="20260930080000 +0000" channel="1003218.shahid">
-        <title>Market Pulse</title>
-    </programme>
-    <programme start="20260930080000 +0000" stop="20260930090000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 1</title>
-    </programme>
-    <programme start="20260930090000 +0000" stop="20260930100000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 2</title>
-    </programme>
-    <programme start="20260930100000 +0000" stop="20260930110000 +0000" channel="1003218.shahid">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20260930110000 +0000" stop="20260930113000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 3</title>
-    </programme>
-    <programme start="20260930113000 +0000" stop="20260930123100 +0000" channel="1003218.shahid">
-        <title>Closing Bell</title>
-    </programme>
-    <programme start="20260930123100 +0000" stop="20260930130000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930130000 +0000" stop="20260930131000 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930131000 +0000" stop="20260930140000 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 4</title>
-    </programme>
-    <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="1003218.shahid">
-        <title>Al Aswaq Al Arabiya 5</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930160500 +0000" channel="1003218.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930160500 +0000" stop="20260930235959 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929002523 +0000" channel="963543.shahid">
@@ -2638,264 +2704,6 @@
     <programme start="20260930232939 +0000" stop="20260930235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 16 Episode 14</title>
     </programme>
-    <programme start="20260929000000 +0000" stop="20260929000000 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="387251.shahid">
-        <title>El Maddah: Ostouret El Ishq  </title>
-    </programme>
-    <programme start="20260929030000 +0000" stop="20260929035400 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 332</title>
-    </programme>
-    <programme start="20260929035400 +0000" stop="20260929050000 +0000" channel="387251.shahid">
-        <title>Wa Tqabil Habeeb  </title>
-    </programme>
-    <programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="387251.shahid">
-        <title>Hayati Al Mithaliyya  </title>
-    </programme>
-    <programme start="20260929060000 +0000" stop="20260929070000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260929070000 +0000" stop="20260929075500 +0000" channel="387251.shahid">
-        <title>El Maddah: Ostouret El Ishq  </title>
-    </programme>
-    <programme start="20260929075500 +0000" stop="20260929080000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929080000 +0000" stop="20260929085400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260929085400 +0000" stop="20260929090000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929090000 +0000" stop="20260929095400 +0000" channel="387251.shahid">
-        <title>Wa Tqabil Habeeb  </title>
-    </programme>
-    <programme start="20260929095400 +0000" stop="20260929100000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929100000 +0000" stop="20260929105400 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260929105400 +0000" stop="20260929110000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929110000 +0000" stop="20260929115400 +0000" channel="387251.shahid">
-        <title>Hayati Al Mithaliyya  </title>
-    </programme>
-    <programme start="20260929115400 +0000" stop="20260929120000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929120000 +0000" stop="20260929124800 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 332</title>
-    </programme>
-    <programme start="20260929124800 +0000" stop="20260929130000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929130000 +0000" stop="20260929135400 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260929135400 +0000" stop="20260929140000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929140000 +0000" stop="20260929145400 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260929145400 +0000" stop="20260929150000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929150000 +0000" stop="20260929155300 +0000" channel="387251.shahid">
-        <title>Wa Tqabil Habeeb  </title>
-    </programme>
-    <programme start="20260929155300 +0000" stop="20260929160000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929160000 +0000" stop="20260929165500 +0000" channel="387251.shahid">
-        <title>Hayati Al Mithaliyya  </title>
-    </programme>
-    <programme start="20260929165500 +0000" stop="20260929170000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929170000 +0000" stop="20260929175400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260929175400 +0000" stop="20260929180000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929180000 +0000" stop="20260929185400 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260929185400 +0000" stop="20260929190000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929190000 +0000" stop="20260929194600 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 333</title>
-    </programme>
-    <programme start="20260929194600 +0000" stop="20260929200000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929200000 +0000" stop="20260929205500 +0000" channel="387251.shahid">
-        <title>El Maddah: Ostouret El Ishq  </title>
-    </programme>
-    <programme start="20260929205500 +0000" stop="20260929210000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260929220000 +0000" stop="20260929225500 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260929225500 +0000" stop="20260929230000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929230000 +0000" stop="20260929235400 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260929235400 +0000" stop="20260930000000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930000000 +0000" stop="20260930005500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260930005500 +0000" stop="20260930010000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930010000 +0000" stop="20260930020000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260930020000 +0000" stop="20260930025500 +0000" channel="387251.shahid">
-        <title>El Maddah: Ostouret El Ishq  </title>
-    </programme>
-    <programme start="20260930025500 +0000" stop="20260930030000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930030000 +0000" stop="20260930034600 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 333</title>
-    </programme>
-    <programme start="20260930034600 +0000" stop="20260930040000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930040000 +0000" stop="20260930045500 +0000" channel="387251.shahid">
-        <title>Wa Tqabil Habeeb  </title>
-    </programme>
-    <programme start="20260930045500 +0000" stop="20260930050000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930050000 +0000" stop="20260930055500 +0000" channel="387251.shahid">
-        <title>Hayati Al Mithaliyya  </title>
-    </programme>
-    <programme start="20260930055500 +0000" stop="20260930060000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260930070000 +0000" stop="20260930075500 +0000" channel="387251.shahid">
-        <title>El Maddah: Ostouret El Ishq  </title>
-    </programme>
-    <programme start="20260930075500 +0000" stop="20260930080000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930080000 +0000" stop="20260930085500 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260930085500 +0000" stop="20260930090000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930090000 +0000" stop="20260930095500 +0000" channel="387251.shahid">
-        <title>Wa Tqabil Habeeb  </title>
-    </programme>
-    <programme start="20260930095500 +0000" stop="20260930100000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930100000 +0000" stop="20260930105400 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260930105400 +0000" stop="20260930110000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930110000 +0000" stop="20260930115300 +0000" channel="387251.shahid">
-        <title>Hayati Al Mithaliyya  </title>
-    </programme>
-    <programme start="20260930115300 +0000" stop="20260930120000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930120000 +0000" stop="20260930124600 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 333</title>
-    </programme>
-    <programme start="20260930124600 +0000" stop="20260930130000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930130000 +0000" stop="20260930135400 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260930135400 +0000" stop="20260930140000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930140000 +0000" stop="20260930145500 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260930145500 +0000" stop="20260930150000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930150000 +0000" stop="20260930155300 +0000" channel="387251.shahid">
-        <title>Wa Tqabil Habeeb  </title>
-    </programme>
-    <programme start="20260930155300 +0000" stop="20260930160000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930165500 +0000" channel="387251.shahid">
-        <title>Hayati Al Mithaliyya  </title>
-    </programme>
-    <programme start="20260930165500 +0000" stop="20260930170000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930170000 +0000" stop="20260930175400 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
-    <programme start="20260930175400 +0000" stop="20260930180000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930180000 +0000" stop="20260930185300 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260930185300 +0000" stop="20260930190000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930190000 +0000" stop="20260930194700 +0000" channel="387251.shahid">
-        <title>Habibati.. Man Takoun? Season 1 Episode 334</title>
-    </programme>
-    <programme start="20260930194700 +0000" stop="20260930200000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930200000 +0000" stop="20260930210000 +0000" channel="387251.shahid">
-        <title>El Maddah: Ostouret El Ishq  </title>
-    </programme>
-    <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="387251.shahid">
-        <title>Bab Al Hara  </title>
-    </programme>
-    <programme start="20260930220000 +0000" stop="20260930225500 +0000" channel="387251.shahid">
-        <title>Three Kingdoms  </title>
-    </programme>
-    <programme start="20260930225500 +0000" stop="20260930230000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930230000 +0000" stop="20260930235400 +0000" channel="387251.shahid">
-        <title>Beyt Al Ankaboot  </title>
-    </programme>
-    <programme start="20260930235400 +0000" stop="20261001000000 +0000" channel="387251.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261001000000 +0000" stop="20260930235959 +0000" channel="387251.shahid">
-        <title>Al Hofra  </title>
-    </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="946946.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -2903,6 +2711,210 @@
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="999927.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929000000 +0000" stop="20260929000700 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260929000700 +0000" stop="20260929001500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929001500 +0000" stop="20260929010000 +0000" channel="49923122575716.shahid">
+        <title>Bain El Sotour Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260929010000 +0000" stop="20260929013400 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260929013400 +0000" stop="20260929014500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929014500 +0000" stop="20260929021000 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 58</title>
+    </programme>
+    <programme start="20260929021000 +0000" stop="20260929023000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929023000 +0000" stop="20260929030600 +0000" channel="49923122575716.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260929030600 +0000" stop="20260929031500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929031500 +0000" stop="20260929035800 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 57</title>
+    </programme>
+    <programme start="20260929035800 +0000" stop="20260929041000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929041000 +0000" stop="20260929045200 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260929045200 +0000" stop="20260929050000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929050000 +0000" stop="20260929053700 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260929053700 +0000" stop="20260929060200 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 58</title>
+    </programme>
+    <programme start="20260929060200 +0000" stop="20260929063500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929063500 +0000" stop="20260929071500 +0000" channel="49923122575716.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260929071500 +0000" stop="20260929075800 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 57</title>
+    </programme>
+    <programme start="20260929075800 +0000" stop="20260929081500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929081500 +0000" stop="20260929085700 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260929085700 +0000" stop="20260929091000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929091000 +0000" stop="20260929095200 +0000" channel="49923122575716.shahid">
+        <title>Bain El Sotour Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260929095200 +0000" stop="20260929100000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929100000 +0000" stop="20260929103400 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260929103400 +0000" stop="20260929104500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929104500 +0000" stop="20260929111000 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 58</title>
+    </programme>
+    <programme start="20260929111000 +0000" stop="20260929112000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929112000 +0000" stop="20260929120000 +0000" channel="49923122575716.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    </programme>
+    <programme start="20260929120000 +0000" stop="20260929124300 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 57</title>
+    </programme>
+    <programme start="20260929124300 +0000" stop="20260929125500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929125500 +0000" stop="20260929133700 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260929133700 +0000" stop="20260929134500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929134500 +0000" stop="20260929143000 +0000" channel="49923122575716.shahid">
+        <title>Bain El Sotour Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260929143000 +0000" stop="20260929150400 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 13</title>
+    </programme>
+    <programme start="20260929150400 +0000" stop="20260929151500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929151500 +0000" stop="20260929154100 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 59</title>
+    </programme>
+    <programme start="20260929154100 +0000" stop="20260929160000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929160000 +0000" stop="20260929163500 +0000" channel="49923122575716.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260929163500 +0000" stop="20260929170000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929170000 +0000" stop="20260929174200 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 58</title>
+    </programme>
+    <programme start="20260929174200 +0000" stop="20260929180000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929180000 +0000" stop="20260929184200 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260929184200 +0000" stop="20260929190000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929190000 +0000" stop="20260929194100 +0000" channel="49923122575716.shahid">
+        <title>Bain El Sotour Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260929194100 +0000" stop="20260929200000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929200000 +0000" stop="20260929203600 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 14</title>
+    </programme>
+    <programme start="20260929203600 +0000" stop="20260929210000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929210000 +0000" stop="20260929212600 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 59</title>
+    </programme>
+    <programme start="20260929212600 +0000" stop="20260929213500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929213500 +0000" stop="20260929221000 +0000" channel="49923122575716.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260929221000 +0000" stop="20260929223000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929223000 +0000" stop="20260929231200 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 58</title>
+    </programme>
+    <programme start="20260929231200 +0000" stop="20260929232500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929232500 +0000" stop="20260930000700 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260930000700 +0000" stop="20260930001500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930001500 +0000" stop="20260930010000 +0000" channel="49923122575716.shahid">
+        <title>Bain El Sotour Season 1 Episode 29</title>
+    </programme>
+    <programme start="20260930010000 +0000" stop="20260930013600 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 14</title>
+    </programme>
+    <programme start="20260930013600 +0000" stop="20260930014500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930014500 +0000" stop="20260930021100 +0000" channel="49923122575716.shahid">
+        <title>Bahar Season 1 Episode 59</title>
+    </programme>
+    <programme start="20260930021100 +0000" stop="20260930023000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930023000 +0000" stop="20260930030500 +0000" channel="49923122575716.shahid">
+        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 16</title>
+    </programme>
+    <programme start="20260930030500 +0000" stop="20260930031500 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930031500 +0000" stop="20260930035700 +0000" channel="49923122575716.shahid">
+        <title>Aal Hilwa Wa Al Morra Season 1 Episode 58</title>
+    </programme>
+    <programme start="20260930035700 +0000" stop="20260930041000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930041000 +0000" stop="20260930045200 +0000" channel="49923122575716.shahid">
+        <title>Weld Al Ghalaba Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260930045200 +0000" stop="20260930050000 +0000" channel="49923122575716.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930050000 +0000" stop="20260930053600 +0000" channel="49923122575716.shahid">
+        <title>Afrah Ebles Season 3 Episode 14</title>
+    </programme>
+    <programme start="20260930053600 +0000" stop="20260930235959 +0000" channel="49923122575716.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="946948.shahid">
@@ -2919,6 +2931,270 @@
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929000000 +0000" stop="20260929000600 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929000600 +0000" stop="20260929010000 +0000" channel="387286.shahid">
+        <title>Hour Of Discussion</title>
+    </programme>
+    <programme start="20260929010000 +0000" stop="20260929012800 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929012800 +0000" stop="20260929020000 +0000" channel="387286.shahid">
+        <title>Bila Tahaffoth Season 2026 Episode 15</title>
+    </programme>
+    <programme start="20260929020000 +0000" stop="20260929020400 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929020400 +0000" stop="20260929030000 +0000" channel="387286.shahid">
+        <title>Outside The Box</title>
+    </programme>
+    <programme start="20260929030000 +0000" stop="20260929030500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929030500 +0000" stop="20260929040000 +0000" channel="387286.shahid">
+        <title>Khaleeji 27</title>
+    </programme>
+    <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929050000 +0000" stop="20260929065900 +0000" channel="387286.shahid">
+        <title>Sabah Al Arabiya</title>
+    </programme>
+    <programme start="20260929065900 +0000" stop="20260929073000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929073000 +0000" stop="20260929075500 +0000" channel="387286.shahid">
+        <title>Market Pulse</title>
+    </programme>
+    <programme start="20260929075500 +0000" stop="20260929080000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260929080000 +0000" stop="20260929085300 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929085300 +0000" stop="20260929085400 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260929085400 +0000" stop="20260929090000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="387286.shahid">
+        <title>Al Aswaq Al Arabiya 2</title>
+    </programme>
+    <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="387286.shahid">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20260929110000 +0000" stop="20260929112400 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929112400 +0000" stop="20260929113000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="387286.shahid">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="387286.shahid">
+        <title>Sports News</title>
+    </programme>
+    <programme start="20260929130000 +0000" stop="20260929135300 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929135300 +0000" stop="20260929140000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929140000 +0000" stop="20260929145300 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929145300 +0000" stop="20260929150000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929150000 +0000" stop="20260929150500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929150500 +0000" stop="20260929155400 +0000" channel="387286.shahid">
+        <title>Tafa&#039;olcom</title>
+    </programme>
+    <programme start="20260929155400 +0000" stop="20260929160000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929163000 +0000" stop="20260929165300 +0000" channel="387286.shahid">
+        <title>Sports News</title>
+    </programme>
+    <programme start="20260929165300 +0000" stop="20260929170000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="387286.shahid">
+        <title>Hour Of Discussion</title>
+    </programme>
+    <programme start="20260929180000 +0000" stop="20260929190000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929190000 +0000" stop="20260929195300 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929195300 +0000" stop="20260929195400 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260929195400 +0000" stop="20260929200000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929200000 +0000" stop="20260929205300 +0000" channel="387286.shahid">
+        <title>Outside The Box</title>
+    </programme>
+    <programme start="20260929205300 +0000" stop="20260929210000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="387286.shahid">
+        <title>Khaleeji 27</title>
+    </programme>
+    <programme start="20260929220000 +0000" stop="20260929225300 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929225300 +0000" stop="20260929230000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260929230000 +0000" stop="20260929232200 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929232200 +0000" stop="20260929235200 +0000" channel="387286.shahid">
+        <title>Sijal Season 2026 Episode 20</title>
+    </programme>
+    <programme start="20260929235200 +0000" stop="20260930000000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930000000 +0000" stop="20260930000500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930000500 +0000" stop="20260930010000 +0000" channel="387286.shahid">
+        <title>Hour Of Discussion</title>
+    </programme>
+    <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="387286.shahid">
+        <title>Fasl Al Maqal Season 2026 Episode 14</title>
+    </programme>
+    <programme start="20260930020000 +0000" stop="20260930020500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930020500 +0000" stop="20260930030000 +0000" channel="387286.shahid">
+        <title>Outside The Box</title>
+    </programme>
+    <programme start="20260930030000 +0000" stop="20260930030500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930030500 +0000" stop="20260930040000 +0000" channel="387286.shahid">
+        <title>Khaleeji 27</title>
+    </programme>
+    <programme start="20260930040000 +0000" stop="20260930050000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930050000 +0000" stop="20260930065900 +0000" channel="387286.shahid">
+        <title>Sabah Al Arabiya</title>
+    </programme>
+    <programme start="20260930065900 +0000" stop="20260930073000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930073000 +0000" stop="20260930075500 +0000" channel="387286.shahid">
+        <title>Market Pulse</title>
+    </programme>
+    <programme start="20260930075500 +0000" stop="20260930080000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260930080000 +0000" stop="20260930085500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930085500 +0000" stop="20260930090000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260930090000 +0000" stop="20260930093000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930093000 +0000" stop="20260930100000 +0000" channel="387286.shahid">
+        <title>Al Aswaq Al Arabiya 2</title>
+    </programme>
+    <programme start="20260930100000 +0000" stop="20260930103000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930103000 +0000" stop="20260930110000 +0000" channel="387286.shahid">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20260930110000 +0000" stop="20260930113000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930113000 +0000" stop="20260930123000 +0000" channel="387286.shahid">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20260930123000 +0000" stop="20260930130000 +0000" channel="387286.shahid">
+        <title>Sports News</title>
+    </programme>
+    <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930150000 +0000" stop="20260930150500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930150500 +0000" stop="20260930160000 +0000" channel="387286.shahid">
+        <title>Tafa&#039;olcom</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="387286.shahid">
+        <title>Sports News</title>
+    </programme>
+    <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="387286.shahid">
+        <title>Hour Of Discussion</title>
+    </programme>
+    <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930190000 +0000" stop="20260930195400 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930195400 +0000" stop="20260930195500 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260930195500 +0000" stop="20260930200000 +0000" channel="387286.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930200000 +0000" stop="20260930205500 +0000" channel="387286.shahid">
+        <title>Outside The Box</title>
+    </programme>
+    <programme start="20260930205500 +0000" stop="20260930210000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="387286.shahid">
+        <title>Khaleeji 27</title>
+    </programme>
+    <programme start="20260930220000 +0000" stop="20260930225500 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930225500 +0000" stop="20260930230000 +0000" channel="387286.shahid">
+        <title>Kol Youm Ketab</title>
+    </programme>
+    <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="387286.shahid">
+        <title>Qabil Lil Jadal Season 2024 Episode 54</title>
+    </programme>
+    <programme start="20261001000000 +0000" stop="20260930235959 +0000" channel="387286.shahid">
+        <title>Al Arabiya News</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929000250 +0000" channel="49923172117967.shahid">
         <title>Wain Inta</title>
@@ -4363,266 +4639,248 @@
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929000000 +0000" stop="20260929001500 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260929001500 +0000" stop="20260929004500 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929004500 +0000" stop="20260929013000 +0000" channel="387238.shahid">
-        <title>Al Nowaylati Season 1 Episode 20</title>
-    </programme>
-    <programme start="20260929013000 +0000" stop="20260929021500 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260929021500 +0000" stop="20260929025500 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260929025500 +0000" stop="20260929033000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260929033000 +0000" stop="20260929050000 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
-    </programme>
-    <programme start="20260929050000 +0000" stop="20260929054000 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929054000 +0000" stop="20260929060000 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929060000 +0000" stop="20260929063500 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260929063500 +0000" stop="20260929071500 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260929071500 +0000" stop="20260929080000 +0000" channel="387238.shahid">
-        <title>Al Nowaylati Season 1 Episode 20</title>
-    </programme>
-    <programme start="20260929080000 +0000" stop="20260929095000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20260929095000 +0000" stop="20260929100000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929100000 +0000" stop="20260929103800 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929103800 +0000" stop="20260929104500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929104500 +0000" stop="20260929111500 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929111500 +0000" stop="20260929114000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260929114000 +0000" stop="20260929121500 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260929121500 +0000" stop="20260929130500 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260929130500 +0000" stop="20260929135200 +0000" channel="387238.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260929135200 +0000" stop="20260929140000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929140000 +0000" stop="20260929144700 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260929144700 +0000" stop="20260929150000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929150000 +0000" stop="20260929154600 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260929154600 +0000" stop="20260929160000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929160000 +0000" stop="20260929172500 +0000" channel="387238.shahid">
-        <title>Nadeena Khaleeji 27</title>
-    </programme>
-    <programme start="20260929172500 +0000" stop="20260929173000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929173000 +0000" stop="20260929191500 +0000" channel="387238.shahid">
-        <title>Khaleeji Arabian Dyar 27 Saudi 2026: Saudi Arabia X Iraq</title>
-    </programme>
-    <programme start="20260929191500 +0000" stop="20260929193000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929193000 +0000" stop="20260929210000 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
-    </programme>
-    <programme start="20260929210000 +0000" stop="20260929213500 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260929213500 +0000" stop="20260929221900 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260929221900 +0000" stop="20260929223000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929223000 +0000" stop="20260929231800 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260929231800 +0000" stop="20260929233000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929233000 +0000" stop="20260930000800 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260930000800 +0000" stop="20260930001500 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930001500 +0000" stop="20260930004500 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260930004500 +0000" stop="20260930013000 +0000" channel="387238.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260930013000 +0000" stop="20260930021500 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260930021500 +0000" stop="20260930030000 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260930030000 +0000" stop="20260930033000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260930033000 +0000" stop="20260930044900 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
-    </programme>
-    <programme start="20260930044900 +0000" stop="20260930050000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930050000 +0000" stop="20260930054000 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260930054000 +0000" stop="20260930060000 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260930060000 +0000" stop="20260930063000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260930063000 +0000" stop="20260930071500 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260930071500 +0000" stop="20260930080000 +0000" channel="387238.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260930080000 +0000" stop="20260930100000 +0000" channel="387238.shahid">
-        <title>Sabah Al Khair Ya Arab</title>
-    </programme>
-    <programme start="20260930100000 +0000" stop="20260930104500 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260930104500 +0000" stop="20260930111500 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260930111500 +0000" stop="20260930113000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 317</title>
-    </programme>
-    <programme start="20260930113000 +0000" stop="20260930121500 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260930121500 +0000" stop="20260930130000 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 5</title>
-    </programme>
-    <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="387238.shahid">
-        <title>Al Nowaylati Season 1 Episode 22</title>
-    </programme>
-    <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 13</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="387238.shahid">
-        <title>Set Shabab Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 318</title>
-    </programme>
-    <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 6</title>
-    </programme>
-    <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
-    </programme>
-    <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="387238.shahid">
-        <title>Taht Al Daght</title>
-    </programme>
-    <programme start="20260930193000 +0000" stop="20260930210000 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
-    </programme>
-    <programme start="20260930210000 +0000" stop="20260930213500 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 318</title>
-    </programme>
-    <programme start="20260930213500 +0000" stop="20260930222300 +0000" channel="387238.shahid">
-        <title>Min Kothr Hobbi Lak Season 1 Episode 13</title>
-    </programme>
-    <programme start="20260930222300 +0000" stop="20260930223000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930223000 +0000" stop="20260930233000 +0000" channel="387238.shahid">
-        <title>Wild Ommo Season 1 Episode 6</title>
-    </programme>
-    <programme start="20260930233000 +0000" stop="20260930235959 +0000" channel="387238.shahid">
-        <title>Ali Klay Season 1 Episode 28</title>
-    </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="49922763891977.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="986014.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929000000 +0000" stop="20260929000700 +0000" channel="49923122575716.shahid">
-        <title>Weld Al Ghalaba Season 1 Episode 13</title>
+    <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 11</title>
     </programme>
-    <programme start="20260929000700 +0000" stop="20260929001500 +0000" channel="49923122575716.shahid">
+    <programme start="20260929003000 +0000" stop="20260929010500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 165</title>
+    </programme>
+    <programme start="20260929010500 +0000" stop="20260929014000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 115</title>
+    </programme>
+    <programme start="20260929014000 +0000" stop="20260929023000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260929023000 +0000" stop="20260929032000 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 20</title>
+    </programme>
+    <programme start="20260929032000 +0000" stop="20260929040500 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260929040500 +0000" stop="20260929045500 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929045500 +0000" stop="20260929053000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 165</title>
+    </programme>
+    <programme start="20260929053000 +0000" stop="20260929060500 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 115</title>
+    </programme>
+    <programme start="20260929060500 +0000" stop="20260929070500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260929070500 +0000" stop="20260929080000 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 20</title>
+    </programme>
+    <programme start="20260929080000 +0000" stop="20260929085000 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260929085000 +0000" stop="20260929093000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 165</title>
+    </programme>
+    <programme start="20260929093000 +0000" stop="20260929101000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 115</title>
+    </programme>
+    <programme start="20260929101000 +0000" stop="20260929110000 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 11</title>
+    </programme>
+    <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260929120000 +0000" stop="20260929130500 +0000" channel="387294.shahid">
+        <title>Aa Amal Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260929130500 +0000" stop="20260929140000 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260929150000 +0000" stop="20260929155500 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260929155500 +0000" stop="20260929163000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 166</title>
+    </programme>
+    <programme start="20260929163000 +0000" stop="20260929170500 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 116</title>
+    </programme>
+    <programme start="20260929170500 +0000" stop="20260929180000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260929180000 +0000" stop="20260929190000 +0000" channel="387294.shahid">
+        <title>Teebah Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260929190000 +0000" stop="20260929200000 +0000" channel="387294.shahid">
+        <title>Ard Al Million Season 2 Episode 4</title>
+    </programme>
+    <programme start="20260929200000 +0000" stop="20260929203500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 166</title>
+    </programme>
+    <programme start="20260929203500 +0000" stop="20260929213000 +0000" channel="387294.shahid">
+        <title>Fi Mithl Hatha Al Yawm Season 1 Episode 25</title>
+    </programme>
+    <programme start="20260929213000 +0000" stop="20260929221500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260929221500 +0000" stop="20260929230000 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260929230000 +0000" stop="20260929234500 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260929234500 +0000" stop="20260930003000 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260930003000 +0000" stop="20260930011500 +0000" channel="387294.shahid">
+        <title>Teebah Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260930011500 +0000" stop="20260930020000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260930020000 +0000" stop="20260930024500 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
+    </programme>
+    <programme start="20260930024500 +0000" stop="20260930033000 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
+    </programme>
+    <programme start="20260930033000 +0000" stop="20260930040000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 166</title>
+    </programme>
+    <programme start="20260930040000 +0000" stop="20260930043000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 116</title>
+    </programme>
+    <programme start="20260930043000 +0000" stop="20260930050000 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260930050000 +0000" stop="20260930051500 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 164</title>
+    </programme>
+    <programme start="20260930051500 +0000" stop="20260930053000 +0000" channel="387294.shahid">
+        <title>Teebah Season 1 Episode 14</title>
+    </programme>
+    <programme start="20260930053000 +0000" stop="20260930060000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 114</title>
+    </programme>
+    <programme start="20260930060000 +0000" stop="20260930064000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260930064000 +0000" stop="20260930070000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929001500 +0000" stop="20260929010000 +0000" channel="49923122575716.shahid">
-        <title>Bain El Sotour Season 1 Episode 28</title>
+    <programme start="20260930070000 +0000" stop="20260930074300 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 21</title>
     </programme>
-    <programme start="20260929010000 +0000" stop="20260929013400 +0000" channel="49923122575716.shahid">
-        <title>Afrah Ebles Season 3 Episode 13</title>
-    </programme>
-    <programme start="20260929013400 +0000" stop="20260929014500 +0000" channel="49923122575716.shahid">
+    <programme start="20260930074300 +0000" stop="20260930080000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929014500 +0000" stop="20260929021000 +0000" channel="49923122575716.shahid">
-        <title>Bahar Season 1 Episode 58</title>
+    <programme start="20260930080000 +0000" stop="20260930084200 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 27</title>
     </programme>
-    <programme start="20260929021000 +0000" stop="20260929023000 +0000" channel="49923122575716.shahid">
+    <programme start="20260930084200 +0000" stop="20260930090000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929023000 +0000" stop="20260929030600 +0000" channel="49923122575716.shahid">
-        <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 15</title>
+    <programme start="20260930090000 +0000" stop="20260930092900 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 164</title>
     </programme>
-    <programme start="20260929030600 +0000" stop="20260929031500 +0000" channel="49923122575716.shahid">
+    <programme start="20260930092900 +0000" stop="20260930093000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 116</title>
+    </programme>
+    <programme start="20260930093000 +0000" stop="20260930100000 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 114</title>
+    </programme>
+    <programme start="20260930100000 +0000" stop="20260930104100 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 12</title>
+    </programme>
+    <programme start="20260930104100 +0000" stop="20260930110000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929031500 +0000" stop="20260929035800 +0000" channel="49923122575716.shahid">
-        <title>Aal Hilwa Wa Al Morra Season 1 Episode 57</title>
+    <programme start="20260930110000 +0000" stop="20260930114000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
     </programme>
-    <programme start="20260929035800 +0000" stop="20260929041000 +0000" channel="49923122575716.shahid">
+    <programme start="20260930114000 +0000" stop="20260930120000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929041000 +0000" stop="20260929045200 +0000" channel="49923122575716.shahid">
-        <title>Weld Al Ghalaba Season 1 Episode 13</title>
+    <programme start="20260930120000 +0000" stop="20260930124600 +0000" channel="387294.shahid">
+        <title>Aa Amal Season 1 Episode 29</title>
     </programme>
-    <programme start="20260929045200 +0000" stop="20260929050000 +0000" channel="49923122575716.shahid">
+    <programme start="20260930124600 +0000" stop="20260930130000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929050000 +0000" stop="20260929053400 +0000" channel="49923122575716.shahid">
-        <title>Afrah Ebles Season 3 Episode 13</title>
+    <programme start="20260930130000 +0000" stop="20260930134400 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 22</title>
     </programme>
-    <programme start="20260929053400 +0000" stop="20260930235959 +0000" channel="49923122575716.shahid">
+    <programme start="20260930134400 +0000" stop="20260930140000 +0000" channel="387294.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930140000 +0000" stop="20260930144000 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260930144000 +0000" stop="20260930150000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930150000 +0000" stop="20260930154100 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 13</title>
+    </programme>
+    <programme start="20260930154100 +0000" stop="20260930160000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930160000 +0000" channel="387294.shahid">
+        <title>Nadeena Khaleeji 27</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 167</title>
+    </programme>
+    <programme start="20260930163000 +0000" stop="20260930165900 +0000" channel="387294.shahid">
+        <title>Al A&#039;ela Season 2 Episode 117</title>
+    </programme>
+    <programme start="20260930165900 +0000" stop="20260930173000 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="387294.shahid">
+        <title>Khaleeji Arabian Dyar 27 Saudi 2026: UAE X Qatar</title>
+    </programme>
+    <programme start="20260930180000 +0000" stop="20260930184000 +0000" channel="387294.shahid">
+        <title>Teebah Season 1 Episode 15</title>
+    </programme>
+    <programme start="20260930184000 +0000" stop="20260930190000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="387294.shahid">
+        <title>Taht Al Daght</title>
+    </programme>
+    <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="387294.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20260930200000 +0000" stop="20260930202900 +0000" channel="387294.shahid">
+        <title>Al Motawahesh Season 1 Episode 167</title>
+    </programme>
+    <programme start="20260930202900 +0000" stop="20260930211300 +0000" channel="387294.shahid">
+        <title>Fi Mithl Hatha Al Yawm Season 1 Episode 26</title>
+    </programme>
+    <programme start="20260930211300 +0000" stop="20260930213000 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930213000 +0000" stop="20260930221500 +0000" channel="387294.shahid">
+        <title>A&#039;elati Tarbah</title>
+    </programme>
+    <programme start="20260930221500 +0000" stop="20260930230000 +0000" channel="387294.shahid">
+        <title>Al Nowaylati Season 1 Episode 22</title>
+    </programme>
+    <programme start="20260930230000 +0000" stop="20260930233800 +0000" channel="387294.shahid">
+        <title>Ali Klay Season 1 Episode 28</title>
+    </programme>
+    <programme start="20260930233800 +0000" stop="20260930234500 +0000" channel="387294.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930234500 +0000" stop="20260930235959 +0000" channel="387294.shahid">
+        <title>Awdat Khalati Season 1 Episode 13</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929013018 +0000" channel="983124.shahid">
         <title>Masrah Masr Season 1 Episode 9</title>
@@ -4731,297 +4989,6 @@
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="946940.shahid">
         <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929010000 +0000" stop="20260929012500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929012500 +0000" stop="20260929013000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929020000 +0000" stop="20260929021500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929021500 +0000" stop="20260929023000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929023000 +0000" stop="20260929024500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929024500 +0000" stop="20260929030000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929030000 +0000" stop="20260929031500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929031500 +0000" stop="20260929033000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929033000 +0000" stop="20260929034500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929034500 +0000" stop="20260929040000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929040000 +0000" stop="20260929042500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929042500 +0000" stop="20260929043000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929043000 +0000" stop="20260929045300 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929045300 +0000" stop="20260929050000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929050000 +0000" stop="20260929052500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929052500 +0000" stop="20260929053000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929053000 +0000" stop="20260929055400 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929055400 +0000" stop="20260929060000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929060000 +0000" stop="20260929065000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20260929065000 +0000" stop="20260929070000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929070000 +0000" stop="20260929072400 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929072400 +0000" stop="20260929073000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929073000 +0000" stop="20260929075400 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929075400 +0000" stop="20260929080000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929080000 +0000" stop="20260929082400 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20260929082400 +0000" stop="20260929083000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929083000 +0000" stop="20260929085400 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20260929085400 +0000" stop="20260929090000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929090000 +0000" stop="20260929105000 +0000" channel="387288.shahid">
-        <title>Studio Al Hadath</title>
-    </programme>
-    <programme start="20260929105000 +0000" stop="20260929110000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929110000 +0000" stop="20260929115000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929115000 +0000" stop="20260929120000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929120000 +0000" stop="20260929125100 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929125100 +0000" stop="20260929130000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929130000 +0000" stop="20260929135000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929135000 +0000" stop="20260929140000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929140000 +0000" stop="20260929142400 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929142400 +0000" stop="20260929143000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929143000 +0000" stop="20260929145300 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929145300 +0000" stop="20260929150000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929150000 +0000" stop="20260929155200 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929155200 +0000" stop="20260929160000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929160000 +0000" stop="20260929165000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929165000 +0000" stop="20260929170000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929170000 +0000" stop="20260929185000 +0000" channel="387288.shahid">
-        <title>Al Akhbar Al Layla</title>
-    </programme>
-    <programme start="20260929185000 +0000" stop="20260929190000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929190000 +0000" stop="20260929204800 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929204800 +0000" stop="20260929210000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929210000 +0000" stop="20260929215000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929215000 +0000" stop="20260929220000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929220000 +0000" stop="20260929225000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929225000 +0000" stop="20260929230000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929230000 +0000" stop="20260929232200 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929232200 +0000" stop="20260929233000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929233000 +0000" stop="20260929235300 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260929235300 +0000" stop="20260930000000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930000000 +0000" stop="20260930002300 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930002300 +0000" stop="20260930003000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930003000 +0000" stop="20260930005500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930005500 +0000" stop="20260930010000 +0000" channel="387288.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930020000 +0000" stop="20260930021500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930021500 +0000" stop="20260930023000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930023000 +0000" stop="20260930024500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930024500 +0000" stop="20260930030000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930030000 +0000" stop="20260930031500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930031500 +0000" stop="20260930033000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930033000 +0000" stop="20260930034500 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930034500 +0000" stop="20260930040000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930040000 +0000" stop="20260930043000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930043000 +0000" stop="20260930050000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930050000 +0000" stop="20260930053000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930053000 +0000" stop="20260930060000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930080000 +0000" stop="20260930083000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20260930083000 +0000" stop="20260930090000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20260930090000 +0000" stop="20260930110000 +0000" channel="387288.shahid">
-        <title>Studio Al Hadath</title>
-    </programme>
-    <programme start="20260930110000 +0000" stop="20260930120000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930120000 +0000" stop="20260930130000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="387288.shahid">
-        <title>Al Akhbar Al Layla</title>
-    </programme>
-    <programme start="20260930190000 +0000" stop="20260930210000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930220000 +0000" stop="20260930230000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261001000000 +0000" stop="20260930235959 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929012329 +0000" channel="989622.shahid">
         <title>45 Youm</title>
@@ -5284,13 +5251,304 @@
     <programme start="20260930232841 +0000" stop="20260930235959 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 9 Episode 24</title>
     </programme>
+    <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929020000 +0000" stop="20260929021500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929021500 +0000" stop="20260929023000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929023000 +0000" stop="20260929024500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929024500 +0000" stop="20260929030000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929030000 +0000" stop="20260929031500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929031500 +0000" stop="20260929033000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929033000 +0000" stop="20260929034500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929034500 +0000" stop="20260929040000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929040000 +0000" stop="20260929043000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929050000 +0000" stop="20260929053000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929060000 +0000" stop="20260929070000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
+    </programme>
+    <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
+    </programme>
+    <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
+    </programme>
+    <programme start="20260929090000 +0000" stop="20260929110000 +0000" channel="387288.shahid">
+        <title>Studio Al Hadath</title>
+    </programme>
+    <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929170000 +0000" stop="20260929190000 +0000" channel="387288.shahid">
+        <title>Al Akhbar Al Layla</title>
+    </programme>
+    <programme start="20260929190000 +0000" stop="20260929210000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929220000 +0000" stop="20260929230000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929230000 +0000" stop="20260929233000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929233000 +0000" stop="20260930000000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930003000 +0000" stop="20260930010000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930020000 +0000" stop="20260930021500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930021500 +0000" stop="20260930023000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930023000 +0000" stop="20260930024500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930024500 +0000" stop="20260930030000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930030000 +0000" stop="20260930031500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930031500 +0000" stop="20260930033000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930033000 +0000" stop="20260930034500 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930034500 +0000" stop="20260930040000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930040000 +0000" stop="20260930043000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930043000 +0000" stop="20260930050000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930050000 +0000" stop="20260930053000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930053000 +0000" stop="20260930060000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
+    </programme>
+    <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930080000 +0000" stop="20260930083000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
+    </programme>
+    <programme start="20260930083000 +0000" stop="20260930090000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
+    </programme>
+    <programme start="20260930090000 +0000" stop="20260930110000 +0000" channel="387288.shahid">
+        <title>Studio Al Hadath</title>
+    </programme>
+    <programme start="20260930110000 +0000" stop="20260930120000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930120000 +0000" stop="20260930130000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="387288.shahid">
+        <title>Al Akhbar Al Layla</title>
+    </programme>
+    <programme start="20260930190000 +0000" stop="20260930210000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930220000 +0000" stop="20260930230000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20261001000000 +0000" stop="20260930235959 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20260929000000 +0000" stop="20260929060000 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929060000 +0000" stop="20260929065900 +0000" channel="1003218.shahid">
+        <title>Market Open</title>
+    </programme>
+    <programme start="20260929065900 +0000" stop="20260929080000 +0000" channel="1003218.shahid">
+        <title>Market Pulse</title>
+    </programme>
+    <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 1</title>
+    </programme>
+    <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 2</title>
+    </programme>
+    <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="1003218.shahid">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 3</title>
+    </programme>
+    <programme start="20260929113000 +0000" stop="20260929130000 +0000" channel="1003218.shahid">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 4</title>
+    </programme>
+    <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 5</title>
+    </programme>
+    <programme start="20260929160000 +0000" stop="20260929160500 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260929160500 +0000" stop="20260930060000 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930060000 +0000" stop="20260930065900 +0000" channel="1003218.shahid">
+        <title>Market Open</title>
+    </programme>
+    <programme start="20260930065900 +0000" stop="20260930080000 +0000" channel="1003218.shahid">
+        <title>Market Pulse</title>
+    </programme>
+    <programme start="20260930080000 +0000" stop="20260930090000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 1</title>
+    </programme>
+    <programme start="20260930090000 +0000" stop="20260930100000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 2</title>
+    </programme>
+    <programme start="20260930100000 +0000" stop="20260930110000 +0000" channel="1003218.shahid">
+        <title>Power Lunch</title>
+    </programme>
+    <programme start="20260930110000 +0000" stop="20260930113000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 3</title>
+    </programme>
+    <programme start="20260930113000 +0000" stop="20260930123100 +0000" channel="1003218.shahid">
+        <title>Closing Bell</title>
+    </programme>
+    <programme start="20260930123100 +0000" stop="20260930130000 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930130000 +0000" stop="20260930131000 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930131000 +0000" stop="20260930140000 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 4</title>
+    </programme>
+    <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="1003218.shahid">
+        <title>Al Aswaq Al Arabiya 5</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930160500 +0000" channel="1003218.shahid">
+        <title>Al Arabiya News</title>
+    </programme>
+    <programme start="20260930160500 +0000" stop="20260930235959 +0000" channel="1003218.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="388566.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="946938.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929004216 +0000" channel="969745.shahid">
@@ -5517,6 +5775,9 @@
     </programme>
     <programme start="20260930233542 +0000" stop="20260930235959 +0000" channel="969745.shahid">
         <title>Kollona Iyal Qrayya Season 1 Episode 10</title>
+    </programme>
+    <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="946938.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929001035 +0000" channel="976272.shahid">
         <title>Al Kabeer Season 5 Episode 16</title>
@@ -6337,512 +6598,203 @@
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="49923088717401.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20260929000000 +0000" stop="20260929000500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929000500 +0000" stop="20260929010000 +0000" channel="387286.shahid">
-        <title>Hour Of Discussion</title>
-    </programme>
-    <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="387286.shahid">
-        <title>Bila Tahaffoth</title>
-    </programme>
-    <programme start="20260929020000 +0000" stop="20260929020500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929020500 +0000" stop="20260929030000 +0000" channel="387286.shahid">
-        <title>Outside The Box</title>
-    </programme>
-    <programme start="20260929030000 +0000" stop="20260929030500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929030500 +0000" stop="20260929035500 +0000" channel="387286.shahid">
-        <title>Khaleeji 27</title>
-    </programme>
-    <programme start="20260929035500 +0000" stop="20260929040000 +0000" channel="387286.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929050000 +0000" stop="20260929065900 +0000" channel="387286.shahid">
-        <title>Sabah Al Arabiya</title>
-    </programme>
-    <programme start="20260929065900 +0000" stop="20260929073000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929073000 +0000" stop="20260929075500 +0000" channel="387286.shahid">
-        <title>Market Pulse</title>
-    </programme>
-    <programme start="20260929075500 +0000" stop="20260929080000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260929080000 +0000" stop="20260929085500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929085500 +0000" stop="20260929090000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="387286.shahid">
-        <title>Al Aswaq Al Arabiya 2</title>
-    </programme>
-    <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="387286.shahid">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="387286.shahid">
-        <title>Closing Bell</title>
-    </programme>
-    <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="387286.shahid">
-        <title>Sports News</title>
-    </programme>
-    <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929150000 +0000" stop="20260929150500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929150500 +0000" stop="20260929160000 +0000" channel="387286.shahid">
-        <title>Tafa&#039;olcom</title>
-    </programme>
-    <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="387286.shahid">
-        <title>Sports News</title>
-    </programme>
-    <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="387286.shahid">
-        <title>Hour Of Discussion</title>
-    </programme>
-    <programme start="20260929180000 +0000" stop="20260929190000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929190000 +0000" stop="20260929195400 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929195400 +0000" stop="20260929200000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260929200000 +0000" stop="20260929205500 +0000" channel="387286.shahid">
-        <title>Outside The Box</title>
-    </programme>
-    <programme start="20260929205500 +0000" stop="20260929210000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260929210000 +0000" stop="20260929215000 +0000" channel="387286.shahid">
-        <title>Khaleeji 27</title>
-    </programme>
-    <programme start="20260929215000 +0000" stop="20260929220000 +0000" channel="387286.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929220000 +0000" stop="20260929225500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929225500 +0000" stop="20260929230000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260929230000 +0000" stop="20260929233000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929233000 +0000" stop="20260930000000 +0000" channel="387286.shahid">
-        <title>Sijal</title>
-    </programme>
-    <programme start="20260930000000 +0000" stop="20260930000500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930000500 +0000" stop="20260930010000 +0000" channel="387286.shahid">
-        <title>Hour Of Discussion</title>
-    </programme>
-    <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="387286.shahid">
-        <title>Fasl Al Maqal Season 2026 Episode 14</title>
-    </programme>
-    <programme start="20260930020000 +0000" stop="20260930020500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930020500 +0000" stop="20260930030000 +0000" channel="387286.shahid">
-        <title>Outside The Box</title>
-    </programme>
-    <programme start="20260930030000 +0000" stop="20260930030500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930030500 +0000" stop="20260930040000 +0000" channel="387286.shahid">
-        <title>Khaleeji 27</title>
-    </programme>
-    <programme start="20260930040000 +0000" stop="20260930050000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930050000 +0000" stop="20260930065900 +0000" channel="387286.shahid">
-        <title>Sabah Al Arabiya</title>
-    </programme>
-    <programme start="20260930065900 +0000" stop="20260930073000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930073000 +0000" stop="20260930075500 +0000" channel="387286.shahid">
-        <title>Market Pulse</title>
-    </programme>
-    <programme start="20260930075500 +0000" stop="20260930080000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260930080000 +0000" stop="20260930085500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930085500 +0000" stop="20260930090000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260930090000 +0000" stop="20260930093000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930093000 +0000" stop="20260930100000 +0000" channel="387286.shahid">
-        <title>Al Aswaq Al Arabiya 2</title>
-    </programme>
-    <programme start="20260930100000 +0000" stop="20260930103000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930103000 +0000" stop="20260930110000 +0000" channel="387286.shahid">
-        <title>Power Lunch</title>
-    </programme>
-    <programme start="20260930110000 +0000" stop="20260930113000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930113000 +0000" stop="20260930123000 +0000" channel="387286.shahid">
-        <title>Closing Bell</title>
-    </programme>
-    <programme start="20260930123000 +0000" stop="20260930130000 +0000" channel="387286.shahid">
-        <title>Sports News</title>
-    </programme>
-    <programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930150000 +0000" stop="20260930150500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930150500 +0000" stop="20260930160000 +0000" channel="387286.shahid">
-        <title>Tafa&#039;olcom</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="387286.shahid">
-        <title>Sports News</title>
-    </programme>
-    <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="387286.shahid">
-        <title>Hour Of Discussion</title>
-    </programme>
-    <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930190000 +0000" stop="20260930195400 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930195400 +0000" stop="20260930195500 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260930195500 +0000" stop="20260930200000 +0000" channel="387286.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930200000 +0000" stop="20260930205500 +0000" channel="387286.shahid">
-        <title>Outside The Box</title>
-    </programme>
-    <programme start="20260930205500 +0000" stop="20260930210000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="387286.shahid">
-        <title>Khaleeji 27</title>
-    </programme>
-    <programme start="20260930220000 +0000" stop="20260930225500 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930225500 +0000" stop="20260930230000 +0000" channel="387286.shahid">
-        <title>Kol Youm Ketab</title>
-    </programme>
-    <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="387286.shahid">
-        <title>Qabil Lil Jadal Season 2024 Episode 54</title>
-    </programme>
-    <programme start="20261001000000 +0000" stop="20260930235959 +0000" channel="387286.shahid">
-        <title>Al Arabiya News</title>
-    </programme>
-    <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929003000 +0000" stop="20260929010500 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 165</title>
-    </programme>
-    <programme start="20260929010500 +0000" stop="20260929014000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 115</title>
-    </programme>
-    <programme start="20260929014000 +0000" stop="20260929023000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260929023000 +0000" stop="20260929032000 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 20</title>
-    </programme>
-    <programme start="20260929032000 +0000" stop="20260929040500 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260929040500 +0000" stop="20260929045500 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929045500 +0000" stop="20260929053000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 165</title>
-    </programme>
-    <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 115</title>
-    </programme>
-    <programme start="20260929060000 +0000" stop="20260929064800 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260929064800 +0000" stop="20260929070000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929070000 +0000" stop="20260929074400 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 20</title>
-    </programme>
-    <programme start="20260929074400 +0000" stop="20260929080000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929080000 +0000" stop="20260929084100 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260929084100 +0000" stop="20260929090000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 165</title>
-    </programme>
-    <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 115</title>
-    </programme>
-    <programme start="20260929100000 +0000" stop="20260929104200 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 11</title>
-    </programme>
-    <programme start="20260929104200 +0000" stop="20260929110000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929110000 +0000" stop="20260929114800 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260929114800 +0000" stop="20260929120000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929120000 +0000" stop="20260929125100 +0000" channel="387294.shahid">
-        <title>Aa Amal Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260929125100 +0000" stop="20260929130000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929130000 +0000" stop="20260929134300 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260929134300 +0000" stop="20260929140000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929140000 +0000" stop="20260929144200 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260929144200 +0000" stop="20260929150000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929150000 +0000" stop="20260929154100 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260929154100 +0000" stop="20260929160000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929160000 +0000" stop="20260929173000 +0000" channel="387294.shahid">
-        <title>Nadeena Khaleeji 27</title>
-    </programme>
-    <programme start="20260929173000 +0000" stop="20260929193000 +0000" channel="387294.shahid">
-        <title>Khaleeji Arabian Dyar 27 Saudi 2026: Saudi Arabia X Iraq</title>
-    </programme>
-    <programme start="20260929193000 +0000" stop="20260929210000 +0000" channel="387294.shahid">
-        <title>Nadeena</title>
-    </programme>
-    <programme start="20260929210000 +0000" stop="20260929213000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 165</title>
-    </programme>
-    <programme start="20260929213000 +0000" stop="20260929221500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260929221500 +0000" stop="20260929230000 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260929230000 +0000" stop="20260929234000 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260929234000 +0000" stop="20260929234500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260929234500 +0000" stop="20260930003000 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260930003000 +0000" stop="20260930010000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 164</title>
-    </programme>
-    <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 114</title>
-    </programme>
-    <programme start="20260930013000 +0000" stop="20260930021500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260930021500 +0000" stop="20260930030000 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260930030000 +0000" stop="20260930034000 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260930034000 +0000" stop="20260930040000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930040000 +0000" stop="20260930044100 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260930044100 +0000" stop="20260930050000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930050000 +0000" stop="20260930053000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 164</title>
-    </programme>
-    <programme start="20260930053000 +0000" stop="20260930060000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 114</title>
-    </programme>
-    <programme start="20260930060000 +0000" stop="20260930064000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260930064000 +0000" stop="20260930070000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930070000 +0000" stop="20260930074300 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 21</title>
-    </programme>
-    <programme start="20260930074300 +0000" stop="20260930080000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930080000 +0000" stop="20260930084200 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 27</title>
-    </programme>
-    <programme start="20260930084200 +0000" stop="20260930090000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930090000 +0000" stop="20260930092900 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 166</title>
-    </programme>
-    <programme start="20260930092900 +0000" stop="20260930093000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 116</title>
-    </programme>
-    <programme start="20260930093000 +0000" stop="20260930100000 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 114</title>
-    </programme>
-    <programme start="20260930100000 +0000" stop="20260930104100 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 12</title>
-    </programme>
-    <programme start="20260930104100 +0000" stop="20260930110000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930110000 +0000" stop="20260930114000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260930114000 +0000" stop="20260930120000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930120000 +0000" stop="20260930124600 +0000" channel="387294.shahid">
-        <title>Aa Amal Season 1 Episode 29</title>
-    </programme>
-    <programme start="20260930124600 +0000" stop="20260930130000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930130000 +0000" stop="20260930134400 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 22</title>
-    </programme>
-    <programme start="20260930134400 +0000" stop="20260930140000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930140000 +0000" stop="20260930144000 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260930144000 +0000" stop="20260930150000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930150000 +0000" stop="20260930154100 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 13</title>
-    </programme>
-    <programme start="20260930154100 +0000" stop="20260930160000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930160000 +0000" channel="387294.shahid">
-        <title>Nadeena Khaleeji 27</title>
-    </programme>
-    <programme start="20260930160000 +0000" stop="20260930163000 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 167</title>
-    </programme>
-    <programme start="20260930163000 +0000" stop="20260930165900 +0000" channel="387294.shahid">
-        <title>Al A&#039;ela Season 2 Episode 117</title>
-    </programme>
-    <programme start="20260930165900 +0000" stop="20260930173000 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260930173000 +0000" stop="20260930180000 +0000" channel="387294.shahid">
-        <title>Khaleeji Arabian Dyar 27 Saudi 2026: UAE X Qatar</title>
-    </programme>
-    <programme start="20260930180000 +0000" stop="20260930184000 +0000" channel="387294.shahid">
-        <title>Teebah Season 1 Episode 15</title>
-    </programme>
-    <programme start="20260930184000 +0000" stop="20260930190000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="387294.shahid">
-        <title>Taht Al Daght</title>
-    </programme>
-    <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="387294.shahid">
-        <title>Nadeena</title>
-    </programme>
-    <programme start="20260930200000 +0000" stop="20260930202900 +0000" channel="387294.shahid">
-        <title>Al Motawahesh Season 1 Episode 167</title>
-    </programme>
-    <programme start="20260930202900 +0000" stop="20260930211300 +0000" channel="387294.shahid">
-        <title>Fi Mithl Hatha Al Yawm Season 1 Episode 26</title>
-    </programme>
-    <programme start="20260930211300 +0000" stop="20260930213000 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930213000 +0000" stop="20260930221500 +0000" channel="387294.shahid">
-        <title>A&#039;elati Tarbah</title>
-    </programme>
-    <programme start="20260930221500 +0000" stop="20260930230000 +0000" channel="387294.shahid">
-        <title>Al Nowaylati Season 1 Episode 22</title>
-    </programme>
-    <programme start="20260930230000 +0000" stop="20260930233800 +0000" channel="387294.shahid">
-        <title>Ali Klay Season 1 Episode 28</title>
-    </programme>
-    <programme start="20260930233800 +0000" stop="20260930234500 +0000" channel="387294.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20260930234500 +0000" stop="20260930235959 +0000" channel="387294.shahid">
-        <title>Awdat Khalati Season 1 Episode 13</title>
-    </programme>
     <programme start="20260929000000 +0000" stop="20260930235959 +0000" channel="946945.shahid">
         <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260929000000 +0000" stop="20260929000000 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="387251.shahid">
+        <title>El Maddah: Ostouret El Ishq  </title>
+    </programme>
+    <programme start="20260929030000 +0000" stop="20260929035400 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 332</title>
+    </programme>
+    <programme start="20260929035400 +0000" stop="20260929050000 +0000" channel="387251.shahid">
+        <title>Wa Tqabil Habeeb  </title>
+    </programme>
+    <programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="387251.shahid">
+        <title>Hayati Al Mithaliyya  </title>
+    </programme>
+    <programme start="20260929060000 +0000" stop="20260929070000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260929070000 +0000" stop="20260929080000 +0000" channel="387251.shahid">
+        <title>El Maddah: Ostouret El Ishq  </title>
+    </programme>
+    <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="387251.shahid">
+        <title>Wa Tqabil Habeeb  </title>
+    </programme>
+    <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260929110000 +0000" stop="20260929120100 +0000" channel="387251.shahid">
+        <title>Hayati Al Mithaliyya  </title>
+    </programme>
+    <programme start="20260929120100 +0000" stop="20260929125500 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 332</title>
+    </programme>
+    <programme start="20260929125500 +0000" stop="20260929140000 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="387251.shahid">
+        <title>Wa Tqabil Habeeb  </title>
+    </programme>
+    <programme start="20260929160000 +0000" stop="20260929170100 +0000" channel="387251.shahid">
+        <title>Hayati Al Mithaliyya  </title>
+    </programme>
+    <programme start="20260929170100 +0000" stop="20260929180100 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260929180100 +0000" stop="20260929190000 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260929190000 +0000" stop="20260929200000 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 333</title>
+    </programme>
+    <programme start="20260929200000 +0000" stop="20260929210000 +0000" channel="387251.shahid">
+        <title>El Maddah: Ostouret El Ishq  </title>
+    </programme>
+    <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260929220000 +0000" stop="20260929230000 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260930010000 +0000" stop="20260930020000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260930020000 +0000" stop="20260930030500 +0000" channel="387251.shahid">
+        <title>El Maddah: Ostouret El Ishq  </title>
+    </programme>
+    <programme start="20260930030500 +0000" stop="20260930040000 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 333</title>
+    </programme>
+    <programme start="20260930040000 +0000" stop="20260930050400 +0000" channel="387251.shahid">
+        <title>Wa Tqabil Habeeb  </title>
+    </programme>
+    <programme start="20260930050400 +0000" stop="20260930060000 +0000" channel="387251.shahid">
+        <title>Hayati Al Mithaliyya  </title>
+    </programme>
+    <programme start="20260930060000 +0000" stop="20260930070000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260930070000 +0000" stop="20260930075500 +0000" channel="387251.shahid">
+        <title>El Maddah: Ostouret El Ishq  </title>
+    </programme>
+    <programme start="20260930075500 +0000" stop="20260930080000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930080000 +0000" stop="20260930085500 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260930085500 +0000" stop="20260930090000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930090000 +0000" stop="20260930095500 +0000" channel="387251.shahid">
+        <title>Wa Tqabil Habeeb  </title>
+    </programme>
+    <programme start="20260930095500 +0000" stop="20260930100000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930100000 +0000" stop="20260930105400 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260930105400 +0000" stop="20260930110000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930110000 +0000" stop="20260930115300 +0000" channel="387251.shahid">
+        <title>Hayati Al Mithaliyya  </title>
+    </programme>
+    <programme start="20260930115300 +0000" stop="20260930120000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930120000 +0000" stop="20260930124600 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 333</title>
+    </programme>
+    <programme start="20260930124600 +0000" stop="20260930130000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930130000 +0000" stop="20260930135400 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260930135400 +0000" stop="20260930140000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930140000 +0000" stop="20260930145500 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260930145500 +0000" stop="20260930150000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930150000 +0000" stop="20260930155300 +0000" channel="387251.shahid">
+        <title>Wa Tqabil Habeeb  </title>
+    </programme>
+    <programme start="20260930155300 +0000" stop="20260930160000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930160000 +0000" stop="20260930165500 +0000" channel="387251.shahid">
+        <title>Hayati Al Mithaliyya  </title>
+    </programme>
+    <programme start="20260930165500 +0000" stop="20260930170000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930170000 +0000" stop="20260930175400 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
+    </programme>
+    <programme start="20260930175400 +0000" stop="20260930180000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930180000 +0000" stop="20260930185300 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260930185300 +0000" stop="20260930190000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930190000 +0000" stop="20260930194700 +0000" channel="387251.shahid">
+        <title>Habibati.. Man Takoun? Season 1 Episode 334</title>
+    </programme>
+    <programme start="20260930194700 +0000" stop="20260930200000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930200000 +0000" stop="20260930210000 +0000" channel="387251.shahid">
+        <title>El Maddah: Ostouret El Ishq  </title>
+    </programme>
+    <programme start="20260930210000 +0000" stop="20260930220000 +0000" channel="387251.shahid">
+        <title>Bab Al Hara  </title>
+    </programme>
+    <programme start="20260930220000 +0000" stop="20260930225500 +0000" channel="387251.shahid">
+        <title>Three Kingdoms  </title>
+    </programme>
+    <programme start="20260930225500 +0000" stop="20260930230000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20260930230000 +0000" stop="20260930235400 +0000" channel="387251.shahid">
+        <title>Beyt Al Ankaboot  </title>
+    </programme>
+    <programme start="20260930235400 +0000" stop="20261001000000 +0000" channel="387251.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261001000000 +0000" stop="20260930235959 +0000" channel="387251.shahid">
+        <title>Al Hofra  </title>
     </programme>
     <programme start="20260929000000 +0000" stop="20260929000602 +0000" channel="988045.shahid">
         <title>Maraya 98 Episode 20</title>
