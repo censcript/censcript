@@ -15089,7 +15089,7 @@
     <desc lang="en">Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20260929160000 +0000" stop="20260929180000 +0000" channel="spotv2.unifitv">
+  <programme start="20260929160000 +0000" stop="20260929181500 +0000" channel="spotv2.unifitv">
     <title lang="en">SRO Japan Cup 2026, Suzuka Rd 7 &amp; 8 - Race 2</title>
     <desc lang="en">The country's only domestic sprint GT championship became a standalone series since 2024, contested with GT3-spec and GT4-spec cars.</desc>
     <category lang="en">Motorsports</category>

@@ -4172,10 +4172,10 @@
     <title>Entong</title>
 </programme>
 <programme start="20260929103000 +0000" stop="20260929120000 +0000" channel="GTV.mncvision">
-    <title>Film Keluarga</title>
+    <title>Tipu Daya Kera Berujung Jera</title>
 </programme>
 <programme start="20260929120000 +0000" stop="20260929133000 +0000" channel="GTV.mncvision">
-    <title>Film Keluarga</title>
+    <title>Rahasia Duri Tajam Landak Cilik</title>
 </programme>
 <programme start="20260929133000 +0000" stop="20260929154500 +0000" channel="GTV.mncvision">
     <title>Medallion</title>
@@ -4211,10 +4211,10 @@
     <title>Entong</title>
 </programme>
 <programme start="20260929103000 +0000" stop="20260929120000 +0000" channel="GTV HD.mncvision">
-    <title>Film Keluarga</title>
+    <title>Tipu Daya Kera Berujung Jera</title>
 </programme>
 <programme start="20260929120000 +0000" stop="20260929133000 +0000" channel="GTV HD.mncvision">
-    <title>Film Keluarga</title>
+    <title>Rahasia Duri Tajam Landak Cilik</title>
 </programme>
 <programme start="20260929133000 +0000" stop="20260929154500 +0000" channel="GTV HD.mncvision">
     <title>Medallion</title>

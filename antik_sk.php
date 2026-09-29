@@ -17143,7 +17143,349 @@
   <programme start="20261001213000 +0000" stop="20261001220000 +0000" channel="Euronews.webtv.sk">
     <title lang="id">The European debrief</title>
   </programme>
-  <programme start="20260930215800 +0000" stop="20261001005800 +0000" channel="NHK World Japan.webtv.sk">
+  <programme start="20260930220000 +0000" stop="20260930222800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20260930222800 +0000" stop="20260930223000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260930223000 +0000" stop="20260930225800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20260930225800 +0000" stop="20260930225900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260930225900 +0000" stop="20260930230000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260930230000 +0000" stop="20260930232800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20260930232800 +0000" stop="20260930233000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20260930233000 +0000" stop="20260930235500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Spiritual Explorers</title>
+  </programme>
+  <programme start="20260930235500 +0000" stop="20261001000000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">One in Every Japanese</title>
+  </programme>
+  <programme start="20261001000000 +0000" stop="20261001002800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001002800 +0000" stop="20261001002900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001002900 +0000" stop="20261001003000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001003000 +0000" stop="20261001004500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk #290</title>
+  </programme>
+  <programme start="20261001004500 +0000" stop="20261001010000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20261001010000 +0000" stop="20261001012800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20261001012800 +0000" stop="20261001014300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk #288</title>
+  </programme>
+  <programme start="20261001014300 +0000" stop="20261001015300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo 10min.</title>
+  </programme>
+  <programme start="20261001015300 +0000" stop="20261001015400 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001015400 +0000" stop="20261001015500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001015500 +0000" stop="20261001020000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Ukiyoe EDO-LIFE</title>
+  </programme>
+  <programme start="20261001020000 +0000" stop="20261001022800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20261001022800 +0000" stop="20261001023000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001023000 +0000" stop="20261001025800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20261001025800 +0000" stop="20261001025900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001025900 +0000" stop="20261001030000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001030000 +0000" stop="20261001032800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001032800 +0000" stop="20261001033000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001033000 +0000" stop="20261001035800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20261001035800 +0000" stop="20261001040000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001040000 +0000" stop="20261001042800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001042800 +0000" stop="20261001042900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001042900 +0000" stop="20261001043000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001043000 +0000" stop="20261001045800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20261001045800 +0000" stop="20261001050000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001050000 +0000" stop="20261001052800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001052800 +0000" stop="20261001052900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001052900 +0000" stop="20261001053000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001053000 +0000" stop="20261001054500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk #290</title>
+  </programme>
+  <programme start="20261001054500 +0000" stop="20261001060000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20261001060000 +0000" stop="20261001062800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001062800 +0000" stop="20261001062900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001062900 +0000" stop="20261001063000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001063000 +0000" stop="20261001065500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Spiritual Explorers</title>
+  </programme>
+  <programme start="20261001065500 +0000" stop="20261001070000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">One in Every Japanese</title>
+  </programme>
+  <programme start="20261001070000 +0000" stop="20261001072800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001072800 +0000" stop="20261001073000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001073000 +0000" stop="20261001075700 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Today&apos;s Close-Up</title>
+  </programme>
+  <programme start="20261001075700 +0000" stop="20261001075900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001075900 +0000" stop="20261001080000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001080000 +0000" stop="20261001082800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001082800 +0000" stop="20261001082900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001082900 +0000" stop="20261001083000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001083000 +0000" stop="20261001085800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Core Kyoto</title>
+  </programme>
+  <programme start="20261001085800 +0000" stop="20261001090000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001090000 +0000" stop="20261001092800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001092800 +0000" stop="20261001093000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001093000 +0000" stop="20261001095800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japanology Plus</title>
+  </programme>
+  <programme start="20261001095800 +0000" stop="20261001095900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001095900 +0000" stop="20261001100000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001100000 +0000" stop="20261001102800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001102800 +0000" stop="20261001102900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001102900 +0000" stop="20261001103000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001103000 +0000" stop="20261001105800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20261001105800 +0000" stop="20261001110000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001110000 +0000" stop="20261001112800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001112800 +0000" stop="20261001113000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001113000 +0000" stop="20261001115900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Backstage Japan</title>
+  </programme>
+  <programme start="20261001115900 +0000" stop="20261001120000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001120000 +0000" stop="20261001122800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001122800 +0000" stop="20261001123000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001123000 +0000" stop="20261001125700 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Today&apos;s Close-Up</title>
+  </programme>
+  <programme start="20261001125700 +0000" stop="20261001125900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001125900 +0000" stop="20261001130000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001130000 +0000" stop="20261001132800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20261001132800 +0000" stop="20261001133000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001133000 +0000" stop="20261001135800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Core Kyoto</title>
+  </programme>
+  <programme start="20261001135800 +0000" stop="20261001140000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001140000 +0000" stop="20261001142800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20261001142800 +0000" stop="20261001143000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001143000 +0000" stop="20261001145800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japanology Plus</title>
+  </programme>
+  <programme start="20261001145800 +0000" stop="20261001145900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001145900 +0000" stop="20261001150000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001150000 +0000" stop="20261001152800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001152800 +0000" stop="20261001153000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001153000 +0000" stop="20261001155900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Backstage Japan</title>
+  </programme>
+  <programme start="20261001155900 +0000" stop="20261001160000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001160000 +0000" stop="20261001162800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001162800 +0000" stop="20261001163000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001163000 +0000" stop="20261001165800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20261001165800 +0000" stop="20261001165900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001165900 +0000" stop="20261001170000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWS 7</title>
+  </programme>
+  <programme start="20261001173000 +0000" stop="20261001175700 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Today&apos;s Close-Up</title>
+  </programme>
+  <programme start="20261001175700 +0000" stop="20261001175900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001175900 +0000" stop="20261001180000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001180000 +0000" stop="20261001182800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20261001182800 +0000" stop="20261001184300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk #253</title>
+  </programme>
+  <programme start="20261001184300 +0000" stop="20261001185300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo 10min.</title>
+  </programme>
+  <programme start="20261001185300 +0000" stop="20261001185400 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001185400 +0000" stop="20261001185500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001185500 +0000" stop="20261001190000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Ukiyoe EDO-LIFE</title>
+  </programme>
+  <programme start="20261001190000 +0000" stop="20261001192800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20261001192800 +0000" stop="20261001193000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001193000 +0000" stop="20261001195800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Core Kyoto</title>
+  </programme>
+  <programme start="20261001195800 +0000" stop="20261001200000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001200000 +0000" stop="20261001202800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001202800 +0000" stop="20261001202900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001202900 +0000" stop="20261001203000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001203000 +0000" stop="20261001205800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japanology Plus</title>
+  </programme>
+  <programme start="20261001205800 +0000" stop="20261001205900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001205900 +0000" stop="20261001210000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001210000 +0000" stop="20261001212800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261001212800 +0000" stop="20261001213000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261001213000 +0000" stop="20261001215800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan Railway Journal</title>
+  </programme>
+  <programme start="20261001215800 +0000" stop="20261001220000 +0000" channel="NHK World Japan.webtv.sk">
     <title lang="id">INFO</title>
   </programme>
   <programme start="20260930220000 +0000" stop="20260930223000 +0000" channel="Arirang TV.webtv.sk">

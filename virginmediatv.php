@@ -4112,7 +4112,7 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260929110000 +0000" stop="20260929133000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live Tennis - ATP Finals</title>
+    <title>Live Tennis: ATP Chengdu Open 2026 - Final</title>
 </programme>
 <programme start="20260929133000 +0000" stop="20260929160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Sports Desk</title>
@@ -4244,7 +4244,7 @@
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
 </programme>
 <programme start="20260929020000 +0000" stop="20260929033000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: Day Highlights - ATP Semi-Finals</title>
+    <title>Tennis: Day Highlights</title>
 </programme>
 <programme start="20260929033000 +0000" stop="20260929050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: Day Highlights - ATP Semi-Finals</title>
@@ -4253,7 +4253,7 @@
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
 </programme>
 <programme start="20260929110000 +0000" stop="20260929133000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live Tennis - ATP Finals</title>
+    <title>Live Tennis: ATP Hangzhou Open 2026 - Final</title>
 </programme>
 <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
@@ -4387,8 +4387,11 @@
 <programme start="20260929050000 +0000" stop="20260929070000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Everton v Manchester United</title>
 </programme>
-<programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Premier League Free-Kicks</title>
+<programme start="20260929120000 +0000" stop="20260929121500 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Wayne Rooney: Exclusive Interview</title>
+</programme>
+<programme start="20260929121500 +0000" stop="20260929123000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
 </programme>
 <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League 2 - Highlights: Manchester United U21 v Brentford U21</title>
@@ -4397,7 +4400,7 @@
     <title>Premier League - Fulham v Manchester United</title>
 </programme>
 <programme start="20260929144500 +0000" stop="20260929150000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - MUW At Old Trafford</title>
+    <title>Player Spotlight - Wayne Rooney: Exclusive Interview</title>
 </programme>
 <programme start="20260929150000 +0000" stop="20260929170000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Manchester United v Ipswich Town</title>
@@ -5003,7 +5006,7 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20260929110000 +0000" stop="20260929133000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live Tennis - ATP Finals</title>
+    <title>Live Tennis: ATP Chengdu Open 2026 - Final</title>
 </programme>
 <programme start="20260929133000 +0000" stop="20260929160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Sports Desk</title>
@@ -5135,7 +5138,7 @@
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
 </programme>
 <programme start="20260929020000 +0000" stop="20260929033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: Day Highlights - ATP Semi-Finals</title>
+    <title>Tennis: Day Highlights</title>
 </programme>
 <programme start="20260929033000 +0000" stop="20260929050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - ATP Semi-Finals</title>
@@ -5144,7 +5147,7 @@
     <title>Tennis: WTA Singapore Open 2026 - Final</title>
 </programme>
 <programme start="20260929110000 +0000" stop="20260929133000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live Tennis - ATP Finals</title>
+    <title>Live Tennis: ATP Hangzhou Open 2026 - Final</title>
 </programme>
 <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Singapore Open 2026 - Final</title>

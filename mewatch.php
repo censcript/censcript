@@ -712,10 +712,10 @@
     <programme start="20260928160000 +0000" stop="20260929084800 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th September, Tuesday 4.48pm. FIFA ASEAN Cup 2026™: Philippines vs Pakistan</title>
     </programme>
-    <programme start="20260929084800 +0000" stop="20260929110000 +0000" channel="Live 5.mewatch">
+    <programme start="20260929084800 +0000" stop="20260929113000 +0000" channel="Live 5.mewatch">
         <title>FIFA ASEAN Cup 2026™: Philippines vs Pakistan</title>
     </programme>
-    <programme start="20260929110000 +0000" stop="20260929121800 +0000" channel="Live 5.mewatch">
+    <programme start="20260929113000 +0000" stop="20260929121800 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th September, Tuesday 8.18pm. FIFA ASEAN Cup 2026™: Thailand vs Vietnam</title>
     </programme>
     <programme start="20260929121800 +0000" stop="20260929143000 +0000" channel="Live 5.mewatch">
