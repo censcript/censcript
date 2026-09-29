@@ -2407,22 +2407,13 @@
 <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260929120000 +0000" stop="20260929124500 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
 </programme>
-<programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20260929124500 +0000" stop="20260929144500 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Politics Live</title>
 </programme>
-<programme start="20260929133000 +0000" stop="20260929134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20260929134500 +0000" stop="20260929140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20260929140000 +0000" stop="20260929143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20260929144500 +0000" stop="20260929150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
 </programme>
 <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="BBC_News_24.virginmediatv">
@@ -4312,14 +4303,8 @@
 <programme start="20260929124500 +0000" stop="20260929163000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
+<programme start="20260929163000 +0000" stop="20260929190000 +0000" channel="Racing_UK.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260928230000 +0000" stop="20260929003000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
@@ -4354,14 +4339,8 @@
 <programme start="20260929124500 +0000" stop="20260929163000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20260929163000 +0000" stop="20260929170000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20260929170000 +0000" stop="20260929173000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20260929173000 +0000" stop="20260929180000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
+<programme start="20260929163000 +0000" stop="20260929190000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="MUTV.virginmediatv">
     <title>FA Women&#039;s League Cup - Highlights: Manchester United v Sheffield United</title>
