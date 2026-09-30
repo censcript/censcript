@@ -640,10 +640,10 @@
   <programme start="20261002072500 +0000" stop="20261002073500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Varte s nami (39)</title>
   </programme>
-  <programme start="20261002073500 +0000" stop="20261002090500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261002073500 +0000" stop="20261002091000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Utajený šéf V (3)</title>
   </programme>
-  <programme start="20261002090500 +0000" stop="20261002101000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261002091000 +0000" stop="20261002101000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Sľub IV (19)</title>
   </programme>
   <programme start="20261002101000 +0000" stop="20261002113000 +0000" channel="Markíza +1.webtv.sk">
@@ -868,25 +868,25 @@
   <programme start="20261002202000 +0000" stop="20261002225000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Batman sa vracia</title>
   </programme>
-  <programme start="20261001215500 +0000" stop="20261001225500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261001215000 +0000" stop="20261001225000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska na prvý omyl (35)</title>
   </programme>
-  <programme start="20261001225500 +0000" stop="20261001233500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261001225000 +0000" stop="20261001233000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska na prvý omyl (36)</title>
   </programme>
-  <programme start="20261001233500 +0000" stop="20261002002000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261001233000 +0000" stop="20261002001500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (61)</title>
   </programme>
-  <programme start="20261002002000 +0000" stop="20261002010500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261002001500 +0000" stop="20261002010000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (62)</title>
   </programme>
-  <programme start="20261002010500 +0000" stop="20261002014500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261002010000 +0000" stop="20261002013500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med IX (6)</title>
   </programme>
-  <programme start="20261002014500 +0000" stop="20261002021500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261002013500 +0000" stop="20261002021000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20261002021500 +0000" stop="20261002030000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261002021000 +0000" stop="20261002030000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Adela show (10)</title>
   </programme>
   <programme start="20261002030000 +0000" stop="20261002035000 +0000" channel="Doma.webtv.sk">

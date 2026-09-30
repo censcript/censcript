@@ -574,15 +574,6 @@
 <programme start="20260930100000 +0000" stop="20260930110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20260930130000 +0000" stop="20260930150000 +0000" channel="ANTV.vision">
-<title>Sepasang Mata Maut</title>
-</programme>
-<programme start="20260930150000 +0000" stop="20260930170000 +0000" channel="ANTV.vision">
-<title>Menjelang Magrib 2</title>
-</programme>
-<programme start="20260930170000 +0000" stop="20260930183000 +0000" channel="ANTV.vision">
-<title>Sea Wolves</title>
-</programme>
 <programme start="20260930183000 +0000" stop="20260930193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -744,9 +735,6 @@
 </programme>
 <programme start="20260930110000 +0000" stop="20260930130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="TVOne.vision">
-<title>Indonesia Business Forum</title>
 </programme>
 <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20260930163000 +0000" stop="20260930172000 +0000" channel="MDTV.vision">
 <title>Customs Protection</title>
+</programme>
+<programme start="20260930172000 +0000" stop="20260930175500 +0000" channel="MDTV.vision">
+<title>86</title>
+</programme>
+<programme start="20260930175500 +0000" stop="20260930200000 +0000" channel="MDTV.vision">
+<title>My Sassy Psychic</title>
+</programme>
+<programme start="20260930200000 +0000" stop="20260930211000 +0000" channel="MDTV.vision">
+<title>Di Balik Mitos</title>
+</programme>
+<programme start="20260930211000 +0000" stop="20260930230000 +0000" channel="MDTV.vision">
+<title>Top Spot</title>
 </programme>
