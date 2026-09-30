@@ -3920,10 +3920,10 @@
     <title>Netbusters - Round 3</title>
 </programme>
 <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Play-Offs - 2008/09: Burnley v Sheffield United</title>
@@ -4123,14 +4123,8 @@
 <programme start="20260930110000 +0000" stop="20260930150000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA China Open 2026 - Day 1</title>
 </programme>
-<programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Sports Desk</title>
-</programme>
-<programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
-</programme>
-<programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+<programme start="20260930150000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>Sky Sports News</title>
@@ -4150,26 +4144,20 @@
 <programme start="20260930050000 +0000" stop="20260930060000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260930120000 +0000" stop="20260930130000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Lunchtime Live</title>
+<programme start="20260930110000 +0000" stop="20260930140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
-<programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sports Desk</title>
-</programme>
-<programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sports Desk</title>
-</programme>
-<programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Lost Grounds - The Journey Begins</title>
+<programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sports Desk</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930000000 +0000" stop="20260930034500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Premier League Darts - Night 1: Newcastle</title>
@@ -4739,10 +4727,10 @@
     <title>Netbusters - Round 3</title>
 </programme>
 <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Play-Offs - 2008/09: Burnley v Sheffield United</title>
@@ -4942,14 +4930,8 @@
 <programme start="20260930110000 +0000" stop="20260930150000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis: ATP &amp; WTA China Open 2026 - Day 1</title>
 </programme>
-<programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Sports Desk</title>
-</programme>
-<programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
-</programme>
-<programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+<programme start="20260930150000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>Sky Sports News</title>
@@ -4969,26 +4951,20 @@
 <programme start="20260930050000 +0000" stop="20260930060000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20260930120000 +0000" stop="20260930130000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Lunchtime Live</title>
+<programme start="20260930110000 +0000" stop="20260930140000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
-<programme start="20260930130000 +0000" stop="20260930140000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sports Desk</title>
-</programme>
-<programme start="20260930140000 +0000" stop="20260930143000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sports Desk</title>
-</programme>
-<programme start="20260930143000 +0000" stop="20260930150000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Lost Grounds - The Journey Begins</title>
+<programme start="20260930140000 +0000" stop="20260930150000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930150000 +0000" stop="20260930160000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sports Desk</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930160000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>The Premier League Show - Episode 122</title>
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930000000 +0000" stop="20260930034500 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Premier League Darts - Night 1: Newcastle</title>

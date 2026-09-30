@@ -3811,13 +3811,13 @@
   <programme start="20261001215500 +0000" stop="20261001234000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zuperdebata politiků Generace Z</title>
   </programme>
-  <programme start="20261001234000 +0000" stop="20261002012000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261001234000 +0000" stop="20261002011500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20261002012000 +0000" stop="20261002021500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261002011500 +0000" stop="20261002022000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
   </programme>
-  <programme start="20261002021500 +0000" stop="20261002035500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261002022000 +0000" stop="20261002035500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
   <programme start="20261002035500 +0000" stop="20261002040000 +0000" channel="CNN Prima News.webtv.sk">
@@ -4636,8 +4636,11 @@
   <programme start="20261002060000 +0000" stop="20261002063000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20261002063000 +0000" stop="20261002070000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261002063000 +0000" stop="20261002065000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20261002065000 +0000" stop="20261002070000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ENDURO magazín</title>
   </programme>
   <programme start="20261002070000 +0000" stop="20261002073000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">DominicCars</title>
@@ -8632,10 +8635,10 @@
   <programme start="20261002203500 +0000" stop="20261002220000 +0000" channel="Cinemax 2.webtv.sk">
     <title lang="id">Omaha</title>
   </programme>
-  <programme start="20261001220000 +0000" stop="20261002000500 +0000" channel="AMC.webtv.sk">
+  <programme start="20261001215500 +0000" stop="20261002000000 +0000" channel="AMC.webtv.sk">
     <title lang="id">Apocalypto</title>
   </programme>
-  <programme start="20261002000500 +0000" stop="20261002013500 +0000" channel="AMC.webtv.sk">
+  <programme start="20261002000000 +0000" stop="20261002013500 +0000" channel="AMC.webtv.sk">
     <title lang="id">Timecop</title>
   </programme>
   <programme start="20261002013500 +0000" stop="20261002030000 +0000" channel="AMC.webtv.sk">
@@ -14914,179 +14917,176 @@
   <programme start="20261002210000 +0000" stop="20261003031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20261001215000 +0000" stop="20261001225800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261001213000 +0000" stop="20261001221300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
   </programme>
-  <programme start="20261001225800 +0000" stop="20261001233500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Igor Šimko podpísal dohodu s okresom Sobrance</title>
+  <programme start="20261001221300 +0000" stop="20261001221600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Iniciatíva vs. Ľahostajnosť</title>
   </programme>
-  <programme start="20261001233500 +0000" stop="20261002001300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261001221600 +0000" stop="20261001225400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Folklór na Východe - Jozef Kopča</title>
   </programme>
-  <programme start="20261002001300 +0000" stop="20261002004900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261001225400 +0000" stop="20261001232600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Kým je Erik Sibal mimo politiky?</title>
   </programme>
-  <programme start="20261002004900 +0000" stop="20261002011800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Štafeta hrdinov 2026 pokračuje na Devín</title>
-  </programme>
-  <programme start="20261002011800 +0000" stop="20261002015700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Folklór na Východe - Jozef Kopča</title>
-  </programme>
-  <programme start="20261002015700 +0000" stop="20261002021000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
-  </programme>
-  <programme start="20261002021000 +0000" stop="20261002030000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 31.8.2026</title>
-  </programme>
-  <programme start="20261002030000 +0000" stop="20261002030900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20261002030900 +0000" stop="20261002034200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Štafeta hrdinov 2026 pokračuje na Devín</title>
-  </programme>
-  <programme start="20261002034200 +0000" stop="20261002034500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Aká by mala byť naša modlitba?</title>
-  </programme>
-  <programme start="20261002034500 +0000" stop="20261002040500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20261002040500 +0000" stop="20261002042000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 587</title>
-  </programme>
-  <programme start="20261002042000 +0000" stop="20261002043400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Gréckokatolícky magazín - 335</title>
-  </programme>
-  <programme start="20261002043400 +0000" stop="20261002044500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - druhá časť</title>
-  </programme>
-  <programme start="20261002044500 +0000" stop="20261002050000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Katedrála Prešov - Utiereň</title>
-  </programme>
-  <programme start="20261002050000 +0000" stop="20261002061500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
-  </programme>
-  <programme start="20261002061500 +0000" stop="20261002061900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Otcovia púšte</title>
-  </programme>
-  <programme start="20261002061900 +0000" stop="20261002062400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
-  </programme>
-  <programme start="20261002062400 +0000" stop="20261002064300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20261002064300 +0000" stop="20261002064400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Dobroprajnosť vs. Závisť</title>
-  </programme>
-  <programme start="20261002064400 +0000" stop="20261002065600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 587</title>
-  </programme>
-  <programme start="20261002065600 +0000" stop="20261002071000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Netradičný táborák</title>
-  </programme>
-  <programme start="20261002071000 +0000" stop="20261002071700 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Aktivita vs. Pasivita</title>
-  </programme>
-  <programme start="20261002071700 +0000" stop="20261002075300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261001232600 +0000" stop="20261001235200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Dnes bez lopty - Mashike Sukisa</title>
   </programme>
-  <programme start="20261002075300 +0000" stop="20261002075900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Ivetka: O role rodičovstva</title>
+  <programme start="20261001235200 +0000" stop="20261002002500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Igor Šimko podpísal dohodu s okresom Sobrance</title>
   </programme>
-  <programme start="20261002075900 +0000" stop="20261002082900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
+  <programme start="20261002002500 +0000" stop="20261002002700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
   </programme>
-  <programme start="20261002082900 +0000" stop="20261002095300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
+  <programme start="20261002002700 +0000" stop="20261002005300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Štafeta hrdinov 2026 pokračuje na Devín</title>
   </programme>
-  <programme start="20261002095300 +0000" stop="20261002095900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002005300 +0000" stop="20261002005800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Kurča na ohni</title>
+  </programme>
+  <programme start="20261002005800 +0000" stop="20261002015300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Aký kraj chce Igor Šimko?</title>
+  </programme>
+  <programme start="20261002015300 +0000" stop="20261002030000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam zo zastupiteľstva KSK - 24.8.2026</title>
+  </programme>
+  <programme start="20261002030000 +0000" stop="20261002031000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20261002031000 +0000" stop="20261002034100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Štafeta hrdinov 2026 pokračuje na Devín</title>
+  </programme>
+  <programme start="20261002034100 +0000" stop="20261002034500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek musí ísť niekedy proti tomu, čo sa od neho očakáva</title>
+  </programme>
+  <programme start="20261002034500 +0000" stop="20261002041400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261002041400 +0000" stop="20261002042900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 587</title>
+  </programme>
+  <programme start="20261002042900 +0000" stop="20261002052900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Košice - Sv. liturgia</title>
+  </programme>
+  <programme start="20261002052900 +0000" stop="20261002061900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Košice - Utiereň</title>
+  </programme>
+  <programme start="20261002061900 +0000" stop="20261002062400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
   </programme>
-  <programme start="20261002095900 +0000" stop="20261002101600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002062400 +0000" stop="20261002064000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261002064000 +0000" stop="20261002064900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Tímovosť vs. Individualizmus</title>
+  </programme>
+  <programme start="20261002064900 +0000" stop="20261002072000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 587</title>
+  </programme>
+  <programme start="20261002072000 +0000" stop="20261002072500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Kurča na ohni</title>
+  </programme>
+  <programme start="20261002072500 +0000" stop="20261002080000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
+  </programme>
+  <programme start="20261002080000 +0000" stop="20261002083000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
+  </programme>
+  <programme start="20261002083000 +0000" stop="20261002095900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
+  </programme>
+  <programme start="20261002095900 +0000" stop="20261002100400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20261002100400 +0000" stop="20261002101000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - druhá časť</title>
+  </programme>
+  <programme start="20261002101000 +0000" stop="20261002110000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - 335</title>
   </programme>
-  <programme start="20261002101600 +0000" stop="20261002101900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002110000 +0000" stop="20261002110800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 587</title>
+  </programme>
+  <programme start="20261002110800 +0000" stop="20261002112800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
+  </programme>
+  <programme start="20261002112800 +0000" stop="20261002113000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261002113000 +0000" stop="20261002114100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261002114100 +0000" stop="20261002114500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
   </programme>
-  <programme start="20261002101900 +0000" stop="20261002103200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Evanjelium na dnes</title>
-  </programme>
-  <programme start="20261002103200 +0000" stop="20261002103400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20261002103400 +0000" stop="20261002110500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002114500 +0000" stop="20261002115600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20261002110500 +0000" stop="20261002112400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 587</title>
+  <programme start="20261002115600 +0000" stop="20261002125000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Komanička</title>
   </programme>
-  <programme start="20261002112400 +0000" stop="20261002121500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Inovské trio</title>
-  </programme>
-  <programme start="20261002121500 +0000" stop="20261002123400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
-  </programme>
-  <programme start="20261002123400 +0000" stop="20261002124000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Aká by mala byť naša modlitba?</title>
-  </programme>
-  <programme start="20261002124000 +0000" stop="20261002132300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002125000 +0000" stop="20261002131400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20261002132300 +0000" stop="20261002132500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  <programme start="20261002131400 +0000" stop="20261002132600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek musí ísť niekedy proti tomu, čo sa od neho očakáva</title>
   </programme>
-  <programme start="20261002132500 +0000" stop="20261002132900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002132600 +0000" stop="20261002133500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Ochota vs. Neochota</title>
+  </programme>
+  <programme start="20261002133500 +0000" stop="20261002141500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Dnes bez lopty - Mashike Sukisa</title>
+  </programme>
+  <programme start="20261002141500 +0000" stop="20261002142000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Zápas, o ktorom hovorila Panna Mária, neberieme vážne</title>
+  </programme>
+  <programme start="20261002142000 +0000" stop="20261002142900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
   </programme>
-  <programme start="20261002132900 +0000" stop="20261002133500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Varovanie Slovensku: Ľudia nechcú byť, chcú mať</title>
+  <programme start="20261002142900 +0000" stop="20261002143500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
   </programme>
-  <programme start="20261002133500 +0000" stop="20261002134800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002143500 +0000" stop="20261002144600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20261002134800 +0000" stop="20261002135000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Charakterové minútky - Dobroprajnosť vs. Závisť</title>
+  <programme start="20261002144600 +0000" stop="20261002145000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
   </programme>
-  <programme start="20261002135000 +0000" stop="20261002151400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
+  <programme start="20261002145000 +0000" stop="20261002155500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Bratislava - Sv. liturgia</title>
   </programme>
-  <programme start="20261002151400 +0000" stop="20261002152200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Sobranský magazín - 587</title>
-  </programme>
-  <programme start="20261002152200 +0000" stop="20261002152400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
-  </programme>
-  <programme start="20261002152400 +0000" stop="20261002153900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002155500 +0000" stop="20261002161400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - 335</title>
   </programme>
-  <programme start="20261002153900 +0000" stop="20261002163900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Bazilika Ľutina - Sv. liturgia</title>
+  <programme start="20261002161400 +0000" stop="20261002165000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Miloš a Marcel Motoristom - Európa škoduje, prišli sme o 160 miliónový trh</title>
   </programme>
-  <programme start="20261002163900 +0000" stop="20261002171100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská vizionárka Iveta: Spomienka na prvý deň zjavení po 30tich rokoch - prvá časť</title>
+  <programme start="20261002165000 +0000" stop="20261002174900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Labirski beťare</title>
   </programme>
-  <programme start="20261002171100 +0000" stop="20261002180200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Miloš a Marcel Motoristom - Florida bez STK? To, čo sme videli na cestách, nás šokovalo.</title>
-  </programme>
-  <programme start="20261002180200 +0000" stop="20261002181200 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Varenie v lese - Steak na horách</title>
-  </programme>
-  <programme start="20261002181200 +0000" stop="20261002181400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002174900 +0000" stop="20261002175100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Charakterové minútky - Dobroprajnosť vs. Závisť</title>
   </programme>
-  <programme start="20261002181400 +0000" stop="20261002185800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Jarina</title>
+  <programme start="20261002175100 +0000" stop="20261002180600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 587</title>
   </programme>
-  <programme start="20261002185800 +0000" stop="20261002203600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002180600 +0000" stop="20261002193300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
   </programme>
-  <programme start="20261002203600 +0000" stop="20261002205600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261002193300 +0000" stop="20261002200500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Dnes bez lopty - Mashike Sukisa</title>
+  </programme>
+  <programme start="20261002200500 +0000" stop="20261002210300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Aký kraj chce Igor Šimko?</title>
+  </programme>
+  <programme start="20261002210300 +0000" stop="20261002211700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
   </programme>
-  <programme start="20261002205600 +0000" stop="20261002213000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Zemplínska šírava - Príbeh vody III</title>
+  <programme start="20261002211700 +0000" stop="20261002212800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Varenie v lese - Netradičný táborák</title>
   </programme>
-  <programme start="20261002213000 +0000" stop="20261002221300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
+  <programme start="20261002212800 +0000" stop="20261002220200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody III</title>
   </programme>
   <programme start="20261001220000 +0000" stop="20261001230000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">TV Poprad</title>
