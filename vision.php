@@ -73,14 +73,8 @@
 <programme start="20260930010000 +0000" stop="20260930050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20260930050000 +0000" stop="20260930070000 +0000" channel="GTV.vision">
-<title>Kiko</title>
-</programme>
 <programme start="20260930070000 +0000" stop="20260930103000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
-</programme>
-<programme start="20260930103000 +0000" stop="20260930120000 +0000" channel="GTV.vision">
-<title>Kancil Melawan Harimau</title>
 </programme>
 <programme start="20260930120000 +0000" stop="20260930133000 +0000" channel="GTV.vision">
 <title>Balas Budi Semut Kepada Merpati</title>
@@ -112,8 +106,11 @@
 <programme start="20260930060000 +0000" stop="20260930063000 +0000" channel="iNews.vision">
 <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20260930063000 +0000" stop="20260930074500 +0000" channel="iNews.vision">
+<programme start="20260930063000 +0000" stop="20260930073500 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
+</programme>
+<programme start="20260930073500 +0000" stop="20260930074500 +0000" channel="iNews.vision">
+<title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260930074500 +0000" stop="20260930091500 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
@@ -357,12 +354,6 @@
 </programme>
 <programme start="20260930163000 +0000" stop="20260930171500 +0000" channel="Trans 7.vision">
 <title>Misteri Dunia</title>
-</programme>
-<programme start="20260929230000 +0000" stop="20260930023000 +0000" channel="ANTV.vision">
-<title>Bas Itna Sa Khwaab Hai...</title>
-</programme>
-<programme start="20260930023000 +0000" stop="20260930060000 +0000" channel="ANTV.vision">
-<title>Dunki</title>
 </programme>
 <programme start="20260930060000 +0000" stop="20260930073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,7 @@
 </programme>
 <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="TV MU.vision">
 <title>TV MU</title>
+</programme>
+<programme start="20260929234500 +0000" stop="20260930013500 +0000" channel="Originals.vision">
+<title>Human Traces</title>
 </programme>

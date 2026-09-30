@@ -12460,7 +12460,7 @@
   </programme>
   <programme start="20260929193300 +0000" stop="20260929200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">How vulnerable is the global energy market as conflict puts main supply routes under pressure?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.55.</episode-num>
     <episode-num system="onscreen">S1E56</episode-num>
@@ -12535,7 +12535,7 @@
   </programme>
   <programme start="20260930043300 +0000" stop="20260930050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc lang="en">As Russia leans more heavily on China and Beijing expands its reach through global supply chains, Al Jazeera Explains how their partnership is reshaping power.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -12559,7 +12559,7 @@
   </programme>
   <programme start="20260930063300 +0000" stop="20260930070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Palestinian politician Mustafa Barghouti discusses U.S. arms transfers to Israel, Palestinian elections, and Israel's settlement push in the West Bank.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.38.</episode-num>
     <episode-num system="onscreen">S1E39</episode-num>
@@ -12576,7 +12576,7 @@
   </programme>
   <programme start="20260930083300 +0000" stop="20260930090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A corruption scandal, Bolsonaro's comeback and Trump's influence collide as Brazil heads into elections. Plus Spain's neo-Nazis - from online to on the streets?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.34.</episode-num>
     <episode-num system="onscreen">S1E35</episode-num>
@@ -12629,7 +12629,7 @@
   </programme>
   <programme start="20260930143300 +0000" stop="20260930150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Ugandan climate activist Vanessa Nakate says she's determined to raise awareness about how global warming is disproportionately affecting African countries.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.497.</episode-num>
     <episode-num system="onscreen">S1E498</episode-num>

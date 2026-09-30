@@ -3841,11 +3841,8 @@
 <programme start="20260930171500 +0000" stop="20260930200000 +0000" channel="Film4_HD.virginmediatv">
     <title>Bridge of Spies</title>
 </programme>
-<programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260930010000 +0000" stop="20260930020000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Sky Sports News</title>
+<programme start="20260929220000 +0000" stop="20260930020000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930020000 +0000" stop="20260930030000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live Tennis: ATP Japan Open 2026 - Day 1</title>
@@ -4111,8 +4108,8 @@
 <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>Pro Football Talk</title>
 </programme>
-<programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Sky Sports News</title>
+<programme start="20260929220000 +0000" stop="20260930003000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930003000 +0000" stop="20260930030000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: WNBA Basketball - Playoffs, First Round Game 2: Minnesota Lynx at New York Liberty</title>
@@ -4201,10 +4198,10 @@
 <programme start="20260930054500 +0000" stop="20260930060000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Premier League Archive - Crystal Palace v Liverpool (3-3)</title>
 </programme>
-<programme start="20260930120000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260930120000 +0000" stop="20260930173000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>World Grand Prix Darts - Day 2</title>
 </programme>
-<programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Formula 1 - Monaco Grand Prix: Highlights</title>
 </programme>
 <programme start="20260929233000 +0000" stop="20260930003000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
@@ -4663,11 +4660,8 @@
 <programme start="20260930173000 +0000" stop="20260930193000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
     <title>United Rugby Championship - Ulster v Edinburgh</title>
 </programme>
-<programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
-</programme>
-<programme start="20260930010000 +0000" stop="20260930020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Sky Sports News</title>
+<programme start="20260929220000 +0000" stop="20260930020000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930020000 +0000" stop="20260930030000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live Tennis: ATP Japan Open 2026 - Day 1</title>
@@ -4933,8 +4927,8 @@
 <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>Pro Football Talk</title>
 </programme>
-<programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Sky Sports News</title>
+<programme start="20260929220000 +0000" stop="20260930003000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Manchester City: Guilty Verdict</title>
 </programme>
 <programme start="20260930003000 +0000" stop="20260930030000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: WNBA Basketball - Playoffs, First Round Game 2: Minnesota Lynx at New York Liberty</title>
@@ -5023,10 +5017,10 @@
 <programme start="20260930054500 +0000" stop="20260930060000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Premier League Archive - Crystal Palace v Liverpool (3-3)</title>
 </programme>
-<programme start="20260930120000 +0000" stop="20260930170000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260930120000 +0000" stop="20260930173000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>World Grand Prix Darts - Day 2</title>
 </programme>
-<programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20260930173000 +0000" stop="20260930183000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Formula 1 - Monaco Grand Prix: Highlights</title>
 </programme>
 <programme start="20260929233000 +0000" stop="20260930003000 +0000" channel="Sky_Sports_Tennis.virginmediatv">

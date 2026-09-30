@@ -4846,8 +4846,11 @@
 <programme start="20260930060000 +0000" stop="20260930063000 +0000" channel="iNews.mncvision">
     <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20260930063000 +0000" stop="20260930074500 +0000" channel="iNews.mncvision">
+<programme start="20260930063000 +0000" stop="20260930073500 +0000" channel="iNews.mncvision">
     <title>Breaking News (L)</title>
+</programme>
+<programme start="20260930073500 +0000" stop="20260930074500 +0000" channel="iNews.mncvision">
+    <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260930074500 +0000" stop="20260930091500 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
@@ -4930,8 +4933,11 @@
 <programme start="20260930060000 +0000" stop="20260930063000 +0000" channel="iNews HD.mncvision">
     <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20260930063000 +0000" stop="20260930074500 +0000" channel="iNews HD.mncvision">
+<programme start="20260930063000 +0000" stop="20260930073500 +0000" channel="iNews HD.mncvision">
     <title>Breaking News (L)</title>
+</programme>
+<programme start="20260930073500 +0000" stop="20260930074500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking Goals (L)</title>
 </programme>
 <programme start="20260930074500 +0000" stop="20260930091500 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
