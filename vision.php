@@ -1,71 +1,65 @@
-<programme start="20260930230000 +0000" stop="20261001010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20260930224500 +0000" stop="20261001001500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261001010000 +0000" stop="20261001033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001001500 +0000" stop="20261001014500 +0000" channel="RCTI.vision">
+<title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20261001033000 +0000" stop="20261001043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001014500 +0000" stop="20261001031500 +0000" channel="RCTI.vision">
+<title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
-<programme start="20261001043000 +0000" stop="20261001070000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001031500 +0000" stop="20261001034500 +0000" channel="RCTI.vision">
+<title>Go Spot Ekslusif (RCTI)</title>
 </programme>
-<programme start="20261001070000 +0000" stop="20261001093000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001034500 +0000" stop="20261001051500 +0000" channel="RCTI.vision">
+<title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20261001093000 +0000" stop="20261001103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001051500 +0000" stop="20261001103000 +0000" channel="RCTI.vision">
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20261001103000 +0000" stop="20261001120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ternyata Ini Cinta (RCTI)</title>
 </programme>
 <programme start="20261001120000 +0000" stop="20261001133000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terikat Janji (RCTI)</title>
 </programme>
-<programme start="20261001133000 +0000" stop="20261001144500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001133000 +0000" stop="20261001150000 +0000" channel="RCTI.vision">
+<title>Terlanjur Mencintaimu (RCTI)</title>
 </programme>
-<programme start="20261001144500 +0000" stop="20261001160000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20261001160000 +0000" stop="20261001171500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
-</programme>
-<programme start="20261001171500 +0000" stop="20261001183000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001150000 +0000" stop="20261001183000 +0000" channel="RCTI.vision">
+<title>Pengkhianatan G30S/PKI</title>
 </programme>
 <programme start="20261001183000 +0000" stop="20261001190000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20261001190000 +0000" stop="20261001200000 +0000" channel="RCTI.vision">
+<programme start="20261001190000 +0000" stop="20261001204500 +0000" channel="RCTI.vision">
 <title>RCTI</title>
 </programme>
-<programme start="20261001200000 +0000" stop="20261001203000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001204500 +0000" stop="20261001221500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261001203000 +0000" stop="20261001230000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001221500 +0000" stop="20261001224500 +0000" channel="RCTI.vision">
+<title>Seputar iNews</title>
 </programme>
-<programme start="20261001230000 +0000" stop="20261002010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261001224500 +0000" stop="20261002001500 +0000" channel="RCTI.vision">
+<title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261002010000 +0000" stop="20261002033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261002001500 +0000" stop="20261002014500 +0000" channel="RCTI.vision">
+<title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20261002033000 +0000" stop="20261002040000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261002014500 +0000" stop="20261002031500 +0000" channel="RCTI.vision">
+<title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
-<programme start="20261002040000 +0000" stop="20261002043000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261002031500 +0000" stop="20261002034500 +0000" channel="RCTI.vision">
+<title>Go Spot Ekslusif (RCTI)</title>
 </programme>
-<programme start="20261002043000 +0000" stop="20261002070000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261002034500 +0000" stop="20261002051500 +0000" channel="RCTI.vision">
+<title>Terikat Janji Selamanya</title>
 </programme>
-<programme start="20261002070000 +0000" stop="20261002103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<programme start="20261002051500 +0000" stop="20261002103000 +0000" channel="RCTI.vision">
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20261002103000 +0000" stop="20261002120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ternyata Ini Cinta (RCTI)</title>
 </programme>
 <programme start="20261001000000 +0000" stop="20261001010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
@@ -625,9 +619,6 @@
 <programme start="20261001010000 +0000" stop="20261001023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261001023000 +0000" stop="20261001060000 +0000" channel="ANTV.vision">
-<title>Chori Chori Chupke Chupke</title>
-</programme>
 <programme start="20261001060000 +0000" stop="20261001073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -636,18 +627,6 @@
 </programme>
 <programme start="20261001093000 +0000" stop="20261001110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20261001110000 +0000" stop="20261001130000 +0000" channel="ANTV.vision">
-<title>Si Jalu: Dua Pendekar Putih</title>
-</programme>
-<programme start="20261001130000 +0000" stop="20261001150000 +0000" channel="ANTV.vision">
-<title>Pertarungan Di Goa Siluman</title>
-</programme>
-<programme start="20261001150000 +0000" stop="20261001170000 +0000" channel="ANTV.vision">
-<title>Kain Kafan Hitam</title>
-</programme>
-<programme start="20261001170000 +0000" stop="20261001183000 +0000" channel="ANTV.vision">
-<title>Black Cat</title>
 </programme>
 <programme start="20261001183000 +0000" stop="20261001193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1497,4 +1476,25 @@
 </programme>
 <programme start="20261002090000 +0000" stop="20261002090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
+</programme>
+<programme start="20261002090500 +0000" stop="20261002100000 +0000" channel="BTV.vision">
+<title>Berita Satu Sore</title>
+</programme>
+<programme start="20261002100000 +0000" stop="20261002103000 +0000" channel="BTV.vision">
+<title>Berita Merah Putih</title>
+</programme>
+<programme start="20261002103000 +0000" stop="20261002120000 +0000" channel="BTV.vision">
+<title>Berita Satu Utama</title>
+</programme>
+<programme start="20261001000000 +0000" stop="20261001010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261001010000 +0000" stop="20261001020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261001020000 +0000" stop="20261001020300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261001020300 +0000" stop="20261001023000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>

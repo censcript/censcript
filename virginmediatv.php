@@ -1529,7 +1529,7 @@
     <title>Deadly Destinations - Predator on the Path</title>
 </programme>
 <programme start="20261001020000 +0000" stop="20261001030000 +0000" channel="True_Crime.virginmediatv">
-    <title>Secrets of a Psychopath - Episode 1</title>
+    <title>Secrets of a Psychopath - Coincidental Evidence</title>
 </programme>
 <programme start="20261001030000 +0000" stop="20261001035000 +0000" channel="True_Crime.virginmediatv">
     <title>48 Hours - Cati Blauvelt: Death of a Soldier&#039;s Wife</title>
@@ -6136,7 +6136,10 @@
 <programme start="20260930175800 +0000" stop="20261001015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261001015800 +0000" stop="20261001060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261001015800 +0000" stop="20261001050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261001050000 +0000" stop="20261001060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261001115500 +0000" stop="20261001120500 +0000" channel="CBBC.virginmediatv">
