@@ -2546,7 +2546,7 @@
     <title>Undercover: On Tape, Ep 9</title>
 </programme>
 <programme start="20261001153500 +0000" stop="20261001162500 +0000" channel="Crime Investigation.mncvision">
-    <title>Homicide Squad... S1, Ep 5</title>
+    <title>Homicide Squad... S2, Ep 1</title>
 </programme>
 <programme start="20261001162500 +0000" stop="20261001165500 +0000" channel="Crime Investigation.mncvision">
     <title>Taking The Stand S4, Ep 5</title>
@@ -7535,88 +7535,88 @@
     <title>Danger Decoded S1, Ep 2</title>
 </programme>
 <programme start="20260930171500 +0000" stop="20260930183000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+    <title>Pacarin Camat</title>
 </programme>
 <programme start="20260930183000 +0000" stop="20260930200000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+    <title>Serabi Rasa Cinta</title>
 </programme>
-<programme start="20260930200000 +0000" stop="20260930230000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20260930200000 +0000" stop="20260930221500 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260930230000 +0000" stop="20261001010000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20260930221500 +0000" stop="20260930224500 +0000" channel="RCTI.mncvision">
+    <title>Seputar iNews</title>
 </programme>
-<programme start="20261001010000 +0000" stop="20261001033000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20260930224500 +0000" stop="20261001001500 +0000" channel="RCTI.mncvision">
+    <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261001033000 +0000" stop="20261001043000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20261001001500 +0000" stop="20261001014500 +0000" channel="RCTI.mncvision">
+    <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20261001043000 +0000" stop="20261001070000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20261001014500 +0000" stop="20261001031500 +0000" channel="RCTI.mncvision">
+    <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
-<programme start="20261001070000 +0000" stop="20261001093000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20261001031500 +0000" stop="20261001034500 +0000" channel="RCTI.mncvision">
+    <title>Go Spot Eksklusif</title>
 </programme>
-<programme start="20261001093000 +0000" stop="20261001103000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20261001034500 +0000" stop="20261001051500 +0000" channel="RCTI.mncvision">
+    <title>Terikat Janji Selamanya</title>
+</programme>
+<programme start="20261001051500 +0000" stop="20261001103000 +0000" channel="RCTI.mncvision">
+    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20261001103000 +0000" stop="20261001120000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+    <title>Ternyata Ini Cinta</title>
 </programme>
 <programme start="20261001120000 +0000" stop="20261001133000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+    <title>Terikat Janji</title>
 </programme>
-<programme start="20261001133000 +0000" stop="20261001144500 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20261001133000 +0000" stop="20261001150000 +0000" channel="RCTI.mncvision">
+    <title>Terlanjur Mencintaimu</title>
 </programme>
-<programme start="20261001144500 +0000" stop="20261001160000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
-</programme>
-<programme start="20261001160000 +0000" stop="20261001163000 +0000" channel="RCTI.mncvision">
-    <title>RCTI</title>
+<programme start="20261001150000 +0000" stop="20261001153000 +0000" channel="RCTI.mncvision">
+    <title>Pengkhianatan G30S/PKI</title>
 </programme>
 <programme start="20260930171500 +0000" stop="20260930183000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+    <title>Pacarin Camat</title>
 </programme>
 <programme start="20260930183000 +0000" stop="20260930200000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+    <title>Serabi Rasa Cinta</title>
 </programme>
-<programme start="20260930200000 +0000" stop="20260930230000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20260930200000 +0000" stop="20260930221500 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20260930230000 +0000" stop="20261001010000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20260930221500 +0000" stop="20260930224500 +0000" channel="RCTI HD.mncvision">
+    <title>Seputar iNews</title>
 </programme>
-<programme start="20261001010000 +0000" stop="20261001033000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20260930224500 +0000" stop="20261001001500 +0000" channel="RCTI HD.mncvision">
+    <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261001033000 +0000" stop="20261001043000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20261001001500 +0000" stop="20261001014500 +0000" channel="RCTI HD.mncvision">
+    <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20261001043000 +0000" stop="20261001070000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20261001014500 +0000" stop="20261001031500 +0000" channel="RCTI HD.mncvision">
+    <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
-<programme start="20261001070000 +0000" stop="20261001093000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20261001031500 +0000" stop="20261001034500 +0000" channel="RCTI HD.mncvision">
+    <title>Go Spot Eksklusif</title>
 </programme>
-<programme start="20261001093000 +0000" stop="20261001103000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20261001034500 +0000" stop="20261001051500 +0000" channel="RCTI HD.mncvision">
+    <title>Terikat Janji Selamanya</title>
+</programme>
+<programme start="20261001051500 +0000" stop="20261001103000 +0000" channel="RCTI HD.mncvision">
+    <title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20261001103000 +0000" stop="20261001120000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+    <title>Ternyata Ini Cinta</title>
 </programme>
 <programme start="20261001120000 +0000" stop="20261001133000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+    <title>Terikat Janji</title>
 </programme>
-<programme start="20261001133000 +0000" stop="20261001144500 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20261001133000 +0000" stop="20261001150000 +0000" channel="RCTI HD.mncvision">
+    <title>Terlanjur Mencintaimu</title>
 </programme>
-<programme start="20261001144500 +0000" stop="20261001160000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
-</programme>
-<programme start="20261001160000 +0000" stop="20261001163000 +0000" channel="RCTI HD.mncvision">
-    <title>RCTI</title>
+<programme start="20261001150000 +0000" stop="20261001153000 +0000" channel="RCTI HD.mncvision">
+    <title>Pengkhianatan G30S/PKI</title>
 </programme>
 <programme start="20260930182000 +0000" stop="20260930202500 +0000" channel="Rock Action.mncvision">
     <title>Jason Bourne</title>

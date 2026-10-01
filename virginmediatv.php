@@ -7595,7 +7595,7 @@
     <title>My Catholic Family - Saint Teresa of Avila</title>
 </programme>
 <programme start="20261001150000 +0000" stop="20261001153000 +0000" channel="EWTN.virginmediatv">
-    <title>To Be Announced</title>
+    <title>The Friar - The Splinter in Your Brother&#039;s Eye</title>
 </programme>
 <programme start="20261001153000 +0000" stop="20261001160000 +0000" channel="EWTN.virginmediatv">
     <title>At Home With Jim and Joy - Jessica Rey &amp; Children, Pt. 1</title>
@@ -7604,10 +7604,10 @@
     <title>Children&#039;s Rosary From the Vatican Gardens</title>
 </programme>
 <programme start="20261001171500 +0000" stop="20261001173000 +0000" channel="EWTN.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Art of Faith with Fr. Patrick Van Der Vorst - The Hidden Christian Faith of the Houses of Parliament</title>
 </programme>
 <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="EWTN.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Sacred Stories: St. Therese of Lisieux</title>
 </programme>
 <programme start="20261001000000 +0000" stop="20261001003000 +0000" channel="The_God_Channel.virginmediatv">
     <title>Revive Nations With Shyju Mathew</title>

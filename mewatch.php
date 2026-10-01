@@ -85,14 +85,14 @@
     <programme start="20261001054500 +0000" stop="20261001055500 +0000" channel="Channel 5.mewatch">
         <title>Minibods - EP 9</title>
     </programme>
-    <programme start="20261001055500 +0000" stop="20261001074000 +0000" channel="Channel 5.mewatch">
+    <programme start="20261001055500 +0000" stop="20261001080000 +0000" channel="Channel 5.mewatch">
         <title>Rugby Sevens - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s &amp; Women&#039;s Pool Stage</title>
     </programme>
-    <programme start="20261001074000 +0000" stop="20261001094000 +0000" channel="Channel 5.mewatch">
-        <title>Softball - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Preliminary Round - KOR vs SGP</title>
+    <programme start="20261001080000 +0000" stop="20261001093000 +0000" channel="Channel 5.mewatch">
+        <title>Taekwondo - 20th Asian Games Aichi-Nagoya 2026: Men&#039;s Individual Poomsae Finals</title>
     </programme>
-    <programme start="20261001094000 +0000" stop="20261001113000 +0000" channel="Channel 5.mewatch">
-        <title>Ju-Jitsu - 20th Asian Games Aichi-Nagoya 2026: Men’s -62kg &amp; -69kg | Women’s -48kg Finals</title>
+    <programme start="20261001093000 +0000" stop="20261001113000 +0000" channel="Channel 5.mewatch">
+        <title>Ju-Jitsu - 20th Asian Games Aichi-Nagoya 2026: Men’s -62kg &amp; -69kg | Women’s -48kg Finals: Men’s -62kg &amp; -69kg | Women’s -48kg Finals</title>
     </programme>
     <programme start="20261001113000 +0000" stop="20261001120000 +0000" channel="Channel 5.mewatch">
         <title>(Live) 20th Asian Games Aichi-Nagoya 2026: Today At The Games - EP 12</title>
