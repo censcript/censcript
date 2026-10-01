@@ -2455,14 +2455,8 @@
 <programme start="20261001120000 +0000" stop="20261001130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
 </programme>
-<programme start="20261001130000 +0000" stop="20261001133000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20261001133000 +0000" stop="20261001134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20261001134500 +0000" stop="20261001140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261001130000 +0000" stop="20261001140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261001140000 +0000" stop="20261001143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -2888,7 +2882,7 @@
     <title>Questions on Promised Legislation Live</title>
 </programme>
 <programme start="20261001121000 +0000" stop="20261001125000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Seanad Eireann</title>
+    <title>Live: Committee of Public Accounts</title>
 </programme>
 <programme start="20261001125000 +0000" stop="20261001162500 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Live Government Business</title>
@@ -4466,7 +4460,7 @@
     <title>One-Day International Cricket - India v West Indies: 2nd ODI</title>
 </programme>
 <programme start="20261001113000 +0000" stop="20261001143000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Shenzhen Open - Round 4</title>
+    <title>Live: Shenzhen Open - Round 4: Judd Trump v Si Jiahui</title>
 </programme>
 <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: FIA World Rally Championship - Rally Italia Sardegna: SS1</title>
@@ -4514,7 +4508,7 @@
     <title>The WRC Magazine - Rally Italia Sardegna</title>
 </programme>
 <programme start="20261001113000 +0000" stop="20261001143000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: Shenzhen Open - Round 4</title>
+    <title>Live: Shenzhen Open - Round 4: Judd Trump v Si Jiahui</title>
 </programme>
 <programme start="20261001143000 +0000" stop="20261001153000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
