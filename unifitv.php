@@ -15055,34 +15055,34 @@
     <desc lang="en">The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20260930233000 +0000" stop="20261001000000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga FC Futures - Flamengo vs Boca Juniors</title>
-    <desc lang="en">The best professional youth clubs from LaLiga EA Sports competition and international soccer leagues battle it out in this prestigious football competition.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261001000000 +0000" stop="20261001003000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga Mini - Sevilla vs Valencia</title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261001003000 +0000" stop="20261001010000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga Mini - Real Madrid vs Rayo Vallecano</title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001013000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga Mini - Levante vs Barcelona</title>
-    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261001013000 +0000" stop="20261001060500 +0000" channel="beinsports.unifitv">
+  <programme start="20260930233000 +0000" stop="20261001040500 +0000" channel="beinsports.unifitv">
     <title lang="en">WEC - 6 Hours of Fuji, JPN</title>
     <desc lang="en">The premier international motorsport racing series, featuring long-distance races contested by elite drivers and multiple manufacturers.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261001060500 +0000" stop="20261001073500 +0000" channel="beinsports.unifitv">
+  <programme start="20261001040500 +0000" stop="20261001053500 +0000" channel="beinsports.unifitv">
     <title lang="en">Tour de Langkawi - Stage 5 (L)</title>
     <desc lang="en">Le Tour de Langkawi is Asia's premier multi-stage professional road cycling race, sanctioned by the Union Cycliste Internationale (UCI) as part of the prestigious UCI ProSeries.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261001053500 +0000" stop="20261001060500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga -Flamengo vs Boca Juniors</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261001060500 +0000" stop="20261001063500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Mini - Sevilla vs Valencia</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261001063500 +0000" stop="20261001070500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Mini - Real Madrid vs Rayo Vallecano</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261001070500 +0000" stop="20261001073500 +0000" channel="beinsports.unifitv">
+    <title lang="en">LaLiga Mini - Levante vs Barcelona</title>
+    <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261001073500 +0000" stop="20261001080500 +0000" channel="beinsports.unifitv">
