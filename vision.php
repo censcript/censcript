@@ -659,7 +659,7 @@
 <title>Jaane Anjaane</title>
 </programme>
 <programme start="20261003023000 +0000" stop="20261003060000 +0000" channel="ANTV.vision">
-<title>Kuch Kuch Hota Hai</title>
+<title>Chalte Chalte</title>
 </programme>
 <programme start="20261003060000 +0000" stop="20261003073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>

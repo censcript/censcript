@@ -2990,16 +2990,16 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20261002023000 +0000" stop="20261002030000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: People</title>
+    <title>Focus On Europe: Finland</title>
 </programme>
 <programme start="20261002030000 +0000" stop="20261002030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261002030200 +0000" stop="20261002031500 +0000" channel="DW English.mncvision">
+<programme start="20261002030200 +0000" stop="20261002031900 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
-<programme start="20261002031500 +0000" stop="20261002033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+<programme start="20261002031900 +0000" stop="20261002033000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Jewish Museum</title>
 </programme>
 <programme start="20261002033000 +0000" stop="20261002040000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: Business</title>
@@ -3025,14 +3025,14 @@
 <programme start="20261002060000 +0000" stop="20261002060200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261002060200 +0000" stop="20261002061500 +0000" channel="DW English.mncvision">
+<programme start="20261002060200 +0000" stop="20261002061900 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
-<programme start="20261002061500 +0000" stop="20261002063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+<programme start="20261002061900 +0000" stop="20261002063000 +0000" channel="DW English.mncvision">
+    <title>Arts Unveiled: Jewish Museum</title>
 </programme>
 <programme start="20261002063000 +0000" stop="20261002070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Focus On Europe: Finland</title>
 </programme>
 <programme start="20261002070000 +0000" stop="20261002070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3047,7 +3047,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20261002080200 +0000" stop="20261002083000 +0000" channel="DW English.mncvision">
-    <title>To The Point: Int&#039;l Debate</title>
+    <title>To The Point: On A War Footing</title>
 </programme>
 <programme start="20261002083000 +0000" stop="20261002090000 +0000" channel="DW English.mncvision">
     <title>DW News Africa</title>
@@ -5390,7 +5390,7 @@
     <title>AnugerahNya</title>
 </programme>
 <programme start="20261002030000 +0000" stop="20261002033000 +0000" channel="LIFE.mncvision">
-    <title>Smoketown</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20261002033000 +0000" stop="20261002040000 +0000" channel="LIFE.mncvision">
     <title>Bimbingan Rohani: Katolik</title>
@@ -5447,7 +5447,7 @@
     <title>Praise And Worship</title>
 </programme>
 <programme start="20261002153000 +0000" stop="20261002160000 +0000" channel="LIFE.mncvision">
-    <title>Smoketown</title>
+    <title>In The Gap With Choco De Jesus</title>
 </programme>
 <programme start="20261002160000 +0000" stop="20261002163000 +0000" channel="LIFE.mncvision">
     <title>Sentuhan Kasih</title>
@@ -6458,7 +6458,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20261002073000 +0000" stop="20261002080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20261002080000 +0000" stop="20261002083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6485,7 +6485,7 @@
     <title>Direct Talk</title>
 </programme>
 <programme start="20261002114300 +0000" stop="20261002115500 +0000" channel="NHK World.mncvision">
-    <title>Impacts</title>
+    <title>Impacts: Climates Change...</title>
 </programme>
 <programme start="20261002115500 +0000" stop="20261002120000 +0000" channel="NHK World.mncvision">
     <title>My Eco-Friendly Farm</title>
@@ -6500,7 +6500,7 @@
     <title>NHK Newsline</title>
 </programme>
 <programme start="20261002133000 +0000" stop="20261002140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
+    <title>Trailblazers</title>
 </programme>
 <programme start="20261002140000 +0000" stop="20261002143000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -8010,54 +8010,6 @@
 </programme>
 <programme start="20261002163000 +0000" stop="20261001170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sore</title>
-</programme>
-<programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="Soccer Channel.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20261001183000 +0000" stop="20261001204500 +0000" channel="Soccer Channel.mncvision">
-    <title>UNL: DEN Vs POR (L)</title>
-</programme>
-<programme start="20261001204500 +0000" stop="20261001210000 +0000" channel="Soccer Channel.mncvision">
-    <title>Top Goals</title>
-</programme>
-<programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="Soccer Channel.mncvision">
-    <title>World Classic Soccer</title>
-</programme>
-<programme start="20261001213000 +0000" stop="20261001233000 +0000" channel="Soccer Channel.mncvision">
-    <title>Shopee Cup &#039;25/26: BUR Vs SEL</title>
-</programme>
-<programme start="20261001233000 +0000" stop="20261002013000 +0000" channel="Soccer Channel.mncvision">
-    <title>Hyundai C&#039;ship &#039;26: LAO Vs PHI</title>
-</programme>
-<programme start="20261002013000 +0000" stop="20261002033000 +0000" channel="Soccer Channel.mncvision">
-    <title>UNL: DEN Vs WAL</title>
-</programme>
-<programme start="20261002033000 +0000" stop="20261002040000 +0000" channel="Soccer Channel.mncvision">
-    <title>The Ultimate Goals</title>
-</programme>
-<programme start="20261002040000 +0000" stop="20261002060000 +0000" channel="Soccer Channel.mncvision">
-    <title>ACL Two 2026/27: SHS Vs TAM</title>
-</programme>
-<programme start="20261002060000 +0000" stop="20261002080000 +0000" channel="Soccer Channel.mncvision">
-    <title>Hyundai C&#039;ship &#039;26: THA Vs MAS</title>
-</programme>
-<programme start="20261002080000 +0000" stop="20261002100000 +0000" channel="Soccer Channel.mncvision">
-    <title>UNL: GER Vs GRE</title>
-</programme>
-<programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="Soccer Channel.mncvision">
-    <title>Sikat Tipis</title>
-</programme>
-<programme start="20261002110000 +0000" stop="20261002130000 +0000" channel="Soccer Channel.mncvision">
-    <title>Shopee Cup &#039;25/26: KAS Vs DHC</title>
-</programme>
-<programme start="20261002130000 +0000" stop="20261002150000 +0000" channel="Soccer Channel.mncvision">
-    <title>Timnas Spesial: IDN Vs VAN</title>
-</programme>
-<programme start="20261002150000 +0000" stop="20261002154500 +0000" channel="Soccer Channel.mncvision">
-    <title>Highlights UEFA Nations League</title>
-</programme>
-<programme start="20261002154500 +0000" stop="20261002161500 +0000" channel="Soccer Channel.mncvision">
-    <title>UNL: CYP Vs ARM (L)</title>
 </programme>
 <programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>

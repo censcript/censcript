@@ -8832,19 +8832,54 @@
   <channel id="asianfoodnetwork.unifitv">
     <display-name>Asian Food Network</display-name>
   </channel>
-  <programme start="20261001143500 +0000" stop="20261001160500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Fading Flavors</title>
-    <desc lang="en">Today, the salt field has been reborn and the salt crystals made by the water flow method are in the shape of crosses and crystal clear.</desc>
+  <programme start="20261001150500 +0000" stop="20261001160500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20261001160500 +0000" stop="20261001194500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20261001160500 +0000" stop="20261001170000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Go Where Flavors Of Hunan Abound</title>
     <desc lang="en">A shorter adventure focused on Chadong, a town with strong tea and mountain food traditions.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20261001170000 +0000" stop="20261001172500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Star Vs Food: Malaysia</title>
+    <desc lang="en">Queen of Hearts (Juliana) meets the King of Comfort Food (Chef Najib) to create amazing delicacies.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20261001172500 +0000" stop="20261001175500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Star Vs Food: Malaysia</title>
+    <desc lang="en">A fire fighter / actor (Hisyam Hamid) meets an a award winning chef (Chef Fazley) with a fire torch in his hands.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261001175500 +0000" stop="20261001185000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Sweet Taste Of Art</title>
+    <desc lang="en">The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20261001185000 +0000" stop="20261001191500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Discovering Local Ramen By Car</title>
+    <desc lang="en">My Toyama Ramen Journey Part 3. This time,I enjoyed ramen at "Harunoiro Shokudo,"a popular spot with a retro look it used to be a rice storehouse from the Maeda clan era.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20261001191500 +0000" stop="20261001194500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Discovering Local Ramen By Car</title>
+    <desc lang="en">My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
   </programme>
   <programme start="20261001194500 +0000" stop="20261001201000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Fading Flavors</title>
@@ -8853,19 +8888,229 @@
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20261001201000 +0000" stop="20261002130500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20261001201000 +0000" stop="20261001204000 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Fading Flavors</title>
     <desc lang="en">Today, the salt field has been reborn and the salt crystals made by the water flow method are in the shape of crosses and crystal clear.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20261002130500 +0000" stop="20261002194500 +0000" channel="asianfoodnetwork.unifitv">
+  <programme start="20261001204000 +0000" stop="20261001213500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Sweet Taste Of Art</title>
+    <desc lang="en">The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20261001213500 +0000" stop="20261001220500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Discovering Local Ramen By Car</title>
+    <desc lang="en">My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20261001220500 +0000" stop="20261001223000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Maximum Foodie</title>
+    <desc lang="en">Sashi is in the island of Java and he's on a unique mission to discover how coffee was brought to Asia.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">3.2.</episode-num>
+    <episode-num system="onscreen">S4E3</episode-num>
+  </programme>
+  <programme start="20261001223000 +0000" stop="20261001225500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Maximum Foodie</title>
+    <desc lang="en">Sashi finally leaves the comfort of his favorite island of Bali and heads to another famous one in the Indonesian archipelago.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">3.3.</episode-num>
+    <episode-num system="onscreen">S4E4</episode-num>
+  </programme>
+  <programme start="20261001225500 +0000" stop="20261001235000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20261001235000 +0000" stop="20261002001500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Ranch To Table</title>
+    <desc lang="en">Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002001500 +0000" stop="20261002004500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Ranch To Table</title>
+    <desc lang="en">Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261002004500 +0000" stop="20261002014000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Makan On Wheels</title>
+    <desc lang="en">The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261002014000 +0000" stop="20261002020500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Everyday Gourmet</title>
+    <desc lang="en">Simon Toohey returns with a freekeh and rye healthy stew, while Justine serves tasty mushrooms in a pepper sauce.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">11.58.</episode-num>
+    <episode-num system="onscreen">S12E59</episode-num>
+  </programme>
+  <programme start="20261002020500 +0000" stop="20261002023500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Everyday Gourmet</title>
+    <desc lang="en">Thomas Schnetzler returns with more chocolate recipes, and makes a travel cake packed with melting chocolate.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">11.59.</episode-num>
+    <episode-num system="onscreen">S12E60</episode-num>
+  </programme>
+  <programme start="20261002023500 +0000" stop="20261002030000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Australia In Vietnam</title>
+    <desc lang="en">Luke Nguyen goes on a fascinating culinary journey through the charming old town of Hanoi.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002030000 +0000" stop="20261002033000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Australia In Vietnam</title>
+    <desc lang="en">Luke explores the many street food and fresh local produce options available in Dalat.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261002033000 +0000" stop="20261002035500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Star Vs Food: Malaysia</title>
+    <desc lang="en">Queen of Hearts (Juliana) meets the King of Comfort Food (Chef Najib) to create amazing delicacies.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20261002035500 +0000" stop="20261002042500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Star Vs Food: Malaysia</title>
+    <desc lang="en">A fire fighter / actor (Hisyam Hamid) meets an a award winning chef (Chef Fazley) with a fire torch in his hands.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261002042500 +0000" stop="20261002052000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">Dishes of the festival from various dialect groups featured are Black Bean Cakes, Ai Pan, Qingming Rice, White Sugar Cakes, Popiah and a dessert soup made with Skunkvine.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
+  </programme>
+  <programme start="20261002052000 +0000" stop="20261002054500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Discovering Local Ramen By Car</title>
+    <desc lang="en">My Toyama Ramen Journey Part 3. This time,I enjoyed ramen at "Harunoiro Shokudo,"a popular spot with a retro look it used to be a rice storehouse from the Maeda clan era.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">1.2.</episode-num>
+    <episode-num system="onscreen">S2E3</episode-num>
+  </programme>
+  <programme start="20261002054500 +0000" stop="20261002061500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Discovering Local Ramen By Car</title>
+    <desc lang="en">My Kyoto Ramen Journey Part 1. I kicked off my Kyoto ramen adventure with a visit to "Drive-in Daruma," a nostalgic spot complete with a retro vending machine corner.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">1.3.</episode-num>
+    <episode-num system="onscreen">S2E4</episode-num>
+  </programme>
+  <programme start="20261002061500 +0000" stop="20261002071000 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Sweet Taste Of Art</title>
+    <desc lang="en">The Thai people follow the most traditional craftsmanship to create their desserts and this can be meticulously found in every dessert.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20261002071000 +0000" stop="20261002080500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Makan On Wheels</title>
+    <desc lang="en">The trio relishes simple pleasures in Jenjarom Happy Village with making and flying kites as well as trying their local delicacies.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261002080500 +0000" stop="20261002083500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Everyday Gourmet</title>
+    <desc lang="en">Justine has your next party sorted with today's crunchy and savory anchovy and pecorino cigars, and delicious garlic soup to warm you up.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">11.60.</episode-num>
+    <episode-num system="onscreen">S12E61</episode-num>
+  </programme>
+  <programme start="20261002083500 +0000" stop="20261002090500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Everyday Gourmet</title>
+    <desc lang="en">Justine learns a refreshing and delicate way to prepare octopus from local chef Flagstaff Hill.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">11.61.</episode-num>
+    <episode-num system="onscreen">S12E62</episode-num>
+  </programme>
+  <programme start="20261002090500 +0000" stop="20261002093500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Diana Chan's Malaysia</title>
+    <desc lang="en">Diana closes the series in Penang, one of Malaysia's most celebrated food destinations.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261002093500 +0000" stop="20261002100500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Hong Kong Gourmet With Justine Schofield</title>
+    <desc lang="en">To close the season, Justine dines at award-winning Hong Kong Cuisine before sharing a vibrant rice noodle recipe.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261002100500 +0000" stop="20261002110500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Beyond Bali: The World's Most Exotic Islands</title>
+    <desc lang="en">In Lombok, Lara Lee discovers fiery spices and an extraordinary culture. This offers unexpected insights into her own Chinese-Indonesian heritage.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
+  </programme>
+  <programme start="20261002110500 +0000" stop="20261002120500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">This episode,host introduces Hokkien five-spice meat dumpling,Nonya dumpling and dumplings of various dialect groups.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20261002120500 +0000" stop="20261002123500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">The Cook Up With Adam Liaw</title>
+    <desc lang="en">Adam is joined by Kumi Taguchi and Chase Kojima as they create some of their favourite chicken thigh recipes.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20261002123500 +0000" stop="20261002130500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">The Cook Up With Adam Liaw</title>
+    <desc lang="en">Recipe developer Breda Fenn and Maître d' of Momofuku Seibo fame, Kylie Javier Ashton join Adam Liaw in The Cook Up Kitchen to bring their favorite pies.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">2.1.</episode-num>
+    <episode-num system="onscreen">S3E2</episode-num>
+  </programme>
+  <programme start="20261002130500 +0000" stop="20261002140500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Go Where Flavors Of Hunan Abound</title>
     <desc lang="en">Deep in Xiangxi, the team samples indigenous ethnic minority foods and mountain-sourced ingredients.</desc>
     <category lang="en">Lifestyle</category>
     <episode-num system="xmltv_ns">1.6.</episode-num>
     <episode-num system="onscreen">S2E7</episode-num>
+  </programme>
+  <programme start="20261002140500 +0000" stop="20261002143500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Ranch To Table</title>
+    <desc lang="en">Elizabeth Poett welcomes us to her family's 14,000-acre ranch in California. Working side by side with her husband, Austin, she tends to the land beginning at dawn.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002143500 +0000" stop="20261002150500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">Ranch To Table</title>
+    <desc lang="en">Elizabeth celebrates springtime on the ranch by harvesting fresh honey to use in a honey lemon cake.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261002150500 +0000" stop="20261002160500 +0000" channel="asianfoodnetwork.unifitv">
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">This episode,host introduces Hokkien five-spice meat dumpling,Nonya dumpling and dumplings of various dialect groups.</desc>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <channel id="dreamworkshd.unifitv">
     <display-name>DreamWorks HD</display-name>
@@ -12813,14 +13058,70 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261001190300 +0000" stop="20261002080300 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20261001190300 +0000" stop="20261001200300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">The Asian Guilt Code</title>
     <desc lang="en">Across Asia, guilt shapes family, identity and work. From India's eldest daughters to Japan's overworked teachers, this series explores how guilt, shame and duty fuel expectations, burnout and tragedy.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20261002080300 +0000" stop="20261002080500 +0000" channel="channelnewsasia.unifitv">
+  <programme start="20261001200300 +0000" stop="20261001210300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Tonight</title>
+    <desc lang="en">News and views from around the region, delivered with uniquely Asian perspectives.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261001210300 +0000" stop="20261001220300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Insight</title>
+    <desc lang="en">Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20261001220300 +0000" stop="20261001230300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Singapore Tonight</title>
+    <desc lang="en">From business to politics, health to technology, the latest news from Singapore and analysis of the impact.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261001230300 +0000" stop="20261002020300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia First 2026/2027</title>
+    <desc lang="en">Top stories, business news and market updates from across the region as Asia gears up for the day ahead.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002020300 +0000" stop="20261002030300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Insight</title>
+    <desc lang="en">Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.17.</episode-num>
+    <episode-num system="onscreen">S1E18</episode-num>
+  </programme>
+  <programme start="20261002030300 +0000" stop="20261002050300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002050300 +0000" stop="20261002060300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Window Into The Wild</title>
+    <desc lang="en">Mandai Wildlife Reserve is transforming into a world-first wildlife destination. This two-part documentary goes behind the scenes to reveal the vision, challenges and conservation mission driving its renewal.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002060300 +0000" stop="20261002080300 +0000" channel="channelnewsasia.unifitv">
+    <title lang="en">Asia Now</title>
+    <desc lang="en">Non-stop breaking stories, expert analysis and extensive news coverage every hour.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261002080300 +0000" stop="20261002090300 +0000" channel="channelnewsasia.unifitv">
     <title lang="en">The Asian Guilt Code</title>
     <desc lang="en">Across Asia, guilt shapes family, identity and work. From India's eldest daughters to Japan's overworked teachers, this series explores how guilt, shame and duty fuel expectations, burnout and tragedy.</desc>
     <category lang="en">Documentary</category>
