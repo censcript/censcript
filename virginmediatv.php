@@ -1516,7 +1516,7 @@
 <programme start="20261002041500 +0000" stop="20261002044500 +0000" channel="True_Crime.virginmediatv">
     <title>Close Calls: On Camera - Episode 10</title>
 </programme>
-<programme start="20261002044500 +0000" stop="20261002080000 +0000" channel="True_Crime.virginmediatv">
+<programme start="20261002044500 +0000" stop="20261002070000 +0000" channel="True_Crime.virginmediatv">
     <title>Teleshopping</title>
 </programme>
 <programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="True_Crime.virginmediatv">
@@ -1738,7 +1738,7 @@
 <programme start="20261002043000 +0000" stop="20261002050000 +0000" channel="True_Crime_Xtra.virginmediatv">
     <title>Medical Detectives - Sole Searching</title>
 </programme>
-<programme start="20261002050000 +0000" stop="20261002080000 +0000" channel="True_Crime_Xtra.virginmediatv">
+<programme start="20261002050000 +0000" stop="20261002063000 +0000" channel="True_Crime_Xtra.virginmediatv">
     <title>Teleshopping</title>
 </programme>
 <programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="True_Crime_Xtra.virginmediatv">

@@ -1568,7 +1568,7 @@
     <title>Saksi Mata</title>
 </programme>
 <programme start="20261001190000 +0000" stop="20261001193000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Ekspos</title>
+    <title>Indonesia Update: Ekspos</title>
 </programme>
 <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
@@ -1622,7 +1622,7 @@
     <title>Jendela Nusantara</title>
 </programme>
 <programme start="20261002033000 +0000" stop="20261002040000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Ekspos</title>
+    <title>Indonesia Update: Ekspos</title>
 </programme>
 <programme start="20261002040000 +0000" stop="20261002050000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
@@ -1674,6 +1674,9 @@
 </programme>
 <programme start="20261002160000 +0000" stop="20261002163000 +0000" channel="BTV.mncvision">
     <title>Xtreme Barcelona</title>
+</programme>
+<programme start="20261002163000 +0000" stop="20261001170000 +0000" channel="BTV.mncvision">
+    <title>Monster Jam</title>
 </programme>
 <programme start="20261001173500 +0000" stop="20261001190300 +0000" channel="BUDDY STARS.mncvision">
     <title>A Fish Tale</title>
@@ -8011,6 +8014,54 @@
 <programme start="20261002163000 +0000" stop="20261001170000 +0000" channel="Sindo News TV HD.mncvision">
     <title>iNews Sore</title>
 </programme>
+<programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20261001183000 +0000" stop="20261001204500 +0000" channel="Soccer Channel.mncvision">
+    <title>UNL: DEN Vs POR (L)</title>
+</programme>
+<programme start="20261001204500 +0000" stop="20261001210000 +0000" channel="Soccer Channel.mncvision">
+    <title>Top Goals</title>
+</programme>
+<programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="Soccer Channel.mncvision">
+    <title>World Classic Soccer</title>
+</programme>
+<programme start="20261001213000 +0000" stop="20261001233000 +0000" channel="Soccer Channel.mncvision">
+    <title>Shopee Cup &#039;25/26: BUR Vs SEL</title>
+</programme>
+<programme start="20261001233000 +0000" stop="20261002013000 +0000" channel="Soccer Channel.mncvision">
+    <title>Hyundai C&#039;ship &#039;26: LAO Vs PHI</title>
+</programme>
+<programme start="20261002013000 +0000" stop="20261002033000 +0000" channel="Soccer Channel.mncvision">
+    <title>UNL: DEN Vs WAL</title>
+</programme>
+<programme start="20261002033000 +0000" stop="20261002040000 +0000" channel="Soccer Channel.mncvision">
+    <title>The Ultimate Goals</title>
+</programme>
+<programme start="20261002040000 +0000" stop="20261002060000 +0000" channel="Soccer Channel.mncvision">
+    <title>ACL Two 2026/27: SHS Vs TAM</title>
+</programme>
+<programme start="20261002060000 +0000" stop="20261002080000 +0000" channel="Soccer Channel.mncvision">
+    <title>Hyundai C&#039;ship &#039;26: THA Vs MAS</title>
+</programme>
+<programme start="20261002080000 +0000" stop="20261002100000 +0000" channel="Soccer Channel.mncvision">
+    <title>UNL: GER Vs GRE</title>
+</programme>
+<programme start="20261002100000 +0000" stop="20261002110000 +0000" channel="Soccer Channel.mncvision">
+    <title>Sikat Tipis</title>
+</programme>
+<programme start="20261002110000 +0000" stop="20261002130000 +0000" channel="Soccer Channel.mncvision">
+    <title>Shopee Cup &#039;25/26: KAS Vs DHC</title>
+</programme>
+<programme start="20261002130000 +0000" stop="20261002150000 +0000" channel="Soccer Channel.mncvision">
+    <title>Timnas Spesial: IDN Vs VAN</title>
+</programme>
+<programme start="20261002150000 +0000" stop="20261002154500 +0000" channel="Soccer Channel.mncvision">
+    <title>Highlights UEFA Nations League</title>
+</programme>
+<programme start="20261002154500 +0000" stop="20261002161500 +0000" channel="Soccer Channel.mncvision">
+    <title>UNL: CYP Vs ARM (L)</title>
+</programme>
 <programme start="20261001180000 +0000" stop="20261001183000 +0000" channel="Soccer Channel HD.mncvision">
     <title>The Ultimate Goals</title>
 </programme>
@@ -8300,7 +8351,7 @@
     <title>Satu Hati Untuk Garuda</title>
 </programme>
 <programme start="20261002090000 +0000" stop="20261002110000 +0000" channel="Sportstars 4.mncvision">
-    <title>AFC Futsal Asian Cup 2026</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20261002110000 +0000" stop="20261002130000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Two</title>
@@ -8309,7 +8360,7 @@
     <title>UEFA Nations League</title>
 </programme>
 <programme start="20261002150000 +0000" stop="20261002153000 +0000" channel="Sportstars 4.mncvision">
-    <title>Satu Hati Untuk Garuda</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20261001170000 +0000" stop="20261001190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>AFC Champions League Two</title>
@@ -8336,7 +8387,7 @@
     <title>Satu Hati Untuk Garuda</title>
 </programme>
 <programme start="20261002090000 +0000" stop="20261002110000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>AFC Futsal Asian Cup 2026</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20261002110000 +0000" stop="20261002130000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>AFC Champions League Two</title>
@@ -8345,7 +8396,7 @@
     <title>UEFA Nations League</title>
 </programme>
 <programme start="20261002150000 +0000" stop="20261002153000 +0000" channel="Sportstars 4 HD.mncvision">
-    <title>Satu Hati Untuk Garuda</title>
+    <title>Timnas Special</title>
 </programme>
 <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="Sportstars HD.mncvision">
     <title>Sportventure</title>
@@ -9193,8 +9244,11 @@
 <programme start="20261001193000 +0000" stop="20261001200000 +0000" channel="tvOne.mncvision">
     <title>Kabar Utama 2</title>
 </programme>
-<programme start="20261001200000 +0000" stop="20261001211500 +0000" channel="tvOne.mncvision">
+<programme start="20261001200000 +0000" stop="20261001203000 +0000" channel="tvOne.mncvision">
     <title>Kabar Hari Ini</title>
+</programme>
+<programme start="20261001203000 +0000" stop="20261001211500 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20261001211500 +0000" stop="20261001230000 +0000" channel="tvOne.mncvision">
     <title>Kabar Pagi</title>
@@ -9238,20 +9292,17 @@
 <programme start="20261002110000 +0000" stop="20261002130000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20261002130000 +0000" stop="20261002140000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261002140000 +0000" stop="20261002150000 +0000" channel="tvOne.mncvision">
-    <title>One On One</title>
+<programme start="20261002130000 +0000" stop="20261002150000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Lawyers Club</title>
 </programme>
 <programme start="20261002150000 +0000" stop="20261002160000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Hari Ini</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261002160000 +0000" stop="20261002163000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Malam</title>
+    <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20261002163000 +0000" stop="20261001170000 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
+    <title>Kabar Arena Malam</title>
 </programme>
 <programme start="20261001170000 +0000" stop="20261001170200 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>

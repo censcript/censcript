@@ -4468,19 +4468,10 @@
   <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">AutoGRATIS</title>
   </programme>
-  <programme start="20261004130000 +0000" stop="20261004131500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+  <programme start="20261004130000 +0000" stop="20261004150000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Bayern - Oldenburg</title>
   </programme>
-  <programme start="20261004131500 +0000" stop="20261004134500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20261004134500 +0000" stop="20261004141500 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Cargo Magazín</title>
-  </programme>
-  <programme start="20261004141500 +0000" stop="20261004143000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">ENDURO magazín</title>
-  </programme>
-  <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -4531,34 +4522,28 @@
   <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
-  <programme start="20261004080000 +0000" stop="20261004100000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261004080000 +0000" stop="20261004090000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Vytuningované jazdy Fínsko</title>
+  </programme>
+  <programme start="20261004090000 +0000" stop="20261004093000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Za rybami světových moří</title>
+  </programme>
+  <programme start="20261004093000 +0000" stop="20261004100000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Autožurnál</title>
+  </programme>
+  <programme start="20261004100000 +0000" stop="20261004120000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Eupago Porto Open</title>
   </programme>
-  <programme start="20261004100000 +0000" stop="20261004103000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Motoring</title>
-  </programme>
-  <programme start="20261004103000 +0000" stop="20261004110000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20261004110000 +0000" stop="20261004113000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20261004113000 +0000" stop="20261004121500 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">DominicCars</title>
   </programme>
-  <programme start="20261004121500 +0000" stop="20261004124500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
+  <programme start="20261004123000 +0000" stop="20261004144500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Longines League of Nations - Barcelona</title>
   </programme>
-  <programme start="20261004124500 +0000" stop="20261004130000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">ENDURO magazín</title>
-  </programme>
-  <programme start="20261004130000 +0000" stop="20261004150000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Bayern - Oldenburg</title>
-  </programme>
-  <programme start="20261004150000 +0000" stop="20261004153000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261004144500 +0000" stop="20261004151500 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Bez Extrémov</title>
   </programme>
-  <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261004151500 +0000" stop="20261004160000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
   <programme start="20261004160000 +0000" stop="20261004163000 +0000" channel="Arena Sport 2.webtv.sk">

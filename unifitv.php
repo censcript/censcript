@@ -8840,11 +8840,11 @@
     <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261001160500 +0000" stop="20261001170000 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Go Where Flavors Of Hunan Abound</title>
-    <desc lang="en">A shorter adventure focused on Chadong, a town with strong tea and mountain food traditions.</desc>
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">Host Pornsak introduces Teochew and Hakka Chinese New Year dishes and learns to cook the dishes.</desc>
     <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">1.5.</episode-num>
-    <episode-num system="onscreen">S2E6</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261001170000 +0000" stop="20261001172500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Star Vs Food: Malaysia</title>
@@ -9085,11 +9085,11 @@
     <episode-num system="onscreen">S3E2</episode-num>
   </programme>
   <programme start="20261002130500 +0000" stop="20261002140500 +0000" channel="asianfoodnetwork.unifitv">
-    <title lang="en">Go Where Flavors Of Hunan Abound</title>
-    <desc lang="en">Deep in Xiangxi, the team samples indigenous ethnic minority foods and mountain-sourced ingredients.</desc>
+    <title lang="en">A Taste Of Festival</title>
+    <desc lang="en">The different Chinese dialect groups have different traditional Lunar New Year dishes.</desc>
     <category lang="en">Lifestyle</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261002140500 +0000" stop="20261002143500 +0000" channel="asianfoodnetwork.unifitv">
     <title lang="en">Ranch To Table</title>
