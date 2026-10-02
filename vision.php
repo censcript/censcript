@@ -628,12 +628,6 @@
 <programme start="20261002093000 +0000" stop="20261002110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261002150000 +0000" stop="20261002170000 +0000" channel="ANTV.vision">
-<title>Inang</title>
-</programme>
-<programme start="20261002170000 +0000" stop="20261002183000 +0000" channel="ANTV.vision">
-<title>Black Cat 2</title>
-</programme>
 <programme start="20261002183000 +0000" stop="20261002193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261002143000 +0000" stop="20261002163000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261002163000 +0000" stop="20261002170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261002170000 +0000" stop="20261002180000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

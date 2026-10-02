@@ -448,8 +448,11 @@
 <programme start="20261002123000 +0000" stop="20261002133000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Politics Live</title>
 </programme>
-<programme start="20261002133000 +0000" stop="20261002141500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261002133000 +0000" stop="20261002134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Boss - Episode 4</title>
+</programme>
+<programme start="20261002134500 +0000" stop="20261002141500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Best Bakes Ever - Episode 8</title>
 </programme>
 <programme start="20261002141500 +0000" stop="20261002151500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Great British Sewing Bee - Episode 7</title>
@@ -2422,17 +2425,14 @@
 <programme start="20261002053000 +0000" stop="20261002060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20261002120000 +0000" stop="20261002130000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
 </programme>
-<programme start="20261002130000 +0000" stop="20261002133000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261002123000 +0000" stop="20261002133000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Politics Live</title>
 </programme>
-<programme start="20261002133000 +0000" stop="20261002134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20261002134500 +0000" stop="20261002140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261002133000 +0000" stop="20261002140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261002140000 +0000" stop="20261002143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -4279,11 +4279,8 @@
 <programme start="20261002134500 +0000" stop="20261002140000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Wayne Rooney: Exclusive Interview</title>
 </programme>
-<programme start="20261002140000 +0000" stop="20261002143000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League 2 - Highlights: Manchester United U21 v Brentford U21</title>
-</programme>
-<programme start="20261002143000 +0000" stop="20261002144500 +0000" channel="MUTV.virginmediatv">
-    <title>Top 20 Goals - 2005/06</title>
+<programme start="20261002140000 +0000" stop="20261002144500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Viv Anderson</title>
 </programme>
 <programme start="20261002144500 +0000" stop="20261002150000 +0000" channel="MUTV.virginmediatv">
     <title>Top 20 Goals - 2006/07</title>
@@ -4480,10 +4477,7 @@
 <programme start="20261002054500 +0000" stop="20261002064500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>The 745 Game</title>
 </programme>
-<programme start="20261002113000 +0000" stop="20261002120100 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Golden Trail World Series - Jinshanling Great Wall Trail Race</title>
-</programme>
-<programme start="20261002120100 +0000" stop="20261002123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20261002123000 +0000" stop="20261002130000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
