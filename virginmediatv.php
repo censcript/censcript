@@ -4144,14 +4144,11 @@
 <programme start="20261003054500 +0000" stop="20261003060000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Naomi Hot Laps with Kimi Antonelli</title>
 </programme>
-<programme start="20261003120000 +0000" stop="20261003123000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261003101000 +0000" stop="20261003122000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - Bahrain Grand Prix: Qualifying</title>
+</programme>
+<programme start="20261003122000 +0000" stop="20261003130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Ferrari Challenge UK - Donington Park: Highlights</title>
-</programme>
-<programme start="20261003123000 +0000" stop="20261003125000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>F2: Chasing the Dream - Azerbaijan</title>
-</programme>
-<programme start="20261003125000 +0000" stop="20261003130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Martin Brundle with Lando Norris</title>
 </programme>
 <programme start="20261003130000 +0000" stop="20261003150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Bahrain Grand Prix: Qualifying</title>
@@ -4699,14 +4696,11 @@
 <programme start="20261003054500 +0000" stop="20261003060000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Naomi Hot Laps with Kimi Antonelli</title>
 </programme>
-<programme start="20261003120000 +0000" stop="20261003123000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261003101000 +0000" stop="20261003122000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - Bahrain Grand Prix: Qualifying</title>
+</programme>
+<programme start="20261003122000 +0000" stop="20261003130000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Ferrari Challenge UK - Donington Park: Highlights</title>
-</programme>
-<programme start="20261003123000 +0000" stop="20261003125000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>F2: Chasing the Dream - Azerbaijan</title>
-</programme>
-<programme start="20261003125000 +0000" stop="20261003130000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Martin Brundle with Lando Norris</title>
 </programme>
 <programme start="20261003130000 +0000" stop="20261003150000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Bahrain Grand Prix: Qualifying</title>

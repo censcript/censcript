@@ -622,15 +622,6 @@
 <programme start="20261003093000 +0000" stop="20261003110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261003110000 +0000" stop="20261003130000 +0000" channel="ANTV.vision">
-<title>Gadis Pendekar</title>
-</programme>
-<programme start="20261003130000 +0000" stop="20261003150000 +0000" channel="ANTV.vision">
-<title>Naga Seribu</title>
-</programme>
-<programme start="20261003150000 +0000" stop="20261003170000 +0000" channel="ANTV.vision">
-<title>Malam Jahanam</title>
-</programme>
 <programme start="20261003170000 +0000" stop="20261003183000 +0000" channel="ANTV.vision">
 <title>Ghost</title>
 </programme>
@@ -819,9 +810,6 @@
 </programme>
 <programme start="20261003130000 +0000" stop="20261003140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261003140000 +0000" stop="20261003150000 +0000" channel="TVOne.vision">
-<title>Khazanah Qur&#039;an</title>
 </programme>
 <programme start="20261003150000 +0000" stop="20261003160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261003040300 +0000" stop="20261003043000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261003043000 +0000" stop="20261003044500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261003044500 +0000" stop="20261003050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261003050000 +0000" stop="20261003060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261003060000 +0000" stop="20261003070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
