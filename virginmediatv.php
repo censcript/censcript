@@ -3871,7 +3871,7 @@
 <programme start="20261003110000 +0000" stop="20261003160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Alfred Dunhill Links Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20261003160000 +0000" stop="20261003190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20261003160000 +0000" stop="20261003193000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Bank of Utah Championship, PGA Tour Golf - Day 2</title>
 </programme>
 <programme start="20261003000000 +0000" stop="20261003010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4210,11 +4210,8 @@
 <programme start="20261003054500 +0000" stop="20261003064500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: MotoGP - Japanese Grand Prix: MotoGP Sprint</title>
 </programme>
-<programme start="20261003081500 +0000" stop="20261003164500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20261003081500 +0000" stop="20261003173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: One-Day International Cricket - 3rd ODI: India v West Indies</title>
-</programme>
-<programme start="20261003164500 +0000" stop="20261003173000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Sign Up: Into Football - Episode 2</title>
 </programme>
 <programme start="20261003173000 +0000" stop="20261003180000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA Champions League Magazine - Episode 5</title>
@@ -4246,10 +4243,10 @@
 <programme start="20261003053000 +0000" stop="20261003060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UCI World Cup Mountain Biking - Lake Placid: Men&#039;s Cross-Country Short Track</title>
 </programme>
-<programme start="20261003113000 +0000" stop="20261003150000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261003120000 +0000" stop="20261003153000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Shenzhen Open - Semi-Final: Judd Trump v Wu Yize</title>
 </programme>
-<programme start="20261003150000 +0000" stop="20261003161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261003153000 +0000" stop="20261003161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: UCI ProSeries Cycling - Sparkassen Münsterland Giro</title>
 </programme>
 <programme start="20261003161500 +0000" stop="20261003163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -4519,7 +4516,7 @@
 <programme start="20261003110000 +0000" stop="20261003160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Alfred Dunhill Links Championship, DP World Tour Golf - Day 3</title>
 </programme>
-<programme start="20261003160000 +0000" stop="20261003190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20261003160000 +0000" stop="20261003193000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Bank of Utah Championship, PGA Tour Golf - Day 2</title>
 </programme>
 <programme start="20261003000000 +0000" stop="20261003010000 +0000" channel="Sky_Sports_Action.virginmediatv">
@@ -5641,7 +5638,10 @@
 <programme start="20261002175800 +0000" stop="20261003015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261003015800 +0000" stop="20261003060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261003015800 +0000" stop="20261003050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261003050000 +0000" stop="20261003060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261003115000 +0000" stop="20261003122000 +0000" channel="CBBC.virginmediatv">
