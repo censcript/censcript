@@ -1,12 +1,3 @@
-<programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261003210000 +0000" stop="20261003220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261003220000 +0000" stop="20261003230000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261003230000 +0000" stop="20261004000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -61,9 +52,6 @@
 <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261003200000 +0000" stop="20261003220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -97,9 +85,6 @@
 <programme start="20261004160000 +0000" stop="20261004180000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261003200000 +0000" stop="20261003220000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -129,9 +114,6 @@
 </programme>
 <programme start="20261004160000 +0000" stop="20261004180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261003200000 +0000" stop="20261003220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Liverpool vs Nottingham Forest</title>
 </programme>
 <programme start="20261003220000 +0000" stop="20261004000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Aston Villa vs Arsenal</title>
