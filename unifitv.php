@@ -2461,10 +2461,17 @@
   <channel id="tvs.unifitv">
     <display-name>TVS</display-name>
   </channel>
-  <programme start="20261002150000 +0000" stop="20261002190000 +0000" channel="tvs.unifitv">
+  <programme start="20261002150000 +0000" stop="20261002183000 +0000" channel="tvs.unifitv">
     <title lang="en">Anugerah Industri Muzik Ke-25</title>
     <desc lang="en">Siaran ulangan Anugerah Industri Muzik yang ke-25 bertempat di Borneo Convention Centre Kuching, Sarawak.</desc>
     <category lang="en">Music</category>
+  </programme>
+  <programme start="20261002183000 +0000" stop="20261002190000 +0000" channel="tvs.unifitv">
+    <title lang="en">Borneo's Blue Gold</title>
+    <desc lang="en">Borneo's Blue Gold is a six-part series exploring the vital role of fresh water in Borneo, examining environmental, cultural, and political impacts, with stunning visuals and expert insights on sustainable water management.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002193000 +0000" channel="tvs.unifitv">
     <title lang="en">Pejalai Kamek Orang</title>
@@ -2577,17 +2584,7 @@
     <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20261003020000 +0000" stop="20261003020500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261003020500 +0000" stop="20261003021500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20261003021500 +0000" stop="20261003040000 +0000" channel="tvs.unifitv">
+  <programme start="20261003020000 +0000" stop="20261003040000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Majlis Perasmian Sarawakku Sayang</title>
     <desc lang="en">Siaran langsung Majlis Perasmian Sarawakku Sayang, di Dataran Pehin Setia Raja,Mukah Sarawak.</desc>
     <category lang="en">News</category>
@@ -3983,9 +3980,9 @@
     <episode-num system="onscreen">S1E20261002</episode-num>
   </programme>
   <programme start="20261002160300 +0000" stop="20261002163300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA RESOURCES ZOOM IN</title>
-    <desc lang="en">Pay attention to current political topics, major social events and news hot spots. Dig out more facts and backgrounds. Analyze the early consequences of news events, the fate of characters, and present authoritative views.</desc>
-    <category lang="en">Factual</category>
+    <title lang="en">BANK OF CHINA (HONG KONG) ASIAN FINANCIAL INSIGHT</title>
+    <desc lang="en">The new high-end financial program created by Phoenix is the best navigation for the audience on the investment journey.</desc>
+    <category lang="en">Business</category>
     <episode-num system="xmltv_ns">0.20261002.</episode-num>
     <episode-num system="onscreen">S1E20261003</episode-num>
   </programme>
@@ -4228,8 +4225,8 @@
     <episode-num system="onscreen">S1E20261003</episode-num>
   </programme>
   <programme start="20261003093300 +0000" stop="20261003100300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
+    <title lang="en">X + (IV)</title>
+    <desc lang="en">The show serves as a flagship platform to highlight breakthroughs in artificial intelligence, deep-sea robotics, biomedical engineering, green technology, and industrial automation. It features on-location reporting, field tests of emerging technologies, and interviews with leading scientists and tech founders.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20261002.</episode-num>
     <episode-num system="onscreen">S1E20261003</episode-num>
@@ -4298,16 +4295,16 @@
     <episode-num system="onscreen">S1E20261003</episode-num>
   </programme>
   <programme start="20261003140300 +0000" stop="20261003150300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CLASSIC SONGS SERIES</title>
-    <desc lang="en">A curated showcase featuring iconic pop songs and timeless classics from the 1970s through the 2000s across Mandopop and Hokkien/Taiwanese pop music.</desc>
-    <category lang="en">musical</category>
-    <episode-num system="xmltv_ns">0.20261002.</episode-num>
-    <episode-num system="onscreen">S1E20261003</episode-num>
+    <title lang="en">PHOENIX MIDDAY EXPRESS</title>
+    <desc lang="en">Presenting the most update international and financial news breaking before lunch, viewers can turn it to stay informed about events happening around the world.</desc>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.20250906.</episode-num>
+    <episode-num system="onscreen">S1E20250907</episode-num>
   </programme>
-  <programme start="20261003150300 +0000" stop="20261003160300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PREMIUM SPECTACULAR</title>
-    <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261003150300 +0000" stop="20261003163300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">VARIETY SHOW IN CELEBRATION OF THE 77TH ANNIVERSARY OF THE FOUNDING OF THE PEOPLE'S REPUBLIC OF CHINA</title>
+    <desc lang="en">This Phoenix Hong Kong variety show celebrates China's anniversary with music, dance, and drama performances from mainland and Hong Kong artists to showcase national pride and local celebrations.</desc>
+    <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.20261002.</episode-num>
     <episode-num system="onscreen">S1E20261003</episode-num>
   </programme>
@@ -14587,8 +14584,10 @@
   </channel>
   <programme start="20261002153500 +0000" stop="20261002160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5135.</episode-num>
+    <episode-num system="onscreen">S1E5136</episode-num>
   </programme>
   <programme start="20261002160500 +0000" stop="20261002163500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14599,8 +14598,10 @@
   </programme>
   <programme start="20261002163500 +0000" stop="20261002170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Frontrunners</title>
-    <desc lang="en">This show highlights professionals at the very forefront of their fields - we showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+    <desc lang="en">An earthquake on March 11, 2011 caused a nuclear disaster in Fukushima. For 15 years, the psychiatric nurse Yonekura Kazuma has supported locals affected emotionally by evacuation and uncertainty.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5132.</episode-num>
+    <episode-num system="onscreen">S1E5133</episode-num>
   </programme>
   <programme start="20261002170500 +0000" stop="20261002173500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14611,8 +14612,10 @@
   </programme>
   <programme start="20261002173500 +0000" stop="20261002180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5103.</episode-num>
+    <episode-num system="onscreen">S1E5104</episode-num>
   </programme>
   <programme start="20261002180500 +0000" stop="20261002183300 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Newsroom Tokyo</title>
@@ -14623,28 +14626,38 @@
   </programme>
   <programme start="20261002183300 +0000" stop="20261002184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">In July 2025, Hayashi Hisashi became the first Japanese winner of a prestigious German award for the best board game of the year. How does he design games that captivate players around the world?</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5111.</episode-num>
+    <episode-num system="onscreen">S1E5112</episode-num>
   </programme>
   <programme start="20261002184800 +0000" stop="20261002190000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Impacts: Climates Change the World</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5182.</episode-num>
+    <episode-num system="onscreen">S1E5183</episode-num>
   </programme>
   <programme start="20261002190000 +0000" stop="20261002190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Centuries ago, Tokyo was known as Edo - more than a million people enjoyed life in this city, and they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore old Tokyo's soul.</desc>
+    <desc lang="en">It's late at night, when all are fast asleep. A young man and woman huddle together along the veranda outside of a house, attending to a ... rooster. What could the pair be up to?</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5148.</episode-num>
+    <episode-num system="onscreen">S1E5149</episode-num>
   </programme>
   <programme start="20261002190500 +0000" stop="20261002193500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure, the groundbreaking world of Japanese medical technology and healthcare! This programme offers tips for superfoods and easy exercises for a healthy lifestyle.</desc>
+    <desc lang="en">The five-year survival rate for lung cancer is increasing. Tests can now identify gene mutations, enabling treatment with targeted drugs. We share the latest developments in lung cancer treatment.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5109.</episode-num>
+    <episode-num system="onscreen">S1E5110</episode-num>
   </programme>
   <programme start="20261002193500 +0000" stop="20261002200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Special Programme</title>
-    <desc lang="en">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="en">Trailblazers</title>
+    <desc lang="en">As conflicts increase worldwide, many private NGOs are working to mediate peace. In this episode, we follow Horiba Akiko and other area studies experts who are pioneering pathways to peace.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5989.</episode-num>
+    <episode-num system="onscreen">S1E5990</episode-num>
   </programme>
   <programme start="20261002200500 +0000" stop="20261002203500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14655,28 +14668,38 @@
   </programme>
   <programme start="20261002203500 +0000" stop="20261002210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Shaping Memories. Memories bring back emotions as well as events. As vast amounts of data is exchanged in our digital society, new designs focus on how to capture and recall memories.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5130.</episode-num>
+    <episode-num system="onscreen">S1E5131</episode-num>
   </programme>
   <programme start="20261002210500 +0000" stop="20261002213500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <desc lang="en">NHK Newsline brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5041.</episode-num>
+    <episode-num system="onscreen">S1E5042</episode-num>
   </programme>
   <programme start="20261002213500 +0000" stop="20261002220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5135.</episode-num>
+    <episode-num system="onscreen">S1E5136</episode-num>
   </programme>
   <programme start="20261002220500 +0000" stop="20261002223500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <desc lang="en">NHK Newsline brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5041.</episode-num>
+    <episode-num system="onscreen">S1E5042</episode-num>
   </programme>
   <programme start="20261002223500 +0000" stop="20261002230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Asia Insight</title>
-    <desc lang="en">An in-depth look at the realities of Asia today, a dynamic region which faces political, economic, cultural and technological change.</desc>
+    <desc lang="en">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5103.</episode-num>
+    <episode-num system="onscreen">S1E5104</episode-num>
   </programme>
   <programme start="20261002230500 +0000" stop="20261002231500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14686,14 +14709,18 @@
     <episode-num system="onscreen">S1E5043</episode-num>
   </programme>
   <programme start="20261002231500 +0000" stop="20261002232000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Chatroom Japan</title>
-    <desc lang="en">A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <title lang="en">My Eco-Friendly Farm</title>
+    <desc lang="en">A woman from France is now an organic farmer in Okuma Town, Fukushima Prefecture. The town was affected by the 2011 nuclear accident. She is working to change that image.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5158.</episode-num>
+    <episode-num system="onscreen">S1E5159</episode-num>
   </programme>
   <programme start="20261002232000 +0000" stop="20261002233500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">The stories and secrets behind world-renowned Japanese products revealed through interviews and reenactments - join our reporter for an exciting behind-the-scenes look at Japanese craftsmanship.</desc>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter. This time:</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5124.</episode-num>
+    <episode-num system="onscreen">S1E5125</episode-num>
   </programme>
   <programme start="20261002233500 +0000" stop="20261003000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus</title>
@@ -14710,9 +14737,11 @@
     <episode-num system="onscreen">S1E5044</episode-num>
   </programme>
   <programme start="20261003001500 +0000" stop="20261003010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Nosari: Gifts from Mountain Gods</title>
+    <desc lang="en">In Shiiba village, people believe that everything, good or bad, is "Nosari,"a gift from the gods. This is a year-long record of mountain life that embodies the essence of traditional Japan.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5134.</episode-num>
+    <episode-num system="onscreen">S1E5135</episode-num>
   </programme>
   <programme start="20261003010500 +0000" stop="20261003011500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14744,8 +14773,10 @@
   </programme>
   <programme start="20261003030000 +0000" stop="20261003030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">A digest series presenting the limitless kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings.</desc>
+    <desc lang="en">Torii are gateways to Shinto shrines where deities are worshipped. We look at torii around Japan, as well as efforts to rebuild them after a tsunami, and examine their role and what they represent.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5150.</episode-num>
+    <episode-num system="onscreen">S1E5151</episode-num>
   </programme>
   <programme start="20261003030500 +0000" stop="20261003031500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14756,13 +14787,24 @@
   </programme>
   <programme start="20261003031500 +0000" stop="20261003034500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Shaping Memories. Memories bring back emotions as well as events. As vast amounts of data is exchanged in our digital society, new designs focus on how to capture and recall memories.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5130.</episode-num>
+    <episode-num system="onscreen">S1E5131</episode-num>
   </programme>
-  <programme start="20261003034500 +0000" stop="20261003040500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20261003034500 +0000" stop="20261003035500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">u&amp;i</title>
+    <desc lang="en">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5191.</episode-num>
+    <episode-num system="onscreen">S1E5192</episode-num>
+  </programme>
+  <programme start="20261003035500 +0000" stop="20261003040500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Viewpoint Science</title>
+    <desc lang="en">The proactive science education programme which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5192.</episode-num>
+    <episode-num system="onscreen">S1E5193</episode-num>
   </programme>
   <programme start="20261003040500 +0000" stop="20261003041500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14771,10 +14813,19 @@
     <episode-num system="xmltv_ns">0.5026.</episode-num>
     <episode-num system="onscreen">S1E5027</episode-num>
   </programme>
-  <programme start="20261003041500 +0000" stop="20261003050500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+  <programme start="20261003041500 +0000" stop="20261003044500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yokai</title>
+    <desc lang="en">Kijimuna of Okinawa, a red-haired child spirit in banyan trees, brings fortune to fishermen but punishes betrayal, embodying nature in local life.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5207.</episode-num>
+    <episode-num system="onscreen">S1E5208</episode-num>
+  </programme>
+  <programme start="20261003044500 +0000" stop="20261003050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">My Street Piano</title>
+    <desc lang="en">Dogo Onsen in Ehime is steeped in over 3,000 years of history. Near the popular bathhouse sits a piano, where passersby stop to play from the heart.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5188.</episode-num>
+    <episode-num system="onscreen">S1E5189</episode-num>
   </programme>
   <programme start="20261003050500 +0000" stop="20261003051500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14785,18 +14836,24 @@
   </programme>
   <programme start="20261003051500 +0000" stop="20261003053000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - 'Bosai' explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Each year in mountainous Japan, about 1,000 landslides including land slips, debris flows, and falling rocks occur, often causing major damage. We'll look at their causes and latest countermeasures.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5123.</episode-num>
+    <episode-num system="onscreen">S1E5124</episode-num>
   </programme>
   <programme start="20261003053000 +0000" stop="20261003053500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design Museum Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">Morinaga Kunihiko (Fashion designer) visits Amami Oshima, Kagoshima. Priestesses on Amami wore patchwork robes with triangular butterfly designs, intended to protect the wearer from unseen spirits.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5166.</episode-num>
+    <episode-num system="onscreen">S1E5167</episode-num>
   </programme>
   <programme start="20261003053500 +0000" stop="20261003060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Kabuki Kool</title>
-    <desc lang="en">Dive into the world of kabuki with fascinating insights into this traditional Japanese theatre, famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="en">Kabuki dance started as a showpiece for a female character, but then dances for male characters appeared - dances daring, comical, and acrobatic!</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5107.</episode-num>
+    <episode-num system="onscreen">S1E5108</episode-num>
   </programme>
   <programme start="20261003060500 +0000" stop="20261003061500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14806,9 +14863,11 @@
     <episode-num system="onscreen">S1E5029</episode-num>
   </programme>
   <programme start="20261003061500 +0000" stop="20261003070500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Nosari: Gifts from Mountain Gods</title>
+    <desc lang="en">In Shiiba village, people believe that everything, good or bad, is "Nosari,"a gift from the gods. This is a year-long record of mountain life that embodies the essence of traditional Japan.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5134.</episode-num>
+    <episode-num system="onscreen">S1E5135</episode-num>
   </programme>
   <programme start="20261003070500 +0000" stop="20261003071500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14831,10 +14890,19 @@
     <episode-num system="xmltv_ns">0.5030.</episode-num>
     <episode-num system="onscreen">S1E5031</episode-num>
   </programme>
-  <programme start="20261003081500 +0000" stop="20261003090500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">This programme transcends time to detail extraordinary historical events in Japan and the world - join NHK World-Japan on a journey that reveals the truth behind some of the turning points of history.</desc>
+  <programme start="20261003081500 +0000" stop="20261003084500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yokai</title>
+    <desc lang="en">Kijimuna of Okinawa, a red-haired child spirit in banyan trees, brings fortune to fishermen but punishes betrayal, embodying nature in local life.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5207.</episode-num>
+    <episode-num system="onscreen">S1E5208</episode-num>
+  </programme>
+  <programme start="20261003084500 +0000" stop="20261003090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">My Street Piano</title>
+    <desc lang="en">Dogo Onsen in Ehime is steeped in over 3,000 years of history. Near the popular bathhouse sits a piano, where passersby stop to play from the heart.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5188.</episode-num>
+    <episode-num system="onscreen">S1E5189</episode-num>
   </programme>
   <programme start="20261003090500 +0000" stop="20261003091500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14845,18 +14913,31 @@
   </programme>
   <programme start="20261003091500 +0000" stop="20261003094500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design X Stories</title>
-    <desc lang="en">Crafts, fashion, products, buildings and food: explore a diverse range of Japanese designs and the ideas and values of their creators as our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="en">Today's theme: Shaping Memories. Memories bring back emotions as well as events. As vast amounts of data is exchanged in our digital society, new designs focus on how to capture and recall memories.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5130.</episode-num>
+    <episode-num system="onscreen">S1E5131</episode-num>
   </programme>
-  <programme start="20261003094500 +0000" stop="20261003100500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20261003094500 +0000" stop="20261003095500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">u&amp;i</title>
+    <desc lang="en">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5191.</episode-num>
+    <episode-num system="onscreen">S1E5192</episode-num>
+  </programme>
+  <programme start="20261003095500 +0000" stop="20261003100500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Viewpoint Science</title>
+    <desc lang="en">The proactive science education programme which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5192.</episode-num>
+    <episode-num system="onscreen">S1E5193</episode-num>
   </programme>
   <programme start="20261003100500 +0000" stop="20261003101500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
-    <desc lang="en">NHK World-Japan's flagship hourly news programme delivers the latest world news, business and weather with a focus on Japan and the rest of Asia.</desc>
+    <desc lang="en">NHK Newsline brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5032.</episode-num>
+    <episode-num system="onscreen">S1E5033</episode-num>
   </programme>
   <programme start="20261003101500 +0000" stop="20261003110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Train Cruise</title>
@@ -14867,8 +14948,10 @@
   </programme>
   <programme start="20261003110000 +0000" stop="20261003110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">A digest series presenting the limitless kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings.</desc>
+    <desc lang="en">Torii are gateways to Shinto shrines where deities are worshipped. We look at torii around Japan, as well as efforts to rebuild them after a tsunami, and examine their role and what they represent.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5150.</episode-num>
+    <episode-num system="onscreen">S1E5151</episode-num>
   </programme>
   <programme start="20261003110500 +0000" stop="20261003111500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14879,18 +14962,24 @@
   </programme>
   <programme start="20261003111500 +0000" stop="20261003113000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - 'Bosai' explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Each year in mountainous Japan, about 1,000 landslides including land slips, debris flows, and falling rocks occur, often causing major damage. We'll look at their causes and latest countermeasures.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5123.</episode-num>
+    <episode-num system="onscreen">S1E5124</episode-num>
   </programme>
   <programme start="20261003113000 +0000" stop="20261003113500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design Museum Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">Morinaga Kunihiko (Fashion designer) visits Amami Oshima, Kagoshima. Priestesses on Amami wore patchwork robes with triangular butterfly designs, intended to protect the wearer from unseen spirits.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5166.</episode-num>
+    <episode-num system="onscreen">S1E5167</episode-num>
   </programme>
   <programme start="20261003113500 +0000" stop="20261003120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Kabuki Kool</title>
-    <desc lang="en">Dive into the world of kabuki with fascinating insights into this traditional Japanese theatre, famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="en">Kabuki dance started as a showpiece for a female character, but then dances for male characters appeared - dances daring, comical, and acrobatic!</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5107.</episode-num>
+    <episode-num system="onscreen">S1E5108</episode-num>
   </programme>
   <programme start="20261003120500 +0000" stop="20261003121500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14900,9 +14989,11 @@
     <episode-num system="onscreen">S1E5034</episode-num>
   </programme>
   <programme start="20261003121500 +0000" stop="20261003130500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Documentary 360</title>
-    <desc lang="en">This flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="en">Nosari: Gifts from Mountain Gods</title>
+    <desc lang="en">In Shiiba village, people believe that everything, good or bad, is "Nosari,"a gift from the gods. This is a year-long record of mountain life that embodies the essence of traditional Japan.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5134.</episode-num>
+    <episode-num system="onscreen">S1E5135</episode-num>
   </programme>
   <programme start="20261003130500 +0000" stop="20261003131500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14927,18 +15018,31 @@
   </programme>
   <programme start="20261003141500 +0000" stop="20261003144000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Darwin's Amazing Animals</title>
-    <desc lang="en">A natural history show that's a huge hit with families in Japan has gone global! This series explores the amazing and delightful stories of animals from all around the world, including Japan.</desc>
+    <desc lang="en">A herd of zebras can prove mesmerising. Their stripes were commonly thought to serve as a sort of camouflage. That and other theories are scrutinised while new research reveals fascinating results.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5139.</episode-num>
+    <episode-num system="onscreen">S1E5140</episode-num>
   </programme>
   <programme start="20261003144000 +0000" stop="20261003144500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Time-Lapse Journey</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">Kyoto in the autumn: the old capital is even more beautiful when dressed in fall colours. Witness the contemplative and quiet beauty of Kyoto through time-lapse photography.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5157.</episode-num>
+    <episode-num system="onscreen">S1E5158</episode-num>
   </programme>
-  <programme start="20261003144500 +0000" stop="20261003150500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+  <programme start="20261003144500 +0000" stop="20261003145500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">u&amp;i</title>
+    <desc lang="en">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5191.</episode-num>
+    <episode-num system="onscreen">S1E5192</episode-num>
+  </programme>
+  <programme start="20261003145500 +0000" stop="20261003150500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Viewpoint Science</title>
+    <desc lang="en">The proactive science education programme which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5192.</episode-num>
+    <episode-num system="onscreen">S1E5193</episode-num>
   </programme>
   <programme start="20261003150500 +0000" stop="20261003151500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14956,8 +15060,10 @@
   </programme>
   <programme start="20261003160000 +0000" stop="20261003160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japanology Plus mini</title>
-    <desc lang="en">A digest series presenting the limitless kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings.</desc>
+    <desc lang="en">Torii are gateways to Shinto shrines where deities are worshipped. We look at torii around Japan, as well as efforts to rebuild them after a tsunami, and examine their role and what they represent.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5150.</episode-num>
+    <episode-num system="onscreen">S1E5151</episode-num>
   </programme>
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
@@ -15312,7 +15418,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003123000 +0000" stop="20261003133500 +0000" channel="beinsports.unifitv">
-    <title lang="en">WRC - Rally Italia Sardegna SS11 Lerno-Monti di Ala' 2 (L)</title>
+    <title lang="en">WRC - Rally Italia Sardegna SS11 Lerno - Sa Conchedda - Monti di Ala' 2 (L)</title>
     <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15494,7 +15600,7 @@
   </programme>
   <programme start="20261003003000 +0000" stop="20261003010000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Champions League Magazine Show - Special Programme</title>
-    <desc lang="en">UEFA Champions League Magazine Show - Special Programme</desc>
+    <desc lang="en">The UCL magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003010000 +0000" stop="20261003050000 +0000" channel="beinsports3.unifitv">
@@ -15513,7 +15619,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003060000 +0000" stop="20261003070000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">WRC - Rally Italia Sardegna SS8 Lerno-Monti di Ala' 1 (L)</title>
+    <title lang="en">WRC - Rally Italia Sardegna SS8 Lerno - Sa Conchedda - Monti di Ala' 1 (L)</title>
     <desc lang="en">Join us for an epic motorsport adventure that takes drivers and their production-based cars through challenging terrain in the 54th season of the World Rally Championship.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15529,7 +15635,7 @@
   </programme>
   <programme start="20261003083000 +0000" stop="20261003090000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Champions League Magazine Show - Special Programme</title>
-    <desc lang="en">UEFA Champions League Magazine Show - Special Programme</desc>
+    <desc lang="en">The UCL magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003090000 +0000" stop="20261003104000 +0000" channel="beinsports3.unifitv">
@@ -15549,7 +15655,7 @@
   </programme>
   <programme start="20261003113000 +0000" stop="20261003120000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Champions League Magazine Show - Special Programme</title>
-    <desc lang="en">UEFA Champions League Magazine Show - Special Programme</desc>
+    <desc lang="en">The UCL magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003120000 +0000" stop="20261003134000 +0000" channel="beinsports3.unifitv">
@@ -15564,12 +15670,12 @@
   </programme>
   <programme start="20261003140000 +0000" stop="20261003143000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Women's Champions League Highlights - MD2</title>
-    <desc lang="en">UEFA Women's Champions League Highlights - MD2</desc>
+    <desc lang="en">Don't miss any of the action with the official UEFA Women's Champions League highlights show.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003143000 +0000" stop="20261003150000 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Champions League Magazine Show - Special Programme</title>
-    <desc lang="en">UEFA Champions League Magazine Show - Special Programme</desc>
+    <desc lang="en">The UCL magazine show blends match highlights and interviews, epic moments and fascinating features from across Europe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="beinsports3.unifitv">

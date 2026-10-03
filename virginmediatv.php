@@ -4250,7 +4250,7 @@
     <title>UCI World Cup Mountain Biking - Lake Placid: Men&#039;s Cross-Country Short Track</title>
 </programme>
 <programme start="20261003113000 +0000" stop="20261003150000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Live: Shenzhen Open - Semi-Final</title>
+    <title>Live: Shenzhen Open - Semi-Final: Judd Trump v Wu Yize</title>
 </programme>
 <programme start="20261003150000 +0000" stop="20261003161500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: UCI ProSeries Cycling - Sparkassen Münsterland Giro</title>

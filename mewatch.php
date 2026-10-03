@@ -80,7 +80,7 @@
         <title>Dragons: Defenders Of Berk S2 - EP 17</title>
     </programme>
     <programme start="20261003035500 +0000" stop="20261003070000 +0000" channel="Channel 5.mewatch">
-        <title>Jiu-Jitsu - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s -63kg | Men&#039;s -85kg Qualifications &amp; Semi-finals</title>
+        <title>Jiu-Jitsu - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s -63kg | Men&#039;s -94kg Finals</title>
     </programme>
     <programme start="20261003070000 +0000" stop="20261003105000 +0000" channel="Channel 5.mewatch">
         <title>Rhythmic Gymnastics - 20th Asian Games Aichi-Nagoya 2026: Women&#039;s Individual All-Around Final</title>
