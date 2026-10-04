@@ -610,8 +610,8 @@
 <programme start="20261004050000 +0000" stop="20261004061500 +0000" channel="SKY_One_HD.virginmediatv">
     <title>Attenborough and the Giant Elephant</title>
 </programme>
-<programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The Simpsons - The Seven-Beer Snitch</title>
+<programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="SKY_One_HD.virginmediatv">
+    <title>Formula 1 - Bahrain Grand Prix: Highlights</title>
 </programme>
 <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="SKY_One_HD.virginmediatv">
     <title>Superstore - Viral Video</title>
@@ -6496,8 +6496,8 @@
 <programme start="20261004050000 +0000" stop="20261004061500 +0000" channel="SKY_One.virginmediatv">
     <title>Attenborough and the Giant Elephant</title>
 </programme>
-<programme start="20261004120000 +0000" stop="20261004123000 +0000" channel="SKY_One.virginmediatv">
-    <title>The Simpsons - The Seven-Beer Snitch</title>
+<programme start="20261004113000 +0000" stop="20261004123000 +0000" channel="SKY_One.virginmediatv">
+    <title>Formula 1 - Bahrain Grand Prix: Highlights</title>
 </programme>
 <programme start="20261004123000 +0000" stop="20261004130000 +0000" channel="SKY_One.virginmediatv">
     <title>Superstore - Viral Video</title>

@@ -517,9 +517,6 @@
 <programme start="20261004163000 +0000" stop="20261004174500 +0000" channel="Trans 7.vision">
 <title>Dracin</title>
 </programme>
-<programme start="20261004174500 +0000" stop="20261004184500 +0000" channel="Trans 7.vision">
-<title>Moto2 Japan 2026</title>
-</programme>
 <programme start="20261004184500 +0000" stop="20261004190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -600,9 +597,6 @@
 </programme>
 <programme start="20261004093000 +0000" stop="20261004110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20261004170000 +0000" stop="20261004183000 +0000" channel="ANTV.vision">
-<title>Tiger On Beat</title>
 </programme>
 <programme start="20261004183000 +0000" stop="20261004193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261005010000 +0000" stop="20261005013000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261005013000 +0000" stop="20261005030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261005030000 +0000" stop="20261005030300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
