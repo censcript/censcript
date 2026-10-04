@@ -472,9 +472,6 @@
 <programme start="20261004011500 +0000" stop="20261004020000 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
-<programme start="20261004020000 +0000" stop="20261004030000 +0000" channel="Trans 7.vision">
-<title>Moto3 Japan 2026</title>
-</programme>
 <programme start="20261004030000 +0000" stop="20261004040000 +0000" channel="Trans 7.vision">
 <title>Obrolan Tiap Waktu</title>
 </programme>
@@ -769,23 +766,8 @@
 <programme start="20261003233000 +0000" stop="20261004010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi</title>
 </programme>
-<programme start="20261004010000 +0000" stop="20261004013000 +0000" channel="TVOne.vision">
-<title>Inspirasi Pagi</title>
-</programme>
-<programme start="20261004013000 +0000" stop="20261004020000 +0000" channel="TVOne.vision">
-<title>Oase Indonesia</title>
-</programme>
 <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="TVOne.vision">
 <title>Berita Utama Kriminal</title>
-</programme>
-<programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="TVOne.vision">
-<title>Indonesia Plus</title>
-</programme>
-<programme start="20261004030000 +0000" stop="20261004033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
 </programme>
 <programme start="20261004040000 +0000" stop="20261004053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1496,5 +1478,23 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261004143000 +0000" stop="20261004153000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004160000 +0000" stop="20261004164500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004164500 +0000" stop="20261004170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004170000 +0000" stop="20261004190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004190000 +0000" stop="20261004193000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004193000 +0000" stop="20261004200000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

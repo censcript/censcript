@@ -15742,12 +15742,7 @@
     <desc lang="en">Don't miss any of the action with the official UEFA Women's Champions League highlights show.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004090000 +0000" stop="20261004091000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEL - Bremen vs Valencia (2009/10)</title>
-    <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Europa League</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261004091000 +0000" stop="20261004100000 +0000" channel="beinsports3.unifitv">
+  <programme start="20261004090000 +0000" stop="20261004100000 +0000" channel="beinsports3.unifitv">
     <title lang="en">GT World Challenge Europe - Barcelona Qualifying 2, Sprint Cup (L)</title>
     <desc lang="en">The 16th season of the premier European GT3 championship, featuring a 10-round calendar split between Endurance and Sprint Cups</desc>
     <category lang="en">Sports</category>

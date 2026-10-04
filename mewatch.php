@@ -106,10 +106,10 @@
     <programme start="20261004073000 +0000" stop="20261004080000 +0000" channel="Channel 5.mewatch">
         <title>Famous Foodies S3 - EP 3</title>
     </programme>
-    <programme start="20261004080000 +0000" stop="20261004082500 +0000" channel="Channel 5.mewatch">
+    <programme start="20261004080000 +0000" stop="20261004082200 +0000" channel="Channel 5.mewatch">
         <title>Just For Laughs S25 - EP 5</title>
     </programme>
-    <programme start="20261004082500 +0000" stop="20261004085500 +0000" channel="Channel 5.mewatch">
+    <programme start="20261004082200 +0000" stop="20261004085500 +0000" channel="Channel 5.mewatch">
         <title>(Live) 20th Asian Games Aichi-Nagoya 2026: Summary At The Games - EP 1</title>
     </programme>
     <programme start="20261004085500 +0000" stop="20261004103000 +0000" channel="Channel 5.mewatch">
