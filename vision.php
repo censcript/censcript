@@ -601,15 +601,6 @@
 <programme start="20261004093000 +0000" stop="20261004110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261004110000 +0000" stop="20261004130000 +0000" channel="ANTV.vision">
-<title>Yang Perkasa</title>
-</programme>
-<programme start="20261004130000 +0000" stop="20261004150000 +0000" channel="ANTV.vision">
-<title>Srigala</title>
-</programme>
-<programme start="20261004150000 +0000" stop="20261004170000 +0000" channel="ANTV.vision">
-<title>Pasar Setan</title>
-</programme>
 <programme start="20261004170000 +0000" stop="20261004183000 +0000" channel="ANTV.vision">
 <title>Tiger On Beat</title>
 </programme>
@@ -781,17 +772,11 @@
 <programme start="20261004110000 +0000" stop="20261004130000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20261004130000 +0000" stop="20261004140000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
-</programme>
 <programme start="20261004140000 +0000" stop="20261004150000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261004150000 +0000" stop="20261004160000 +0000" channel="TVOne.vision">
 <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="TVOne.vision">
-<title>One Pride MMA</title>
 </programme>
 <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="TVOne.vision">
 <title>Sport Style</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261004204500 +0000" stop="20261004210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004210000 +0000" stop="20261004230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004230000 +0000" stop="20261004233000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004233000 +0000" stop="20261005000000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261005010000 +0000" stop="20261005013000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -112,13 +112,10 @@
   <programme start="20261006215500 +0000" stop="20261006225500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Vraždy v dolinách (6/13)</title>
   </programme>
-  <programme start="20261005200500 +0000" stop="20261005220100 +0000" channel="Dvojka.webtv.sk">
-    <title lang="id">Zlá výchova</title>
-  </programme>
-  <programme start="20261005220100 +0000" stop="20261005220300 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261005220000 +0000" stop="20261005220200 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20261005220300 +0000" stop="20261005225000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261005220200 +0000" stop="20261005225000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
   <programme start="20261005225000 +0000" stop="20261005225600 +0000" channel="Dvojka.webtv.sk">
@@ -4885,16 +4882,16 @@
   <programme start="20261006094500 +0000" stop="20261006103000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Horská kola: SP v Lake Placid</title>
   </programme>
-  <programme start="20261006103000 +0000" stop="20261006110000 +0000" channel="Eurosport 1.webtv.sk">
+  <programme start="20261006103000 +0000" stop="20261006113000 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Bernocchi Cup</title>
   </programme>
-  <programme start="20261006110000 +0000" stop="20261006123000 +0000" channel="Eurosport 1.webtv.sk">
+  <programme start="20261006113000 +0000" stop="20261006124500 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Binche – Chimay – Binche</title>
   </programme>
-  <programme start="20261006123000 +0000" stop="20261006124500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Cyklistika: Cycling Show</title>
+  <programme start="20261006124500 +0000" stop="20261006131500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Cyklistika: Mistrovství Evropy</title>
   </programme>
-  <programme start="20261006124500 +0000" stop="20261006151500 +0000" channel="Eurosport 1.webtv.sk">
+  <programme start="20261006131500 +0000" stop="20261006151500 +0000" channel="Eurosport 1.webtv.sk">
     <title lang="id">Cyklistika: Mistrovství Evropy</title>
   </programme>
   <programme start="20261006151500 +0000" stop="20261006160000 +0000" channel="Eurosport 1.webtv.sk">
@@ -4951,10 +4948,10 @@
   <programme start="20261006123000 +0000" stop="20261006133000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Tenis: Laver Cup</title>
   </programme>
-  <programme start="20261006133000 +0000" stop="20261006150000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20261006133000 +0000" stop="20261006151500 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Tre Valli Varesine</title>
   </programme>
-  <programme start="20261006150000 +0000" stop="20261006170000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20261006151500 +0000" stop="20261006170000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Snooker: China Open</title>
   </programme>
   <programme start="20261006170000 +0000" stop="20261006180000 +0000" channel="Eurosport 2.webtv.sk">
@@ -8890,10 +8887,10 @@
   <programme start="20261006030500 +0000" stop="20261006034000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
-  <programme start="20261006034000 +0000" stop="20261006054000 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261006034000 +0000" stop="20261006053500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Slova a obrazy</title>
   </programme>
-  <programme start="20261006054000 +0000" stop="20261006071500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261006053500 +0000" stop="20261006071500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Upírky</title>
   </programme>
   <programme start="20261006071500 +0000" stop="20261006091000 +0000" channel="FilmBox Premium.webtv.sk">
@@ -8914,10 +8911,10 @@
   <programme start="20261006155000 +0000" stop="20261006181000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Producenti</title>
   </programme>
-  <programme start="20261006181000 +0000" stop="20261006200000 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261006181000 +0000" stop="20261006195500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Co se vlastně stalo</title>
   </programme>
-  <programme start="20261006200000 +0000" stop="20261006215000 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261006195500 +0000" stop="20261006215000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Lovec hlav</title>
   </programme>
   <programme start="20261006215000 +0000" stop="20261006232000 +0000" channel="FilmBox Premium.webtv.sk">
