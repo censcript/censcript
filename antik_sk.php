@@ -3079,25 +3079,25 @@
   <programme start="20261005224500 +0000" stop="20261005231100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261005231100 +0000" stop="20261005233600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261005231100 +0000" stop="20261005233700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
-  <programme start="20261005233600 +0000" stop="20261006000500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261005233700 +0000" stop="20261006000500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Z metropole</title>
   </programme>
   <programme start="20261006000500 +0000" stop="20261006002000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kalendárium</title>
   </programme>
-  <programme start="20261006002000 +0000" stop="20261006025000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006002000 +0000" stop="20261006025100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20261006025000 +0000" stop="20261006031500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006025100 +0000" stop="20261006031600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na stopě</title>
   </programme>
-  <programme start="20261006031500 +0000" stop="20261006033000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006031600 +0000" stop="20261006033100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
-  <programme start="20261006033000 +0000" stop="20261006035900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006033100 +0000" stop="20261006035900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Události v regionech</title>
   </programme>
   <programme start="20261006035900 +0000" stop="20261006070000 +0000" channel="ČT1.webtv.sk">
@@ -3121,25 +3121,25 @@
   <programme start="20261006102000 +0000" stop="20261006103000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Předpověď počasí, sportovní zprávy</title>
   </programme>
-  <programme start="20261006103000 +0000" stop="20261006120000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006103000 +0000" stop="20261006120100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20261006120000 +0000" stop="20261006125000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006120100 +0000" stop="20261006125000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pečení na neděli</title>
   </programme>
   <programme start="20261006125000 +0000" stop="20261006135000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nemocnice na kraji města (15/20)</title>
   </programme>
-  <programme start="20261006135000 +0000" stop="20261006144600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006135000 +0000" stop="20261006144700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vyšetřuje Imma Tataranni IV (2)</title>
   </programme>
-  <programme start="20261006144600 +0000" stop="20261006151500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006144700 +0000" stop="20261006151500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po Gambii</title>
   </programme>
-  <programme start="20261006151500 +0000" stop="20261006154100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006151500 +0000" stop="20261006154200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261006154100 +0000" stop="20261006160000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006154200 +0000" stop="20261006160000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
   <programme start="20261006160000 +0000" stop="20261006162500 +0000" channel="ČT1.webtv.sk">
@@ -3163,31 +3163,31 @@
   <programme start="20261006194000 +0000" stop="20261006200900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Rozpleteno</title>
   </programme>
-  <programme start="20261006200900 +0000" stop="20261006201000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006200900 +0000" stop="20261006201300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Euromiliony</title>
   </programme>
-  <programme start="20261006201000 +0000" stop="20261006220000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261006201300 +0000" stop="20261006220000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Četnické humoresky (39/39)</title>
   </programme>
-  <programme start="20261005202600 +0000" stop="20261005221700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261005202500 +0000" stop="20261005221600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Delikatesa</title>
   </programme>
-  <programme start="20261005221700 +0000" stop="20261005231300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261005221600 +0000" stop="20261005231200 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Krvavý král (6/6)</title>
   </programme>
-  <programme start="20261005231300 +0000" stop="20261006000800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261005231200 +0000" stop="20261006000700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Homosexuálové proti nacismu</title>
   </programme>
-  <programme start="20261006000800 +0000" stop="20261006003700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261006000700 +0000" stop="20261006003500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Rodinné křižovatky</title>
   </programme>
-  <programme start="20261006003700 +0000" stop="20261006010500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261006003500 +0000" stop="20261006010500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Čaj pro třetího</title>
   </programme>
-  <programme start="20261006010500 +0000" stop="20261006012000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261006010500 +0000" stop="20261006012100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Abraham a Izák</title>
   </programme>
-  <programme start="20261006012000 +0000" stop="20261006014700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261006012100 +0000" stop="20261006014700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Mimo systém – v lásce</title>
   </programme>
   <programme start="20261006014700 +0000" stop="20261006022100 +0000" channel="ČT2.webtv.sk">
@@ -3196,10 +3196,10 @@
   <programme start="20261006022100 +0000" stop="20261006025000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vůně škrobu</title>
   </programme>
-  <programme start="20261006025000 +0000" stop="20261006031800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261006025000 +0000" stop="20261006031900 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Televizní klub neslyšících</title>
   </programme>
-  <programme start="20261006031800 +0000" stop="20261006034500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261006031900 +0000" stop="20261006034500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Přírodní divy Bílých Karpat (2/12)</title>
   </programme>
   <programme start="20261006034500 +0000" stop="20261006035900 +0000" channel="ČT2.webtv.sk">
@@ -3457,19 +3457,19 @@
   <programme start="20261006000500 +0000" stop="20261006010000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hudební cestopis slavných skladatelů (4/8)</title>
   </programme>
-  <programme start="20261006010000 +0000" stop="20261006012600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261006010000 +0000" stop="20261006012700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ekologika</title>
   </programme>
-  <programme start="20261006012600 +0000" stop="20261006014500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261006012700 +0000" stop="20261006014500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zrak</title>
   </programme>
-  <programme start="20261006014500 +0000" stop="20261006020200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261006014500 +0000" stop="20261006020300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zámek Jeřice</title>
   </programme>
-  <programme start="20261006020200 +0000" stop="20261006025600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261006020300 +0000" stop="20261006025700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Orchestr Gustava Broma</title>
   </programme>
-  <programme start="20261006025600 +0000" stop="20261006031000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261006025700 +0000" stop="20261006031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Čtenářský deník</title>
   </programme>
   <programme start="20261006031000 +0000" stop="20261006040000 +0000" channel="ČT :D - ČT art.webtv.sk">

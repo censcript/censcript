@@ -478,9 +478,6 @@
 <programme start="20261004040000 +0000" stop="20261004044500 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20261004044500 +0000" stop="20261004060000 +0000" channel="Trans 7.vision">
-<title>MotoGP Japan 2026</title>
-</programme>
 <programme start="20261004060000 +0000" stop="20261004064500 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
 </programme>
@@ -594,9 +591,6 @@
 </programme>
 <programme start="20261004010000 +0000" stop="20261004023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261004023000 +0000" stop="20261004060000 +0000" channel="ANTV.vision">
-<title>Sultan</title>
 </programme>
 <programme start="20261004060000 +0000" stop="20261004073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261004193000 +0000" stop="20261004200000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004200000 +0000" stop="20261004204500 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261004204500 +0000" stop="20261004210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
