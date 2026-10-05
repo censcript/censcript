@@ -628,13 +628,13 @@
   <programme start="20261006205000 +0000" stop="20261006221000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Farma XVIII (22)</title>
   </programme>
-  <programme start="20261006221000 +0000" stop="20261006232500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261006221000 +0000" stop="20261006232000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Love Island VI (25)</title>
   </programme>
-  <programme start="20261006232500 +0000" stop="20261007002000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261006232000 +0000" stop="20261007001500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXII (4)</title>
   </programme>
-  <programme start="20261007002000 +0000" stop="20261007011000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261007001500 +0000" stop="20261007011000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXII (5)</title>
   </programme>
   <programme start="20261007011000 +0000" stop="20261007023500 +0000" channel="Markíza +1.webtv.sk">
@@ -658,10 +658,10 @@
   <programme start="20261007085500 +0000" stop="20261007095500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Sľub IV (22)</title>
   </programme>
-  <programme start="20261007095500 +0000" stop="20261007111500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261007095500 +0000" stop="20261007112000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (11)</title>
   </programme>
-  <programme start="20261007111500 +0000" stop="20261007122000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261007112000 +0000" stop="20261007122000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXII (6)</title>
   </programme>
   <programme start="20261007122000 +0000" stop="20261007133000 +0000" channel="Markíza +1.webtv.sk">
