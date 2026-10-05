@@ -761,19 +761,19 @@
         <title>No programme available now. Next broadcast on 6th October, Tuesday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20261004160000 +0000" stop="20261005160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 7th October, Wednesday 9pm. ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
     </programme>
     <programme start="20261005160000 +0000" stop="20261006160000 +0000" channel="Live 2.mewatch">
-        <title>No programmes streaming LIVE at this moment</title>
+        <title>No Programme available now. Next Broadcast on 7th October, Wednesday 9pm. ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
     </programme>
     <programme start="20261004160000 +0000" stop="20261005084800 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 5th October, Monday 4.48pm. FIFA ASEAN Cup 2026™ Bronze Final : Malaysia vs Vietnam</title>
     </programme>
-    <programme start="20261005084800 +0000" stop="20261005113000 +0000" channel="Live 5.mewatch">
+    <programme start="20261005084800 +0000" stop="20261005110000 +0000" channel="Live 5.mewatch">
         <title>FIFA ASEAN Cup 2026™ Bronze Final : Malaysia vs Vietnam</title>
     </programme>
-    <programme start="20261005113000 +0000" stop="20261005124800 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 5th October, Monday 4.48pm. FIFA ASEAN Cup 2026™ Bronze Final : Indonesia vs Thailand</title>
+    <programme start="20261005110000 +0000" stop="20261005124800 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th October, Monday 8.48pm. FIFA ASEAN Cup 2026™ Final : Indonesia vs Thailand</title>
     </programme>
     <programme start="20261005124800 +0000" stop="20261005153000 +0000" channel="Live 5.mewatch">
         <title>FIFA ASEAN Cup 2026™ Final : Indonesia vs Thailand</title>

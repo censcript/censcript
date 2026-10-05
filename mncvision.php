@@ -9349,131 +9349,98 @@
 <programme start="20261005163000 +0000" stop="20261004170000 +0000" channel="tvOne.mncvision">
     <title>Berita Utama Kriminal</title>
 </programme>
-<programme start="20261004170000 +0000" stop="20261004185100 +0000" channel="TVRI.mncvision">
+<programme start="20261004170000 +0000" stop="20261004190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20261004185100 +0000" stop="20261004190000 +0000" channel="TVRI.mncvision">
-    <title>Carter And June</title>
-</programme>
-<programme start="20261004190000 +0000" stop="20261004193000 +0000" channel="TVRI.mncvision">
+<programme start="20261004190000 +0000" stop="20261004210000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20261004193000 +0000" stop="20261004200000 +0000" channel="TVRI.mncvision">
+<programme start="20261004210000 +0000" stop="20261004213000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
-<programme start="20261004200000 +0000" stop="20261004202100 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261004213000 +0000" stop="20261004230000 +0000" channel="TVRI.mncvision">
+    <title>Serambi Islami</title>
 </programme>
-<programme start="20261004202100 +0000" stop="20261004204500 +0000" channel="TVRI.mncvision">
-    <title>Code Name Banshee</title>
+<programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Pagi</title>
 </programme>
-<programme start="20261004204500 +0000" stop="20261004210000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005000000 +0000" stop="20261005010000 +0000" channel="TVRI.mncvision">
+    <title>Jendela Negeri</title>
 </programme>
-<programme start="20261004210000 +0000" stop="20261004220700 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261004220700 +0000" stop="20261004230000 +0000" channel="TVRI.mncvision">
-    <title>Sinister Tales: The Haunting</title>
-</programme>
-<programme start="20261004230000 +0000" stop="20261004233000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261004233000 +0000" stop="20261005000000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005000000 +0000" stop="20261005000100 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005000100 +0000" stop="20261005010000 +0000" channel="TVRI.mncvision">
-    <title>Least Of These Christmas Story</title>
-</programme>
-<programme start="20261005010000 +0000" stop="20261005013000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005013000 +0000" stop="20261005014600 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005014600 +0000" stop="20261005030000 +0000" channel="TVRI.mncvision">
-    <title>Laugh Riot: The Misadventure</title>
-</programme>
-<programme start="20261005030000 +0000" stop="20261005030300 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005030300 +0000" stop="20261005032600 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005032600 +0000" stop="20261005033000 +0000" channel="TVRI.mncvision">
-    <title>Elsa &amp; Fred</title>
+<programme start="20261005010000 +0000" stop="20261005033000 +0000" channel="TVRI.mncvision">
+    <title>HUT Ke-81 TNI</title>
 </programme>
 <programme start="20261005033000 +0000" stop="20261005040000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Inspirasi Indonesia</title>
 </programme>
 <programme start="20261005040000 +0000" stop="20261005040300 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Info Terkini</title>
 </programme>
-<programme start="20261005040300 +0000" stop="20261005043000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005040300 +0000" stop="20261005050000 +0000" channel="TVRI.mncvision">
+    <title>Seblak Show</title>
 </programme>
-<programme start="20261005043000 +0000" stop="20261005052100 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005050000 +0000" stop="20261005060000 +0000" channel="TVRI.mncvision">
+    <title>Berita Siang</title>
 </programme>
-<programme start="20261005052100 +0000" stop="20261005060000 +0000" channel="TVRI.mncvision">
-    <title>Mob Land</title>
+<programme start="20261005060000 +0000" stop="20261005070000 +0000" channel="TVRI.mncvision">
+    <title>Marbot Ali</title>
 </programme>
-<programme start="20261005060000 +0000" stop="20261005071800 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005070000 +0000" stop="20261005070300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
 </programme>
-<programme start="20261005071800 +0000" stop="20261005080000 +0000" channel="TVRI.mncvision">
-    <title>Iron Fist: Rebellion</title>
+<programme start="20261005070300 +0000" stop="20261005080000 +0000" channel="TVRI.mncvision">
+    <title>Losmen Reborn</title>
 </programme>
 <programme start="20261005080000 +0000" stop="20261005080300 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Info Terkini</title>
 </programme>
-<programme start="20261005080300 +0000" stop="20261005085600 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005080300 +0000" stop="20261005090000 +0000" channel="TVRI.mncvision">
+    <title>Bincang Olahraga</title>
 </programme>
-<programme start="20261005085600 +0000" stop="20261005100000 +0000" channel="TVRI.mncvision">
-    <title>Christmas In The Wilds</title>
+<programme start="20261005090000 +0000" stop="20261005090300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20261005090300 +0000" stop="20261005093000 +0000" channel="TVRI.mncvision">
+    <title>Ragam Kain Nusantara</title>
+</programme>
+<programme start="20261005093000 +0000" stop="20261005100000 +0000" channel="TVRI.mncvision">
+    <title>Ngulik Negeri</title>
 </programme>
 <programme start="20261005100000 +0000" stop="20261005100300 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Info Terkini</title>
 </programme>
 <programme start="20261005100300 +0000" stop="20261005103000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Tekno Tani</title>
 </programme>
-<programme start="20261005103000 +0000" stop="20261005103200 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
-</programme>
-<programme start="20261005103200 +0000" stop="20261005110000 +0000" channel="TVRI.mncvision">
-    <title>The Postcard Killings</title>
+<programme start="20261005103000 +0000" stop="20261005110000 +0000" channel="TVRI.mncvision">
+    <title>Jejak Pembangunan</title>
 </programme>
 <programme start="20261005110000 +0000" stop="20261005120000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Petang (L)</title>
 </programme>
-<programme start="20261005120000 +0000" stop="20261005122900 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005120000 +0000" stop="20261005130000 +0000" channel="TVRI.mncvision">
+    <title>Indonesia Bicara</title>
 </programme>
-<programme start="20261005122900 +0000" stop="20261005130000 +0000" channel="TVRI.mncvision">
-    <title>Sinister Tales: The Haunting</title>
+<programme start="20261005130000 +0000" stop="20261005133000 +0000" channel="TVRI.mncvision">
+    <title>Pesona Indonesia Terbaik Gatra</title>
 </programme>
-<programme start="20261005130000 +0000" stop="20261005140000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005133000 +0000" stop="20261005140000 +0000" channel="TVRI.mncvision">
+    <title>Inspirasi Indonesia Terbaik</title>
 </programme>
-<programme start="20261005140000 +0000" stop="20261005140400 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005140000 +0000" stop="20261005143000 +0000" channel="TVRI.mncvision">
+    <title>Dunia Dalam Berita</title>
 </programme>
-<programme start="20261005140400 +0000" stop="20261005143000 +0000" channel="TVRI.mncvision">
-    <title>Least Of These Christmas Story</title>
+<programme start="20261005143000 +0000" stop="20261005150000 +0000" channel="TVRI.mncvision">
+    <title>Jelajah Kopi</title>
 </programme>
-<programme start="20261005143000 +0000" stop="20261005155200 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261005150000 +0000" stop="20261005153000 +0000" channel="TVRI.mncvision">
+    <title>Monitor Olahraga Malam</title>
 </programme>
-<programme start="20261005155200 +0000" stop="20261005163000 +0000" channel="TVRI.mncvision">
-    <title>Laugh Riot: The Misadventure</title>
+<programme start="20261005153000 +0000" stop="20261005163000 +0000" channel="TVRI.mncvision">
+    <title>Canda Of The Day</title>
 </programme>
 <programme start="20261005163000 +0000" stop="20261004170000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Klik Indonesia Malam</title>
 </programme>
 <programme start="20261004185100 +0000" stop="20261004202100 +0000" channel="UNIQUES.mncvision">
     <title>Carter And June</title>

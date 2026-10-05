@@ -3439,14 +3439,14 @@
   <programme start="20261007045600 +0000" stop="20261007050400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue III</title>
   </programme>
-  <programme start="20261007050400 +0000" stop="20261007051500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261007050400 +0000" stop="20261007051100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Blue III</title>
   </programme>
-  <programme start="20261007051500 +0000" stop="20261007051800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261007051100 +0000" stop="20261007051500 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Blue III</title>
+  </programme>
+  <programme start="20261007051500 +0000" stop="20261007052500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa III</title>
-  </programme>
-  <programme start="20261007051800 +0000" stop="20261007052500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Blue III</title>
   </programme>
   <programme start="20261007052500 +0000" stop="20261007053500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Krkonošská pohádka I (4)</title>
@@ -3542,7 +3542,7 @@
     <title lang="id">Čtení do ouška: Jak kočka pomohla Kubovi ke štěstí</title>
   </programme>
   <programme start="20261007110200 +0000" stop="20261007111000 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Velryba Decimálka</title>
+    <title lang="id">Velryba Decimálka I (2)</title>
   </programme>
   <programme start="20261007111000 +0000" stop="20261007112000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Taneční hrátky s Honzou Onderem</title>
@@ -4631,7 +4631,7 @@
     <title lang="id">Cargo Magazín</title>
   </programme>
   <programme start="20261007141500 +0000" stop="20261007143000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Švihák testuje</title>
+    <title lang="id">PAV PROFINCAR Ostrá Lúka 2026</title>
   </programme>
   <programme start="20261007143000 +0000" stop="20261007153000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
@@ -4675,8 +4675,11 @@
   <programme start="20261007060000 +0000" stop="20261007063000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
   </programme>
-  <programme start="20261007063000 +0000" stop="20261007070000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261007063000 +0000" stop="20261007065000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Naša Garáž</title>
+  </programme>
+  <programme start="20261007065000 +0000" stop="20261007070000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">PAV PROFINCAR Ostrá Lúka 2026</title>
   </programme>
   <programme start="20261007070000 +0000" stop="20261007073000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">DominicCars</title>

@@ -2452,8 +2452,11 @@
 <programme start="20261005140000 +0000" stop="20261005143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
 </programme>
-<programme start="20261005143000 +0000" stop="20261005150000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261005143000 +0000" stop="20261005144000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
+</programme>
+<programme start="20261005144000 +0000" stop="20261005150000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261005150000 +0000" stop="20261005153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -4270,14 +4273,8 @@
 <programme start="20261005051500 +0000" stop="20261005061500 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261005114500 +0000" stop="20261005164500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261005114500 +0000" stop="20261005193000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
-</programme>
-<programme start="20261005164500 +0000" stop="20261005171500 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Verdict</title>
-</programme>
-<programme start="20261005171500 +0000" stop="20261005184500 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
 </programme>
 <programme start="20261004231500 +0000" stop="20261005001500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
@@ -4297,26 +4294,23 @@
 <programme start="20261005051500 +0000" stop="20261005061500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261005114500 +0000" stop="20261005164500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261005114500 +0000" stop="20261005193000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20261005164500 +0000" stop="20261005171500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Verdict</title>
-</programme>
-<programme start="20261005171500 +0000" stop="20261005184500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
 <programme start="20261005000000 +0000" stop="20261005003000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Everton v Manchester United</title>
+    <title>FA Women&#039;s League Cup - Highlights: Durham v Manchester United</title>
 </programme>
 <programme start="20261005003000 +0000" stop="20261005010000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
+    <title>Premier League 2 - Highlights: Manchester United U21 v Brentford U21</title>
 </programme>
 <programme start="20261005010000 +0000" stop="20261005023000 +0000" channel="MUTV.virginmediatv">
-    <title>All the Goals - Marcus Rashford</title>
+    <title>Premier League - Fulham v Manchester United</title>
 </programme>
-<programme start="20261005023000 +0000" stop="20261005030000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261005023000 +0000" stop="20261005024500 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
+</programme>
+<programme start="20261005024500 +0000" stop="20261005030000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
 </programme>
 <programme start="20261005030000 +0000" stop="20261005033000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Fulham v Manchester United</title>
@@ -4351,20 +4345,8 @@
 <programme start="20261005163000 +0000" stop="20261005181500 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2004/05 Champions League: Manchester United v Fenerbahce</title>
 </programme>
-<programme start="20261005000000 +0000" stop="20261005002500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best Of Australia 2026</title>
-</programme>
-<programme start="20261005002500 +0000" stop="20261005010000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best Of China 2026</title>
-</programme>
-<programme start="20261005010000 +0000" stop="20261005011500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best of Japan 2026</title>
-</programme>
-<programme start="20261005011500 +0000" stop="20261005020000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best of Miami 2026</title>
-</programme>
-<programme start="20261005020000 +0000" stop="20261005023000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Formula 1 - The Best of Canada 2026</title>
+<programme start="20261004234500 +0000" stop="20261005023000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+    <title>Formula 1 - Bahrain Grand Prix: Stand Alone Race</title>
 </programme>
 <programme start="20261005023000 +0000" stop="20261005030000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best Of Monaco 2026</title>
@@ -5080,20 +5062,8 @@
 <programme start="20261005163000 +0000" stop="20261005180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: Day Highlights - Day 6</title>
 </programme>
-<programme start="20261005000000 +0000" stop="20261005002500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best Of Australia 2026</title>
-</programme>
-<programme start="20261005002500 +0000" stop="20261005010000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best Of China 2026</title>
-</programme>
-<programme start="20261005010000 +0000" stop="20261005011500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best of Japan 2026</title>
-</programme>
-<programme start="20261005011500 +0000" stop="20261005020000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best of Miami 2026</title>
-</programme>
-<programme start="20261005020000 +0000" stop="20261005023000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Formula 1 - The Best of Canada 2026</title>
+<programme start="20261004234500 +0000" stop="20261005023000 +0000" channel="Sky_Sports_F1.virginmediatv">
+    <title>Formula 1 - Bahrain Grand Prix: Stand Alone Race</title>
 </programme>
 <programme start="20261005023000 +0000" stop="20261005030000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best Of Monaco 2026</title>
@@ -7651,8 +7621,11 @@
 <programme start="20261005053000 +0000" stop="20261005060000 +0000" channel="Zee_TV.virginmediatv">
     <title>Jagadhatri - Episode 321</title>
 </programme>
-<programme start="20261005110000 +0000" stop="20261005130000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Sa Re Ga Ma Pa 2026 - Episode 6</title>
+<programme start="20261005110000 +0000" stop="20261005123000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Sa Re Ga Ma Pa 2026 - Episode 5</title>
+</programme>
+<programme start="20261005123000 +0000" stop="20261005130000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Humari Radha - Episode 55</title>
 </programme>
 <programme start="20261005130000 +0000" stop="20261005133000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tum Se Tum Tak - Episode 452</title>
@@ -7661,16 +7634,16 @@
     <title>Ganga Mai Ki Betiyaan - Episode 373</title>
 </programme>
 <programme start="20261005140000 +0000" stop="20261005143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 110</title>
+    <title>Tu Hi Re Dil Mein - Episode 111</title>
 </programme>
 <programme start="20261005143000 +0000" stop="20261005150000 +0000" channel="Zee_TV.virginmediatv">
     <title>Dilo Ki Ram Leela - Episode 36</title>
 </programme>
 <programme start="20261005150000 +0000" stop="20261005160000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Lakshmi Nivas - Episode 263</title>
+    <title>Lakshmi Nivas - Episode 264</title>
 </programme>
 <programme start="20261005160000 +0000" stop="20261005163000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tu Hi Re Dil Mein - Episode 111</title>
+    <title>Tu Hi Re Dil Mein - Episode 112</title>
 </programme>
 <programme start="20261005163000 +0000" stop="20261005170000 +0000" channel="Zee_TV.virginmediatv">
     <title>Humari Radha - Episode 56</title>
