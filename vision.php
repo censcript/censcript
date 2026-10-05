@@ -619,9 +619,6 @@
 <programme start="20261005010000 +0000" stop="20261005023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261005023000 +0000" stop="20261005060000 +0000" channel="ANTV.vision">
-<title>Dilwale Dulhaina Le Jayange</title>
-</programme>
 <programme start="20261005060000 +0000" stop="20261005073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -792,9 +789,6 @@
 </programme>
 <programme start="20261004233000 +0000" stop="20261005010000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi</title>
-</programme>
-<programme start="20261005010000 +0000" stop="20261005040000 +0000" channel="TVOne.vision">
-<title>Kabar Khusus HUT TNI Ke-81</title>
 </programme>
 <programme start="20261005040000 +0000" stop="20261005053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261005080000 +0000" stop="20261005080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261005080300 +0000" stop="20261005100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261005100000 +0000" stop="20261005100300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

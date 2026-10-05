@@ -151,8 +151,11 @@
 <programme start="20261005070000 +0000" stop="20261005080000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
 </programme>
-<programme start="20261005080000 +0000" stop="20261005090000 +0000" channel="Al Jazeera English.mncvision">
+<programme start="20261005080000 +0000" stop="20261005083000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
+</programme>
+<programme start="20261005083000 +0000" stop="20261005090000 +0000" channel="Al Jazeera English.mncvision">
+    <title>Talk To Al Jazeera</title>
 </programme>
 <programme start="20261005090000 +0000" stop="20261005093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -410,7 +413,7 @@
     <title>Lukisan Berlumur Darah</title>
 </programme>
 <programme start="20261005150000 +0000" stop="20261005153000 +0000" channel="ANTV.mncvision">
-    <title>Pembalasan Ratu Laut Selatan</title>
+    <title>Story Of Ricky</title>
 </programme>
 <programme start="20261004170000 +0000" stop="20261004180000 +0000" channel="Arirang.mncvision">
     <title>Arirang Prime</title>
@@ -1055,7 +1058,7 @@
     <title>Porsche Carrera Cup Germany HL</title>
 </programme>
 <programme start="20261005033000 +0000" stop="20261005043000 +0000" channel="beIN Sports 1.mncvision">
-    <title>DTM Highlights &#039;26: Sachsenring</title>
+    <title>GT World Challenge Europe 2026</title>
 </programme>
 <programme start="20261005043000 +0000" stop="20261005053000 +0000" channel="beIN Sports 1.mncvision">
     <title>FIA European Truck Racing 2026</title>
@@ -1069,13 +1072,13 @@
 <programme start="20261005070000 +0000" stop="20261005073000 +0000" channel="beIN Sports 1.mncvision">
     <title>FC Futures U12 Club: ARS Vs LEV</title>
 </programme>
-<programme start="20261005073000 +0000" stop="20261005080000 +0000" channel="beIN Sports 1.mncvision">
-    <title>FC Futures U12 Club: SEV Vs WAC</title>
+<programme start="20261005073000 +0000" stop="20261005074000 +0000" channel="beIN Sports 1.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
-<programme start="20261005080000 +0000" stop="20261005093000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20261005074000 +0000" stop="20261005092500 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Classic 26/27: BRE Vs LIV</title>
 </programme>
-<programme start="20261005093000 +0000" stop="20261005100000 +0000" channel="beIN Sports 1.mncvision">
+<programme start="20261005092500 +0000" stop="20261005100000 +0000" channel="beIN Sports 1.mncvision">
     <title>LFCTV Specials 2026/27</title>
 </programme>
 <programme start="20261005100000 +0000" stop="20261005110000 +0000" channel="beIN Sports 1.mncvision">
@@ -1127,7 +1130,7 @@
     <title>Porsche Carrera Cup Germany HL</title>
 </programme>
 <programme start="20261005033000 +0000" stop="20261005043000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>DTM Highlights &#039;26: Sachsenring</title>
+    <title>GT World Challenge Europe 2026</title>
 </programme>
 <programme start="20261005043000 +0000" stop="20261005053000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FIA European Truck Racing 2026</title>
@@ -1141,13 +1144,13 @@
 <programme start="20261005070000 +0000" stop="20261005073000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>FC Futures U12 Club: ARS Vs LEV</title>
 </programme>
-<programme start="20261005073000 +0000" stop="20261005080000 +0000" channel="beIN Sports 1 HD.mncvision">
-    <title>FC Futures U12 Club: SEV Vs WAC</title>
+<programme start="20261005073000 +0000" stop="20261005074000 +0000" channel="beIN Sports 1 HD.mncvision">
+    <title>LaLiga Goals Galore 2024/25</title>
 </programme>
-<programme start="20261005080000 +0000" stop="20261005093000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20261005074000 +0000" stop="20261005092500 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Classic 26/27: BRE Vs LIV</title>
 </programme>
-<programme start="20261005093000 +0000" stop="20261005100000 +0000" channel="beIN Sports 1 HD.mncvision">
+<programme start="20261005092500 +0000" stop="20261005100000 +0000" channel="beIN Sports 1 HD.mncvision">
     <title>LFCTV Specials 2026/27</title>
 </programme>
 <programme start="20261005100000 +0000" stop="20261005110000 +0000" channel="beIN Sports 1 HD.mncvision">
@@ -2996,7 +2999,7 @@
     <title>In Good Shape: Blood Vessels</title>
 </programme>
 <programme start="20261005033000 +0000" stop="20261005040000 +0000" channel="DW English.mncvision">
-    <title>Euromaxx: Lifestyle Europe</title>
+    <title>Euromaxx: Pope&#039;s Bodyguards</title>
 </programme>
 <programme start="20261005040000 +0000" stop="20261005040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3005,7 +3008,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20261005041500 +0000" stop="20261005044500 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: A Second Chance</title>
 </programme>
 <programme start="20261005044500 +0000" stop="20261005050000 +0000" channel="DW English.mncvision">
     <title>Reporter: On Location</title>
@@ -4672,44 +4675,41 @@
 <programme start="20261004200000 +0000" stop="20261004213000 +0000" channel="Indosiar.mncvision">
     <title>Island Of Fire</title>
 </programme>
-<programme start="20261004213000 +0000" stop="20261004230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261004213000 +0000" stop="20261004223000 +0000" channel="Indosiar.mncvision">
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20261005000000 +0000" stop="20261005013000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261004223000 +0000" stop="20261005013000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20261005013000 +0000" stop="20261005030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Dibalik Mata Adikku</title>
 </programme>
 <programme start="20261005030000 +0000" stop="20261005040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20261005040000 +0000" stop="20261005043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20261005050000 +0000" stop="20261005063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005050000 +0000" stop="20261005064500 +0000" channel="Indosiar.mncvision">
+    <title>Ada Rahasia Yang Terpendam</title>
 </programme>
-<programme start="20261005063000 +0000" stop="20261005080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005064500 +0000" stop="20261005084500 +0000" channel="Indosiar.mncvision">
+    <title>To Be Confirm</title>
 </programme>
-<programme start="20261005080000 +0000" stop="20261005103000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005084500 +0000" stop="20261005104500 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20261005103000 +0000" stop="20261005113000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005104500 +0000" stop="20261005121500 +0000" channel="Indosiar.mncvision">
+    <title>Pesta Bola ASEAN</title>
 </programme>
-<programme start="20261005113000 +0000" stop="20261005140000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005121500 +0000" stop="20261005153000 +0000" channel="Indosiar.mncvision">
+    <title>FIFA ASEAN Cup: IDN Vs THA</title>
 </programme>
-<programme start="20261005140000 +0000" stop="20261005143000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005153000 +0000" stop="20261005160000 +0000" channel="Indosiar.mncvision">
+    <title>Once Upon A Time In Shanghai</title>
 </programme>
 <programme start="20261004180000 +0000" stop="20261004200000 +0000" channel="Indosiar HD.mncvision">
     <title>Kungfu Cult Master</title>
@@ -4717,44 +4717,41 @@
 <programme start="20261004200000 +0000" stop="20261004213000 +0000" channel="Indosiar HD.mncvision">
     <title>Island Of Fire</title>
 </programme>
-<programme start="20261004213000 +0000" stop="20261004230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261004213000 +0000" stop="20261004223000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20261004230000 +0000" stop="20261005000000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
-</programme>
-<programme start="20261005000000 +0000" stop="20261005013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261004223000 +0000" stop="20261005013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20261005013000 +0000" stop="20261005030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Dibalik Mata Adikku</title>
 </programme>
 <programme start="20261005030000 +0000" stop="20261005040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20261005040000 +0000" stop="20261005043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20261005043000 +0000" stop="20261005050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
-<programme start="20261005050000 +0000" stop="20261005063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005050000 +0000" stop="20261005064500 +0000" channel="Indosiar HD.mncvision">
+    <title>Ada Rahasia Yang Terpendam</title>
 </programme>
-<programme start="20261005063000 +0000" stop="20261005080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005064500 +0000" stop="20261005084500 +0000" channel="Indosiar HD.mncvision">
+    <title>To Be Confirm</title>
 </programme>
-<programme start="20261005080000 +0000" stop="20261005103000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005084500 +0000" stop="20261005104500 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20261005103000 +0000" stop="20261005113000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005104500 +0000" stop="20261005121500 +0000" channel="Indosiar HD.mncvision">
+    <title>Pesta Bola ASEAN</title>
 </programme>
-<programme start="20261005113000 +0000" stop="20261005140000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005121500 +0000" stop="20261005153000 +0000" channel="Indosiar HD.mncvision">
+    <title>FIFA ASEAN Cup: IDN Vs THA</title>
 </programme>
-<programme start="20261005140000 +0000" stop="20261005143000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261005153000 +0000" stop="20261005160000 +0000" channel="Indosiar HD.mncvision">
+    <title>Once Upon A Time In Shanghai</title>
 </programme>
 <programme start="20261004183000 +0000" stop="20261004204500 +0000" channel="iNews.mncvision">
     <title>UEFA Nations League 2026/27 (L)</title>
@@ -7741,56 +7738,53 @@
 <programme start="20261004184500 +0000" stop="20261004200000 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20261004200000 +0000" stop="20261004210200 +0000" channel="SCTV.mncvision">
+<programme start="20261004200000 +0000" stop="20261004210400 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20261004210200 +0000" stop="20261004212400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261004210400 +0000" stop="20261004213000 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20261004212400 +0000" stop="20261004215400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261004213000 +0000" stop="20261004215300 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20261004215400 +0000" stop="20261004230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261004215300 +0000" stop="20261004230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261004230000 +0000" stop="20261005000400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261004230000 +0000" stop="20261005001100 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20261005000400 +0000" stop="20261005010400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005001100 +0000" stop="20261005012100 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261005010400 +0000" stop="20261005024500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005012100 +0000" stop="20261005030400 +0000" channel="SCTV.mncvision">
+    <title>Jangan Kasih Kendor Mas Paijo</title>
 </programme>
-<programme start="20261005024500 +0000" stop="20261005044100 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005030400 +0000" stop="20261005045900 +0000" channel="SCTV.mncvision">
+    <title>Cewek Disaster Paham Cara FYP</title>
 </programme>
-<programme start="20261005044100 +0000" stop="20261005051400 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005045900 +0000" stop="20261005053200 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261005051400 +0000" stop="20261005064900 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005053200 +0000" stop="20261005080000 +0000" channel="SCTV.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261005064900 +0000" stop="20261005082500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005080000 +0000" stop="20261005083000 +0000" channel="SCTV.mncvision">
+    <title>Pesta Bola ASEAN 2026</title>
 </programme>
-<programme start="20261005082500 +0000" stop="20261005100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005083000 +0000" stop="20261005105200 +0000" channel="SCTV.mncvision">
+    <title>3rd Final FIFA ASEAN Cup (L)</title>
 </programme>
-<programme start="20261005100000 +0000" stop="20261005112800 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005105200 +0000" stop="20261005120000 +0000" channel="SCTV.mncvision">
+    <title>Pesta Bola ASEAN 2026</title>
 </programme>
-<programme start="20261005112800 +0000" stop="20261005125300 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005120000 +0000" stop="20261005152300 +0000" channel="SCTV.mncvision">
+    <title>Final FIFA ASEAN Cup 2026 (L)</title>
 </programme>
-<programme start="20261005125300 +0000" stop="20261005141800 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005152300 +0000" stop="20261005155000 +0000" channel="SCTV.mncvision">
+    <title>Pesta Bola ASEAN 2026</title>
 </programme>
-<programme start="20261005141800 +0000" stop="20261005155700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20261005155700 +0000" stop="20261005162700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261005155000 +0000" stop="20261005162000 +0000" channel="SCTV.mncvision">
+    <title>Cerita Cinta Tentang Kita</title>
 </programme>
 <programme start="20261004173000 +0000" stop="20261004184500 +0000" channel="SCTV HD.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
@@ -7798,56 +7792,53 @@
 <programme start="20261004184500 +0000" stop="20261004200000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20261004200000 +0000" stop="20261004210200 +0000" channel="SCTV HD.mncvision">
+<programme start="20261004200000 +0000" stop="20261004210400 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20261004210200 +0000" stop="20261004212400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261004210400 +0000" stop="20261004213000 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20261004212400 +0000" stop="20261004215400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261004213000 +0000" stop="20261004215300 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20261004215400 +0000" stop="20261004230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261004215300 +0000" stop="20261004230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261004230000 +0000" stop="20261005000400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261004230000 +0000" stop="20261005001100 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20261005000400 +0000" stop="20261005010400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005001100 +0000" stop="20261005012100 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261005010400 +0000" stop="20261005024500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005012100 +0000" stop="20261005030400 +0000" channel="SCTV HD.mncvision">
+    <title>Jangan Kasih Kendor Mas Paijo</title>
 </programme>
-<programme start="20261005024500 +0000" stop="20261005044100 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005030400 +0000" stop="20261005045900 +0000" channel="SCTV HD.mncvision">
+    <title>Cewek Disaster Paham Cara FYP</title>
 </programme>
-<programme start="20261005044100 +0000" stop="20261005051400 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005045900 +0000" stop="20261005053200 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261005051400 +0000" stop="20261005064900 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005053200 +0000" stop="20261005080000 +0000" channel="SCTV HD.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261005064900 +0000" stop="20261005082500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005080000 +0000" stop="20261005083000 +0000" channel="SCTV HD.mncvision">
+    <title>Pesta Bola ASEAN 2026</title>
 </programme>
-<programme start="20261005082500 +0000" stop="20261005100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005083000 +0000" stop="20261005105200 +0000" channel="SCTV HD.mncvision">
+    <title>3rd Final FIFA ASEAN Cup (L)</title>
 </programme>
-<programme start="20261005100000 +0000" stop="20261005112800 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005105200 +0000" stop="20261005120000 +0000" channel="SCTV HD.mncvision">
+    <title>Pesta Bola ASEAN 2026</title>
 </programme>
-<programme start="20261005112800 +0000" stop="20261005125300 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005120000 +0000" stop="20261005152300 +0000" channel="SCTV HD.mncvision">
+    <title>Final FIFA ASEAN Cup 2026 (L)</title>
 </programme>
-<programme start="20261005125300 +0000" stop="20261005141800 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005152300 +0000" stop="20261005155000 +0000" channel="SCTV HD.mncvision">
+    <title>Pesta Bola ASEAN 2026</title>
 </programme>
-<programme start="20261005141800 +0000" stop="20261005155700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20261005155700 +0000" stop="20261005162700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261005155000 +0000" stop="20261005162000 +0000" channel="SCTV HD.mncvision">
+    <title>Cerita Cinta Tentang Kita</title>
 </programme>
 <programme start="20261004170000 +0000" stop="20261004173000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>

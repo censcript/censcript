@@ -2563,11 +2563,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261005041500 +0000" stop="20261005044500 +0000" channel="tvs.unifitv">
-    <title lang="en">Grandstand Liga Premier Sarawak 2026</title>
-    <desc lang="en">Grandstand Liga Premier Sarawak 2026 menyajikan sorotan perlawanan, analisis taktikal, dan perbincangan mendalam bersama hos dan tetamu jemputan tentang perkembangan pasukan dan pemain dalam Liga Bola Sepak Premier Sarawak.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <title lang="en">Borneo's Blue Gold</title>
+    <desc lang="en">Borneo's Blue Gold is a six-part series exploring the vital role of fresh water in Borneo, examining environmental, cultural, and political impacts, with stunning visuals and expert insights on sustainable water management.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.2.</episode-num>
+    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20261005044500 +0000" stop="20261005050000 +0000" channel="tvs.unifitv">
     <title lang="en">TVS Music</title>
@@ -2659,11 +2659,11 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261005093000 +0000" stop="20261005100000 +0000" channel="tvs.unifitv">
-    <title lang="en">Pewaris Legasi</title>
-    <desc lang="en">Dalam kebimbangan minat remaja pada kerjaya kraftangan, pewaris gigih menjaga warisan ini. Rancangan ini memaparkan kerjaya kraftangan di Malaysia, menyeru penonton menghargai usaha mempertahankannya demi generasi akan datang.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <title lang="en">Grandstand Liga Premier Sarawak 2026</title>
+    <desc lang="en">Grandstand Liga Premier Sarawak 2026 menyajikan sorotan perlawanan, analisis taktikal, dan perbincangan mendalam bersama hos dan tetamu jemputan tentang perkembangan pasukan dan pemain dalam Liga Bola Sepak Premier Sarawak.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261005100000 +0000" stop="20261005101500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Re Bao</title>
@@ -3259,20 +3259,20 @@
     <episode-num system="onscreen">S1E276</episode-num>
   </programme>
   <programme start="20261004193000 +0000" stop="20261004200500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Super Fun in Macau</title>
-    <desc lang="en">Matthew Ho, along with members of the girl group "MYNT"—Sabrina Mendes,Carmen Ngai ,Ellyn Ngai ,Hilary Chong,Chelsea Mason and Skylar Lo—deeply explored the streets and alleys of Macau, embarking on a fun-filled journey that combines innovative cuisine, century-old shops, unique crafts, and entertaining activities. Through competitions involving food preparation, puzzle challenges, photo opportunities, and historical research, the members will guide viewers to unlock hidden gems, charming shops, nostalgic establishments, and trendy landmarks throughout Macau. The event will also introduce Macau's unique "leisure bus" routes and attractions along the way, as well as the newly launched "Macau History Exploration Guide," allowing everyone to experience the cultural charm of various historical sites.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20261004200500 +0000" stop="20261004204000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Star Weekly</title>
     <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.42.</episode-num>
     <episode-num system="onscreen">S1E43</episode-num>
   </programme>
-  <programme start="20261004204000 +0000" stop="20261004210500 +0000" channel="tvbjade.unifitv">
+  <programme start="20261004200500 +0000" stop="20261004203500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Super Fun in Macau</title>
+    <desc lang="en">Matthew Ho, along with members of the girl group "MYNT"—Sabrina Mendes,Carmen Ngai ,Ellyn Ngai ,Hilary Chong,Chelsea Mason and Skylar Lo—deeply explored the streets and alleys of Macau, embarking on a fun-filled journey that combines innovative cuisine, century-old shops, unique crafts, and entertaining activities. Through competitions involving food preparation, puzzle challenges, photo opportunities, and historical research, the members will guide viewers to unlock hidden gems, charming shops, nostalgic establishments, and trendy landmarks throughout Macau. The event will also introduce Macau's unique "leisure bus" routes and attractions along the way, as well as the newly launched "Macau History Exploration Guide," allowing everyone to experience the cultural charm of various historical sites.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261004203500 +0000" stop="20261004210500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Gourmet Express Weekly</title>
     <desc lang="en">Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews; they uncover hidden gems in different districts and invite long-time expatriates to visit their favorite hometown eateries; renowned chefs and food critics also guide the way, offering expert recommendations. The program features a selection of popular restaurants featured in "Food News Report," highlighting their signature dishes and delivering quick deals, ensuring viewers stay up-to-date with the most delicious and affordable dining information.</desc>
     <category lang="en">Entertainment</category>
@@ -3306,8 +3306,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261005000500 +0000" stop="20261005010500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Mutual Affection</title>
-    <desc lang="en">Rich and talented scholar Sheung (Liu Wai Hung) was well-known to be a playboy. He like to fool around with his friend Por (Lam Ka Tung). One day, they met the beautiful Dip (Gigi Fu) and Por was determined to win her hand. Sheung, therefore, helped Por by courting Dip's maid Ngor (Esther Kwan). Ngor disliked Sheung at first, but Sheung managed to impress her with his wit. When Sheung married Ngor, his nightmare started. Ngor interfered with everything he did and gradually he became henpecked. Then he had an affair with the lovely and gentle Cho (Chan Mui Hing). Ngor was furious when she learnt about it and she told the Emperor. As a punishment, the Emperor ordered that Sheung could never see Ngor again…</desc>
+    <title lang="en">Just Love</title>
+    <desc lang="en">Judge KO HEI MAN (HSUAN JESSICA HESTER) and KOT KWOK KWONG (CHAN KAM HUNG, SUNNY) have agreed that MAN will concentrate on her career while KWONG will be taking care of the housework after they get married. Everything is in harmony until KWONG's father discovers MAN and KWONG's pre-marriage written agreement. Their relationship complicates ever since. To make things worse, KWONG breaks the agreement and demands to have his own career. MAN does not pay much attention at first until she finds out that KWONG, who is free from family burden, is having an affair. MAN learns to become more affectionate in the hope of saving the marriage. Unfortunately, the whole situation deteriorates when KWONG decides that MAN is too close to her ex-boyfriend, TAI CHI HUNG (WANG CHIEH, DAVE), who is now MAN's colleague. Who has the right to decide who should be in charge of earning money instead of running the family?</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -3320,11 +3320,11 @@
     <episode-num system="onscreen">S1E39</episode-num>
   </programme>
   <programme start="20261005013500 +0000" stop="20261005020500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1817.</episode-num>
-    <episode-num system="onscreen">S1E1818</episode-num>
+    <title lang="en">Try It? Really? (Sr.2)</title>
+    <desc lang="en">Elena Kong once again leads the team, joining forces with Cheung Chun-long, Chu Man-han, Ng Yip-kwan, and Tseng Zhan-wang to form the "Try It Out Team," returning with acclaim after the hit first season and enthusiastic praise from netizens. This new in-depth exploration of Taiwan will see the team continue their relaxed, authentic, and down-to-earth style, guiding viewers deep into the island's heart. The team travels to Kaohsiung, Tainan, and Taipei, continuing the show's spirit by uncovering controversial shops with polarized online reviews, as well as hidden gems and little-known experiences tucked away in the city's corners. The team is committed to presenting the most genuine on-site feedback, aiming to create a practical travel guide to Taiwan that avoids pitfalls for viewers.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261005020500 +0000" stop="20261005023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Cho Lam &amp; His Trip Buddies</title>
@@ -3362,11 +3362,11 @@
     <episode-num system="onscreen">S1E2235</episode-num>
   </programme>
   <programme start="20261005050000 +0000" stop="20261005052500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Hands Up 2026</title>
-    <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
-    <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1817.</episode-num>
-    <episode-num system="onscreen">S1E1818</episode-num>
+    <title lang="en">Super Fun in Macau</title>
+    <desc lang="en">Matthew Ho, along with members of the girl group "MYNT"—Sabrina Mendes,Carmen Ngai ,Ellyn Ngai ,Hilary Chong,Chelsea Mason and Skylar Lo—deeply explored the streets and alleys of Macau, embarking on a fun-filled journey that combines innovative cuisine, century-old shops, unique crafts, and entertaining activities. Through competitions involving food preparation, puzzle challenges, photo opportunities, and historical research, the members will guide viewers to unlock hidden gems, charming shops, nostalgic establishments, and trendy landmarks throughout Macau. The event will also introduce Macau's unique "leisure bus" routes and attractions along the way, as well as the newly launched "Macau History Exploration Guide," allowing everyone to experience the cultural charm of various historical sites.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261005052500 +0000" stop="20261005061000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
@@ -3458,7 +3458,7 @@
     <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20261005143500 +0000" stop="20261005150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Doctor is sick</title>
+    <title lang="en">Who Heals the Healers?</title>
     <desc lang="en">Doctors have said "You're sick" countless times, but rarely have they heard it said to themselves. The news department's Fang Dongsheng team is out in force again, still searching for the "patient" who least resembles a patient—the doctor. They are usually quick, decisive, and accurate in their actions, accustomed to life and death, but when the roles are reversed, becoming patients or caregivers on the sickbed, they too experience avoidance and anxiety. The gods in the public eye are ultimately just ordinary people. How do doctors who save others save themselves? The new program, "Doctor, Are You Sick?", delves into the difficult reality of doctors' lives, examining their vulnerability and struggles, and revealing the most authentic, flesh-and-blood human stories behind the white coats.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
@@ -14045,7 +14045,7 @@
   </channel>
   <programme start="20261004153300 +0000" stop="20261004160300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">Caught between cultural richness and political crisis: An extraordinary music project is bringing together young talents from Georgia and Germany. At the same time, Georgian artists are standing up for artistic freedom.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14066,7 +14066,7 @@
   </programme>
   <programme start="20261004163300 +0000" stop="20261004170300 +0000" channel="dw.unifitv">
     <title lang="en">Afrimaxx</title>
-    <desc lang="en">Afrimaxx</desc>
+    <desc lang="en">At Decorex Johannesburg, we explore how identity is being shaped across Africa. From spiritual traditions and natural hair to community building and unlikely sporting dreams, creativity is redefining belonging.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14080,14 +14080,14 @@
   </programme>
   <programme start="20261004171800 +0000" stop="20261004173300 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Genital mutilation. Sexual abuse. Trauma. Maïmouna Coulibaly endured it all. Today, she empowers women to heal through dance. Her message: "Dancing saved my life.”</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261004173300 +0000" stop="20261004180300 +0000" channel="dw.unifitv">
     <title lang="en">Euromaxx</title>
-    <desc lang="en">Euromaxx</desc>
+    <desc lang="en">A day in the life of a Swiss Guard in Rome, turning scrap into Haute Couture in Paris, and travel tips for the Gulf of Izmir in Turkey.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14101,14 +14101,14 @@
   </programme>
   <programme start="20261004181800 +0000" stop="20261004183300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI is transforming access to financial services, jobs and income. From Mexico to India and Pakistan, new technologies are opening up new opportunities for women while raising questions about bias, fairness and inclusion.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261004183300 +0000" stop="20261004190300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">A look at Uganda, where Chinese tech is transforming transport with electric buses, motorbikes and three-wheelers. Plus: An autonomous tractor aids farmers in India, and Austria bests the rest of Europe at night trains.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14136,7 +14136,7 @@
   </programme>
   <programme start="20261004201800 +0000" stop="20261004203300 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Genital mutilation. Sexual abuse. Trauma. Maïmouna Coulibaly endured it all. Today, she empowers women to heal through dance. Her message: "Dancing saved my life.”</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14156,8 +14156,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261004210500 +0000" stop="20261004211800 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">The Scene</title>
+    <desc lang="en">From Nusantara's green dream to Vietnam's mega structures and Thailand's tiny house movement — Southeast Asia is redesigning the future. But are these projects creating communities for people, or monuments that leave them behind? This is the battle for the cities of tomorrow.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14171,7 +14171,7 @@
   </programme>
   <programme start="20261004213300 +0000" stop="20261004220300 +0000" channel="dw.unifitv">
     <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
+    <desc lang="en">Researchers in Leipzig show how green roofs and rainwater management can reduce urban heat. Also: climate change, biodiversity loss and the growing threat posed by invasive species.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14185,14 +14185,14 @@
   </programme>
   <programme start="20261004220500 +0000" stop="20261004223300 +0000" channel="dw.unifitv">
     <title lang="en">Afrimaxx</title>
-    <desc lang="en">Afrimaxx</desc>
+    <desc lang="en">At Decorex Johannesburg, we explore how identity is being shaped across Africa. From spiritual traditions and natural hair to community building and unlikely sporting dreams, creativity is redefining belonging.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261004223300 +0000" stop="20261004230300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Best of DW Podcasts</desc>
+    <title lang="en">Don’t hold back</title>
+    <desc lang="en">What does "healthy” really mean in 2025? In this episode of Don't Hold Back, host Nozibele Qamngana-Mayaba sits down with fitness coach Kopano Mokhele, who deliberately gained 25 kilos and is now losing it again so that he can understand what his clients go through. Together, they unpack the myths and realities of health in an age of body image pressure and quick-fix diets.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14213,14 +14213,14 @@
   </programme>
   <programme start="20261004231800 +0000" stop="20261004233300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI is transforming access to financial services, jobs and income. From Mexico to India and Pakistan, new technologies are opening up new opportunities for women while raising questions about bias, fairness and inclusion.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261004233300 +0000" stop="20261005000300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">A look at Uganda, where Chinese tech is transforming transport with electric buses, motorbikes and three-wheelers. Plus: An autonomous tractor aids farmers in India, and Austria bests the rest of Europe at night trains.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14234,17 +14234,17 @@
   </programme>
   <programme start="20261005000500 +0000" stop="20261005003300 +0000" channel="dw.unifitv">
     <title lang="en">Euromaxx</title>
-    <desc lang="en">Euromaxx</desc>
+    <desc lang="en">A day in the life of a Swiss Guard in Rome, turning scrap into Haute Couture in Paris, and travel tips for the Gulf of Izmir in Turkey.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005003300 +0000" stop="20261005010300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Seagrass returns to the Baltic Sea, women hunt invasive pythons in Florida, soccer empowers women in Gaza, and forests revive a river in India.</desc>
     <category lang="en">Magazine</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <episode-num system="xmltv_ns">0.4025.</episode-num>
+    <episode-num system="onscreen">S1E4026</episode-num>
   </programme>
   <programme start="20261005010300 +0000" stop="20261005010500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
@@ -14283,14 +14283,14 @@
   </programme>
   <programme start="20261005020500 +0000" stop="20261005023300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">From India's green innovators to extreme heat in Bengaluru and fires in Borneo: Meet the people finding ways to respond to environmental challenges.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005023300 +0000" stop="20261005030300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Best of DW Podcasts</desc>
+    <title lang="en">Don’t hold back</title>
+    <desc lang="en">What does "healthy” really mean in 2025? In this episode of Don't Hold Back, host Nozibele Qamngana-Mayaba sits down with fitness coach Kopano Mokhele, who deliberately gained 25 kilos and is now losing it again so that he can understand what his clients go through. Together, they unpack the myths and realities of health in an age of body image pressure and quick-fix diets.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14304,14 +14304,14 @@
   </programme>
   <programme start="20261005030500 +0000" stop="20261005033300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Blood vessels deliver oxygen and nutrients to every cell in the body. How does the circulatory system work, what causes varicose veins, and what role does cholesterol play in vascular health?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005033300 +0000" stop="20261005040300 +0000" channel="dw.unifitv">
     <title lang="en">Euromaxx</title>
-    <desc lang="en">Euromaxx</desc>
+    <desc lang="en">A day in the life of a Swiss Guard in Rome, turning scrap into Haute Couture in Paris, and travel tips for the Gulf of Izmir in Turkey.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14332,7 +14332,7 @@
   </programme>
   <programme start="20261005041800 +0000" stop="20261005044800 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Seagrass returns to the Baltic Sea, women hunt invasive pythons in Florida, soccer empowers women in Gaza, and forests revive a river in India.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14360,7 +14360,7 @@
   </programme>
   <programme start="20261005053300 +0000" stop="20261005060300 +0000" channel="dw.unifitv">
     <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
+    <desc lang="en">Researchers in Leipzig show how green roofs and rainwater management can reduce urban heat. Also: climate change, biodiversity loss and the growing threat posed by invasive species.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14374,21 +14374,21 @@
   </programme>
   <programme start="20261005060500 +0000" stop="20261005061800 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Genital mutilation. Sexual abuse. Trauma. Maïmouna Coulibaly endured it all. Today, she empowers women to heal through dance. Her message: "Dancing saved my life.”</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005061800 +0000" stop="20261005063300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">AI is transforming access to financial services, jobs and income. From Mexico to India and Pakistan, new technologies are opening up new opportunities for women while raising questions about bias, fairness and inclusion.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005063300 +0000" stop="20261005070300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">German bread may be recognized by UNESCO, but a lot gets tossed. A Zimbabwean reporter takes a look at how Berlin is trying to stop that. And cleaning up water in Ghana and plastic waste in Nigeria and Burundi.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14429,8 +14429,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005083300 +0000" stop="20261005090300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW Podcasts</title>
-    <desc lang="en">Best of DW Podcasts</desc>
+    <title lang="en">Don’t hold back</title>
+    <desc lang="en">What does "healthy” really mean in 2025? In this episode of Don't Hold Back, host Nozibele Qamngana-Mayaba sits down with fitness coach Kopano Mokhele, who deliberately gained 25 kilos and is now losing it again so that he can understand what his clients go through. Together, they unpack the myths and realities of health in an age of body image pressure and quick-fix diets.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14465,7 +14465,7 @@
   </programme>
   <programme start="20261005100500 +0000" stop="20261005101800 +0000" channel="dw.unifitv">
     <title lang="en">Sports Life</title>
-    <desc lang="en">Sports Life</desc>
+    <desc lang="en">Genital mutilation. Sexual abuse. Trauma. Maïmouna Coulibaly endured it all. Today, she empowers women to heal through dance. Her message: "Dancing saved my life.”</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14486,14 +14486,14 @@
   </programme>
   <programme start="20261005110500 +0000" stop="20261005113300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">German bread may be recognized by UNESCO, but a lot gets tossed. A Zimbabwean reporter takes a look at how Berlin is trying to stop that. And cleaning up water in Ghana and plastic waste in Nigeria and Burundi.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005113300 +0000" stop="20261005120300 +0000" channel="dw.unifitv">
     <title lang="en">The Dip</title>
-    <desc lang="en">The Dip is a weekly business and economics podcast from Deutsche Welle that connects the dots on global money, power, and geopolitical consequences. Hosted by DW, the show delves into major issues like Europe's digital sovereignty, critical supply chains, and the shift in the continent's industrial and defense sectors.</desc>
+    <desc lang="en">ina's AI ambitions are no longer just about catching up to Silicon Valley. From chips and data centers to energy, talent and global markets, Beijing is building an entire ecosystem designed to challenge US technological dominance.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14534,15 +14534,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005131800 +0000" stop="20261005133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">Thousands of dams are being destroyed, bringing life back to its rivers. Migratory fish are returning to waterways, habitats are reconnecting, and entire ecosystems are being restored. While many dams remain vital for drinking water, irrigation, and flood management, Europe is _x000D_ rethinking its relationship with its rivers, one dam at a time.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261005133300 +0000" stop="20261005140300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">West Africa now accounts for 30% of all cybercrimes in Africa, costing victims billions globally. We explore the world of internet fraudsters known in Nigeria as "Yahoo boys" and in Ghana as "Sakawa Boys."</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14577,7 +14577,7 @@
   </programme>
   <programme start="20261005153300 +0000" stop="20261005160300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">Seagrass returns to the Baltic Sea, women hunt invasive pythons in Florida, soccer empowers women in Gaza, and forests revive a river in India.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15163,9 +15163,14 @@
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261004200000 +0000" stop="20261005015500 +0000" channel="unifisports1.unifitv">
+  <programme start="20261004200000 +0000" stop="20261005010000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 332: Silva vs. Wang - Main</title>
     <desc lang="en">UFC returns to Delta Center in Salt Lake City, Utah for UFC 332 headlined by a clash for the vacant UFC women's flyweight title between Natalia Silva and “The Joker” Wang Cong. The No.1 contender Silva enters having won each of her first eight UFC appearances and 14 consecutive contests overall, a run that includes victories over top contender Jasmine Jasudavicius and former UFC champions Jessica Andrade, Alexa Grasso, and Rose Namajunas. Fighting out of Liaoning Province, China, Wang arrives having won four straight and five of six appearances inside the Octagon, most recently defeating Tracy Cortez at UFC 329.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261005010000 +0000" stop="20261005015500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 314: Volkanovski vs Lopes</title>
+    <desc lang="en">UFC 314 previews the promotion's return to Miami, where former featherweight king Alexander Volkanovski squares off against Diego Lopes for the vacant featherweight crown. Plus, lightweights collide as Michael Chandler takes on Paddy Pimblett.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261005015500 +0000" stop="20261005020000 +0000" channel="unifisports1.unifitv">

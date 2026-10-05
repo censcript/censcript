@@ -766,13 +766,19 @@
     <programme start="20261005160000 +0000" stop="20261006160000 +0000" channel="Live 2.mewatch">
         <title>No programmes streaming LIVE at this moment</title>
     </programme>
-    <programme start="20261004160000 +0000" stop="20261005094800 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 5th October, Monday 5.48pm. FIFA ASEAN Cup 2026™: Bronze Final</title>
+    <programme start="20261004160000 +0000" stop="20261005084800 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th October, Monday 4.48pm. FIFA ASEAN Cup 2026™ Bronze Final : Malaysia vs Vietnam</title>
     </programme>
-    <programme start="20261005094800 +0000" stop="20261005120000 +0000" channel="Live 5.mewatch">
-        <title>FIFA ASEAN Cup 2026™: Bronze Final</title>
+    <programme start="20261005084800 +0000" stop="20261005113000 +0000" channel="Live 5.mewatch">
+        <title>FIFA ASEAN Cup 2026™ Bronze Final : Malaysia vs Vietnam</title>
     </programme>
-    <programme start="20261005120000 +0000" stop="20261005160000 +0000" channel="Live 5.mewatch">
+    <programme start="20261005113000 +0000" stop="20261005124800 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th October, Monday 4.48pm. FIFA ASEAN Cup 2026™ Bronze Final : Indonesia vs Thailand</title>
+    </programme>
+    <programme start="20261005124800 +0000" stop="20261005153000 +0000" channel="Live 5.mewatch">
+        <title>FIFA ASEAN Cup 2026™ Final : Indonesia vs Thailand</title>
+    </programme>
+    <programme start="20261005153000 +0000" stop="20261005160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
     </programme>
     <programme start="20261005160000 +0000" stop="20261006160000 +0000" channel="Live 5.mewatch">

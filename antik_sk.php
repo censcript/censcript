@@ -386,7 +386,7 @@
     <title lang="id">Komentáre dňa</title>
   </programme>
   <programme start="20261006220000 +0000" stop="20261006234500 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Slovnaft Cup - Futbal - Slovnaft Cup 2026</title>
+    <title lang="id">Futbal - Slovnaft Cup - Slovnaft Cup 2026/27 (4. kolo)</title>
   </programme>
   <programme start="20261006234500 +0000" stop="20261006235500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
@@ -443,13 +443,13 @@
     <title lang="id">Futbal - Liga národov 2026 (muži)</title>
   </programme>
   <programme start="20261007153000 +0000" stop="20261007172000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Futbal - Kvalifikácia ME 2027 do 21 rokov: Andorra - Slovensko</title>
+    <title lang="id">Futbal - reprezentácia do 21 rokov (muži) - Kvalifikácia ME 2027 do 21 rokov: Andorra - Slovensko</title>
   </programme>
   <programme start="20261007172000 +0000" stop="20261007174000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - Highlighty MONACObet liga</title>
   </programme>
   <programme start="20261007174000 +0000" stop="20261007194000 +0000" channel=":Šport.webtv.sk">
-    <title lang="id">Cyklistika - MS 2026 (cestná) - MS 2026 (Montreal): ženy do 23 rokov (preteky jednotlivkýň)</title>
+    <title lang="id">Cyklistika - MS 2026 (cestná)</title>
   </programme>
   <programme start="20261007194000 +0000" stop="20261007201000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Šport 24</title>
@@ -457,16 +457,16 @@
   <programme start="20261007201000 +0000" stop="20261007202000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20261007202000 +0000" stop="20261007222300 +0000" channel=":Šport.webtv.sk">
+  <programme start="20261007202000 +0000" stop="20261007222500 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Atletika - Medzinárodný maratón mieru 2026</title>
   </programme>
-  <programme start="20261006211000 +0000" stop="20261006222500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261006211000 +0000" stop="20261006222000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Love Island VI (25)</title>
   </programme>
-  <programme start="20261006222500 +0000" stop="20261006232000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261006222000 +0000" stop="20261006231500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kobra 11 XXII (4)</title>
   </programme>
-  <programme start="20261006232000 +0000" stop="20261007001000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261006231500 +0000" stop="20261007001000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kobra 11 XXII (5)</title>
   </programme>
   <programme start="20261007001000 +0000" stop="20261007013500 +0000" channel="Markíza.webtv.sk">
@@ -490,10 +490,10 @@
   <programme start="20261007075500 +0000" stop="20261007085500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Sľub IV (22)</title>
   </programme>
-  <programme start="20261007085500 +0000" stop="20261007101500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261007085500 +0000" stop="20261007102000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XV (11)</title>
   </programme>
-  <programme start="20261007101500 +0000" stop="20261007112000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261007102000 +0000" stop="20261007112000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Kobra 11 XXII (6)</title>
   </programme>
   <programme start="20261007112000 +0000" stop="20261007123000 +0000" channel="Markíza.webtv.sk">
@@ -1135,10 +1135,10 @@
   <programme start="20261007054500 +0000" stop="20261007082000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20261007082000 +0000" stop="20261007105500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261007082000 +0000" stop="20261007105000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
-  <programme start="20261007105500 +0000" stop="20261007134500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261007105000 +0000" stop="20261007134500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
   </programme>
   <programme start="20261007134500 +0000" stop="20261007155000 +0000" channel="JOJ Šport.webtv.sk">
@@ -1168,16 +1168,16 @@
   <programme start="20261007073000 +0000" stop="20261007092000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20261007092000 +0000" stop="20261007110000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261007092000 +0000" stop="20261007111000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261007110000 +0000" stop="20261007131000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261007111000 +0000" stop="20261007125000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261007131000 +0000" stop="20261007154000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261007125000 +0000" stop="20261007154500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20261007154000 +0000" stop="20261007182500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261007154500 +0000" stop="20261007182500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
   <programme start="20261007182500 +0000" stop="20261007211500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -2632,11 +2632,11 @@
   <programme start="20261007040000 +0000" stop="20261007050000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Ranní budíček</title>
   </programme>
-  <programme start="20261007050000 +0000" stop="20261007060000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20261007050000 +0000" stop="20261007060500 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Krásné ráno</title>
   </programme>
-  <programme start="20261007060000 +0000" stop="20261007070000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Vzácné chvíle</title>
+  <programme start="20261007060500 +0000" stop="20261007070000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">Šlágr kafe</title>
   </programme>
   <programme start="20261007070000 +0000" stop="20261007090000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Dopolední studio</title>
@@ -2668,8 +2668,11 @@
   <programme start="20261006220000 +0000" stop="20261007060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
   </programme>
-  <programme start="20261007060000 +0000" stop="20261007103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261007060000 +0000" stop="20261007083000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
+  </programme>
+  <programme start="20261007083000 +0000" stop="20261007103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
   </programme>
   <programme start="20261007103000 +0000" stop="20261007123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
