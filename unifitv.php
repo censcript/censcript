@@ -7711,14 +7711,14 @@
   <programme start="20261005220500 +0000" stop="20261005225000 +0000" channel="rockentertainment.unifitv">
     <title lang="en">Late Night With Seth Meyers</title>
     <desc lang="en">Late Night with Seth Meyers is executive produced by the Emmy Award-winning Lorne Michaels and is home to A-list celebrity guests, memorable comedy and the best in musical talent.</desc>
-    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
     <episode-num system="xmltv_ns">13.7.</episode-num>
     <episode-num system="onscreen">S14E8</episode-num>
   </programme>
   <programme start="20261005225000 +0000" stop="20261005233500 +0000" channel="rockentertainment.unifitv">
     <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
     <desc lang="en">Emmy and Grammy Award-winning comedian Jimmy Fallon brings his unique high-energy comedy to the storied 60-year NBC franchise with his welcoming interview style, love of audience participation, spot-on impersonations and innovative sketches.</desc>
-    <category lang="en">Talk Show</category>
+    <category lang="en">Series</category>
     <episode-num system="xmltv_ns">13.7.</episode-num>
     <episode-num system="onscreen">S14E8</episode-num>
   </programme>
@@ -7849,14 +7849,14 @@
   <programme start="20261006135000 +0000" stop="20261006143500 +0000" channel="rockentertainment.unifitv">
     <title lang="en">The Librarians: The Next Chapter</title>
     <desc lang="en">While recovering Castor and Pollux's bracelets, the Librarians swap bodies with each other. As they search for the second bracelet, they discover Merlin swapped with one of them and is hiding in plain sight.</desc>
-    <category lang="en">Drama</category>
+    <category lang="en">Series</category>
     <episode-num system="xmltv_ns">1.5.</episode-num>
     <episode-num system="onscreen">S2E6</episode-num>
   </programme>
   <programme start="20261006143500 +0000" stop="20261006152000 +0000" channel="rockentertainment.unifitv">
     <title lang="en">Below Deck Mediterranean</title>
     <desc lang="en">Nathan struggles to keep his cool under pressure from an intense guest. The interior pulls off an in-the-dark dinner theme.</desc>
-    <category lang="en">Reality</category>
+    <category lang="en">Series</category>
     <episode-num system="xmltv_ns">10.3.</episode-num>
     <episode-num system="onscreen">S11E4</episode-num>
   </programme>

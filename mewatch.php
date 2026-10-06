@@ -751,9 +751,21 @@
     <programme start="20261006160000 +0000" stop="20261007160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
     </programme>
-    <programme start="20261005160000 +0000" stop="20261006160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+    <programme start="20261005160000 +0000" stop="20261005220000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP1</title>
+    </programme>
+    <programme start="20261005220000 +0000" stop="20261006040000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP2</title>
+    </programme>
+    <programme start="20261006040000 +0000" stop="20261006070000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP3</title>
+    </programme>
+    <programme start="20261006070000 +0000" stop="20261006100000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP4</title>
+    </programme>
+    <programme start="20261006100000 +0000" stop="20261006160000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP5</title>
     </programme>
     <programme start="20261006160000 +0000" stop="20261007160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+        <title>No programme available now.</title>
     </programme>

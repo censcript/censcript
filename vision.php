@@ -32,7 +32,7 @@
 <title>Cinta Dari Surga</title>
 </programme>
 <programme start="20261006171500 +0000" stop="20261006183000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Masih Sayang Tapi Bimbang</title>
 </programme>
 <programme start="20261006183000 +0000" stop="20261006190000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
@@ -41,31 +41,31 @@
 <title>RCTI</title>
 </programme>
 <programme start="20261006204500 +0000" stop="20261006221500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20261006221500 +0000" stop="20261006224500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Seputar iNews</title>
 </programme>
 <programme start="20261006224500 +0000" stop="20261007001500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20261007001500 +0000" stop="20261007014500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terlanjur Mencintaimu Arumi</title>
 </programme>
 <programme start="20261007014500 +0000" stop="20261007031500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20261007031500 +0000" stop="20261007034500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Go Spot Ekslusif (RCTI)</title>
 </programme>
 <programme start="20261007034500 +0000" stop="20261007051500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Terikat Janji Selamanya</title>
 </programme>
 <programme start="20261007051500 +0000" stop="20261007103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20261007103000 +0000" stop="20261007113000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ternyata Ini Cinta (RCTI)</title>
 </programme>
 <programme start="20261007113000 +0000" stop="20261007140000 +0000" channel="RCTI.vision">
 <title>RCTI</title>
@@ -74,7 +74,7 @@
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20261006010000 +0000" stop="20261006040000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20261006040000 +0000" stop="20261006051500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
@@ -107,43 +107,43 @@
 <title>Culture Shock</title>
 </programme>
 <programme start="20261006170000 +0000" stop="20261006190000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20261006190000 +0000" stop="20261006230000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20261006230000 +0000" stop="20261006231500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>CoComelon</title>
 </programme>
 <programme start="20261006231500 +0000" stop="20261007000000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20261007000000 +0000" stop="20261007010000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20261007010000 +0000" stop="20261007040000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20261007040000 +0000" stop="20261007051500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20261007051500 +0000" stop="20261007054500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Lintas iNews Siang</title>
 </programme>
 <programme start="20261007054500 +0000" stop="20261007061500 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Seleb On News</title>
 </programme>
 <programme start="20261007061500 +0000" stop="20261007073000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20261007073000 +0000" stop="20261007090000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20261007090000 +0000" stop="20261007110000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Upin dan Ipin (MNCTV)</title>
 </programme>
 <programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="MNCTV.vision">
-<title>MNC TV</title>
+<title>Entong</title>
 </programme>
 <programme start="20261005233000 +0000" stop="20261006010000 +0000" channel="GTV.vision">
 <title>Kiko</title>
@@ -167,7 +167,7 @@
 <title>GTV</title>
 </programme>
 <programme start="20261006154500 +0000" stop="20261006173000 +0000" channel="GTV.vision">
-<title>Warisan Cinta Yang Terlupakan</title>
+<title>Putri Yang Terkurung</title>
 </programme>
 <programme start="20261006173000 +0000" stop="20261006184500 +0000" channel="GTV.vision">
 <title>1001 Kisah</title>
@@ -235,10 +235,16 @@
 <programme start="20261006091500 +0000" stop="20261006120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20261006120000 +0000" stop="20261006140000 +0000" channel="iNews.vision">
-<title>Rakyat Bersuara (iNews)</title>
+<programme start="20261006120000 +0000" stop="20261006121500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261006140000 +0000" stop="20261006150000 +0000" channel="iNews.vision">
+<programme start="20261006121500 +0000" stop="20261006133000 +0000" channel="iNews.vision">
+<title>iNews Room (L)</title>
+</programme>
+<programme start="20261006133000 +0000" stop="20261006134500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261006134500 +0000" stop="20261006150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261006150000 +0000" stop="20261006151000 +0000" channel="iNews.vision">
@@ -250,10 +256,13 @@
 <programme start="20261006163000 +0000" stop="20261006170000 +0000" channel="iNews.vision">
 <title>iNews Sport (L)</title>
 </programme>
-<programme start="20261006170000 +0000" stop="20261006174500 +0000" channel="iNews.vision">
+<programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="iNews.vision">
+<title>E-Max</title>
+</programme>
+<programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20261006174500 +0000" stop="20261006183000 +0000" channel="iNews.vision">
+<programme start="20261006180000 +0000" stop="20261006183000 +0000" channel="iNews.vision">
 <title>iNews Sore</title>
 </programme>
 <programme start="20261006183000 +0000" stop="20261006204500 +0000" channel="iNews.vision">
@@ -633,9 +642,6 @@
 </programme>
 <programme start="20261006010000 +0000" stop="20261006023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261006023000 +0000" stop="20261006060000 +0000" channel="ANTV.vision">
-<title>Chennai Express</title>
 </programme>
 <programme start="20261006060000 +0000" stop="20261006073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1471,30 +1477,24 @@
 <programme start="20261007103000 +0000" stop="20261007120000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
-<programme start="20261006000000 +0000" stop="20261006020000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261006000000 +0000" stop="20261006010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
 </programme>
-<programme start="20261006020000 +0000" stop="20261006023000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261006010000 +0000" stop="20261006020000 +0000" channel="TVRI.vision">
+<title>Bersama Perempuan</title>
+</programme>
+<programme start="20261006020000 +0000" stop="20261006020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261006020300 +0000" stop="20261006023000 +0000" channel="TVRI.vision">
+<title>Sepiring Rasa</title>
 </programme>
 <programme start="20261006023000 +0000" stop="20261006030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Mimbar Agama Kristen</title>
 </programme>
 <programme start="20261006030000 +0000" stop="20261006030300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Info Terkini</title>
 </programme>
 <programme start="20261006030300 +0000" stop="20261006033000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261006040000 +0000" stop="20261006040300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261006040300 +0000" stop="20261006043000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261006043000 +0000" stop="20261006060000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Pesona Indonesia</title>
 </programme>

@@ -4816,10 +4816,16 @@
 <programme start="20261006091500 +0000" stop="20261006120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261006120000 +0000" stop="20261006140000 +0000" channel="iNews.mncvision">
-    <title>Rakyat Bersuara (L)</title>
+<programme start="20261006120000 +0000" stop="20261006121500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261006140000 +0000" stop="20261006150000 +0000" channel="iNews.mncvision">
+<programme start="20261006121500 +0000" stop="20261006133000 +0000" channel="iNews.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20261006133000 +0000" stop="20261006134500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261006134500 +0000" stop="20261006150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261006150000 +0000" stop="20261006151000 +0000" channel="iNews.mncvision">
@@ -4891,10 +4897,16 @@
 <programme start="20261006091500 +0000" stop="20261006120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261006120000 +0000" stop="20261006140000 +0000" channel="iNews HD.mncvision">
-    <title>Rakyat Bersuara (L)</title>
+<programme start="20261006120000 +0000" stop="20261006121500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261006140000 +0000" stop="20261006150000 +0000" channel="iNews HD.mncvision">
+<programme start="20261006121500 +0000" stop="20261006133000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Room (L)</title>
+</programme>
+<programme start="20261006133000 +0000" stop="20261006134500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261006134500 +0000" stop="20261006150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261006150000 +0000" stop="20261006151000 +0000" channel="iNews HD.mncvision">
