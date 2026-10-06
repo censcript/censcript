@@ -1166,40 +1166,40 @@
     <title>Cruise TV with LoveitBookit</title>
 </programme>
 <programme start="20261006120000 +0000" stop="20261006123000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With the Fake Party</title>
-</programme>
-<programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Free Porn</title>
 </programme>
-<programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006123000 +0000" stop="20261006130000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With Rachel&#039;s New Dress</title>
 </programme>
-<programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006130000 +0000" stop="20261006133000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With All the Haste</title>
 </programme>
-<programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006133000 +0000" stop="20261006140000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One with All the Wedding Dresses</title>
 </programme>
-<programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Invitation</title>
 </programme>
-<programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With the Worst Best Man Ever</title>
+</programme>
+<programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One With Ross&#039;s Wedding</title>
 </programme>
 <programme start="20261006153000 +0000" stop="20261006160000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With Ross&#039;s Wedding</title>
 </programme>
 <programme start="20261006160000 +0000" stop="20261006163000 +0000" channel="Comedy_HD.virginmediatv">
-    <title>Friends - The One With Ross&#039;s Wedding</title>
-</programme>
-<programme start="20261006163000 +0000" stop="20261006170000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One After Ross Says Rachel</title>
 </programme>
-<programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006163000 +0000" stop="20261006170000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With All the Kissing</title>
 </programme>
-<programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="Comedy_HD.virginmediatv">
+<programme start="20261006170000 +0000" stop="20261006173000 +0000" channel="Comedy_HD.virginmediatv">
     <title>Friends - The One With The Triplets</title>
+</programme>
+<programme start="20261006173000 +0000" stop="20261006180000 +0000" channel="Comedy_HD.virginmediatv">
+    <title>Friends - The One Where Phoebe Hates PBS</title>
 </programme>
 <programme start="20261005233000 +0000" stop="20261006001000 +0000" channel="UandDave_HD.virginmediatv">
     <title>Would I Lie to You? - More Unseen Bits</title>
@@ -2395,13 +2395,10 @@
 <programme start="20261006133000 +0000" stop="20261006134500 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today - NYSE Opening Bell</title>
 </programme>
-<programme start="20261006134500 +0000" stop="20261006140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261006134500 +0000" stop="20261006144500 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
-<programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261006144500 +0000" stop="20261006150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
 </programme>
 <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="BBC_News_24.virginmediatv">

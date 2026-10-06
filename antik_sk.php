@@ -1669,11 +1669,14 @@
   <programme start="20261008083500 +0000" stop="20261008093000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Kukačky (5)</title>
   </programme>
-  <programme start="20261008093000 +0000" stop="20261008101500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Kultový seriál: Melrose place (27)</title>
+  <programme start="20261008093000 +0000" stop="20261008094500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Rozhýbaný kraj (5)</title>
+  </programme>
+  <programme start="20261008094500 +0000" stop="20261008101500 +0000" channel="Kanal1.webtv.sk">
+    <title lang="id">Ranč u zelené sedmy (5)</title>
   </programme>
   <programme start="20261008101500 +0000" stop="20261008110500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Legendy opery - Andrea Bocelli (1)</title>
+    <title lang="id">Kultový seriál: Melrose place (27)</title>
   </programme>
   <programme start="20261008110500 +0000" stop="20261008120000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Jaquemus, zrodený zo slnka</title>
