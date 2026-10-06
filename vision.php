@@ -652,12 +652,6 @@
 <programme start="20261006093000 +0000" stop="20261006110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261006110000 +0000" stop="20261006130000 +0000" channel="ANTV.vision">
-<title>Pendekar Ilmu Api</title>
-</programme>
-<programme start="20261006130000 +0000" stop="20261006150000 +0000" channel="ANTV.vision">
-<title>Sengatan Kobra</title>
-</programme>
 <programme start="20261006150000 +0000" stop="20261006170000 +0000" channel="ANTV.vision">
 <title>Sundel Bolong 2</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261006030300 +0000" stop="20261006033000 +0000" channel="TVRI.vision">
 <title>Pesona Indonesia</title>
+</programme>
+<programme start="20261006033000 +0000" stop="20261006040000 +0000" channel="TVRI.vision">
+<title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20261006040000 +0000" stop="20261006040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

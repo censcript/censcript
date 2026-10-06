@@ -3460,11 +3460,11 @@
 <programme start="20261006104000 +0000" stop="20261006124000 +0000" channel="Sky_Action_HD.virginmediatv">
     <title>Kong: Skull Island</title>
 </programme>
-<programme start="20261006124000 +0000" stop="20261006150000 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>Spider-Man 3</title>
+<programme start="20261006124000 +0000" stop="20261006143000 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>London Has Fallen</title>
 </programme>
-<programme start="20261006150000 +0000" stop="20261006165000 +0000" channel="Sky_Action_HD.virginmediatv">
-    <title>Supergirl</title>
+<programme start="20261006143000 +0000" stop="20261006165000 +0000" channel="Sky_Action_HD.virginmediatv">
+    <title>Spider-Man 3</title>
 </programme>
 <programme start="20261006165000 +0000" stop="20261006190000 +0000" channel="Sky_Action_HD.virginmediatv">
     <title>Bullet Train</title>
@@ -3730,11 +3730,11 @@
 <programme start="20261006104000 +0000" stop="20261006124000 +0000" channel="Sky_Action.virginmediatv">
     <title>Kong: Skull Island</title>
 </programme>
-<programme start="20261006124000 +0000" stop="20261006150000 +0000" channel="Sky_Action.virginmediatv">
-    <title>Spider-Man 3</title>
+<programme start="20261006124000 +0000" stop="20261006143000 +0000" channel="Sky_Action.virginmediatv">
+    <title>London Has Fallen</title>
 </programme>
-<programme start="20261006150000 +0000" stop="20261006165000 +0000" channel="Sky_Action.virginmediatv">
-    <title>Supergirl</title>
+<programme start="20261006143000 +0000" stop="20261006165000 +0000" channel="Sky_Action.virginmediatv">
+    <title>Spider-Man 3</title>
 </programme>
 <programme start="20261006165000 +0000" stop="20261006190000 +0000" channel="Sky_Action.virginmediatv">
     <title>Bullet Train</title>
@@ -3962,13 +3962,13 @@
     <title>Test Cricket - 2nd Test, Day 1: England v India</title>
 </programme>
 <programme start="20261006000000 +0000" stop="20261006010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Alfred Dunhill Links Championship, DP World Tour Golf - Day 4</title>
+    <title>Alfred Dunhill Championship, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20261006010000 +0000" stop="20261006030000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Alfred Dunhill Links Championship, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20261006030000 +0000" stop="20261006040000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Alfred Dunhill Links Championship, DP World Tour Golf - Day 4: Highlights</title>
+    <title>Alfred Dunhill Links Championship, DP World Tour Golf - Highlights</title>
 </programme>
 <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Playing Lessons - Patty Tavatanakit</title>
@@ -4793,13 +4793,13 @@
     <title>Test Cricket - 2nd Test, Day 1: England v India</title>
 </programme>
 <programme start="20261006000000 +0000" stop="20261006010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Alfred Dunhill Links Championship, DP World Tour Golf - Day 4</title>
+    <title>Alfred Dunhill Championship, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20261006010000 +0000" stop="20261006030000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Alfred Dunhill Links Championship, DP World Tour Golf - Day 4</title>
 </programme>
 <programme start="20261006030000 +0000" stop="20261006040000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Alfred Dunhill Links Championship, DP World Tour Golf - Day 4: Highlights</title>
+    <title>Alfred Dunhill Links Championship, DP World Tour Golf - Highlights</title>
 </programme>
 <programme start="20261006040000 +0000" stop="20261006043000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Playing Lessons - Patty Tavatanakit</title>
