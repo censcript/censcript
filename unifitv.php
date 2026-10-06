@@ -15276,37 +15276,37 @@
     <desc lang="en">This premier esports series brings together elite drivers from around the world to compete across two premier categories: the Nations Cup, representing countries and territories, and the Manufacturers Cup, representing leading automotive marques.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005160500 +0000" stop="20261005180000 +0000" channel="beinsports.unifitv">
+  <programme start="20261005160500 +0000" stop="20261005175000 +0000" channel="beinsports.unifitv">
     <title lang="en">LaLiga Classic - Barcelona vs Real Madrid - 2011/12</title>
     <desc lang="en">Relive the best and memorable LaLiga matches over the years in this series of classics.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005180000 +0000" stop="20261005190000 +0000" channel="beinsports.unifitv">
+  <programme start="20261005175000 +0000" stop="20261005185000 +0000" channel="beinsports.unifitv">
     <title lang="en">WRC Highlights - Rally Italia Sardegna</title>
     <desc lang="en">Enjoy highlights from the 54th season of the World Rally Championship</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005190000 +0000" stop="20261005200000 +0000" channel="beinsports.unifitv">
+  <programme start="20261005185000 +0000" stop="20261005195000 +0000" channel="beinsports.unifitv">
     <title lang="en">Ferrari Challenge Highlights - Hungaroring</title>
     <desc lang="en">Catch the highlights of all the rounds of the Ferrari Challenge Europe 2026</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005200000 +0000" stop="20261005210000 +0000" channel="beinsports.unifitv">
+  <programme start="20261005195000 +0000" stop="20261005205000 +0000" channel="beinsports.unifitv">
     <title lang="en">DTM Highlights - Sachsenring</title>
     <desc lang="en">Catch the highlights from every round of the 2026 DTM.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005210000 +0000" stop="20261005225000 +0000" channel="beinsports.unifitv">
+  <programme start="20261005205000 +0000" stop="20261005223500 +0000" channel="beinsports.unifitv">
     <title lang="en">UEFA Youth League - Real Madrid vs Inter - MD1</title>
     <desc lang="en">The UEFA Youth League is an elite international club football tournament for the under-19 academies of Europe's top teams, running in parallel to the prestigious UEFA Champions League.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261005225000 +0000" stop="20261006002000 +0000" channel="beinsports.unifitv">
+  <programme start="20261005223500 +0000" stop="20261006001500 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV Classic - Brentford vs Liverpool PL 2023/24</title>
     <desc lang="en">Enjoy every Liverpool classic encounters from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261006002000 +0000" stop="20261006005000 +0000" channel="beinsports.unifitv">
+  <programme start="20261006001500 +0000" stop="20261006005000 +0000" channel="beinsports.unifitv">
     <title lang="en">LFCTV - Premier League Review Show: Season so Far</title>
     <desc lang="en">Enjoy documentaries and other special programming from LFCTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
