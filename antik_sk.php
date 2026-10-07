@@ -1640,7 +1640,7 @@
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20261009055000 +0000" stop="20261009062500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Krimi Online</title>
+    <title lang="id">Krimi Online - Martin Arvay</title>
   </programme>
   <programme start="20261009062500 +0000" stop="20261009071000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Kolosálne lode (4)</title>
@@ -8905,52 +8905,55 @@
   <programme start="20261009200000 +0000" stop="20261009223000 +0000" channel="FilmBox.webtv.sk">
     <title lang="id">Ztracená legenda</title>
   </programme>
-  <programme start="20261008202500 +0000" stop="20261008224000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261008202000 +0000" stop="20261008223500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Murer - Anatomie procesu</title>
   </programme>
-  <programme start="20261008224000 +0000" stop="20261009000500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261008223500 +0000" stop="20261009000500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Dračí doupě 3</title>
   </programme>
-  <programme start="20261009000500 +0000" stop="20261009015500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009000500 +0000" stop="20261009020000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">UFO Mimozemská invaze</title>
   </programme>
-  <programme start="20261009015500 +0000" stop="20261009034500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009020000 +0000" stop="20261009035500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
-  <programme start="20261009034500 +0000" stop="20261009052500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009035500 +0000" stop="20261009044000 +0000" channel="FilmBox Extra.webtv.sk">
+    <title lang="id">Osudove cesty I (3)</title>
+  </programme>
+  <programme start="20261009044000 +0000" stop="20261009061500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Zuřivé plameny</title>
   </programme>
-  <programme start="20261009052500 +0000" stop="20261009070000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009061500 +0000" stop="20261009074500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Dobrodružství Tedyho Stonese</title>
   </programme>
-  <programme start="20261009070000 +0000" stop="20261009090500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009074500 +0000" stop="20261009094500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Cesta na vrchol</title>
   </programme>
-  <programme start="20261009090500 +0000" stop="20261009105500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009094500 +0000" stop="20261009113000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Nezlomený</title>
   </programme>
-  <programme start="20261009105500 +0000" stop="20261009124000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009113000 +0000" stop="20261009131000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Přijatelná oběť</title>
   </programme>
-  <programme start="20261009124000 +0000" stop="20261009143500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009131000 +0000" stop="20261009150000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Oblast Q</title>
   </programme>
-  <programme start="20261009143500 +0000" stop="20261009162000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009150000 +0000" stop="20261009164000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Marmeláda</title>
   </programme>
-  <programme start="20261009162000 +0000" stop="20261009171500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009164000 +0000" stop="20261009172500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Lovci pokladů III (13)</title>
   </programme>
-  <programme start="20261009171500 +0000" stop="20261009181000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009172500 +0000" stop="20261009181000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Lovci pokladů III (14)</title>
   </programme>
-  <programme start="20261009181000 +0000" stop="20261009195500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009181000 +0000" stop="20261009195000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Nesnáším tě, lásko</title>
   </programme>
-  <programme start="20261009195500 +0000" stop="20261009215000 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009195000 +0000" stop="20261009214000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Výročí</title>
   </programme>
-  <programme start="20261009215000 +0000" stop="20261009232500 +0000" channel="FilmBox Extra.webtv.sk">
+  <programme start="20261009214000 +0000" stop="20261009231500 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Univerzální voják: Znovuzrození</title>
   </programme>
   <programme start="20261008212000 +0000" stop="20261008225500 +0000" channel="FilmBox Premium.webtv.sk">
@@ -8998,55 +9001,58 @@
   <programme start="20261009210500 +0000" stop="20261009224500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Svěrací kazajka</title>
   </programme>
-  <programme start="20261008214000 +0000" stop="20261008231000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261008214500 +0000" stop="20261008232000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Ďáblova ruka</title>
   </programme>
-  <programme start="20261008231000 +0000" stop="20261009003500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261008232000 +0000" stop="20261009004500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Rande na dvě noci</title>
   </programme>
-  <programme start="20261009003500 +0000" stop="20261009044500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009004500 +0000" stop="20261009035000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
-  <programme start="20261009044500 +0000" stop="20261009064000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009035000 +0000" stop="20261009053000 +0000" channel="FilmBox Family.webtv.sk">
+    <title lang="id">Sniff válečný hrdina</title>
+  </programme>
+  <programme start="20261009053000 +0000" stop="20261009072000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Maratón</title>
   </programme>
-  <programme start="20261009064000 +0000" stop="20261009081500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009072000 +0000" stop="20261009085500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Premiéra</title>
   </programme>
-  <programme start="20261009081500 +0000" stop="20261009094500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009085500 +0000" stop="20261009102000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Satin</title>
   </programme>
-  <programme start="20261009094500 +0000" stop="20261009112500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009102000 +0000" stop="20261009115000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Péče na zabití</title>
   </programme>
-  <programme start="20261009112500 +0000" stop="20261009124500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009115000 +0000" stop="20261009130500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Regulérní Jonathan</title>
   </programme>
-  <programme start="20261009124500 +0000" stop="20261009145000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009130500 +0000" stop="20261009150000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Cesta kolem světa za 80 dní</title>
   </programme>
-  <programme start="20261009145000 +0000" stop="20261009162500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009150000 +0000" stop="20261009163000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Šlápni na to</title>
   </programme>
-  <programme start="20261009162500 +0000" stop="20261009165000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009163000 +0000" stop="20261009165500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Goldbergovi IV (22)</title>
   </programme>
-  <programme start="20261009165000 +0000" stop="20261009171500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009165500 +0000" stop="20261009172000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Goldbergovi IV (23)</title>
   </programme>
-  <programme start="20261009171500 +0000" stop="20261009174000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009172000 +0000" stop="20261009174500 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Goldbergovi IV (24)</title>
   </programme>
-  <programme start="20261009174000 +0000" stop="20261009181000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009174500 +0000" stop="20261009181000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Goldbergovi V (1)</title>
   </programme>
-  <programme start="20261009181000 +0000" stop="20261009200000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009181000 +0000" stop="20261009195000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Winner</title>
   </programme>
-  <programme start="20261009200000 +0000" stop="20261009215500 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009195000 +0000" stop="20261009214000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Trable Petunioových</title>
   </programme>
-  <programme start="20261009215500 +0000" stop="20261009233000 +0000" channel="FilmBox Family.webtv.sk">
+  <programme start="20261009214000 +0000" stop="20261009220000 +0000" channel="FilmBox Family.webtv.sk">
     <title lang="id">Zlost</title>
   </programme>
   <programme start="20261008200500 +0000" stop="20261008220500 +0000" channel="FilmBox Stars.webtv.sk">
@@ -10159,46 +10165,46 @@
   <programme start="20261009215000 +0000" stop="20261009221500 +0000" channel="Disney Junior.webtv.sk">
     <title lang="id">Mickey Mouse Clubhouse+ I (18)</title>
   </programme>
-  <programme start="20261008214500 +0000" stop="20261008221000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261008214000 +0000" stop="20261008220500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XI (229)</title>
   </programme>
-  <programme start="20261008221000 +0000" stop="20261008223500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261008220500 +0000" stop="20261008223000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (16)</title>
   </programme>
-  <programme start="20261008223500 +0000" stop="20261008225500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261008223000 +0000" stop="20261008225000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (14)</title>
   </programme>
-  <programme start="20261008225500 +0000" stop="20261008232000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261008225000 +0000" stop="20261008231500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (15)</title>
   </programme>
-  <programme start="20261008232000 +0000" stop="20261008234000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261008231500 +0000" stop="20261008233500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show V (6)</title>
   </programme>
-  <programme start="20261008234000 +0000" stop="20261009000500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261008233500 +0000" stop="20261009000000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show II (11)</title>
   </programme>
-  <programme start="20261009000500 +0000" stop="20261009002000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009000000 +0000" stop="20261009001500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show IV (8)</title>
   </programme>
-  <programme start="20261009002000 +0000" stop="20261009004500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009001500 +0000" stop="20261009004000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (267)</title>
   </programme>
-  <programme start="20261009004500 +0000" stop="20261009010500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009004000 +0000" stop="20261009010500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Thundermanovi v utajení I (11)</title>
   </programme>
-  <programme start="20261009010500 +0000" stop="20261009013000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009010500 +0000" stop="20261009012500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nebezpečná síla II (26)</title>
   </programme>
-  <programme start="20261009013000 +0000" stop="20261009015500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009012500 +0000" stop="20261009015000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Henry Nebezpečný I (11)</title>
   </programme>
-  <programme start="20261009015500 +0000" stop="20261009022000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009015000 +0000" stop="20261009022000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VI (8)</title>
   </programme>
-  <programme start="20261009022000 +0000" stop="20261009024000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009022000 +0000" stop="20261009024500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VI (9)</title>
   </programme>
-  <programme start="20261009024000 +0000" stop="20261009030000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261009024500 +0000" stop="20261009030000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi II (11)</title>
   </programme>
   <programme start="20261009030000 +0000" stop="20261009032500 +0000" channel="Nickelodeon.webtv.sk">

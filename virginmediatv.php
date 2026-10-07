@@ -4028,7 +4028,7 @@
     <title>SA20 - Final: Pretoria Capitals v Sunrisers Eastern Cape</title>
 </programme>
 <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: SA20 - Season 5 Player Auction</title>
+    <title>The Test Within: A History of Men&#039;s Test Cricket in South Africa</title>
 </programme>
 <programme start="20261007160000 +0000" stop="20261007161500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
@@ -4844,7 +4844,7 @@
     <title>SA20 - Final: Pretoria Capitals v Sunrisers Eastern Cape</title>
 </programme>
 <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: SA20 - Season 5 Player Auction</title>
+    <title>The Test Within: A History of Men&#039;s Test Cricket in South Africa</title>
 </programme>
 <programme start="20261007160000 +0000" stop="20261007161500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Hundred - Men&#039;s Final: Trent Rockets v Manchester Super Giants</title>
@@ -6169,7 +6169,10 @@
 <programme start="20261006175800 +0000" stop="20261007015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261007015800 +0000" stop="20261007060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261007015800 +0000" stop="20261007050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261007050000 +0000" stop="20261007060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261007115500 +0000" stop="20261007121000 +0000" channel="CBBC.virginmediatv">
