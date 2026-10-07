@@ -4657,11 +4657,11 @@
 <programme start="20261007153000 +0000" stop="20261007160000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
     <title>Football&#039;s Greatest - Episode 3</title>
 </programme>
-<programme start="20261007160000 +0000" stop="20261007163000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Football&#039;s Greatest - Episode 4</title>
+<programme start="20261007160000 +0000" stop="20261007161500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>Africa Eco Race - Round 13</title>
 </programme>
-<programme start="20261007163000 +0000" stop="20261007183000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Top 14 - Castres Olympique v Stade Toulousain</title>
+<programme start="20261007161500 +0000" stop="20261007181500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+    <title>NHL Hockey - Florida Panthers at Los Angeles Kings</title>
 </programme>
 <programme start="20261007000000 +0000" stop="20261007010000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
