@@ -26226,22 +26226,6 @@
     <title>Ruang Redaksi</title>
     <desc>Menyajikan dan membahas informasi berbagai topik peristiwa seperti kebijakan politik, kondisi ekonomi dan bisnis, kasus dan penegakan hukum, situasi keamanan, isu-isu sosial dan budaya masyarakat.</desc>
   </programme>
-  <programme start="20260930053000 +0000" stop="20260930070000 +0000" channel="Sinpo TV.maxstream">
-    <title>Menyapa Indonesia Siang</title>
-    <desc>Menghadirkan beragam informasi terkini seputar politik, ekonomi, bisnis, sosial, budaya, informasi umum hingga dunia hiburan dan olahraga.</desc>
-  </programme>
-  <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="Sinpo TV.maxstream">
-    <title>Ketawa Ala SUCA</title>
-    <desc>Siap-siap ngakak tanpa henti! Hari kamu bakal lebih ceria bareng komika-komika paling lucu di Indonesia! Saksikan Ketawa Ala SUCA.</desc>
-  </programme>
-  <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="Sinpo TV.maxstream">
-    <title>LUV - Liputan Update Viral</title>
-    <desc>Ikuti update terbaru dan terlengkap dari dunia selebriti Indonesia yang tak pernah sepi dari berita, dari isu-isu terkini, drama terpanas dan konten paling viral.</desc>
-  </programme>
-  <programme start="20260930080000 +0000" stop="20260930103000 +0000" channel="Sinpo TV.maxstream">
-    <title>AKSI 2026</title>
-    <desc>Ajang pencarian bakat pendakwah pendakwah muda Indonesia</desc>
-  </programme>
   <programme start="20260930103000 +0000" stop="20260930120000 +0000" channel="Sinpo TV.maxstream">
     <title>Menyapa Indonesia Petang</title>
     <desc>Menghadirkan beragam informasi terkini seputar politik, ekonomi, bisnis, sosial, budaya, informasi umum hingga dunia hiburan dan olahraga.</desc>

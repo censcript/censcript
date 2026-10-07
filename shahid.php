@@ -7,6 +7,12 @@
     <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="49923088717401.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="951783.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="995495.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261007000000 +0000" stop="20261007001336 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 11 Episode 16</title>
     </programme>
@@ -262,13 +268,13 @@
     <programme start="20261008233538 +0000" stop="20261008235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 15 Episode 14</title>
     </programme>
-    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="951783.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="995495.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="49922904934759.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="49922763891977.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="986014.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20261007000000 +0000" stop="20261007000815 +0000" channel="969745.shahid">
@@ -483,12 +489,6 @@
     </programme>
     <programme start="20261008232935 +0000" stop="20261008235959 +0000" channel="969745.shahid">
         <title>Makhraj 7 Season 1 Episode 4</title>
-    </programme>
-    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="49922763891977.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="986014.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20261007000000 +0000" stop="20261007000449 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 8 Episode 15</title>
@@ -6640,6 +6640,9 @@
     <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="1005232.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="49923088781412.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261007000000 +0000" stop="20261007004000 +0000" channel="387294.shahid">
         <title>Awdat Khalati Season 1 Episode 17</title>
     </programme>
@@ -6873,9 +6876,6 @@
     </programme>
     <programme start="20261008234500 +0000" stop="20261008235959 +0000" channel="387294.shahid">
         <title>Awdat Khalati Season 1 Episode 19</title>
-    </programme>
-    <programme start="20261007000000 +0000" stop="20261008235959 +0000" channel="49923088781412.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20261007000000 +0000" stop="20261007000000 +0000" channel="387251.shahid">
         <title>Beyt Al Ankaboot  </title>

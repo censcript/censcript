@@ -7624,14 +7624,8 @@
 <programme start="20261007130000 +0000" stop="20261007140000 +0000" channel="EWTN.virginmediatv">
     <title>Our Lady of the Rosary at Pompeii</title>
 </programme>
-<programme start="20261007140000 +0000" stop="20261007142000 +0000" channel="EWTN.virginmediatv">
-    <title>The Chaplet of Divine Mercy</title>
-</programme>
-<programme start="20261007142000 +0000" stop="20261007143000 +0000" channel="EWTN.virginmediatv">
-    <title>Live Adoration From EWTN Chapel - Devotion Special</title>
-</programme>
-<programme start="20261007143000 +0000" stop="20261007150000 +0000" channel="EWTN.virginmediatv">
-    <title>Cat Chat - Charity</title>
+<programme start="20261007140000 +0000" stop="20261007150000 +0000" channel="EWTN.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261007150000 +0000" stop="20261007153000 +0000" channel="EWTN.virginmediatv">
     <title>Truth in the Heart - I Believe in Jesus Christ</title>
