@@ -940,38 +940,6 @@
     <title>Madam Rose</title>
     <desc>Keira seorang gadis lugu yang terpaksa berjuang melawan dunia hitam dan menjadi pengedar narkoba, demi membiayai hidup Ibu dan Adiknya serta adanya niat membalas dendam kepada seseorang.</desc>
   </programme>
-  <programme start="20260930024500 +0000" stop="20260930033000 +0000" channel="MAXstream.maxstream">
-    <title>Tiba - Tiba Berondong</title>
-    <desc>Bella, dosen psikologi 35 tahun yang mapan namun kesepian. Di dorong dengan tekanan keluarga, ia menggunakan aplikasi kencan &amp; bertemu Langit, pria jenaka ternyata baru 19 tahun dan menjadi mahasiswa barunya, memicu dilema asmara.</desc>
-  </programme>
-  <programme start="20260930033000 +0000" stop="20260930041500 +0000" channel="MAXstream.maxstream">
-    <title>Brata S1</title>
-    <desc>Brata, seorang detektif muda sedang menyelidiki kasus pembunuhan mutilasi. Ketika Vera, seorang dokter forensik memeriksa korban, dia menemukan bahwa mereka berasal dari 5 korban berbeda.</desc>
-  </programme>
-  <programme start="20260930041500 +0000" stop="20260930043000 +0000" channel="MAXstream.maxstream">
-    <title>CLBK The Series</title>
-    <desc>Mini series yang menceritakan suka dan duka mencari pasangan melalui kencan buta.</desc>
-  </programme>
-  <programme start="20260930043000 +0000" stop="20260930051500 +0000" channel="MAXstream.maxstream">
-    <title>Angling Dharma S2</title>
-    <desc>Perpecahan terjadi ketika Kerajaan Malwapati yang dipimpin oleh Prabu Angling Dharma disulut oleh perseteruan dengan Syudawirat untuk memperebutkan.</desc>
-  </programme>
-  <programme start="20260930051500 +0000" stop="20260930064500 +0000" channel="MAXstream.maxstream">
-    <title>Pancaran Sinar Petromak</title>
-    <desc>Monos, Rojali, Ade, Andra, Adit, Dindin, James &amp; Omen adalah mahasiswa gokil, jahil tapi asyik bermusik &amp; tergabung dalam OM Pancaran Sinar Petromaks (PSP) Mereka kompak segala urusan kecuali dalam percintaan malah dibikin taruhan</desc>
-  </programme>
-  <programme start="20260930051500 +0000" stop="20260930070000 +0000" channel="MAXstream.maxstream">
-    <title>Si Juki</title>
-    <desc>Berada pada puncak ketenarannya, Juki dicintai banyak orang karena sikapnya yang polos, jenaka, dan berani untuk beda. Hingga sebuah kesalahan membuatnya berbalik menjadi musuh nomor satu masyarakat.</desc>
-  </programme>
-  <programme start="20260930064500 +0000" stop="20260930070000 +0000" channel="MAXstream.maxstream">
-    <title>CLBK The Series</title>
-    <desc>Mini series yang menceritakan suka dan duka mencari pasangan melalui kencan buta.</desc>
-  </programme>
-  <programme start="20260930070000 +0000" stop="20260930081500 +0000" channel="MAXstream.maxstream">
-    <title>Waktunya Srimulat Bercyanda</title>
-    <desc>Program Sitkom dengan Srimulat, group lawak terbesar dan terpopuler serta memiliki penggemar dari berbagai kalangan masyarakat yang menampilkan kisah-kisah lucu dan sedang menjadi topik hangat</desc>
-  </programme>
   <programme start="20260930081500 +0000" stop="20260930091500 +0000" channel="MAXstream.maxstream">
     <title>Rintik Terakhir</title>
     <desc>Bercerita tentang Karang Samudra Daneswara yang terbangun dari koma dan menemukan dirinya dikendalikan oleh kepribadian baru bernama Arutala. Akibatnya, hubungan Karang dengan kekasihnya, Launa dan keluarganya menjadi rumit.</desc>
