@@ -15184,7 +15184,7 @@
     <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20261006170500 +0000" stop="20261006180000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog - Ep1</title>
     <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -15203,12 +15203,12 @@
     <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20261007010000 +0000" stop="20261007020000 +0000" channel="spotv2.unifitv">
+  <programme start="20261007010000 +0000" stop="20261007020200 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Idemitsu Moto4 Asia Cup, Rd 3 Japan - Race 1</title>
     <desc lang="en">Powerful bagger motorcycles take to the track as elite riders battle for glory in this thrilling race, combining raw power, speed, and spectacular two-wheel action.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261007020000 +0000" stop="20261007030000 +0000" channel="spotv2.unifitv">
+  <programme start="20261007020200 +0000" stop="20261007030000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Idemitsu Moto4 Asia Cup, Rd 3 Japan - Race 2</title>
     <desc lang="en">Powerful bagger motorcycles take to the track as elite riders battle for glory in this thrilling race, combining raw power, speed, and spectacular two-wheel action.</desc>
     <category lang="en">Motorsports</category>

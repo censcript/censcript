@@ -155,7 +155,7 @@
         <title>Yes Captain! - EP 34</title>
     </programme>
     <programme start="20261007130000 +0000" stop="20261007134500 +0000" channel="Channel 5.mewatch">
-        <title>(Live) News Tonight</title>
+        <title>(Live) News Tonight (With Highlights From Parliament)</title>
     </programme>
     <programme start="20261007134500 +0000" stop="20261007144000 +0000" channel="Channel 5.mewatch">
         <title>Temasek Shophouse: Honouring the Past, Inspiring the Future</title>
@@ -277,17 +277,14 @@
     <programme start="20261007130000 +0000" stop="20261007140000 +0000" channel="Channel 8.mewatch">
         <title>In his hands - EP 13</title>
     </programme>
-    <programme start="20261007140000 +0000" stop="20261007143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261007140000 +0000" stop="20261007144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20261007143000 +0000" stop="20261007150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261007144500 +0000" stop="20261007151500 +0000" channel="Channel 8.mewatch">
         <title>Taste of Canton S9 - EP 10</title>
     </programme>
-    <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261007151500 +0000" stop="20261007161500 +0000" channel="Channel 8.mewatch">
         <title>The Litchi Road - EP 32</title>
-    </programme>
-    <programme start="20261007160000 +0000" stop="20261007170000 +0000" channel="Channel 8.mewatch">
-        <title>Love of Nirvana - EP 15</title>
     </programme>
     <programme start="20261006154500 +0000" stop="20261006164000 +0000" channel="Channel U.mewatch">
         <title>Brothers on the Camino - EP 8</title>
@@ -397,10 +394,10 @@
     <programme start="20261007140000 +0000" stop="20261007150000 +0000" channel="Channel U.mewatch">
         <title>Birthcare Center - EP 6</title>
     </programme>
-    <programme start="20261007150000 +0000" stop="20261007153000 +0000" channel="Channel U.mewatch">
+    <programme start="20261007150000 +0000" stop="20261007154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20261007153000 +0000" stop="20261007163000 +0000" channel="Channel U.mewatch">
+    <programme start="20261007154500 +0000" stop="20261007164000 +0000" channel="Channel U.mewatch">
         <title>Destination China - EP 3</title>
     </programme>
     <programme start="20261006160000 +0000" stop="20261007010000 +0000" channel="Suria.mewatch">
@@ -760,13 +757,13 @@
     <programme start="20261007160000 +0000" stop="20261008110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 8th October, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20261006160000 +0000" stop="20261007130000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 7th October, Wednesday 9pm. ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
+    <programme start="20261006160000 +0000" stop="20261007123500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 7th October, Wednesday 08.35pm. ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
     </programme>
-    <programme start="20261007130000 +0000" stop="20261007150000 +0000" channel="Live 2.mewatch">
+    <programme start="20261007123500 +0000" stop="20261007151500 +0000" channel="Live 2.mewatch">
         <title>ASEAN Shopee Cup™ 2026/2027: Kuching City FC vs Tampines Rovers FC</title>
     </programme>
-    <programme start="20261007150000 +0000" stop="20261007160000 +0000" channel="Live 2.mewatch">
+    <programme start="20261007151500 +0000" stop="20261007160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 8th October, Thursday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC</title>
     </programme>
     <programme start="20261007160000 +0000" stop="20261008113000 +0000" channel="Live 2.mewatch">

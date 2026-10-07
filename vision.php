@@ -643,9 +643,6 @@
 <programme start="20261007010000 +0000" stop="20261007023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261007023000 +0000" stop="20261007060000 +0000" channel="ANTV.vision">
-<title>Karan Arjun</title>
-</programme>
 <programme start="20261007060000 +0000" stop="20261007073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261007030000 +0000" stop="20261007030300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261007030300 +0000" stop="20261007033000 +0000" channel="TVRI.vision">
+<title>Pesona Indonesia</title>
 </programme>

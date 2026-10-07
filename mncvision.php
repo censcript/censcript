@@ -1570,22 +1570,16 @@
 <programme start="20261007021500 +0000" stop="20261007023000 +0000" channel="BTV.mncvision">
     <title>YTTA (Yang Tips-Tips Aja)</title>
 </programme>
-<programme start="20261007023000 +0000" stop="20261007030000 +0000" channel="BTV.mncvision">
-    <title>Investor Market Today</title>
+<programme start="20261007023000 +0000" stop="20261007040000 +0000" channel="BTV.mncvision">
+    <title>Investor Daily Summit 2026</title>
 </programme>
-<programme start="20261007030000 +0000" stop="20261007033000 +0000" channel="BTV.mncvision">
-    <title>Jendela Nusantara</title>
-</programme>
-<programme start="20261007033000 +0000" stop="20261007040000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update Dari Nol</title>
-</programme>
-<programme start="20261007040000 +0000" stop="20261007050000 +0000" channel="BTV.mncvision">
+<programme start="20261007040000 +0000" stop="20261007043000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
 </programme>
-<programme start="20261007050000 +0000" stop="20261007050500 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Terkini</title>
+<programme start="20261007043000 +0000" stop="20261007050000 +0000" channel="BTV.mncvision">
+    <title>Investor Daily Summit 2026</title>
 </programme>
-<programme start="20261007050500 +0000" stop="20261007053000 +0000" channel="BTV.mncvision">
+<programme start="20261007050000 +0000" stop="20261007053000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
 </programme>
 <programme start="20261007053000 +0000" stop="20261007063000 +0000" channel="BTV.mncvision">
@@ -1618,7 +1612,10 @@
 <programme start="20261007100000 +0000" stop="20261007103000 +0000" channel="BTV.mncvision">
     <title>Berita Merah Putih</title>
 </programme>
-<programme start="20261007103000 +0000" stop="20261007120000 +0000" channel="BTV.mncvision">
+<programme start="20261007103000 +0000" stop="20261007110000 +0000" channel="BTV.mncvision">
+    <title>Investor Daily Summit 2026</title>
+</programme>
+<programme start="20261007110000 +0000" stop="20261007120000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20261007120000 +0000" stop="20261007130000 +0000" channel="BTV.mncvision">
