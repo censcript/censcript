@@ -175,7 +175,10 @@
 <programme start="20261007190000 +0000" stop="20261007203000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20261007203000 +0000" stop="20261007223000 +0000" channel="GTV.vision">
+<programme start="20261007203000 +0000" stop="20261007210000 +0000" channel="GTV.vision">
+<title>Ragam Cerita</title>
+</programme>
+<programme start="20261007210000 +0000" stop="20261007223000 +0000" channel="GTV.vision">
 <title>Petualangan Fantasi</title>
 </programme>
 <programme start="20261007223000 +0000" stop="20261007230000 +0000" channel="GTV.vision">
@@ -640,6 +643,9 @@
 <programme start="20261007010000 +0000" stop="20261007023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
+<programme start="20261007023000 +0000" stop="20261007060000 +0000" channel="ANTV.vision">
+<title>Karan Arjun</title>
+</programme>
 <programme start="20261007060000 +0000" stop="20261007073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -648,6 +654,9 @@
 </programme>
 <programme start="20261007093000 +0000" stop="20261007110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
+</programme>
+<programme start="20261007110000 +0000" stop="20261007130000 +0000" channel="ANTV.vision">
+<title>Darah Perjaka</title>
 </programme>
 <programme start="20261007130000 +0000" stop="20261007150000 +0000" channel="ANTV.vision">
 <title>Preman</title>
@@ -1487,14 +1496,5 @@
 <title>Mimbar Agama Hindu</title>
 </programme>
 <programme start="20261007030000 +0000" stop="20261007030300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20261007030300 +0000" stop="20261007033000 +0000" channel="TVRI.vision">
-<title>Pesona Indonesia</title>
-</programme>
-<programme start="20261007033000 +0000" stop="20261007040000 +0000" channel="TVRI.vision">
-<title>Inspirasi Indonesia</title>
-</programme>
-<programme start="20261007040000 +0000" stop="20261007040300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>
