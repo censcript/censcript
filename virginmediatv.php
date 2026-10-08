@@ -62,7 +62,7 @@
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
 <programme start="20261008123000 +0000" stop="20261008130000 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Home and Away - Episode 224</title>
+    <title>Home and Away - Episode 164</title>
 </programme>
 <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Shortland Street - Episode 28</title>
@@ -362,7 +362,7 @@
     <title>RTÉ News: One O&#039;Clock</title>
 </programme>
 <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="RTE_One_+1.virginmediatv">
-    <title>Home and Away - Episode 224</title>
+    <title>Home and Away - Episode 164</title>
 </programme>
 <programme start="20261008140000 +0000" stop="20261008143000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Shortland Street - Episode 28</title>
@@ -4015,8 +4015,11 @@
 <programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Test Cricket - 4th Test, Day 5: England v India</title>
 </programme>
-<programme start="20261008150000 +0000" stop="20261008163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Made in India</title>
+<programme start="20261008150000 +0000" stop="20261008160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>SA20 - Season 5 Player Auction</title>
+</programme>
+<programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>The Film Room - England v India: Women&#039;s World Cup Final 2017</title>
 </programme>
 <programme start="20261008163000 +0000" stop="20261008170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>International T20 Cricket - 4th T20: England v India</title>
@@ -4460,7 +4463,7 @@
     <title>Sign Up: Into Football - Episode 2</title>
 </programme>
 <programme start="20261008163000 +0000" stop="20261008170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>UIM F1H2O World Championship Powerboat Racing - Grand Prix of Shanghai, China</title>
+    <title>TNT Sports Reload - Episode 40</title>
 </programme>
 <programme start="20261008170000 +0000" stop="20261008173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Premier League: The Big Interview - Hayden Hackney</title>
@@ -4816,8 +4819,11 @@
 <programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Test Cricket - 4th Test, Day 5: England v India</title>
 </programme>
-<programme start="20261008150000 +0000" stop="20261008163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Made in India</title>
+<programme start="20261008150000 +0000" stop="20261008160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>SA20 - Season 5 Player Auction</title>
+</programme>
+<programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>The Film Room - England v India: Women&#039;s World Cup Final 2017</title>
 </programme>
 <programme start="20261008163000 +0000" stop="20261008170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>International T20 Cricket - 4th T20: England v India</title>
@@ -7577,7 +7583,7 @@
     <title>Children&#039;s Rosary - Luminous Mysteries</title>
 </programme>
 <programme start="20261008160000 +0000" stop="20261008171500 +0000" channel="EWTN.virginmediatv">
-    <title>Holy Mass For the Inauguration of The Academic Year</title>
+    <title>Holy Mass for the Inauguration of the Academic Year</title>
 </programme>
 <programme start="20261008171500 +0000" stop="20261008173000 +0000" channel="EWTN.virginmediatv">
     <title>Art of Faith With Fr. Patrick Van Der Vorst - Did Baroque Go Too Far -- Rubens at the Wallace Collection</title>

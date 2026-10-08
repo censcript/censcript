@@ -643,12 +643,6 @@
 <programme start="20261008093000 +0000" stop="20261008110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261008150000 +0000" stop="20261008170000 +0000" channel="ANTV.vision">
-<title>Kain Kafan Hitam</title>
-</programme>
-<programme start="20261008170000 +0000" stop="20261008183000 +0000" channel="ANTV.vision">
-<title>The Blacksheep Affair</title>
-</programme>
 <programme start="20261008183000 +0000" stop="20261008193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261008080300 +0000" stop="20261008090000 +0000" channel="TVRI.vision">
 <title>Bincang Olahraga</title>
+</programme>
+<programme start="20261008090000 +0000" stop="20261008090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261008090300 +0000" stop="20261008093000 +0000" channel="TVRI.vision">
+<title>Masakan Khas Indonesia</title>
 </programme>

@@ -3058,25 +3058,25 @@
   <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Události v regionech</title>
   </programme>
-  <programme start="20261010040000 +0000" stop="20261010042500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010040000 +0000" stop="20261010042600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Co naše babičky uměly a na co my jsme zapomněli</title>
   </programme>
-  <programme start="20261010042500 +0000" stop="20261010052500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010042600 +0000" stop="20261010052500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Polopatě</title>
   </programme>
-  <programme start="20261010052500 +0000" stop="20261010060600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010052500 +0000" stop="20261010060500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jak se Mette chtěla stát královnou</title>
   </programme>
-  <programme start="20261010060600 +0000" stop="20261010064900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010060500 +0000" stop="20261010064500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ahmed a Hazar</title>
   </programme>
-  <programme start="20261010064900 +0000" stop="20261010073800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010064500 +0000" stop="20261010073500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Jana Eyrová I (1/4)</title>
   </programme>
-  <programme start="20261010073800 +0000" stop="20261010081600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010073500 +0000" stop="20261010081500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Rudolfa Hrušínského ml.</title>
   </programme>
-  <programme start="20261010081600 +0000" stop="20261010090500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010081500 +0000" stop="20261010090500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechny velké a malé bytosti V (5)</title>
   </programme>
   <programme start="20261010090500 +0000" stop="20261010100000 +0000" channel="ČT1.webtv.sk">
@@ -3094,10 +3094,10 @@
   <programme start="20261010110000 +0000" stop="20261010115500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">O ztracené lásce (3/9)</title>
   </programme>
-  <programme start="20261010115500 +0000" stop="20261010124000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010115500 +0000" stop="20261010124100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zlatá flétna</title>
   </programme>
-  <programme start="20261010124000 +0000" stop="20261010131100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010124100 +0000" stop="20261010131100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobro a zlo</title>
   </programme>
   <programme start="20261010131100 +0000" stop="20261010145500 +0000" channel="ČT1.webtv.sk">
@@ -3124,10 +3124,10 @@
   <programme start="20261010181000 +0000" stop="20261010202000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">StarDance XIV... když hvězdy tančí</title>
   </programme>
-  <programme start="20261010202000 +0000" stop="20261010211500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010202000 +0000" stop="20261010211600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechnopárty</title>
   </programme>
-  <programme start="20261010211500 +0000" stop="20261010211800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261010211600 +0000" stop="20261010211800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Euromiliony</title>
   </programme>
   <programme start="20261010211800 +0000" stop="20261010230500 +0000" channel="ČT1.webtv.sk">
