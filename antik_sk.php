@@ -886,26 +886,32 @@
   <programme start="20261010123500 +0000" stop="20261010130000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku V (20)</title>
   </programme>
-  <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010130000 +0000" stop="20261010132000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Teória veľkého tresku V (21)</title>
   </programme>
-  <programme start="20261010133000 +0000" stop="20261010140000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010132000 +0000" stop="20261010135000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Priatelia I (7)</title>
   </programme>
-  <programme start="20261010140000 +0000" stop="20261010143500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010135000 +0000" stop="20261010142000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Priatelia I (8)</title>
   </programme>
-  <programme start="20261010143500 +0000" stop="20261010150000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010142000 +0000" stop="20261010145000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa IV (16)</title>
   </programme>
-  <programme start="20261010150000 +0000" stop="20261010153500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010145000 +0000" stop="20261010152000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Dva a pol chlapa IV (17)</title>
   </programme>
-  <programme start="20261010153500 +0000" stop="20261010183000 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010152000 +0000" stop="20261010183000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Niké liga 2026/2027 (46)</title>
   </programme>
-  <programme start="20261010183000 +0000" stop="20261010220500 +0000" channel="DajTo.webtv.sk">
+  <programme start="20261010183000 +0000" stop="20261010210000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">Justice League</title>
+  </programme>
+  <programme start="20261010210000 +0000" stop="20261010213000 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa X (3)</title>
+  </programme>
+  <programme start="20261010213000 +0000" stop="20261010220500 +0000" channel="DajTo.webtv.sk">
+    <title lang="id">Dva a pol chlapa XI (2)</title>
   </programme>
   <programme start="20261009215500 +0000" stop="20261009225000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska na prvý omyl (47)</title>

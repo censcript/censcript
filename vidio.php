@@ -216,31 +216,31 @@
     <desc lang="id">Istri Satu-Satunya adalah serial drama Indonesia tentang seorang wanita muda yang menyamar menjadi asisten rumah tangga (ART) di rumah suami ibunya untuk mengungkap rahasia masa lalu. Saksikan setiap hari pukul 16.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vV1hZseW09VBGlNeljIoCKY8_Kg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413909/1e3ea8.jpg"/>
   </programme>
-  <programme channel="204" start="20261008100000 +0000" stop="20261008111500 +0000">
+  <programme channel="204" start="20261008100000 +0000" stop="20261008112400 +0000">
     <title lang="id">Putri Pewaris</title>
     <desc lang="id">Sinetron Putri Pewaris mengisahkan Aina, perempuan sederhana yang ternyata pewaris sah perusahaan VOLTZ setelah masa lalu keluarganya terungkap. Saksikan setiap hari pukul 17.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ngDpM2Dw83nKt_YtPAHdda5UkAA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413910/ac5808.jpg"/>
   </programme>
-  <programme channel="204" start="20261008111500 +0000" stop="20261008130000 +0000">
+  <programme channel="204" start="20261008112400 +0000" stop="20261008130000 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261008130000 +0000" stop="20261008143000 +0000">
+  <programme channel="204" start="20261008130000 +0000" stop="20261008142600 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261008143000 +0000" stop="20261008160000 +0000">
+  <programme channel="204" start="20261008142600 +0000" stop="20261008155400 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron terbaru biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261008160000 +0000" stop="20261008172200 +0000">
+  <programme channel="204" start="20261008155400 +0000" stop="20261008172200 +0000">
     <title lang="id">FTV PRIMETIME "CINTA ABANG SATE SEPORSI BUMBU KACANG"</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261008160000 +0000" stop="20261008172200 +0000">
+  <programme channel="204" start="20261008155400 +0000" stop="20261008172200 +0000">
     <title lang="id">FTV PRIMETIME "CINTA ABANG SATE SEPORSI BUMBU KACANG"</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -264,38 +264,38 @@
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261008213000 +0000" stop="20261008220000 +0000">
+  <programme channel="204" start="20261008213000 +0000" stop="20261008215400 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261008220000 +0000" stop="20261008230000 +0000">
+  <programme channel="204" start="20261008215400 +0000" stop="20261008230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg"/>
   </programme>
-  <programme channel="204" start="20261008230000 +0000" stop="20261009000000 +0000">
+  <programme channel="204" start="20261008230000 +0000" stop="20261009001100 +0000">
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261009000000 +0000" stop="20261009010000 +0000">
+  <programme channel="204" start="20261009001100 +0000" stop="20261009011700 +0000">
     <title lang="id">Tiba Tiba Kuis</title>
     <desc lang="id">Kuis kejutan ini akan hadir setiap hari . Para pembawa acara akan datang secara tiba-tiba ke lokasi pemirsa tanpa pemberitahuan untuk memberikan tantangan games yang lucu dan menyentuh. Dipandu oleh Baim Wong, Asri Welas, dan Anna Jobling. Saksikan, hanya di saluran televisi SCTV Satu Untuk Semua.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1EUeMSUt82iskEKXnfT9rieiAqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/407932/7e1a8b.jpg"/>
   </programme>
-  <programme channel="204" start="20261009010000 +0000" stop="20261009030000 +0000">
+  <programme channel="204" start="20261009011700 +0000" stop="20261009030200 +0000">
     <title lang="id">FTV Pagi Spesial: Neng Ayam Berhak Bahagia</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/72SKwewRnTmLXJTz_wkUeEfWPvI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5362189/9e8bf6.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/UVRWbWt7v9Pw8sD90S9GweK0p9Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5362189/63f061.png"/>
   </programme>
-  <programme channel="204" start="20261009030000 +0000" stop="20261009050000 +0000">
+  <programme channel="204" start="20261009030200 +0000" stop="20261009045200 +0000">
     <title lang="id">FTV PAGI : KOPI TANPA GULA RASANYA PAMIT YA</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HKKhHPXvnOTSP0FbHWAK2hwUj08=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5362190/85e23e.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9QSSs9pCh2wic7sDyRy5nDfT1TA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5362190/30a18a.png"/>
   </programme>
-  <programme channel="204" start="20261009050000 +0000" stop="20261009053000 +0000">
+  <programme channel="204" start="20261009045200 +0000" stop="20261009052500 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
   </programme>
-  <programme channel="204" start="20261009053000 +0000" stop="20261009090000 +0000">
+  <programme channel="204" start="20261009052500 +0000" stop="20261009090000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
@@ -305,32 +305,32 @@
     <desc lang="id">Istri Satu-Satunya adalah serial drama Indonesia tentang seorang wanita muda yang menyamar menjadi asisten rumah tangga (ART) di rumah suami ibunya untuk mengungkap rahasia masa lalu. Saksikan setiap hari pukul 16.00 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vV1hZseW09VBGlNeljIoCKY8_Kg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413909/1e3ea8.jpg"/>
   </programme>
-  <programme channel="204" start="20261009100000 +0000" stop="20261009111500 +0000">
+  <programme channel="204" start="20261009100000 +0000" stop="20261009112200 +0000">
     <title lang="id">Putri Pewaris</title>
     <desc lang="id">Sinetron Putri Pewaris mengisahkan Aina, perempuan sederhana yang ternyata pewaris sah perusahaan VOLTZ setelah masa lalu keluarganya terungkap. Saksikan setiap hari pukul 17.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ngDpM2Dw83nKt_YtPAHdda5UkAA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413910/ac5808.jpg"/>
   </programme>
-  <programme channel="204" start="20261009111500 +0000" stop="20261009130000 +0000">
+  <programme channel="204" start="20261009112200 +0000" stop="20261009130100 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261009130000 +0000" stop="20261009143000 +0000">
+  <programme channel="204" start="20261009130100 +0000" stop="20261009142700 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261009143000 +0000" stop="20261009160000 +0000">
+  <programme channel="204" start="20261009142700 +0000" stop="20261009155500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron terbaru biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261009160000 +0000" stop="20261009173000 +0000">
+  <programme channel="204" start="20261009155500 +0000" stop="20261009173000 +0000">
     <title lang="id">FTV Primetime: Lapis Legit Kamu Wagelasih</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261009160000 +0000" stop="20261009173000 +0000">
+  <programme channel="204" start="20261009155500 +0000" stop="20261009173000 +0000">
     <title lang="id">FTV Primetime: Lapis Legit Kamu Wagelasih</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -922,32 +922,32 @@
     <desc lang="id">Nonton streaming pertandingan seru Putri: USM vs UAD - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/iMI1phPflGKskj0PXeFzOODRQRk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371294/ed4842.jpg"/>
   </programme>
-  <programme channel="206" start="20261008075500 +0000" stop="20261008100000 +0000">
+  <programme channel="206" start="20261008075500 +0000" stop="20261008092800 +0000">
     <title lang="id">Putra: UNNES vs UAD - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putra: UNNES vs UAD - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/yyeZNIOTX2JsufTohHQXKCj8Xp4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371296/cf7010.jpg"/>
   </programme>
-  <programme channel="206" start="20261008100000 +0000" stop="20261008120000 +0000">
+  <programme channel="206" start="20261008092800 +0000" stop="20261008113300 +0000">
     <title lang="id">Putri: UNMEKA vs UNJAYA - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putri: UNMEKA vs UNJAYA - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/4p9utGiiUfPMbRPphMA2zlJ_DGg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371295/cefa2a.jpg"/>
   </programme>
-  <programme channel="206" start="20261008120000 +0000" stop="20261008140000 +0000">
+  <programme channel="206" start="20261008113300 +0000" stop="20261008131000 +0000">
     <title lang="id">Putra: UNJAYA vs UNTAG - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putra: UNJAYA vs UNTAG - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FelThn_ufhCMpaHeT_wV4f-VToM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371297/3ebb46.jpg"/>
   </programme>
-  <programme channel="206" start="20261008140000 +0000" stop="20261008155700 +0000">
+  <programme channel="206" start="20261008131000 +0000" stop="20261008151100 +0000">
     <title lang="id">FIFA Asean Cup 2026</title>
     <desc lang="id">FIFA ASEAN CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261008155700 +0000" stop="20261008180600 +0000">
+  <programme channel="206" start="20261008151100 +0000" stop="20261008180600 +0000">
     <title lang="id">VNL 2026</title>
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261008155700 +0000" stop="20261008180600 +0000">
+  <programme channel="206" start="20261008151100 +0000" stop="20261008180600 +0000">
     <title lang="id">VNL 2026</title>
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -1991,12 +1991,12 @@
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-gTUQo1HqMv8F8Vy0Tu6aEuF2EE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5360434/63e9af.jpg"/>
   </programme>
-  <programme channel="782" start="20261008093000 +0000" stop="20261008110000 +0000">
+  <programme channel="782" start="20261008093000 +0000" stop="20261008110500 +0000">
     <title lang="id">Naagin 7</title>
     <desc lang="id">Naagin 7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261008110000 +0000" stop="20261008130000 +0000">
+  <programme channel="782" start="20261008110500 +0000" stop="20261008130000 +0000">
     <title lang="id">Sinema Laga Klasik : Tutur Tinular Iii : (Pendekar Syair Berdarah)</title>
     <desc lang="id">Sinema Laga Klasik : Tutur Tinular Iii : (Pendekar Syair Berdarah)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -11051,9 +11051,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20261009175500 +0000" stop="20261009200000 +0000">
-    <title lang="id">[LIVE] Dutch League Eredivisie 2026/27</title>
-    <desc lang="id">PSV Eindhoven vs sc Heerenveen</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+    <title lang="id">PSV vs Heerenveen - Eredivisie</title>
+    <desc lang="id">Nonton streaming pertandingan seru PSV vs Heerenveen - Eredivisie. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/1COrr80vasjRbjFtlOf3xpYJ8hA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372373/5c24e0.jpg"/>
   </programme>
   <programme channel="6685" start="20261009200000 +0000" stop="20261009220000 +0000">
     <title lang="id">Dutch League Eredivisie 2026/27</title>
@@ -11135,20 +11135,15 @@
     <desc lang="id">-</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261010164000 +0000" stop="20261010170000 +0000">
-    <title lang="id">[LIVE] Dutch League Eredivisie 2026/27</title>
-    <desc lang="id">Feyenoord vs AZ Alkmaar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20261010164500 +0000" stop="20261010184500 +0000">
+    <title lang="id">Feyenoord vs AZ Alkmaar - Eredivisie</title>
+    <desc lang="id">Rasakan atmosfer membara tribune De Kuip kawal laga panas Feyenoord vs AZ!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/C_HAGcJzEYA1UG_ckarmDKGqjMc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372498/9d272d.jpg"/>
   </programme>
-  <programme channel="6685" start="20261010164000 +0000" stop="20261010170000 +0000">
-    <title lang="id">[LIVE] Dutch League Eredivisie 2026/27</title>
-    <desc lang="id">Feyenoord vs AZ Alkmaar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20261010170000 +0000" stop="20261010185500 +0000">
-    <title lang="id">Continue</title>
-    <desc lang="id">Feyenoord vs AZ Alkmaar</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20261010164500 +0000" stop="20261010184500 +0000">
+    <title lang="id">Feyenoord vs AZ Alkmaar - Eredivisie</title>
+    <desc lang="id">Rasakan atmosfer membara tribune De Kuip kawal laga panas Feyenoord vs AZ!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/C_HAGcJzEYA1UG_ckarmDKGqjMc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372498/9d272d.jpg"/>
   </programme>
   <programme channel="6685" start="20261010185500 +0000" stop="20261010213000 +0000">
     <title lang="id">[LIVE] Dutch League Eredivisie 2026/27</title>
@@ -12552,7 +12547,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261009070000 +0000" stop="20261009090000 +0000">
-    <title lang="id">Quartefinal - WTA 1000: China Open 2026</title>
+    <title lang="id">Qinwen Zheng vs Elina Svitolina - Women's Singles Quarterfinals | WTA 1000: China Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quartefinal - WTA 1000: China Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/EN0Fz54GT40NHVUs-PUdw3q5t-c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371632/8b19f7.jpg"/>
   </programme>
@@ -13002,12 +12997,12 @@
   </programme>
   <programme channel="17875" start="20261010120000 +0000" stop="20261010140000 +0000">
     <title lang="id">Rayo Vallecano vs Athletic Club - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Rayo Vallecano vs Athletic Club - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Rasakan atmosfer panas tribune Vallecas kawal perjuangan tuan rumah amankan poin!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1FBMAjaKWotIQ6yEAc1mWajhO2A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372180/eca3da.jpg"/>
   </programme>
   <programme channel="17875" start="20261010141500 +0000" stop="20261010161500 +0000">
     <title lang="id">Alaves vs Atletico Madrid - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Alaves vs Atletico Madrid - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Akankah efektivitas skema set-piece Atletico Madrid kuncikan tiga poin di tandang?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YgAMoLk7x4Vrl8g0kCW2mw9NEJg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372181/c44419.jpg"/>
   </programme>
   <programme channel="17875" start="20261010161500 +0000" stop="20261010180000 +0000">
@@ -15384,29 +15379,24 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261009120000 +0000" stop="20261009143000 +0000">
-    <title lang="id">Semifinals Session 1 : VICTOR BWF World Junior Team Championships 2026</title>
-    <desc lang="id">VICTOR BWF World Junior Team Championships 2026 brings together the world's leading junior badminton teams as they battle for national pride in Cairo, Egypt.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+    <title lang="id">Victor BWF World Junior Team Championsips 2026 - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals - Victor BWF World Junior Championsips 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-c7cw2JJCvGn_IiUd7cKekXa3sc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372531/ebef7e.jpg"/>
   </programme>
   <programme channel="17139" start="20261009143000 +0000" stop="20261009150000 +0000">
     <title lang="id">Highlights : 2026 EKOI French Riviera T100</title>
     <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261009150000 +0000" stop="20261009172500 +0000">
-    <title lang="id">Semifinals Session 2 : VICTOR BWF World Junior Team Championships 2026</title>
-    <desc lang="id">VICTOR BWF World Junior Team Championships 2026 brings together the world's leading junior badminton teams as they battle for national pride in Cairo, Egypt.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20261009150000 +0000" stop="20261009173000 +0000">
+    <title lang="id">Victor BWF World Junior Team Championsips 2026 - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals - Victor BWF World Junior Championsips 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/gvQ0kYct7l4Pw5kfdDfhuDPXbRI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372532/82edac.jpg"/>
   </programme>
-  <programme channel="17139" start="20261009150000 +0000" stop="20261009172500 +0000">
-    <title lang="id">Semifinals Session 2 : VICTOR BWF World Junior Team Championships 2026</title>
-    <desc lang="id">VICTOR BWF World Junior Team Championships 2026 brings together the world's leading junior badminton teams as they battle for national pride in Cairo, Egypt.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
-  </programme>
-  <programme channel="17139" start="20261009172500 +0000" stop="20261009175500 +0000">
-    <title lang="id">Highlights Ep 1 : EWC 2026: Rise Above</title>
-    <desc lang="id">The world's top eSports players and clubs battle across multiple game titles, showcasing elite skill, strategy, and determination on the global stage.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  <programme channel="17139" start="20261009150000 +0000" stop="20261009173000 +0000">
+    <title lang="id">Victor BWF World Junior Team Championsips 2026 - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinals - Victor BWF World Junior Championsips 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/gvQ0kYct7l4Pw5kfdDfhuDPXbRI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372532/82edac.jpg"/>
   </programme>
   <programme channel="17139" start="20261009180000 +0000" stop="20261009200000 +0000">
     <title lang="id">Al-Nassr vs Diriyah - ROSHN Saudi League</title>

@@ -3046,23 +3046,23 @@
 <programme start="20261008091700 +0000" stop="20261008100000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
-<programme start="20261008100000 +0000" stop="20261008100200 +0000" channel="DW English.mncvision">
+<programme start="20261008100000 +0000" stop="20261008103000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261008100200 +0000" stop="20261008101500 +0000" channel="DW English.mncvision">
+<programme start="20261008103000 +0000" stop="20261008110000 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
-<programme start="20261008101500 +0000" stop="20261008110000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
-</programme>
-<programme start="20261008110000 +0000" stop="20261008110300 +0000" channel="DW English.mncvision">
+<programme start="20261008110000 +0000" stop="20261008110200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261008110300 +0000" stop="20261008113000 +0000" channel="DW English.mncvision">
+<programme start="20261008110200 +0000" stop="20261008113000 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
 <programme start="20261008113000 +0000" stop="20261008120000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: Switzerland</title>
+    <title>Berlin Briefing</title>
+</programme>
+<programme start="20261008120000 +0000" stop="20261008123000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
 </programme>
 <programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="Entertainment.mncvision">
     <title>Konon Katanya</title>
@@ -4864,19 +4864,22 @@
 <programme start="20261008113000 +0000" stop="20261008114500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261008114500 +0000" stop="20261008140000 +0000" channel="iNews.mncvision">
+<programme start="20261008114500 +0000" stop="20261008134500 +0000" channel="iNews.mncvision">
     <title>ASEAN C&#039;ship Shopee Cup (L)</title>
 </programme>
-<programme start="20261008140000 +0000" stop="20261008141500 +0000" channel="iNews.mncvision">
+<programme start="20261008134500 +0000" stop="20261008140000 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261008141500 +0000" stop="20261008150000 +0000" channel="iNews.mncvision">
+<programme start="20261008140000 +0000" stop="20261008144500 +0000" channel="iNews.mncvision">
+    <title>Breaking Goals Special</title>
+</programme>
+<programme start="20261008144500 +0000" stop="20261008155000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261008150000 +0000" stop="20261008151000 +0000" channel="iNews.mncvision">
+<programme start="20261008155000 +0000" stop="20261008160000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261008151000 +0000" stop="20261008163000 +0000" channel="iNews.mncvision">
+<programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261008163000 +0000" stop="20261007170000 +0000" channel="iNews.mncvision">
@@ -4948,19 +4951,22 @@
 <programme start="20261008113000 +0000" stop="20261008114500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261008114500 +0000" stop="20261008140000 +0000" channel="iNews HD.mncvision">
+<programme start="20261008114500 +0000" stop="20261008134500 +0000" channel="iNews HD.mncvision">
     <title>ASEAN C&#039;ship Shopee Cup (L)</title>
 </programme>
-<programme start="20261008140000 +0000" stop="20261008141500 +0000" channel="iNews HD.mncvision">
+<programme start="20261008134500 +0000" stop="20261008140000 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261008141500 +0000" stop="20261008150000 +0000" channel="iNews HD.mncvision">
+<programme start="20261008140000 +0000" stop="20261008144500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking Goals Special</title>
+</programme>
+<programme start="20261008144500 +0000" stop="20261008155000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261008150000 +0000" stop="20261008151000 +0000" channel="iNews HD.mncvision">
+<programme start="20261008155000 +0000" stop="20261008160000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261008151000 +0000" stop="20261008163000 +0000" channel="iNews HD.mncvision">
+<programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261008163000 +0000" stop="20261007170000 +0000" channel="iNews HD.mncvision">

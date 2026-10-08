@@ -4109,7 +4109,7 @@
     <title>Live: Korea Championship, LET Golf - Day 1</title>
 </programme>
 <programme start="20261008110000 +0000" stop="20261008140000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Live Tennis - ATP Shanghai Masters &amp; WTA China Open</title>
+    <title>Live Tennis: ATP Shanghai Masters 2026 - Day 2</title>
 </programme>
 <programme start="20261008140000 +0000" stop="20261008160000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Sports Desk</title>
@@ -4165,7 +4165,10 @@
 <programme start="20261008041500 +0000" stop="20261008043000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>My Icon - Ryan Atkin</title>
 </programme>
-<programme start="20261008043000 +0000" stop="20261008083000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20261008043000 +0000" stop="20261008050000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+    <title>Live: Korea Championship, LET Golf - Day 1</title>
+</programme>
+<programme start="20261008050000 +0000" stop="20261008083000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: Korea Championship, LET Golf - Day 1</title>
 </programme>
 <programme start="20261008120000 +0000" stop="20261008130000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
@@ -4322,10 +4325,10 @@
     <title>The Official United Podcast - Inside Carrington - Andy Cole</title>
 </programme>
 <programme start="20261008123000 +0000" stop="20261008124500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Top 20 Goals - Top 20 European Away Goals</title>
 </programme>
 <programme start="20261008124500 +0000" stop="20261008130000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Summer Sessions</title>
+    <title>Top 20 Goals - 2006/07</title>
 </programme>
 <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - Dimitar Berbatov</title>
@@ -4340,13 +4343,13 @@
     <title>A Day in the Life: Celin Bizet Donnum</title>
 </programme>
 <programme start="20261008144500 +0000" stop="20261008150000 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Top 20 Goals - Top 20 European Away Goals</title>
 </programme>
 <programme start="20261008150000 +0000" stop="20261008154500 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Breaking Barriers</title>
 </programme>
 <programme start="20261008154500 +0000" stop="20261008160000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Summer Sessions</title>
+    <title>Player Spotlight - Wayne Rooney: Exclusive Interview</title>
 </programme>
 <programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="MUTV.virginmediatv">
     <title>Leadership: Sir Alex Ferguson</title>
@@ -4907,7 +4910,7 @@
     <title>Live: Korea Championship, LET Golf - Day 1</title>
 </programme>
 <programme start="20261008110000 +0000" stop="20261008140000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Live Tennis - ATP Shanghai Masters &amp; WTA China Open</title>
+    <title>Live Tennis: ATP Shanghai Masters 2026 - Day 2</title>
 </programme>
 <programme start="20261008140000 +0000" stop="20261008160000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Sports Desk</title>
@@ -4963,7 +4966,10 @@
 <programme start="20261008041500 +0000" stop="20261008043000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>My Icon - Ryan Atkin</title>
 </programme>
-<programme start="20261008043000 +0000" stop="20261008083000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20261008043000 +0000" stop="20261008050000 +0000" channel="Sky_Sports_Mix.virginmediatv">
+    <title>Live: Korea Championship, LET Golf - Day 1</title>
+</programme>
+<programme start="20261008050000 +0000" stop="20261008083000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: Korea Championship, LET Golf - Day 1</title>
 </programme>
 <programme start="20261008120000 +0000" stop="20261008130000 +0000" channel="Sky_Sports_Mix.virginmediatv">
@@ -7667,7 +7673,7 @@
     <title>Vasudha - Episode 346</title>
 </programme>
 <programme start="20261008023000 +0000" stop="20261008030000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 365</title>
+    <title>Tum Se Tum Tak - Episode 455</title>
 </programme>
 <programme start="20261008030000 +0000" stop="20261008033000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 376</title>
@@ -7676,7 +7682,7 @@
     <title>Lakshmi Nivas - Episode 266</title>
 </programme>
 <programme start="20261008043000 +0000" stop="20261008050000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 365</title>
+    <title>Tum Se Tum Tak - Episode 455</title>
 </programme>
 <programme start="20261008050000 +0000" stop="20261008053000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 376</title>
@@ -7691,7 +7697,7 @@
     <title>Humari Radha - Episode 58</title>
 </programme>
 <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 365</title>
+    <title>Tum Se Tum Tak - Episode 455</title>
 </programme>
 <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 376</title>
