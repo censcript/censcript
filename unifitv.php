@@ -603,8 +603,6 @@
     <title lang="en">Renovation Nation (Ulangan)</title>
     <desc lang="en">Sebuah majalah yang memaparkan pengubahsuaian semula hartanah yang hampir runtuh.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261007160000 +0000" stop="20261007163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -615,50 +613,36 @@
     <title lang="en">Terlanjur Mencintaimu SR.2 (Ulangan)</title>
     <desc lang="en">Drama bersiri kekeluargaan, suka duka, perebutan kuasa,cinta dan dendam.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="tv1.unifitv">
     <title lang="en">Diaspora Melayu (Ulangan)</title>
     <desc lang="en">Rancangan yang memaparkan kehidupan individu berbangsa melayu yang mempunyai karier di serata dunia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="tv1.unifitv">
     <title lang="en">Peduli Tukun (Ulangan)</title>
     <desc lang="en">Program ini memaparkan usaha pemuliharaan laut, khususnya terumbu karang, serta peranan agensi berkaitan dalam memelihara ekosistem dan sumber marin negara.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261007190000 +0000" stop="20261007193000 +0000" channel="tv1.unifitv">
-    <title lang="en">Sekoci</title>
-    <desc lang="en">Program majalah warisan dan budaya yang mengupas tentang baju tradisional dan menemui tukang-tukang mahir tradisional dalam  kemahiran masing-masing.</desc>
+    <title lang="en">Desaria (Ulangan)</title>
+    <desc lang="en">Program jalan-jalan bersama pengacara Ropi Cecupak .</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261007193000 +0000" stop="20261007203000 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261007203000 +0000" stop="20261007210000 +0000" channel="tv1.unifitv">
     <title lang="en">Orang Minyak (Ulangan)</title>
     <desc lang="en">Sebuah drama sitkom yang memaparkan kehidupan seharian Pak Wahab serta pekerjanya Rahmat dan Chun yang turut menguruskan kedai serbaneka di stesen minyak Sini.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261007210000 +0000" stop="20261007213500 +0000" channel="tv1.unifitv">
     <title lang="en">Warna-Warni Asia (Ulangan)</title>
     <desc lang="en">Sebuah rancangan yang membawa anda menerokai keindahan dan keunikan tempat-tempat menarik di Asia</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261007213500 +0000" stop="20261007220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al-Waqiah (2026)</title>
@@ -666,7 +650,7 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261007220200 +0000" stop="20261007230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fikrah 2026</title>
+    <title lang="en">Fikrah 2026 (Ulangan)</title>
     <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -685,22 +669,15 @@
     <desc lang="en">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261008020000 +0000" stop="20261008040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Langsung Dari Parlimen</title>
-    <desc lang="en">Langsung Dari Parlimen</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261008040000 +0000" stop="20261008040500 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BERITA SEMASA</title>
-    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
+  <programme start="20261008020000 +0000" stop="20261008040500 +0000" channel="tv1.unifitv">
+    <title lang="en">LANGSUNG DARI PARLIMEN</title>
+    <desc lang="en">Ikuti Mesyuarat Ketiga, Penggal Kelima, Parlimen Malaysia ke-15. Siaran Langsung Dewan Rakyat pada 05 Oktober 2026 hingga 08 Disember 2026 dan Dewan Negara pada 30 November 2026 hingga 22 Disember 2026.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008040500 +0000" stop="20261008050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Epic Safari Encounters &amp; Destination</title>
-    <desc lang="en">Program majalah dengan melawat beberapa destinasi safari yang menarik di Zimbabwe dan Afrika dengan disertai oleh pegawai safari sebagai jurupandu. Hos: Kristina Guberman</desc>
+    <title lang="en">Epic Safari Encounters &amp; Destination (Ulangan)</title>
+    <desc lang="en">Program majalah dengan melawat beberapa destinasi safari yang menarik di Zimbabwe dan Afrika dengan disertai oleh pegawai safari sebagai jurupandu.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20261008050000 +0000" stop="20261008053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -708,21 +685,14 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008053000 +0000" stop="20261008063000 +0000" channel="tv1.unifitv">
-    <title lang="en">Terlanjur Mencintaimu Siri 2</title>
-    <desc lang="en">Amir Haziq, seorang pemuda berpendidikan tinggi yang berhasrat meneruskan projek perladangan di kampungnya. Namun, kehidupannya berubah apabila dia terpaksa berkahwin dengan gadis pilihan datuknya, selain berdepan cabaran sebagai individu ASD yang sering disalahfahami dan dibuli.
-
-Pelakon : Saharul Ridzwan, Aisyah Azman, Azam Pitt, Nisha Dirr, Aznah Hamid, Meor Mohd, Dato’ Tamimi Siregar, Kuna, Reen Rahim, Rahim Jailani dan Liza
-Abdullah.</desc>
+    <title lang="en">Terlanjur Mencintaimu SR.2 (Ulangan)</title>
+    <desc lang="en">Drama bersiri kekeluargaan, suka duka, perebutan kuasa,cinta dan dendam.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">1.6.</episode-num>
-    <episode-num system="onscreen">S2E7</episode-num>
   </programme>
   <programme start="20261008063000 +0000" stop="20261008070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Orang Minyak</title>
-    <desc lang="en">Sitkom yang memaparkan kehidupan seharian Pak Wahab serta pekerjanya, Rahmat dan Chun yang turut menguruskan kedai serbaneka di stesen minyak. Pelakon: Nicole Jay, Issey Fadlisham, Ebby Yus dan Sathiya.</desc>
+    <title lang="en">Orang Minyak (Ulangan)</title>
+    <desc lang="en">Sebuah drama sitkom yang memaparkan kehidupan seharian Pak Wahab serta pekerjanya Rahmat dan Chun yang turut menguruskan kedai serbaneka di stesen minyak Sini.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261008070000 +0000" stop="20261008070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -730,7 +700,7 @@ Abdullah.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008070500 +0000" stop="20261008080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Diari Rawat 2026</title>
+    <title lang="en">Diari Rawat 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -740,14 +710,12 @@ Abdullah.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008080500 +0000" stop="20261008083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Satu Sentuhan</title>
+    <title lang="en">Satu Sentuhan (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang memaparkan usaha mengitar semula barangan terpakai bagi menghasilkan perkakasan dengan kegunaan yang baru.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20261008083000 +0000" stop="20261008090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Biz Malaysia 2026</title>
+    <title lang="en">Biz Malaysia 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -757,18 +725,14 @@ Abdullah.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008100000 +0000" stop="20261008104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dengarlah Dulu......</title>
+    <title lang="en">Dengarlah Dulu.. (Ulangan)</title>
     <desc lang="en">Dengarlah Dulu... ialah program bual bicara yang mengupas pelbagai isu kehidupan, kekeluargaan dan kemasyarakatan dari perspektif Islam. Dengan pendekatan santai dan penuh hikmah, program ini mengajak penonton memahami sesuatu perkara sebelum membuat penilaian atau keputusan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008104500 +0000" stop="20261008114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Demi</title>
-    <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.
-
-Pelakon : Puteri Aishah, Ashraf Muslim, Keith Foo, Ika Nabella, Puteri Rayyana Rayaa, Dato’ Jalaluddin Hassan, Safura Ya’cob, Riz Amin dan Hasnul Rahmat</desc>
+    <title lang="en">Demi (Ulangan)</title>
+    <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261008114400 +0000" stop="20261008120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -786,17 +750,14 @@ Pelakon : Puteri Aishah, Ashraf Muslim, Keith Foo, Ika Nabella, Puteri Rayyana R
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008124500 +0000" stop="20261008153000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Majlis Tilawah Dan Hafazan Al-Quran Peringkat Antarabangsa Ke-66</title>
-    <desc lang="en">Siaran Langsung : Majlis Tilawah Dan Hafazan Al-Quran Peringkat Antarabangsa Ke-66</desc>
+    <title lang="en">LIVE : MAJLIS TILAWAH DAN HAFAZAN AL-QURAN PERINGKAT ANTARABANGSA 1448H/2026M</title>
+    <desc lang="en">Saksikan Majlis Tilawah &amp; Hafazan Al-Quran Peringkat Antarabangsa 1448H/2026M.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261008153000 +0000" stop="20261008160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Renovation Nation</title>
-    <desc lang="en">Sebuah majalah yang  memaparkan pengubahsuaian  semula hartanah yang hampir 
-runtuh.</desc>
+    <title lang="en">Renovation Nation (Ulangan)</title>
+    <desc lang="en">Sebuah majalah yang memaparkan pengubahsuaian semula hartanah yang hampir runtuh.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -12438,7 +12399,7 @@ runtuh.</desc>
   </programme>
   <programme start="20261007193300 +0000" stop="20261007200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">What did Netanyahu know about Oct 7th before it happened? Plus, filmed from birth, monetised for millions - the family influencer industry.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.35.</episode-num>
     <episode-num system="onscreen">S1E36</episode-num>
@@ -12482,8 +12443,10 @@ runtuh.</desc>
   </programme>
   <programme start="20261008010300 +0000" stop="20261008020300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Al Jazeera's journalists risk everything to cover the start of Israel's war on Gaza led by bureau chief Wael al Dahdouh, even when he loses his closest family.</desc>
+    <desc lang="en">The forgotten story of the football team played under the name of Palestine in the 1930s and 40s but without any Arab Palestinian players.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.417.</episode-num>
+    <episode-num system="onscreen">S1E418</episode-num>
   </programme>
   <programme start="20261008020300 +0000" stop="20261008030300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Newshour</title>
@@ -12548,7 +12511,7 @@ runtuh.</desc>
   </programme>
   <programme start="20261008083300 +0000" stop="20261008090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Host Steve Clemons speaks with Alan Eyre, a former U.S. diplomat involved in previous nuclear talks with Iran.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.39.</episode-num>
     <episode-num system="onscreen">S1E40</episode-num>
@@ -12582,7 +12545,7 @@ runtuh.</desc>
   </programme>
   <programme start="20261008120300 +0000" stop="20261008130300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Let's Focus</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <desc lang="en">Republican strategist Rina Shah and former Trump White House aide Emma Doyle join Josh Rushing to debate what's left of MAGA once Trump is gone.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
