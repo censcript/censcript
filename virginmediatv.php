@@ -7571,10 +7571,10 @@
     <title>Children&#039;s Rosary - Luminous Mysteries</title>
 </programme>
 <programme start="20261008160000 +0000" stop="20261008171500 +0000" channel="EWTN.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Holy Mass For the Inauguration of The Academic Year</title>
 </programme>
 <programme start="20261008171500 +0000" stop="20261008173000 +0000" channel="EWTN.virginmediatv">
-    <title>Art of Faith with Fr. Patrick Van Der Vorst - Did Baroque Go Too Far? Rubens at the Wallace Collection</title>
+    <title>Art of Faith With Fr. Patrick Van Der Vorst - Did Baroque Go Too Far -- Rubens at the Wallace Collection</title>
 </programme>
 <programme start="20261008173000 +0000" stop="20261008180000 +0000" channel="EWTN.virginmediatv">
     <title>At Home With Jim and Joy - Catherine Moran, Osf, Pt. 1</title>

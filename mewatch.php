@@ -757,13 +757,13 @@
     <programme start="20261008160000 +0000" stop="20261009110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 9th October, Friday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20261007160000 +0000" stop="20261008113000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 8th October, Thursday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC</title>
+    <programme start="20261007160000 +0000" stop="20261008110100 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 8th October, Thursday 7.01pm. ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC</title>
     </programme>
-    <programme start="20261008113000 +0000" stop="20261008133000 +0000" channel="Live 2.mewatch">
+    <programme start="20261008110100 +0000" stop="20261008134500 +0000" channel="Live 2.mewatch">
         <title>ASEAN Shopee Cup™ 2026/2027: Lion City Sailors FC vs Cong An Ha Noi FC</title>
     </programme>
-    <programme start="20261008133000 +0000" stop="20261008160000 +0000" channel="Live 2.mewatch">
+    <programme start="20261008134500 +0000" stop="20261008160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 18th November, Wednesday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
     </programme>
     <programme start="20261008160000 +0000" stop="20261009160000 +0000" channel="Live 2.mewatch">

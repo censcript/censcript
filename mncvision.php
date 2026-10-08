@@ -2213,112 +2213,112 @@
     <title>Global Business</title>
 </programme>
 <programme start="20261007170000 +0000" stop="20261007173000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The History Of Vision, Ep 3</title>
 </programme>
 <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Classics Of Chinese..., Ep 1</title>
 </programme>
 <programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Find Me Beyond The Kitchen</title>
 </programme>
 <programme start="20261007190000 +0000" stop="20261007193000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Choice Of Gen Z S2, Ep 6</title>
 </programme>
 <programme start="20261007193000 +0000" stop="20261007200000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Sichuan Zhuqin</title>
 </programme>
 <programme start="20261007200000 +0000" stop="20261007210000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Baishanzu</title>
 </programme>
 <programme start="20261007210000 +0000" stop="20261007213000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>China In A Backpack, Ep 4</title>
 </programme>
 <programme start="20261007213000 +0000" stop="20261007220000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Inside Musee Hoangho..., Ep 3</title>
 </programme>
 <programme start="20261007220000 +0000" stop="20261007230000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>General Guan Yu, Ep 2</title>
 </programme>
 <programme start="20261007230000 +0000" stop="20261007233000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The History Of Vision, Ep 4</title>
 </programme>
 <programme start="20261007233000 +0000" stop="20261008000000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Brilliance Of Linchuan, Ep 1</title>
 </programme>
 <programme start="20261008000000 +0000" stop="20261008010000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search Of Shunde, Ep 1</title>
 </programme>
 <programme start="20261008010000 +0000" stop="20261008013000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Innovation Of China</title>
 </programme>
 <programme start="20261008013000 +0000" stop="20261008020000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Yangliuqing New Year...</title>
 </programme>
 <programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Baishanzu</title>
 </programme>
 <programme start="20261008030000 +0000" stop="20261008033000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>China In A Backpack, Ep 4</title>
 </programme>
 <programme start="20261008033000 +0000" stop="20261008040000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Inside Musee Hoangho..., Ep 3</title>
 </programme>
 <programme start="20261008040000 +0000" stop="20261008050000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>General Guan Yu, Ep 2</title>
 </programme>
 <programme start="20261008050000 +0000" stop="20261008053000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The History Of Vision, Ep 4</title>
 </programme>
 <programme start="20261008053000 +0000" stop="20261008060000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Brilliance Of Linchuan, Ep 1</title>
 </programme>
 <programme start="20261008060000 +0000" stop="20261008070000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search Of Shunde, Ep 1</title>
 </programme>
 <programme start="20261008070000 +0000" stop="20261008073000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Innovation Of China</title>
 </programme>
 <programme start="20261008073000 +0000" stop="20261008080000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Yangliuqing New Year...</title>
 </programme>
 <programme start="20261008080000 +0000" stop="20261008090000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Baishanzu</title>
 </programme>
 <programme start="20261008090000 +0000" stop="20261008093000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>China In A Backpack, Ep 4</title>
 </programme>
 <programme start="20261008093000 +0000" stop="20261008100000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Inside Musee Hoangho..., Ep 3</title>
 </programme>
 <programme start="20261008100000 +0000" stop="20261008110000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>General Guan Yu, Ep 2</title>
 </programme>
 <programme start="20261008110000 +0000" stop="20261008113000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The History Of Vision, Ep 4</title>
 </programme>
 <programme start="20261008113000 +0000" stop="20261008120000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Brilliance Of Linchuan, Ep 1</title>
 </programme>
 <programme start="20261008120000 +0000" stop="20261008130000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>In Search Of Shunde, Ep 1</title>
 </programme>
 <programme start="20261008130000 +0000" stop="20261008133000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>The Innovation Of China</title>
 </programme>
 <programme start="20261008133000 +0000" stop="20261008140000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Yangliuqing New Year...</title>
 </programme>
 <programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Baishanzu</title>
 </programme>
 <programme start="20261008150000 +0000" stop="20261008153000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>China In A Backpack, Ep 4</title>
 </programme>
 <programme start="20261008153000 +0000" stop="20261008160000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>Inside Musee Hoangho..., Ep 3</title>
 </programme>
 <programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="CGTN Documentary.mncvision">
-    <title>CGTN Documentary</title>
+    <title>General Guan Yu, Ep 2</title>
 </programme>
 <programme start="20261007170000 +0000" stop="20261007180000 +0000" channel="Channel News Asia.mncvision">
     <title>War At The Gardens, Ep 2</title>
@@ -3004,22 +3004,10 @@
 <programme start="20261008030000 +0000" stop="20261008030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261008030200 +0000" stop="20261008031500 +0000" channel="DW English.mncvision">
+<programme start="20261008030200 +0000" stop="20261008033000 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
-<programme start="20261008031500 +0000" stop="20261008033000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: The Art World</title>
-</programme>
-<programme start="20261008033000 +0000" stop="20261008040000 +0000" channel="DW English.mncvision">
-    <title>Eco India: Climate Solutions</title>
-</programme>
-<programme start="20261008040000 +0000" stop="20261008040200 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
-</programme>
-<programme start="20261008040200 +0000" stop="20261008041500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus</title>
-</programme>
-<programme start="20261008041500 +0000" stop="20261008050000 +0000" channel="DW English.mncvision">
+<programme start="20261008033000 +0000" stop="20261008050000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
 <programme start="20261008050000 +0000" stop="20261008050200 +0000" channel="DW English.mncvision">
@@ -3034,11 +3022,8 @@
 <programme start="20261008060000 +0000" stop="20261008060200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261008060200 +0000" stop="20261008061500 +0000" channel="DW English.mncvision">
+<programme start="20261008060200 +0000" stop="20261008063000 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
-</programme>
-<programme start="20261008061500 +0000" stop="20261008063000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: The Art World</title>
 </programme>
 <programme start="20261008063000 +0000" stop="20261008070000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
@@ -3046,23 +3031,38 @@
 <programme start="20261008070000 +0000" stop="20261008070300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261008070300 +0000" stop="20261008080000 +0000" channel="DW English.mncvision">
+<programme start="20261008070300 +0000" stop="20261008083000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
-</programme>
-<programme start="20261008080000 +0000" stop="20261008080200 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
-</programme>
-<programme start="20261008080200 +0000" stop="20261008083000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
 </programme>
 <programme start="20261008083000 +0000" stop="20261008090000 +0000" channel="DW English.mncvision">
     <title>Focus On Europe: Switzerland</title>
 </programme>
-<programme start="20261008090000 +0000" stop="20261008090200 +0000" channel="DW English.mncvision">
+<programme start="20261008090000 +0000" stop="20261008090300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261008090200 +0000" stop="20261008093200 +0000" channel="DW English.mncvision">
+<programme start="20261008090300 +0000" stop="20261008091700 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
+</programme>
+<programme start="20261008091700 +0000" stop="20261008100000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20261008100000 +0000" stop="20261008100200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261008100200 +0000" stop="20261008101500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20261008101500 +0000" stop="20261008110000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20261008110000 +0000" stop="20261008110300 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261008110300 +0000" stop="20261008113000 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20261008113000 +0000" stop="20261008120000 +0000" channel="DW English.mncvision">
+    <title>Focus On Europe: Switzerland</title>
 </programme>
 <programme start="20261007180000 +0000" stop="20261007190000 +0000" channel="Entertainment.mncvision">
     <title>Konon Katanya</title>
@@ -6307,16 +6307,13 @@
 <programme start="20261007233000 +0000" stop="20261008003000 +0000" channel="Muslim TV.mncvision">
     <title>Ayat-Ayat Langit</title>
 </programme>
-<programme start="20261008003000 +0000" stop="20261008013000 +0000" channel="Muslim TV.mncvision">
+<programme start="20261008003000 +0000" stop="20261008020000 +0000" channel="Muslim TV.mncvision">
+    <title>Haji Ji Ong</title>
+</programme>
+<programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="Muslim TV.mncvision">
     <title>Kun Anta Mendadak Santri</title>
 </programme>
-<programme start="20261008013000 +0000" stop="20261008020000 +0000" channel="Muslim TV.mncvision">
-    <title>Hijrah Traveler</title>
-</programme>
-<programme start="20261008020000 +0000" stop="20261008031500 +0000" channel="Muslim TV.mncvision">
-    <title>Jangan Bercerai Bunda</title>
-</programme>
-<programme start="20261008031500 +0000" stop="20261008041500 +0000" channel="Muslim TV.mncvision">
+<programme start="20261008030000 +0000" stop="20261008041500 +0000" channel="Muslim TV.mncvision">
     <title>Amanah Wali S4</title>
 </programme>
 <programme start="20261008041500 +0000" stop="20261008053000 +0000" channel="Muslim TV.mncvision">
@@ -6347,7 +6344,7 @@
     <title>Jangan Bercerai Bunda</title>
 </programme>
 <programme start="20261008140000 +0000" stop="20261008150000 +0000" channel="Muslim TV.mncvision">
-    <title>99 Nama Cinta</title>
+    <title>Kantini D&#039;Hijabers</title>
 </programme>
 <programme start="20261008150000 +0000" stop="20261008163000 +0000" channel="Muslim TV.mncvision">
     <title>Jodoh Gue Ustadz Ganteng</title>
@@ -7735,40 +7732,43 @@
 <programme start="20261007220000 +0000" stop="20261007230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261007230000 +0000" stop="20261008000000 +0000" channel="SCTV.mncvision">
+<programme start="20261007230000 +0000" stop="20261008001100 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20261008000000 +0000" stop="20261008010000 +0000" channel="SCTV.mncvision">
+<programme start="20261008001100 +0000" stop="20261008011700 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261008010000 +0000" stop="20261008030000 +0000" channel="SCTV.mncvision">
-    <title>Cewek Jetset Kadang Bikin...</title>
+<programme start="20261008011700 +0000" stop="20261008030000 +0000" channel="SCTV.mncvision">
+    <title>Hey You! Kamu Terlalu Uwu</title>
 </programme>
-<programme start="20261008030000 +0000" stop="20261008050000 +0000" channel="SCTV.mncvision">
-    <title>Tutor Dapat Restu Mami Pliss</title>
+<programme start="20261008030000 +0000" stop="20261008045400 +0000" channel="SCTV.mncvision">
+    <title>Tolong Naikin Gaji Asisten...</title>
 </programme>
-<programme start="20261008050000 +0000" stop="20261008053000 +0000" channel="SCTV.mncvision">
+<programme start="20261008045400 +0000" stop="20261008053000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261008053000 +0000" stop="20261008090000 +0000" channel="SCTV.mncvision">
+<programme start="20261008053000 +0000" stop="20261008060000 +0000" channel="SCTV.mncvision">
+    <title>Bicara Bersama Retno Pinasti</title>
+</programme>
+<programme start="20261008060000 +0000" stop="20261008090000 +0000" channel="SCTV.mncvision">
     <title>Samudra Cinta</title>
 </programme>
 <programme start="20261008090000 +0000" stop="20261008100000 +0000" channel="SCTV.mncvision">
     <title>Istri Satu-Satunya</title>
 </programme>
-<programme start="20261008100000 +0000" stop="20261008111500 +0000" channel="SCTV.mncvision">
+<programme start="20261008100000 +0000" stop="20261008112400 +0000" channel="SCTV.mncvision">
     <title>Putri Pewaris</title>
 </programme>
-<programme start="20261008111500 +0000" stop="20261008130000 +0000" channel="SCTV.mncvision">
+<programme start="20261008112400 +0000" stop="20261008130000 +0000" channel="SCTV.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261008130000 +0000" stop="20261008143000 +0000" channel="SCTV.mncvision">
+<programme start="20261008130000 +0000" stop="20261008142600 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261008143000 +0000" stop="20261008160000 +0000" channel="SCTV.mncvision">
+<programme start="20261008142600 +0000" stop="20261008155400 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="SCTV.mncvision">
+<programme start="20261008155400 +0000" stop="20261008162400 +0000" channel="SCTV.mncvision">
     <title>Asisten Rumah Tangga Tercinta</title>
 </programme>
 <programme start="20261007173000 +0000" stop="20261007184500 +0000" channel="SCTV HD.mncvision">
@@ -7789,40 +7789,43 @@
 <programme start="20261007220000 +0000" stop="20261007230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261007230000 +0000" stop="20261008000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261007230000 +0000" stop="20261008001100 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20261008000000 +0000" stop="20261008010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008001100 +0000" stop="20261008011700 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261008010000 +0000" stop="20261008030000 +0000" channel="SCTV HD.mncvision">
-    <title>Cewek Jetset Kadang Bikin...</title>
+<programme start="20261008011700 +0000" stop="20261008030000 +0000" channel="SCTV HD.mncvision">
+    <title>Hey You! Kamu Terlalu Uwu</title>
 </programme>
-<programme start="20261008030000 +0000" stop="20261008050000 +0000" channel="SCTV HD.mncvision">
-    <title>Tutor Dapat Restu Mami Pliss</title>
+<programme start="20261008030000 +0000" stop="20261008045400 +0000" channel="SCTV HD.mncvision">
+    <title>Tolong Naikin Gaji Asisten...</title>
 </programme>
-<programme start="20261008050000 +0000" stop="20261008053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008045400 +0000" stop="20261008053000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261008053000 +0000" stop="20261008090000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008053000 +0000" stop="20261008060000 +0000" channel="SCTV HD.mncvision">
+    <title>Bicara Bersama Retno Pinasti</title>
+</programme>
+<programme start="20261008060000 +0000" stop="20261008090000 +0000" channel="SCTV HD.mncvision">
     <title>Samudra Cinta</title>
 </programme>
 <programme start="20261008090000 +0000" stop="20261008100000 +0000" channel="SCTV HD.mncvision">
     <title>Istri Satu-Satunya</title>
 </programme>
-<programme start="20261008100000 +0000" stop="20261008111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008100000 +0000" stop="20261008112400 +0000" channel="SCTV HD.mncvision">
     <title>Putri Pewaris</title>
 </programme>
-<programme start="20261008111500 +0000" stop="20261008130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008112400 +0000" stop="20261008130000 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261008130000 +0000" stop="20261008143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008130000 +0000" stop="20261008142600 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261008143000 +0000" stop="20261008160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008142600 +0000" stop="20261008155400 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261008160000 +0000" stop="20261008163000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261008155400 +0000" stop="20261008162400 +0000" channel="SCTV HD.mncvision">
     <title>Asisten Rumah Tangga Tercinta</title>
 </programme>
 <programme start="20261007173000 +0000" stop="20261007180000 +0000" channel="Sindo News TV.mncvision">

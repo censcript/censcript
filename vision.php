@@ -35,10 +35,10 @@
 <title>Putu Bikin I Love You</title>
 </programme>
 <programme start="20261008183000 +0000" stop="20261008190000 +0000" channel="RCTI.vision">
-<title>Jodoh Warisan Tante</title>
+<title>RCTI</title>
 </programme>
 <programme start="20261008190000 +0000" stop="20261008200000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
+<title>RCTI</title>
 </programme>
 <programme start="20261008200000 +0000" stop="20261008221500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -633,9 +633,6 @@
 </programme>
 <programme start="20261008010000 +0000" stop="20261008023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261008023000 +0000" stop="20261008060000 +0000" channel="ANTV.vision">
-<title>Mohabbatein</title>
 </programme>
 <programme start="20261008060000 +0000" stop="20261008073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261008070000 +0000" stop="20261008070300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261008070300 +0000" stop="20261008080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn</title>
 </programme>

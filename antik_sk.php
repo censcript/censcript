@@ -1177,8 +1177,14 @@
   <programme start="20261010044000 +0000" stop="20261010065500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20261010065500 +0000" stop="20261010135000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261010065500 +0000" stop="20261010090000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
+  </programme>
+  <programme start="20261010090000 +0000" stop="20261010112500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga ženy</title>
+  </programme>
+  <programme start="20261010112500 +0000" stop="20261010135000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Volejbal - Niké Extraliga ženy</title>
   </programme>
   <programme start="20261010135000 +0000" stop="20261010165000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga ženy</title>
@@ -2695,7 +2701,7 @@
   <programme start="20261010113000 +0000" stop="20261010123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20261010123000 +0000" stop="20261010163000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261010123000 +0000" stop="20261010160000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
   <programme start="20261010163000 +0000" stop="20261010200000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -4738,8 +4744,53 @@
   <programme start="20261009233000 +0000" stop="20261010013000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">WNBA</title>
   </programme>
-  <programme start="20261010013000 +0000" stop="20261010025900 +0000" channel="Sport 1.webtv.sk">
+  <programme start="20261010013000 +0000" stop="20261010033000 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">WNBA</title>
+  </programme>
+  <programme start="20261010033000 +0000" stop="20261010034500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Gianluca Scamacca</title>
+  </programme>
+  <programme start="20261010034500 +0000" stop="20261010040000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Ange-Yoan Bonny</title>
+  </programme>
+  <programme start="20261010040000 +0000" stop="20261010053000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Box: Sugar Ray Robinson ponud for pound</title>
+  </programme>
+  <programme start="20261010053000 +0000" stop="20261010054500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Gianluca Scamacca</title>
+  </programme>
+  <programme start="20261010054500 +0000" stop="20261010060000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Ange-Yoan Bonny</title>
+  </programme>
+  <programme start="20261010060000 +0000" stop="20261010083000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Bordeaux - Dynamo Pardubice</title>
+  </programme>
+  <programme start="20261010083000 +0000" stop="20261010123000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Šipky</title>
+  </programme>
+  <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Zákulisí Serie A, upoutávka magazínu</title>
+  </programme>
+  <programme start="20261010130000 +0000" stop="20261010150000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Janov - Fiorentina</title>
+  </programme>
+  <programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20261010160000 +0000" stop="20261010180000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Inter - Parma</title>
+  </programme>
+  <programme start="20261010180000 +0000" stop="20261010181500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Manuel Locatelli</title>
+  </programme>
+  <programme start="20261010181500 +0000" stop="20261010184500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis, WTA 250, Auckland, sestřih</title>
+  </programme>
+  <programme start="20261010184500 +0000" stop="20261010204500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Neapol - Frosinone</title>
+  </programme>
+  <programme start="20261010204500 +0000" stop="20261010221500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Házená: OTP Bank-Pick Szeged - Sporting</title>
   </programme>
   <programme start="20261009213000 +0000" stop="20261009233000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Lední hokej</title>
@@ -9182,10 +9233,10 @@
     <title lang="id">Dream Journey I (2)</title>
   </programme>
   <programme start="20261010153500 +0000" stop="20261010160000 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">The Antonov Dream V (5)</title>
+    <title lang="id">Blue World V (5)</title>
   </programme>
   <programme start="20261010160000 +0000" stop="20261010162500 +0000" channel="DocuBox.webtv.sk">
-    <title lang="id">The Antonov Dream V (6)</title>
+    <title lang="id">Blue World V (6)</title>
   </programme>
   <programme start="20261010162500 +0000" stop="20261010165000 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Quirky Science (2)</title>
@@ -9235,8 +9286,65 @@
   <programme start="20261010010000 +0000" stop="20261010020000 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">Nite Sides</title>
   </programme>
-  <programme start="20261010020000 +0000" stop="20261010025900 +0000" channel="360 TuneBox.webtv.sk">
+  <programme start="20261010020000 +0000" stop="20261010030000 +0000" channel="360 TuneBox.webtv.sk">
     <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20261010030000 +0000" stop="20261010040000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20261010050000 +0000" stop="20261010060000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20261010060000 +0000" stop="20261010070000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20261010070000 +0000" stop="20261010080000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Fresh Out The Box</title>
+  </programme>
+  <programme start="20261010100000 +0000" stop="20261010110000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261010110000 +0000" stop="20261010120000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261010120000 +0000" stop="20261010130000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Totally Indie</title>
+  </programme>
+  <programme start="20261010130000 +0000" stop="20261010140000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Rough Riff</title>
+  </programme>
+  <programme start="20261010140000 +0000" stop="20261010150000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261010160000 +0000" stop="20261010170000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20261010170000 +0000" stop="20261010180000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261010180000 +0000" stop="20261010190000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261010190000 +0000" stop="20261010200000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261010200000 +0000" stop="20261010210000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Bounce &amp; Fun</title>
+  </programme>
+  <programme start="20261010210000 +0000" stop="20261010220000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Bounce &amp; Fun</title>
   </programme>
   <programme start="20261009215500 +0000" stop="20261009220500 +0000" channel="Disney Channel.webtv.sk">
     <title lang="id">Kluk Holka atd. (150)</title>
@@ -15757,41 +15865,65 @@
   <programme start="20261010094500 +0000" stop="20261010100000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20261010100000 +0000" stop="20261010102700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010100000 +0000" stop="20261010101200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20261010101200 +0000" stop="20261010102700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
   </programme>
   <programme start="20261010102700 +0000" stop="20261010103000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20261010103000 +0000" stop="20261010110000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010103000 +0000" stop="20261010104200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20261010110000 +0000" stop="20261010112700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010104200 +0000" stop="20261010110000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
+  </programme>
+  <programme start="20261010110000 +0000" stop="20261010111200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20261010111200 +0000" stop="20261010112700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
   </programme>
   <programme start="20261010112700 +0000" stop="20261010113000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20261010113000 +0000" stop="20261010120000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010113000 +0000" stop="20261010114400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20261010120000 +0000" stop="20261010122400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010114400 +0000" stop="20261010120000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
+  </programme>
+  <programme start="20261010120000 +0000" stop="20261010120900 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20261010120900 +0000" stop="20261010122400 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
   </programme>
   <programme start="20261010122400 +0000" stop="20261010123000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010123000 +0000" stop="20261010124400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20261010130000 +0000" stop="20261010132700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010124400 +0000" stop="20261010130000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
+  </programme>
+  <programme start="20261010130000 +0000" stop="20261010131200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20261010131200 +0000" stop="20261010132700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
   </programme>
   <programme start="20261010132700 +0000" stop="20261010133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20261010133000 +0000" stop="20261010140000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261010133000 +0000" stop="20261010134200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
+  </programme>
+  <programme start="20261010134200 +0000" stop="20261010140000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Polska na tak</title>
   </programme>
   <programme start="20261010140000 +0000" stop="20261010150000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Dzien w godzine</title>
@@ -17924,7 +18056,7 @@
     <title lang="id">LEGENDES URBAINES</title>
   </programme>
   <programme start="20261009193000 +0000" stop="20261009221000 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">The Voice Senior</title>
+    <title lang="id">The Voice Senior (1)</title>
   </programme>
   <programme start="20261009221000 +0000" stop="20261009221500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
@@ -18029,7 +18161,7 @@
     <title lang="id">Affari tuoi</title>
   </programme>
   <programme start="20261010193000 +0000" stop="20261010215500 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Ballando con le Stelle</title>
+    <title lang="id">Ballando con le Stelle (2)</title>
   </programme>
   <programme start="20261010215500 +0000" stop="20261010215600 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>

@@ -3197,7 +3197,7 @@
   </programme>
   <programme start="20261007163500 +0000" stop="20261007173500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Mystic Nine</title>
-    <desc lang="en">In 1933, a mysterious ghost train arrives in Changsha, prompting military commander Zhang Qishan to investigate a hidden mine containing ancient secrets targeted by Japanese forces. Joining forces with opera singer Er Yue Hong and hotel heiress Yin Xinyue, Qishan and the city's powerful "Mystic Nine" families must navigate deadly underground traps to solve a century-old mystery and protect their nation from invasion.</desc>
+    <desc lang="en">" Mystic Nine" tells the story of Zhang Qishan (William Chan) and Wu Laogou (Joseph Zeng) joining forces with Huo Xiangu (Chen Yao) and the other members of the Nine Gates to embark on an adventure amidst renewed turmoil in Changsha. A mysterious disappearance of Unit 401 uncovers a shocking secret buried for a century. Life-or-death choices, brotherhood, sectarian duty, and national righteousness intertwine. The members of the Nine Gates use their blood and sacrifice to protect their homeland and overcome difficulties together.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -3349,13 +3349,13 @@
   </programme>
   <programme start="20261008063500 +0000" stop="20261008073500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Mystic Nine &amp; What's On Today</title>
-    <desc lang="en">In 1933, a mysterious ghost train arrives in Changsha, prompting military commander Zhang Qishan to investigate a hidden mine containing ancient secrets targeted by Japanese forces. Joining forces with opera singer Er Yue Hong and hotel heiress Yin Xinyue, Qishan and the city's powerful "Mystic Nine" families must navigate deadly underground traps to solve a century-old mystery and protect their nation from invasion.</desc>
+    <desc lang="en">" Mystic Nine" tells the story of Zhang Qishan (William Chan) and Wu Laogou (Joseph Zeng) joining forces with Huo Xiangu (Chen Yao) and the other members of the Nine Gates to embark on an adventure amidst renewed turmoil in Changsha. A mysterious disappearance of Unit 401 uncovers a shocking secret buried for a century. Life-or-death choices, brotherhood, sectarian duty, and national righteousness intertwine. The members of the Nine Gates use their blood and sacrifice to protect their homeland and overcome difficulties together.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261008073500 +0000" stop="20261008080500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Who Heals the Healers?</title>
+    <title lang="en">Who Heals the Healers</title>
     <desc lang="en">Doctors have said "You're sick" countless times, but rarely have they heard it said to themselves. The news department's Fang Dongsheng team is out in force again, still searching for the "patient" who least resembles a patient—the doctor. They are usually quick, decisive, and accurate in their actions, accustomed to life and death, but when the roles are reversed, becoming patients or caregivers on the sickbed, they too experience avoidance and anxiety. The gods in the public eye are ultimately just ordinary people. How do doctors who save others save themselves? The new program, "Doctor, Are You Sick?", delves into the difficult reality of doctors' lives, examining their vulnerability and struggles, and revealing the most authentic, flesh-and-blood human stories behind the white coats.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
@@ -3417,13 +3417,13 @@
   </programme>
   <programme start="20261008133500 +0000" stop="20261008143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Mystic Nine</title>
-    <desc lang="en">In 1933, a mysterious ghost train arrives in Changsha, prompting military commander Zhang Qishan to investigate a hidden mine containing ancient secrets targeted by Japanese forces. Joining forces with opera singer Er Yue Hong and hotel heiress Yin Xinyue, Qishan and the city's powerful "Mystic Nine" families must navigate deadly underground traps to solve a century-old mystery and protect their nation from invasion.</desc>
+    <desc lang="en">" Mystic Nine" tells the story of Zhang Qishan (William Chan) and Wu Laogou (Joseph Zeng) joining forces with Huo Xiangu (Chen Yao) and the other members of the Nine Gates to embark on an adventure amidst renewed turmoil in Changsha. A mysterious disappearance of Unit 401 uncovers a shocking secret buried for a century. Life-or-death choices, brotherhood, sectarian duty, and national righteousness intertwine. The members of the Nine Gates use their blood and sacrifice to protect their homeland and overcome difficulties together.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261008143500 +0000" stop="20261008150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Who Heals the Healers?</title>
+    <title lang="en">Who Heals the Healers</title>
     <desc lang="en">Doctors have said "You're sick" countless times, but rarely have they heard it said to themselves. The news department's Fang Dongsheng team is out in force again, still searching for the "patient" who least resembles a patient—the doctor. They are usually quick, decisive, and accurate in their actions, accustomed to life and death, but when the roles are reversed, becoming patients or caregivers on the sickbed, they too experience avoidance and anxiety. The gods in the public eye are ultimately just ordinary people. How do doctors who save others save themselves? The new program, "Doctor, Are You Sick?", delves into the difficult reality of doctors' lives, examining their vulnerability and struggles, and revealing the most authentic, flesh-and-blood human stories behind the white coats.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
@@ -14794,9 +14794,49 @@
     <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261008060000 +0000" stop="20261008153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261008060000 +0000" stop="20261008083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 317: Topuria vs Oliveira</title>
     <desc lang="en">UFC International Fight Week 2025 concludes with a stacked card that features a highly anticipated bout between Brazilian superstar Charles Oliveira and undefeated former featherweight king Ilia Topuria for the vacant Lightweight crown. Plus Ajexandre Pantoja defends his flyweight belt against Kai Kara-France and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008083000 +0000" stop="20261008090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 4 - 10</title>
+    <desc lang="en">Program pencarian bakat bola sepak yang hebat diteruskan lagi dengan Musim Ke-4. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008090000 +0000" stop="20261008093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 28</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008093000 +0000" stop="20261008100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - 1101 - Gaethje vs Holloway</title>
+    <desc lang="en">UFC 300 was not only a milestone event for the world's leading MMA organization but featured a highly anticipated bout between Justin Gaethje and Max Holloway as they battled for the “BMF” belt and the title of the “baddest” fighter on the planet. See their fight like never seen before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008100000 +0000" stop="20261008123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 318: Holloway vs Poirier 3</title>
+    <desc lang="en">It's a memorable night in New Orleans, Louisiana, when Lafayette native Dustin Poirier makes his final walk to the Octagon, hoping to go three for three against Max Holloway, with the BMF title on the line. This one for the history books and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008123000 +0000" stop="20261008130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1003 - Ultimate Knockouts "Hispanic Heritage Month 2023</title>
+    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008130000 +0000" stop="20261008135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 315: Muhammad vs Della Maddalena</title>
+    <desc lang="en">UFC 315 Countdown takes an inside look at two title fights, as welterweight king Belal Muhammad attempts to defend his crown against Jack Della Maddalena, and flyweight queen Valentina Shevchenko puts her belt on the line against Manon Fiorot.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008135500 +0000" stop="20261008140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA HISTORIC MOMENTS - GERARD PIQUE'S RETIREMENT</title>
+    <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261008140000 +0000" stop="20261008190000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC 332: Silva vs. Wang - Main</title>
+    <desc lang="en">UFC returns to Delta Center in Salt Lake City, Utah for UFC 332 headlined by a clash for the vacant UFC women's flyweight title between Natalia Silva and “The Joker” Wang Cong. The No.1 contender Silva enters having won each of her first eight UFC appearances and 14 consecutive contests overall, a run that includes victories over top contender Jasmine Jasudavicius and former UFC champions Jessica Andrade, Alexa Grasso, and Rose Namajunas. Fighting out of Liaoning Province, China, Wang arrives having won four straight and five of six appearances inside the Octagon, most recently defeating Tracy Cortez at UFC 329.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -14876,7 +14916,7 @@
     <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20261007170500 +0000" stop="20261007180000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog - Ep2</title>
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
     <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -14896,7 +14936,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261008020000 +0000" stop="20261008030000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog - Ep4</title>
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
     <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <category lang="en">Motorsports</category>
   </programme>
