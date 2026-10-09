@@ -4503,15 +4503,20 @@
   <channel id="zeethirai.unifitv">
     <display-name>Zee Thirai</display-name>
   </channel>
-  <programme start="20261008130000 +0000" stop="20261008163000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261008130000 +0000" stop="20261008164000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Mirch Masala</title>
-    <desc lang="en">Movie Mirch Masala</desc>
-    <category lang="en">Thriller</category>
+    <desc lang="en">Varala, a jobless young man, leaves his home to prove himself to his father. However, before achieving his goal, he falls in love with Sameera and tries to woo and save her from gangster Biju.</desc>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261008163000 +0000" stop="20261008183000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261008164000 +0000" stop="20261008181900 +0000" channel="zeethirai.unifitv">
     <title lang="en">Puppy</title>
     <desc lang="en">The life of a college student changes when he finds out that his girlfriend is pregnant. He tries to find a way to communicate the news to his family.</desc>
     <category lang="en">Romance</category>
+  </programme>
+  <programme start="20261008181900 +0000" stop="20261008183000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261008183000 +0000" stop="20261008190000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>
@@ -4523,20 +4528,25 @@
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261008193000 +0000" stop="20261008200000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261008193000 +0000" stop="20261008195700 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261008200000 +0000" stop="20261008223000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261008195700 +0000" stop="20261008220900 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kalavani 2</title>
     <desc lang="en">Arivazhagan files his candidature for the panchayat elections hoping to profit from the two competing parties, comprising of his uncle and his lady-love's father.</desc>
     <category lang="en">Comedy</category>
   </programme>
+  <programme start="20261008220900 +0000" stop="20261008223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
   <programme start="20261008223000 +0000" stop="20261009003000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Kottukali</title>
+    <title lang="en">Kottukkaali</title>
     <desc lang="en">A young woman rejects her arranged marriage for the man she loves from a lower caste. Her shocked family takes her to a seer, believing she is under a spell.</desc>
-    <category lang="en">Family</category>
+    <category lang="en">Drama</category>
   </programme>
   <programme start="20261009003000 +0000" stop="20261009030000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Miss India</title>
@@ -4544,26 +4554,26 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20261009030000 +0000" stop="20261009053000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Trending</title>
-    <desc lang="en">The film is about a vlogging couple that desperately does things to remain as the trending couple. The caption of the film's poster - How far would you go - is suggestive of the same.</desc>
-    <category lang="en">Thriller</category>
-  </programme>
-  <programme start="20261009053000 +0000" stop="20261009083000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Kaaviya Thalaivan</title>
-    <desc lang="en">Two rival artists at Sivadas drama troupe compete in everything they do. While one of them goes on to become successful, the other fails in life.</desc>
+    <title lang="en">Balle Vellaiyathevaa</title>
+    <desc lang="en">Sakthi moves to a new village with his mother, a postmaster. He befriends a childless couple and falls in love with Thanikodi, the daughter of a butcher, despite their differences.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261009083000 +0000" stop="20261009103000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Cocktail</title>
-    <desc lang="en">In a small town, three girls named Vaishali are murdered in one night by a Joker-like figure. Aspiring hero Vikram is entangled in the mystery: will he solve the case and save himself?</desc>
-    <category lang="en">Comedy</category>
+  <programme start="20261009053000 +0000" stop="20261009090000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Mersal</title>
+    <desc lang="en">Maaran, is falsely arrested for the murder of his colleague, Dr Arjun Zachariah. He soon discovers that the real culprit is a lookalike who aims to expose corruption in the medical industry.</desc>
+    <category lang="en">Action</category>
   </programme>
-  <programme start="20261009103000 +0000" stop="20261009130000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Kabadadaari</title>
-    <desc lang="en">A bored traffic cop uncovers chilling skeletons that shake his empty life, leading him to reconnect with a former investigator who once chased the same haunting case.</desc>
+  <programme start="20261009090000 +0000" stop="20261009110000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Ammani</title>
+    <desc lang="en">Salamma, nearing retirement, faces emotional turmoil as her children and tenant reveal their true colors, testing her patience and strength in unexpected ways.</desc>
+    <category lang="en">Family</category>
+  </programme>
+  <programme start="20261009110000 +0000" stop="20261009133000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Smile Man</title>
+    <desc lang="en">A comedy series where a cheerful man spreads joy, laughter, and lighthearted fun in his community.</desc>
     <category lang="en">Crime</category>
   </programme>
-  <programme start="20261009130000 +0000" stop="20261009163000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261009133000 +0000" stop="20261009163000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kolamaavu Kokila</title>
     <desc lang="en">A young girl in Tamil Nadu turns to the local drug gang to save her dying mother, risking danger, loyalty, and her own future dramatically today.</desc>
     <category lang="en">Comedy</category>
@@ -14784,15 +14794,25 @@
     <desc lang="en">Elite cyclists take on one of the sport's most prestigious Grand Tours, battling across challenging stages, mountain climbs, and thrilling finishes for the famous pink jersey.</desc>
     <category lang="en">Cycling</category>
   </programme>
-  <programme start="20261008222500 +0000" stop="20261009003000 +0000" channel="spotv.unifitv">
+  <programme start="20261008222500 +0000" stop="20261009000000 +0000" channel="spotv.unifitv">
     <title lang="en">Tour of Armenia 2026 - Stage 4</title>
     <desc lang="en">The Tour of Armenia sees professional cyclists tackle challenging routes across Armenia, battling for stage victories and overall honours in this demanding UCI road cycling event.</desc>
     <category lang="en">Cycling</category>
   </programme>
-  <programme start="20261009003000 +0000" stop="20261009043000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 Ladies European Tour: Aramco Korea Championship - Day 1</title>
-    <desc lang="en">The stars of the Ladies European Tour gather in South Korea to compete for the Aramco Korea Championship title, delivering world-class golf and thrilling championship action.</desc>
-    <category lang="en">Golf</category>
+  <programme start="20261009000000 +0000" stop="20261009030000 +0000" channel="spotv.unifitv">
+    <title lang="en">(L) MLB 2026 Postseason: AL Division Series Game 4 - Chicago White Sox vs Cleveland Guardians</title>
+    <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 US Open Tennis Review</title>
+    <desc lang="en">The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the final Grand Slam of the year.</desc>
+    <category lang="en">Tennis</category>
+  </programme>
+  <programme start="20261009040000 +0000" stop="20261009043000 +0000" channel="spotv.unifitv">
+    <title lang="en">EWC 2026: Rise Above - Highlights Ep 3</title>
+    <desc lang="en">The world's top eSports players and clubs battle across multiple game titles, showcasing elite skill, strategy, and determination on the global stage.</desc>
+    <category lang="en">eSports</category>
   </programme>
   <programme start="20261009043000 +0000" stop="20261009083000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 Ladies European Tour: Aramco Korea Championship - Day 2</title>
@@ -14843,7 +14863,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261008173000 +0000" stop="20261008180000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog - Ep3</title>
     <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -14888,7 +14908,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261009081500 +0000" stop="20261009090000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog - Ep1</title>
     <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -14908,7 +14928,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261009140000 +0000" stop="20261009145000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog - Ep2</title>
     <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <category lang="en">Motorsports</category>
   </programme>

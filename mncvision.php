@@ -176,7 +176,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera Investigates</title>
+    <title>Israelism, Ep 1</title>
 </programme>
 <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -1637,7 +1637,7 @@
     <title>Jendela Nusantara</title>
 </programme>
 <programme start="20261009033000 +0000" stop="20261009040000 +0000" channel="BTV.mncvision">
-    <title>Indonesia Update: Ekspos</title>
+    <title>Relasi</title>
 </programme>
 <programme start="20261009040000 +0000" stop="20261009050000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
@@ -6428,7 +6428,7 @@
     <title>Wagashi: Nature In Sweets</title>
 </programme>
 <programme start="20261009075500 +0000" stop="20261009080000 +0000" channel="NHK World.mncvision">
-    <title>1/1000: Lay Judges</title>
+    <title>Hit The Road</title>
 </programme>
 <programme start="20261009080000 +0000" stop="20261009083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -6455,10 +6455,10 @@
     <title>Direct Talk</title>
 </programme>
 <programme start="20261009114300 +0000" stop="20261009115500 +0000" channel="NHK World.mncvision">
-    <title>Impacts</title>
+    <title>When Cows Feel The Heat</title>
 </programme>
 <programme start="20261009115500 +0000" stop="20261009120000 +0000" channel="NHK World.mncvision">
-    <title>Chatroom Japan</title>
+    <title>Trouble Renting In Japan?</title>
 </programme>
 <programme start="20261009120000 +0000" stop="20261009123000 +0000" channel="NHK World.mncvision">
     <title>Newsroom Tokyo</title>
@@ -8431,11 +8431,17 @@
 <programme start="20261008180000 +0000" stop="20261008222500 +0000" channel="SPOTV.mncvision">
     <title>Giro d&#039;Italia 2026</title>
 </programme>
-<programme start="20261008222500 +0000" stop="20261009003000 +0000" channel="SPOTV.mncvision">
+<programme start="20261008222500 +0000" stop="20261009000000 +0000" channel="SPOTV.mncvision">
     <title>Tour Of Armenia 2026</title>
 </programme>
-<programme start="20261009003000 +0000" stop="20261009043000 +0000" channel="SPOTV.mncvision">
-    <title>Aramco Korea Championship</title>
+<programme start="20261009000000 +0000" stop="20261009030000 +0000" channel="SPOTV.mncvision">
+    <title>MLB Postseason: CWS vs CLE (L)</title>
+</programme>
+<programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="SPOTV.mncvision">
+    <title>2026 US Open Tennis Review</title>
+</programme>
+<programme start="20261009040000 +0000" stop="20261009043000 +0000" channel="SPOTV.mncvision">
+    <title>EWC 2026: Rise Above HL</title>
 </programme>
 <programme start="20261009043000 +0000" stop="20261009083000 +0000" channel="SPOTV.mncvision">
     <title>Aramco Korea Championship (L)</title>
@@ -8545,11 +8551,17 @@
 <programme start="20261008180000 +0000" stop="20261008222500 +0000" channel="SPOTV HD.mncvision">
     <title>Giro d&#039;Italia 2026</title>
 </programme>
-<programme start="20261008222500 +0000" stop="20261009003000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20261008222500 +0000" stop="20261009000000 +0000" channel="SPOTV HD.mncvision">
     <title>Tour Of Armenia 2026</title>
 </programme>
-<programme start="20261009003000 +0000" stop="20261009043000 +0000" channel="SPOTV HD.mncvision">
-    <title>Aramco Korea Championship</title>
+<programme start="20261009000000 +0000" stop="20261009030000 +0000" channel="SPOTV HD.mncvision">
+    <title>MLB Postseason: CWS vs CLE (L)</title>
+</programme>
+<programme start="20261009030000 +0000" stop="20261009040000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 US Open Tennis Review</title>
+</programme>
+<programme start="20261009040000 +0000" stop="20261009043000 +0000" channel="SPOTV HD.mncvision">
+    <title>EWC 2026: Rise Above HL</title>
 </programme>
 <programme start="20261009043000 +0000" stop="20261009083000 +0000" channel="SPOTV HD.mncvision">
     <title>Aramco Korea Championship (L)</title>

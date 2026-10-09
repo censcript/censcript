@@ -418,93 +418,6 @@
     <programme start="20261009000000 +0000" stop="20261010235959 +0000" channel="946948.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261009000000 +0000" stop="20261009012831 +0000" channel="989622.shahid">
-        <title>Walad Wa Bent</title>
-    </programme>
-    <programme start="20261009012831 +0000" stop="20261009033212 +0000" channel="989622.shahid">
-        <title>Messages From The Sea</title>
-    </programme>
-    <programme start="20261009033212 +0000" stop="20261009042917 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 3</title>
-    </programme>
-    <programme start="20261009042917 +0000" stop="20261009062116 +0000" channel="989622.shahid">
-        <title>Lailet Soqout Baghdad</title>
-    </programme>
-    <programme start="20261009062116 +0000" stop="20261009081824 +0000" channel="989622.shahid">
-        <title>Walad Wa Bent</title>
-    </programme>
-    <programme start="20261009081824 +0000" stop="20261009102204 +0000" channel="989622.shahid">
-        <title>Messages From The Sea</title>
-    </programme>
-    <programme start="20261009102204 +0000" stop="20261009111910 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 3</title>
-    </programme>
-    <programme start="20261009111910 +0000" stop="20261009131848 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20261009131848 +0000" stop="20261009141758 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 7</title>
-    </programme>
-    <programme start="20261009141758 +0000" stop="20261009164813 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20261009164813 +0000" stop="20261009182753 +0000" channel="989622.shahid">
-        <title>45 Youm</title>
-    </programme>
-    <programme start="20261009182753 +0000" stop="20261009202731 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20261009202731 +0000" stop="20261009212641 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 7</title>
-    </programme>
-    <programme start="20261009212641 +0000" stop="20261009235656 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20261009235656 +0000" stop="20261010013636 +0000" channel="989622.shahid">
-        <title>45 Youm</title>
-    </programme>
-    <programme start="20261010013636 +0000" stop="20261010033614 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20261010033614 +0000" stop="20261010043525 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 7</title>
-    </programme>
-    <programme start="20261010043525 +0000" stop="20261010070539 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20261010070539 +0000" stop="20261010084519 +0000" channel="989622.shahid">
-        <title>45 Youm</title>
-    </programme>
-    <programme start="20261010084519 +0000" stop="20261010104458 +0000" channel="989622.shahid">
-        <title>Amir El Behar</title>
-    </programme>
-    <programme start="20261010104458 +0000" stop="20261010114408 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 7</title>
-    </programme>
-    <programme start="20261010114408 +0000" stop="20261010134719 +0000" channel="989622.shahid">
-        <title>Messages From The Sea</title>
-    </programme>
-    <programme start="20261010134719 +0000" stop="20261010145436 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 24</title>
-    </programme>
-    <programme start="20261010145436 +0000" stop="20261010162546 +0000" channel="989622.shahid">
-        <title>Haflet Montasaf El Layl</title>
-    </programme>
-    <programme start="20261010162546 +0000" stop="20261010182743 +0000" channel="989622.shahid">
-        <title>Khareg Ala El Qanoun</title>
-    </programme>
-    <programme start="20261010182743 +0000" stop="20261010203054 +0000" channel="989622.shahid">
-        <title>Messages From The Sea</title>
-    </programme>
-    <programme start="20261010203054 +0000" stop="20261010213811 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 24</title>
-    </programme>
-    <programme start="20261010213811 +0000" stop="20261010230921 +0000" channel="989622.shahid">
-        <title>Haflet Montasaf El Layl</title>
-    </programme>
-    <programme start="20261010230921 +0000" stop="20261010235959 +0000" channel="989622.shahid">
-        <title>Khareg Ala El Qanoun</title>
-    </programme>
     <programme start="20261009000000 +0000" stop="20261009005000 +0000" channel="862837.shahid">
         <title>Al Irtidad Sharqan - Episode 2061</title>
     </programme>
@@ -867,6 +780,93 @@
     </programme>
     <programme start="20261011000000 +0000" stop="20261010235959 +0000" channel="862837.shahid">
         <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261009000000 +0000" stop="20261009012831 +0000" channel="989622.shahid">
+        <title>Walad Wa Bent</title>
+    </programme>
+    <programme start="20261009012831 +0000" stop="20261009033212 +0000" channel="989622.shahid">
+        <title>Messages From The Sea</title>
+    </programme>
+    <programme start="20261009033212 +0000" stop="20261009042917 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 3</title>
+    </programme>
+    <programme start="20261009042917 +0000" stop="20261009062116 +0000" channel="989622.shahid">
+        <title>Lailet Soqout Baghdad</title>
+    </programme>
+    <programme start="20261009062116 +0000" stop="20261009081824 +0000" channel="989622.shahid">
+        <title>Walad Wa Bent</title>
+    </programme>
+    <programme start="20261009081824 +0000" stop="20261009102204 +0000" channel="989622.shahid">
+        <title>Messages From The Sea</title>
+    </programme>
+    <programme start="20261009102204 +0000" stop="20261009111910 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 3</title>
+    </programme>
+    <programme start="20261009111910 +0000" stop="20261009131848 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20261009131848 +0000" stop="20261009141758 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 7</title>
+    </programme>
+    <programme start="20261009141758 +0000" stop="20261009164813 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20261009164813 +0000" stop="20261009182753 +0000" channel="989622.shahid">
+        <title>45 Youm</title>
+    </programme>
+    <programme start="20261009182753 +0000" stop="20261009202731 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20261009202731 +0000" stop="20261009212641 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 7</title>
+    </programme>
+    <programme start="20261009212641 +0000" stop="20261009235656 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20261009235656 +0000" stop="20261010013636 +0000" channel="989622.shahid">
+        <title>45 Youm</title>
+    </programme>
+    <programme start="20261010013636 +0000" stop="20261010033614 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20261010033614 +0000" stop="20261010043525 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 7</title>
+    </programme>
+    <programme start="20261010043525 +0000" stop="20261010070539 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20261010070539 +0000" stop="20261010084519 +0000" channel="989622.shahid">
+        <title>45 Youm</title>
+    </programme>
+    <programme start="20261010084519 +0000" stop="20261010104458 +0000" channel="989622.shahid">
+        <title>Amir El Behar</title>
+    </programme>
+    <programme start="20261010104458 +0000" stop="20261010114408 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 7</title>
+    </programme>
+    <programme start="20261010114408 +0000" stop="20261010134719 +0000" channel="989622.shahid">
+        <title>Messages From The Sea</title>
+    </programme>
+    <programme start="20261010134719 +0000" stop="20261010145436 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 24</title>
+    </programme>
+    <programme start="20261010145436 +0000" stop="20261010162546 +0000" channel="989622.shahid">
+        <title>Haflet Montasaf El Layl</title>
+    </programme>
+    <programme start="20261010162546 +0000" stop="20261010182743 +0000" channel="989622.shahid">
+        <title>Khareg Ala El Qanoun</title>
+    </programme>
+    <programme start="20261010182743 +0000" stop="20261010203054 +0000" channel="989622.shahid">
+        <title>Messages From The Sea</title>
+    </programme>
+    <programme start="20261010203054 +0000" stop="20261010213811 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 24</title>
+    </programme>
+    <programme start="20261010213811 +0000" stop="20261010230921 +0000" channel="989622.shahid">
+        <title>Haflet Montasaf El Layl</title>
+    </programme>
+    <programme start="20261010230921 +0000" stop="20261010235959 +0000" channel="989622.shahid">
+        <title>Khareg Ala El Qanoun</title>
     </programme>
     <programme start="20261009000000 +0000" stop="20261010235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
@@ -4906,6 +4906,9 @@
     <programme start="20261009000000 +0000" stop="20261010235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20261009000000 +0000" stop="20261010235959 +0000" channel="49923088781412.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261009000000 +0000" stop="20261009001500 +0000" channel="49923122575716.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -5033,9 +5036,6 @@
         <title>Afrah Ebles Season 3 Episode 24</title>
     </programme>
     <programme start="20261010053300 +0000" stop="20261010235959 +0000" channel="49923122575716.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261009000000 +0000" stop="20261010235959 +0000" channel="49923088781412.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20261009000000 +0000" stop="20261010235959 +0000" channel="946940.shahid">
