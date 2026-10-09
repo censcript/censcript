@@ -2225,25 +2225,25 @@
     <title>New Season Fashion</title>
 </programme>
 <programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="QVC.virginmediatv">
-    <title>New Season Fashion</title>
+    <title>Fashion Finds with Apricot</title>
 </programme>
 <programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="QVC.virginmediatv">
-    <title>Emu Footwear</title>
+    <title>New Season Apricot Clothing</title>
 </programme>
 <programme start="20261009130000 +0000" stop="20261009140000 +0000" channel="QVC.virginmediatv">
-    <title>New Season Compania Fantastica</title>
+    <title>Tretorn Outerwear</title>
 </programme>
 <programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="QVC.virginmediatv">
-    <title>Bronx Footwear</title>
+    <title>SOYACONCEPT Clothing</title>
 </programme>
 <programme start="20261009150000 +0000" stop="20261009160000 +0000" channel="QVC.virginmediatv">
-    <title>White Stuff</title>
+    <title>New Season Apricot Clothing</title>
 </programme>
 <programme start="20261009160000 +0000" stop="20261009170000 +0000" channel="QVC.virginmediatv">
     <title>Fashion on Friday</title>
 </programme>
 <programme start="20261009170000 +0000" stop="20261009180000 +0000" channel="QVC.virginmediatv">
-    <title>Evening Style with Katy</title>
+    <title>Monsoon</title>
 </programme>
 <programme start="20261009000000 +0000" stop="20261009003000 +0000" channel="Food_Network.virginmediatv">
     <title>Man v. Food Nation - Charlotte</title>
@@ -2413,11 +2413,8 @@
 <programme start="20261009043000 +0000" stop="20261009050000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20261009050000 +0000" stop="20261009053000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20261009053000 +0000" stop="20261009060000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+<programme start="20261009050000 +0000" stop="20261009070000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Breakfast</title>
 </programme>
 <programme start="20261009120000 +0000" stop="20261009130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
@@ -2425,11 +2422,8 @@
 <programme start="20261009130000 +0000" stop="20261009133000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20261009133000 +0000" stop="20261009134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20261009134500 +0000" stop="20261009140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261009133000 +0000" stop="20261009140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261009140000 +0000" stop="20261009143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -4090,7 +4084,10 @@
 <programme start="20261009041500 +0000" stop="20261009043000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>EFL Greatest - 2015/16: Middlesbrough v Brighton &amp; Hove Albion</title>
 </programme>
-<programme start="20261009043000 +0000" stop="20261009083000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20261009043000 +0000" stop="20261009050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Live: Korea Championship, LET Golf - Day 2</title>
+</programme>
+<programme start="20261009050000 +0000" stop="20261009070000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live: Korea Championship, LET Golf - Day 2</title>
 </programme>
 <programme start="20261009110000 +0000" stop="20261009130000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4390,25 +4387,19 @@
 <programme start="20261009054500 +0000" stop="20261009064500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Bahrain Grand Prix: Highlights</title>
 </programme>
-<programme start="20261009120000 +0000" stop="20261009140000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261009120000 +0000" stop="20261009142000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Singapore Grand Prix: Sprint Qualifying</title>
 </programme>
-<programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261009142000 +0000" stop="20261009154000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Singapore Grand Prix: Sprint Qualifying</title>
 </programme>
-<programme start="20261009150000 +0000" stop="20261009152000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>F2: Chasing the Dream - Azerbaijan</title>
-</programme>
-<programme start="20261009152000 +0000" stop="20261009153000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>Ferrari at Home in Monza</title>
-</programme>
-<programme start="20261009153000 +0000" stop="20261009164500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261009154000 +0000" stop="20261009165500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Singapore Grand Prix: Practice</title>
 </programme>
-<programme start="20261009164500 +0000" stop="20261009171500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261009165500 +0000" stop="20261009172500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 Team Principal Press Conference - Singapore Grand Prix</title>
 </programme>
-<programme start="20261009171500 +0000" stop="20261009181500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261009172500 +0000" stop="20261009185000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Singapore Grand Prix: Sprint Qualifying</title>
 </programme>
 <programme start="20261009000000 +0000" stop="20261009033000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4595,7 +4586,7 @@
     <title>Liga Profesional de Fútbol - Boca Juniors v Unión</title>
 </programme>
 <programme start="20261009050000 +0000" stop="20261009070000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>LaLiga - RCD Espanyol v Elche CF</title>
+    <title>NHL Hockey - Utah Mammoth at Boston Bruins</title>
 </programme>
 <programme start="20261009110000 +0000" stop="20261009130000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>UEFA Europa League Football - League Phase: Crystal Palace v Lech Poznan</title>
@@ -4912,7 +4903,10 @@
 <programme start="20261009041500 +0000" stop="20261009043000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>EFL Greatest - 2015/16: Middlesbrough v Brighton &amp; Hove Albion</title>
 </programme>
-<programme start="20261009043000 +0000" stop="20261009083000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20261009043000 +0000" stop="20261009050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Live: Korea Championship, LET Golf - Day 2</title>
+</programme>
+<programme start="20261009050000 +0000" stop="20261009070000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live: Korea Championship, LET Golf - Day 2</title>
 </programme>
 <programme start="20261009110000 +0000" stop="20261009130000 +0000" channel="Sky_Sports_Plus.virginmediatv">
@@ -5080,25 +5074,19 @@
 <programme start="20261009054500 +0000" stop="20261009064500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Bahrain Grand Prix: Highlights</title>
 </programme>
-<programme start="20261009120000 +0000" stop="20261009140000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261009120000 +0000" stop="20261009142000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Live: Formula 1 - Singapore Grand Prix: Sprint Qualifying</title>
 </programme>
-<programme start="20261009140000 +0000" stop="20261009150000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261009142000 +0000" stop="20261009154000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Singapore Grand Prix: Sprint Qualifying</title>
 </programme>
-<programme start="20261009150000 +0000" stop="20261009152000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>F2: Chasing the Dream - Azerbaijan</title>
-</programme>
-<programme start="20261009152000 +0000" stop="20261009153000 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>Ferrari at Home in Monza</title>
-</programme>
-<programme start="20261009153000 +0000" stop="20261009164500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261009154000 +0000" stop="20261009165500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Singapore Grand Prix: Practice</title>
 </programme>
-<programme start="20261009164500 +0000" stop="20261009171500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261009165500 +0000" stop="20261009172500 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 Team Principal Press Conference - Singapore Grand Prix</title>
 </programme>
-<programme start="20261009171500 +0000" stop="20261009181500 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261009172500 +0000" stop="20261009185000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Singapore Grand Prix: Sprint Qualifying</title>
 </programme>
 <programme start="20261009000000 +0000" stop="20261009011000 +0000" channel="TG4+1_HD.virginmediatv">
@@ -6112,7 +6100,10 @@
 <programme start="20261008175800 +0000" stop="20261009015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261009015800 +0000" stop="20261009060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261009015800 +0000" stop="20261009050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261009050000 +0000" stop="20261009060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261009115500 +0000" stop="20261009121000 +0000" channel="CBBC.virginmediatv">

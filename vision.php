@@ -256,14 +256,11 @@
 <programme start="20261009231000 +0000" stop="20261009233000 +0000" channel="iNews.vision">
 <title>iNews Sport</title>
 </programme>
-<programme start="20261009233000 +0000" stop="20261010000000 +0000" channel="iNews.vision">
+<programme start="20261009233000 +0000" stop="20261010003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20261010000000 +0000" stop="20261010003000 +0000" channel="iNews.vision">
-<title>iNews Update: The One...</title>
-</programme>
 <programme start="20261010003000 +0000" stop="20261010011500 +0000" channel="iNews.vision">
-<title>Breaking News</title>
+<title>Breaking News (Inews)</title>
 </programme>
 <programme start="20261010011500 +0000" stop="20261010020000 +0000" channel="iNews.vision">
 <title>Realita</title>
@@ -280,13 +277,13 @@
 <programme start="20261010053000 +0000" stop="20261010070000 +0000" channel="iNews.vision">
 <title>Cahaya Hati Indonesia (L)</title>
 </programme>
-<programme start="20261010070000 +0000" stop="20261010083000 +0000" channel="iNews.vision">
+<programme start="20261010070000 +0000" stop="20261010081500 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
 </programme>
-<programme start="20261010083000 +0000" stop="20261010100000 +0000" channel="iNews.vision">
+<programme start="20261010081500 +0000" stop="20261010094500 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20261010100000 +0000" stop="20261010120000 +0000" channel="iNews.vision">
+<programme start="20261010094500 +0000" stop="20261010120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
 <programme start="20261009000000 +0000" stop="20261009003000 +0000" channel="SindoNews.vision">
@@ -473,7 +470,7 @@
 <title>Insert Investigasi</title>
 </programme>
 <programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
+<title>Sehari Jadi Ratu</title>
 </programme>
 <programme start="20261010100000 +0000" stop="20261010110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
@@ -627,18 +624,6 @@
 </programme>
 <programme start="20261009093000 +0000" stop="20261009110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20261009110000 +0000" stop="20261009130000 +0000" channel="ANTV.vision">
-<title>Tutur Tinular 4</title>
-</programme>
-<programme start="20261009130000 +0000" stop="20261009150000 +0000" channel="ANTV.vision">
-<title>Naga Sakti</title>
-</programme>
-<programme start="20261009150000 +0000" stop="20261009170000 +0000" channel="ANTV.vision">
-<title>Arwah Goyang Jupe Depe</title>
-</programme>
-<programme start="20261009170000 +0000" stop="20261009183000 +0000" channel="ANTV.vision">
-<title>Brotherhood</title>
 </programme>
 <programme start="20261009183000 +0000" stop="20261009193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20261009090000 +0000" stop="20261009090300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261009090300 +0000" stop="20261009093000 +0000" channel="TVRI.vision">
+<title>Kampung Vibes</title>
+</programme>
+<programme start="20261009093000 +0000" stop="20261009100000 +0000" channel="TVRI.vision">
+<title>Asta Cita</title>
+</programme>
+<programme start="20261009100000 +0000" stop="20261009100300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261009100300 +0000" stop="20261009103000 +0000" channel="TVRI.vision">
+<title>Ayo Bertani</title>
+</programme>
+<programme start="20261009103000 +0000" stop="20261009110000 +0000" channel="TVRI.vision">
+<title>Teras Istana</title>
 </programme>

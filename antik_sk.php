@@ -1030,7 +1030,7 @@
   <programme start="20261011200000 +0000" stop="20261011223000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Ideme na teambuilding</title>
   </programme>
-  <programme start="20261010195500 +0000" stop="20261010225000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261010200000 +0000" stop="20261010225000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
   <programme start="20261010225000 +0000" stop="20261011002500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1096,13 +1096,13 @@
   <programme start="20261011124000 +0000" stop="20261011152000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">FIBA Europe Cup</title>
   </programme>
-  <programme start="20261011152000 +0000" stop="20261011191500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261011152000 +0000" stop="20261011191000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20261011191500 +0000" stop="20261011212500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261011191000 +0000" stop="20261011212000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261011212500 +0000" stop="20261011235500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261011212000 +0000" stop="20261011235000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS 2026 vo futbale</title>
   </programme>
   <programme start="20261010220000 +0000" stop="20261010231500 +0000" channel="WAU.webtv.sk">
@@ -1175,10 +1175,10 @@
     <title lang="id">Ruská revolúcia</title>
   </programme>
   <programme start="20261011070000 +0000" stop="20261011080000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Moderná vojna 2.0</title>
+    <title lang="id">Moderná vojna 2.0 I (4)</title>
   </programme>
   <programme start="20261011080000 +0000" stop="20261011083000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Najväčšie tajomstvá a záhady</title>
+    <title lang="id">Najväčšie tajomstvá a záhady II (13)</title>
   </programme>
   <programme start="20261011083000 +0000" stop="20261011093000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Mimozemské spisy: Znovuotvorené I (8)</title>
@@ -1193,7 +1193,7 @@
     <title lang="id">Zázraky prírody</title>
   </programme>
   <programme start="20261011113000 +0000" stop="20261011120000 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Preteky o život</title>
+    <title lang="id">Preteky o život I (1)</title>
   </programme>
   <programme start="20261011120000 +0000" stop="20261011123000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Preteky o život I (2)</title>
@@ -1229,7 +1229,7 @@
     <title lang="id">Drakula: Mýtus ožíva</title>
   </programme>
   <programme start="20261011194000 +0000" stop="20261011201500 +0000" channel="JOJ Svet.webtv.sk">
-    <title lang="id">Najväčšie tajomstvá a záhady</title>
+    <title lang="id">Najväčšie tajomstvá a záhady II (13)</title>
   </programme>
   <programme start="20261011201500 +0000" stop="20261011210000 +0000" channel="JOJ Svet.webtv.sk">
     <title lang="id">Umenie špionáže</title>
@@ -4412,7 +4412,7 @@
     <title lang="id">GarazTV</title>
   </programme>
   <programme start="20261011083000 +0000" stop="20261011090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Martin z Martina</title>
+    <title lang="id">Za rybami světových moří</title>
   </programme>
   <programme start="20261011090000 +0000" stop="20261011093000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
