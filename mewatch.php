@@ -1,8 +1,11 @@
     <programme start="20261009144500 +0000" stop="20261009162500 +0000" channel="Channel 5.mewatch">
         <title>Ice Storm - EP 1</title>
     </programme>
-    <programme start="20261009162500 +0000" stop="20261009180000 +0000" channel="Channel 5.mewatch">
+    <programme start="20261009160000 +0000" stop="20261009175000 +0000" channel="Channel 5.mewatch">
         <title>Survivor 51</title>
+    </programme>
+    <programme start="20261009175000 +0000" stop="20261009180000 +0000" channel="Channel 5.mewatch">
+        <title>Just For Laughs S25 - EP 3</title>
     </programme>
     <programme start="20261009180000 +0000" stop="20261009183000 +0000" channel="Channel 5.mewatch">
         <title>Talking Point - EP 20</title>

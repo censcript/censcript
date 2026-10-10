@@ -490,14 +490,8 @@
 <programme start="20261010014500 +0000" stop="20261010023000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20261010023000 +0000" stop="20261010034500 +0000" channel="Trans 7.vision">
-<title>Qual. MotoGP 2026 Mandalika</title>
-</programme>
 <programme start="20261010034500 +0000" stop="20261010043000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
-</programme>
-<programme start="20261010043000 +0000" stop="20261010063000 +0000" channel="Trans 7.vision">
-<title>Qual. MotoGP 2026 Mandalika</title>
 </programme>
 <programme start="20261010063000 +0000" stop="20261010073000 +0000" channel="Trans 7.vision">
 <title>MotoGP Sprint Race Mandalika</title>
@@ -597,9 +591,6 @@
 </programme>
 <programme start="20261010010000 +0000" stop="20261010023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261010023000 +0000" stop="20261010060000 +0000" channel="ANTV.vision">
-<title>Rab Ne Bana Di Jodi</title>
 </programme>
 <programme start="20261010060000 +0000" stop="20261010073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261010080000 +0000" stop="20261010080300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261010080300 +0000" stop="20261010090000 +0000" channel="TVRI.vision">
+<title>VAR (Visual, Aksi, Reaksi)</title>
+</programme>
+<programme start="20261010090000 +0000" stop="20261010090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261010090300 +0000" stop="20261010093000 +0000" channel="TVRI.vision">
+<title>Jajan Story</title>
 </programme>
