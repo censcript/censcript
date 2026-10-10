@@ -493,9 +493,6 @@
 <programme start="20261010034500 +0000" stop="20261010043000 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
 </programme>
-<programme start="20261010063000 +0000" stop="20261010073000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race Mandalika</title>
-</programme>
 <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
 </programme>
@@ -600,9 +597,6 @@
 </programme>
 <programme start="20261010093000 +0000" stop="20261010110000 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20261010110000 +0000" stop="20261010130000 +0000" channel="ANTV.vision">
-<title>Jurus Sakti</title>
 </programme>
 <programme start="20261010130000 +0000" stop="20261010150000 +0000" channel="ANTV.vision">
 <title>Pendekar Mata Satu</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261010090300 +0000" stop="20261010093000 +0000" channel="TVRI.vision">
 <title>Jajan Story</title>
+</programme>
+<programme start="20261010093000 +0000" stop="20261010100000 +0000" channel="TVRI.vision">
+<title>Buah Hatiku Sayang</title>
+</programme>
+<programme start="20261010100000 +0000" stop="20261010100300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

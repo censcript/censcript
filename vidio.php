@@ -269,7 +269,7 @@
   </programme>
   <programme channel="204" start="20261010215400 +0000" stop="20261010230100 +0000">
     <title lang="id">Liputan 6 Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/l-vXZWUNpFZc4139VC1FyZDDYFg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376039/d9488d.png"/>
   </programme>
   <programme channel="204" start="20261010230100 +0000" stop="20261010233200 +0000">
     <title lang="id">Bicara Bersama Retno Pinasti: Bahlil Lahadalia</title>
@@ -288,16 +288,16 @@
   <programme channel="204" start="20261011030200 +0000" stop="20261011045600 +0000">
     <title lang="id">FTV Pagi: Status Cintanya Masuk Bap: Balikan Apa Putus</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/165qXYEchTZkT_AUvBhMRRS7mvE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376041/913529.jpg"/>
   </programme>
   <programme channel="204" start="20261011045600 +0000" stop="20261011053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/DrXz4qt8DOE03--3RB_0ye92FzI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376042/0afa89.png"/>
   </programme>
   <programme channel="204" start="20261011053000 +0000" stop="20261011070700 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/pVERMsGbltBQV6mQ3iy3cwzAk6c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5362119/aa5f9a.jpg"/>
   </programme>
   <programme channel="204" start="20261011071500 +0000" stop="20261011100000 +0000">
     <title lang="id">Karnaval SCTV</title>
@@ -307,17 +307,17 @@
   <programme channel="204" start="20261011100000 +0000" stop="20261011112400 +0000">
     <title lang="id">Putri Pewaris</title>
     <desc lang="id">Sinetron Putri Pewaris mengisahkan Aina, perempuan sederhana yang ternyata pewaris sah perusahaan VOLTZ setelah masa lalu keluarganya terungkap. Saksikan setiap hari pukul 17.00 WIB</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/JrMZS4KQ2syaTymL2bMZTE_o0uk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376043/a42884.jpg"/>
   </programme>
   <programme channel="204" start="20261011112400 +0000" stop="20261011125900 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/IYIl74YaE3-_th6bphgfNE4h1Ms=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376044/48e8fb.jpg"/>
   </programme>
   <programme channel="204" start="20261011125900 +0000" stop="20261011142400 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/wcAa0Ops5DNbLMQt96GHd0IWY5s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376045/b7696f.jpg"/>
   </programme>
   <programme channel="204" start="20261011142400 +0000" stop="20261011155200 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -414,12 +414,12 @@
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261010103000 +0000" stop="20261010113000 +0000">
+  <programme channel="205" start="20261010103000 +0000" stop="20261010113500 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261010113000 +0000" stop="20261010140000 +0000">
+  <programme channel="205" start="20261010113500 +0000" stop="20261010140000 +0000">
     <title lang="id">Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -583,17 +583,17 @@
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261010053000 +0000" stop="20261010080000 +0000">
+  <programme channel="206" start="20261010053000 +0000" stop="20261010074500 +0000">
     <title lang="id">Putri : USM vs UII - Semifinal - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putri : TBA vs TBA - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jo6F039dRhZ5i9FkuC7b2indjF4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376007/5deadc.png"/>
   </programme>
-  <programme channel="206" start="20261010080000 +0000" stop="20261010100000 +0000">
+  <programme channel="206" start="20261010074500 +0000" stop="20261010103000 +0000">
     <title lang="id">Putra: UNNES vs UNMEKA - Semifinal - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putri: TBA vs TBA - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YUGRfcjFoKP3A-w28s3bRf_xj0Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376008/54d457.png"/>
   </programme>
-  <programme channel="206" start="20261010100000 +0000" stop="20261010120000 +0000">
+  <programme channel="206" start="20261010103000 +0000" stop="20261010120000 +0000">
     <title lang="id">Putri: UAD vs UNMEKA - Semifinal - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putri: TBA vs TBA - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Ds4wtd1w42UkqpXm4QlEtZim6jM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376009/15fa15.png"/>
@@ -2733,37 +2733,37 @@
     <desc lang="id">Bikin Mewek</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261009230000 +0000" stop="20261010010000 +0000">
+  <programme channel="782" start="20261009230000 +0000" stop="20261010005700 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261010010000 +0000" stop="20261010023000 +0000">
+  <programme channel="782" start="20261010005700 +0000" stop="20261010023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261010023000 +0000" stop="20261010060000 +0000">
+  <programme channel="782" start="20261010023000 +0000" stop="20261010054800 +0000">
     <title lang="id">Mega Bollywood : Rab Ne Bana Di Jodi</title>
     <desc lang="id">Mega Bollywood : Rab Ne Bana Di Jodi</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261010060000 +0000" stop="20261010073000 +0000">
+  <programme channel="782" start="20261010054800 +0000" stop="20261010072500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
   </programme>
-  <programme channel="782" start="20261010073000 +0000" stop="20261010093000 +0000">
+  <programme channel="782" start="20261010072500 +0000" stop="20261010092600 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
   </programme>
-  <programme channel="782" start="20261010093000 +0000" stop="20261010110000 +0000">
+  <programme channel="782" start="20261010092600 +0000" stop="20261010105000 +0000">
     <title lang="id">Naagin 7</title>
     <desc lang="id">Naagin 7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261010110000 +0000" stop="20261010130000 +0000">
+  <programme channel="782" start="20261010105000 +0000" stop="20261010130000 +0000">
     <title lang="id">Sinema Laga Klasik : Jurus Sakti</title>
     <desc lang="id">Sinema Laga Klasik : Jurus Sakti</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -2821,22 +2821,22 @@
   <programme channel="782" start="20261011010000 +0000" stop="20261011023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/OUqe2fD08PNhyXA_xcGffYcdo8I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5360422/e3fa05.jpg"/>
   </programme>
   <programme channel="782" start="20261011023000 +0000" stop="20261011060000 +0000">
     <title lang="id">Mega Bollywood : Ra ONE</title>
     <desc lang="id">Mega Bollywood : Ra ONE</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/3pOrFuYFHJB0i8ZG9XEPdj4bsws=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5360477/1c48e7.png"/>
   </programme>
   <programme channel="782" start="20261011060000 +0000" stop="20261011073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/hDocm57_Gk-ZchgEY56WS2nQsFw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5360430/e2b600.jpg"/>
   </programme>
   <programme channel="782" start="20261011073000 +0000" stop="20261011093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/V0QE3SUJjftcsK4pWvTKavhNqUo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5360437/b9d885.jpg"/>
   </programme>
   <programme channel="782" start="20261011093000 +0000" stop="20261011110000 +0000">
     <title lang="id">Naagin 7</title>
@@ -11388,42 +11388,37 @@
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010085500 +0000" stop="20261010093000 +0000">
+  <programme channel="6299" start="20261010085500 +0000" stop="20261010103000 +0000">
     <title lang="id">Sprint - Formula 1 Singapore Airlines Singapore Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Sprint - Formula 1 Singapore Airlines Singapore Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jUyetickn7KbFVE9t8Yz-39Q87k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5369529/063298.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010093000 +0000" stop="20261010103000 +0000">
+  <programme channel="6299" start="20261010103000 +0000" stop="20261010110000 +0000">
     <title lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 : Formula 1 Sprint Race Post Show 2026</title>
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010103000 +0000" stop="20261010110000 +0000">
+  <programme channel="6299" start="20261010110000 +0000" stop="20261010113000 +0000">
     <title lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 : Ted's Sprint Notebook 2026</title>
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010110000 +0000" stop="20261010113000 +0000">
+  <programme channel="6299" start="20261010113000 +0000" stop="20261010120000 +0000">
     <title lang="id">Tasanapol Inthraphuvasak : Off The Grid Origins: Tasanapol Inthraphuvasak</title>
     <desc lang="id">Tasanapol Inthraphuvasak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010113000 +0000" stop="20261010120000 +0000">
-    <title lang="id">Episode Number 1 : Off The Grid 2026</title>
-    <desc lang="id">Episode Number 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20261010120000 +0000" stop="20261010125500 +0000">
+  <programme channel="6299" start="20261010120000 +0000" stop="20261010133000 +0000">
     <title lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 : Formula 1 Qualifying Pre Show 2026</title>
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010125500 +0000" stop="20261010140000 +0000">
+  <programme channel="6299" start="20261010133000 +0000" stop="20261010143000 +0000">
     <title lang="id">Qualifying - Formula 1 Singapore Airlines Singapore Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Qualifying - Formula 1 Singapore Airlines Singapore Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/n6G5cV1qocDJcXfy7pssMsBMWlg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372185/2747d1.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010140000 +0000" stop="20261010150000 +0000">
+  <programme channel="6299" start="20261010143000 +0000" stop="20261010150000 +0000">
     <title lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 : Formula 1 Qualifying Post Show 2026</title>
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>

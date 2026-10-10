@@ -103,20 +103,17 @@
     <programme start="20261010070000 +0000" stop="20261010085000 +0000" channel="Channel 5.mewatch">
         <title>Survivor 51</title>
     </programme>
-    <programme start="20261010085000 +0000" stop="20261010100000 +0000" channel="Channel 5.mewatch">
+    <programme start="20261010085000 +0000" stop="20261010103000 +0000" channel="Channel 5.mewatch">
         <title>(Live) FORMULA 1 Singapore Airlines Singapore Grand Prix 2026 : Sprint</title>
     </programme>
-    <programme start="20261010100000 +0000" stop="20261010101500 +0000" channel="Channel 5.mewatch">
-        <title>Just For Laughs S25 - EP 11</title>
-    </programme>
-    <programme start="20261010101500 +0000" stop="20261010125500 +0000" channel="Channel 5.mewatch">
+    <programme start="20261010103000 +0000" stop="20261010130000 +0000" channel="Channel 5.mewatch">
         <title>Fast X</title>
     </programme>
-    <programme start="20261010125500 +0000" stop="20261010141500 +0000" channel="Channel 5.mewatch">
-        <title>(Live) FORMULA 1 Singapore Airlines Singapore Grand Prix 2026 : Qualifying</title>
-    </programme>
-    <programme start="20261010141500 +0000" stop="20261010144500 +0000" channel="Channel 5.mewatch">
+    <programme start="20261010130000 +0000" stop="20261010132500 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
+    </programme>
+    <programme start="20261010132500 +0000" stop="20261010144500 +0000" channel="Channel 5.mewatch">
+        <title>(Live) FORMULA 1 Singapore Airlines Singapore Grand Prix 2026 : Qualifying</title>
     </programme>
     <programme start="20261010144500 +0000" stop="20261010164500 +0000" channel="Channel 5.mewatch">
         <title>Resident Evil: The Final Chapter</title>
