@@ -299,7 +299,7 @@
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pVERMsGbltBQV6mQ3iy3cwzAk6c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5362119/aa5f9a.jpg"/>
   </programme>
-  <programme channel="204" start="20261011071500 +0000" stop="20261011100000 +0000">
+  <programme channel="204" start="20261011070700 +0000" stop="20261011100000 +0000">
     <title lang="id">Karnaval SCTV</title>
     <desc lang="id">Program spesial SCTV yang menyapa langsung pemirsa dari kota ke kota, menghadirkan musisi dan selebriti top favoritmu!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ixIuWsney6Obxk-iT_I0XRl7-yg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372829/680f62.jpg"/>
@@ -322,7 +322,7 @@
   <programme channel="204" start="20261011142400 +0000" stop="20261011155200 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron terbaru biarkan hati bicara</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CrnCXAmUA3lhWXykMbnmIYJQYwc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376046/9b46ed.png"/>
   </programme>
   <programme channel="204" start="20261011155200 +0000" stop="20261011173000 +0000">
     <title lang="id">FTV Primetime: Lapis Legit Kamu Wagelasih</title>
@@ -424,17 +424,17 @@
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261010140000 +0000" stop="20261010160000 +0000">
+  <programme channel="205" start="20261010140000 +0000" stop="20261010163000 +0000">
     <title lang="id">Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261010160000 +0000" stop="20261010180000 +0000">
+  <programme channel="205" start="20261010163000 +0000" stop="20261010180000 +0000">
     <title lang="id">Mega Film Asia: To Live Through Death</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261010160000 +0000" stop="20261010180000 +0000">
+  <programme channel="205" start="20261010163000 +0000" stop="20261010180000 +0000">
     <title lang="id">Mega Film Asia: To Live Through Death</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -598,22 +598,22 @@
     <desc lang="id">Nonton streaming pertandingan seru Putri: TBA vs TBA - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Ds4wtd1w42UkqpXm4QlEtZim6jM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376009/15fa15.png"/>
   </programme>
-  <programme channel="206" start="20261010120000 +0000" stop="20261010140000 +0000">
+  <programme channel="206" start="20261010120000 +0000" stop="20261010135500 +0000">
     <title lang="id">Putra: UII vs UNTAG - Semifinal - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putra: TBA vs TBA - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OXP5P7cDAhMstRHxKMe5SxpUgmw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376010/ec2b59.png"/>
   </programme>
-  <programme channel="206" start="20261010140000 +0000" stop="20261010155300 +0000">
+  <programme channel="206" start="20261010135500 +0000" stop="20261010154700 +0000">
     <title lang="id">FIFA Asean Cup 2026</title>
     <desc lang="id">FIFA ASEAN CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261010155300 +0000" stop="20261010172300 +0000">
+  <programme channel="206" start="20261010154700 +0000" stop="20261010172300 +0000">
     <title lang="id">ONE Friday Fights 174</title>
     <desc lang="id">ONE FRIDAY FIGHTS 174</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261010155300 +0000" stop="20261010172300 +0000">
+  <programme channel="206" start="20261010154700 +0000" stop="20261010172300 +0000">
     <title lang="id">ONE Friday Fights 174</title>
     <desc lang="id">ONE FRIDAY FIGHTS 174</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -661,25 +661,25 @@
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261011053000 +0000" stop="20261011073000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putri (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRI (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261011060000 +0000" stop="20261011080000 +0000">
+    <title lang="id">Putri: UII vs UAD - Third Place - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putri: TBA vs TBA - Third Place - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/yxeTx7N4NjUipB5jhinuRu8JwUQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376088/8d8bf5.jpg"/>
   </programme>
-  <programme channel="206" start="20261011073000 +0000" stop="20261011093000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putra (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261011080000 +0000" stop="20261011100000 +0000">
+    <title lang="id">Putra: UNMEKA vs UII - Third Place - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: TBA vs TBA - Third Place - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/fgYelsPVE5OqfJGJooPAG6wBgJM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376089/b08b7f.jpg"/>
   </programme>
-  <programme channel="206" start="20261011093000 +0000" stop="20261011113000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putri (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRI (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261011100000 +0000" stop="20261011120000 +0000">
+    <title lang="id">Putri: USM vs UNMEKA - Final - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putri: TBA vs TBA - Final - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5LaxXyWzX3vO4Gv8IosVu5xDOwk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376090/909740.jpg"/>
   </programme>
-  <programme channel="206" start="20261011113000 +0000" stop="20261011140000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putra (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261011120000 +0000" stop="20261011140000 +0000">
+    <title lang="id">Putra: UNNES vs UNTAG - Final - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: TBA vs TBA - Final - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qf6s-GHK8ksBAYQAXPX-7rIvcRY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376091/a7ad43.jpg"/>
   </programme>
   <programme channel="206" start="20261011140000 +0000" stop="20261011160000 +0000">
     <title lang="id">FIFA Asean Cup 2026</title>
@@ -11413,12 +11413,12 @@
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010133000 +0000" stop="20261010143000 +0000">
+  <programme channel="6299" start="20261010133000 +0000" stop="20261010144500 +0000">
     <title lang="id">Qualifying - Formula 1 Singapore Airlines Singapore Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Qualifying - Formula 1 Singapore Airlines Singapore Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/n6G5cV1qocDJcXfy7pssMsBMWlg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372185/2747d1.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010143000 +0000" stop="20261010150000 +0000">
+  <programme channel="6299" start="20261010144500 +0000" stop="20261010150000 +0000">
     <title lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026 : Formula 1 Qualifying Post Show 2026</title>
     <desc lang="id">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -11438,12 +11438,12 @@
     <desc lang="id">Nahuel Tenaglia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010163000 +0000" stop="20261010183000 +0000">
+  <programme channel="6299" start="20261010163000 +0000" stop="20261010184000 +0000">
     <title lang="id">Barcelona vs Getafe - LaLiga</title>
     <desc lang="id">Aksi Blaugrana berlanjut! Barcelona bersiap menghadapi tantangan Getafe.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_AD-VcB1Cu2gjT4tkjzYy5UfOpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372184/c15555.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010163000 +0000" stop="20261010183000 +0000">
+  <programme channel="6299" start="20261010163000 +0000" stop="20261010184000 +0000">
     <title lang="id">Barcelona vs Getafe - LaLiga</title>
     <desc lang="id">Aksi Blaugrana berlanjut! Barcelona bersiap menghadapi tantangan Getafe.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_AD-VcB1Cu2gjT4tkjzYy5UfOpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372184/c15555.jpg"/>
@@ -11453,7 +11453,7 @@
     <desc lang="id">Real Madrid vs Valladolid</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261010190000 +0000" stop="20261010210000 +0000">
+  <programme channel="6299" start="20261010185500 +0000" stop="20261010210000 +0000">
     <title lang="id">Real Madrid vs Villarreal - LaLiga</title>
     <desc lang="id">Big match! Mampukah Mbappe cs memetik 3 poin saat menjamu Villarreal?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/srHwG5zDoSW2LDqdNHclV84UfEc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372193/623a14.jpg"/>
@@ -11563,14 +11563,14 @@
     <desc lang="id">Orel Mangala</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261011163000 +0000" stop="20261011183000 +0000">
+  <programme channel="6299" start="20261011162500 +0000" stop="20261011183000 +0000">
     <title lang="id">Real Betis vs Osasuna - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Real Betis vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Anthony dkk mengincar kemenangan mutlak saat menerima kedatangan tim tamu, Osasuna!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ln_A6olXnhZWjs_zacnXZ00YyAc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372194/fc91aa.jpg"/>
   </programme>
-  <programme channel="6299" start="20261011163000 +0000" stop="20261011183000 +0000">
+  <programme channel="6299" start="20261011162500 +0000" stop="20261011183000 +0000">
     <title lang="id">Real Betis vs Osasuna - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Real Betis vs Osasuna - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Anthony dkk mengincar kemenangan mutlak saat menerima kedatangan tim tamu, Osasuna!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ln_A6olXnhZWjs_zacnXZ00YyAc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372194/fc91aa.jpg"/>
   </programme>
   <programme channel="6299" start="20261011184000 +0000" stop="20261011185500 +0000">
@@ -12235,7 +12235,7 @@
   </programme>
   <programme channel="6685" start="20261011101500 +0000" stop="20261011121500 +0000">
     <title lang="id">Utrecht vs Willem II - Eredivisie</title>
-    <desc lang="id">Nonton streaming pertandingan seru Utrecht vs Willem II - Eredivisie. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Nathan Tjoe-A-On siap memberikan hasil maksimal saat Willem II bertandang ke markas Utrecht!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_YVGvrmpJ8OH7vGGezjV_PcPpGk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376024/e7f5b2.jpg"/>
   </programme>
   <programme channel="6685" start="20261011122000 +0000" stop="20261011125500 +0000">
@@ -12245,7 +12245,7 @@
   </programme>
   <programme channel="6685" start="20261011130000 +0000" stop="20261011150000 +0000">
     <title lang="id">OGC Nice vs RC Strasbourg Alsace - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru OGC Nice vs RC Strasbourg Alsace - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Siapakah di antara Nice atau Strasbourg yang bakal meraih tiga poin penuh?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JU-_nvTHlqTGNsvfAFO7C_y1r-I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5373428/3880b2.jpg"/>
   </programme>
   <programme channel="6685" start="20261011150000 +0000" stop="20261011163000 +0000">
@@ -12371,12 +12371,12 @@
     <desc lang="id">SHOW 06 - MATCHWEEK 06</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261010110000 +0000" stop="20261010134000 +0000">
+  <programme channel="9182" start="20261010110000 +0000" stop="20261010133800 +0000">
     <title lang="id">Arsenal vs Leeds United : [LIVE] Premier League 2026/27</title>
     <desc lang="id">ARSENAL vs LEEDS UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261010134000 +0000" stop="20261010161000 +0000">
+  <programme channel="9182" start="20261010133900 +0000" stop="20261010161000 +0000">
     <title lang="id">Chelsea vs Bournemouth - Premier League</title>
     <desc lang="id">Akankah anak asuh Xabi Alonso kembali menunjukkan agresivitasnya saat berjumpa Bournemouth?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YFYbl83zvZ3HFZLTWTV0FDxTY8U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371130/57b306.jpg"/>
@@ -13335,15 +13335,19 @@
     <desc lang="id">1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261010154500 +0000" stop="20261010180300 +0000">
+  <programme channel="6786" start="20261010154500 +0000" stop="20261010180000 +0000">
     <title lang="id">Inter vs Parma - Serie A</title>
     <desc lang="id">Belum pernah kalah, akankah catatan tak terkalahkan Inter di musim ini berlanjut kala mereka menjamu Parma?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Kr6uvQJkcSQ6BKCbrQXa3938nmw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371117/d706df.jpg"/>
   </programme>
-  <programme channel="6786" start="20261010154500 +0000" stop="20261010180300 +0000">
+  <programme channel="6786" start="20261010154500 +0000" stop="20261010180000 +0000">
     <title lang="id">Inter vs Parma - Serie A</title>
     <desc lang="id">Belum pernah kalah, akankah catatan tak terkalahkan Inter di musim ini berlanjut kala mereka menjamu Parma?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Kr6uvQJkcSQ6BKCbrQXa3938nmw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371117/d706df.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261010180000 +0000" stop="20261010180300 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261010180300 +0000" stop="20261010183000 +0000">
     <title lang="id">Inside - Round 6 : Serie A 2026/27 - Preview</title>
@@ -13539,7 +13543,7 @@
     <desc lang="id">Stage 15: Palma del Rio - Cordoba</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261010120000 +0000" stop="20261010141500 +0000">
+  <programme channel="17875" start="20261010120000 +0000" stop="20261010133500 +0000">
     <title lang="id">Rayo Vallecano vs Athletic Club - LaLiga</title>
     <desc lang="id">Rasakan atmosfer panas tribune Vallecas kawal perjuangan tuan rumah amankan poin!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1FBMAjaKWotIQ6yEAc1mWajhO2A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372180/eca3da.jpg"/>
@@ -13659,14 +13663,14 @@
     <desc lang="id">Men's Singles Final Zverev v Cobolli</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261011120000 +0000" stop="20261011140000 +0000">
+  <programme channel="17875" start="20261011115500 +0000" stop="20261011140000 +0000">
     <title lang="id">Elche vs Celta Vigo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Elche vs Celta Vigo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/L7XXPDcMfK055xhrGa5-ngVtoC0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372182/c53460.jpg"/>
   </programme>
-  <programme channel="17875" start="20261011141500 +0000" stop="20261011161500 +0000">
+  <programme channel="17875" start="20261011141000 +0000" stop="20261011161500 +0000">
     <title lang="id">Real Sociedad vs RC Deportivo - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Real Sociedad vs RC Deportivo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Oyarzabal ataukah Aubameyang yang bakal sukses mempersembahkan kemenangan kala kedua klub saling berjumpa di Anoeta?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/veQS4dW9UWy7gszgW7ulIj7UOFw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372183/76bfb1.jpg"/>
   </programme>
   <programme channel="17875" start="20261011161500 +0000" stop="20261011162200 +0000">
@@ -14330,9 +14334,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20261011113000 +0000" stop="20261011133000 +0000">
-    <title lang="id">Final - WTA 1000: China Open 2026</title>
+    <title lang="id">Qinwen Zheng vs Mirra Andreeva - Women's Singles Final | WTA 1000: China Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 1000: China Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/wRsULzF7Oap4u2OaiqPcQEPzeRw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376052/ca2047.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/EhnRCaqqu_ywyPLB4qcJN2YsBqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376115/612e17.jpg"/>
   </programme>
   <programme channel="6686" start="20261011133000 +0000" stop="20261011153000 +0000">
     <title lang="id">LORIENT vs PARIS FC - LIGUE 1 PRANCIS 2026/27</title>
@@ -14434,12 +14438,12 @@
     <desc lang="id">SHOW 06 - MATCHWEEK 06</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261010130000 +0000" stop="20261010140000 +0000">
+  <programme channel="9183" start="20261010130000 +0000" stop="20261010133000 +0000">
     <title lang="id">Preview - Matchday 06 : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">PREVIEW - MATCHDAY 06</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261010140000 +0000" stop="20261010161200 +0000">
+  <programme channel="9183" start="20261010133000 +0000" stop="20261010161200 +0000">
     <title lang="id">Aston Villa vs Brentford - Premier League</title>
     <desc lang="id">Bertamu ke Villa Park, mampukah Brentford mencuri poin?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1B_oeOfXXHYWJQUZfKcXK18Ro-E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5371131/4ba7cb.jpg"/>
@@ -15771,12 +15775,12 @@
     <desc lang="id">A magazine show following the fortunes of an individual team at each round, featuring the conflict and camaraderie as pilots and owners bid to become Champions of the Water.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261010120000 +0000" stop="20261010143000 +0000">
+  <programme channel="17139" start="20261010120000 +0000" stop="20261010125200 +0000">
     <title lang="id">Malaysia vs China - Finals Victor BWF World Junior Team Championsips 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Finals - Victor BWF World Junior Championsips 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uFAQLW9odhp-CkfpeiNud74iM9U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372614/628ce9.jpg"/>
   </programme>
-  <programme channel="17139" start="20261010143000 +0000" stop="20261010163000 +0000">
+  <programme channel="17139" start="20261010125200 +0000" stop="20261010163000 +0000">
     <title lang="id">CSI 5* : 2026 Longines Global Champions Tour, Rome</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>

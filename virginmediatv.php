@@ -644,7 +644,7 @@
     <title>Surviving Earth - When America Flooded</title>
 </programme>
 <programme start="20261010120000 +0000" stop="20261010123000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>The Simpsons - Trust but Clarify</title>
+    <title>Formula 1 - Singapore Grand Prix: Sprint Race</title>
 </programme>
 <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="SKY_One_HD.virginmediatv">
     <title>The Simpsons - There Will Be Buds</title>
@@ -2639,7 +2639,7 @@
     <title>CNN Creators</title>
 </programme>
 <programme start="20261010143000 +0000" stop="20261010150000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>Inside Africa - The Faces of South African Fiction</title>
 </programme>
 <programme start="20261010150000 +0000" stop="20261010160000 +0000" channel="CNN_HD.virginmediatv">
     <title>The Amanpour Hour</title>
@@ -6614,7 +6614,7 @@
     <title>Surviving Earth - When America Flooded</title>
 </programme>
 <programme start="20261010120000 +0000" stop="20261010123000 +0000" channel="SKY_One.virginmediatv">
-    <title>The Simpsons - Trust but Clarify</title>
+    <title>Formula 1 - Singapore Grand Prix: Sprint Race</title>
 </programme>
 <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="SKY_One.virginmediatv">
     <title>The Simpsons - There Will Be Buds</title>
