@@ -3466,11 +3466,17 @@
   <programme start="20261013213200 +0000" stop="20261013220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Interview ČT24</title>
   </programme>
-  <programme start="20261012215000 +0000" stop="20261012233800 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Tommy</title>
+  <programme start="20261012212000 +0000" stop="20261012221600 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Ať žije Vardová!</title>
   </programme>
-  <programme start="20261012233800 +0000" stop="20261013002300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261012221600 +0000" stop="20261012230100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hvězdy stříbrného plátna I</title>
+  </programme>
+  <programme start="20261012230100 +0000" stop="20261012235700 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Raúl Juliá - jeviště jménem svět</title>
+  </programme>
+  <programme start="20261012235700 +0000" stop="20261013002300 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Přidaná paměť domu</title>
   </programme>
   <programme start="20261013002300 +0000" stop="20261013011600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ladí neladí</title>
@@ -15937,11 +15943,8 @@
   <programme start="20261013025500 +0000" stop="20261013030000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20261013030000 +0000" stop="20261013031500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">World News Flash</title>
-  </programme>
-  <programme start="20261013031500 +0000" stop="20261013040000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20261013030000 +0000" stop="20261013040000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">The Unforgiven</title>
   </programme>
   <programme start="20261013040000 +0000" stop="20261013043000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
@@ -16219,10 +16222,10 @@
   <programme start="20261013002500 +0000" stop="20261013004500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20261013004500 +0000" stop="20261013012000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261013004500 +0000" stop="20261013011800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia III (27)</title>
   </programme>
-  <programme start="20261013012000 +0000" stop="20261013015100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261013011800 +0000" stop="20261013015100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (3)</title>
   </programme>
   <programme start="20261013015100 +0000" stop="20261013023600 +0000" channel="TVP Info.webtv.sk">
@@ -17642,7 +17645,7 @@
     <title lang="id">Newshour</title>
   </programme>
   <programme start="20261013010000 +0000" stop="20261013020000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Al Jazeera Investigates</title>
+    <title lang="id">Israelism</title>
   </programme>
   <programme start="20261013020000 +0000" stop="20261013030000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
