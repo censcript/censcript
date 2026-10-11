@@ -490,6 +490,9 @@
 <programme start="20261011024500 +0000" stop="20261011033000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
+<programme start="20261011033000 +0000" stop="20261011080000 +0000" channel="Trans 7.vision">
+<title>MotoGP Mandalika 2026</title>
+</programme>
 <programme start="20261011080000 +0000" stop="20261011090000 +0000" channel="Trans 7.vision">
 <title>Redaksi Akhir Pekan</title>
 </programme>
@@ -597,6 +600,9 @@
 </programme>
 <programme start="20261011010000 +0000" stop="20261011023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
+</programme>
+<programme start="20261011023000 +0000" stop="20261011060000 +0000" channel="ANTV.vision">
+<title>Ra.One</title>
 </programme>
 <programme start="20261011060000 +0000" stop="20261011073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1491,10 +1497,4 @@
 </programme>
 <programme start="20261011050000 +0000" stop="20261011060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
-</programme>
-<programme start="20261011060000 +0000" stop="20261011070000 +0000" channel="TVRI.vision">
-<title>Paten</title>
-</programme>
-<programme start="20261011070000 +0000" stop="20261011070300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
 </programme>

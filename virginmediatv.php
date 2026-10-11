@@ -5372,7 +5372,7 @@
     <title>The Marsupilamis - Jade the Influencer / Restaurant Review</title>
 </programme>
 <programme start="20261011025500 +0000" stop="20261011032000 +0000" channel="Nickelodeon_HD.virginmediatv">
-    <title>The Marsupilamis - Dance Off / The show must go on</title>
+    <title>The Marsupilamis - Dance Off; The Show Must Go On</title>
 </programme>
 <programme start="20261011032000 +0000" stop="20261011033000 +0000" channel="Nickelodeon_HD.virginmediatv">
     <title>The Smurfs - Smurf Racers</title>
