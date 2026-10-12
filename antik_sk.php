@@ -514,11 +514,8 @@
   <programme start="20261014150000 +0000" stop="20261014152500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Prvé televízne noviny</title>
   </programme>
-  <programme start="20261014152500 +0000" stop="20261014153000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261014152500 +0000" stop="20261014155500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Prvé športové noviny</title>
-  </programme>
-  <programme start="20261014153000 +0000" stop="20261014155500 +0000" channel="Markíza.webtv.sk">
-    <title lang="id">Reflex</title>
   </programme>
   <programme start="20261014155500 +0000" stop="20261014170000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Sľub IV (28)</title>
@@ -877,28 +874,28 @@
   <programme start="20261014201000 +0000" stop="20261014221000 +0000" channel="DajTo.webtv.sk">
     <title lang="id">V službe</title>
   </programme>
-  <programme start="20261013220000 +0000" stop="20261013225500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261013215500 +0000" stop="20261013225000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska na prvý omyl (51)</title>
   </programme>
-  <programme start="20261013225500 +0000" stop="20261013234000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261013225000 +0000" stop="20261013233500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Láska na prvý omyl (52)</title>
   </programme>
-  <programme start="20261013234000 +0000" stop="20261014002500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261013233500 +0000" stop="20261014002500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (77)</title>
   </programme>
-  <programme start="20261014002500 +0000" stop="20261014011000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261014002500 +0000" stop="20261014010500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dcéry pani Fazilet (78)</title>
   </programme>
-  <programme start="20261014011000 +0000" stop="20261014015000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261014010500 +0000" stop="20261014014500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med X (1)</title>
   </programme>
-  <programme start="20261014015000 +0000" stop="20261014022000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261014014500 +0000" stop="20261014021500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20261014022000 +0000" stop="20261014025000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261014021500 +0000" stop="20261014024500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Adela show (18)</title>
   </programme>
-  <programme start="20261014025000 +0000" stop="20261014034000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261014024500 +0000" stop="20261014034000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Oteckovia IV (143)</title>
   </programme>
   <programme start="20261014034000 +0000" stop="20261014043500 +0000" channel="Doma.webtv.sk">
@@ -1177,14 +1174,17 @@
   <programme start="20261014042500 +0000" stop="20261014063000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Atletika - Diamantová liga</title>
   </programme>
-  <programme start="20261014063000 +0000" stop="20261014090000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261014063000 +0000" stop="20261014082500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">MS v hádzanej 2026</title>
   </programme>
-  <programme start="20261014090000 +0000" stop="20261014095500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261014082500 +0000" stop="20261014092000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej je na JOJke - Extra Shift</title>
   </programme>
-  <programme start="20261014095500 +0000" stop="20261014131500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261014092000 +0000" stop="20261014121000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Maratón</title>
+  </programme>
+  <programme start="20261014121000 +0000" stop="20261014131500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">PIVOT</title>
   </programme>
   <programme start="20261014131500 +0000" stop="20261014155000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
@@ -1619,7 +1619,7 @@
     <title lang="id">Kukačky (6)</title>
   </programme>
   <programme start="20261013224500 +0000" stop="20261013232500 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
+    <title lang="id">Téma - Rudolf Huliak</title>
   </programme>
   <programme start="20261013232500 +0000" stop="20261014005000 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Noriľsk, mesto za polárnym kruhom</title>
@@ -4549,11 +4549,8 @@
   <programme start="20261014210000 +0000" stop="20261014231500 +0000" channel="A11.webtv.sk">
     <title lang="id">Dobrý večer s A11</title>
   </programme>
-  <programme start="20261013220000 +0000" stop="20261013230000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20261013220000 +0000" stop="20261014043000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Naša Garáž</title>
-  </programme>
-  <programme start="20261013230000 +0000" stop="20261014043000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Nočné vysielanie</title>
   </programme>
   <programme start="20261014043000 +0000" stop="20261014050000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoring</title>
@@ -4579,16 +4576,13 @@
   <programme start="20261014070000 +0000" stop="20261014073000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Motoride</title>
   </programme>
-  <programme start="20261014073000 +0000" stop="20261014080000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20261014073000 +0000" stop="20261014080500 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Autožurnál</title>
   </programme>
-  <programme start="20261014080000 +0000" stop="20261014083000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
+  <programme start="20261014080500 +0000" stop="20261014090500 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Slovensko - Ukrajina</title>
   </programme>
-  <programme start="20261014083000 +0000" stop="20261014090000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Za rybami světových moří</title>
-  </programme>
-  <programme start="20261014090000 +0000" stop="20261014093000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20261014090500 +0000" stop="20261014093000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">DRIVE IT - Ondrej Macko</title>
   </programme>
   <programme start="20261014093000 +0000" stop="20261014100000 +0000" channel="Arena Sport 1.webtv.sk">
@@ -4603,19 +4597,13 @@
   <programme start="20261014104500 +0000" stop="20261014110000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20261014110000 +0000" stop="20261014111500 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20261014110000 +0000" stop="20261014112000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">Švihák testuje</title>
   </programme>
-  <programme start="20261014111500 +0000" stop="20261014113000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
+  <programme start="20261014112000 +0000" stop="20261014122000 +0000" channel="Arena Sport 1.webtv.sk">
+    <title lang="id">Slovensko - Kostarika</title>
   </programme>
-  <programme start="20261014113000 +0000" stop="20261014120000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">GarazTV</title>
-  </programme>
-  <programme start="20261014120000 +0000" stop="20261014123000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20261014123000 +0000" stop="20261014130000 +0000" channel="Arena Sport 1.webtv.sk">
+  <programme start="20261014122000 +0000" stop="20261014130000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">AutoGRATIS</title>
   </programme>
   <programme start="20261014130000 +0000" stop="20261014131500 +0000" channel="Arena Sport 1.webtv.sk">

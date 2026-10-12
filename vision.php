@@ -1,10 +1,10 @@
 <programme start="20261011224500 +0000" stop="20261012001500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261012001500 +0000" stop="20261012014500 +0000" channel="RCTI.vision">
+<programme start="20261012001500 +0000" stop="20261012011500 +0000" channel="RCTI.vision">
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20261012014500 +0000" stop="20261012031500 +0000" channel="RCTI.vision">
+<programme start="20261012011500 +0000" stop="20261012031500 +0000" channel="RCTI.vision">
 <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20261012031500 +0000" stop="20261012034500 +0000" channel="RCTI.vision">
@@ -49,10 +49,10 @@
 <programme start="20261012224500 +0000" stop="20261013001500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
 </programme>
-<programme start="20261013001500 +0000" stop="20261013014500 +0000" channel="RCTI.vision">
+<programme start="20261013001500 +0000" stop="20261013011500 +0000" channel="RCTI.vision">
 <title>Terlanjur Mencintaimu Arumi</title>
 </programme>
-<programme start="20261013014500 +0000" stop="20261013031500 +0000" channel="RCTI.vision">
+<programme start="20261013011500 +0000" stop="20261013031500 +0000" channel="RCTI.vision">
 <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20261013031500 +0000" stop="20261013034500 +0000" channel="RCTI.vision">

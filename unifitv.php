@@ -934,7 +934,7 @@
   </programme>
   <programme start="20261012090000 +0000" stop="20261012100000 +0000" channel="tv2.unifitv">
     <title lang="en">Ana Ponti</title>
-    <desc lang="en">Ana mempunyai seorang ibu yang bernama Salmah, mereka selalu bertengkar kerana sering bersilih pendapat.</desc>
+    <desc lang="en">Ana, Pontianak yang genap 18 tahun telah dihantar oleh keluarganya untuk belajar tentang kehidupan manusia dan mencari pembunuh ibunya, Kak Salma.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -1246,9 +1246,14 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261012003000 +0000" stop="20261012053000 +0000" channel="didiktv.unifitv">
-    <title lang="en">PROGRAM KHAS</title>
-    <desc lang="en">PROGRAM KHAS</desc>
+  <programme start="20261012003000 +0000" stop="20261012050000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MAJLIS PELANCARAN PETAH KPM 2026</title>
+    <desc lang="en">MAJLIS PELANCARAN PETAH KPM 2026</desc>
+    <category lang="en">Education</category>
+  </programme>
+  <programme start="20261012050000 +0000" stop="20261012053000 +0000" channel="didiktv.unifitv">
+    <title lang="en">BULETIN DIDIK 2026 (JULY - DEC)</title>
+    <desc lang="en">BULETIN DIDIK 2026 (JULY - DEC)</desc>
     <category lang="en">Education</category>
   </programme>
   <programme start="20261012053000 +0000" stop="20261012060000 +0000" channel="didiktv.unifitv">
@@ -2451,9 +2456,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261012041500 +0000" stop="20261012043000 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
+    <title lang="en">Ada Apa Dalam Astana Negeri Sarawak</title>
+    <desc lang="en">Bersama Amirah Shawel, jelajahi Astana Negeri Sarawak, kediaman rasmi Yang di-Pertua Negeri, serta kenali seni bina, tradisi, protokol, sejarah dan peranannya sebagai simbol identiti Sarawak.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20261012043000 +0000" stop="20261012050000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo's Blue Gold</title>
@@ -2486,22 +2491,60 @@
     <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261012060500 +0000" stop="20261012061500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
+  <programme start="20261012060500 +0000" stop="20261012070000 +0000" channel="tvs.unifitv">
+    <title lang="en">Anggun</title>
+    <desc lang="en">ANGGUN is a magazine to showcase trending topics surrounding women related to fashion, women empowerment, their involvements and achievements.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
-  <programme start="20261012061500 +0000" stop="20261012063000 +0000" channel="tvs.unifitv">
-    <title lang="en">Take Me To Sarawak: Special</title>
-    <desc lang="en">This travelogue takes viewers on an adventure across Sarawak, uncovering underrated spots with unique food, heritage, and sights. Through POV shots and local guides, it offers a deeper look into the region's hidden gems.</desc>
+  <programme start="20261012070000 +0000" stop="20261012070500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Highlight</title>
+    <desc lang="en">TVS Highlight showcases the most current and important news in a compact, well-rounded format, featuring both local and international updates with thorough and succinct reporting.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20261012070500 +0000" stop="20261012071500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Music</title>
+    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
+    <category lang="en">Pop Culture</category>
+  </programme>
+  <programme start="20261012071500 +0000" stop="20261012073000 +0000" channel="tvs.unifitv">
+    <title lang="en">After Sunset</title>
+    <desc lang="en">After Sunset explores vibrant city life at night through a culinary expert, musician, and street photographer—featuring smokehouses, bars, live music, and urban storytelling.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261012063000 +0000" stop="20261012090000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Mesyuarat Kedua Bagi Penggal Kelima DUN Sarawak Ke-19</title>
-    <desc lang="en">Siaran langsung Mesyuarat Kedua Bagi Penggal Kelima Dewan Undangan Negeri Sarawak Ke-19.</desc>
+  <programme start="20261012073000 +0000" stop="20261012080000 +0000" channel="tvs.unifitv">
+    <title lang="en">Joran Borneo</title>
+    <desc lang="en">Masih mengekalkan konsep 'Majalah' travelog, JORAN BORNEO 2 akan meneruskan ekspedisinya bagi menjejaki lubuk ikan-ikan idaman pemancing di pendalaman dan di hulu BORNEO yang bersempadan Kalimantan.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">1.5.</episode-num>
+    <episode-num system="onscreen">S2E6</episode-num>
+  </programme>
+  <programme start="20261012080000 +0000" stop="20261012080500 +0000" channel="tvs.unifitv">
+    <title lang="en">(DL) TVS Ringkas</title>
+    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
     <category lang="en">News</category>
+  </programme>
+  <programme start="20261012080500 +0000" stop="20261012081500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
+  </programme>
+  <programme start="20261012081500 +0000" stop="20261012083000 +0000" channel="tvs.unifitv">
+    <title lang="en">Echoes From The North</title>
+    <desc lang="en">Echoes From the North explores the dance traditions of the Bisaya, Kenyah, and Lun Bawang groups in north Sarawak, highlighting the culture, resilience, and spirit of indigenous peoples through captivating stories and visuals.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261012083000 +0000" stop="20261012090000 +0000" channel="tvs.unifitv">
+    <title lang="en">My Health, My Choice</title>
+    <desc lang="en">My Health, My Choice explores daily practices, behaviors, and health issues, highlighting factors like attitudes, diet, environment, and relationships, and provides practical solutions.</desc>
+    <category lang="en">Edutainment</category>
+    <episode-num system="xmltv_ns">0.12.</episode-num>
+    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261012090000 +0000" stop="20261012093000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Berita Wilayah TVS</title>
@@ -2521,11 +2564,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261012101500 +0000" stop="20261012103000 +0000" channel="tvs.unifitv">
-    <title lang="en">Borneo From Above</title>
-    <desc lang="en">To promote and highlighting development of Sarawak</desc>
+    <title lang="en">Jejak Asal</title>
+    <desc lang="en">Jejak Asal menelusuri asal-usul Tun Pehin Sri Dr. Haji Wan Junaidi bin Tuanku Jaafar melalui Triso, Sebuyau dan Lingga, menyusuri sejarah, warisan serta kisah masyarakat setempat.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">1.15.</episode-num>
-    <episode-num system="onscreen">S2E16</episode-num>
   </programme>
   <programme start="20261012103000 +0000" stop="20261012110000 +0000" channel="tvs.unifitv">
     <title lang="en">The Food That Binds The Nation</title>
