@@ -259,10 +259,10 @@
 <programme start="20261012000500 +0000" stop="20261012010500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>The Walk-In - Episode 1</title>
 </programme>
-<programme start="20261012010500 +0000" stop="20261012014900 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20261012010500 +0000" stop="20261012015000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>The Walk-In - Episode 2</title>
 </programme>
-<programme start="20261012014900 +0000" stop="20261012054500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20261012015000 +0000" stop="20261012054500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261012054500 +0000" stop="20261012064000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
@@ -2684,7 +2684,7 @@
     <title>American Greed: The Fugitives - Mr. &amp; Mrs. Mortgage Fraud; Heartless Hedge Fund Manager</title>
 </programme>
 <programme start="20261012030000 +0000" stop="20261012033000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>The Tech Download - Ep 13</title>
+    <title>The Tech Download - Nokia&#039;s Justin Hotard</title>
 </programme>
 <programme start="20261012033000 +0000" stop="20261012040000 +0000" channel="CNBC_HD.virginmediatv">
     <title>Founder Effect - The Founders of Whoop and Hyrox</title>
@@ -4160,7 +4160,7 @@
     <title>Good Morning Football - Episode 203</title>
 </programme>
 <programme start="20261012140000 +0000" stop="20261012141500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Minnesota Vikings at New Orleans Saints</title>
+    <title>NFL Football - Philadelphia Eagles at Jacksonville Jaguars</title>
 </programme>
 <programme start="20261012141500 +0000" stop="20261012143000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Detroit Lions at Arizona Cardinals</title>
@@ -4393,10 +4393,10 @@
 <programme start="20261012051500 +0000" stop="20261012064500 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20261012120000 +0000" stop="20261012123000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261012114500 +0000" stop="20261012121500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261012123000 +0000" stop="20261012193000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261012121500 +0000" stop="20261012193000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20261011231500 +0000" stop="20261012004500 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4420,10 +4420,10 @@
 <programme start="20261012051500 +0000" stop="20261012064500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20261012120000 +0000" stop="20261012123000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261012114500 +0000" stop="20261012121500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261012123000 +0000" stop="20261012193000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261012121500 +0000" stop="20261012193000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20261012000000 +0000" stop="20261012003000 +0000" channel="MUTV.virginmediatv">
@@ -5072,7 +5072,7 @@
     <title>Good Morning Football - Episode 203</title>
 </programme>
 <programme start="20261012140000 +0000" stop="20261012141500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Minnesota Vikings at New Orleans Saints</title>
+    <title>NFL Football - Philadelphia Eagles at Jacksonville Jaguars</title>
 </programme>
 <programme start="20261012141500 +0000" stop="20261012143000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Detroit Lions at Arizona Cardinals</title>
