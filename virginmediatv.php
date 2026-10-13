@@ -2458,11 +2458,8 @@
 <programme start="20261013134500 +0000" stop="20261013140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20261013140000 +0000" stop="20261013143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20261013143000 +0000" stop="20261013150000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
+<programme start="20261013140000 +0000" stop="20261013150000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261013150000 +0000" stop="20261013153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -6226,7 +6223,10 @@
 <programme start="20261012175800 +0000" stop="20261013015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261013015800 +0000" stop="20261013060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261013015800 +0000" stop="20261013050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261013050000 +0000" stop="20261013060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261013115500 +0000" stop="20261013120500 +0000" channel="CBBC.virginmediatv">
