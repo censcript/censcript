@@ -227,7 +227,7 @@
 <title>Realita (L)</title>
 </programme>
 <programme start="20261013091500 +0000" stop="20261013120000 +0000" channel="iNews.vision">
-<title>Inews Sore (Live)</title>
+<title>iNews Sore (L)</title>
 </programme>
 <programme start="20261013120000 +0000" stop="20261013140000 +0000" channel="iNews.vision">
 <title>Rakyat Bersuara (iNews)</title>
@@ -244,61 +244,67 @@
 <programme start="20261013160000 +0000" stop="20261013180000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
-<programme start="20261013180000 +0000" stop="20261013181500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20261013180000 +0000" stop="20261013184500 +0000" channel="iNews.vision">
+<title>iNews Sore</title>
 </programme>
-<programme start="20261013181500 +0000" stop="20261013201500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20261013184500 +0000" stop="20261013193000 +0000" channel="iNews.vision">
+<title>iNews Malam</title>
 </programme>
-<programme start="20261013201500 +0000" stop="20261013210000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20261013193000 +0000" stop="20261013200000 +0000" channel="iNews.vision">
+<title>Breaking News</title>
+</programme>
+<programme start="20261013200000 +0000" stop="20261013203000 +0000" channel="iNews.vision">
+<title>Special Report</title>
+</programme>
+<programme start="20261013203000 +0000" stop="20261013210000 +0000" channel="iNews.vision">
+<title>Realita</title>
 </programme>
 <programme start="20261013210000 +0000" stop="20261013211500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita</title>
 </programme>
-<programme start="20261013211500 +0000" stop="20261013223000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20261013223000 +0000" stop="20261013224000 +0000" channel="iNews.vision">
-<title>iNews</title>
-</programme>
-<programme start="20261013224000 +0000" stop="20261013230000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<programme start="20261013211500 +0000" stop="20261013230000 +0000" channel="iNews.vision">
+<title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20261013230000 +0000" stop="20261013231500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Sport Pagi (L)</title>
 </programme>
 <programme start="20261013231500 +0000" stop="20261013234500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Special Report</title>
 </programme>
 <programme start="20261013234500 +0000" stop="20261014001500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Morning Update</title>
 </programme>
 <programme start="20261014001500 +0000" stop="20261014011500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Room Pagi (L)</title>
 </programme>
 <programme start="20261014011500 +0000" stop="20261014020000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Lapor Polisi (L)</title>
 </programme>
 <programme start="20261014020000 +0000" stop="20261014030000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News (Inews)</title>
 </programme>
 <programme start="20261014030000 +0000" stop="20261014040000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Today (L)</title>
 </programme>
 <programme start="20261014040000 +0000" stop="20261014060000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>iNews Siang (L)</title>
 </programme>
 <programme start="20261014060000 +0000" stop="20261014063000 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Pemimpin Rakyat (L)</title>
 </programme>
 <programme start="20261014063000 +0000" stop="20261014074500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Breaking News (Inews)</title>
 </programme>
 <programme start="20261014074500 +0000" stop="20261014091500 +0000" channel="iNews.vision">
-<title>iNews</title>
+<title>Realita (L)</title>
 </programme>
-<programme start="20261014091500 +0000" stop="20261014120000 +0000" channel="iNews.vision">
+<programme start="20261014091500 +0000" stop="20261014113000 +0000" channel="iNews.vision">
+<title>iNews Sore (L)</title>
+</programme>
+<programme start="20261014113000 +0000" stop="20261014114500 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261014114500 +0000" stop="20261014141500 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20261013000000 +0000" stop="20261013003000 +0000" channel="SindoNews.vision">
@@ -633,9 +639,6 @@
 </programme>
 <programme start="20261013010000 +0000" stop="20261013023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261013023000 +0000" stop="20261013060000 +0000" channel="ANTV.vision">
-<title>Raees</title>
 </programme>
 <programme start="20261013060000 +0000" stop="20261013073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261013150000 +0000" stop="20261013170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261013170000 +0000" stop="20261013190000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

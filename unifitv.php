@@ -3316,7 +3316,7 @@
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261013073500 +0000" stop="20261013080500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Who Heals the Healers</title>
+    <title lang="en">Who Heals the Healers?</title>
     <desc lang="en">Doctors have said "You're sick" countless times, but rarely have they heard it said to themselves. The news department's Fang Dongsheng team is out in force again, still searching for the "patient" who least resembles a patient—the doctor. They are usually quick, decisive, and accurate in their actions, accustomed to life and death, but when the roles are reversed, becoming patients or caregivers on the sickbed, they too experience avoidance and anxiety. The gods in the public eye are ultimately just ordinary people. How do doctors who save others save themselves? The new program, "Doctor, Are You Sick?", delves into the difficult reality of doctors' lives, examining their vulnerability and struggles, and revealing the most authentic, flesh-and-blood human stories behind the white coats.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
@@ -3384,7 +3384,7 @@
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261013143500 +0000" stop="20261013150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Who Heals the Healers</title>
+    <title lang="en">Who Heals the Healers?</title>
     <desc lang="en">Doctors have said "You're sick" countless times, but rarely have they heard it said to themselves. The news department's Fang Dongsheng team is out in force again, still searching for the "patient" who least resembles a patient—the doctor. They are usually quick, decisive, and accurate in their actions, accustomed to life and death, but when the roles are reversed, becoming patients or caregivers on the sickbed, they too experience avoidance and anxiety. The gods in the public eye are ultimately just ordinary people. How do doctors who save others save themselves? The new program, "Doctor, Are You Sick?", delves into the difficult reality of doctors' lives, examining their vulnerability and struggles, and revealing the most authentic, flesh-and-blood human stories behind the white coats.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>

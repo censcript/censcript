@@ -2701,7 +2701,7 @@
   <programme start="20261014220000 +0000" stop="20261015060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
   </programme>
-  <programme start="20261015060000 +0000" stop="20261015103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261015060000 +0000" stop="20261015090000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
   <programme start="20261015103000 +0000" stop="20261015123000 +0000" channel="Šláger Muzika.webtv.sk">
@@ -2711,7 +2711,7 @@
     <title lang="id">Zábava na dvojce</title>
   </programme>
   <programme start="20261015173000 +0000" stop="20261015200000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Zábava na dvojce</title>
+    <title lang="id">Dotazovna</title>
   </programme>
   <programme start="20261015200000 +0000" stop="20261015220000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
@@ -3052,17 +3052,14 @@
   <programme start="20261015200000 +0000" stop="20261015220500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Pod lampou</title>
   </programme>
-  <programme start="20261014202900 +0000" stop="20261014221600 +0000" channel="ČT1.webtv.sk">
-    <title lang="id">Bourák</title>
-  </programme>
-  <programme start="20261014221600 +0000" stop="20261014222200 +0000" channel="ČT1.webtv.sk">
-    <title lang="id">Me som Radek Laci</title>
-  </programme>
-  <programme start="20261014222200 +0000" stop="20261014235400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261014215500 +0000" stop="20261014232500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisař Dupin I (1)</title>
   </programme>
-  <programme start="20261014235400 +0000" stop="20261015001900 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261014232500 +0000" stop="20261014235000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
+  </programme>
+  <programme start="20261014235000 +0000" stop="20261015001900 +0000" channel="ČT1.webtv.sk">
+    <title lang="id">Banánové rybičky</title>
   </programme>
   <programme start="20261015001900 +0000" stop="20261015024900 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>

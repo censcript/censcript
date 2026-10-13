@@ -266,7 +266,7 @@
   </programme>
   <programme channel="204" start="20261013220000 +0000" stop="20261013230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7Bw51QTVkYmWSCK1WXply7evLzU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377073/bd4bef.png"/>
   </programme>
   <programme channel="204" start="20261013230000 +0000" stop="20261014000000 +0000">
     <title lang="id">Hot Shot</title>
@@ -275,20 +275,20 @@
   <programme channel="204" start="20261014000000 +0000" stop="20261014010000 +0000">
     <title lang="id">Tiba Tiba Kuis</title>
     <desc lang="id">Kuis kejutan ini akan hadir setiap hari . Para pembawa acara akan datang secara tiba-tiba ke lokasi pemirsa tanpa pemberitahuan untuk memberikan tantangan games yang lucu dan menyentuh. Dipandu oleh Baim Wong, Asri Welas, dan Anna Jobling. Saksikan, hanya di saluran televisi SCTV Satu Untuk Semua.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/1EUeMSUt82iskEKXnfT9rieiAqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/407932/7e1a8b.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9lqQ8qv5F3Ah8swIRV4HZyjUxNw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377083/2fd751.jpg"/>
   </programme>
   <programme channel="204" start="20261014010000 +0000" stop="20261014030000 +0000">
     <title lang="id">Vidio Original Series: Cool Boys Vs Cool Girls</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ZqERkRe3OCiWfr5aVmWIVjCnhO8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377090/a56b2a.jpg"/>
   </programme>
   <programme channel="204" start="20261014030000 +0000" stop="20261014050000 +0000">
     <title lang="id">FTV Pagi: Aku Terlalu Sah Buat Kamu Yang Gelisah</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/9WcczGQ3SFngNIK6hRcMLKRe5zw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377157/c34ecc.jpg"/>
   </programme>
   <programme channel="204" start="20261014050000 +0000" stop="20261014053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/qsbyQZdR478e1nI9uR4Gnged7ZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377095/fe638d.png"/>
   </programme>
   <programme channel="204" start="20261014053000 +0000" stop="20261014090000 +0000">
     <title lang="id">Samudra Cinta</title>
@@ -768,12 +768,12 @@
   <programme channel="205" start="20261013180000 +0000" stop="20261013193000 +0000">
     <title lang="id">Mega Film Asia: Blade Of Fury</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Wh2-qke5LFCDuf2RD1a4F2fEtwI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377687/0984cb.png"/>
   </programme>
   <programme channel="205" start="20261013193000 +0000" stop="20261013210000 +0000">
     <title lang="id">Mega Film Asia: Kungfu Boys</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/lIV2x_xSoBiqsDVtw7_QPKPmzHo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377688/b03b74.png"/>
   </programme>
   <programme channel="205" start="20261013210000 +0000" stop="20261013213000 +0000">
     <title lang="id">Mukjizat Masih Ada</title>
@@ -833,7 +833,7 @@
   <programme channel="205" start="20261014120000 +0000" stop="20261014160000 +0000">
     <title lang="id">D' Academy 8 - Top 12 Show Malam Pertama</title>
     <desc lang="id">D' Academy (Musim 8) adalah ajang pencarian bakat menyanyi dangdut musim ke delapan dari D'Academy yang ditayangkan di Indosiar. Acara ini di selenggarakan pada tahun 2026</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/agIn0aBElVL319_Ptk5DiDygHiI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378259/f21d8a.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Y3Cw-iE7tfTdzmkPa1iCc32WOfk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378259/00e693.jpg"/>
   </programme>
   <programme channel="205" start="20261014160000 +0000" stop="20261014180000 +0000">
     <title lang="id">Mega Film Asia: The Myth</title>
@@ -1267,7 +1267,7 @@
   <programme channel="206" start="20261013231500 +0000" stop="20261014000000 +0000">
     <title lang="id">Liputan 6 Pagi Moji</title>
     <desc lang="id">LIPUTAN 6 PAGI MOJI</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5KBPYTNQP5HPD2jrzGUlLk5KYP8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/378394/1034d4.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/saCoaHSd6rImPI3qYEainyGcfwE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377540/efce72.png"/>
   </programme>
   <programme channel="206" start="20261014000000 +0000" stop="20261014010000 +0000">
     <title lang="id">Bisik Pagi</title>
@@ -1277,7 +1277,7 @@
   <programme channel="206" start="20261014010000 +0000" stop="20261014020000 +0000">
     <title lang="id">Grand Prix</title>
     <desc lang="id">GRAND PRIX</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/aA6gShr3xzgLggx54qkss9M58LE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413787/30d480.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/zAIOs7XCWDXPd_hzU7pwaz1_j_g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377554/8d8f7b.jpg"/>
   </programme>
   <programme channel="206" start="20261014020000 +0000" stop="20261014034700 +0000">
     <title lang="id">Ungkap</title>
@@ -3220,12 +3220,12 @@
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261013010000 +0000" stop="20261013023000 +0000">
+  <programme channel="782" start="20261013010000 +0000" stop="20261013023500 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qHDIOXzVsAPcitP8uM80A_EzXaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376359/352b36.jpg"/>
   </programme>
-  <programme channel="782" start="20261013023000 +0000" stop="20261013060000 +0000">
+  <programme channel="782" start="20261013023500 +0000" stop="20261013060000 +0000">
     <title lang="id">Mega Bollywood : Raees</title>
     <desc lang="id">Mega Bollywood : Raees</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IkX1q9my1Leg_g2dRwo78WWasng=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376391/006530.png"/>
@@ -3303,22 +3303,22 @@
   <programme channel="782" start="20261014010000 +0000" stop="20261014023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/L95gcClwSxpmtrY-0w2zlCGIryw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376360/344bbb.jpg"/>
   </programme>
   <programme channel="782" start="20261014023000 +0000" stop="20261014060000 +0000">
     <title lang="id">Mega Bollywood : Happy New Year</title>
     <desc lang="id">Mega Bollywood : Happy New Year</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/0hHOxw_WbqzH_de3NYdZPbOh2Lc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376396/bc4dea.png"/>
   </programme>
   <programme channel="782" start="20261014060000 +0000" stop="20261014073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/FDvBIeyVfjMkv_uIGv4dMbcK8I0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376368/e9fdb3.jpg"/>
   </programme>
   <programme channel="782" start="20261014073000 +0000" stop="20261014093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/njmeAwgvu02LHLj80V4r3j4-5e0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376375/3edb00.jpg"/>
   </programme>
   <programme channel="782" start="20261014093000 +0000" stop="20261014104500 +0000">
     <title lang="id">Naagin 7</title>
@@ -14681,6 +14681,10 @@
     <desc lang="id">Nonton streaming pertandingan seru Torino vs Udinese - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/7ghsBa4Xhfycw01lj7DOzr4VUPY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378147/164679.jpg"/>
   </programme>
+  <programme channel="6786" start="20261012204500 +0000" stop="20261012210000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
   <programme channel="6786" start="20261012210000 +0000" stop="20261013000000 +0000">
     <title lang="id">Philadelphia Eagles at Jacksonville Jaguars : NFL 2026/27</title>
     <desc lang="id">Philadelphia Eagles at Jacksonville Jaguars</desc>
@@ -14690,12 +14694,12 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261013000500 +0000" stop="20261013032000 +0000">
+  <programme channel="6786" start="20261013000500 +0000" stop="20261013035300 +0000">
     <title lang="id">Buffalo Bills vs Los Angeles Rams - NFL</title>
     <desc lang="id">Ujian berat Los Angeles Rams menembus benteng Highmark Stadium milik Bills!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vARolUFCr_Ck_ujOCHjGszrKygo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376030/83b9d2.jpg"/>
   </programme>
-  <programme channel="6786" start="20261013032000 +0000" stop="20261013050000 +0000">
+  <programme channel="6786" start="20261013035300 +0000" stop="20261013050000 +0000">
     <title lang="id">Match 6 : [LIVE] WTA 1000</title>
     <desc lang="id">Match 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -14730,27 +14734,22 @@
     <desc lang="id">Eps 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261013110000 +0000" stop="20261013130000 +0000">
-    <title lang="id">Match 9 : [LIVE] WTA 1000</title>
-    <desc lang="id">Match 9</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  <programme channel="6786" start="20261013110000 +0000" stop="20261013133500 +0000">
+    <title lang="id">Ashlyn Krueger vs Zhang Shuai - Women's Singles Round of 64 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Ashlyn Krueger vs Zhang Shuai - Women's Singles Round of 64 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/B9DIBuei2UmmweZ28n1UUislhUU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378427/e4807e.png"/>
   </programme>
-  <programme channel="6786" start="20261013130000 +0000" stop="20261013150000 +0000">
-    <title lang="id">Match 10 : [LIVE] WTA 1000</title>
-    <desc lang="id">Match 10</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  <programme channel="6786" start="20261013133500 +0000" stop="20261013160000 +0000">
+    <title lang="id">Mia Pohankova vs Wang Xiyu - Women's Singles Round of 32 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Mia Pohankova vs Wang Xiyu - Women's Singles Round of 32 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/8PynRO8NGzW1a-XFVhgjFHhWF-E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378428/27f68f.png"/>
   </programme>
-  <programme channel="6786" start="20261013150000 +0000" stop="20261013153000 +0000">
-    <title lang="id">Eps 19 : Sport Woman</title>
-    <desc lang="id">Eps 19</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20261013153000 +0000" stop="20261013183000 +0000">
+  <programme channel="6786" start="20261013160000 +0000" stop="20261013183000 +0000">
     <title lang="id">Chicago Bears at Green Bay Packers : NFL 2026/27</title>
     <desc lang="id">Chicago Bears at Green Bay Packers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261013153000 +0000" stop="20261013183000 +0000">
+  <programme channel="6786" start="20261013160000 +0000" stop="20261013183000 +0000">
     <title lang="id">Chicago Bears at Green Bay Packers : NFL 2026/27</title>
     <desc lang="id">Chicago Bears at Green Bay Packers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>

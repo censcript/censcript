@@ -167,7 +167,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20261013083000 +0000" stop="20261013090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera Explains</title>
+    <title>Al Jazeera Explains: Israel</title>
 </programme>
 <programme start="20261013090000 +0000" stop="20261013093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>

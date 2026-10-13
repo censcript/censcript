@@ -7685,10 +7685,13 @@
     <title>All Things Girl - Friends, Boys and Getting Along</title>
 </programme>
 <programme start="20261013153000 +0000" stop="20261013160000 +0000" channel="EWTN.virginmediatv">
+    <title>Children&#039;s Rosary - Children&#039;s Rosary: Sorrowful Mysteries</title>
+</programme>
+<programme start="20261013160000 +0000" stop="20261013163000 +0000" channel="EWTN.virginmediatv">
     <title>At Home With Jim and Joy - Jim and Joy Call-In Show</title>
 </programme>
-<programme start="20261013160000 +0000" stop="20261013170000 +0000" channel="EWTN.virginmediatv">
-    <title>Borgo Laudato SÌ Meeting With Pope Leo Xiv</title>
+<programme start="20261013163000 +0000" stop="20261013170000 +0000" channel="EWTN.virginmediatv">
+    <title>A Tale of the Spirit Children</title>
 </programme>
 <programme start="20261013170000 +0000" stop="20261013180000 +0000" channel="EWTN.virginmediatv">
     <title>Daily Mass</title>
