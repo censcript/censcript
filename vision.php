@@ -649,12 +649,6 @@
 <programme start="20261013093000 +0000" stop="20261013104500 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261013104500 +0000" stop="20261013130000 +0000" channel="ANTV.vision">
-<title>Khana</title>
-</programme>
-<programme start="20261013130000 +0000" stop="20261013150000 +0000" channel="ANTV.vision">
-<title>Bebas Aturan Main</title>
-</programme>
 <programme start="20261013150000 +0000" stop="20261013170000 +0000" channel="ANTV.vision">
 <title>Panggonan Wingit</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261013150000 +0000" stop="20261013170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261013170000 +0000" stop="20261013190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261013190000 +0000" stop="20261013210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -670,11 +670,8 @@
   <programme start="20261015160000 +0000" stop="20261015162500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Prvé televízne noviny</title>
   </programme>
-  <programme start="20261015162500 +0000" stop="20261015163000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261015162500 +0000" stop="20261015165500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Prvé športové noviny</title>
-  </programme>
-  <programme start="20261015163000 +0000" stop="20261015165500 +0000" channel="Markíza +1.webtv.sk">
-    <title lang="id">Reflex</title>
   </programme>
   <programme start="20261015165500 +0000" stop="20261015180000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Sľub IV (29)</title>
@@ -3439,7 +3436,7 @@
   <programme start="20261015024500 +0000" stop="20261015031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Terra musica</title>
   </programme>
-  <programme start="20261015031000 +0000" stop="20261015040000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261015031000 +0000" stop="20261015033500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Události v kultuře</title>
   </programme>
   <programme start="20261015040000 +0000" stop="20261015040700 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3652,14 +3649,14 @@
   <programme start="20261015181500 +0000" stop="20261015184200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Literární místopis (5/13)</title>
   </programme>
-  <programme start="20261015184200 +0000" stop="20261015204500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Profesor a šílenec</title>
+  <programme start="20261015184200 +0000" stop="20261015210000 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Naši furianti</title>
   </programme>
-  <programme start="20261015204500 +0000" stop="20261015214000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261015210000 +0000" stop="20261015215500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Joaquin Phoenix, všestranný herec</title>
   </programme>
-  <programme start="20261015214000 +0000" stop="20261015222500 +0000" channel="ČT :D - ČT art.webtv.sk">
-    <title lang="id">Yves Montand na scéně</title>
+  <programme start="20261015215500 +0000" stop="20261015225800 +0000" channel="ČT :D - ČT art.webtv.sk">
+    <title lang="id">Elvis Presley!</title>
   </programme>
   <programme start="20261014215000 +0000" stop="20261014223500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ulice (3822)</title>
@@ -15593,7 +15590,7 @@
     <title lang="id">Dopravní revue</title>
   </programme>
   <programme start="20261014223000 +0000" stop="20261014224500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne - repríza</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261014224500 +0000" stop="20261014230000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Ostravské minuty</title>
@@ -15638,7 +15635,7 @@
     <title lang="id">Počasí</title>
   </programme>
   <programme start="20261015001400 +0000" stop="20261015002500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015002500 +0000" stop="20261015002700 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Z naší ZOO</title>
@@ -15671,7 +15668,7 @@
     <title lang="id">Dopravní revue</title>
   </programme>
   <programme start="20261015013000 +0000" stop="20261015014500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne - repríza</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015014500 +0000" stop="20261015020000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Ostravské minuty</title>
@@ -15716,7 +15713,7 @@
     <title lang="id">Počasí</title>
   </programme>
   <programme start="20261015031400 +0000" stop="20261015032500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015032500 +0000" stop="20261015032700 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Z naší ZOO</title>
@@ -15749,7 +15746,7 @@
     <title lang="id">Dopravní revue</title>
   </programme>
   <programme start="20261015043000 +0000" stop="20261015044500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne - repríza</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015044500 +0000" stop="20261015050000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Ostravské minuty</title>
@@ -15794,7 +15791,7 @@
     <title lang="id">Počasí</title>
   </programme>
   <programme start="20261015061400 +0000" stop="20261015062500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015062500 +0000" stop="20261015062700 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Z naší ZOO</title>
@@ -15827,7 +15824,7 @@
     <title lang="id">Dopravní revue</title>
   </programme>
   <programme start="20261015073000 +0000" stop="20261015074500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne - repríza</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015074500 +0000" stop="20261015080000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Ostravské minuty</title>
@@ -15872,7 +15869,7 @@
     <title lang="id">Počasí</title>
   </programme>
   <programme start="20261015091400 +0000" stop="20261015092500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015092500 +0000" stop="20261015092700 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Z naší ZOO</title>
@@ -15905,7 +15902,7 @@
     <title lang="id">Dopravní revue</title>
   </programme>
   <programme start="20261015103000 +0000" stop="20261015104500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne - repríza</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015104500 +0000" stop="20261015110000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Ostravské minuty</title>
@@ -15950,7 +15947,7 @@
     <title lang="id">Počasí</title>
   </programme>
   <programme start="20261015121400 +0000" stop="20261015122500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015122500 +0000" stop="20261015122700 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Z naší ZOO</title>
@@ -15983,7 +15980,7 @@
     <title lang="id">Dopravní revue</title>
   </programme>
   <programme start="20261015133000 +0000" stop="20261015134500 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Host dne - repríza</title>
+    <title lang="id">Volební studio 2026</title>
   </programme>
   <programme start="20261015134500 +0000" stop="20261015140000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Ostravské minuty</title>

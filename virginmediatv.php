@@ -3953,7 +3953,7 @@
     <title>EFL - League One Play-Off, Final: Bolton Wanderers v Oxford United</title>
 </programme>
 <programme start="20261013010000 +0000" stop="20261013020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL - Championship Play-Off, Final: Leeds United v Southampton</title>
+    <title>EFL - The Championship Play-Off, Final: Leeds United v Southampton</title>
 </programme>
 <programme start="20261013020000 +0000" stop="20261013023000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Scottish Premiership Football - Celtic v Rangers</title>
@@ -4412,16 +4412,16 @@
     <title>Premier League Highlights - Manchester United v Tottenham Hotspur</title>
 </programme>
 <programme start="20261013120000 +0000" stop="20261013123000 +0000" channel="MUTV.virginmediatv">
-    <title>Paul Parker: Tackling the Game</title>
+    <title>Manager&#039;s Press Conference</title>
 </programme>
 <programme start="20261013123000 +0000" stop="20261013124500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+    <title>Player Spotlight - Andrey Santos</title>
 </programme>
 <programme start="20261013124500 +0000" stop="20261013133000 +0000" channel="MUTV.virginmediatv">
     <title>All the Goals - Brian McClair</title>
 </programme>
 <programme start="20261013133000 +0000" stop="20261013135500 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
+    <title>Player Spotlight - When Mainoo met Seedorf</title>
 </programme>
 <programme start="20261013135500 +0000" stop="20261013160000 +0000" channel="MUTV.virginmediatv">
     <title>Live: UEFA Youth League Football - Atlético Madrid U19 v Manchester United U19</title>
@@ -4435,10 +4435,7 @@
 <programme start="20261013170000 +0000" stop="20261013173000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
 </programme>
-<programme start="20261013173000 +0000" stop="20261013174500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Phallon Tullis-Joyce: New York v Manchester</title>
-</programme>
-<programme start="20261013174500 +0000" stop="20261013180000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261013173000 +0000" stop="20261013180000 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference</title>
 </programme>
 <programme start="20261013000000 +0000" stop="20261013003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
@@ -4820,7 +4817,7 @@
     <title>EFL - League One Play-Off, Final: Bolton Wanderers v Oxford United</title>
 </programme>
 <programme start="20261013010000 +0000" stop="20261013020000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL - Championship Play-Off, Final: Leeds United v Southampton</title>
+    <title>EFL - The Championship Play-Off, Final: Leeds United v Southampton</title>
 </programme>
 <programme start="20261013020000 +0000" stop="20261013023000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Scottish Premiership Football - Celtic v Rangers</title>
