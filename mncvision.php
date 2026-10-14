@@ -8036,7 +8036,7 @@
     <title>Extra Time</title>
 </programme>
 <programme start="20261014040000 +0000" stop="20261014060000 +0000" channel="Soccer Channel.mncvision">
-    <title>ACL Elite 2026/27: POH Vs JDT</title>
+    <title>ACL Elite 2026/27: AHL Vs JDT</title>
 </programme>
 <programme start="20261014060000 +0000" stop="20261014074000 +0000" channel="Soccer Channel.mncvision">
     <title>Timnas Spesial U23: IDN Vs SYR</title>
@@ -8048,7 +8048,7 @@
     <title>Shopee Cup &#039;26/27: BUR Vs BOR</title>
 </programme>
 <programme start="20261014114500 +0000" stop="20261014141500 +0000" channel="Soccer Channel.mncvision">
-    <title>ACL Two: PSB Vs VTL (L)</title>
+    <title>ACL Two: PSB Vs TCV (L)</title>
 </programme>
 <programme start="20261014141500 +0000" stop="20261014144500 +0000" channel="Soccer Channel.mncvision">
     <title>Top Goals</title>
@@ -8087,7 +8087,7 @@
     <title>Extra Time</title>
 </programme>
 <programme start="20261014040000 +0000" stop="20261014060000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>ACL Elite 2026/27: POH Vs JDT</title>
+    <title>ACL Elite 2026/27: AHL Vs JDT</title>
 </programme>
 <programme start="20261014060000 +0000" stop="20261014074000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Timnas Spesial U23: IDN Vs SYR</title>
@@ -8099,7 +8099,7 @@
     <title>Shopee Cup &#039;26/27: BUR Vs BOR</title>
 </programme>
 <programme start="20261014114500 +0000" stop="20261014141500 +0000" channel="Soccer Channel HD.mncvision">
-    <title>ACL Two: PSB Vs VTL (L)</title>
+    <title>ACL Two: PSB Vs TCV (L)</title>
 </programme>
 <programme start="20261014141500 +0000" stop="20261014144500 +0000" channel="Soccer Channel HD.mncvision">
     <title>Top Goals</title>

@@ -2916,22 +2916,22 @@
   <programme channel="782" start="20261015010000 +0000" stop="20261015023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/C_UuRFXokGTS9Dn8gmYOfTo00l8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376361/77a135.jpg"/>
   </programme>
   <programme channel="782" start="20261015023000 +0000" stop="20261015060000 +0000">
     <title lang="id">Mega Bollywood : Asoka</title>
     <desc lang="id">Mega Bollywood : Asoka</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/AhAuyVoszt14HBhS0HQ0aTzyzn8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376401/a57311.png"/>
   </programme>
   <programme channel="782" start="20261015060000 +0000" stop="20261015073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/mV4l8egcy1Wea2H1kRgKmbH_kpk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376369/10a149.jpg"/>
   </programme>
   <programme channel="782" start="20261015073000 +0000" stop="20261015093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/5cEP5Tk_mSvAYfXuz-CsU_NfA9o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376376/210e2a.jpg"/>
   </programme>
   <programme channel="782" start="20261015093000 +0000" stop="20261015104500 +0000">
     <title lang="id">Naagin 7</title>
@@ -10962,20 +10962,20 @@
     <desc lang="id">Matchday 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261015164000 +0000" stop="20261015185500 +0000">
-    <title lang="id">Lyon vs Crystal Palace - MD2 : UEFA Europa League 2026/27</title>
-    <desc lang="id">Lyon vs Crystal Palace - MD2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261015164000 +0000" stop="20261015184500 +0000">
+    <title lang="id">Olympique Lyonnais vs Crystal Palace - UEFA Europa League</title>
+    <desc lang="id">Misi besar Crystal Palace mencuri kemenangan berharga saat bertandang ke markas Olympique Lyonnais!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IYke8XaeooaPep3jxWw2Ek-srQ4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379599/3316be.jpg"/>
   </programme>
-  <programme channel="6299" start="20261015164000 +0000" stop="20261015185500 +0000">
-    <title lang="id">Lyon vs Crystal Palace - MD2 : UEFA Europa League 2026/27</title>
-    <desc lang="id">Lyon vs Crystal Palace - MD2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261015164000 +0000" stop="20261015184500 +0000">
+    <title lang="id">Olympique Lyonnais vs Crystal Palace - UEFA Europa League</title>
+    <desc lang="id">Misi besar Crystal Palace mencuri kemenangan berharga saat bertandang ke markas Olympique Lyonnais!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IYke8XaeooaPep3jxWw2Ek-srQ4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379599/3316be.jpg"/>
   </programme>
   <programme channel="6299" start="20261015185500 +0000" stop="20261015210000 +0000">
-    <title lang="id">Bournemouth vs Sturm - MD2 : UEFA Europa League 2026/27</title>
-    <desc lang="id">Bournemouth vs Sturm - MD2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Bournemouth vs SK Sturm Graz - UEFA Europa League</title>
+    <desc lang="id">Mampukah garis high-pressing intens Bournemouth bongkar pertahanan kokoh Sturm Graz?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/prdFCdF6R4WfGuSdFYg7nEhOQzg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379600/5d8e46.jpg"/>
   </programme>
   <programme channel="6299" start="20261015210000 +0000" stop="20261015225000 +0000">
     <title lang="id">Elche vs Celta Vigo : LaLiga 2026/27</title>
@@ -13194,17 +13194,17 @@
     <desc lang="id">Show 4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261014030000 +0000" stop="20261014050000 +0000">
+  <programme channel="6786" start="20261014030000 +0000" stop="20261014050500 +0000">
     <title lang="id">Magdalena Frech vs Iga Swiatek - Round of 32 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Magdalena Frech vs Iga Swiatek - Round of 32 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WS_VkQY8jEvrrCYiuCVte1C0KYI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378623/b5b022.png"/>
   </programme>
-  <programme channel="6786" start="20261014050000 +0000" stop="20261014070000 +0000">
+  <programme channel="6786" start="20261014050500 +0000" stop="20261014073000 +0000">
     <title lang="id">Karolina Muchova vs Caty McNally - Round of 32 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Karolina Muchova vs Caty McNally - Round of 32 | WTA 1000: Dongfeng ? Voyah Wuhan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BGWdEvasDNM9TBgwgkDosZ0YERo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378624/d15879.png"/>
   </programme>
-  <programme channel="6786" start="20261014070000 +0000" stop="20261014090000 +0000">
+  <programme channel="6786" start="20261014080000 +0000" stop="20261014090000 +0000">
     <title lang="id">Jelena Ostapenko vs Jessica Pegula - Round of 32 | WTA 1000: Dongfeng - Voyah Wuhan Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Jelena Ostapenko vs Jessica Pegula - Round of 32 | WTA 1000: Dongfeng ? Voyah Wuhan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bY6F1d_fRYDmdK9UzKWZyf3Wtv4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5378625/5feaac.png"/>
@@ -13796,20 +13796,20 @@
     <desc lang="id">2026 Women's Singles Final Andreeva v Chwalinska</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261015164000 +0000" stop="20261015185500 +0000">
-    <title lang="id">Lech vs Leverkusen - MD2 : UEFA Europa League 2026/27</title>
-    <desc lang="id">Lech vs Leverkusen - MD2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261015164000 +0000" stop="20261015184500 +0000">
+    <title lang="id">Lech Poznan vs Leverkusen - UEFA Europa League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Lech Poznan vs Leverkusen - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xZH7jgHKroyEEI3T2B9Ydc_1Jew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379598/062b03.jpg"/>
   </programme>
-  <programme channel="17875" start="20261015164000 +0000" stop="20261015185500 +0000">
-    <title lang="id">Lech vs Leverkusen - MD2 : UEFA Europa League 2026/27</title>
-    <desc lang="id">Lech vs Leverkusen - MD2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261015164000 +0000" stop="20261015184500 +0000">
+    <title lang="id">Lech Poznan vs Leverkusen - UEFA Europa League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Lech Poznan vs Leverkusen - UEFA Europa League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xZH7jgHKroyEEI3T2B9Ydc_1Jew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379598/062b03.jpg"/>
   </programme>
   <programme channel="17875" start="20261015185500 +0000" stop="20261015210000 +0000">
-    <title lang="id">Brighton vs Zalgiris - MD1 : UEFA Conference League 2026/27</title>
-    <desc lang="id">Brighton vs Zalgiris - MD1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Brighton vs Kauno Zalgiris - UEFA Conference League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brighton vs Kauno Zalgiris - UEFA Conference League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/gOW2g4FGXUUFOQc8_W-R1ybm9D4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379666/65dd8e.jpg"/>
   </programme>
   <programme channel="17875" start="20261015210000 +0000" stop="20261015212000 +0000">
     <title lang="id">2026 Men's Singles Final Zverev v Cobolli : Roland Garros Match Highlights</title>

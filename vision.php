@@ -634,9 +634,6 @@
 <programme start="20261014010000 +0000" stop="20261014023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261014023000 +0000" stop="20261014060000 +0000" channel="ANTV.vision">
-<title>Happy New Year</title>
-</programme>
 <programme start="20261014060000 +0000" stop="20261014073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261014170000 +0000" stop="20261014190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
