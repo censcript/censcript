@@ -8,7 +8,7 @@
     <title>The Tonight Show - Episode 72</title>
 </programme>
 <programme start="20261014051500 +0000" stop="20261014060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Six O&#039;Clock Show - Episode 195</title>
+    <title>The Six O&#039;Clock Show - Brian McFadden</title>
 </programme>
 <programme start="20261014120000 +0000" stop="20261014130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Chase - Episode 13</title>
@@ -4646,7 +4646,7 @@
     <title>Live: UEFA Champions League Football - Feyenoord v Como</title>
 </programme>
 <programme start="20261014000000 +0000" stop="20261014020000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>UEFA Champions League Football - League Phase: Atlético Madrid v Manchester United</title>
+    <title>UEFA Champions League Football - Atlético Madrid v Manchester United</title>
 </programme>
 <programme start="20261014020000 +0000" stop="20261014023000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>UEFA Champions League Football - Highlights</title>
@@ -4676,7 +4676,7 @@
     <title>Scottish Premiership Football - Aberdeen v St. Johnstone</title>
 </programme>
 <programme start="20261014163000 +0000" stop="20261014183000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>UEFA Champions League Football - League Phase: Atlético Madrid v Manchester United</title>
+    <title>UEFA Champions League Football - Atlético Madrid v Manchester United</title>
 </programme>
 <programme start="20261013220000 +0000" stop="20261014010000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
     <title>Live: NHL Hockey - New Jersey Devils at Detroit Red Wings</title>

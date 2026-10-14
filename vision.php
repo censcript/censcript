@@ -187,11 +187,8 @@
 <programme start="20261015080000 +0000" stop="20261015103000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
-<programme start="20261015103000 +0000" stop="20261015114500 +0000" channel="GTV.vision">
+<programme start="20261015103000 +0000" stop="20261015120000 +0000" channel="GTV.vision">
 <title>Monyet Penjaga Sungai</title>
-</programme>
-<programme start="20261015114500 +0000" stop="20261015141500 +0000" channel="GTV.vision">
-<title>GTV</title>
 </programme>
 <programme start="20261013234500 +0000" stop="20261014001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -221,7 +218,7 @@
 <title>Realita (L)</title>
 </programme>
 <programme start="20261014091500 +0000" stop="20261014113000 +0000" channel="iNews.vision">
-<title>iNews Sore (L)</title>
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20261014113000 +0000" stop="20261014114500 +0000" channel="iNews.vision">
 <title>iNews Terkini (L)</title>
@@ -302,7 +299,7 @@
 <title>Realita (L)</title>
 </programme>
 <programme start="20261015091500 +0000" stop="20261015120000 +0000" channel="iNews.vision">
-<title>iNews Sore (L)</title>
+<title>Inews Sore (Live)</title>
 </programme>
 <programme start="20261014000000 +0000" stop="20261014003000 +0000" channel="SindoNews.vision">
 <title>The Comment</title>
@@ -525,9 +522,6 @@
 </programme>
 <programme start="20261014074500 +0000" stop="20261014081500 +0000" channel="Trans 7.vision">
 <title>Spotlite Anti Kudet</title>
-</programme>
-<programme start="20261014081500 +0000" stop="20261014090000 +0000" channel="Trans 7.vision">
-<title>Rejeki Keliling</title>
 </programme>
 <programme start="20261014090000 +0000" stop="20261014100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261014210000 +0000" stop="20261014230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261014230000 +0000" stop="20261015010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

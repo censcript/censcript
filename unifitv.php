@@ -1208,10 +1208,61 @@
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20261014003000 +0000" stop="20261014043000 +0000" channel="didiktv.unifitv">
-    <title lang="en">PETAH KPM 2026 (BICARA BERIRAMA &amp; CHORAL SPEAKING - SEKOLAH MENENGAH)</title>
-    <desc lang="en">PETAH KPM 2026 (BICARA BERIRAMA &amp; CHORAL SPEAKING - SEKOLAH MENENGAH)</desc>
+  <programme start="20261014003000 +0000" stop="20261014010000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PECUTAN SPM 2024</title>
+    <desc lang="en">Memaparkan teknik menjawab soalan bagi kertas peperiksaan Sijil Pelajaran Malaysia (SPM) di mana fokus utama slot ini adalah memberi pendedahan kepada murid tentang bentuk soalan dan teknik menjawab soalan agar memperoleh keputusan cemerlang.</desc>
     <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261014010000 +0000" stop="20261014013000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.146.</episode-num>
+    <episode-num system="onscreen">S1E147</episode-num>
+  </programme>
+  <programme start="20261014013000 +0000" stop="20261014020000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 2026</title>
+    <desc lang="en">Episod ini membawa penonton meneroka konsep gabungan transformasi secara sistematik. Murid akan dibimbing untuk menentukan objek dan imej yang terhasil daripada suatu gabungan transformasi serta mengenal pasti urutan transformasi yang terlibat.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20261014020000 +0000" stop="20261014023000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH RENDAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
+  </programme>
+  <programme start="20261014023000 +0000" stop="20261014030000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH RENDAH 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.115.</episode-num>
+    <episode-num system="onscreen">S1E116</episode-num>
+  </programme>
+  <programme start="20261014030000 +0000" stop="20261014033000 +0000" channel="didiktv.unifitv">
+    <title lang="en">PRASEKOLAH 2026</title>
+    <desc lang="en">PRASEKOLAH 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.27.</episode-num>
+    <episode-num system="onscreen">S1E28</episode-num>
+  </programme>
+  <programme start="20261014033000 +0000" stop="20261014040000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TAHAP I 2026</title>
+    <desc lang="en">TAHAP I 2026</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
+  </programme>
+  <programme start="20261014040000 +0000" stop="20261014043000 +0000" channel="didiktv.unifitv">
+    <title lang="en">TAHAP II 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+    <category lang="en">Education</category>
+    <episode-num system="xmltv_ns">0.52.</episode-num>
+    <episode-num system="onscreen">S1E53</episode-num>
   </programme>
   <programme start="20261014043000 +0000" stop="20261014050000 +0000" channel="didiktv.unifitv">
     <title lang="en">TVET 2026</title>

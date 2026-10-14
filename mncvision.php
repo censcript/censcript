@@ -4861,19 +4861,22 @@
 <programme start="20261014113000 +0000" stop="20261014114500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261014114500 +0000" stop="20261014141500 +0000" channel="iNews.mncvision">
+<programme start="20261014114500 +0000" stop="20261014140000 +0000" channel="iNews.mncvision">
     <title>ACL Two 2026-2027 (L)</title>
 </programme>
-<programme start="20261014141500 +0000" stop="20261014143000 +0000" channel="iNews.mncvision">
+<programme start="20261014140000 +0000" stop="20261014141500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261014143000 +0000" stop="20261014152000 +0000" channel="iNews.mncvision">
+<programme start="20261014141500 +0000" stop="20261014143000 +0000" channel="iNews.mncvision">
+    <title>Peringatan Pertempuran...(L)</title>
+</programme>
+<programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261014152000 +0000" stop="20261014153000 +0000" channel="iNews.mncvision">
+<programme start="20261014153000 +0000" stop="20261014154500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="iNews.mncvision">
+<programme start="20261014154500 +0000" stop="20261014163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261014163000 +0000" stop="20261013170000 +0000" channel="iNews.mncvision">
@@ -4945,19 +4948,22 @@
 <programme start="20261014113000 +0000" stop="20261014114500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261014114500 +0000" stop="20261014141500 +0000" channel="iNews HD.mncvision">
+<programme start="20261014114500 +0000" stop="20261014140000 +0000" channel="iNews HD.mncvision">
     <title>ACL Two 2026-2027 (L)</title>
 </programme>
-<programme start="20261014141500 +0000" stop="20261014143000 +0000" channel="iNews HD.mncvision">
+<programme start="20261014140000 +0000" stop="20261014141500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261014143000 +0000" stop="20261014152000 +0000" channel="iNews HD.mncvision">
+<programme start="20261014141500 +0000" stop="20261014143000 +0000" channel="iNews HD.mncvision">
+    <title>Peringatan Pertempuran...(L)</title>
+</programme>
+<programme start="20261014143000 +0000" stop="20261014153000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261014152000 +0000" stop="20261014153000 +0000" channel="iNews HD.mncvision">
+<programme start="20261014153000 +0000" stop="20261014154500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261014153000 +0000" stop="20261014163000 +0000" channel="iNews HD.mncvision">
+<programme start="20261014154500 +0000" stop="20261014163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261014163000 +0000" stop="20261013170000 +0000" channel="iNews HD.mncvision">

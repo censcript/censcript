@@ -457,6 +457,9 @@
     <programme start="20261015234500 +0000" stop="20261015235959 +0000" channel="387294.shahid">
         <title>Awdat Khalati Season 1 Episode 24</title>
     </programme>
+    <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="49923086914927.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261014000000 +0000" stop="20261014001024 +0000" channel="969745.shahid">
         <title>Kollona Iyal Qrayya Season 1 Episode 1</title>
     </programme>
@@ -735,9 +738,6 @@
     </programme>
     <programme start="20261015235759 +0000" stop="20261015235959 +0000" channel="969745.shahid">
         <title>Kollona Iyal Qrayya Season 1 Episode 26</title>
-    </programme>
-    <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="49923086914927.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20261014000000 +0000" stop="20261014000118 +0000" channel="49923172117967.shahid">
         <title>Sadgini</title>
@@ -4516,9 +4516,6 @@
     <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="414449.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="951783.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20261014000000 +0000" stop="20261014060000 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -4603,98 +4600,11 @@
     <programme start="20261015160500 +0000" stop="20261015235959 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="946948.shahid">
+    <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="951783.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261014000000 +0000" stop="20261014004942 +0000" channel="989622.shahid">
-        <title>Ga&#039;ana El Bayan El Tali</title>
-    </programme>
-    <programme start="20261014004942 +0000" stop="20261014024525 +0000" channel="989622.shahid">
-        <title>Walad Wa Bent</title>
-    </programme>
-    <programme start="20261014024525 +0000" stop="20261014051523 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20261014051523 +0000" stop="20261014060859 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 14</title>
-    </programme>
-    <programme start="20261014060859 +0000" stop="20261014081812 +0000" channel="989622.shahid">
-        <title>Ga&#039;ana El Bayan El Tali</title>
-    </programme>
-    <programme start="20261014081812 +0000" stop="20261014101355 +0000" channel="989622.shahid">
-        <title>Walad Wa Bent</title>
-    </programme>
-    <programme start="20261014101355 +0000" stop="20261014124343 +0000" channel="989622.shahid">
-        <title>Wahed Min El Nas</title>
-    </programme>
-    <programme start="20261014124343 +0000" stop="20261014143627 +0000" channel="989622.shahid">
-        <title>Lailet Soqout Baghdad</title>
-    </programme>
-    <programme start="20261014143627 +0000" stop="20261014152034 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 21</title>
-    </programme>
-    <programme start="20261014152034 +0000" stop="20261014165736 +0000" channel="989622.shahid">
-        <title>Asrar El Banat</title>
-    </programme>
-    <programme start="20261014165736 +0000" stop="20261014185456 +0000" channel="989622.shahid">
-        <title>Alzheimer&#039;s</title>
-    </programme>
-    <programme start="20261014185456 +0000" stop="20261014204609 +0000" channel="989622.shahid">
-        <title>Lailet Soqout Baghdad</title>
-    </programme>
-    <programme start="20261014204609 +0000" stop="20261014213016 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 21</title>
-    </programme>
-    <programme start="20261014213016 +0000" stop="20261014230627 +0000" channel="989622.shahid">
-        <title>Asrar El Banat</title>
-    </programme>
-    <programme start="20261014230627 +0000" stop="20261015010334 +0000" channel="989622.shahid">
-        <title>Alzheimer&#039;s</title>
-    </programme>
-    <programme start="20261015010334 +0000" stop="20261015025446 +0000" channel="989622.shahid">
-        <title>Lailet Soqout Baghdad</title>
-    </programme>
-    <programme start="20261015025446 +0000" stop="20261015033813 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 21</title>
-    </programme>
-    <programme start="20261015033813 +0000" stop="20261015051358 +0000" channel="989622.shahid">
-        <title>Asrar El Banat</title>
-    </programme>
-    <programme start="20261015051358 +0000" stop="20261015071011 +0000" channel="989622.shahid">
-        <title>Alzheimer&#039;s</title>
-    </programme>
-    <programme start="20261015071011 +0000" stop="20261015090125 +0000" channel="989622.shahid">
-        <title>Lailet Soqout Baghdad</title>
-    </programme>
-    <programme start="20261015090125 +0000" stop="20261015094506 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 21</title>
-    </programme>
-    <programme start="20261015094506 +0000" stop="20261015112118 +0000" channel="989622.shahid">
-        <title>Asrar El Banat</title>
-    </programme>
-    <programme start="20261015112118 +0000" stop="20261015130949 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20261015130949 +0000" stop="20261015135414 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 9</title>
-    </programme>
-    <programme start="20261015135414 +0000" stop="20261015160044 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20261015160044 +0000" stop="20261015182021 +0000" channel="989622.shahid">
-        <title>Bentain Min Masr</title>
-    </programme>
-    <programme start="20261015182021 +0000" stop="20261015200904 +0000" channel="989622.shahid">
-        <title>Shagee&#039; El Cima</title>
-    </programme>
-    <programme start="20261015200904 +0000" stop="20261015205354 +0000" channel="989622.shahid">
-        <title>Anakeed Season 1 Episode 9</title>
-    </programme>
-    <programme start="20261015205354 +0000" stop="20261015230101 +0000" channel="989622.shahid">
-        <title>Teer Enta</title>
-    </programme>
-    <programme start="20261015230101 +0000" stop="20261015235959 +0000" channel="989622.shahid">
-        <title>Bentain Min Masr</title>
+    <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="946948.shahid">
+        <title>TV guide is not available</title>
     </programme>
     <programme start="20261014000000 +0000" stop="20261014002002 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 8 Episode 1</title>
@@ -4872,6 +4782,96 @@
     </programme>
     <programme start="20261015233408 +0000" stop="20261015235959 +0000" channel="975435.shahid">
         <title>Bab Al Hara Season 9 Episode 27</title>
+    </programme>
+    <programme start="20261014000000 +0000" stop="20261014004942 +0000" channel="989622.shahid">
+        <title>Ga&#039;ana El Bayan El Tali</title>
+    </programme>
+    <programme start="20261014004942 +0000" stop="20261014024525 +0000" channel="989622.shahid">
+        <title>Walad Wa Bent</title>
+    </programme>
+    <programme start="20261014024525 +0000" stop="20261014051523 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20261014051523 +0000" stop="20261014060859 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 14</title>
+    </programme>
+    <programme start="20261014060859 +0000" stop="20261014081812 +0000" channel="989622.shahid">
+        <title>Ga&#039;ana El Bayan El Tali</title>
+    </programme>
+    <programme start="20261014081812 +0000" stop="20261014101355 +0000" channel="989622.shahid">
+        <title>Walad Wa Bent</title>
+    </programme>
+    <programme start="20261014101355 +0000" stop="20261014124343 +0000" channel="989622.shahid">
+        <title>Wahed Min El Nas</title>
+    </programme>
+    <programme start="20261014124343 +0000" stop="20261014143627 +0000" channel="989622.shahid">
+        <title>Lailet Soqout Baghdad</title>
+    </programme>
+    <programme start="20261014143627 +0000" stop="20261014152034 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 21</title>
+    </programme>
+    <programme start="20261014152034 +0000" stop="20261014165736 +0000" channel="989622.shahid">
+        <title>Asrar El Banat</title>
+    </programme>
+    <programme start="20261014165736 +0000" stop="20261014185456 +0000" channel="989622.shahid">
+        <title>Alzheimer&#039;s</title>
+    </programme>
+    <programme start="20261014185456 +0000" stop="20261014204609 +0000" channel="989622.shahid">
+        <title>Lailet Soqout Baghdad</title>
+    </programme>
+    <programme start="20261014204609 +0000" stop="20261014213016 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 21</title>
+    </programme>
+    <programme start="20261014213016 +0000" stop="20261014230627 +0000" channel="989622.shahid">
+        <title>Asrar El Banat</title>
+    </programme>
+    <programme start="20261014230627 +0000" stop="20261015010334 +0000" channel="989622.shahid">
+        <title>Alzheimer&#039;s</title>
+    </programme>
+    <programme start="20261015010334 +0000" stop="20261015025446 +0000" channel="989622.shahid">
+        <title>Lailet Soqout Baghdad</title>
+    </programme>
+    <programme start="20261015025446 +0000" stop="20261015033813 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 21</title>
+    </programme>
+    <programme start="20261015033813 +0000" stop="20261015051358 +0000" channel="989622.shahid">
+        <title>Asrar El Banat</title>
+    </programme>
+    <programme start="20261015051358 +0000" stop="20261015071011 +0000" channel="989622.shahid">
+        <title>Alzheimer&#039;s</title>
+    </programme>
+    <programme start="20261015071011 +0000" stop="20261015090125 +0000" channel="989622.shahid">
+        <title>Lailet Soqout Baghdad</title>
+    </programme>
+    <programme start="20261015090125 +0000" stop="20261015094506 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 21</title>
+    </programme>
+    <programme start="20261015094506 +0000" stop="20261015112118 +0000" channel="989622.shahid">
+        <title>Asrar El Banat</title>
+    </programme>
+    <programme start="20261015112118 +0000" stop="20261015130949 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20261015130949 +0000" stop="20261015135414 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 9</title>
+    </programme>
+    <programme start="20261015135414 +0000" stop="20261015160044 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20261015160044 +0000" stop="20261015182021 +0000" channel="989622.shahid">
+        <title>Bentain Min Masr</title>
+    </programme>
+    <programme start="20261015182021 +0000" stop="20261015200904 +0000" channel="989622.shahid">
+        <title>Shagee&#039; El Cima</title>
+    </programme>
+    <programme start="20261015200904 +0000" stop="20261015205354 +0000" channel="989622.shahid">
+        <title>Anakeed Season 1 Episode 9</title>
+    </programme>
+    <programme start="20261015205354 +0000" stop="20261015230101 +0000" channel="989622.shahid">
+        <title>Teer Enta</title>
+    </programme>
+    <programme start="20261015230101 +0000" stop="20261015235959 +0000" channel="989622.shahid">
+        <title>Bentain Min Masr</title>
     </programme>
     <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="49923086870104.shahid">
         <title>TV guide is not available</title>
@@ -5752,6 +5752,312 @@
     <programme start="20261016000000 +0000" stop="20261015235959 +0000" channel="387251.shahid">
         <title>Al Hofra Season 4 Episode 308</title>
     </programme>
+    <programme start="20261014000000 +0000" stop="20261014005000 +0000" channel="862837.shahid">
+        <title>Al Irtidad Sharqan - Episode 2065</title>
+    </programme>
+    <programme start="20261014005000 +0000" stop="20261014005500 +0000" channel="862837.shahid">
+        <title>Hakaya wa nas - Episode 285</title>
+    </programme>
+    <programme start="20261014005500 +0000" stop="20261014010000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014010000 +0000" stop="20261014015000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261014015000 +0000" stop="20261014020000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014020000 +0000" stop="20261014020500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20261014020500 +0000" stop="20261014025500 +0000" channel="862837.shahid">
+        <title>Al Bu&#039;d Al Rabi&#039; - Episode 254</title>
+    </programme>
+    <programme start="20261014025500 +0000" stop="20261014030000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014030000 +0000" stop="20261014030500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20261014030500 +0000" stop="20261014035500 +0000" channel="862837.shahid">
+        <title>Da&#039;erat Asharq - Episode 1533</title>
+    </programme>
+    <programme start="20261014035500 +0000" stop="20261014040000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014040000 +0000" stop="20261014040500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq  Rec - 5 min Oct 13 4am </title>
+    </programme>
+    <programme start="20261014040500 +0000" stop="20261014045500 +0000" channel="862837.shahid">
+        <title>Sharq Gharb - Episode 11532</title>
+    </programme>
+    <programme start="20261014045500 +0000" stop="20261014050000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014050000 +0000" stop="20261014050500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq  Rec - 5 min Oct 13 4am </title>
+    </programme>
+    <programme start="20261014050500 +0000" stop="20261014055000 +0000" channel="862837.shahid">
+        <title>Ala Al Houdod - Episode 295</title>
+    </programme>
+    <programme start="20261014055000 +0000" stop="20261014055500 +0000" channel="862837.shahid">
+        <title>Hakaya wa nas - Episode 285</title>
+    </programme>
+    <programme start="20261014055500 +0000" stop="20261014075000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014075000 +0000" stop="20261014075500 +0000" channel="862837.shahid">
+        <title>Hakaya wa nas - Episode 285</title>
+    </programme>
+    <programme start="20261014075500 +0000" stop="20261014080000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014080000 +0000" stop="20261014095000 +0000" channel="862837.shahid">
+        <title>Sabah Asharq - Episode 427</title>
+    </programme>
+    <programme start="20261014095000 +0000" stop="20261014100000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014100000 +0000" stop="20261014105000 +0000" channel="862837.shahid">
+        <title>Al Jalsah Al Oula - Episode 543</title>
+    </programme>
+    <programme start="20261014105000 +0000" stop="20261014110000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014110000 +0000" stop="20261014115000 +0000" channel="862837.shahid">
+        <title>Mo&#039;a Sherat Asharq - Episode 1154</title>
+    </programme>
+    <programme start="20261014115000 +0000" stop="20261014120000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014120000 +0000" stop="20261014125000 +0000" channel="862837.shahid">
+        <title>Radar Al Aswaq - Episode 544</title>
+    </programme>
+    <programme start="20261014125000 +0000" stop="20261014130000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="862837.shahid">
+        <title>Tahdethat Al Souq</title>
+    </programme>
+    <programme start="20261014133000 +0000" stop="20261014152000 +0000" channel="862837.shahid">
+        <title>Aswaq Asharq - Episode 1496</title>
+    </programme>
+    <programme start="20261014152000 +0000" stop="20261014153000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014153000 +0000" stop="20261014160000 +0000" channel="862837.shahid">
+        <title>Tahdethat Al Souq</title>
+    </programme>
+    <programme start="20261014160000 +0000" stop="20261014165000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261014165000 +0000" stop="20261014170000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261014173000 +0000" stop="20261014175500 +0000" channel="862837.shahid">
+        <title>Al Aswaq Al Americia - Episode 232</title>
+    </programme>
+    <programme start="20261014175500 +0000" stop="20261014180000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261014180000 +0000" stop="20261014185000 +0000" channel="862837.shahid">
+        <title>Sharq Gharb - Episode 11533</title>
+    </programme>
+    <programme start="20261014185000 +0000" stop="20261014190000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261014190000 +0000" stop="20261014195000 +0000" channel="862837.shahid">
+        <title>Jalsat Al Masaa&#039; - Episode 1539</title>
+    </programme>
+    <programme start="20261014195000 +0000" stop="20261014200000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261014200000 +0000" stop="20261014205000 +0000" channel="862837.shahid">
+        <title>Al Bu&#039;d Al Rabi&#039; - Episode 255</title>
+    </programme>
+    <programme start="20261014205000 +0000" stop="20261014210000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261014210000 +0000" stop="20261014215000 +0000" channel="862837.shahid">
+        <title>Masaa&#039; Asharq - Episode 898</title>
+    </programme>
+    <programme start="20261014215000 +0000" stop="20261014220000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261014220000 +0000" stop="20261014225000 +0000" channel="862837.shahid">
+        <title>Da&#039;erat Asharq - Episode 1534</title>
+    </programme>
+    <programme start="20261014225000 +0000" stop="20261014230000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261014230000 +0000" stop="20261014235000 +0000" channel="862837.shahid">
+        <title>Alwan Asharq - Episode 2158</title>
+    </programme>
+    <programme start="20261014235000 +0000" stop="20261015000000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015000000 +0000" stop="20261015005000 +0000" channel="862837.shahid">
+        <title>Al Irtidad Sharqan - Episode 2066</title>
+    </programme>
+    <programme start="20261015005000 +0000" stop="20261015010000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261015010000 +0000" stop="20261015015000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261015015000 +0000" stop="20261015020000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015020000 +0000" stop="20261015020500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq</title>
+    </programme>
+    <programme start="20261015020500 +0000" stop="20261015025500 +0000" channel="862837.shahid">
+        <title>Al Bu&#039;d Al Rabi&#039; - Episode 255</title>
+    </programme>
+    <programme start="20261015025500 +0000" stop="20261015030000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015030000 +0000" stop="20261015030500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq  Rec - 5 min Oct 14 4am </title>
+    </programme>
+    <programme start="20261015030500 +0000" stop="20261015035500 +0000" channel="862837.shahid">
+        <title>Da&#039;erat Asharq - Episode 1534</title>
+    </programme>
+    <programme start="20261015035500 +0000" stop="20261015040000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015040000 +0000" stop="20261015040500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq  Rec - 5 min Oct 14 4am </title>
+    </programme>
+    <programme start="20261015040500 +0000" stop="20261015045500 +0000" channel="862837.shahid">
+        <title>Sharq Gharb - Episode 11533</title>
+    </programme>
+    <programme start="20261015045500 +0000" stop="20261015050000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015050000 +0000" stop="20261015050500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq  Rec - 5 min Oct 14 4am </title>
+    </programme>
+    <programme start="20261015050500 +0000" stop="20261015055000 +0000" channel="862837.shahid">
+        <title>Ma&#039;a Wa Ded - Episode 292</title>
+    </programme>
+    <programme start="20261015055000 +0000" stop="20261014060000 +0000" channel="862837.shahid">
+        <title>Asharq Cinema - Episode 194</title>
+    </programme>
+    <programme start="20261014060000 +0000" stop="20261015060000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015060000 +0000" stop="20261015065000 +0000" channel="862837.shahid">
+        <title>The Asia Trade - Episode 603</title>
+    </programme>
+    <programme start="20261015065000 +0000" stop="20261015070000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015070000 +0000" stop="20261015072500 +0000" channel="862837.shahid">
+        <title>Taqreer Asia - Episode 132</title>
+    </programme>
+    <programme start="20261015072500 +0000" stop="20261015075500 +0000" channel="862837.shahid">
+        <title>Business Special Coverage - IMF coverage Oct 15 2026</title>
+    </programme>
+    <programme start="20261015075500 +0000" stop="20261015080000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015080000 +0000" stop="20261015095000 +0000" channel="862837.shahid">
+        <title>Sabah Asharq - Episode 428</title>
+    </programme>
+    <programme start="20261015095000 +0000" stop="20261015100000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015100000 +0000" stop="20261015105000 +0000" channel="862837.shahid">
+        <title>Al Jalsah Al Oula - Episode 544</title>
+    </programme>
+    <programme start="20261015105000 +0000" stop="20261015110000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015110000 +0000" stop="20261015115000 +0000" channel="862837.shahid">
+        <title>Mo&#039;a Sherat Asharq - Episode 1155</title>
+    </programme>
+    <programme start="20261015115000 +0000" stop="20261015120000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015120000 +0000" stop="20261015125000 +0000" channel="862837.shahid">
+        <title>Radar Al Aswaq - Episode 545</title>
+    </programme>
+    <programme start="20261015125000 +0000" stop="20261015130000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="862837.shahid">
+        <title>Taqreer Asia - Episode 133</title>
+    </programme>
+    <programme start="20261015133000 +0000" stop="20261015152000 +0000" channel="862837.shahid">
+        <title>Aswaq Asharq - Episode 1497</title>
+    </programme>
+    <programme start="20261015152000 +0000" stop="20261015153000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="862837.shahid">
+        <title>Tahdethat Al Souq</title>
+    </programme>
+    <programme start="20261015160000 +0000" stop="20261015165000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261015165000 +0000" stop="20261015170000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261015173000 +0000" stop="20261015175500 +0000" channel="862837.shahid">
+        <title>Al Aswaq Al Americia - Episode 233</title>
+    </programme>
+    <programme start="20261015175500 +0000" stop="20261015180000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261015180000 +0000" stop="20261015185000 +0000" channel="862837.shahid">
+        <title>Sharq Gharb - Episode 11534</title>
+    </programme>
+    <programme start="20261015185000 +0000" stop="20261015190000 +0000" channel="862837.shahid">
+        <title>Abaad Maa Arfad S3 - Episode 13</title>
+    </programme>
+    <programme start="20261015190000 +0000" stop="20261015195000 +0000" channel="862837.shahid">
+        <title>Jalsat Al Masaa&#039; - Episode 1540</title>
+    </programme>
+    <programme start="20261015195000 +0000" stop="20261015200000 +0000" channel="862837.shahid">
+        <title>Abaad Maa Arfad S3 - Episode 13</title>
+    </programme>
+    <programme start="20261015200000 +0000" stop="20261015200500 +0000" channel="862837.shahid">
+        <title>Akhbar Asharq </title>
+    </programme>
+    <programme start="20261015200500 +0000" stop="20261015205000 +0000" channel="862837.shahid">
+        <title>Taqreer Washington - Episode 191</title>
+    </programme>
+    <programme start="20261015205000 +0000" stop="20261015210000 +0000" channel="862837.shahid">
+        <title>Abaad Maa Arfad S3 - Episode 13</title>
+    </programme>
+    <programme start="20261015210000 +0000" stop="20261015215000 +0000" channel="862837.shahid">
+        <title>Masaa&#039; Asharq - Episode 899</title>
+    </programme>
+    <programme start="20261015215000 +0000" stop="20261015220000 +0000" channel="862837.shahid">
+        <title>Abaad Maa Arfad S3 - Episode 13</title>
+    </programme>
+    <programme start="20261015220000 +0000" stop="20261015225000 +0000" channel="862837.shahid">
+        <title>Da&#039;erat Asharq - Episode 1535</title>
+    </programme>
+    <programme start="20261015225000 +0000" stop="20261015230000 +0000" channel="862837.shahid">
+        <title>Abaad Maa Arfad S3 - Episode 13</title>
+    </programme>
+    <programme start="20261015230000 +0000" stop="20261015235000 +0000" channel="862837.shahid">
+        <title>Alwan Asharq - Episode 2159</title>
+    </programme>
+    <programme start="20261015235000 +0000" stop="20261016000000 +0000" channel="862837.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261016000000 +0000" stop="20261015235959 +0000" channel="862837.shahid">
+        <title>Al Irtidad Sharqan - Episode 2067</title>
+    </programme>
     <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="946940.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -5964,306 +6270,6 @@
     </programme>
     <programme start="20261015053400 +0000" stop="20261015235959 +0000" channel="49923122575716.shahid">
         <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014000000 +0000" stop="20261014005000 +0000" channel="862837.shahid">
-        <title>Al Irtidad Sharqan - Episode 2065</title>
-    </programme>
-    <programme start="20261014005000 +0000" stop="20261014005500 +0000" channel="862837.shahid">
-        <title>Hakaya wa nas - Episode 285</title>
-    </programme>
-    <programme start="20261014005500 +0000" stop="20261014010000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014010000 +0000" stop="20261014015000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261014015000 +0000" stop="20261014020000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014020000 +0000" stop="20261014020500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20261014020500 +0000" stop="20261014025500 +0000" channel="862837.shahid">
-        <title>Al Bu&#039;d Al Rabi&#039; - Episode 254</title>
-    </programme>
-    <programme start="20261014025500 +0000" stop="20261014030000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014030000 +0000" stop="20261014030500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20261014030500 +0000" stop="20261014035500 +0000" channel="862837.shahid">
-        <title>Da&#039;erat Asharq - Episode 1533</title>
-    </programme>
-    <programme start="20261014035500 +0000" stop="20261014040000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014040000 +0000" stop="20261014040500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq  Rec - 5 min Oct 13 4am </title>
-    </programme>
-    <programme start="20261014040500 +0000" stop="20261014045500 +0000" channel="862837.shahid">
-        <title>Sharq Gharb - Episode 11532</title>
-    </programme>
-    <programme start="20261014045500 +0000" stop="20261014050000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014050000 +0000" stop="20261014050500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq  Rec - 5 min Oct 13 4am </title>
-    </programme>
-    <programme start="20261014050500 +0000" stop="20261014055000 +0000" channel="862837.shahid">
-        <title>Ala Al Houdod - Episode 295</title>
-    </programme>
-    <programme start="20261014055000 +0000" stop="20261014055500 +0000" channel="862837.shahid">
-        <title>Hakaya wa nas - Episode 285</title>
-    </programme>
-    <programme start="20261014055500 +0000" stop="20261014060000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014060000 +0000" stop="20261014075000 +0000" channel="862837.shahid">
-        <title>The Asia Trade - Episode 602</title>
-    </programme>
-    <programme start="20261014075000 +0000" stop="20261014075500 +0000" channel="862837.shahid">
-        <title>Hakaya wa nas - Episode 285</title>
-    </programme>
-    <programme start="20261014075500 +0000" stop="20261014080000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014080000 +0000" stop="20261014095000 +0000" channel="862837.shahid">
-        <title>Sabah Asharq - Episode 427</title>
-    </programme>
-    <programme start="20261014095000 +0000" stop="20261014100000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014100000 +0000" stop="20261014105000 +0000" channel="862837.shahid">
-        <title>Al Jalsah Al Oula - Episode 543</title>
-    </programme>
-    <programme start="20261014105000 +0000" stop="20261014110000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014110000 +0000" stop="20261014115000 +0000" channel="862837.shahid">
-        <title>Mo&#039;a Sherat Asharq - Episode 1154</title>
-    </programme>
-    <programme start="20261014115000 +0000" stop="20261014120000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014120000 +0000" stop="20261014125000 +0000" channel="862837.shahid">
-        <title>Radar Al Aswaq - Episode 544</title>
-    </programme>
-    <programme start="20261014125000 +0000" stop="20261014130000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014130000 +0000" stop="20261014133000 +0000" channel="862837.shahid">
-        <title>Tahdethat Al Souq</title>
-    </programme>
-    <programme start="20261014133000 +0000" stop="20261014152000 +0000" channel="862837.shahid">
-        <title>Aswaq Asharq - Episode 1496</title>
-    </programme>
-    <programme start="20261014152000 +0000" stop="20261014153000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014153000 +0000" stop="20261014160000 +0000" channel="862837.shahid">
-        <title>Tahdethat Al Souq</title>
-    </programme>
-    <programme start="20261014160000 +0000" stop="20261014165000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261014165000 +0000" stop="20261014170000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261014173000 +0000" stop="20261014175500 +0000" channel="862837.shahid">
-        <title>Al Aswaq Al Americia - Episode 232</title>
-    </programme>
-    <programme start="20261014175500 +0000" stop="20261014180000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261014180000 +0000" stop="20261014185000 +0000" channel="862837.shahid">
-        <title>Sharq Gharb - Episode 11533</title>
-    </programme>
-    <programme start="20261014185000 +0000" stop="20261014190000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 194</title>
-    </programme>
-    <programme start="20261014190000 +0000" stop="20261014195000 +0000" channel="862837.shahid">
-        <title>Jalsat Al Masaa&#039; - Episode 1539</title>
-    </programme>
-    <programme start="20261014195000 +0000" stop="20261014200000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 194</title>
-    </programme>
-    <programme start="20261014200000 +0000" stop="20261014205000 +0000" channel="862837.shahid">
-        <title>Al Bu&#039;d Al Rabi&#039; - Episode 255</title>
-    </programme>
-    <programme start="20261014205000 +0000" stop="20261014210000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 194</title>
-    </programme>
-    <programme start="20261014210000 +0000" stop="20261014215000 +0000" channel="862837.shahid">
-        <title>Masaa&#039; Asharq - Episode 898</title>
-    </programme>
-    <programme start="20261014215000 +0000" stop="20261014220000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 194</title>
-    </programme>
-    <programme start="20261014220000 +0000" stop="20261014225000 +0000" channel="862837.shahid">
-        <title>Da&#039;erat Asharq - Episode 1534</title>
-    </programme>
-    <programme start="20261014225000 +0000" stop="20261014230000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 194</title>
-    </programme>
-    <programme start="20261014230000 +0000" stop="20261014235000 +0000" channel="862837.shahid">
-        <title>Alwan Asharq - Episode 2158</title>
-    </programme>
-    <programme start="20261014235000 +0000" stop="20261015000000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015000000 +0000" stop="20261015005000 +0000" channel="862837.shahid">
-        <title>Al Irtidad Sharqan - Episode 2066</title>
-    </programme>
-    <programme start="20261015005000 +0000" stop="20261015010000 +0000" channel="862837.shahid">
-        <title>Asharq Cinema - Episode 194</title>
-    </programme>
-    <programme start="20261015010000 +0000" stop="20261015015000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261015015000 +0000" stop="20261015020000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015020000 +0000" stop="20261015020500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq</title>
-    </programme>
-    <programme start="20261015020500 +0000" stop="20261015025500 +0000" channel="862837.shahid">
-        <title>Al Bu&#039;d Al Rabi&#039; - Episode 255</title>
-    </programme>
-    <programme start="20261015025500 +0000" stop="20261015030000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015030000 +0000" stop="20261015030500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq  Rec - 5 min Oct 14 4am </title>
-    </programme>
-    <programme start="20261015030500 +0000" stop="20261015035500 +0000" channel="862837.shahid">
-        <title>Da&#039;erat Asharq - Episode 1534</title>
-    </programme>
-    <programme start="20261015035500 +0000" stop="20261015040000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015040000 +0000" stop="20261015040500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq  Rec - 5 min Oct 14 4am </title>
-    </programme>
-    <programme start="20261015040500 +0000" stop="20261015045500 +0000" channel="862837.shahid">
-        <title>Sharq Gharb - Episode 11533</title>
-    </programme>
-    <programme start="20261015045500 +0000" stop="20261015050000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015050000 +0000" stop="20261015050500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq  Rec - 5 min Oct 14 4am </title>
-    </programme>
-    <programme start="20261015050500 +0000" stop="20261015055000 +0000" channel="862837.shahid">
-        <title>Ma&#039;a Wa Ded - Episode 292</title>
-    </programme>
-    <programme start="20261015055000 +0000" stop="20261015070000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015070000 +0000" stop="20261015072500 +0000" channel="862837.shahid">
-        <title>Taqreer Asia - Episode 132</title>
-    </programme>
-    <programme start="20261015072500 +0000" stop="20261015075500 +0000" channel="862837.shahid">
-        <title>Business Special Coverage - IMF coverage Oct 15 2026</title>
-    </programme>
-    <programme start="20261015075500 +0000" stop="20261015080000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015080000 +0000" stop="20261015095000 +0000" channel="862837.shahid">
-        <title>Sabah Asharq - Episode 428</title>
-    </programme>
-    <programme start="20261015095000 +0000" stop="20261015100000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015100000 +0000" stop="20261015105000 +0000" channel="862837.shahid">
-        <title>Al Jalsah Al Oula - Episode 544</title>
-    </programme>
-    <programme start="20261015105000 +0000" stop="20261015110000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015110000 +0000" stop="20261015115000 +0000" channel="862837.shahid">
-        <title>Mo&#039;a Sherat Asharq - Episode 1155</title>
-    </programme>
-    <programme start="20261015115000 +0000" stop="20261015120000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015120000 +0000" stop="20261015125000 +0000" channel="862837.shahid">
-        <title>Radar Al Aswaq - Episode 545</title>
-    </programme>
-    <programme start="20261015125000 +0000" stop="20261015130000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015130000 +0000" stop="20261015133000 +0000" channel="862837.shahid">
-        <title>Taqreer Asia - Episode 133</title>
-    </programme>
-    <programme start="20261015133000 +0000" stop="20261015152000 +0000" channel="862837.shahid">
-        <title>Aswaq Asharq - Episode 1497</title>
-    </programme>
-    <programme start="20261015152000 +0000" stop="20261015153000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="862837.shahid">
-        <title>Tahdethat Al Souq</title>
-    </programme>
-    <programme start="20261015160000 +0000" stop="20261015165000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261015165000 +0000" stop="20261015170000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261015173000 +0000" stop="20261015175500 +0000" channel="862837.shahid">
-        <title>Al Aswaq Al Americia - Episode 233</title>
-    </programme>
-    <programme start="20261015175500 +0000" stop="20261015180000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261015180000 +0000" stop="20261015185000 +0000" channel="862837.shahid">
-        <title>Sharq Gharb - Episode 11534</title>
-    </programme>
-    <programme start="20261015185000 +0000" stop="20261015190000 +0000" channel="862837.shahid">
-        <title>Abaad Maa Arfad S3 - Episode 13</title>
-    </programme>
-    <programme start="20261015190000 +0000" stop="20261015195000 +0000" channel="862837.shahid">
-        <title>Jalsat Al Masaa&#039; - Episode 1540</title>
-    </programme>
-    <programme start="20261015195000 +0000" stop="20261015200000 +0000" channel="862837.shahid">
-        <title>Abaad Maa Arfad S3 - Episode 13</title>
-    </programme>
-    <programme start="20261015200000 +0000" stop="20261015200500 +0000" channel="862837.shahid">
-        <title>Akhbar Asharq </title>
-    </programme>
-    <programme start="20261015200500 +0000" stop="20261015205000 +0000" channel="862837.shahid">
-        <title>Taqreer Washington - Episode 191</title>
-    </programme>
-    <programme start="20261015205000 +0000" stop="20261015210000 +0000" channel="862837.shahid">
-        <title>Abaad Maa Arfad S3 - Episode 13</title>
-    </programme>
-    <programme start="20261015210000 +0000" stop="20261015215000 +0000" channel="862837.shahid">
-        <title>Masaa&#039; Asharq - Episode 899</title>
-    </programme>
-    <programme start="20261015215000 +0000" stop="20261015220000 +0000" channel="862837.shahid">
-        <title>Abaad Maa Arfad S3 - Episode 13</title>
-    </programme>
-    <programme start="20261015220000 +0000" stop="20261015225000 +0000" channel="862837.shahid">
-        <title>Da&#039;erat Asharq - Episode 1535</title>
-    </programme>
-    <programme start="20261015225000 +0000" stop="20261015230000 +0000" channel="862837.shahid">
-        <title>Abaad Maa Arfad S3 - Episode 13</title>
-    </programme>
-    <programme start="20261015230000 +0000" stop="20261015235000 +0000" channel="862837.shahid">
-        <title>Alwan Asharq - Episode 2159</title>
-    </programme>
-    <programme start="20261015235000 +0000" stop="20261016000000 +0000" channel="862837.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261016000000 +0000" stop="20261015235959 +0000" channel="862837.shahid">
-        <title>Al Irtidad Sharqan - Episode 2067</title>
     </programme>
     <programme start="20261014000000 +0000" stop="20261015235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
