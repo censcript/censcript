@@ -3260,7 +3260,7 @@
     <title lang="id">Zubaté ostří</title>
   </programme>
   <programme start="20261016215500 +0000" stop="20261016224500 +0000" channel="ČT2.webtv.sk">
-    <title lang="id">Iveta 2: Kráska z Trebišova (1/10)</title>
+    <title lang="id">Iveta: Kráska z Trebišova II (1/10)</title>
   </programme>
   <programme start="20261015220000 +0000" stop="20261015221000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Zprávy</title>
@@ -10123,10 +10123,10 @@
   <programme start="20261015214500 +0000" stop="20261015221000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (245)</title>
   </programme>
-  <programme start="20261015221000 +0000" stop="20261015223500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261015221000 +0000" stop="20261015223000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (5)</title>
   </programme>
-  <programme start="20261015223500 +0000" stop="20261015225500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261015223000 +0000" stop="20261015225500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nej a Nejnejka I (2)</title>
   </programme>
   <programme start="20261015225500 +0000" stop="20261015232000 +0000" channel="Nickelodeon.webtv.sk">
@@ -10156,10 +10156,10 @@
   <programme start="20261016015500 +0000" stop="20261016022000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VI (23)</title>
   </programme>
-  <programme start="20261016022000 +0000" stop="20261016024000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261016022000 +0000" stop="20261016025000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VI (24)</title>
   </programme>
-  <programme start="20261016024000 +0000" stop="20261016030000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261016025000 +0000" stop="20261016030000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi II (16)</title>
   </programme>
   <programme start="20261016030000 +0000" stop="20261016032500 +0000" channel="Nickelodeon.webtv.sk">

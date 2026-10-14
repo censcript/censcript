@@ -3965,7 +3965,7 @@
     <title>EFL Greatest - 2014/15: Norwich City v Ipswich Town</title>
 </programme>
 <programme start="20261014030000 +0000" stop="20261014050000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Cup - 2020 Final: Aston Villa V Manchester City</title>
+    <title>EFL Cup Retro - 2020 Final: Aston Villa v Manchester City</title>
 </programme>
 <programme start="20261014050000 +0000" stop="20261014070000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Retro League One - 2019 Play-Off Final: Charlton Athletic v Sunderland</title>
@@ -4808,7 +4808,7 @@
     <title>EFL Greatest - 2014/15: Norwich City v Ipswich Town</title>
 </programme>
 <programme start="20261014030000 +0000" stop="20261014050000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Cup - 2020 Final: Aston Villa V Manchester City</title>
+    <title>EFL Cup Retro - 2020 Final: Aston Villa v Manchester City</title>
 </programme>
 <programme start="20261014050000 +0000" stop="20261014070000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Retro League One - 2019 Play-Off Final: Charlton Athletic v Sunderland</title>
