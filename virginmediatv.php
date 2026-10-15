@@ -8,7 +8,7 @@
     <title>The Tonight Show - Episode 73</title>
 </programme>
 <programme start="20261015051500 +0000" stop="20261015060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Six O&#039;Clock Show - Episode 196</title>
+    <title>The Six O&#039;Clock Show - 2028 Olympics</title>
 </programme>
 <programme start="20261015120000 +0000" stop="20261015130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Chase - Episode 41</title>
@@ -4373,13 +4373,16 @@
     <title>Premier League - Manchester United v Ipswich Town</title>
 </programme>
 <programme start="20261015050000 +0000" stop="20261015064500 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Manchester United v Sabah FK</title>
+    <title>UEFA Champions League Football - League Phase: Atlético Madrid v Manchester United</title>
 </programme>
 <programme start="20261015110000 +0000" stop="20261015130000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Manchester United v Tottenham Hotspur</title>
 </programme>
-<programme start="20261015130000 +0000" stop="20261015150000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261015130000 +0000" stop="20261015144500 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - League Phase: Atlético Madrid v Manchester United</title>
+</programme>
+<programme start="20261015144500 +0000" stop="20261015150000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - United with Fans</title>
 </programme>
 <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - When Mainoo met Seedorf</title>
@@ -4387,8 +4390,11 @@
 <programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Youri Tielemans</title>
 </programme>
-<programme start="20261015160000 +0000" stop="20261015180000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261015160000 +0000" stop="20261015174500 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - League Phase: Atlético Madrid v Manchester United</title>
+</programme>
+<programme start="20261015174500 +0000" stop="20261015180000 +0000" channel="MUTV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261015000000 +0000" stop="20261015003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Canada 2026</title>

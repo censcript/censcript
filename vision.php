@@ -649,14 +649,8 @@
 <programme start="20261015093000 +0000" stop="20261015104500 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261015130000 +0000" stop="20261015150000 +0000" channel="ANTV.vision">
-<title>Bisa Naik Bisa Turun</title>
-</programme>
 <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
-</programme>
-<programme start="20261015153000 +0000" stop="20261015173000 +0000" channel="ANTV.vision">
-<title>Suster Keramas</title>
 </programme>
 <programme start="20261015173000 +0000" stop="20261015190000 +0000" channel="ANTV.vision">
 <title>Silver Hawk</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261016010000 +0000" stop="20261016030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
