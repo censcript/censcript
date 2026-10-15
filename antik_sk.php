@@ -3310,11 +3310,8 @@
   <programme start="20261017150000 +0000" stop="20261017160000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Volební studio</title>
   </programme>
-  <programme start="20261017160000 +0000" stop="20261017162800 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Zprávy</title>
-  </programme>
-  <programme start="20261017162800 +0000" stop="20261017165500 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Interview ČT24</title>
+  <programme start="20261017160000 +0000" stop="20261017165500 +0000" channel="ČT24.webtv.sk">
+    <title lang="id">Volební studio</title>
   </programme>
   <programme start="20261017165500 +0000" stop="20261017170000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Události za okamžik a počasí</title>
@@ -3346,11 +3343,8 @@
   <programme start="20261017210000 +0000" stop="20261017210500 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Předpověď počasí</title>
   </programme>
-  <programme start="20261017210500 +0000" stop="20261017213200 +0000" channel="ČT24.webtv.sk">
+  <programme start="20261017210500 +0000" stop="20261017220000 +0000" channel="ČT24.webtv.sk">
     <title lang="id">Zprávy ve 23</title>
-  </programme>
-  <programme start="20261017213200 +0000" stop="20261017220000 +0000" channel="ČT24.webtv.sk">
-    <title lang="id">Interview ČT24</title>
   </programme>
   <programme start="20261016205500 +0000" stop="20261016225000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Iggy Pop: Post Pop Depression</title>
@@ -3373,13 +3367,13 @@
   <programme start="20261017031000 +0000" stop="20261017040000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Události v kultuře</title>
   </programme>
-  <programme start="20261017040000 +0000" stop="20261017041500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261017040000 +0000" stop="20261017041200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Raníček</title>
   </programme>
-  <programme start="20261017041500 +0000" stop="20261017041700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261017041200 +0000" stop="20261017041500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa IV</title>
   </programme>
-  <programme start="20261017041700 +0000" stop="20261017041800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261017041500 +0000" stop="20261017041800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Prasátko Peppa IV</title>
   </programme>
   <programme start="20261017041800 +0000" stop="20261017042200 +0000" channel="ČT :D - ČT art.webtv.sk">

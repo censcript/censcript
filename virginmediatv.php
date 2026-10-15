@@ -4394,7 +4394,7 @@
     <title>UEFA Champions League Football - League Phase: Atlético Madrid v Manchester United</title>
 </programme>
 <programme start="20261015174500 +0000" stop="20261015180000 +0000" channel="MUTV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Sir Alex Ferguson: Games of My Life</title>
 </programme>
 <programme start="20261015000000 +0000" stop="20261015003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Canada 2026</title>
@@ -6230,7 +6230,7 @@
     <title>The Football Academy - Episode 12</title>
 </programme>
 <programme start="20261015170000 +0000" stop="20261015172500 +0000" channel="CBBC.virginmediatv">
-    <title>Stage Stars - Episode 9</title>
+    <title>Stage Stars - Series 2: 9. Our Destiny</title>
 </programme>
 <programme start="20261015172500 +0000" stop="20261015175000 +0000" channel="CBBC.virginmediatv">
     <title>The Next Step: Cheer - Superstitions</title>
