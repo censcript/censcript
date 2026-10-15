@@ -32,7 +32,7 @@
     <title lang="id">Sedem múdrych budíkov</title>
   </programme>
   <programme start="20261017033500 +0000" stop="20261017040500 +0000" channel="Jednotka.webtv.sk">
-    <title lang="id">Babka a dedko čarujú I (1)</title>
+    <title lang="id">Babka a dedko čarujú I (2)</title>
   </programme>
   <programme start="20261017040500 +0000" stop="20261017041500 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Medvedík Pompon</title>

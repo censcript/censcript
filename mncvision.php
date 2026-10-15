@@ -416,6 +416,9 @@
     <title>Bisa Naik Bisa Turun</title>
 </programme>
 <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="ANTV.mncvision">
+    <title>Di Balik Layar Alas Roban...</title>
+</programme>
+<programme start="20261015153000 +0000" stop="20261015160000 +0000" channel="ANTV.mncvision">
     <title>Suster Keramas</title>
 </programme>
 <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="Arirang.mncvision">
@@ -568,87 +571,7 @@
 <programme start="20261015145000 +0000" stop="20261015152000 +0000" channel="Arirang.mncvision">
     <title>The Grand Heritage</title>
 </programme>
-<programme start="20261014172500 +0000" stop="20261014182000 +0000" channel="AXN.mncvision">
-    <title>Sight Unseen S1, Ep 8</title>
-</programme>
-<programme start="20261014182000 +0000" stop="20261014191500 +0000" channel="AXN.mncvision">
-    <title>Hudson &amp; Rex S8, Ep 8</title>
-</programme>
-<programme start="20261014191500 +0000" stop="20261014201000 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S7, Ep 8</title>
-</programme>
-<programme start="20261014201000 +0000" stop="20261014210500 +0000" channel="AXN.mncvision">
-    <title>The Amazing Race S35, Ep 8</title>
-</programme>
-<programme start="20261014210500 +0000" stop="20261014220000 +0000" channel="AXN.mncvision">
-    <title>Boston Blue S1, Ep 8</title>
-</programme>
-<programme start="20261014220000 +0000" stop="20261014225000 +0000" channel="AXN.mncvision">
-    <title>Sight Unseen S1, Ep 8</title>
-</programme>
-<programme start="20261014225000 +0000" stop="20261014234000 +0000" channel="AXN.mncvision">
-    <title>The Amazing Race S35, Ep 8</title>
-</programme>
-<programme start="20261014234000 +0000" stop="20261015002500 +0000" channel="AXN.mncvision">
-    <title>Hudson &amp; Rex S8, Ep 8</title>
-</programme>
-<programme start="20261015002500 +0000" stop="20261015011500 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S7, Ep 8</title>
-</programme>
-<programme start="20261015011500 +0000" stop="20261015020500 +0000" channel="AXN.mncvision">
-    <title>Boston Blue S1, Ep 8</title>
-</programme>
-<programme start="20261015020500 +0000" stop="20261015030000 +0000" channel="AXN.mncvision">
-    <title>Sight Unseen S1, Ep 8</title>
-</programme>
-<programme start="20261015030000 +0000" stop="20261015035500 +0000" channel="AXN.mncvision">
-    <title>Hudson &amp; Rex S8, Ep 8</title>
-</programme>
-<programme start="20261015035500 +0000" stop="20261015045000 +0000" channel="AXN.mncvision">
-    <title>The Rookie S8, Ep 8</title>
-</programme>
-<programme start="20261015045000 +0000" stop="20261015054000 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S7, Ep 8</title>
-</programme>
-<programme start="20261015054000 +0000" stop="20261015063500 +0000" channel="AXN.mncvision">
-    <title>The Amazing Race S35, Ep 8</title>
-</programme>
-<programme start="20261015063500 +0000" stop="20261015073000 +0000" channel="AXN.mncvision">
-    <title>Sight Unseen S1, Ep 8</title>
-</programme>
-<programme start="20261015073000 +0000" stop="20261015082500 +0000" channel="AXN.mncvision">
-    <title>The Rookie S8, Ep 8</title>
-</programme>
-<programme start="20261015082500 +0000" stop="20261015091500 +0000" channel="AXN.mncvision">
-    <title>Boston Blue S1, Ep 8</title>
-</programme>
-<programme start="20261015091500 +0000" stop="20261015101000 +0000" channel="AXN.mncvision">
-    <title>The Amazing Race S35, Ep 9</title>
-</programme>
-<programme start="20261015101000 +0000" stop="20261015110000 +0000" channel="AXN.mncvision">
-    <title>Boston Blue S1, Ep 9</title>
-</programme>
-<programme start="20261015110000 +0000" stop="20261015115500 +0000" channel="AXN.mncvision">
-    <title>Sight Unseen S1, Ep 9</title>
-</programme>
-<programme start="20261015115500 +0000" stop="20261015125000 +0000" channel="AXN.mncvision">
-    <title>The Rookie S8, Ep 9</title>
-</programme>
-<programme start="20261015125000 +0000" stop="20261015134500 +0000" channel="AXN.mncvision">
-    <title>Hudson &amp; Rex S9, Ep 1</title>
-</programme>
-<programme start="20261015134500 +0000" stop="20261015144000 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S7, Ep 9</title>
-</programme>
-<programme start="20261015144000 +0000" stop="20261015153500 +0000" channel="AXN.mncvision">
-    <title>Hudson &amp; Rex S9, Ep 1</title>
-</programme>
-<programme start="20261015153500 +0000" stop="20261015163000 +0000" channel="AXN.mncvision">
-    <title>S.W.A.T. S7, Ep 9</title>
-</programme>
-<programme start="20261015163000 +0000" stop="20261014170000 +0000" channel="AXN.mncvision">
-    <title>The Rookie S8, Ep 9</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 520
 <programme start="20261014172500 +0000" stop="20261014182000 +0000" channel="AXN HD.mncvision">
     <title>Sight Unseen S1, Ep 8</title>
 </programme>
@@ -4855,16 +4778,16 @@
 <programme start="20261015130000 +0000" stop="20261015131500 +0000" channel="iNews.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261015131500 +0000" stop="20261015140000 +0000" channel="iNews.mncvision">
+<programme start="20261015131500 +0000" stop="20261015141500 +0000" channel="iNews.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20261015140000 +0000" stop="20261015150000 +0000" channel="iNews.mncvision">
+<programme start="20261015141500 +0000" stop="20261015151500 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261015150000 +0000" stop="20261015151500 +0000" channel="iNews.mncvision">
+<programme start="20261015151500 +0000" stop="20261015153000 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261015151500 +0000" stop="20261015163000 +0000" channel="iNews.mncvision">
+<programme start="20261015153000 +0000" stop="20261015163000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261015163000 +0000" stop="20261014170000 +0000" channel="iNews.mncvision">
@@ -4945,16 +4868,16 @@
 <programme start="20261015130000 +0000" stop="20261015131500 +0000" channel="iNews HD.mncvision">
     <title>iNews Terkini (L)</title>
 </programme>
-<programme start="20261015131500 +0000" stop="20261015140000 +0000" channel="iNews HD.mncvision">
+<programme start="20261015131500 +0000" stop="20261015141500 +0000" channel="iNews HD.mncvision">
     <title>Interupsi (L)</title>
 </programme>
-<programme start="20261015140000 +0000" stop="20261015150000 +0000" channel="iNews HD.mncvision">
+<programme start="20261015141500 +0000" stop="20261015151500 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261015150000 +0000" stop="20261015151500 +0000" channel="iNews HD.mncvision">
+<programme start="20261015151500 +0000" stop="20261015153000 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261015151500 +0000" stop="20261015163000 +0000" channel="iNews HD.mncvision">
+<programme start="20261015153000 +0000" stop="20261015163000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261015163000 +0000" stop="20261014170000 +0000" channel="iNews HD.mncvision">
@@ -5497,75 +5420,7 @@
 <programme start="20261015163000 +0000" stop="20261014170000 +0000" channel="LIFE.mncvision">
     <title>Semua Kitab Suci</title>
 </programme>
-<programme start="20261014173500 +0000" stop="20261014183500 +0000" channel="Lifetime.mncvision">
-    <title>All Fixed Up... S3, Ep 10</title>
-</programme>
-<programme start="20261014183500 +0000" stop="20261014202000 +0000" channel="Lifetime.mncvision">
-    <title>A Deadly Threat To My Family</title>
-</programme>
-<programme start="20261014202000 +0000" stop="20261014220500 +0000" channel="Lifetime.mncvision">
-    <title>The Girl Who Survived</title>
-</programme>
-<programme start="20261014220500 +0000" stop="20261014230500 +0000" channel="Lifetime.mncvision">
-    <title>Enlighten Your Life S3, Ep 3</title>
-</programme>
-<programme start="20261014230500 +0000" stop="20261015000500 +0000" channel="Lifetime.mncvision">
-    <title>MasterChef Australia S18, Ep 11</title>
-</programme>
-<programme start="20261015000500 +0000" stop="20261015013500 +0000" channel="Lifetime.mncvision">
-    <title>MasterChef Australia S18, Ep 12</title>
-</programme>
-<programme start="20261015013500 +0000" stop="20261015023500 +0000" channel="Lifetime.mncvision">
-    <title>MasterChef Australia S18, Ep 13</title>
-</programme>
-<programme start="20261015023500 +0000" stop="20261015030000 +0000" channel="Lifetime.mncvision">
-    <title>Rachael Ray&#039;s Holidays, Ep 6</title>
-</programme>
-<programme start="20261015030000 +0000" stop="20261015032500 +0000" channel="Lifetime.mncvision">
-    <title>Global Soul Kitchen S1, Ep 10</title>
-</programme>
-<programme start="20261015032500 +0000" stop="20261015042500 +0000" channel="Lifetime.mncvision">
-    <title>Million Dollar Zombie..., Ep 4</title>
-</programme>
-<programme start="20261015042500 +0000" stop="20261015052500 +0000" channel="Lifetime.mncvision">
-    <title>Dr. Pimple: Breaking S1, Ep 13</title>
-</programme>
-<programme start="20261015052500 +0000" stop="20261015055500 +0000" channel="Lifetime.mncvision">
-    <title>Meals In Minutes S3, Ep 73</title>
-</programme>
-<programme start="20261015055500 +0000" stop="20261015073000 +0000" channel="Lifetime.mncvision">
-    <title>I Thought My Husband&#039;s Wife...</title>
-</programme>
-<programme start="20261015073000 +0000" stop="20261015083000 +0000" channel="Lifetime.mncvision">
-    <title>MasterChef Australia S18, Ep 11</title>
-</programme>
-<programme start="20261015083000 +0000" stop="20261015100000 +0000" channel="Lifetime.mncvision">
-    <title>MasterChef Australia S18, Ep 12</title>
-</programme>
-<programme start="20261015100000 +0000" stop="20261015110000 +0000" channel="Lifetime.mncvision">
-    <title>MasterChef Australia S18, Ep 13</title>
-</programme>
-<programme start="20261015110000 +0000" stop="20261015113000 +0000" channel="Lifetime.mncvision">
-    <title>Global Soul Kitchen S1, Ep 11</title>
-</programme>
-<programme start="20261015113000 +0000" stop="20261015123000 +0000" channel="Lifetime.mncvision">
-    <title>Million Dollar Zombie..., Ep 5</title>
-</programme>
-<programme start="20261015123000 +0000" stop="20261015133000 +0000" channel="Lifetime.mncvision">
-    <title>Dr. Pimple: Breaking S1, Ep 14</title>
-</programme>
-<programme start="20261015133000 +0000" stop="20261015140000 +0000" channel="Lifetime.mncvision">
-    <title>Meals In Minutes S3, Ep 74</title>
-</programme>
-<programme start="20261015140000 +0000" stop="20261015153500 +0000" channel="Lifetime.mncvision">
-    <title>Woman With The Red Lipstick</title>
-</programme>
-<programme start="20261015153500 +0000" stop="20261015163500 +0000" channel="Lifetime.mncvision">
-    <title>Million Dollar Zombie..., Ep 5</title>
-</programme>
-<programme start="20261015163500 +0000" stop="20261014170500 +0000" channel="Lifetime.mncvision">
-    <title>Dr. Pimple: Breaking S1, Ep 14</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 520
 <programme start="20261014172500 +0000" stop="20261014182000 +0000" channel="Love Nature.mncvision">
     <title>Macro Worlds S1, Ep 3</title>
 </programme>
@@ -8299,42 +8154,7 @@
 <programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="Sportstars 3.mncvision">
     <title>Pro Futsal League</title>
 </programme>
-<programme start="20261014170000 +0000" stop="20261014190000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20261014190000 +0000" stop="20261014210000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>AFC Champions League Elite</title>
-</programme>
-<programme start="20261014210000 +0000" stop="20261014230000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20261014230000 +0000" stop="20261015010000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Pro Futsal League</title>
-</programme>
-<programme start="20261015010000 +0000" stop="20261015030000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>AFC Champions League Elite</title>
-</programme>
-<programme start="20261015030000 +0000" stop="20261015050000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20261015050000 +0000" stop="20261015070000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20261015070000 +0000" stop="20261015090000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Pro Futsal League</title>
-</programme>
-<programme start="20261015090000 +0000" stop="20261015110000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Timnas Special</title>
-</programme>
-<programme start="20261015110000 +0000" stop="20261015130000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>AFC Champions League Two</title>
-</programme>
-<programme start="20261015130000 +0000" stop="20261015150000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>UEFA Nations League</title>
-</programme>
-<programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="sportstars 3 HD.mncvision">
-    <title>Pro Futsal League</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 520
 <programme start="20261014170000 +0000" stop="20261014190000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
 </programme>
@@ -8689,42 +8509,7 @@
 <programme start="20261015152600 +0000" stop="20261015155600 +0000" channel="Superrix.mncvision">
     <title>Dead On Campus</title>
 </programme>
-<programme start="20261014185100 +0000" stop="20261014202600 +0000" channel="Superrix HD.mncvision">
-    <title>Deadly Secrets: The Confession</title>
-</programme>
-<programme start="20261014202600 +0000" stop="20261014223000 +0000" channel="Superrix HD.mncvision">
-    <title>Lucky Louie</title>
-</programme>
-<programme start="20261014223000 +0000" stop="20261015002000 +0000" channel="Superrix HD.mncvision">
-    <title>Assassination Of A High...</title>
-</programme>
-<programme start="20261015002000 +0000" stop="20261015022300 +0000" channel="Superrix HD.mncvision">
-    <title>Unfollower</title>
-</programme>
-<programme start="20261015022300 +0000" stop="20261015042200 +0000" channel="Superrix HD.mncvision">
-    <title>Lucky Louie</title>
-</programme>
-<programme start="20261015042200 +0000" stop="20261015061800 +0000" channel="Superrix HD.mncvision">
-    <title>Return To Sender</title>
-</programme>
-<programme start="20261015061800 +0000" stop="20261015083200 +0000" channel="Superrix HD.mncvision">
-    <title>Lost Souls: The Return</title>
-</programme>
-<programme start="20261015083200 +0000" stop="20261015101200 +0000" channel="Superrix HD.mncvision">
-    <title>Unfollower</title>
-</programme>
-<programme start="20261015101200 +0000" stop="20261015120100 +0000" channel="Superrix HD.mncvision">
-    <title>Deadly Secrets: The Confession</title>
-</programme>
-<programme start="20261015120100 +0000" stop="20261015134000 +0000" channel="Superrix HD.mncvision">
-    <title>A Puppy For Christmas</title>
-</programme>
-<programme start="20261015134000 +0000" stop="20261015152600 +0000" channel="Superrix HD.mncvision">
-    <title>Paradise City</title>
-</programme>
-<programme start="20261015152600 +0000" stop="20261015155600 +0000" channel="Superrix HD.mncvision">
-    <title>Dead On Campus</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 500
 <programme start="20261014170000 +0000" stop="20261014173000 +0000" channel="Tawaf TV.mncvision">
     <title>DMI TV</title>
 </programme>

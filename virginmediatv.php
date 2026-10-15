@@ -1,7 +1,7 @@
-<programme start="20261014235500 +0000" stop="20261015005100 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20261014235500 +0000" stop="20261015010100 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Shetland - Episode 4</title>
 </programme>
-<programme start="20261015005100 +0000" stop="20261015042500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20261015010100 +0000" stop="20261015042500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261015042500 +0000" stop="20261015051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -499,7 +499,10 @@
 <programme start="20261015005500 +0000" stop="20261015015100 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Shetland - Episode 4</title>
 </programme>
-<programme start="20261015015100 +0000" stop="20261015052500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20261015015100 +0000" stop="20261015020100 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+    <title>Channel Off Air</title>
+</programme>
+<programme start="20261015020100 +0000" stop="20261015052500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261015052500 +0000" stop="20261015061500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
@@ -3947,7 +3950,7 @@
     <title>The Best Premier League Goals - 2016/17</title>
 </programme>
 <programme start="20261015040000 +0000" stop="20261015043000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Gary Neville&#039;s Soccer Box - Gianfranco Zola</title>
+    <title>Premier League Legends - Gianfranco Zola</title>
 </programme>
 <programme start="20261015043000 +0000" stop="20261015050000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Premier League 100 - Paul Scholes</title>
@@ -4114,7 +4117,7 @@
 <programme start="20261015150000 +0000" stop="20261015160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Legends Tour Golf - Reignwood Legends Championship</title>
 </programme>
-<programme start="20261015160000 +0000" stop="20261015220000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20261015160000 +0000" stop="20261015180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>India Championship. DP World Tour Golf - Day 1</title>
 </programme>
 <programme start="20261015000000 +0000" stop="20261015010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4900,7 +4903,7 @@
 <programme start="20261015150000 +0000" stop="20261015160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Legends Tour Golf - Reignwood Legends Championship</title>
 </programme>
-<programme start="20261015160000 +0000" stop="20261015220000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20261015160000 +0000" stop="20261015180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>India Championship. DP World Tour Golf - Day 1</title>
 </programme>
 <programme start="20261015000000 +0000" stop="20261015010000 +0000" channel="Sky_Sports_Action.virginmediatv">

@@ -161,10 +161,10 @@
 <title>Pembalasan Qin Yan</title>
 </programme>
 <programme start="20261015173000 +0000" stop="20261015190000 +0000" channel="GTV.vision">
-<title>1001 Kisah</title>
+<title>GTV</title>
 </programme>
 <programme start="20261015190000 +0000" stop="20261015203000 +0000" channel="GTV.vision">
-<title>AFC Champions League Elite</title>
+<title>GTV</title>
 </programme>
 <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="GTV.vision">
 <title>Petualangan Fantasi</title>
@@ -637,6 +637,9 @@
 <programme start="20261015010000 +0000" stop="20261015023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
+<programme start="20261015023000 +0000" stop="20261015060000 +0000" channel="ANTV.vision">
+<title>Asoka</title>
+</programme>
 <programme start="20261015060000 +0000" stop="20261015073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -646,19 +649,19 @@
 <programme start="20261015093000 +0000" stop="20261015104500 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261015104500 +0000" stop="20261015130000 +0000" channel="ANTV.vision">
-<title>Pandangan Pertama</title>
-</programme>
 <programme start="20261015130000 +0000" stop="20261015150000 +0000" channel="ANTV.vision">
 <title>Bisa Naik Bisa Turun</title>
 </programme>
-<programme start="20261015150000 +0000" stop="20261015170000 +0000" channel="ANTV.vision">
+<programme start="20261015150000 +0000" stop="20261015153000 +0000" channel="ANTV.vision">
+<title>Di Balik Layar Alas Roban...</title>
+</programme>
+<programme start="20261015153000 +0000" stop="20261015173000 +0000" channel="ANTV.vision">
 <title>Suster Keramas</title>
 </programme>
-<programme start="20261015170000 +0000" stop="20261015183000 +0000" channel="ANTV.vision">
+<programme start="20261015173000 +0000" stop="20261015190000 +0000" channel="ANTV.vision">
 <title>Silver Hawk</title>
 </programme>
-<programme start="20261015183000 +0000" stop="20261015193000 +0000" channel="ANTV.vision">
+<programme start="20261015190000 +0000" stop="20261015193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
 <programme start="20261015193000 +0000" stop="20261015203000 +0000" channel="ANTV.vision">
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

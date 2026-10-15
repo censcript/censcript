@@ -58,58 +58,58 @@
     <programme start="20261015084300 +0000" stop="20261015090000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20261015090000 +0000" stop="20261015091500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015090000 +0000" stop="20261015091400 +0000" channel="VTV1 HD.mytv">
         <title> Quốc hội với cử tri: Luật phát triển doanh nghiệp nhỏ và vừa 2026 </title>
     </programme>
-    <programme start="20261015091500 +0000" stop="20261015093000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015091400 +0000" stop="20261015093000 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Nơi an cư cho người dân vùng lũ </title>
     </programme>
-    <programme start="20261015093000 +0000" stop="20261015100000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015093000 +0000" stop="20261015095900 +0000" channel="VTV1 HD.mytv">
         <title> Khởi nghiệp trẻ: Hành trình tạo giá trị cốt lõi </title>
     </programme>
-    <programme start="20261015100000 +0000" stop="20261015103000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015095900 +0000" stop="20261015103000 +0000" channel="VTV1 HD.mytv">
         <title> Đi cùng chúng tôi </title>
     </programme>
-    <programme start="20261015103000 +0000" stop="20261015105500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015103000 +0000" stop="20261015105300 +0000" channel="VTV1 HD.mytv">
         <title> Nét đẹp dân gian: Khung thêu Thượng Lâm </title>
     </programme>
-    <programme start="20261015105500 +0000" stop="20261015110000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015105300 +0000" stop="20261015110000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20261015110000 +0000" stop="20261015114500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015110000 +0000" stop="20261015114400 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20261015114500 +0000" stop="20261015120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015114400 +0000" stop="20261015120000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20261015120000 +0000" stop="20261015124500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015120000 +0000" stop="20261015124400 +0000" channel="VTV1 HD.mytv">
         <title> Nhịp sống tuổi bạc </title>
     </programme>
-    <programme start="20261015124500 +0000" stop="20261015130000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015124400 +0000" stop="20261015130000 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Sinh sản ở người trẻ bị ung thư </title>
     </programme>
-    <programme start="20261015130000 +0000" stop="20261015134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015130000 +0000" stop="20261015134300 +0000" channel="VTV1 HD.mytv">
         <title> Đồng hành </title>
     </programme>
-    <programme start="20261015134500 +0000" stop="20261015135000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015134300 +0000" stop="20261015134900 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Dấu thiêng bên dòng suối </title>
     </programme>
-    <programme start="20261015135000 +0000" stop="20261015140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015134900 +0000" stop="20261015140300 +0000" channel="VTV1 HD.mytv">
         <title> Góc nhìn văn hóa </title>
     </programme>
-    <programme start="20261015140000 +0000" stop="20261015141500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015140300 +0000" stop="20261015141600 +0000" channel="VTV1 HD.mytv">
         <title> Việc tử tế </title>
     </programme>
-    <programme start="20261015141500 +0000" stop="20261015152500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015141600 +0000" stop="20261015152500 +0000" channel="VTV1 HD.mytv">
         <title> Tác phẩm mới: Đất mẹ </title>
     </programme>
-    <programme start="20261015152500 +0000" stop="20261015154000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015152500 +0000" stop="20261015154100 +0000" channel="VTV1 HD.mytv">
         <title> VTV kết nối </title>
     </programme>
-    <programme start="20261015154000 +0000" stop="20261015154500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015154100 +0000" stop="20261015154600 +0000" channel="VTV1 HD.mytv">
         <title> Học tập và thực hành theo Bác: Trên mặt trận tử thần </title>
     </programme>
-    <programme start="20261015154500 +0000" stop="20261015160000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261015154600 +0000" stop="20261015160000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
     <programme start="20261015160000 +0000" stop="20261015161500 +0000" channel="VTV1 HD.mytv">
