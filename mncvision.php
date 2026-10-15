@@ -2995,14 +2995,11 @@
 <programme start="20261015023000 +0000" stop="20261015030000 +0000" channel="DW English.mncvision">
     <title>Made in Germany: Transrapid</title>
 </programme>
-<programme start="20261015030000 +0000" stop="20261015030200 +0000" channel="DW English.mncvision">
+<programme start="20261015030000 +0000" stop="20261015030300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261015030200 +0000" stop="20261015031500 +0000" channel="DW English.mncvision">
+<programme start="20261015030300 +0000" stop="20261015033000 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
-</programme>
-<programme start="20261015031500 +0000" stop="20261015033000 +0000" channel="DW English.mncvision">
-    <title>Business: The Trump Economy</title>
 </programme>
 <programme start="20261015033000 +0000" stop="20261015040000 +0000" channel="DW English.mncvision">
     <title>Eco India: Art</title>
@@ -3055,8 +3052,11 @@
 <programme start="20261015090000 +0000" stop="20261015090200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261015090200 +0000" stop="20261015093200 +0000" channel="DW English.mncvision">
+<programme start="20261015090200 +0000" stop="20261015091500 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
+</programme>
+<programme start="20261015091500 +0000" stop="20261015094500 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
 </programme>
 <programme start="20261014173000 +0000" stop="20261014180000 +0000" channel="Entertainment.mncvision">
     <title>Untold Story: Experiment</title>

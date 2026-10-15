@@ -6215,7 +6215,7 @@
     <title lang="id">Nedostatok opatrovateliek: problém pracovníkov aj seniorov</title>
   </programme>
   <programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="Doktor TV.webtv.sk">
-    <title lang="id">Kašeľ</title>
+    <title lang="id">O kašli u detí</title>
   </programme>
   <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="Doktor TV.webtv.sk">
     <title lang="id">Obezita nie je iba otázkou vzhľadu</title>

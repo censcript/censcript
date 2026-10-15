@@ -763,22 +763,22 @@
     <programme start="20261014160000 +0000" stop="20261015100000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 15th October, Thursday 6pm. AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
     </programme>
-    <programme start="20261015100000 +0000" stop="20261015120000 +0000" channel="Live 5.mewatch">
+    <programme start="20261015100000 +0000" stop="20261015123000 +0000" channel="Live 5.mewatch">
         <title>AFC Champions League Two 2026/27: Tai Po FC vs Lion City Sailors FC </title>
     </programme>
-    <programme start="20261015120000 +0000" stop="20261015160000 +0000" channel="Live 5.mewatch">
+    <programme start="20261015123000 +0000" stop="20261015160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45pm. AFC Champions League Two 2026/27: Adelaide United FC vs Lion City Sailors FC</title>
     </programme>
     <programme start="20261015160000 +0000" stop="20261016160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45pm. AFC Champions League Two 2026/27: Adelaide United FC vs Lion City Sailors FC</title>
     </programme>
-    <programme start="20261014160000 +0000" stop="20261015121500 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 15th October, Thursday 8.15pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
+    <programme start="20261014160000 +0000" stop="20261015120500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 15th October, Thursday 8.05pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
     </programme>
-    <programme start="20261015121500 +0000" stop="20261015141500 +0000" channel="Live 6.mewatch">
+    <programme start="20261015120500 +0000" stop="20261015144500 +0000" channel="Live 6.mewatch">
         <title>AFC Champions League Two 2026/27: Tampines Rovers FC vs FC Machida Zelvia</title>
     </programme>
-    <programme start="20261015141500 +0000" stop="20261015160000 +0000" channel="Live 6.mewatch">
+    <programme start="20261015144500 +0000" stop="20261015160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 29th October, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC</title>
     </programme>
     <programme start="20261015160000 +0000" stop="20261016160000 +0000" channel="Live 6.mewatch">

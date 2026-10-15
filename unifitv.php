@@ -4610,25 +4610,35 @@
     <desc lang="en">Raheem gets killed when he tries to save a blind man in a train. When the police close the case stating suicide, Raheem's girlfriend asks Shivalingeshwaran, a CID officer, to investigate the death.</desc>
     <category lang="en">Horror</category>
   </programme>
-  <programme start="20261014163000 +0000" stop="20261014190000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261014163000 +0000" stop="20261014164000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Desingu Raja</title>
     <desc lang="en">Idhyakani falls for Bindu Madhavi despite their families' rivalry. The lovers try to unite them, but their efforts lead to a conflict between the families.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261014190000 +0000" stop="20261014193000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261014164000 +0000" stop="20261014185600 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Desingu Raja</title>
+    <desc lang="en">Idhyakani falls for Bindu Madhavi despite their families' rivalry. The lovers try to unite them, but their efforts lead to a conflict between the families.</desc>
+    <category lang="en">Comedy</category>
+  </programme>
+  <programme start="20261014185600 +0000" stop="20261014190000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20261014190000 +0000" stop="20261014195700 +0000" channel="zeethirai.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261014193000 +0000" stop="20261014200000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261014200000 +0000" stop="20261014223000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261014195700 +0000" stop="20261014221100 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kathar Basha Endra Muthuramalingam</title>
     <desc lang="en">Nana, a powerful gangster, vies for control of a village. However, Kathar, an honest man, strives for peace, resulting in a clash between the two.</desc>
     <category lang="en">Action</category>
+  </programme>
+  <programme start="20261014221100 +0000" stop="20261014223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261014223000 +0000" stop="20261015003000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Sir</title>
@@ -12595,7 +12605,7 @@
   </programme>
   <programme start="20261014193300 +0000" stop="20261014200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">Former Biden officials are offering their accounts of the Gaza war. Is this a coming clean or revisionism? Plus - Nigel Farage and the media that made him.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.36.</episode-num>
     <episode-num system="onscreen">S1E37</episode-num>
@@ -12639,7 +12649,7 @@
   </programme>
   <programme start="20261015010300 +0000" stop="20261015020300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera World</title>
-    <desc lang="en">Al Jazeera's journalists risk everything to report on the war from southern Gaza, even when bureau chief Wael al Dahdouh's son is killed in the line of duty.</desc>
+    <desc lang="en">An exclusive interview with Iranian President Masoud Pezeshkian on sanctions, regional conflict, U.S.-Israel tensions and his call for Muslim unity.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261015020300 +0000" stop="20261015030300 +0000" channel="aljazeera.unifitv">
@@ -12665,8 +12675,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261015043300 +0000" stop="20261015050300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">earthrise - We Are Nature</title>
-    <desc lang="en">earthrise follows the progress of Al Mizan, an Islamic Covenant for the Earth, and traces its growing impact in the year after its launch.</desc>
+    <title lang="en">The Full Report</title>
+    <desc lang="en">A deadly Ebola outbreak in D.R. Congo exposes the struggle of medics, families and survivors to contain the virus amid conflict, mistrust and displacement.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261015050300 +0000" stop="20261015053300 +0000" channel="aljazeera.unifitv">
@@ -12703,7 +12713,7 @@
   </programme>
   <programme start="20261015083300 +0000" stop="20261015090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Yale University Professor Samuel Moyn argues that America's aging politicians are barring younger generations from having a say in their country's future.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.40.</episode-num>
     <episode-num system="onscreen">S1E41</episode-num>
@@ -12737,7 +12747,7 @@
   </programme>
   <programme start="20261015120300 +0000" stop="20261015130300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Let's Focus</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <desc lang="en">Cenk Uygur of The Young Turks and Emily Jashinsky of After Party join Josh Rushing to ask if podcasts are remaking politics - or just bypassing scrutiny.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -12754,7 +12764,7 @@
   </programme>
   <programme start="20261015143300 +0000" stop="20261015150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc lang="en">U.S. ties with Israel deepen as support fractures. Al Jazeera Explains the alliance and Israel's global battle to shape opinion after Gaza.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.3.</episode-num>
     <episode-num system="onscreen">S1E4</episode-num>
@@ -14996,9 +15006,49 @@
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261015060000 +0000" stop="20261015153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261015060000 +0000" stop="20261015083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 318: Holloway vs Poirier 3</title>
     <desc lang="en">It's a memorable night in New Orleans, Louisiana, when Lafayette native Dustin Poirier makes his final walk to the Octagon, hoping to go three for three against Max Holloway, with the BMF title on the line. This one for the history books and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015083000 +0000" stop="20261015090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 4 - 11</title>
+    <desc lang="en">Program pencarian bakat bola sepak yang hebat diteruskan lagi dengan Musim Ke-4. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015090000 +0000" stop="20261015093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 29</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015093000 +0000" stop="20261015100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - Volkanovski vs Ortega</title>
+    <desc lang="en">At UFC 266, The Ultimate Fighter coaching rivalry between featherweight champion Alexander Volkanovski and Brian Ortega came to a head. Relive the action like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015100000 +0000" stop="20261015123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 319: Du Plessis vs Chimaev</title>
+    <desc lang="en">UFC returns to Chicago with a stacked card featuring one of the most highly anticipated middleweight title fights in years, as South African champion Dricus Du Plessis faces his toughest test to date against unbeaten challenger Khamzat Chimaev. Plus a whole lot more action on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015123000 +0000" stop="20261015130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 30 Years of Knockouts</title>
+    <desc lang="en">UFC Ultimate Knockouts brings you the best knockouts in the UFC's 30-year history.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015130000 +0000" stop="20261015135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 316: Dvalishvili vs O'Malley</title>
+    <desc lang="en">UFC 316 Countdown previews two bantamweight title fights. In the main event, men's champion Merab “The Machine” Dvalishvili battles “Suga” Sean O'Malley in a rematch. In the co-main event, women's title holder Julianna Pena takes on Kayla Harrison.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015135500 +0000" stop="20261015140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS - PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261015140000 +0000" stop="20261015195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Allen vs. Duncan - Main</title>
+    <desc lang="en">Middleweights man the marquee as UFC returns to the Meta APEX in Las Vegas on Sunday, October 11 as Brendan “All-In” Allen squares off with “CLD” Christian Leroy Duncan. A rankings staple for the last several years, Allen has forced his way into the Top 5 on the strength of a three-fight winning streak over Marvin Vettori, Reinier de Ridder, and Edmen Shahbazyan. Gloucester, England's Duncan has claimed five straight victories heading into his first UFC main event assignment, most recently out-hustling former title challenger Jared Cannonier in July.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">

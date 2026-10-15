@@ -209,7 +209,7 @@
 <title>iNews Siang (L)</title>
 </programme>
 <programme start="20261015060000 +0000" stop="20261015063000 +0000" channel="iNews.vision">
-<title>Pemimpin Rakyat (L)</title>
+<title>iNews On Point (L)</title>
 </programme>
 <programme start="20261015063000 +0000" stop="20261015074500 +0000" channel="iNews.vision">
 <title>Breaking News (Inews)</title>
@@ -235,10 +235,10 @@
 <programme start="20261015140000 +0000" stop="20261015150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261015150000 +0000" stop="20261015151000 +0000" channel="iNews.vision">
+<programme start="20261015150000 +0000" stop="20261015151500 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261015151000 +0000" stop="20261015163000 +0000" channel="iNews.vision">
+<programme start="20261015151500 +0000" stop="20261015163000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20261015163000 +0000" stop="20261015170000 +0000" channel="iNews.vision">
@@ -636,9 +636,6 @@
 </programme>
 <programme start="20261015010000 +0000" stop="20261015023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261015023000 +0000" stop="20261015060000 +0000" channel="ANTV.vision">
-<title>Asoka</title>
 </programme>
 <programme start="20261015060000 +0000" stop="20261015073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
