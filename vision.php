@@ -32,34 +32,34 @@
 <title>Anugerah Cinta</title>
 </programme>
 <programme start="20261016171500 +0000" stop="20261016183000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Romansa Cinta Sop Buntut</title>
 </programme>
 <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Cenat Cenut Hati Badut Imut</title>
 </programme>
 <programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20261016200000 +0000" stop="20261016224500 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Preman Pensiun Deui</title>
 </programme>
 <programme start="20261016224500 +0000" stop="20261016233000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Bhootu</title>
 </programme>
 <programme start="20261016233000 +0000" stop="20261017010000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Upin &amp; Ipin</title>
 </programme>
 <programme start="20261017010000 +0000" stop="20261017033000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Entong</title>
 </programme>
 <programme start="20261017033000 +0000" stop="20261017060000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Miss Indonesia 2026</title>
 </programme>
 <programme start="20261017060000 +0000" stop="20261017103000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ikatan Cinta Aldebaran &amp; Andin</title>
 </programme>
 <programme start="20261017103000 +0000" stop="20261017120000 +0000" channel="RCTI.vision">
-<title>RCTI</title>
+<title>Ternyata Ini Cinta (RCTI)</title>
 </programme>
 <programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
@@ -202,16 +202,19 @@
 <programme start="20261016091500 +0000" stop="20261016120000 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20261016120000 +0000" stop="20261016133000 +0000" channel="iNews.vision">
+<programme start="20261016120000 +0000" stop="20261016130000 +0000" channel="iNews.vision">
 <title>iNews Room (L)</title>
 </programme>
-<programme start="20261016133000 +0000" stop="20261016150000 +0000" channel="iNews.vision">
+<programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261016150000 +0000" stop="20261016151500 +0000" channel="iNews.vision">
+<programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="iNews.vision">
+<title>Kunjungan Menteri ESDM (L)</title>
+</programme>
+<programme start="20261016143000 +0000" stop="20261016144500 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261016151500 +0000" stop="20261016160000 +0000" channel="iNews.vision">
+<programme start="20261016144500 +0000" stop="20261016160000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="iNews.vision">
@@ -224,7 +227,7 @@
 <title>iNews Sport</title>
 </programme>
 <programme start="20261016180000 +0000" stop="20261016183000 +0000" channel="iNews.vision">
-<title>Breaking News</title>
+<title>iNews Sore</title>
 </programme>
 <programme start="20261016183000 +0000" stop="20261016190000 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
@@ -253,11 +256,14 @@
 <programme start="20261016233000 +0000" stop="20261017003000 +0000" channel="iNews.vision">
 <title>Special Report</title>
 </programme>
-<programme start="20261017003000 +0000" stop="20261017013000 +0000" channel="iNews.vision">
-<title>Realita</title>
+<programme start="20261017003000 +0000" stop="20261017010000 +0000" channel="iNews.vision">
+<title>Breaking News (Inews)</title>
+</programme>
+<programme start="20261017010000 +0000" stop="20261017013000 +0000" channel="iNews.vision">
+<title>iNews On Point</title>
 </programme>
 <programme start="20261017013000 +0000" stop="20261017020000 +0000" channel="iNews.vision">
-<title>iNews On Point</title>
+<title>Realita</title>
 </programme>
 <programme start="20261017020000 +0000" stop="20261017030000 +0000" channel="iNews.vision">
 <title>iNews Files</title>
@@ -464,7 +470,7 @@
 <title>Insert Investigasi</title>
 </programme>
 <programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
+<title>Sehari Jadi Ratu</title>
 </programme>
 <programme start="20261017100000 +0000" stop="20261017110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
@@ -610,8 +616,14 @@
 <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20261016010000 +0000" stop="20261016023000 +0000" channel="ANTV.vision">
+<programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
+</programme>
+<programme start="20261016020000 +0000" stop="20261016023000 +0000" channel="ANTV.vision">
+<title>Di Balik Layar Alas Roban...</title>
+</programme>
+<programme start="20261016023000 +0000" stop="20261016060000 +0000" channel="ANTV.vision">
+<title>Pathaan</title>
 </programme>
 <programme start="20261016060000 +0000" stop="20261016073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -632,7 +644,7 @@
 <title>Di Balik Layar Alas Roban...</title>
 </programme>
 <programme start="20261016153000 +0000" stop="20261016173000 +0000" channel="ANTV.vision">
-<title>Hantu Tanah Kusir</title>
+<title>Desa Mati</title>
 </programme>
 <programme start="20261016173000 +0000" stop="20261016190000 +0000" channel="ANTV.vision">
 <title>Undercover Punch And Gun</title>
@@ -652,8 +664,11 @@
 <programme start="20261016230000 +0000" stop="20261017010000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20261017010000 +0000" stop="20261017023000 +0000" channel="ANTV.vision">
+<programme start="20261017010000 +0000" stop="20261017020000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
+</programme>
+<programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="ANTV.vision">
+<title>Di Balik Layar Alas Roban...</title>
 </programme>
 <programme start="20261017023000 +0000" stop="20261017060000 +0000" channel="ANTV.vision">
 <title>Bad Newz</title>
@@ -991,17 +1006,11 @@
 <programme start="20261016010000 +0000" stop="20261016010500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
 </programme>
-<programme start="20261016010500 +0000" stop="20261016013000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
-</programme>
 <programme start="20261016013000 +0000" stop="20261016020000 +0000" channel="Metro TV.vision">
 <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20261016020000 +0000" stop="20261016020500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
-</programme>
-<programme start="20261016020500 +0000" stop="20261016023000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20261016023000 +0000" stop="20261016030000 +0000" channel="Metro TV.vision">
 <title>Zona Bisnis</title>
@@ -1039,9 +1048,6 @@
 <programme start="20261016080000 +0000" stop="20261016080500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
 </programme>
-<programme start="20261016080500 +0000" stop="20261016083000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
-</programme>
 <programme start="20261016083000 +0000" stop="20261016090000 +0000" channel="Metro TV.vision">
 <title>Prioritas Indonesia</title>
 </programme>
@@ -1054,23 +1060,14 @@
 <programme start="20261016093000 +0000" stop="20261016100000 +0000" channel="Metro TV.vision">
 <title>Metro Hari Ini</title>
 </programme>
-<programme start="20261016100000 +0000" stop="20261016103000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
-</programme>
 <programme start="20261016103000 +0000" stop="20261016110000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
 </programme>
 <programme start="20261016110000 +0000" stop="20261016113000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
 </programme>
-<programme start="20261016113000 +0000" stop="20261016120000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
-</programme>
 <programme start="20261016120000 +0000" stop="20261016120500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
-</programme>
-<programme start="20261016120500 +0000" stop="20261016123000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
 </programme>
 <programme start="20261016123000 +0000" stop="20261016124500 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
@@ -1125,9 +1122,6 @@
 </programme>
 <programme start="20261016180000 +0000" stop="20261016180500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
-</programme>
-<programme start="20261016180500 +0000" stop="20261016181500 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
 </programme>
 <programme start="20261016181500 +0000" stop="20261016183000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
@@ -1189,17 +1183,11 @@
 <programme start="20261017010000 +0000" stop="20261017010500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
 </programme>
-<programme start="20261017010500 +0000" stop="20261017013000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
-</programme>
 <programme start="20261017013000 +0000" stop="20261017020000 +0000" channel="Metro TV.vision">
 <title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20261017020000 +0000" stop="20261017020500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
-</programme>
-<programme start="20261017020500 +0000" stop="20261017023000 +0000" channel="Metro TV.vision">
-<title>Selamat Pagi Indonesia</title>
 </programme>
 <programme start="20261017023000 +0000" stop="20261017030000 +0000" channel="Metro TV.vision">
 <title>Sehat No Debat</title>
@@ -1237,9 +1225,6 @@
 <programme start="20261017080000 +0000" stop="20261017080500 +0000" channel="Metro TV.vision">
 <title>Headline News</title>
 </programme>
-<programme start="20261017080500 +0000" stop="20261017083000 +0000" channel="Metro TV.vision">
-<title>Metro Siang</title>
-</programme>
 <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="Metro TV.vision">
 <title>The Legend</title>
 </programme>
@@ -1252,16 +1237,10 @@
 <programme start="20261017093000 +0000" stop="20261017100000 +0000" channel="Metro TV.vision">
 <title>Metro Hari Ini</title>
 </programme>
-<programme start="20261017100000 +0000" stop="20261017103000 +0000" channel="Metro TV.vision">
-<title>Metro Hari Ini</title>
-</programme>
 <programme start="20261017103000 +0000" stop="20261017110000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
 </programme>
 <programme start="20261017110000 +0000" stop="20261017113000 +0000" channel="Metro TV.vision">
-<title>Primetime News</title>
-</programme>
-<programme start="20261017113000 +0000" stop="20261017120000 +0000" channel="Metro TV.vision">
 <title>Primetime News</title>
 </programme>
 <programme start="20261015230300 +0000" stop="20261016003000 +0000" channel="BTV.vision">
@@ -1496,5 +1475,26 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016030000 +0000" stop="20261016060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016060000 +0000" stop="20261016090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016090000 +0000" stop="20261016120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016120000 +0000" stop="20261016150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016150000 +0000" stop="20261016180000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016180000 +0000" stop="20261016210000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261016210000 +0000" stop="20261017000000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

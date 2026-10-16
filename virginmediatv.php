@@ -2144,58 +2144,58 @@
     <title>I See It First</title>
 </programme>
 <programme start="20261016030000 +0000" stop="20261016033000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Most Watched</title>
+    <title>Fashion &amp; Sports</title>
 </programme>
 <programme start="20261016033000 +0000" stop="20261016040000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Most Watched</title>
+    <title>Fashion &amp; Sports</title>
 </programme>
 <programme start="20261016040000 +0000" stop="20261016043000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trending Today</title>
+    <title>Beauty</title>
 </programme>
 <programme start="20261016043000 +0000" stop="20261016050000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trending Today</title>
+    <title>Beauty</title>
 </programme>
 <programme start="20261016050000 +0000" stop="20261016053000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Stars</title>
+    <title>Fashion from Spain</title>
 </programme>
 <programme start="20261016053000 +0000" stop="20261016060000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Stars</title>
+    <title>Fashion from Spain</title>
 </programme>
 <programme start="20261016120000 +0000" stop="20261016123000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Buzz</title>
+    <title>Top Photoshoots</title>
 </programme>
 <programme start="20261016123000 +0000" stop="20261016130000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Buzz</title>
+    <title>Top Photoshoots</title>
 </programme>
 <programme start="20261016130000 +0000" stop="20261016133000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>This Week In Style</title>
+    <title>Fashion Teens</title>
 </programme>
 <programme start="20261016133000 +0000" stop="20261016140000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>This Week In Style</title>
+    <title>Fashion Teens</title>
 </programme>
 <programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trend Tracker</title>
+    <title>Designers</title>
 </programme>
 <programme start="20261016143000 +0000" stop="20261016150000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Trend Tracker</title>
+    <title>Designers</title>
 </programme>
 <programme start="20261016150000 +0000" stop="20261016153000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Style Icons</title>
+    <title>Fashion from South Africa</title>
 </programme>
 <programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Style Icons</title>
+    <title>Fashion from South Africa</title>
 </programme>
 <programme start="20261016160000 +0000" stop="20261016163000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Evolution</title>
+    <title>Most Watched</title>
 </programme>
 <programme start="20261016163000 +0000" stop="20261016170000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Evolution</title>
+    <title>Most Watched</title>
 </programme>
 <programme start="20261016170000 +0000" stop="20261016173000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Code</title>
+    <title>Fashion News</title>
 </programme>
 <programme start="20261016173000 +0000" stop="20261016180000 +0000" channel="Fashion_TV.virginmediatv">
-    <title>Fashion Code</title>
+    <title>Fashion News</title>
 </programme>
 <programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="ID.virginmediatv">
     <title>High Speed Chase - Full Throttle</title>
@@ -2401,11 +2401,8 @@
 <programme start="20261016170100 +0000" stop="20261016180000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>RTÉ News: Six One</title>
 </programme>
-<programme start="20261016000000 +0000" stop="20261016003000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261016000000 +0000" stop="20261016010000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20261016003000 +0000" stop="20261016010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now - Wildfires: Fighting Hidden Hotspots</title>
 </programme>
 <programme start="20261016010000 +0000" stop="20261016013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Newsday</title>
@@ -2875,17 +2872,20 @@
 <programme start="20261016053000 +0000" stop="20261016070000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>
 </programme>
-<programme start="20261016113000 +0000" stop="20261016131000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261016111000 +0000" stop="20261016133000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Housing, Local Government and Heritage</title>
 </programme>
-<programme start="20261016131000 +0000" stop="20261016140000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261016133000 +0000" stop="20261016153000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Foreign Affairs and Trade</title>
 </programme>
-<programme start="20261016140000 +0000" stop="20261016160000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261016153000 +0000" stop="20261016160000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Public Petitions and the Ombudsmen</title>
 </programme>
-<programme start="20261016160000 +0000" stop="20261016190000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261016160000 +0000" stop="20261016170000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues</title>
+</programme>
+<programme start="20261016170000 +0000" stop="20261016180500 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>National Bravery Awards 2025</title>
 </programme>
 <programme start="20261016000000 +0000" stop="20261016020000 +0000" channel="Discovery_HD.virginmediatv">
     <title>Naked and Afraid: Shipwrecked - Typhoon Warning</title>
