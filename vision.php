@@ -613,9 +613,6 @@
 <programme start="20261016010000 +0000" stop="20261016023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261016023000 +0000" stop="20261016060000 +0000" channel="ANTV.vision">
-<title>Pathaan</title>
-</programme>
 <programme start="20261016060000 +0000" stop="20261016073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261017110000 +0000" stop="20261017130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>

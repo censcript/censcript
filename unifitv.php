@@ -15096,30 +15096,30 @@
     <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261015170000 +0000" stop="20261015180000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 WorldSBK: Rd 11 Tissot Estoril Round - Highlights</title>
-    <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20261015180000 +0000" stop="20261015211000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Rd 17 Pertamina Grand Prix of Indonesia - Qualifying/Sprint</title>
-    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20261015211000 +0000" stop="20261015220000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 Moto4 Northern Cup Rd 7 Assen - Race 1</title>
-    <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261016010000 +0000" channel="spotv2.unifitv">
+  <programme start="20261015170000 +0000" stop="20261015200000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) MLB 2026 Postseason: AL Championship Series Game 3 - Cleveland Guardians vs Tampa Bay Rays</title>
     <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <category lang="en">Baseball</category>
   </programme>
-  <programme start="20261016010000 +0000" stop="20261016040000 +0000" channel="spotv2.unifitv">
+  <programme start="20261015200000 +0000" stop="20261015231000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP Rd 17 Pertamina Grand Prix of Indonesia - Qualifying/Sprint</title>
+    <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20261015231000 +0000" stop="20261016000000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 Moto4 Northern Cup Rd 7 Assen - Race 1</title>
+    <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
+    <category lang="en">Motorsports</category>
+  </programme>
+  <programme start="20261016000000 +0000" stop="20261016030000 +0000" channel="spotv2.unifitv">
     <title lang="en">(L) MLB 2026 Postseason: NL Championship Series Game 4 - Los Angeles Dodgers vs Milwaukee Brewers</title>
     <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <category lang="en">Baseball</category>
+  </programme>
+  <programme start="20261016030000 +0000" stop="20261016040000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 WorldSBK: Rd 11 Tissot Estoril Round - Highlights</title>
+    <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261016040000 +0000" stop="20261016043000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Asian Campaign - Rewind Australia 2025</title>

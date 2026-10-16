@@ -391,8 +391,11 @@
 <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="ANTV.mncvision">
     <title>Radha Mohan</title>
 </programme>
-<programme start="20261016010000 +0000" stop="20261016023000 +0000" channel="ANTV.mncvision">
+<programme start="20261016010000 +0000" stop="20261016020000 +0000" channel="ANTV.mncvision">
     <title>Jaane Anjaane</title>
+</programme>
+<programme start="20261016020000 +0000" stop="20261016023000 +0000" channel="ANTV.mncvision">
+    <title>Di Balik Layar Alas Roban...</title>
 </programme>
 <programme start="20261016023000 +0000" stop="20261016060000 +0000" channel="ANTV.mncvision">
     <title>Pathaan</title>
@@ -5050,7 +5053,132 @@
 <programme start="20261016163000 +0000" stop="20261015170000 +0000" channel="Kids TV.mncvision">
     <title>Kiko S4</title>
 </programme>
-Error: Unable to fetch data. HTTP Status Code: 520
+<programme start="20261015170000 +0000" stop="20261015173000 +0000" channel="Kids TV HD.mncvision">
+    <title>Bima S S2</title>
+</programme>
+<programme start="20261015173000 +0000" stop="20261015180000 +0000" channel="Kids TV HD.mncvision">
+    <title>Gecko&#039;s Garage</title>
+</programme>
+<programme start="20261015180000 +0000" stop="20261015183000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends S27</title>
+</programme>
+<programme start="20261015183000 +0000" stop="20261015190000 +0000" channel="Kids TV HD.mncvision">
+    <title>The Sharksons</title>
+</programme>
+<programme start="20261015190000 +0000" stop="20261015193000 +0000" channel="Kids TV HD.mncvision">
+    <title>Go Buster</title>
+</programme>
+<programme start="20261015193000 +0000" stop="20261015200000 +0000" channel="Kids TV HD.mncvision">
+    <title>Morphle</title>
+</programme>
+<programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S5</title>
+</programme>
+<programme start="20261015203000 +0000" stop="20261015210000 +0000" channel="Kids TV HD.mncvision">
+    <title>Bima S S2</title>
+</programme>
+<programme start="20261015210000 +0000" stop="20261015213000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20261015213000 +0000" stop="20261015220000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20261015220000 +0000" stop="20261015223000 +0000" channel="Kids TV HD.mncvision">
+    <title>Gecko&#039;s Garage</title>
+</programme>
+<programme start="20261015223000 +0000" stop="20261015230000 +0000" channel="Kids TV HD.mncvision">
+    <title>Playtime With Twinkle</title>
+</programme>
+<programme start="20261015230000 +0000" stop="20261015233000 +0000" channel="Kids TV HD.mncvision">
+    <title>The Sharksons</title>
+</programme>
+<programme start="20261015233000 +0000" stop="20261016000000 +0000" channel="Kids TV HD.mncvision">
+    <title>Go Buster</title>
+</programme>
+<programme start="20261016000000 +0000" stop="20261016002000 +0000" channel="Kids TV HD.mncvision">
+    <title>Enchantimals</title>
+</programme>
+<programme start="20261016002000 +0000" stop="20261016003000 +0000" channel="Kids TV HD.mncvision">
+    <title>O Iya Ya</title>
+</programme>
+<programme start="20261016003000 +0000" stop="20261016005500 +0000" channel="Kids TV HD.mncvision">
+    <title>Barbie Dreamtopia</title>
+</programme>
+<programme start="20261016005500 +0000" stop="20261016010000 +0000" channel="Kids TV HD.mncvision">
+    <title>Laluna S2</title>
+</programme>
+<programme start="20261016010000 +0000" stop="20261016040000 +0000" channel="Kids TV HD.mncvision">
+    <title>Sahabat Selamanya Upin &amp; Ipin</title>
+</programme>
+<programme start="20261016040000 +0000" stop="20261016043000 +0000" channel="Kids TV HD.mncvision">
+    <title>Morphle</title>
+</programme>
+<programme start="20261016043000 +0000" stop="20261016050000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20261016050000 +0000" stop="20261016053000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kiko S4</title>
+</programme>
+<programme start="20261016053000 +0000" stop="20261016060000 +0000" channel="Kids TV HD.mncvision">
+    <title>Bima S S2</title>
+</programme>
+<programme start="20261016060000 +0000" stop="20261016062000 +0000" channel="Kids TV HD.mncvision">
+    <title>Barbie Dreamtopia</title>
+</programme>
+<programme start="20261016062000 +0000" stop="20261016063000 +0000" channel="Kids TV HD.mncvision">
+    <title>O Iya Ya</title>
+</programme>
+<programme start="20261016063000 +0000" stop="20261016065500 +0000" channel="Kids TV HD.mncvision">
+    <title>Enchantimals</title>
+</programme>
+<programme start="20261016065500 +0000" stop="20261016070000 +0000" channel="Kids TV HD.mncvision">
+    <title>Laluna S2</title>
+</programme>
+<programme start="20261016070000 +0000" stop="20261016073000 +0000" channel="Kids TV HD.mncvision">
+    <title>Yameme</title>
+</programme>
+<programme start="20261016073000 +0000" stop="20261016090000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Geng Durian Runtuh</title>
+</programme>
+<programme start="20261016090000 +0000" stop="20261016110000 +0000" channel="Kids TV HD.mncvision">
+    <title>Petualangan Upin &amp; Ipin</title>
+</programme>
+<programme start="20261016110000 +0000" stop="20261016113000 +0000" channel="Kids TV HD.mncvision">
+    <title>Gecko&#039;s Garage</title>
+</programme>
+<programme start="20261016113000 +0000" stop="20261016120000 +0000" channel="Kids TV HD.mncvision">
+    <title>Morphle</title>
+</programme>
+<programme start="20261016120000 +0000" stop="20261016130000 +0000" channel="Kids TV HD.mncvision">
+    <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20261016130000 +0000" stop="20261016132000 +0000" channel="Kids TV HD.mncvision">
+    <title>Thomas &amp; Friends S27</title>
+</programme>
+<programme start="20261016132000 +0000" stop="20261016133000 +0000" channel="Kids TV HD.mncvision">
+    <title>O Iya Ya</title>
+</programme>
+<programme start="20261016133000 +0000" stop="20261016135500 +0000" channel="Kids TV HD.mncvision">
+    <title>Backkom S5</title>
+</programme>
+<programme start="20261016135500 +0000" stop="20261016140000 +0000" channel="Kids TV HD.mncvision">
+    <title>Laluna S2</title>
+</programme>
+<programme start="20261016140000 +0000" stop="20261016143000 +0000" channel="Kids TV HD.mncvision">
+    <title>Barbie Dreamtopia</title>
+</programme>
+<programme start="20261016143000 +0000" stop="20261016150000 +0000" channel="Kids TV HD.mncvision">
+    <title>Enchantimals</title>
+</programme>
+<programme start="20261016150000 +0000" stop="20261016160000 +0000" channel="Kids TV HD.mncvision">
+    <title>Buyung Upik</title>
+</programme>
+<programme start="20261016160000 +0000" stop="20261016163000 +0000" channel="Kids TV HD.mncvision">
+    <title>Entong Animasi</title>
+</programme>
+<programme start="20261016163000 +0000" stop="20261015170000 +0000" channel="Kids TV HD.mncvision">
+    <title>Kiko S4</title>
+</programme>
 <programme start="20261015174500 +0000" stop="20261015191500 +0000" channel="KIX.mncvision">
     <title>The Beast</title>
 </programme>
@@ -9002,78 +9130,7 @@ Error: Unable to fetch data. HTTP Status Code: 520
 <programme start="20261016162000 +0000" stop="20261016165000 +0000" channel="tvN Movies HD.mncvision">
     <title>Gate</title>
 </programme>
-<programme start="20261015170000 +0000" stop="20261015183000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Petang</title>
-</programme>
-<programme start="20261015183000 +0000" stop="20261015193000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20261015193000 +0000" stop="20261015200000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20261015203000 +0000" stop="20261015211500 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
-</programme>
-<programme start="20261015211500 +0000" stop="20261015230000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Pagi</title>
-</programme>
-<programme start="20261015230000 +0000" stop="20261015233000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Pagi 2</title>
-</programme>
-<programme start="20261015233000 +0000" stop="20261016013000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Pagi</title>
-</programme>
-<programme start="20261016013000 +0000" stop="20261016020000 +0000" channel="tvOne.mncvision">
-    <title>Hidup Sehat</title>
-</programme>
-<programme start="20261016020000 +0000" stop="20261016023000 +0000" channel="tvOne.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20261016023000 +0000" stop="20261016033000 +0000" channel="tvOne.mncvision">
-    <title>Pagi-Pagi Seru</title>
-</programme>
-<programme start="20261016033000 +0000" stop="20261016040000 +0000" channel="tvOne.mncvision">
-    <title>Metropolitan</title>
-</programme>
-<programme start="20261016040000 +0000" stop="20261016053000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Siang</title>
-</programme>
-<programme start="20261016053000 +0000" stop="20261016070000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Siang</title>
-</programme>
-<programme start="20261016070000 +0000" stop="20261016080000 +0000" channel="tvOne.mncvision">
-    <title>Breaking News</title>
-</programme>
-<programme start="20261016080000 +0000" stop="20261016083000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Merah Putih</title>
-</programme>
-<programme start="20261016083000 +0000" stop="20261016090000 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
-</programme>
-<programme start="20261016090000 +0000" stop="20261016110000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Petang</title>
-</programme>
-<programme start="20261016110000 +0000" stop="20261016130000 +0000" channel="tvOne.mncvision">
-    <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="tvOne.mncvision">
-    <title>One On One</title>
-</programme>
-<programme start="20261016150000 +0000" stop="20261016160000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Hari Ini</title>
-</programme>
-<programme start="20261016160000 +0000" stop="20261016163000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Malam</title>
-</programme>
-<programme start="20261016163000 +0000" stop="20261015170000 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
-</programme>
+Error: Unable to fetch data. HTTP Status Code: 520
 <programme start="20261015170000 +0000" stop="20261015190000 +0000" channel="TVRI.mncvision">
     <title>TVRI</title>
 </programme>
