@@ -1,12 +1,3 @@
-<programme start="20261016170000 +0000" stop="20261016180000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016180000 +0000" stop="20261016190000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016190000 +0000" stop="20261016200000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261016200000 +0000" stop="20261016210000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -67,12 +58,6 @@
 <programme start="20261017160000 +0000" stop="20261017183000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Newcastle United vs Aston Villa[Live]</title>
 </programme>
-<programme start="20261016160000 +0000" stop="20261016180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016180000 +0000" stop="20261016200000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -104,12 +89,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016160000 +0000" stop="20261016180000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016180000 +0000" stop="20261016200000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -144,12 +123,6 @@
 </programme>
 <programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016160000 +0000" stop="20261016180000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Manchester United vs Tottenham Hotspur</title>
-</programme>
-<programme start="20261016180000 +0000" stop="20261016200000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Liverpool vs Manchester City</title>
 </programme>
 <programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Crystal Palace vs Nottingham Forest</title>
@@ -193,9 +166,6 @@
 <programme start="20261017160000 +0000" stop="20261017183000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Newcastle United vs Aston Villa[Live]</title>
 </programme>
-<programme start="20261016160000 +0000" stop="20261016200000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261016200000 +0000" stop="20261017000000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -217,9 +187,6 @@
 <programme start="20261017160000 +0000" stop="20261017200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261016160000 +0000" stop="20261016200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261016200000 +0000" stop="20261017000000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -239,9 +206,6 @@
     <title>Premier League 26/27 -Fulham vs Hull City[Live]</title>
 </programme>
 <programme start="20261017160000 +0000" stop="20261017200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016160000 +0000" stop="20261016200000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261016200000 +0000" stop="20261017000000 +0000" channel="Now Sports Premier League 4.nowtv">
