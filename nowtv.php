@@ -1,12 +1,3 @@
-<programme start="20261016200000 +0000" stop="20261016210000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016210000 +0000" stop="20261016220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016220000 +0000" stop="20261016230000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261016230000 +0000" stop="20261017000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -58,9 +49,6 @@
 <programme start="20261017160000 +0000" stop="20261017183000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>[4K]Premier League 26/27 -Newcastle United vs Aston Villa[Live]</title>
 </programme>
-<programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261016220000 +0000" stop="20261017000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -89,9 +77,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261016220000 +0000" stop="20261017000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -123,9 +108,6 @@
 </programme>
 <programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261016200000 +0000" stop="20261016220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Crystal Palace vs Nottingham Forest</title>
 </programme>
 <programme start="20261016220000 +0000" stop="20261017000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Manchester United vs Tottenham Hotspur</title>
