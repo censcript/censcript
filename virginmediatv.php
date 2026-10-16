@@ -3856,10 +3856,16 @@
 <programme start="20261015230000 +0000" stop="20261016041500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NFL Football - Seattle Seahawks at Denver Broncos</title>
 </programme>
-<programme start="20261016041500 +0000" stop="20261016063000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261016041500 +0000" stop="20261016050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Buick LPGA Shanghai LPGA Tour Golf - Day 2</title>
 </programme>
-<programme start="20261016113000 +0000" stop="20261016130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261016050000 +0000" stop="20261016063000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: Buick LPGA Shanghai LPGA Tour Golf - Day 2</title>
+</programme>
+<programme start="20261016063000 +0000" stop="20261016121500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: India Championship, DP World Tour Golf - Day 2</title>
+</programme>
+<programme start="20261016121500 +0000" stop="20261016130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live Tennis - ATP Shanghai Masters &amp; WTA Wuhan Open</title>
 </programme>
 <programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4078,14 +4084,17 @@
 <programme start="20261016030000 +0000" stop="20261016063000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Buick LPGA Shanghai LPGA Tour Golf - Day 2</title>
 </programme>
-<programme start="20261016113000 +0000" stop="20261016123000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20261016113000 +0000" stop="20261016121500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>DP World Tour Locker Room - Day 2</title>
 </programme>
-<programme start="20261016123000 +0000" stop="20261016130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>PGA Tour Champions Learning Centre - Episode 46</title>
+<programme start="20261016121500 +0000" stop="20261016131500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>DP World Tour Locker Room - Day 1</title>
 </programme>
-<programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Constellation Furyk &amp; Friends, PGA Champions Tour - Highlights</title>
+<programme start="20261016131500 +0000" stop="20261016134500 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>PGA Tour Champions Learning Centre - Episode 57</title>
+</programme>
+<programme start="20261016134500 +0000" stop="20261016140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>The Improvers - Episode 5</title>
 </programme>
 <programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Legends Tour Golf - Reignwood Legends Championship</title>
@@ -4726,10 +4735,16 @@
 <programme start="20261015230000 +0000" stop="20261016041500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: NFL Football - Seattle Seahawks at Denver Broncos</title>
 </programme>
-<programme start="20261016041500 +0000" stop="20261016063000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261016041500 +0000" stop="20261016050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Buick LPGA Shanghai LPGA Tour Golf - Day 2</title>
 </programme>
-<programme start="20261016113000 +0000" stop="20261016130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261016050000 +0000" stop="20261016063000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: Buick LPGA Shanghai LPGA Tour Golf - Day 2</title>
+</programme>
+<programme start="20261016063000 +0000" stop="20261016121500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: India Championship, DP World Tour Golf - Day 2</title>
+</programme>
+<programme start="20261016121500 +0000" stop="20261016130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live Tennis - ATP Shanghai Masters &amp; WTA Wuhan Open</title>
 </programme>
 <programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4948,14 +4963,17 @@
 <programme start="20261016030000 +0000" stop="20261016063000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Buick LPGA Shanghai LPGA Tour Golf - Day 2</title>
 </programme>
-<programme start="20261016113000 +0000" stop="20261016123000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>DP World Tour Locker Room - Day 2</title>
+<programme start="20261016063000 +0000" stop="20261016121500 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: India Championship, DP World Tour Golf - Day 2</title>
 </programme>
-<programme start="20261016123000 +0000" stop="20261016130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>PGA Tour Champions Learning Centre - Episode 46</title>
+<programme start="20261016121500 +0000" stop="20261016131500 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>DP World Tour Locker Room - Day 1</title>
 </programme>
-<programme start="20261016130000 +0000" stop="20261016140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Constellation Furyk &amp; Friends, PGA Champions Tour - Highlights</title>
+<programme start="20261016131500 +0000" stop="20261016134500 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>PGA Tour Champions Learning Centre - Episode 57</title>
+</programme>
+<programme start="20261016134500 +0000" stop="20261016140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>The Improvers - Episode 5</title>
 </programme>
 <programme start="20261016140000 +0000" stop="20261016150000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Legends Tour Golf - Reignwood Legends Championship</title>
