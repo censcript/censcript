@@ -228,16 +228,16 @@
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261017143400 +0000" stop="20261017160300 +0000">
+  <programme channel="204" start="20261017143400 +0000" stop="20261017160600 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron terbaru biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261017160300 +0000" stop="20261017183000 +0000">
+  <programme channel="204" start="20261017160600 +0000" stop="20261017183000 +0000">
     <title lang="id">Newcastle vs Aston Villa : Premier League 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261017160300 +0000" stop="20261017183000 +0000">
+  <programme channel="204" start="20261017160600 +0000" stop="20261017183000 +0000">
     <title lang="id">Newcastle vs Aston Villa : Premier League 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -411,17 +411,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261017113400 +0000" stop="20261017141000 +0000">
+  <programme channel="205" start="20261017113400 +0000" stop="20261017144200 +0000">
     <title lang="id">Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017141000 +0000" stop="20261017180000 +0000">
+  <programme channel="205" start="20261017144200 +0000" stop="20261017180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UPLWnkX4MplWzdPiXkZtw1bdhaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377677/0cadf0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017141000 +0000" stop="20261017180000 +0000">
+  <programme channel="205" start="20261017144200 +0000" stop="20261017180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UPLWnkX4MplWzdPiXkZtw1bdhaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377677/0cadf0.jpg"/>
@@ -586,22 +586,22 @@
     <desc lang="id">Nonton streaming pertandingan seru Putri: UNESA vs UPI - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QeXnYoAI0r117iCuiUaosjJ8-PA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383799/fe2dcb.jpg"/>
   </programme>
-  <programme channel="206" start="20261017114400 +0000" stop="20261017142500 +0000">
+  <programme channel="206" start="20261017114400 +0000" stop="20261017133300 +0000">
     <title lang="id">Putra: UNESA vs UNP - Semifinal - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Putra: UNESA vs UNP - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1eAUeXKzA-Na1jBaXlhgIIY44cs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383800/e33ec2.jpg"/>
   </programme>
-  <programme channel="206" start="20261017142500 +0000" stop="20261017161000 +0000">
+  <programme channel="206" start="20261017133300 +0000" stop="20261017152800 +0000">
     <title lang="id">RB Salzburg vs AC Milan : UEFA Europa League 2026/27</title>
     <desc lang="id">UEFA EUROPA LEAGUE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261017161000 +0000" stop="20261017171200 +0000">
+  <programme channel="206" start="20261017152800 +0000" stop="20261017171200 +0000">
     <title lang="id">ONE Friday Fights</title>
     <desc lang="id">ONE FRIDAY FIGHTS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261017161000 +0000" stop="20261017171200 +0000">
+  <programme channel="206" start="20261017152800 +0000" stop="20261017171200 +0000">
     <title lang="id">ONE Friday Fights</title>
     <desc lang="id">ONE FRIDAY FIGHTS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -1135,11 +1135,11 @@
     <title lang="id">Pov (Pasti Obrolan Viral)</title>
     <icon src="https://thumbor.prod.vidiocdn.com/1DeL6nz2EPZ0ftcN3SQrgV3JBqo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5372813/66adee.png"/>
   </programme>
-  <programme channel="734" start="20261017130000 +0000" stop="20261017143000 +0000">
+  <programme channel="734" start="20261017130000 +0000" stop="20261017142900 +0000">
     <title lang="id">Arisan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20261017143000 +0000" stop="20261017154500 +0000">
+  <programme channel="734" start="20261017142900 +0000" stop="20261017154500 +0000">
     <title lang="id">BTS</title>
     <icon src="https://thumbor.prod.vidiocdn.com/frC5Y00s3xbaTNIvoLZUVyOmzlk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/1341/85078a.jpg"/>
   </programme>
@@ -5369,6 +5369,546 @@
   <programme channel="1561" start="20261018160000 +0000" stop="20261018165900 +0000">
     <title lang="id">Besti (Best Informasi)</title>
     <desc lang="id">Program TV Berjenis Informasi Documentary Yang Menyajikan Informasi-Informasi Terbaik Dan Dipaparkan Oleh Vo ( Voice Over ). Setiap Segmen Menampilkan Informasi Terbaik Yang Sangat Informatif</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261018170000 +0000" stop="20261018180000 +0000">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Program Yang Berisikan Kompilasi Video-Video Lucu Yang Viral Di Sosial Media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261018180000 +0000" stop="20261018183000 +0000">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Siraman Rohani Kristen Yang Berkaitan Dengan Kehidupan Untuk Mendekatkan Diri Kepada Tuhan Yesus Kristus. Program Ini Akan Dibagi Menjadi Beberapa Bagian, Antara Lain Kesaksian, Renungan, Serta Konseling Yang Akan Dipandu Oleh Dua Orang Host</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261018183000 +0000" stop="20261018200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261018200000 +0000" stop="20261018203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261018203000 +0000" stop="20261018220000 +0000">
+    <title lang="id">Go Go Bus</title>
+    <desc lang="id">Serial Animasi Bercerita Tentang Bus Sekolah-Gordon Akan Berubah Menjadi Kendaraan Yang Berbeda Seperti Pemadam Kebakaran, Ambulans, Polisi, Pesawat Dan Penyelamatan Untuk Membantu Anak-Anak Yang Memiliki Masalah. Sementara Itu, Ia Membimbing Anak-Anak Untuk Memahami Diri Mereka Sendiri Dan Membuka Pikiran Mereka. Serta Mengarahkan Anak-Anak Untuk Mengeksplorasi Kehidupan Yang Bermakna, Membantu Mereka Fokus Pada Tugas Yang Ada Dan Belajar Mengelola Emosi Yang Mengganggu Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261018220000 +0000" stop="20261019023000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261019023000 +0000" stop="20261019030000 +0000">
+    <title lang="id">Will Sliney'S Storytellers</title>
+    <desc lang="id">Menceritakan Petualangan Freya, Seorang Gadis Pembuat Peta Viking Yang Pemberani, Bersama Ogham, Sebuah Batu Melayang Ajaib Yang Jenaka. Mereka Mengemban Misi Perjalanan Lintas Waktu Untuk Mengumpulkan Tim Seniman Muda Berbakat Guna Menghentikan Penjahat Licik Bernama The Chronicle Dan Antek-Anteknya. The Chronicle Berencana Untuk Mencuri Dan Menguasai Seluruh Karya Seni Paling Terkenal Di Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019030000 +0000" stop="20261019044500 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019044500 +0000" stop="20261019054500 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019054500 +0000" stop="20261019061500 +0000">
+    <title lang="id">Tawa Satwa</title>
+    <desc lang="id">Program Yang Menampilkan Kompilasi Video Lucu Hewan Yang Viral Di Media Sosial Dan Di-React Secara Kekinian Oleh Voice Over Talent Dengan Karakter Beragam Yang Akan Menambah Kelucuan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019061500 +0000" stop="20261019083000 +0000">
+    <title lang="id">Super Wings</title>
+    <desc lang="id">Mengisahkan Perjuangan Jett Dan Timnya Dalam Melindungi Bumi Dan Luar Angkasa Dari Golden Boy, Yang Berhasil Mencuri Sumber Energi Kosmik Kuat Bernama Star Core. Dengan Kekuatan Star Core, Golden Boy Melompati Dimensi Ruang-Waktu Dan Mengancam Keseimbangan Alam Semesta. Untuk Menghentikannya, Tim Super Wings Harus Meluncurkan Markas Besar Ruang Angkasa Mereka, Menjelajahi Berbagai Dimensi Ekstrem, Hingga Terlibat Dalam Pertempuran Robot Raksasa Demi Merebut Kembali Energi Tersebut Dan Menyelamatkan Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019083000 +0000" stop="20261019093000 +0000">
+    <title lang="id">Secret Jouju - Bijou Of Star</title>
+    <desc lang="id">Jouju Ditugaskan Untuk Menemukan Joubijou Yang Tersembunyi, Menyeimbangkan Kebaikan Dan Kejahatan Di Dunia Surgawi Bersama Sahabat-Sahabatnya Cindy, Stellar, Dan 'Rosa' Yang Misterius. Sambil Menyelamatkan Joubijou Dari Lucy 'Si Pemburu Harta Karun', Jouju Melindungi Keluarga Dan Sahabatnya Dari Para Penyihir Dan Menjalani Perjalanan Ajaib Untuk Menjadi Pelindung Bintang Sejati.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019093000 +0000" stop="20261019103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/GmqVxYlC4-giwzOgr-QCyVL8pyQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/404692/a4f2e8.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019103000 +0000" stop="20261019113000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261019113000 +0000" stop="20261019130000 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019130000 +0000" stop="20261019143000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Ali Dan Para Agen Junior Lainnya Diundang Untuk Mengikuti Turnamen Tingkat Tinggi Bernama M.A.T.A. Arena. Turnamen Ini Mempertemukan Mereka Dengan Para Agen Senior Serta Agen-Agen Hebat Dari Luar Cyberaya. Tanpa Bantuan I.R.I.S., Ali Harus Berjuang Mengandalkan Kemampuan Dan Latihan Aslinya Untuk Membuktikan Diri. Di Sisi Lain, Muncul Ancaman Baru Serta Intrik Dari Kelompok Numeros Dan Pergerakan Rizwan Yang Penuh Misteri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019143000 +0000" stop="20261019150000 +0000">
+    <title lang="id">Harapan Indah</title>
+    <desc lang="id">Dokudrama Fiksi Dari Kisah Nyata Yang Menggunakan Ilustrasi Ai. Sebuah Drama Dari Sudut Pandang Yang Lain Untuk Menelusuri Sisi Kemanusiaan Di Tengah Tragedy-Tragedi. Bukan Sekedar Tentang Suka Duka, Namun Tentang Perasaan Dan Perjuangan Insan Manusia Yang Harus Bangkit Merajut Harapan Indah Dari Titik Terendah.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019150000 +0000" stop="20261019153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019153000 +0000" stop="20261019160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019160000 +0000" stop="20261019170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019160000 +0000" stop="20261019170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019170000 +0000" stop="20261019173000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019173000 +0000" stop="20261019180000 +0000">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Program Yang Berisikan Kompilasi Video-Video Lucu Yang Viral Di Sosial Media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019180000 +0000" stop="20261019183000 +0000">
+    <title lang="id">Cahaya Bagi Negeri</title>
+    <desc lang="id">Sebuah Program Yang Membahas Berbagai Isu Hangat Yang Sedang Ramai Diperbincangkan Masyarakat, Dikupas Dari Sudut Pandang Spiritual Dan Nilai-Nilai Kerohanian.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019183000 +0000" stop="20261019200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019200000 +0000" stop="20261019203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019203000 +0000" stop="20261019220000 +0000">
+    <title lang="id">Robocar Poli</title>
+    <desc lang="id">Robocar Poli Bercerita Mengenai Petualangan Tim Penyelamatan Brooms Town Dalam Menjaga Keamanan Kotanya. Beranggotakan Poli Si Mobil Polisi Yang Pintar, Amber Si Mobil Ambulance Yang Baik Hati, Heli Si Helicopter Yang Lucu, Dan Roy Si Mobil Kebakaran Yang Kuat, Tim Penyelamat Selalu Membantu Teman Temannya Dikala Dalam Kesulitan. Dibantu Oleh Jin Seorang Gadis Remaja Yang Selalu Bijaksana, Mereka Bekerja Sama Dan Membuat Kota Brooms Town Menjadi Kota Ternyaman Bagi Warganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261019220000 +0000" stop="20261020023000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261020023000 +0000" stop="20261020030000 +0000">
+    <title lang="id">Will Sliney'S Storytellers</title>
+    <desc lang="id">Menceritakan Petualangan Freya, Seorang Gadis Pembuat Peta Viking Yang Pemberani, Bersama Ogham, Sebuah Batu Melayang Ajaib Yang Jenaka. Mereka Mengemban Misi Perjalanan Lintas Waktu Untuk Mengumpulkan Tim Seniman Muda Berbakat Guna Menghentikan Penjahat Licik Bernama The Chronicle Dan Antek-Anteknya. The Chronicle Berencana Untuk Mencuri Dan Menguasai Seluruh Karya Seni Paling Terkenal Di Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020030000 +0000" stop="20261020044500 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020044500 +0000" stop="20261020054500 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020054500 +0000" stop="20261020061500 +0000">
+    <title lang="id">Tawa Satwa</title>
+    <desc lang="id">Program Yang Menampilkan Kompilasi Video Lucu Hewan Yang Viral Di Media Sosial Dan Di-React Secara Kekinian Oleh Voice Over Talent Dengan Karakter Beragam Yang Akan Menambah Kelucuan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020061500 +0000" stop="20261020083000 +0000">
+    <title lang="id">Super Wings</title>
+    <desc lang="id">Mengisahkan Perjuangan Jett Dan Timnya Dalam Melindungi Bumi Dan Luar Angkasa Dari Golden Boy, Yang Berhasil Mencuri Sumber Energi Kosmik Kuat Bernama Star Core. Dengan Kekuatan Star Core, Golden Boy Melompati Dimensi Ruang-Waktu Dan Mengancam Keseimbangan Alam Semesta. Untuk Menghentikannya, Tim Super Wings Harus Meluncurkan Markas Besar Ruang Angkasa Mereka, Menjelajahi Berbagai Dimensi Ekstrem, Hingga Terlibat Dalam Pertempuran Robot Raksasa Demi Merebut Kembali Energi Tersebut Dan Menyelamatkan Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020083000 +0000" stop="20261020093000 +0000">
+    <title lang="id">Secret Jouju - Bijou Of Star</title>
+    <desc lang="id">Jouju Ditugaskan Untuk Menemukan Joubijou Yang Tersembunyi, Menyeimbangkan Kebaikan Dan Kejahatan Di Dunia Surgawi Bersama Sahabat-Sahabatnya Cindy, Stellar, Dan 'Rosa' Yang Misterius. Sambil Menyelamatkan Joubijou Dari Lucy 'Si Pemburu Harta Karun', Jouju Melindungi Keluarga Dan Sahabatnya Dari Para Penyihir Dan Menjalani Perjalanan Ajaib Untuk Menjadi Pelindung Bintang Sejati.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020093000 +0000" stop="20261020103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/GmqVxYlC4-giwzOgr-QCyVL8pyQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/404692/a4f2e8.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020103000 +0000" stop="20261020113000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261020113000 +0000" stop="20261020130000 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020130000 +0000" stop="20261020143000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Ali Dan Para Agen Junior Lainnya Diundang Untuk Mengikuti Turnamen Tingkat Tinggi Bernama M.A.T.A. Arena. Turnamen Ini Mempertemukan Mereka Dengan Para Agen Senior Serta Agen-Agen Hebat Dari Luar Cyberaya. Tanpa Bantuan I.R.I.S., Ali Harus Berjuang Mengandalkan Kemampuan Dan Latihan Aslinya Untuk Membuktikan Diri. Di Sisi Lain, Muncul Ancaman Baru Serta Intrik Dari Kelompok Numeros Dan Pergerakan Rizwan Yang Penuh Misteri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020143000 +0000" stop="20261020150000 +0000">
+    <title lang="id">Blox Buster Action</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020150000 +0000" stop="20261020153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020153000 +0000" stop="20261020160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020160000 +0000" stop="20261020170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020160000 +0000" stop="20261020170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020170000 +0000" stop="20261020173000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020173000 +0000" stop="20261020180000 +0000">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Program Yang Berisikan Kompilasi Video-Video Lucu Yang Viral Di Sosial Media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020180000 +0000" stop="20261020183000 +0000">
+    <title lang="id">Cahaya Bagi Negeri</title>
+    <desc lang="id">Sebuah Program Yang Membahas Berbagai Isu Hangat Yang Sedang Ramai Diperbincangkan Masyarakat, Dikupas Dari Sudut Pandang Spiritual Dan Nilai-Nilai Kerohanian.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020183000 +0000" stop="20261020200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020200000 +0000" stop="20261020203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020203000 +0000" stop="20261020220000 +0000">
+    <title lang="id">Robocar Poli</title>
+    <desc lang="id">Robocar Poli Bercerita Mengenai Petualangan Tim Penyelamatan Brooms Town Dalam Menjaga Keamanan Kotanya. Beranggotakan Poli Si Mobil Polisi Yang Pintar, Amber Si Mobil Ambulance Yang Baik Hati, Heli Si Helicopter Yang Lucu, Dan Roy Si Mobil Kebakaran Yang Kuat, Tim Penyelamat Selalu Membantu Teman Temannya Dikala Dalam Kesulitan. Dibantu Oleh Jin Seorang Gadis Remaja Yang Selalu Bijaksana, Mereka Bekerja Sama Dan Membuat Kota Brooms Town Menjadi Kota Ternyaman Bagi Warganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261020220000 +0000" stop="20261021023000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261021023000 +0000" stop="20261021030000 +0000">
+    <title lang="id">Will Sliney'S Storytellers</title>
+    <desc lang="id">Menceritakan Petualangan Freya, Seorang Gadis Pembuat Peta Viking Yang Pemberani, Bersama Ogham, Sebuah Batu Melayang Ajaib Yang Jenaka. Mereka Mengemban Misi Perjalanan Lintas Waktu Untuk Mengumpulkan Tim Seniman Muda Berbakat Guna Menghentikan Penjahat Licik Bernama The Chronicle Dan Antek-Anteknya. The Chronicle Berencana Untuk Mencuri Dan Menguasai Seluruh Karya Seni Paling Terkenal Di Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021030000 +0000" stop="20261021044500 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021044500 +0000" stop="20261021054500 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021054500 +0000" stop="20261021061500 +0000">
+    <title lang="id">Tawa Satwa</title>
+    <desc lang="id">Program Yang Menampilkan Kompilasi Video Lucu Hewan Yang Viral Di Media Sosial Dan Di-React Secara Kekinian Oleh Voice Over Talent Dengan Karakter Beragam Yang Akan Menambah Kelucuan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021061500 +0000" stop="20261021083000 +0000">
+    <title lang="id">Super Wings</title>
+    <desc lang="id">Mengisahkan Perjuangan Jett Dan Timnya Dalam Melindungi Bumi Dan Luar Angkasa Dari Golden Boy, Yang Berhasil Mencuri Sumber Energi Kosmik Kuat Bernama Star Core. Dengan Kekuatan Star Core, Golden Boy Melompati Dimensi Ruang-Waktu Dan Mengancam Keseimbangan Alam Semesta. Untuk Menghentikannya, Tim Super Wings Harus Meluncurkan Markas Besar Ruang Angkasa Mereka, Menjelajahi Berbagai Dimensi Ekstrem, Hingga Terlibat Dalam Pertempuran Robot Raksasa Demi Merebut Kembali Energi Tersebut Dan Menyelamatkan Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021083000 +0000" stop="20261021093000 +0000">
+    <title lang="id">Secret Jouju - Bijou Of Star</title>
+    <desc lang="id">Jouju Ditugaskan Untuk Menemukan Joubijou Yang Tersembunyi, Menyeimbangkan Kebaikan Dan Kejahatan Di Dunia Surgawi Bersama Sahabat-Sahabatnya Cindy, Stellar, Dan 'Rosa' Yang Misterius. Sambil Menyelamatkan Joubijou Dari Lucy 'Si Pemburu Harta Karun', Jouju Melindungi Keluarga Dan Sahabatnya Dari Para Penyihir Dan Menjalani Perjalanan Ajaib Untuk Menjadi Pelindung Bintang Sejati.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021093000 +0000" stop="20261021103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/GmqVxYlC4-giwzOgr-QCyVL8pyQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/404692/a4f2e8.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021103000 +0000" stop="20261021113000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261021113000 +0000" stop="20261021130000 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021130000 +0000" stop="20261021143000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Ali Dan Para Agen Junior Lainnya Diundang Untuk Mengikuti Turnamen Tingkat Tinggi Bernama M.A.T.A. Arena. Turnamen Ini Mempertemukan Mereka Dengan Para Agen Senior Serta Agen-Agen Hebat Dari Luar Cyberaya. Tanpa Bantuan I.R.I.S., Ali Harus Berjuang Mengandalkan Kemampuan Dan Latihan Aslinya Untuk Membuktikan Diri. Di Sisi Lain, Muncul Ancaman Baru Serta Intrik Dari Kelompok Numeros Dan Pergerakan Rizwan Yang Penuh Misteri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021143000 +0000" stop="20261021150000 +0000">
+    <title lang="id">Blox Buster Action</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021150000 +0000" stop="20261021153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021153000 +0000" stop="20261021160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021160000 +0000" stop="20261021170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021160000 +0000" stop="20261021170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021170000 +0000" stop="20261021173000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021173000 +0000" stop="20261021180000 +0000">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Program Yang Berisikan Kompilasi Video-Video Lucu Yang Viral Di Sosial Media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021180000 +0000" stop="20261021183000 +0000">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Siraman Rohani Kristen Yang Berkaitan Dengan Kehidupan Untuk Mendekatkan Diri Kepada Tuhan Yesus Kristus. Program Ini Akan Dibagi Menjadi Beberapa Bagian, Antara Lain Kesaksian, Renungan, Serta Konseling Yang Akan Dipandu Oleh Dua Orang Host</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021183000 +0000" stop="20261021200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021200000 +0000" stop="20261021203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021203000 +0000" stop="20261021220000 +0000">
+    <title lang="id">Robocar Poli</title>
+    <desc lang="id">Robocar Poli Bercerita Mengenai Petualangan Tim Penyelamatan Brooms Town Dalam Menjaga Keamanan Kotanya. Beranggotakan Poli Si Mobil Polisi Yang Pintar, Amber Si Mobil Ambulance Yang Baik Hati, Heli Si Helicopter Yang Lucu, Dan Roy Si Mobil Kebakaran Yang Kuat, Tim Penyelamat Selalu Membantu Teman Temannya Dikala Dalam Kesulitan. Dibantu Oleh Jin Seorang Gadis Remaja Yang Selalu Bijaksana, Mereka Bekerja Sama Dan Membuat Kota Brooms Town Menjadi Kota Ternyaman Bagi Warganya.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261021220000 +0000" stop="20261022023000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261022023000 +0000" stop="20261022030000 +0000">
+    <title lang="id">Will Sliney'S Storytellers</title>
+    <desc lang="id">Menceritakan Petualangan Freya, Seorang Gadis Pembuat Peta Viking Yang Pemberani, Bersama Ogham, Sebuah Batu Melayang Ajaib Yang Jenaka. Mereka Mengemban Misi Perjalanan Lintas Waktu Untuk Mengumpulkan Tim Seniman Muda Berbakat Guna Menghentikan Penjahat Licik Bernama The Chronicle Dan Antek-Anteknya. The Chronicle Berencana Untuk Mencuri Dan Menguasai Seluruh Karya Seni Paling Terkenal Di Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022030000 +0000" stop="20261022044500 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022044500 +0000" stop="20261022054500 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022054500 +0000" stop="20261022061500 +0000">
+    <title lang="id">On Fire</title>
+    <desc lang="id">On Fire Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Free Fire, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022061500 +0000" stop="20261022083000 +0000">
+    <title lang="id">Grizzy And The Lemmings</title>
+    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin Bermain Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022083000 +0000" stop="20261022093000 +0000">
+    <title lang="id">Secret Jouju - Bijou Of Star</title>
+    <desc lang="id">Jouju Ditugaskan Untuk Menemukan Joubijou Yang Tersembunyi, Menyeimbangkan Kebaikan Dan Kejahatan Di Dunia Surgawi Bersama Sahabat-Sahabatnya Cindy, Stellar, Dan 'Rosa' Yang Misterius. Sambil Menyelamatkan Joubijou Dari Lucy 'Si Pemburu Harta Karun', Jouju Melindungi Keluarga Dan Sahabatnya Dari Para Penyihir Dan Menjalani Perjalanan Ajaib Untuk Menjadi Pelindung Bintang Sejati.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022093000 +0000" stop="20261022103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/GmqVxYlC4-giwzOgr-QCyVL8pyQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/404692/a4f2e8.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022103000 +0000" stop="20261022113000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261022113000 +0000" stop="20261022130000 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022130000 +0000" stop="20261022143000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Ali Dan Para Agen Junior Lainnya Diundang Untuk Mengikuti Turnamen Tingkat Tinggi Bernama M.A.T.A. Arena. Turnamen Ini Mempertemukan Mereka Dengan Para Agen Senior Serta Agen-Agen Hebat Dari Luar Cyberaya. Tanpa Bantuan I.R.I.S., Ali Harus Berjuang Mengandalkan Kemampuan Dan Latihan Aslinya Untuk Membuktikan Diri. Di Sisi Lain, Muncul Ancaman Baru Serta Intrik Dari Kelompok Numeros Dan Pergerakan Rizwan Yang Penuh Misteri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022143000 +0000" stop="20261022150000 +0000">
+    <title lang="id">On Fire</title>
+    <desc lang="id">On Fire Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Free Fire, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022150000 +0000" stop="20261022153000 +0000">
+    <title lang="id">Terkepo-Kepo</title>
+    <desc lang="id">Program Informasi Dokumenter, Menyajikan Berbagai Informasi Yang Dekat Dengan Kehidupan Sehari-Hari Dan Dibahas Dari Berbagai Sudut Pandang Disertai Dengan Pemaparannya. Selain Menghibur, Program Ini Juga Kaya Akan Pengetahuan Sehingga Akan Menambah Banyak Wawasan Bagi Pemirsa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022153000 +0000" stop="20261022160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022160000 +0000" stop="20261022170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022160000 +0000" stop="20261022170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022170000 +0000" stop="20261022173000 +0000">
+    <title lang="id">Ijin, Ndan !</title>
+    <desc lang="id">Ijin, Ndan Adalah Program Crimetainment Yang Menggabungkan Informasi Seputar Kejahatan Dan Kriminalitas Dengan Sketsa Komedi Situasional Yang Berlatar Di Ruang Interogasi Atau Kantor Polisi. Dipandu Oleh Tiga Host Utama Yaitu Komandan Zack, Bro Dim, Dan Miss Binal, Setiap Episodenya Juga Menghadirkan Berbagai Cameo Menarik Seperti Tahanan, Petugas Kebersihan, Hingga Karakter Unik Lainnya Yang Menambah Keseruan. Dengan Gaya Penyajian Yang Ringan, Menghibur, Dan Penuh Humor, Ijin, Ndan Tetap Konsisten Menyampaikan Fakta Aktual Dan Pesan Edukatif Kepada Penonton, Menjadikannya Tontonan Yang Informatif Sekaligus Mengundang Tawa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022173000 +0000" stop="20261022180000 +0000">
+    <title lang="id">Kokom (Kompilasi Komedi)</title>
+    <desc lang="id">Program Yang Berisikan Kompilasi Video-Video Lucu Yang Viral Di Sosial Media.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022180000 +0000" stop="20261022183000 +0000">
+    <title lang="id">Terang Kasih</title>
+    <desc lang="id">Siraman Rohani Kristen Yang Berkaitan Dengan Kehidupan Untuk Mendekatkan Diri Kepada Tuhan Yesus Kristus. Program Ini Akan Dibagi Menjadi Beberapa Bagian, Antara Lain Kesaksian, Renungan, Serta Konseling Yang Akan Dipandu Oleh Dua Orang Host</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022183000 +0000" stop="20261022200000 +0000">
+    <title lang="id">Movinesia</title>
+    <desc lang="id">Sebuah Program Yang Menghadirkan Sederet Film Pilihan Untuk Menemani Aktivitas Anda Dengan Dimeriahkan Oleh Para Pemain &amp; Artis Papan Atas Berbakat, Dengan Cerita Ringan Seputar Kehidupan Remaja.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022200000 +0000" stop="20261022203000 +0000">
+    <title lang="id">Ustadz On The Road</title>
+    <desc lang="id">Program Religi Yang Dipandu Oleh Seorang Host Dan Ustadz Yang Akan Memberikan Kajian Islami Dengan Treatment On The Road Disertai Dengan Study Kasus. Pembahasan Dilakukan Sepanjang Perjalanan Menuju Lokasi Sesuai Agenda Harian Ustadz. Program Ini Akan Disajikan Secara Ringan Dan Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022203000 +0000" stop="20261022220000 +0000">
+    <title lang="id">Super Wings</title>
+    <desc lang="id">Mengisahkan Perjuangan Jett Dan Timnya Dalam Melindungi Bumi Dan Luar Angkasa Dari Golden Boy, Yang Berhasil Mencuri Sumber Energi Kosmik Kuat Bernama Star Core. Dengan Kekuatan Star Core, Golden Boy Melompati Dimensi Ruang-Waktu Dan Mengancam Keseimbangan Alam Semesta. Untuk Menghentikannya, Tim Super Wings Harus Meluncurkan Markas Besar Ruang Angkasa Mereka, Menjelajahi Berbagai Dimensi Ekstrem, Hingga Terlibat Dalam Pertempuran Robot Raksasa Demi Merebut Kembali Energi Tersebut Dan Menyelamatkan Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261022220000 +0000" stop="20261023023000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261023023000 +0000" stop="20261023030000 +0000">
+    <title lang="id">Will Sliney'S Storytellers</title>
+    <desc lang="id">Menceritakan Petualangan Freya, Seorang Gadis Pembuat Peta Viking Yang Pemberani, Bersama Ogham, Sebuah Batu Melayang Ajaib Yang Jenaka. Mereka Mengemban Misi Perjalanan Lintas Waktu Untuk Mengumpulkan Tim Seniman Muda Berbakat Guna Menghentikan Penjahat Licik Bernama The Chronicle Dan Antek-Anteknya. The Chronicle Berencana Untuk Mencuri Dan Menguasai Seluruh Karya Seni Paling Terkenal Di Dunia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023030000 +0000" stop="20261023044500 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023044500 +0000" stop="20261023054500 +0000">
+    <title lang="id">Blox Buster</title>
+    <desc lang="id">Blox Buster Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Roblox, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan. Tidak Hanya Sekadar Bermain, Main Bareng Blox Juga Menyuguhkan Pengalaman Unik Dari Para Gamers Yang Ikut Serta, Mulai Dari Review Game, Tips Seru, Hingga Momen-Momen Kejutan Yang Terjadi Saat Bermain.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023054500 +0000" stop="20261023061500 +0000">
+    <title lang="id">On Fire</title>
+    <desc lang="id">On Fire Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Free Fire, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023061500 +0000" stop="20261023083000 +0000">
+    <title lang="id">Grizzy And The Lemmings</title>
+    <desc lang="id">Grizzy &amp; The Lemmings Merupakan Animasi Yang Menceritakan Tentang Seekor Beruang Grizzly Yang Bernama Grizzy Dan Sekawanan Leming Yang Selalu Ingin Bermain Dengan Grizzy Setiap Harinya Sehingga Banyak Cerita Dan Petualangan Yang Menarik Dari Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023083000 +0000" stop="20261023093000 +0000">
+    <title lang="id">Secret Jouju - Bijou Of Star</title>
+    <desc lang="id">Jouju Ditugaskan Untuk Menemukan Joubijou Yang Tersembunyi, Menyeimbangkan Kebaikan Dan Kejahatan Di Dunia Surgawi Bersama Sahabat-Sahabatnya Cindy, Stellar, Dan 'Rosa' Yang Misterius. Sambil Menyelamatkan Joubijou Dari Lucy 'Si Pemburu Harta Karun', Jouju Melindungi Keluarga Dan Sahabatnya Dari Para Penyihir Dan Menjalani Perjalanan Ajaib Untuk Menjadi Pelindung Bintang Sejati.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023093000 +0000" stop="20261023103000 +0000">
+    <title lang="id">Teletubbies</title>
+    <desc lang="id">Serial Reboot Atau Seri Baru Yang Diluncurkan Pada Tahun 2015 Di Inggris. Versi Ini Menghadirkan Kembali Karakter Ikonik Tinky Winky, Dipsy, Laa-Laa, Dan Po Di Teletubbyland Dengan Visual Yang Diperbarui, Menyapa Generasi Baru Penonton Prasekolah Dengan Nuansa Yang Lebih Modern.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/GmqVxYlC4-giwzOgr-QCyVL8pyQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/404692/a4f2e8.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023103000 +0000" stop="20261023113000 +0000">
+    <title lang="id">Bread Barbershop</title>
+    <desc lang="id">Bread, Seorang Tukang Cukur Jenius, Memecahkan Masalah Penampilan Dengan Keterampilan Memotong Rambutnya Yang Briliant. Sekarang Dia Hadir Untuk Memecahkan Masalah Para Bintang Di Bakery Town. Bertentangan Dengan Penampilan Mereka Yang Glamor Dan Bersinar, Para Selebriti Ini Menjalani Hari Yang Sangat Suram. Bread Dan Keluarganya Siap Membantu Para Selebriti Untuk Menemukan Lagi Kebahagiaan Mereka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sCu791KfZ-ztidcLaQShgikdOEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/383637/e11604.png"/>
+  </programme>
+  <programme channel="1561" start="20261023113000 +0000" stop="20261023130000 +0000">
+    <title lang="id">Adit Sopo Jarwo</title>
+    <desc lang="id">Animasi Indonesia, Berisikan Kisah Kehidupan Sehari-Hari Masyarakat Indonesia Yang Dipenuhi Dengan Pengetahuan, Kelucuan, Kisah Persahabatan, Serta Nilai Persatuan, Kesatuan, Dan Kebudayaan. Tokoh Dalam Cerita Ini Diantaranya Adit (Tokoh Utama, Seorang Anak Laki-Laki), Adelya (Adik Adit), Teman-Teman Adit Yakni Dennis, Mitha, Dan Devi. Mereka Harus Berhadapan Dengan Duo Orang Dewasa (Sopo &amp; Jarwo) Yang Selalu Mencari Celah Untuk Mendapat Keuntungan Tanpa Usaha. Perbedaan Paham Atau Cara Pandang Merupakan Bumbu Utama Yang Memicu Perseteruan Dan Kelucuan. Beruntung Di Antara Mereka Ada H. Udin, Ketua Rw Bijaksana Yang Selalu Menjadi Penengah Dan Memberikan Petuah Bijak Yang Disampaikan Dengan Ringan Serta Lugas Sehingga Mampu Mengembalikan Suasana Gaduh Menjadi Teduh.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023130000 +0000" stop="20261023143000 +0000">
+    <title lang="id">Ejen Ali</title>
+    <desc lang="id">Ali Dan Para Agen Junior Lainnya Diundang Untuk Mengikuti Turnamen Tingkat Tinggi Bernama M.A.T.A. Arena. Turnamen Ini Mempertemukan Mereka Dengan Para Agen Senior Serta Agen-Agen Hebat Dari Luar Cyberaya. Tanpa Bantuan I.R.I.S., Ali Harus Berjuang Mengandalkan Kemampuan Dan Latihan Aslinya Untuk Membuktikan Diri. Di Sisi Lain, Muncul Ancaman Baru Serta Intrik Dari Kelompok Numeros Dan Pergerakan Rizwan Yang Penuh Misteri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/cNObLtZF_mY6ifeGa_XVEOggOaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381795/d9574b.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023143000 +0000" stop="20261023150000 +0000">
+    <title lang="id">On Fire</title>
+    <desc lang="id">On Fire Adalah Program Entertainment Yang Menghadirkan Keseruan Bermain Di Dunia Free Fire, Platform Game Populer Dengan Jutaan Kreasi Dari Komunitas Global, Penonton Diajak Menjelajahi Berbagai Dunia Virtual Yang Penuh Warna, Menantang, Sekaligus Menyenangkan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023150000 +0000" stop="20261023153000 +0000">
+    <title lang="id">D'Hangout</title>
+    <desc lang="id">Program Yang Menghadirkan Keseruan Aktifitas Berbagai Komunitas. Menyajikan Obrolan Santai Tentang Berbagai Inspirasi Hobi, Tips Praktis, Dan Games Seru.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023153000 +0000" stop="20261023160000 +0000">
+    <title lang="id">Lensa Indonesia Malam</title>
+    <desc lang="id">Program Berita Yang Menghadirkan Informasi Terkini, Rangkuman Peristiwa Yang Terjadi Dari Malam Hingga Dini Hari Dengan Dua Segmen Khusus, Yaitu Lensa Dunia Dan Lensa Arena Yang Membahas Berbagai Informasi Olahraga Di Indonesia Maupun Mancanegara</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
+  </programme>
+  <programme channel="1561" start="20261023160000 +0000" stop="20261023170000 +0000">
+    <title lang="id">Canda Empire</title>
+    <desc lang="id">Sebuah Acara Komedi Bertemakan Kolosal, Memiliki Format Sketsa Komedi Dengan Latar Belakang Sebuah Kerajaan Bernama Canda Empire Yang Tengah Bergejolak Karena Raja, Mangkat. Hal Ini Membuat Sang Penerus (Megi) Galau Karena Dua Penasehat Utamanya (Sule Dan Jarwo Kwat) Selalu Berbeda Pendapat Yang Mana Hal Tersebut Juga Akan Menghasilkan Kelucuan. Program Ini Juga Menghadirkan Komedian Papan Atas Seperti Parto, Nunung, Azis Gagap, Dan Bintang Tamu Lainnya Di Setiap Episode.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t3kH69uTKMJbATwgkOSlzYNI1zA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-48c719.jpg"/>
   </programme>
   <programme channel="6441" start="20261016163000 +0000" stop="20261016170000 +0000">
@@ -13433,17 +13973,17 @@
     <desc lang="id">EVERTON vs CHELSEA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261017134000 +0000" stop="20261017161000 +0000">
+  <programme channel="9182" start="20261017134000 +0000" stop="20261017161400 +0000">
     <title lang="id">Brentford vs Liverpool - Premier League</title>
     <desc lang="id">Tampil tanpa diperkuat beberapa pilar utama, bisakah Liverpool amankan tiga poin dari lawatan menghadapi Brentford?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/fEvDZfdB6GMwl1PFybzAYXK3CtU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379684/07a206.jpg"/>
   </programme>
-  <programme channel="9182" start="20261017161000 +0000" stop="20261017170000 +0000">
+  <programme channel="9182" start="20261017161400 +0000" stop="20261017170000 +0000">
     <title lang="id">Newcastle vs Aston Villa : [LIVE] Premier League 2026/27</title>
     <desc lang="id">NEWCASTLE vs ASTON VILLA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261017161000 +0000" stop="20261017170000 +0000">
+  <programme channel="9182" start="20261017161600 +0000" stop="20261017170000 +0000">
     <title lang="id">Newcastle vs Aston Villa : [LIVE] Premier League 2026/27</title>
     <desc lang="id">NEWCASTLE vs ASTON VILLA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
@@ -13459,7 +13999,7 @@
   </programme>
   <programme channel="9182" start="20261017184000 +0000" stop="20261017204600 +0000">
     <title lang="id">LOSC Lille vs Stade Brestois 29 - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru LOSC Lille vs Stade Brestois 29 - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Misi besar Lille pertahankan keangkeran Stade Pierre-Mauroy dari gempuran Stade Brestois 29!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ePH3yvSLRp58e_TlirGFGtEXVGE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383801/8f798c.jpg"/>
   </programme>
   <programme channel="9182" start="20261017204600 +0000" stop="20261017210000 +0000">
@@ -14312,12 +14852,12 @@
     <desc lang="id">Eps 15</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261017124500 +0000" stop="20261017150400 +0000">
+  <programme channel="6786" start="20261017124500 +0000" stop="20261017150000 +0000">
     <title lang="id">Venezia vs Napoli - Serie A</title>
     <desc lang="id">Mampukah ketajaman dari lini serang Napoli membongkar pertahanan rapat Venezia?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/q4RYj6LRRi94SMNceW99GD-xpto=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381773/c7c974.jpg"/>
   </programme>
-  <programme channel="6786" start="20261017150400 +0000" stop="20261017153000 +0000">
+  <programme channel="6786" start="20261017150000 +0000" stop="20261017153000 +0000">
     <title lang="id">Inside - Round 7 : Serie A 2026/27 - Preview</title>
     <desc lang="id">Inside - Round 7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15140,19 +15680,13 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261017113400 +0000" stop="20261017133000 +0000">
+  <programme channel="6686" start="20261017113400 +0000" stop="20261017140400 +0000">
     <title lang="id">Iga Swiatek vs Maja Chwalinska - Semifinals | WTA 1000: Dongfeng Voyah Wuhan Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal - WTA 1000: Dongfeng Voyah Wuhan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6tP5QtdG8gSG7_1M7Z04HypEkQo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383353/953cf4.jpg"/>
   </programme>
-  <programme channel="6686" start="20261017133000 +0000" stop="20261017135500 +0000">
-    <title lang="id">Show 06 - R : EFL 2026/27 - Highlight</title>
-    <desc lang="id">SHOW 06 - R</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261017135500 +0000" stop="20261017151000 +0000">
-    <title lang="id">Norwich City vs Portsmouth : [LIVE] EFL 2026/27 - Championship</title>
-    <desc lang="id">NORWICH CITY vs PORTSMOUTH</desc>
+  <programme channel="6686" start="20261017140400 +0000" stop="20261017151000 +0000">
+    <title lang="id">Singapore vs Indonesia : 3X3 Basketball - Women'S</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20261017151000 +0000" stop="20261017173000 +0000">
@@ -15331,16 +15865,16 @@
     <title lang="id">Show 07 - Matchweek 07 : PL Preview 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261017133000 +0000" stop="20261017161000 +0000">
+  <programme channel="9183" start="20261017133000 +0000" stop="20261017160600 +0000">
     <title lang="id">Man City vs Ipswich - Premier League</title>
     <desc lang="id">Sanggupkah Man City kembali menampikan laga gemilang di Etihad saat menjamu Ipswich?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/idgdzkSZHkJgIcSXRMgCKRUpXrA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379856/567e5a.jpg"/>
   </programme>
-  <programme channel="9183" start="20261017161000 +0000" stop="20261017172000 +0000">
+  <programme channel="9183" start="20261017160600 +0000" stop="20261017172000 +0000">
     <title lang="id">RC Strasbourg Alsace vs Paris Saint-Germain : Ligue 1 Prancis 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261017161000 +0000" stop="20261017172000 +0000">
+  <programme channel="9183" start="20261017160600 +0000" stop="20261017172000 +0000">
     <title lang="id">RC Strasbourg Alsace vs Paris Saint-Germain : Ligue 1 Prancis 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
@@ -16644,22 +17178,22 @@
     <desc lang="id">Top flight men's soccer returns in the ISUZU UTE A-League Men. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261017100000 +0000" stop="20261017140000 +0000">
+  <programme channel="17139" start="20261017100000 +0000" stop="20261017151900 +0000">
     <title lang="id">Victor BWF World Junior Championsips 2026 - Individual Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru Victor BWF World Junior Championsips 2026 - Individual Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ogcJ5B3DlIB6JUqZ5vFkPZO2ZD8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383314/3eba01.png"/>
   </programme>
-  <programme channel="17139" start="20261017140000 +0000" stop="20261017150000 +0000">
+  <programme channel="17139" start="20261017151900 +0000" stop="20261017163000 +0000">
     <title lang="id">Highlights : 2026 LET: La Sella Open</title>
     <desc lang="id">La Sella Open features top female golfers battling for the title in one of Spain's premier women's golf tournaments.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261017150000 +0000" stop="20261017173500 +0000">
+  <programme channel="17139" start="20261017163000 +0000" stop="20261017173500 +0000">
     <title lang="id">Compound Women Finals : 2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title>
     <desc lang="id">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261017150000 +0000" stop="20261017173500 +0000">
+  <programme channel="17139" start="20261017163000 +0000" stop="20261017173500 +0000">
     <title lang="id">Compound Women Finals : 2026 Hyundai Archery World Cup, Final Saltillo (MEX)</title>
     <desc lang="id">Consisting of four stages and a grand final, the Hyundai Archery World Cup features international elite recurve and compound archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>

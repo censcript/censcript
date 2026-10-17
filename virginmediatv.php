@@ -2347,10 +2347,7 @@
 <programme start="20261017133000 +0000" stop="20261017140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>AI Decoded</title>
 </programme>
-<programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20261017143000 +0000" stop="20261017144500 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261017140000 +0000" stop="20261017144500 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
 <programme start="20261017144500 +0000" stop="20261017150000 +0000" channel="BBC_News_24.virginmediatv">
