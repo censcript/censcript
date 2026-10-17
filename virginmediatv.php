@@ -28,19 +28,19 @@
 <programme start="20261017170000 +0000" stop="20261017180000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Deal or No Deal - Jane</title>
 </programme>
-<programme start="20261016221500 +0000" stop="20261017001500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261016223500 +0000" stop="20261017003000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>In Love and War</title>
 </programme>
-<programme start="20261017001500 +0000" stop="20261017004500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261017003000 +0000" stop="20261017010000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nationwide - Episode 118</title>
 </programme>
-<programme start="20261017004500 +0000" stop="20261017013000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261017010000 +0000" stop="20261017014500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 30</title>
 </programme>
-<programme start="20261017013000 +0000" stop="20261017021500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261017014500 +0000" stop="20261017023000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 83</title>
 </programme>
-<programme start="20261017021500 +0000" stop="20261017050000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261017023000 +0000" stop="20261017050000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261017050000 +0000" stop="20261017064000 +0000" channel="RTE_One_HD.virginmediatv">
@@ -277,19 +277,19 @@
 <programme start="20261017175500 +0000" stop="20261017190000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>River Monsters - Congo Killer</title>
 </programme>
-<programme start="20261016231500 +0000" stop="20261017011500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261016233500 +0000" stop="20261017013000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>In Love and War</title>
 </programme>
-<programme start="20261017011500 +0000" stop="20261017014500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261017013000 +0000" stop="20261017020000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Nationwide - Episode 118</title>
 </programme>
-<programme start="20261017014500 +0000" stop="20261017023000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261017020000 +0000" stop="20261017024500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 30</title>
 </programme>
-<programme start="20261017023000 +0000" stop="20261017031500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261017024500 +0000" stop="20261017033000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 83</title>
 </programme>
-<programme start="20261017031500 +0000" stop="20261017060000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261017033000 +0000" stop="20261017060000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261017114500 +0000" stop="20261017130000 +0000" channel="RTE_One_+1.virginmediatv">
