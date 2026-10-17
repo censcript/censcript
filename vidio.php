@@ -280,12 +280,12 @@
   <programme channel="204" start="20261018010000 +0000" stop="20261018030000 +0000">
     <title lang="id">FTV Pagi Spesial: Semoga Harimu Digeprek Cinta Terus</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/XaiJjV4gMQcNMik5wV9c3Ze1dyk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377185/a767a4.jpg"/>
   </programme>
   <programme channel="204" start="20261018030000 +0000" stop="20261018050000 +0000">
     <title lang="id">FTV Pagi: Bidadari Ketembak Panah Asmara</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/0OlCL2GCIEzzwBEzabXubiSlheE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379892/ca18a3.jpg"/>
   </programme>
   <programme channel="204" start="20261018050000 +0000" stop="20261018053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -401,32 +401,32 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 Wib, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017063000 +0000" stop="20261017080000 +0000">
+  <programme channel="205" start="20261017063000 +0000" stop="20261017075700 +0000">
     <title lang="id">Kisah Nyata: Aku Terbuai Jebakan Cinta Palsu Istriku</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017080000 +0000" stop="20261017103000 +0000">
-    <title lang="id">Bri Super League 2026/27</title>
+  <programme channel="205" start="20261017075700 +0000" stop="20261017104000 +0000">
+    <title lang="id">Garudayaksa FC vs Arema FC - BRI Super League</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017103000 +0000" stop="20261017113000 +0000">
+  <programme channel="205" start="20261017104000 +0000" stop="20261017113000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261017113000 +0000" stop="20261017140000 +0000">
+  <programme channel="205" start="20261017113000 +0000" stop="20261017141000 +0000">
     <title lang="id">Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017140000 +0000" stop="20261017180000 +0000">
+  <programme channel="205" start="20261017141000 +0000" stop="20261017180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UPLWnkX4MplWzdPiXkZtw1bdhaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377677/0cadf0.jpg"/>
   </programme>
-  <programme channel="205" start="20261017140000 +0000" stop="20261017180000 +0000">
+  <programme channel="205" start="20261017141000 +0000" stop="20261017180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UPLWnkX4MplWzdPiXkZtw1bdhaE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377677/0cadf0.jpg"/>
@@ -434,12 +434,12 @@
   <programme channel="205" start="20261017180000 +0000" stop="20261017200000 +0000">
     <title lang="id">Mega Film Asia: LIFELINE</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_ScTgsu8CNQcuMI2EkLpO2PLPEs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377727/1f413d.png"/>
   </programme>
   <programme channel="205" start="20261017200000 +0000" stop="20261017213000 +0000">
     <title lang="id">Mega Film Asia: Perfect Exchange</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Hzu-rt8X-dYOskxM73BaIkqJUTs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377728/f59364.png"/>
   </programme>
   <programme channel="205" start="20261017213000 +0000" stop="20261017230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -486,30 +486,30 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261018080000 +0000" stop="20261018103000 +0000">
-    <title lang="id">Bri Super League 2026/27</title>
+  <programme channel="205" start="20261018080000 +0000" stop="20261018104000 +0000">
+    <title lang="id">PERSEBAYA Surabaya vs PSS Sleman - BRI Super League</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261018103000 +0000" stop="20261018113000 +0000">
+  <programme channel="205" start="20261018104000 +0000" stop="20261018113000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261018113000 +0000" stop="20261018140000 +0000">
-    <title lang="id">Bri Super League 2026/27</title>
+  <programme channel="205" start="20261018113000 +0000" stop="20261018141000 +0000">
+    <title lang="id">PERSIB vs PERSIK Kediri - BRI Super League - Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261018140000 +0000" stop="20261018180000 +0000">
+  <programme channel="205" start="20261018141000 +0000" stop="20261018180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/vIgeyxew_QGNCLK3wk8zsW_6zlc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377678/a1829b.jpg"/>
   </programme>
-  <programme channel="205" start="20261018140000 +0000" stop="20261018180000 +0000">
+  <programme channel="205" start="20261018141000 +0000" stop="20261018180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/vIgeyxew_QGNCLK3wk8zsW_6zlc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377678/a1829b.jpg"/>
   </programme>
   <programme channel="205" start="20261018180000 +0000" stop="20261018200000 +0000">
     <title lang="id">Mega Film Asia: Wu Xia</title>
@@ -576,25 +576,25 @@
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261017053000 +0000" stop="20261017073000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putri Seri Surabaya (LIVE)</title>
+  <programme channel="206" start="20261017053000 +0000" stop="20261017072700 +0000">
+    <title lang="id">Putri: UIN SATU vs UIBU - Semifinal - Liga Voli Mahasiswa</title>
     <desc lang="id">LIGA VOLI MAHASISWA PUTRI SERI SURABAYA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Mn7ARCTSUzhXuvfa-R6IvO1Z1c8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383344/74f786.jpg"/>
   </programme>
-  <programme channel="206" start="20261017073000 +0000" stop="20261017093000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putra Seri Surabaya (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRA SERI SURABAYA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261017072700 +0000" stop="20261017093000 +0000">
+    <title lang="id">Putra: STKIP vs UM - Semifinal - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: STKIP vs UM - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/48fq2RR4EO_RNqnxi0PkjS6W_3M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383798/c75923.jpg"/>
   </programme>
   <programme channel="206" start="20261017093000 +0000" stop="20261017113000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putri Seri Surabaya (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRI SERI SURABAYA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <title lang="id">Putri: UNESA vs UPI - Semifinal - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putri: UNESA vs UPI - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/QeXnYoAI0r117iCuiUaosjJ8-PA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383799/fe2dcb.jpg"/>
   </programme>
   <programme channel="206" start="20261017113000 +0000" stop="20261017140000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putra Seri Surabaya (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRA SERI SURABAYA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+    <title lang="id">Putra: UNESA vs UNP - Semifinal - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: UNESA vs UNP - Semifinal - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/1eAUeXKzA-Na1jBaXlhgIIY44cs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383800/e33ec2.jpg"/>
   </programme>
   <programme channel="206" start="20261017140000 +0000" stop="20261017155600 +0000">
     <title lang="id">UEFA Champions League</title>
@@ -634,7 +634,7 @@
   <programme channel="206" start="20261017231500 +0000" stop="20261018000000 +0000">
     <title lang="id">Liputan 6 Pagi Moji</title>
     <desc lang="id">LIPUTAN 6 PAGI MOJI</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5KBPYTNQP5HPD2jrzGUlLk5KYP8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/378394/1034d4.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Qg_sPFJTBEqqofOjTszP0qddfAM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377544/90e1ab.png"/>
   </programme>
   <programme channel="206" start="20261018000000 +0000" stop="20261018003000 +0000">
     <title lang="id">Bisnis Update</title>
@@ -2448,12 +2448,600 @@
     <title lang="id">Sport Style</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
   </programme>
-  <programme channel="783" start="20261017163000 +0000" stop="20261017173000 +0000">
+  <programme channel="783" start="20261017170000 +0000" stop="20261017183000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261017183000 +0000" stop="20261017193000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261017193000 +0000" stop="20261017200000 +0000">
     <title lang="id">Kabar Utama 2</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
   </programme>
-  <programme channel="783" start="20261017163000 +0000" stop="20261017173000 +0000">
+  <programme channel="783" start="20261017200000 +0000" stop="20261017203000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261017203000 +0000" stop="20261017211500 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261017211500 +0000" stop="20261017230000 +0000">
+    <title lang="id">Kabar Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261017230000 +0000" stop="20261017233000 +0000">
+    <title lang="id">Kabar Arena Pagi 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261017233000 +0000" stop="20261018010000 +0000">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018010000 +0000" stop="20261018013000 +0000">
+    <title lang="id">Inspirasi Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018013000 +0000" stop="20261018020000 +0000">
+    <title lang="id">Inspirasi Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018020000 +0000" stop="20261018023000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018023000 +0000" stop="20261018030000 +0000">
+    <title lang="id">Indonesia Plus</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018030000 +0000" stop="20261018033000 +0000">
+    <title lang="id">Dunia Dalam Kamera</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018033000 +0000" stop="20261018040000 +0000">
+    <title lang="id">Selalu Ada Hikmah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018040000 +0000" stop="20261018053000 +0000">
+    <title lang="id">Kabar Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018053000 +0000" stop="20261018070000 +0000">
+    <title lang="id">Damai Indonesiaku</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018070000 +0000" stop="20261018080000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018080000 +0000" stop="20261018090000 +0000">
+    <title lang="id">Apa Kabar Indonesia Akhir Pekan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018090000 +0000" stop="20261018110000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018110000 +0000" stop="20261018130000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018130000 +0000" stop="20261018140000 +0000">
+    <title lang="id">Kalbar Berzikir</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018140000 +0000" stop="20261018150000 +0000">
     <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018150000 +0000" stop="20261018160000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018160000 +0000" stop="20261018170000 +0000">
+    <title lang="id">One Pride MMA</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018160000 +0000" stop="20261018170000 +0000">
+    <title lang="id">One Pride MMA</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018170000 +0000" stop="20261018173000 +0000">
+    <title lang="id">Sport Style</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018173000 +0000" stop="20261018183000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018183000 +0000" stop="20261018193000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018193000 +0000" stop="20261018200000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018200000 +0000" stop="20261018203000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018203000 +0000" stop="20261018211500 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018211500 +0000" stop="20261018230000 +0000">
+    <title lang="id">Kabar Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018230000 +0000" stop="20261018233000 +0000">
+    <title lang="id">Kabar Arena Pagi 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261018233000 +0000" stop="20261019013000 +0000">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019013000 +0000" stop="20261019020000 +0000">
+    <title lang="id">Hidup Sehat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cbbf2f45t35-L-wbylm9DtKt5nc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381764/56afbf.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019020000 +0000" stop="20261019033000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019033000 +0000" stop="20261019040000 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019040000 +0000" stop="20261019053000 +0000">
+    <title lang="id">Kabar Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019053000 +0000" stop="20261019070000 +0000">
+    <title lang="id">Apa Kabar Indonesia Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019070000 +0000" stop="20261019080000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019080000 +0000" stop="20261019083000 +0000">
+    <title lang="id">Kabar Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019083000 +0000" stop="20261019090000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019090000 +0000" stop="20261019110000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019110000 +0000" stop="20261019120000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019120000 +0000" stop="20261019140000 +0000">
+    <title lang="id">Talkshow Spesial</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019140000 +0000" stop="20261019150000 +0000">
+    <title lang="id">Bimteknas PKS 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019150000 +0000" stop="20261019160000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019160000 +0000" stop="20261019163000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019163000 +0000" stop="20261019170000 +0000">
+    <title lang="id">Kabar Arena Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019163000 +0000" stop="20261019170000 +0000">
+    <title lang="id">Kabar Arena Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019170000 +0000" stop="20261019183000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019183000 +0000" stop="20261019193000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019193000 +0000" stop="20261019200000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019200000 +0000" stop="20261019203000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019203000 +0000" stop="20261019211500 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019211500 +0000" stop="20261019230000 +0000">
+    <title lang="id">Kabar Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019230000 +0000" stop="20261019233000 +0000">
+    <title lang="id">Kabar Arena Pagi 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261019233000 +0000" stop="20261020013000 +0000">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020013000 +0000" stop="20261020020000 +0000">
+    <title lang="id">Hidup Sehat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cbbf2f45t35-L-wbylm9DtKt5nc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381764/56afbf.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020020000 +0000" stop="20261020023000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020023000 +0000" stop="20261020033000 +0000">
+    <title lang="id">Pagi Pagi Seru</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020033000 +0000" stop="20261020040000 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020040000 +0000" stop="20261020053000 +0000">
+    <title lang="id">Kabar Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020053000 +0000" stop="20261020070000 +0000">
+    <title lang="id">Apa Kabar Indonesia Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020070000 +0000" stop="20261020080000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020080000 +0000" stop="20261020083000 +0000">
+    <title lang="id">Kabar Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020083000 +0000" stop="20261020090000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020090000 +0000" stop="20261020110000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020110000 +0000" stop="20261020130000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020130000 +0000" stop="20261020143000 +0000">
+    <title lang="id">Catatan Demokrasi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020143000 +0000" stop="20261020153000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020153000 +0000" stop="20261020160000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020160000 +0000" stop="20261020163000 +0000">
+    <title lang="id">Kabar Arena Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020163000 +0000" stop="20261020170000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020163000 +0000" stop="20261020170000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020170000 +0000" stop="20261020183000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020183000 +0000" stop="20261020193000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020193000 +0000" stop="20261020200000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020200000 +0000" stop="20261020203000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020203000 +0000" stop="20261020211500 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020211500 +0000" stop="20261020230000 +0000">
+    <title lang="id">Kabar Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020230000 +0000" stop="20261020233000 +0000">
+    <title lang="id">Kabar Arena Pagi 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261020233000 +0000" stop="20261021013000 +0000">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021013000 +0000" stop="20261021020000 +0000">
+    <title lang="id">Hidup Sehat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cbbf2f45t35-L-wbylm9DtKt5nc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381764/56afbf.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021020000 +0000" stop="20261021023000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021023000 +0000" stop="20261021033000 +0000">
+    <title lang="id">Pagi Pagi Seru</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021033000 +0000" stop="20261021040000 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021040000 +0000" stop="20261021053000 +0000">
+    <title lang="id">Kabar Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021053000 +0000" stop="20261021070000 +0000">
+    <title lang="id">Apa Kabar Indonesia Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021070000 +0000" stop="20261021080000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021080000 +0000" stop="20261021083000 +0000">
+    <title lang="id">Kabar Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021083000 +0000" stop="20261021090000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021090000 +0000" stop="20261021110000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021110000 +0000" stop="20261021130000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021130000 +0000" stop="20261021140000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021140000 +0000" stop="20261021150000 +0000">
+    <title lang="id">Indonesia Business Forum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021150000 +0000" stop="20261021160000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021160000 +0000" stop="20261021163000 +0000">
+    <title lang="id">Kabar Arena Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021163000 +0000" stop="20261021170000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021163000 +0000" stop="20261021170000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021170000 +0000" stop="20261021183000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021183000 +0000" stop="20261021193000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021193000 +0000" stop="20261021200000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021200000 +0000" stop="20261021203000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021203000 +0000" stop="20261021211500 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021211500 +0000" stop="20261021230000 +0000">
+    <title lang="id">Kabar Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021230000 +0000" stop="20261021233000 +0000">
+    <title lang="id">Kabar Arena Pagi 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261021233000 +0000" stop="20261022013000 +0000">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022013000 +0000" stop="20261022020000 +0000">
+    <title lang="id">Hidup Sehat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cbbf2f45t35-L-wbylm9DtKt5nc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381764/56afbf.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022020000 +0000" stop="20261022023000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022023000 +0000" stop="20261022033000 +0000">
+    <title lang="id">Pagi Pagi Seru</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022033000 +0000" stop="20261022040000 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022040000 +0000" stop="20261022053000 +0000">
+    <title lang="id">Kabar Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022053000 +0000" stop="20261022070000 +0000">
+    <title lang="id">Apa Kabar Indonesia Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022070000 +0000" stop="20261022080000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022080000 +0000" stop="20261022083000 +0000">
+    <title lang="id">Kabar Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022083000 +0000" stop="20261022090000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022090000 +0000" stop="20261022110000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022110000 +0000" stop="20261022130000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022130000 +0000" stop="20261022140000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022140000 +0000" stop="20261022150000 +0000">
+    <title lang="id">Dua Sisi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022150000 +0000" stop="20261022160000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022160000 +0000" stop="20261022163000 +0000">
+    <title lang="id">Kabar Arena Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022163000 +0000" stop="20261022170000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022163000 +0000" stop="20261022170000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022170000 +0000" stop="20261022183000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022183000 +0000" stop="20261022193000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022193000 +0000" stop="20261022200000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022200000 +0000" stop="20261022203000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022203000 +0000" stop="20261022211500 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022211500 +0000" stop="20261022230000 +0000">
+    <title lang="id">Kabar Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022230000 +0000" stop="20261022233000 +0000">
+    <title lang="id">Kabar Arena Pagi 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261022233000 +0000" stop="20261023013000 +0000">
+    <title lang="id">Apa Kabar Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/618Df_zWZGKsqamrgXMybsKCVO0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381762/81fa00.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023013000 +0000" stop="20261023020000 +0000">
+    <title lang="id">Hidup Sehat</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cbbf2f45t35-L-wbylm9DtKt5nc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381764/56afbf.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023020000 +0000" stop="20261023023000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023023000 +0000" stop="20261023033000 +0000">
+    <title lang="id">Pagi Pagi Seru</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023033000 +0000" stop="20261023040000 +0000">
+    <title lang="id">Metropolitan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023040000 +0000" stop="20261023053000 +0000">
+    <title lang="id">Kabar Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023053000 +0000" stop="20261023070000 +0000">
+    <title lang="id">Apa Kabar Indonesia Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023070000 +0000" stop="20261023080000 +0000">
+    <title lang="id">Breaking News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023080000 +0000" stop="20261023083000 +0000">
+    <title lang="id">Kabar Merah Putih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023083000 +0000" stop="20261023090000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023090000 +0000" stop="20261023110000 +0000">
+    <title lang="id">Kabar Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023110000 +0000" stop="20261023130000 +0000">
+    <title lang="id">Apa Kabar Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/cB5Asb_Rv6m3p5J0UqXi6E9oOkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381758/70d836.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023130000 +0000" stop="20261023140000 +0000">
+    <title lang="id">Kabar Utama 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023140000 +0000" stop="20261023150000 +0000">
+    <title lang="id">One On One</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023150000 +0000" stop="20261023160000 +0000">
+    <title lang="id">Kabar Hari Ini</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023160000 +0000" stop="20261023163000 +0000">
+    <title lang="id">Kabar Arena Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
+  </programme>
+  <programme channel="783" start="20261023163000 +0000" stop="20261023173000 +0000">
+    <title lang="id">Berita Utama Kriminal</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TyXbaZqF_g2hn94imFJllHzaz_Q=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg"/>
   </programme>
   <programme channel="782" start="20261016153000 +0000" stop="20261016173000 +0000">
@@ -2486,32 +3074,32 @@
     <desc lang="id">Bikin Mewek</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261016230000 +0000" stop="20261017010000 +0000">
+  <programme channel="782" start="20261016230000 +0000" stop="20261017005800 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261017010000 +0000" stop="20261017020000 +0000">
+  <programme channel="782" start="20261017005800 +0000" stop="20261017020100 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/MsqblBaKgVKRrPogvl0QZ8yUi3s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380727/c84b1d.jpg"/>
   </programme>
-  <programme channel="782" start="20261017020000 +0000" stop="20261017023000 +0000">
+  <programme channel="782" start="20261017020500 +0000" stop="20261017023000 +0000">
     <title lang="id">Dibalik Layar Alas Roban The Series</title>
     <desc lang="id">Dibalik Layar Alas Roban The Series</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261017023000 +0000" stop="20261017060000 +0000">
+  <programme channel="782" start="20261017023000 +0000" stop="20261017054700 +0000">
     <title lang="id">Mega Bollywood : Bad News</title>
     <desc lang="id">Mega Bollywood : Bad News</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiaadt3u3L9SKFlmsm4NxSbbal8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376411/19c907.jpg"/>
   </programme>
-  <programme channel="782" start="20261017060000 +0000" stop="20261017073000 +0000">
+  <programme channel="782" start="20261017054700 +0000" stop="20261017073100 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/hOJ-G6Vhcj1CGRoP0YRt-Xx56-k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376371/2ea5e6.jpg"/>
   </programme>
-  <programme channel="782" start="20261017073000 +0000" stop="20261017093000 +0000">
+  <programme channel="782" start="20261017073100 +0000" stop="20261017093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nde8chi47nejPpkU_a7ZPYOtgOA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5376378/e57b87.jpg"/>
@@ -2584,7 +3172,7 @@
   <programme channel="782" start="20261018010000 +0000" stop="20261018020000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/m4ZxGcDJ6b1BFnVs1_zs9F5YrS8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380105/035d86.jpg"/>
   </programme>
   <programme channel="782" start="20261018020000 +0000" stop="20261018023000 +0000">
     <title lang="id">Dibalik Layar Alas Roban The Series</title>
@@ -12875,9 +13463,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
   <programme channel="9182" start="20261017184000 +0000" stop="20261017204600 +0000">
-    <title lang="id">Lille vs Brest : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">LILLE vs BREST</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+    <title lang="id">LOSC Lille vs Stade Brestois 29 - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru LOSC Lille vs Stade Brestois 29 - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ePH3yvSLRp58e_TlirGFGtEXVGE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383801/8f798c.jpg"/>
   </programme>
   <programme channel="9182" start="20261017204600 +0000" stop="20261017210000 +0000">
     <title lang="id">Filler Ligue 1</title>
@@ -17723,7 +18311,7 @@
   <programme channel="8121" start="20261017125500 +0000" stop="20261017143000 +0000">
     <title lang="id">Attack Force Z</title>
     <desc lang="id">A group of Australian commandos launch a secret mission against Japanese forces in World War II to rescue a stranded diplomat.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/oAPRNCCItb9chPxHY8pd0yBgCEg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/3k1y9-1cf31gTexKdpZLeR1-rtY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5344593/7747f0.jpg"/>
   </programme>
   <programme channel="8121" start="20261017143000 +0000" stop="20261017162500 +0000">
     <title lang="id">Birdman</title>
@@ -17793,7 +18381,7 @@
   <programme channel="8121" start="20261018125500 +0000" stop="20261018143000 +0000">
     <title lang="id">Mr. &amp; Mrs. Smith</title>
     <desc lang="id">A bored married couple discovers they are both elite assassins working for competing agenciesand their next assignment is to eliminate each other. Marriage counseling just got explosive.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/oAPRNCCItb9chPxHY8pd0yBgCEg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/5DOuRsXL_uuhiADbraL0U8WoOB4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5344606/dcab20.jpg"/>
   </programme>
   <programme channel="8121" start="20261018143000 +0000" stop="20261018162500 +0000">
     <title lang="id">Hellboy II: The Golden Army</title>

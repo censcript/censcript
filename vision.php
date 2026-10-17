@@ -619,9 +619,6 @@
 <programme start="20261017020000 +0000" stop="20261017023000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
 </programme>
-<programme start="20261017023000 +0000" stop="20261017060000 +0000" channel="ANTV.vision">
-<title>Bad Newz</title>
-</programme>
 <programme start="20261017060000 +0000" stop="20261017073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -801,9 +798,6 @@
 </programme>
 <programme start="20261017013000 +0000" stop="20261017023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20261017033000 +0000" stop="20261017040000 +0000" channel="TVOne.vision">
-<title>Dunia Kita Dan Anak</title>
 </programme>
 <programme start="20261017040000 +0000" stop="20261017053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261018090000 +0000" stop="20261018110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20261018110000 +0000" stop="20261018130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261017000000 +0000" stop="20261017030000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
 </programme>
