@@ -538,12 +538,6 @@
 <programme start="20261017154500 +0000" stop="20261017163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20261017163000 +0000" stop="20261017174500 +0000" channel="Trans 7.vision">
-<title>Theater Wedding Agreement</title>
-</programme>
-<programme start="20261017174500 +0000" stop="20261017183000 +0000" channel="Trans 7.vision">
-<title>Superbike 2026 Portugal</title>
-</programme>
 <programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -633,12 +627,6 @@
 </programme>
 <programme start="20261017150000 +0000" stop="20261017153000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
-</programme>
-<programme start="20261017153000 +0000" stop="20261017173000 +0000" channel="ANTV.vision">
-<title>Mati Di Ranjang</title>
-</programme>
-<programme start="20261017173000 +0000" stop="20261017181500 +0000" channel="ANTV.vision">
-<title>Sundel Bolong</title>
 </programme>
 <programme start="20261017181500 +0000" stop="20261017201500 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1484,17 @@
 <title>DAAI TV</title>
 </programme>
 <programme start="20261017030000 +0000" stop="20261017060000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261017060000 +0000" stop="20261017090000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261017090000 +0000" stop="20261017120000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261017120000 +0000" stop="20261017150000 +0000" channel="DAAI TV.vision">
+<title>DAAI TV</title>
+</programme>
+<programme start="20261017150000 +0000" stop="20261017180000 +0000" channel="DAAI TV.vision">
 <title>DAAI TV</title>
 </programme>

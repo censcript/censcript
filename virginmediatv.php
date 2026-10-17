@@ -4355,7 +4355,7 @@
     <title>Xtra Time - Everton v Chelsea</title>
 </programme>
 <programme start="20261017141500 +0000" stop="20261017171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: International T20 Cricket - 5th T20: India v West Indies</title>
+    <title>Live: British Superbikes Motorcycle Racing - Round 11, Showdown Finale: Brands Hatch GP, Day 1</title>
 </programme>
 <programme start="20261017171500 +0000" stop="20261017181500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Women&#039;s International T20 Cricket - 1st T20: India v Zimbabwe</title>
@@ -4415,7 +4415,7 @@
     <title>Live: International T20 Cricket - 5th T20: India v West Indies</title>
 </programme>
 <programme start="20261017171500 +0000" stop="20261017174500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
+    <title>UEFA: Extraordinary Stories - Impact: The Extraordinary Story of Gianluigi Lentini</title>
 </programme>
 <programme start="20261017174500 +0000" stop="20261017181500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UEFA: Extraordinary Stories - Not For A 100 years: The Extraordinary Story of Béla Guttmann</title>
@@ -4445,7 +4445,7 @@
     <title>Live: UCI Continental Circuits - Tour of the Netherlands: Stage 4</title>
 </programme>
 <programme start="20261017141500 +0000" stop="20261017144500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
+    <title>FIA TCR World Tour - South Korea</title>
 </programme>
 <programme start="20261017144500 +0000" stop="20261017151500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Le Mans Cup Motor Racing - Portimão Round</title>
@@ -5884,7 +5884,10 @@
 <programme start="20261016175800 +0000" stop="20261017015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261017015800 +0000" stop="20261017060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261017015800 +0000" stop="20261017050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261017050000 +0000" stop="20261017060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261017115500 +0000" stop="20261017122000 +0000" channel="CBBC.virginmediatv">

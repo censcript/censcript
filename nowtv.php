@@ -1,9 +1,3 @@
-<programme start="20261017160000 +0000" stop="20261017183000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>[4K]Premier League 26/27 -Newcastle United vs Aston Villa[Live]</title>
-</programme>
-<programme start="20261017183000 +0000" stop="20261017190000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261017190000 +0000" stop="20261017200000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -67,9 +61,6 @@
 <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261017180000 +0000" stop="20261017200000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -104,9 +95,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261018160000 +0000" stop="20261018180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261017160000 +0000" stop="20261017180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261017180000 +0000" stop="20261017200000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -144,15 +132,6 @@
 </programme>
 <programme start="20261018160000 +0000" stop="20261018180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261017160000 +0000" stop="20261017183000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Newcastle United vs Aston Villa[Live]</title>
-</programme>
-<programme start="20261017183000 +0000" stop="20261017184500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 5</title>
-</programme>
-<programme start="20261017184500 +0000" stop="20261017190000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 6</title>
 </programme>
 <programme start="20261017190000 +0000" stop="20261017210000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Everton vs Chelsea</title>
