@@ -796,20 +796,11 @@
 <programme start="20261018113000 +0000" stop="20261018123000 +0000" channel="RTV.vision">
 <title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20261016233000 +0000" stop="20261017010000 +0000" channel="TVOne.vision">
-<title>Kabar Khusus</title>
-</programme>
 <programme start="20261017010000 +0000" stop="20261017013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
 <programme start="20261017013000 +0000" stop="20261017023000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20261017023000 +0000" stop="20261017030000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
-<programme start="20261017030000 +0000" stop="20261017033000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
 </programme>
 <programme start="20261017033000 +0000" stop="20261017040000 +0000" channel="TVOne.vision">
 <title>Dunia Kita Dan Anak</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261018030000 +0000" stop="20261018050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261018050000 +0000" stop="20261018070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261018070000 +0000" stop="20261018090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261018090000 +0000" stop="20261018110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

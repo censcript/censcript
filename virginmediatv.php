@@ -4373,7 +4373,7 @@
     <title>The Ultimate Fighting Championship - UFC Fight Night: Brendan Allen v Christian Leroy Duncan</title>
 </programme>
 <programme start="20261017040000 +0000" stop="20261017043000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>The Fantasy Show - Episode 7</title>
+    <title>The Fantasy Show - Gameweek 7</title>
 </programme>
 <programme start="20261017043000 +0000" stop="20261017050000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Premier League Preview - Episode 7</title>
@@ -4433,7 +4433,7 @@
     <title>UEFA Europa and Conference League Highlights Show - Episode 3</title>
 </programme>
 <programme start="20261017030000 +0000" stop="20261017033000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>The Fantasy Show - Episode 7</title>
+    <title>The Fantasy Show - Gameweek 7</title>
 </programme>
 <programme start="20261017033000 +0000" stop="20261017040000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Premier League Preview - Episode 7</title>
