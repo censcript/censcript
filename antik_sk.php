@@ -3013,22 +3013,22 @@
   <programme start="20261019215500 +0000" stop="20261019222500 +0000" channel="NOE.webtv.sk">
     <title lang="id">Magazín Mary’s Meals</title>
   </programme>
-  <programme start="20261018213000 +0000" stop="20261018221500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261018213100 +0000" stop="20261018221600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (19)</title>
   </programme>
-  <programme start="20261018221500 +0000" stop="20261018224500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261018221600 +0000" stop="20261018224500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20261018224500 +0000" stop="20261018231100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261018224500 +0000" stop="20261018231200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20261018231100 +0000" stop="20261018232500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261018231200 +0000" stop="20261018232500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vstávej, cesta je dlouhá!</title>
   </programme>
-  <programme start="20261018232500 +0000" stop="20261019003500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261018232500 +0000" stop="20261019003600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
-  <programme start="20261019003500 +0000" stop="20261019010500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019003600 +0000" stop="20261019010500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
   <programme start="20261019010500 +0000" stop="20261019012700 +0000" channel="ČT1.webtv.sk">
@@ -3058,10 +3058,10 @@
   <programme start="20261019075000 +0000" stop="20261019092500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dým bramborové natě</title>
   </programme>
-  <programme start="20261019092500 +0000" stop="20261019095200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019092500 +0000" stop="20261019095100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261019095200 +0000" stop="20261019100000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019095100 +0000" stop="20261019100000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">StarDance XIV... kolem dokola</title>
   </programme>
   <programme start="20261019100000 +0000" stop="20261019102000 +0000" channel="ČT1.webtv.sk">
@@ -3079,19 +3079,19 @@
   <programme start="20261019123000 +0000" stop="20261019131500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kdo chce kam...</title>
   </programme>
-  <programme start="20261019131500 +0000" stop="20261019135100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019131500 +0000" stop="20261019135000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Lakovka</title>
   </programme>
-  <programme start="20261019135100 +0000" stop="20261019144500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019135000 +0000" stop="20261019144500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nautilus (3)</title>
   </programme>
   <programme start="20261019144500 +0000" stop="20261019151500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po Wallisu</title>
   </programme>
-  <programme start="20261019151500 +0000" stop="20261019154200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019151500 +0000" stop="20261019154000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261019154200 +0000" stop="20261019160000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019154000 +0000" stop="20261019160000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
   <programme start="20261019160000 +0000" stop="20261019162500 +0000" channel="ČT1.webtv.sk">
@@ -3115,10 +3115,10 @@
   <programme start="20261019181500 +0000" stop="20261019193500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Vraždy v kruhu (3/12)</title>
   </programme>
-  <programme start="20261019193500 +0000" stop="20261019201500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019193500 +0000" stop="20261019201800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři ČT</title>
   </programme>
-  <programme start="20261019201500 +0000" stop="20261019204400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261019201800 +0000" stop="20261019204400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři +</title>
   </programme>
   <programme start="20261019204400 +0000" stop="20261019204500 +0000" channel="ČT1.webtv.sk">
@@ -3175,16 +3175,16 @@
   <programme start="20261019071500 +0000" stop="20261019081000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Medvědi z Aljašky</title>
   </programme>
-  <programme start="20261019081000 +0000" stop="20261019083600 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261019081000 +0000" stop="20261019083700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Na cestě po Novém Skotsku</title>
   </programme>
-  <programme start="20261019083600 +0000" stop="20261019092500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261019083700 +0000" stop="20261019092500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Dějiny chirurgie: Tajemství lidského těla (2/2)</title>
   </programme>
-  <programme start="20261019092500 +0000" stop="20261019102000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261019092500 +0000" stop="20261019102100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Apokalypsa - Hitler (1/2)</title>
   </programme>
-  <programme start="20261019102000 +0000" stop="20261019105000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261019102100 +0000" stop="20261019105000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Balkánem nahoru a dolů s Adamem Ondrou (1/6)</title>
   </programme>
   <programme start="20261019105000 +0000" stop="20261019112000 +0000" channel="ČT2.webtv.sk">
@@ -3214,10 +3214,10 @@
   <programme start="20261019161000 +0000" stop="20261019170500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">S kuchařem kolem světa</title>
   </programme>
-  <programme start="20261019170500 +0000" stop="20261019172100 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261019170500 +0000" stop="20261019172000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zašlapané projekty</title>
   </programme>
-  <programme start="20261019172100 +0000" stop="20261019175000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261019172000 +0000" stop="20261019175000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zajímavosti z regionů</title>
   </programme>
   <programme start="20261019175000 +0000" stop="20261019180000 +0000" channel="ČT2.webtv.sk">
