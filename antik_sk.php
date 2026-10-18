@@ -2698,8 +2698,14 @@
   <programme start="20261020040000 +0000" stop="20261020060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20261020060000 +0000" stop="20261020103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261020060000 +0000" stop="20261020073000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
+  </programme>
+  <programme start="20261020073000 +0000" stop="20261020083000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Evergreeny</title>
+  </programme>
+  <programme start="20261020083000 +0000" stop="20261020103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
   </programme>
   <programme start="20261020103000 +0000" stop="20261020113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
@@ -2707,8 +2713,11 @@
   <programme start="20261020113000 +0000" stop="20261020123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
   </programme>
-  <programme start="20261020123000 +0000" stop="20261020173000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261020123000 +0000" stop="20261020143000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
+  </programme>
+  <programme start="20261020143000 +0000" stop="20261020173000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Nákupy z pohodlí domova</title>
   </programme>
   <programme start="20261020173000 +0000" stop="20261020200000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
