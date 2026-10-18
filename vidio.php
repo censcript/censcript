@@ -3728,17 +3728,17 @@
     <desc lang="id">Sinema Spesial Warkop : Saya Duluan Dong</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261018153000 +0000" stop="20261018180000 +0000">
+  <programme channel="782" start="20261018153000 +0000" stop="20261018180100 +0000">
     <title lang="id">Serie A Liga Italia : Milan vs Atalanta</title>
     <desc lang="id">Serie A Liga Italia : Milan vs Atalanta</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261018153000 +0000" stop="20261018180000 +0000">
+  <programme channel="782" start="20261018153000 +0000" stop="20261018180100 +0000">
     <title lang="id">Serie A Liga Italia : Milan vs Atalanta</title>
     <desc lang="id">Serie A Liga Italia : Milan vs Atalanta</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261018180000 +0000" stop="20261018183000 +0000">
+  <programme channel="782" start="20261018180100 +0000" stop="20261018183000 +0000">
     <title lang="id">Total Football: Insight</title>
     <desc lang="id">Total Football: Insight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -14236,17 +14236,21 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261018165000 +0000" stop="20261018202500 +0000">
+  <programme channel="6685" start="20261018165000 +0000" stop="20261018200300 +0000">
     <title lang="id">Baltimore Ravens vs Cleveland Browns - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Baltimore Ravens vs Cleveland Browns - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xbT32RTo4yZt8zbUSvtDq-_yWTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385228/eb7a60.jpg"/>
   </programme>
-  <programme channel="6685" start="20261018165000 +0000" stop="20261018202500 +0000">
+  <programme channel="6685" start="20261018165000 +0000" stop="20261018200300 +0000">
     <title lang="id">Baltimore Ravens vs Cleveland Browns - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Baltimore Ravens vs Cleveland Browns - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xbT32RTo4yZt8zbUSvtDq-_yWTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385228/eb7a60.jpg"/>
   </programme>
-  <programme channel="6685" start="20261018202500 +0000" stop="20261018235500 +0000">
+  <programme channel="6685" start="20261018200300 +0000" stop="20261018201500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261018201500 +0000" stop="20261018235500 +0000">
     <title lang="id">Los Angeles Chargers vs Kansas City Chiefs - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Los Angeles Chargers vs Kansas City Chiefs - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/33RraMfcSvSiUo24c2q6EjSlz-A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385229/ed7835.jpg"/>
@@ -16207,12 +16211,12 @@
     <desc lang="id">Milan besutan Ruben Amorim menargetkan tiga poin demi menjaga jarak dari persaingan di papan atas!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WQ1T6IisnfBIC0I_18-7L3jBi5c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383380/e66052.jpg"/>
   </programme>
-  <programme channel="6786" start="20261018154500 +0000" stop="20261018180000 +0000">
+  <programme channel="6786" start="20261018154500 +0000" stop="20261018175700 +0000">
     <title lang="id">Milan vs Atalanta - Serie A</title>
     <desc lang="id">Milan besutan Ruben Amorim menargetkan tiga poin demi menjaga jarak dari persaingan di papan atas!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WQ1T6IisnfBIC0I_18-7L3jBi5c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383380/e66052.jpg"/>
   </programme>
-  <programme channel="6786" start="20261018180000 +0000" stop="20261018183000 +0000">
+  <programme channel="6786" start="20261018175700 +0000" stop="20261018183000 +0000">
     <title lang="id">Show 5 : NFL Extra 2026/27</title>
     <desc lang="id">Show 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>

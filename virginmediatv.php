@@ -4357,14 +4357,8 @@
 <programme start="20261018120000 +0000" stop="20261018140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Northern Ireland Open Snooker - Round 1: Jack Lisowski v Huang Jiahao</title>
 </programme>
-<programme start="20261018140000 +0000" stop="20261018160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20261018140000 +0000" stop="20261018180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Northern Ireland Open Snooker - Round 1: Mark Selby v Louis Heathcote</title>
-</programme>
-<programme start="20261018160000 +0000" stop="20261018163000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Major League Baseball - Highlights</title>
-</programme>
-<programme start="20261018163000 +0000" stop="20261018180000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Ultimate Pool Leagues - Semi-Final 1</title>
 </programme>
 <programme start="20261017230000 +0000" stop="20261018010000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>European Rugby Champions Cup - Sale Sharks v Glasgow Warriors</title>
@@ -5722,7 +5716,10 @@
 <programme start="20261017175800 +0000" stop="20261018015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261018015800 +0000" stop="20261018060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261018015800 +0000" stop="20261018050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261018113500 +0000" stop="20261018120500 +0000" channel="CBBC.virginmediatv">
