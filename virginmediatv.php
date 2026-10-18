@@ -338,7 +338,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261018120000 +0000" stop="20261018121000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC London</title>
+    <title>BBC Weekend News</title>
 </programme>
 <programme start="20261018121000 +0000" stop="20261018121500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Weather for the Week Ahead</title>
@@ -356,7 +356,7 @@
     <title>Homes Under the Hammer - Episode 63</title>
 </programme>
 <programme start="20261018161500 +0000" stop="20261018163000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>BBC London</title>
+    <title>BBC Weekend News</title>
 </programme>
 <programme start="20261018163000 +0000" stop="20261018164000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Newsline</title>
