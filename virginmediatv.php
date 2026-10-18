@@ -385,7 +385,7 @@
 <programme start="20261018050000 +0000" stop="20261018053000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Landward - Episode 18</title>
 </programme>
-<programme start="20261018053000 +0000" stop="20261018093000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261018053000 +0000" stop="20261018060500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: UCI Track World Championships - Shanghai: Day 5</title>
 </programme>
 <programme start="20261018114000 +0000" stop="20261018131500 +0000" channel="BBC_TWO_HD.virginmediatv">

@@ -8508,6 +8508,18 @@
     <title>Berita Utama</title>
     <desc>Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat.</desc>
   </programme>
+  <programme start="20261019133000 +0000" stop="20261019143000 +0000" channel="Kompas TV.maxstream">
+    <title>Dipo Investigasi</title>
+    <desc>Program investigasi secara mendalam yang dipandu oleh Dipo</desc>
+  </programme>
+  <programme start="20261019143000 +0000" stop="20261019153000 +0000" channel="Kompas TV.maxstream">
+    <title>Kompas Malam</title>
+    <desc>Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia.</desc>
+  </programme>
+  <programme start="20261019153000 +0000" stop="20261019160000 +0000" channel="Kompas TV.maxstream">
+    <title>Borgol</title>
+    <desc>Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
+  </programme>
   <programme start="20261017170000 +0000" stop="20261017180000 +0000" channel="Kompas TV.maxstream">
     <title>Rosi</title>
     <desc>Program bincang-bincang waktu perdana Indonesia yang dipandu oleh Rosianna Silalahi.</desc>
@@ -9167,14 +9179,6 @@
   <programme start="20261012163000 +0000" stop="20261012170000 +0000" channel="Kompas TV.maxstream">
     <title>Kilas Kompas</title>
     <desc>Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
-  </programme>
-  <programme start="20261011140000 +0000" stop="20261011150000 +0000" channel="Kompas TV.maxstream">
-    <title>Kompas Malam</title>
-    <desc>Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia.</desc>
-  </programme>
-  <programme start="20261011150000 +0000" stop="20261011163000 +0000" channel="Kompas TV.maxstream">
-    <title>Bola Liar</title>
-    <desc>Dalam Bola Liar, polemik publik dan kontroversi panas, narasumber kunci dan forum debat terbuka, disaji untuk mendorong solusi.</desc>
   </programme>
   <programme start="20261011163000 +0000" stop="20261011170000 +0000" channel="Kompas TV.maxstream">
     <title>Kilas Kompas</title>
