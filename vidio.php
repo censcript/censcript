@@ -743,12 +743,12 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261018113400 +0000" stop="20261018141000 +0000">
+  <programme channel="205" start="20261018113400 +0000" stop="20261018141700 +0000">
     <title lang="id">PERSIB vs PERSIK Kediri - BRI Super League - Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261018141000 +0000" stop="20261018180000 +0000">
+  <programme channel="205" start="20261018141700 +0000" stop="20261018180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vIgeyxew_QGNCLK3wk8zsW_6zlc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5377678/a1829b.jpg"/>
@@ -1308,16 +1308,16 @@
     <desc lang="id">Nonton streaming pertandingan seru Putra: STKIP vs UNESA - Final - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_-c77hMQW5exIunB1smXGhkDkVo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383981/72f572.jpg"/>
   </programme>
-  <programme channel="206" start="20261018134400 +0000" stop="20261018163800 +0000">
-    <title lang="id">UEL: Celta Vigo vs Juventus</title>
+  <programme channel="206" start="20261018134400 +0000" stop="20261018154400 +0000">
+    <title lang="id">Celta Vigo vs Juventus : UEFA Europa League 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261018163800 +0000" stop="20261018175700 +0000">
+  <programme channel="206" start="20261018154400 +0000" stop="20261018175700 +0000">
     <title lang="id">VNL 2026</title>
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261018163800 +0000" stop="20261018175700 +0000">
+  <programme channel="206" start="20261018154400 +0000" stop="20261018175700 +0000">
     <title lang="id">VNL 2026</title>
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -5014,17 +5014,17 @@
     <desc lang="id">Program berita penutup hari di Kompas TV yang menyajikan rangkuman peristiwa secara reflektif, tenang, namun tetap kritis. Program ini hadir untuk memberikan informasi penting yang terjadi sejak pagi hingga menjelang tengah malam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20261018143000 +0000" stop="20261018164500 +0000">
+  <programme channel="874" start="20261018143000 +0000" stop="20261018165100 +0000">
     <title lang="id">Eredivisie 2026/27 Fc Groningen vs Afc Ajax</title>
     <desc lang="id">Khusus pada jam tayang ini, program tidak mendapatkan rights untuk tayang di OTT, Pay TV dan platform digital lainnya (Program hanya tayang di FTA Kompas TV)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20261018164500 +0000" stop="20261018184500 +0000">
+  <programme channel="874" start="20261018165100 +0000" stop="20261018184500 +0000">
     <title lang="id">Bola Liar</title>
     <desc lang="id">Program diskusi bersama beberapa narasumber yang membahas tema tertentu secara mendalam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
   </programme>
-  <programme channel="874" start="20261018164500 +0000" stop="20261018184500 +0000">
+  <programme channel="874" start="20261018165100 +0000" stop="20261018184500 +0000">
     <title lang="id">Bola Liar</title>
     <desc lang="id">Program diskusi bersama beberapa narasumber yang membahas tema tertentu secara mendalam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
@@ -14227,12 +14227,21 @@
     <desc lang="id">FC Groningen vs AFC Ajax</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261018144000 +0000" stop="20261018164500 +0000">
+  <programme channel="6685" start="20261018144000 +0000" stop="20261018164200 +0000">
     <title lang="id">FC Groningen vs Ajax - Eredivisie</title>
     <desc lang="id">Menghadapi Groningen, akankah Marteen Paes mendapatkan kesempatan untuk tampil di bawah mistar gawang?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/J2SXorwYJRehoEtAb6_8cf0ePfI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383382/d853dc.jpg"/>
   </programme>
-  <programme channel="6685" start="20261018170000 +0000" stop="20261018202500 +0000">
+  <programme channel="6685" start="20261018164200 +0000" stop="20261018165000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261018165000 +0000" stop="20261018202500 +0000">
+    <title lang="id">Baltimore Ravens vs Cleveland Browns - NFL</title>
+    <desc lang="id">Nonton streaming pertandingan seru Baltimore Ravens vs Cleveland Browns - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xbT32RTo4yZt8zbUSvtDq-_yWTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385228/eb7a60.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261018165000 +0000" stop="20261018202500 +0000">
     <title lang="id">Baltimore Ravens vs Cleveland Browns - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Baltimore Ravens vs Cleveland Browns - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xbT32RTo4yZt8zbUSvtDq-_yWTE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385228/eb7a60.jpg"/>
@@ -14858,22 +14867,22 @@
     <desc lang="id">SHOW 07 - MATCHWEEK 07</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261018123000 +0000" stop="20261018151500 +0000">
+  <programme channel="9182" start="20261018123000 +0000" stop="20261018150400 +0000">
     <title lang="id">Leeds United vs Manchester United : [LIVE] Premier League 2026/27</title>
     <desc lang="id">LEEDS UNITED vs MANCHESTER UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261018151500 +0000" stop="20261018173000 +0000">
+  <programme channel="9182" start="20261018150400 +0000" stop="20261018173600 +0000">
     <title lang="id">Nottingham Forest vs Arsenal - Premier League</title>
     <desc lang="id">Akankah tren positif Arsenal bisa diputus oleh skuad besutan Oliver Glasner di Stadion City Ground?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2M13_vUuMOsQqU4pu6WiiQ2F_9k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379685/5113db.jpg"/>
   </programme>
-  <programme channel="9182" start="20261018151500 +0000" stop="20261018173000 +0000">
+  <programme channel="9182" start="20261018150400 +0000" stop="20261018173600 +0000">
     <title lang="id">Nottingham Forest vs Arsenal - Premier League</title>
     <desc lang="id">Akankah tren positif Arsenal bisa diputus oleh skuad besutan Oliver Glasner di Stadion City Ground?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2M13_vUuMOsQqU4pu6WiiQ2F_9k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379685/5113db.jpg"/>
   </programme>
-  <programme channel="9182" start="20261018173000 +0000" stop="20261018180000 +0000">
+  <programme channel="9182" start="20261018173600 +0000" stop="20261018180000 +0000">
     <title lang="id">MATCH HIGHLIGHT 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
@@ -16178,12 +16187,12 @@
     <desc lang="id">16</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261018124500 +0000" stop="20261018150000 +0000">
+  <programme channel="6786" start="20261018124500 +0000" stop="20261018150600 +0000">
     <title lang="id">Fiorentina vs Como - Serie A</title>
     <desc lang="id">Akankah Nico Paz kembali unjuk kebolehan dan membawa Como raih kemenangan di kandang Fiorentina?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/n-CkUrdarfNNha1eoPqxrz6ul2I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383379/aaad08.jpg"/>
   </programme>
-  <programme channel="6786" start="20261018150000 +0000" stop="20261018153000 +0000">
+  <programme channel="6786" start="20261018150600 +0000" stop="20261018153000 +0000">
     <title lang="id">Full Impact - Round 6 : Serie A 2026/27 - Highlight</title>
     <desc lang="id">Full Impact - Round 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -16193,7 +16202,7 @@
     <desc lang="id">5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261018154500 +0000" stop="20261018180000 +0000">
+  <programme channel="6786" start="20261018154500 +0000" stop="20261018175700 +0000">
     <title lang="id">Milan vs Atalanta - Serie A</title>
     <desc lang="id">Milan besutan Ruben Amorim menargetkan tiga poin demi menjaga jarak dari persaingan di papan atas!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WQ1T6IisnfBIC0I_18-7L3jBi5c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5383380/e66052.jpg"/>
@@ -16974,19 +16983,19 @@
     <desc lang="id">Match Round 06</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261018160000 +0000" stop="20261018162500 +0000">
-    <title lang="id">Show 07 - R : EFL 2026/27 - Highlight</title>
-    <desc lang="id">SHOW 07 - R</desc>
+  <programme channel="6686" start="20261018160000 +0000" stop="20261018163000 +0000">
+    <title lang="id">Indonesia vs Korea : 3x3 Women's Basketball | 20th Aichi-Nagoya Asian Games 2026</title>
+    <desc lang="id">Indonesia vs Korea</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261018162500 +0000" stop="20261018170000 +0000">
-    <title lang="id">Monza vs Cagliari : [LIVE] Seriea 2026/27</title>
-    <desc lang="id">MONZA vs CAGLIARI</desc>
+  <programme channel="6686" start="20261018163000 +0000" stop="20261018170000 +0000">
+    <title lang="id">Qatar vs Indonesia : 3x3 Men's Basketball | 20th Aichi-Nagoya Asian Games 2026</title>
+    <desc lang="id">Qatar vs Indonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261018162500 +0000" stop="20261018170000 +0000">
-    <title lang="id">Monza vs Cagliari : [LIVE] Seriea 2026/27</title>
-    <desc lang="id">MONZA vs CAGLIARI</desc>
+  <programme channel="6686" start="20261018163000 +0000" stop="20261018170000 +0000">
+    <title lang="id">Qatar vs Indonesia : 3x3 Men's Basketball | 20th Aichi-Nagoya Asian Games 2026</title>
+    <desc lang="id">Qatar vs Indonesia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20261018170000 +0000" stop="20261018190000 +0000">
@@ -17662,12 +17671,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261018124000 +0000" stop="20261018150000 +0000">
+  <programme channel="9183" start="20261018124000 +0000" stop="20261018145800 +0000">
     <title lang="id">Brighton vs Crystal Palace - Premier League</title>
     <desc lang="id">Sanggupkah kedigdayaan Brighton di kandang terus berlanjut saat menerima kedatangan Crystal Palace?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XRl-ftmoWkahhRka-cx3Fm5ahko=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5379850/b011eb.jpg"/>
   </programme>
-  <programme channel="9183" start="20261018150000 +0000" stop="20261018151000 +0000">
+  <programme channel="9183" start="20261018145800 +0000" stop="20261018151000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
@@ -17835,14 +17844,18 @@
     <title lang="id">Leeds United v Manchester United (Goal Rush) / Nottingham Forest v Arsenal : Premier League Live Preview</title>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261018123000 +0000" stop="20261018180000 +0000">
+  <programme channel="9353" start="20261018123000 +0000" stop="20261018173000 +0000">
     <title lang="id">Leeds United v Manchester United (Goal Rush) / Nottingham Forest v Arsenal : Premier League Live</title>
     <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261018123000 +0000" stop="20261018180000 +0000">
+  <programme channel="9353" start="20261018123000 +0000" stop="20261018173000 +0000">
     <title lang="id">Leeds United v Manchester United (Goal Rush) / Nottingham Forest v Arsenal : Premier League Live</title>
     <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
+  </programme>
+  <programme channel="9353" start="20261018173000 +0000" stop="20261018180000 +0000">
+    <title lang="id">Leeds United v Manchester United (Goal Rush) / Nottingham Forest v Arsenal : Premier League Live Review</title>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261018180000 +0000" stop="20261018190000 +0000">

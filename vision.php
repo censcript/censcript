@@ -529,9 +529,6 @@
 <programme start="20261018154500 +0000" stop="20261018163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20261018163000 +0000" stop="20261018174500 +0000" channel="Trans 7.vision">
-<title>Kampung Jati Kramat</title>
-</programme>
 <programme start="20261018174500 +0000" stop="20261018183000 +0000" channel="Trans 7.vision">
 <title>SuperBike 2026 Spain</title>
 </programme>
@@ -621,12 +618,6 @@
 </programme>
 <programme start="20261018093000 +0000" stop="20261018104500 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
-</programme>
-<programme start="20261018104500 +0000" stop="20261018140000 +0000" channel="ANTV.vision">
-<title>Melodi Cinta</title>
-</programme>
-<programme start="20261018140000 +0000" stop="20261018153000 +0000" channel="ANTV.vision">
-<title>Saya Duluan Dong</title>
 </programme>
 <programme start="20261018153000 +0000" stop="20261018180000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261019010000 +0000" stop="20261019030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261019030000 +0000" stop="20261019050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261019070000 +0000" stop="20261019090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
