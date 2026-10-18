@@ -376,10 +376,10 @@
 <programme start="20261018010500 +0000" stop="20261018020500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Finding Britain&#039;s Slave Traders with David Olusoga - Episode 2</title>
 </programme>
-<programme start="20261018020500 +0000" stop="20261018033400 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261018020500 +0000" stop="20261018031500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: UCI Track World Championships - Shanghai: Day 5</title>
 </programme>
-<programme start="20261018033400 +0000" stop="20261018050000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261018031500 +0000" stop="20261018050000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261018050000 +0000" stop="20261018053000 +0000" channel="BBC_TWO_HD.virginmediatv">

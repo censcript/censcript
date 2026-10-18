@@ -613,9 +613,6 @@
 <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
 </programme>
-<programme start="20261018023000 +0000" stop="20261018060000 +0000" channel="ANTV.vision">
-<title>Dil To Pagal Hai</title>
-</programme>
 <programme start="20261018060000 +0000" stop="20261018073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261018230000 +0000" stop="20261019010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261019010000 +0000" stop="20261019030000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

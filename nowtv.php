@@ -1,18 +1,3 @@
-<programme start="20261018050000 +0000" stop="20261018060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018060000 +0000" stop="20261018070000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018070000 +0000" stop="20261018080000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018080000 +0000" stop="20261018090000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261018100000 +0000" stop="20261018110000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -31,15 +16,6 @@
 <programme start="20261018160000 +0000" stop="20261018170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261018040000 +0000" stop="20261018060000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018060000 +0000" stop="20261018080000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018080000 +0000" stop="20261018100000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261018100000 +0000" stop="20261018120000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -50,15 +26,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261018160000 +0000" stop="20261018180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018040000 +0000" stop="20261018060000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018060000 +0000" stop="20261018080000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018080000 +0000" stop="20261018100000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261018100000 +0000" stop="20261018120000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -72,18 +39,6 @@
 </programme>
 <programme start="20261018160000 +0000" stop="20261018180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018053000 +0000" stop="20261018054500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 5</title>
-</programme>
-<programme start="20261018054500 +0000" stop="20261018060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 6</title>
-</programme>
-<programme start="20261018060000 +0000" stop="20261018080000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Brentford vs Liverpool</title>
-</programme>
-<programme start="20261018080000 +0000" stop="20261018100000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Newcastle United vs Aston Villa</title>
 </programme>
 <programme start="20261018100000 +0000" stop="20261018120000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Everton vs Chelsea</title>
@@ -100,9 +55,6 @@
 <programme start="20261018150000 +0000" stop="20261018173000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Nottingham Forest vs Arsenal [Live Chat][Live]</title>
 </programme>
-<programme start="20261018040000 +0000" stop="20261018080000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261018080000 +0000" stop="20261018120000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -118,9 +70,6 @@
 <programme start="20261018160000 +0000" stop="20261018200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261018040000 +0000" stop="20261018080000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261018080000 +0000" stop="20261018120000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -134,9 +83,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261018160000 +0000" stop="20261018200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261018040000 +0000" stop="20261018080000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261018080000 +0000" stop="20261018120000 +0000" channel="Now Sports Premier League 4.nowtv">
