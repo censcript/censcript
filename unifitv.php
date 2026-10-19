@@ -15127,7 +15127,7 @@
     <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261019140000 +0000" stop="20261019195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20261019140000 +0000" stop="20261019193000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Buckley vs. Malott - Main</title>
     <desc lang="en">Returning to Edmonton for the fourth time, UFC brings an action-packed fight card to Rogers Place on Sunday, October 18 headlined by a compelling welterweight main event between Joaquin “New Mansa” Buckley and “Proper” Mike Malott. Buckley makes his first trip north of the border seeking to maintain his place in the welterweight Top 10 and showcase the explosive skills that previously produced wins over former title challengers Stephen Thompson and Colby Covington. The Ontario native Malott makes his seventh consecutive start in Canada and second main event appearance of 2026, looking to add to his four-fight winning streak and build on his third-round stoppage win over Gilbert Burns in Winnipeg back in April.</desc>
     <category lang="en">Sports</category>
@@ -15213,12 +15213,12 @@
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20261018180000 +0000" stop="20261018183000 +0000" channel="spotv2.unifitv">
+  <programme start="20261018180000 +0000" stop="20261018183500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Global Champions League, Rome - Highlights</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20261018183000 +0000" stop="20261018193000 +0000" channel="spotv2.unifitv">
+  <programme start="20261018183500 +0000" stop="20261018193000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 Moto4 British Cup Rd 7 Assen - Race 1</title>
     <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <category lang="en">Motorsports</category>
@@ -15228,15 +15228,15 @@
     <desc lang="en">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261018203000 +0000" stop="20261018223000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 Longines Global Champions Tour, Rome - Global Champions League Round 1</title>
-    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <category lang="en">Extreme Sports</category>
+  <programme start="20261018203000 +0000" stop="20261018210000 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 MotoGP Factory Floor: the Red Bull KTM vlog -</title>
+    <desc lang="en">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261018223000 +0000" stop="20261019000000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 Longines Global Champions Tour, Rome - Global Champions League Round 2</title>
-    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <category lang="en">Extreme Sports</category>
+  <programme start="20261018210000 +0000" stop="20261019000000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) MLB 2026 Postseason: AL Championship Series Game 5 - Cleveland Guardians vs Tampa Bay Rays</title>
+    <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20261019000000 +0000" stop="20261019033000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 WorldSBK: Rd 12 Pirelli Spanish Round - SPB/SSP/SBK Race 2</title>

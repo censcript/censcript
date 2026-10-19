@@ -262,10 +262,10 @@
 <programme start="20261019175700 +0000" stop="20261019180000 +0000" channel="TG4_HD.virginmediatv">
     <title>An Aimsir Láithreach - Episode 292</title>
 </programme>
-<programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20261019000000 +0000" stop="20261019010300 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Cracker - Brotherly Love</title>
 </programme>
-<programme start="20261019010000 +0000" stop="20261019061500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
+<programme start="20261019010300 +0000" stop="20261019061500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261019115000 +0000" stop="20261019125000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
@@ -3862,7 +3862,7 @@
 <programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261019073000 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261019071500 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: South Africa v Australia</title>
 </programme>
 <programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3956,7 +3956,7 @@
     <title>EFL League One - Goals</title>
 </programme>
 <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL League One - Goals</title>
+    <title>EFL League Two - Goals</title>
 </programme>
 <programme start="20261019013000 +0000" stop="20261019033000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Scottish Premiership Football - Celtic v Heart of Midlothian</title>
@@ -3965,7 +3965,7 @@
     <title>SPFL Greatest - 2009/10: Rangers v Celtic</title>
 </programme>
 <programme start="20261019034500 +0000" stop="20261019040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>SPFL Greatest - 2010: Celtic v Rangers</title>
+    <title>SPFL Greatest - 2010/11: Celtic v Rangers</title>
 </programme>
 <programme start="20261019040000 +0000" stop="20261019043000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>SPFL Greatest - 2017: Heart of Midlothian v Celtic</title>
@@ -4054,7 +4054,7 @@
 <programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>The Test Within: A History of Men&#039;s Test Cricket in South Africa</title>
 </programme>
-<programme start="20261019073000 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20261019071500 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: South Africa v Australia</title>
 </programme>
 <programme start="20261019160000 +0000" stop="20261019161500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
@@ -4115,7 +4115,7 @@
     <title>NFL Football - Indianapolis Colts at Washington Commanders</title>
 </programme>
 <programme start="20261019040000 +0000" stop="20261019041500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Detroit Lions at Carolina Panthers</title>
+    <title>NFL Football - Detroit Lions at Arizona Cardinals</title>
 </programme>
 <programme start="20261019041500 +0000" stop="20261019043000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Dallas Cowboys at Houston Texans</title>
@@ -4165,7 +4165,10 @@
 <programme start="20261019023000 +0000" stop="20261019040000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis: WTA Japan Women&#039;s Open 2026 - Day 1</title>
 </programme>
-<programme start="20261019040000 +0000" stop="20261019063000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+<programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
+    <title>Live Tennis - WTA: Day 1</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019063000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>Live Tennis - WTA: Day 1</title>
 </programme>
 <programme start="20261019063000 +0000" stop="20261019133000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4336,13 +4339,10 @@
 <programme start="20261019043000 +0000" stop="20261019060000 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20261019114500 +0000" stop="20261019121500 +0000" channel="Racing_UK.virginmediatv">
-    <title>The Bloodstock Files</title>
-</programme>
-<programme start="20261019121500 +0000" stop="20261019124500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261019120000 +0000" stop="20261019123000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261019124500 +0000" stop="20261019163000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261019123000 +0000" stop="20261019163000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20261019163000 +0000" stop="20261019170000 +0000" channel="Racing_UK.virginmediatv">
@@ -4366,13 +4366,10 @@
 <programme start="20261019043000 +0000" stop="20261019060000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20261019114500 +0000" stop="20261019121500 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>The Bloodstock Files</title>
-</programme>
-<programme start="20261019121500 +0000" stop="20261019124500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261019120000 +0000" stop="20261019123000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261019124500 +0000" stop="20261019163000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261019123000 +0000" stop="20261019163000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20261019163000 +0000" stop="20261019170000 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -4390,11 +4387,8 @@
 <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Leeds United v Manchester United</title>
 </programme>
-<programme start="20261019013000 +0000" stop="20261019020000 +0000" channel="MUTV.virginmediatv">
-    <title>Paul Parker: Tackling the Game</title>
-</programme>
-<programme start="20261019020000 +0000" stop="20261019023000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - When Mainoo met Seedorf</title>
+<programme start="20261019013000 +0000" stop="20261019023000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Academy</title>
 </programme>
 <programme start="20261019023000 +0000" stop="20261019030000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Manchester United v Tottenham Hotspur</title>
@@ -4406,7 +4400,7 @@
     <title>Match Day Review - Premier League: Leeds United v Manchester United</title>
 </programme>
 <programme start="20261019053000 +0000" stop="20261019063000 +0000" channel="MUTV.virginmediatv">
-    <title>Carrick: The Players&#039; Player</title>
+    <title>The Official United Podcast - Inside Carrington - Academy</title>
 </programme>
 <programme start="20261019110000 +0000" stop="20261019130000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Leeds United v Manchester United</title>
@@ -4415,16 +4409,13 @@
     <title>Match Day Review - Premier League: Leeds United v Manchester United</title>
 </programme>
 <programme start="20261019133000 +0000" stop="20261019140000 +0000" channel="MUTV.virginmediatv">
-    <title>25 Memorable Old Trafford Moments</title>
+    <title>Player Spotlight - When Mainoo met Seedorf</title>
 </programme>
-<programme start="20261019140000 +0000" stop="20261019144500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Breaking Barriers</title>
-</programme>
-<programme start="20261019144500 +0000" stop="20261019150000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Phallon Tullis-Joyce: New York v Manchester</title>
+<programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Academy</title>
 </programme>
 <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="MUTV.virginmediatv">
-    <title>Carrick: Life Before United</title>
+    <title>Premier League 2 - Highlights: Nottingham Forest U21 v Manchester United U21</title>
 </programme>
 <programme start="20261019153000 +0000" stop="20261019173000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Leeds United v Manchester United</title>
@@ -4732,7 +4723,7 @@
 <programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261019073000 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261019071500 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: South Africa v Australia</title>
 </programme>
 <programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4826,7 +4817,7 @@
     <title>EFL League One - Goals</title>
 </programme>
 <programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL League One - Goals</title>
+    <title>EFL League Two - Goals</title>
 </programme>
 <programme start="20261019013000 +0000" stop="20261019033000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Scottish Premiership Football - Celtic v Heart of Midlothian</title>
@@ -4835,7 +4826,7 @@
     <title>SPFL Greatest - 2009/10: Rangers v Celtic</title>
 </programme>
 <programme start="20261019034500 +0000" stop="20261019040000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>SPFL Greatest - 2010: Celtic v Rangers</title>
+    <title>SPFL Greatest - 2010/11: Celtic v Rangers</title>
 </programme>
 <programme start="20261019040000 +0000" stop="20261019043000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>SPFL Greatest - 2017: Heart of Midlothian v Celtic</title>
@@ -4924,7 +4915,7 @@
 <programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>The Test Within: A History of Men&#039;s Test Cricket in South Africa</title>
 </programme>
-<programme start="20261019073000 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20261019071500 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Test Cricket - 2nd Test, Day 2: South Africa v Australia</title>
 </programme>
 <programme start="20261019160000 +0000" stop="20261019161500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
@@ -4985,7 +4976,7 @@
     <title>NFL Football - Indianapolis Colts at Washington Commanders</title>
 </programme>
 <programme start="20261019040000 +0000" stop="20261019041500 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Detroit Lions at Carolina Panthers</title>
+    <title>NFL Football - Detroit Lions at Arizona Cardinals</title>
 </programme>
 <programme start="20261019041500 +0000" stop="20261019043000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Dallas Cowboys at Houston Texans</title>
@@ -5035,7 +5026,10 @@
 <programme start="20261019023000 +0000" stop="20261019040000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis: WTA Japan Women&#039;s Open 2026 - Day 1</title>
 </programme>
-<programme start="20261019040000 +0000" stop="20261019063000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+<programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="Sky_Sports_Plus.virginmediatv">
+    <title>Live Tennis - WTA: Day 1</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019063000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>Live Tennis - WTA: Day 1</title>
 </programme>
 <programme start="20261019063000 +0000" stop="20261019133000 +0000" channel="Sky_Sports_Plus.virginmediatv">

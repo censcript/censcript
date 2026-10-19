@@ -2638,11 +2638,8 @@
   <programme start="20261021204500 +0000" stop="20261021220000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">Teleshopping</title>
   </programme>
-  <programme start="20261020220000 +0000" stop="20261021040000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20261020220000 +0000" stop="20261021050000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Šlágr mišmaš</title>
-  </programme>
-  <programme start="20261021040000 +0000" stop="20261021050000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Vstáváme s dechovkou</title>
   </programme>
   <programme start="20261021050000 +0000" stop="20261021070000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Ráno s námi</title>
@@ -2677,8 +2674,11 @@
   <programme start="20261020220000 +0000" stop="20261021060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
   </programme>
-  <programme start="20261021060000 +0000" stop="20261021103000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261021060000 +0000" stop="20261021083000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
+  </programme>
+  <programme start="20261021083000 +0000" stop="20261021103000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Evergreeny</title>
   </programme>
   <programme start="20261021103000 +0000" stop="20261021123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
@@ -14779,6 +14779,153 @@
   <programme start="20261021210000 +0000" stop="20261022031000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
+  <programme start="20261020212800 +0000" stop="20261020222200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
+  </programme>
+  <programme start="20261020222200 +0000" stop="20261020223200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry a predstavenie kandidátov na poslancov - Ján Sklár</title>
+  </programme>
+  <programme start="20261020223200 +0000" stop="20261020232400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Miloš a Marcel Motoristom - Lacná elektrina, rýchle vlaky. Tajný recept Uzbekistanu.</title>
+  </programme>
+  <programme start="20261020232400 +0000" stop="20261021000100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Kým je Erik Sibal mimo politiky?</title>
+  </programme>
+  <programme start="20261021000100 +0000" stop="20261021003700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Štafeta hrdinov 2026 pokračuje na Devín</title>
+  </programme>
+  <programme start="20261021003700 +0000" stop="20261021014000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
+  </programme>
+  <programme start="20261021014000 +0000" stop="20261021030000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam zo zastupiteľstva KSK - 24.8.2026</title>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021030500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20261021030500 +0000" stop="20261021033700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Kým je Erik Sibal mimo politiky?</title>
+  </programme>
+  <programme start="20261021033700 +0000" stop="20261021034500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
+  </programme>
+  <programme start="20261021034500 +0000" stop="20261021041500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261021041500 +0000" stop="20261021042300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 590</title>
+  </programme>
+  <programme start="20261021042300 +0000" stop="20261021043000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Zápas, o ktorom hovorila Panna Mária, neberieme vážne</title>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021053000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Košice - Sv. liturgia</title>
+  </programme>
+  <programme start="20261021053000 +0000" stop="20261021062900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Košice - Utiereň</title>
+  </programme>
+  <programme start="20261021062900 +0000" stop="20261021063400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261021063400 +0000" stop="20261021064000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261021064000 +0000" stop="20261021071000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry a predstavenie kandidátov na poslancov - Ján Sklár</title>
+  </programme>
+  <programme start="20261021071000 +0000" stop="20261021074500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA ŠÍRAVE - Ako dopadla letná sezóna 2026?</title>
+  </programme>
+  <programme start="20261021074500 +0000" stop="20261021075300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 590</title>
+  </programme>
+  <programme start="20261021075300 +0000" stop="20261021075900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek musí ísť niekedy proti tomu, čo sa od neho očakáva</title>
+  </programme>
+  <programme start="20261021075900 +0000" stop="20261021082900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
+  </programme>
+  <programme start="20261021082900 +0000" stop="20261021100600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
+  </programme>
+  <programme start="20261021100600 +0000" stop="20261021100900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká by mala byť naša modlitba?</title>
+  </programme>
+  <programme start="20261021100900 +0000" stop="20261021101400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261021101400 +0000" stop="20261021101900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
+  </programme>
+  <programme start="20261021101900 +0000" stop="20261021103000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20261021103000 +0000" stop="20261021104000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry a predstavenie kandidátov na poslancov - Ján Sklár</title>
+  </programme>
+  <programme start="20261021104000 +0000" stop="20261021112300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
+  </programme>
+  <programme start="20261021112300 +0000" stop="20261021112900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Ivetka: O role rodičovstva</title>
+  </programme>
+  <programme start="20261021112900 +0000" stop="20261021115900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Kňazský seminár Prešov - 3. hodinka</title>
+  </programme>
+  <programme start="20261021115900 +0000" stop="20261021123800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 590</title>
+  </programme>
+  <programme start="20261021123800 +0000" stop="20261021125200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry a predstavenie kandidátov na poslancov - Ján Sklár</title>
+  </programme>
+  <programme start="20261021125200 +0000" stop="20261021125800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
+  </programme>
+  <programme start="20261021125800 +0000" stop="20261021140500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
+  </programme>
+  <programme start="20261021140500 +0000" stop="20261021141900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry a predstavenie kandidátov na poslancov - Ján Sklár</title>
+  </programme>
+  <programme start="20261021141900 +0000" stop="20261021142300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261021142300 +0000" stop="20261021142800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20261021142800 +0000" stop="20261021155300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
+  </programme>
+  <programme start="20261021155300 +0000" stop="20261021155500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261021155500 +0000" stop="20261021160800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
+  </programme>
+  <programme start="20261021160800 +0000" stop="20261021170300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA VÝCHODE: Vavrinec Žeňuch - História colníctva</title>
+  </programme>
+  <programme start="20261021170300 +0000" stop="20261021181500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
+  </programme>
+  <programme start="20261021181500 +0000" stop="20261021182700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Sobranský magazín - 590</title>
+  </programme>
+  <programme start="20261021182700 +0000" stop="20261021202000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
+  </programme>
+  <programme start="20261021202000 +0000" stop="20261021205300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA ŠÍRAVE - Ako dopadla letná sezóna 2026?</title>
+  </programme>
+  <programme start="20261021205300 +0000" stop="20261021210300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Ohlásenie kandidatúry a predstavenie kandidátov na poslancov - Ján Sklár</title>
+  </programme>
+  <programme start="20261021210300 +0000" stop="20261021212000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">TLAČOVÁ KONFERENCIA: Miroslav Vidovenec - predstavenie kandidátov na poslancov mestského zastupiteľstva</title>
+  </programme>
+  <programme start="20261021212000 +0000" stop="20261021223200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
+  </programme>
   <programme start="20261020220000 +0000" stop="20261020230000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">TV Poprad</title>
   </programme>
@@ -16444,6 +16591,225 @@
   <programme start="20261021214500 +0000" stop="20261021230000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Wielki test (134)</title>
   </programme>
+  <programme start="20261020220000 +0000" stop="20261020223000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Знищене Pосією</title>
+  </programme>
+  <programme start="20261020223000 +0000" stop="20261021010000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021015000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Залізти під шкіру</title>
+  </programme>
+  <programme start="20261021015000 +0000" stop="20261021030000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021031000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021031000 +0000" stop="20261021034000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20261021034000 +0000" stop="20261021040000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021050000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021051000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021051000 +0000" stop="20261021070000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021071000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021071000 +0000" stop="20261021074000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">ФронтNews</title>
+  </programme>
+  <programme start="20261021074000 +0000" stop="20261021080000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021083000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Спеціальний репортаж</title>
+  </programme>
+  <programme start="20261021083000 +0000" stop="20261021090000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Ваші гроші</title>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021091000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021091000 +0000" stop="20261021100000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021104000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Знищене Pосією</title>
+  </programme>
+  <programme start="20261021104000 +0000" stop="20261021105000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Популярна історія</title>
+  </programme>
+  <programme start="20261021105000 +0000" stop="20261021110000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021111000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021111000 +0000" stop="20261021121500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021121500 +0000" stop="20261021124000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021124000 +0000" stop="20261021130000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Винуватці війни</title>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021150000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021151500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Антизомбі</title>
+  </programme>
+  <programme start="20261021151500 +0000" stop="20261021153000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Громадянська оборона</title>
+  </programme>
+  <programme start="20261021153000 +0000" stop="20261021154000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021154000 +0000" stop="20261021164000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021164000 +0000" stop="20261021170000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021183000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021194000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261021194000 +0000" stop="20261021202500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Уцілілі (1) (1)</title>
+  </programme>
+  <programme start="20261021202500 +0000" stop="20261021210000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021210100 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Гімн України</title>
+  </programme>
+  <programme start="20261021210100 +0000" stop="20261021220000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261020210000 +0000" stop="20261020230000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Live</title>
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261021000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Київ сьогодні</title>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021010000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Київ сьогодні</title>
+  </programme>
+  <programme start="20261021013000 +0000" stop="20261021020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Без Броні</title>
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021023000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Київ сьогодні</title>
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Історії людей поруч</title>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021040000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021041000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261021041000 +0000" stop="20261021050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021051000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261021051000 +0000" stop="20261021060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021060100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20261021060100 +0000" stop="20261021061000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261021061000 +0000" stop="20261021070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021071000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261021071000 +0000" stop="20261021091000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261021091000 +0000" stop="20261021093000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Про головне</title>
+  </programme>
+  <programme start="20261021093000 +0000" stop="20261021101000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус</title>
+  </programme>
+  <programme start="20261021101000 +0000" stop="20261021110000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Гаряче питання</title>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021130000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021140000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021151000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261021151000 +0000" stop="20261021160000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261021160000 +0000" stop="20261021161000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261021161000 +0000" stop="20261021170000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021180500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">BBC News Україна</title>
+  </programme>
+  <programme start="20261021180500 +0000" stop="20261021190000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021200000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261021210000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Гаряче питання</title>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021230000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
   <programme start="20261020220000 +0000" stop="20261020230000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Спецпроект.Док</title>
   </programme>
@@ -16761,6 +17127,369 @@
   </programme>
   <programme start="20261021215200 +0000" stop="20261021220000 +0000" channel="Euronews.webtv.sk">
     <title lang="id">The Ring</title>
+  </programme>
+  <programme start="20261020220000 +0000" stop="20261020222800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261020222800 +0000" stop="20261020223000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261020223000 +0000" stop="20261020225800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Journeys in Japan</title>
+  </programme>
+  <programme start="20261020225800 +0000" stop="20261020225900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261020225900 +0000" stop="20261020230000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261020232800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261020232800 +0000" stop="20261020232900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261020232900 +0000" stop="20261020233000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261020234500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Activate Your Japanese!</title>
+  </programme>
+  <programme start="20261020234500 +0000" stop="20261020235500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dig More Japan</title>
+  </programme>
+  <programme start="20261020235500 +0000" stop="20261021000000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining With the Chef mini</title>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021002800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021002800 +0000" stop="20261021003000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021003000 +0000" stop="20261021005800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining with the Chef</title>
+  </programme>
+  <programme start="20261021005800 +0000" stop="20261021010000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021012800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20261021012800 +0000" stop="20261021014300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk #265</title>
+  </programme>
+  <programme start="20261021014300 +0000" stop="20261021015300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">MATSURI: The Heartbeat of Japan</title>
+  </programme>
+  <programme start="20261021015300 +0000" stop="20261021015400 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021015400 +0000" stop="20261021015500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021015500 +0000" stop="20261021020000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Ukiyoe EDO-LIFE</title>
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021022600 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Today&apos;s Close-Up</title>
+  </programme>
+  <programme start="20261021022600 +0000" stop="20261021022700 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021022700 +0000" stop="20261021022800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021022800 +0000" stop="20261021023000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021025900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Document 72 hours</title>
+  </programme>
+  <programme start="20261021025900 +0000" stop="20261021030000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021032800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021032800 +0000" stop="20261021032900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021032900 +0000" stop="20261021033000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021035800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20261021035800 +0000" stop="20261021040000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021042800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021042800 +0000" stop="20261021042900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021042900 +0000" stop="20261021043000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021043000 +0000" stop="20261021045800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Journeys in Japan</title>
+  </programme>
+  <programme start="20261021045800 +0000" stop="20261021050000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021052800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021052800 +0000" stop="20261021052900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021052900 +0000" stop="20261021053000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021053000 +0000" stop="20261021055800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining with the Chef</title>
+  </programme>
+  <programme start="20261021055800 +0000" stop="20261021060000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021062800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021062800 +0000" stop="20261021062900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021062900 +0000" stop="20261021063000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021063000 +0000" stop="20261021064500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Activate Your Japanese!</title>
+  </programme>
+  <programme start="20261021064500 +0000" stop="20261021065500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dig More Japan</title>
+  </programme>
+  <programme start="20261021065500 +0000" stop="20261021070000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dining With the Chef mini</title>
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021072800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021072800 +0000" stop="20261021073000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021073000 +0000" stop="20261021075800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20261021075800 +0000" stop="20261021075900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021075900 +0000" stop="20261021080000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021082800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021082800 +0000" stop="20261021083000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021083000 +0000" stop="20261021084500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20261021084500 +0000" stop="20261021090000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021092800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021092800 +0000" stop="20261021092900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021092900 +0000" stop="20261021093000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021093000 +0000" stop="20261021095800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20261021095800 +0000" stop="20261021100000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021102800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021102800 +0000" stop="20261021103000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021103000 +0000" stop="20261021105800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20261021105800 +0000" stop="20261021105900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021105900 +0000" stop="20261021110000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021112800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021112800 +0000" stop="20261021113000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021113000 +0000" stop="20261021115700 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">JAPAN DELISH</title>
+  </programme>
+  <programme start="20261021115700 +0000" stop="20261021115800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021115800 +0000" stop="20261021120000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021120000 +0000" stop="20261021122800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021122800 +0000" stop="20261021123000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021123000 +0000" stop="20261021125800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Dive in Tokyo</title>
+  </programme>
+  <programme start="20261021125800 +0000" stop="20261021125900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021125900 +0000" stop="20261021130000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021132800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20261021132800 +0000" stop="20261021133000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021134500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20261021134500 +0000" stop="20261021140000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021142800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSLINE ASIA 24</title>
+  </programme>
+  <programme start="20261021142800 +0000" stop="20261021142900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021142900 +0000" stop="20261021143000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021145800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20261021145800 +0000" stop="20261021150000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021152800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021152800 +0000" stop="20261021152900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021152900 +0000" stop="20261021153000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021153000 +0000" stop="20261021155700 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">JAPAN DELISH</title>
+  </programme>
+  <programme start="20261021155700 +0000" stop="20261021155800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021155800 +0000" stop="20261021160000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021160000 +0000" stop="20261021162800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021162800 +0000" stop="20261021163000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021163000 +0000" stop="20261021165800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Science View</title>
+  </programme>
+  <programme start="20261021165800 +0000" stop="20261021165900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021165900 +0000" stop="20261021170000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021173000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWS 7</title>
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021174500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">BOSAI:Science that Can Save Your Life</title>
+  </programme>
+  <programme start="20261021174500 +0000" stop="20261021175500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">IMPACTS: Climates Change the World</title>
+  </programme>
+  <programme start="20261021175500 +0000" stop="20261021175800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Time-lapse Japan</title>
+  </programme>
+  <programme start="20261021175800 +0000" stop="20261021180000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021182800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20261021182800 +0000" stop="20261021184300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk #266</title>
+  </programme>
+  <programme start="20261021184300 +0000" stop="20261021185300 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">MATSURI: The Heartbeat of Japan</title>
+  </programme>
+  <programme start="20261021185300 +0000" stop="20261021185500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021185500 +0000" stop="20261021190000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Ukiyoe EDO-LIFE</title>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021192800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NEWSROOM TOKYO</title>
+  </programme>
+  <programme start="20261021192800 +0000" stop="20261021192900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021192900 +0000" stop="20261021193000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021194500 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Direct Talk</title>
+  </programme>
+  <programme start="20261021194500 +0000" stop="20261021200000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Japan&apos;s Top Inventions</title>
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261021202800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021202800 +0000" stop="20261021203000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021203000 +0000" stop="20261021205800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">FRONTRUNNERS</title>
+  </programme>
+  <programme start="20261021205800 +0000" stop="20261021210000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021212800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">NHK NEWSLINE</title>
+  </programme>
+  <programme start="20261021212800 +0000" stop="20261021212900 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021212900 +0000" stop="20261021213000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021215800 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">Trails to Oishii Tokyo</title>
+  </programme>
+  <programme start="20261021215800 +0000" stop="20261021220000 +0000" channel="NHK World Japan.webtv.sk">
+    <title lang="id">INFO</title>
   </programme>
   <programme start="20261020220000 +0000" stop="20261020223000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Premium Collection A</title>
@@ -18144,6 +18873,249 @@
   </programme>
   <programme start="20261021191500 +0000" stop="20261021220000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Chi l&apos;ha visto?</title>
+  </programme>
+  <programme start="20261020220000 +0000" stop="20261020223000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261020223000 +0000" stop="20261020230000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Heat</title>
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261021000000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021010000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021013000 +0000" stop="20261021020000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021023000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021023000 +0000" stop="20261021030000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021031500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021031500 +0000" stop="20261021033000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021050000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Watch</title>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021051500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021051500 +0000" stop="20261021053000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Rediscovering China</title>
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021063000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021063000 +0000" stop="20261021070000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Heat</title>
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Sports Scene</title>
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021081500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021081500 +0000" stop="20261021090000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021101500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021101500 +0000" stop="20261021110000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021113000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Asia Today</title>
+  </programme>
+  <programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20261021120000 +0000" stop="20261021121500 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021121500 +0000" stop="20261021130000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">China 24</title>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021143000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021143000 +0000" stop="20261021150000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Vibe</title>
+  </programme>
+  <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Africa Live</title>
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021193000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021200000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">World Insight With Tian Wei</title>
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261021203000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The World Today</title>
+  </programme>
+  <programme start="20261021203000 +0000" stop="20261021210000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Dialogue</title>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">Global Business</title>
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021220000 +0000" channel="CGTN.webtv.sk">
+    <title lang="id">The Point with Liu Xin</title>
+  </programme>
+  <programme start="20261020220000 +0000" stop="20261020230000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Journey of Rice (2)</title>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (6)</title>
+  </programme>
+  <programme start="20261020233000 +0000" stop="20261021000000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">L. E. HUDEC (4)</title>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021010000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Bite of Xinjiang (3)</title>
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Zeal &quot;Gen Z&quot; in Yunnan 3/4</title>
+  </programme>
+  <programme start="20261021013000 +0000" stop="20261021020000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Beautiful Highland: Saihanba (3)</title>
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021030000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Chronicles of The Long March (5)</title>
+  </programme>
+  <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lijiang River (4)</title>
+  </programme>
+  <programme start="20261021033000 +0000" stop="20261021040000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Magic of Lingqu Canal (1)</title>
+  </programme>
+  <programme start="20261021040000 +0000" stop="20261021050000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Journey of Rice (2)</title>
+  </programme>
+  <programme start="20261021050000 +0000" stop="20261021053000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (6)</title>
+  </programme>
+  <programme start="20261021053000 +0000" stop="20261021060000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">L. E. HUDEC (4)</title>
+  </programme>
+  <programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Bite of Xinjiang (3)</title>
+  </programme>
+  <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Zeal &quot;Gen Z&quot; in Yunnan 3/4</title>
+  </programme>
+  <programme start="20261021073000 +0000" stop="20261021080000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Beautiful Highland: Saihanba (3)</title>
+  </programme>
+  <programme start="20261021080000 +0000" stop="20261021090000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Chronicles of The Long March (5)</title>
+  </programme>
+  <programme start="20261021090000 +0000" stop="20261021093000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lijiang River (4)</title>
+  </programme>
+  <programme start="20261021093000 +0000" stop="20261021100000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Magic of Lingqu Canal (1)</title>
+  </programme>
+  <programme start="20261021100000 +0000" stop="20261021110000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Journey of Rice (2)</title>
+  </programme>
+  <programme start="20261021110000 +0000" stop="20261021113000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (6)</title>
+  </programme>
+  <programme start="20261021113000 +0000" stop="20261021120000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">L. E. HUDEC (4)</title>
+  </programme>
+  <programme start="20261021120000 +0000" stop="20261021130000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Bite of Xinjiang (3)</title>
+  </programme>
+  <programme start="20261021130000 +0000" stop="20261021133000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Zeal &quot;Gen Z&quot; in Yunnan 3/4</title>
+  </programme>
+  <programme start="20261021133000 +0000" stop="20261021140000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Beautiful Highland: Saihanba (3)</title>
+  </programme>
+  <programme start="20261021140000 +0000" stop="20261021150000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Chronicles of The Long March (5)</title>
+  </programme>
+  <programme start="20261021150000 +0000" stop="20261021153000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lijiang River (4)</title>
+  </programme>
+  <programme start="20261021153000 +0000" stop="20261021160000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Magic of Lingqu Canal (1)</title>
+  </programme>
+  <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Journey of Rice (2)</title>
+  </programme>
+  <programme start="20261021170000 +0000" stop="20261021173000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Song Dynasty Poetry: Beauty Across Time (6)</title>
+  </programme>
+  <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">L. E. HUDEC (4)</title>
+  </programme>
+  <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">A Bite of Xinjiang (3)</title>
+  </programme>
+  <programme start="20261021190000 +0000" stop="20261021193000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Zeal &quot;Gen Z&quot; in Yunnan 3/4</title>
+  </programme>
+  <programme start="20261021193000 +0000" stop="20261021200000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Beautiful Highland: Saihanba (3)</title>
+  </programme>
+  <programme start="20261021200000 +0000" stop="20261021210000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">Chronicles of The Long March (6)</title>
+  </programme>
+  <programme start="20261021210000 +0000" stop="20261021213000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Lijiang River (5)</title>
+  </programme>
+  <programme start="20261021213000 +0000" stop="20261021220000 +0000" channel="CGTN Documentary.webtv.sk">
+    <title lang="id">The Magic of Lingqu Canal (2)</title>
   </programme>
   <programme start="20261020220000 +0000" stop="20261021040000 +0000" channel="Óčko.webtv.sk">
     <title lang="id">ÓČKO FLIRT</title>

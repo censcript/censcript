@@ -8480,13 +8480,13 @@
     <title>2026 FIA TCR World Tour</title>
 </programme>
 <programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="SPOTV 2.mncvision">
-    <title>SPOTV 2</title>
+    <title>2026 WorldWCR: Pirelli Spanish</title>
 </programme>
 <programme start="20261019080000 +0000" stop="20261019090000 +0000" channel="SPOTV 2.mncvision">
-    <title>SPOTV 2</title>
+    <title>2026 WorldWCR: Pirelli Spanish</title>
 </programme>
 <programme start="20261019090000 +0000" stop="20261019100000 +0000" channel="SPOTV 2.mncvision">
-    <title>SPOTV 2</title>
+    <title>2026 WorldWCR: Pirelli Spanish</title>
 </programme>
 <programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="SPOTV 2.mncvision">
     <title>WorldSBK: Pirelli Spanish</title>
@@ -8495,7 +8495,7 @@
     <title>WorldSBK: Pirelli Spanish</title>
 </programme>
 <programme start="20261019140000 +0000" stop="20261019163000 +0000" channel="SPOTV 2.mncvision">
-    <title>MLB 2026 Postseason</title>
+    <title>MLB Postseason: CLE Vs TBR</title>
 </programme>
 <programme start="20261019163000 +0000" stop="20261018170000 +0000" channel="SPOTV 2.mncvision">
     <title>2026 FIA TCR World Tour</title>
@@ -8525,13 +8525,13 @@
     <title>2026 FIA TCR World Tour</title>
 </programme>
 <programme start="20261019070000 +0000" stop="20261019080000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SPOTV 2</title>
+    <title>2026 WorldWCR: Pirelli Spanish</title>
 </programme>
 <programme start="20261019080000 +0000" stop="20261019090000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SPOTV 2</title>
+    <title>2026 WorldWCR: Pirelli Spanish</title>
 </programme>
 <programme start="20261019090000 +0000" stop="20261019100000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>SPOTV 2</title>
+    <title>2026 WorldWCR: Pirelli Spanish</title>
 </programme>
 <programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>WorldSBK: Pirelli Spanish</title>
@@ -8540,7 +8540,7 @@
     <title>WorldSBK: Pirelli Spanish</title>
 </programme>
 <programme start="20261019140000 +0000" stop="20261019163000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>MLB 2026 Postseason</title>
+    <title>MLB Postseason: CLE Vs TBR</title>
 </programme>
 <programme start="20261019163000 +0000" stop="20261018170000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 FIA TCR World Tour</title>
