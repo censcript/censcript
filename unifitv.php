@@ -3199,8 +3199,8 @@
     <episode-num system="onscreen">S1E45</episode-num>
   </programme>
   <programme start="20261018201000 +0000" stop="20261018202000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">tbc</title>
-    <desc lang="en">tbc</desc>
+    <title lang="en">Big Feast Duel : The Prequel</title>
+    <desc lang="en">With expert evaluations from renowned chefs and rigorous testing from food connoisseurs, forty restaurants compete to become the top ten culinary representatives! TV King Moses Chan and TV Queen Katy Kung transform into "Food Guru," meticulously selecting the strongest food guide for the Greater Bay Area based on ten themes including baked pork chop rice, wonton noodles, French toast, roast pigeon, hamburgers, and shrimp dumplings. The team delves into the heart of the restaurants, uncovering their little-known culinary stories. A tasting team composed of renowned chefs, well-known food critics, and discerning celebrities will also secretly visit restaurants, bringing back their honest reviews to the studio. After a round of debate and critique, the top-rated restaurants for each theme will be crowned! Viewers can also vote for their "favorite dish."</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261018202000 +0000" stop="20261018210500 +0000" channel="tvbjade.unifitv">
@@ -3293,11 +3293,11 @@
     <episode-num system="onscreen">S1E2245</episode-num>
   </programme>
   <programme start="20261019050000 +0000" stop="20261019052500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Star Weekly</title>
-    <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
+    <title lang="en">Try It? Really? (Sr.2)</title>
+    <desc lang="en">Elena Kong once again leads the team, joining forces with Cheung Chun-long, Chu Man-han, Ng Yip-kwan, and Tseng Zhan-wang to form the "Try It Out Team," returning with acclaim after the hit first season and enthusiastic praise from netizens. This new in-depth exploration of Taiwan will see the team continue their relaxed, authentic, and down-to-earth style, guiding viewers deep into the island's heart. The team travels to Kaohsiung, Tainan, and Taipei, continuing the show's spirit by uncovering controversial shops with polarized online reviews, as well as hidden gems and little-known experiences tucked away in the city's corners. The team is committed to presenting the most genuine on-site feedback, aiming to create a practical travel guide to Taiwan that avoids pitfalls for viewers.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.44.</episode-num>
-    <episode-num system="onscreen">S1E45</episode-num>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261019052500 +0000" stop="20261019061000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
@@ -3390,7 +3390,7 @@
   </programme>
   <programme start="20261019143500 +0000" stop="20261019150500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Feast Duel</title>
-    <desc lang="en">Hosted by Moses Chan and Katy Kung, Big Feast Duel follows a team of food enthusiasts and celebrity judges exploring iconic eateries and signature dishes across the Greater Bay Area to crown the region's top culinary spots.</desc>
+    <desc lang="en">With expert evaluations from renowned chefs and rigorous testing from food connoisseurs, forty restaurants compete to become the top ten culinary representatives! TV King Moses Chan and TV Queen Katy Kung transform into "Food Guru," meticulously selecting the strongest food guide for the Greater Bay Area based on ten themes including baked pork chop rice, wonton noodles, French toast, roast pigeon, hamburgers, and shrimp dumplings. The team delves into the heart of the restaurants, uncovering their little-known culinary stories. A tasting team composed of renowned chefs, well-known food critics, and discerning celebrities will also secretly visit restaurants, bringing back their honest reviews to the studio. After a round of debate and critique, the top-rated restaurants for each theme will be crowned! Viewers can also vote for their "favorite dish."</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
