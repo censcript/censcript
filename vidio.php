@@ -13939,12 +13939,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261018201500 +0000" stop="20261018235500 +0000">
+  <programme channel="6685" start="20261018201500 +0000" stop="20261018233500 +0000">
     <title lang="id">Los Angeles Chargers vs Kansas City Chiefs - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Los Angeles Chargers vs Kansas City Chiefs - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/33RraMfcSvSiUo24c2q6EjSlz-A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385229/ed7835.jpg"/>
   </programme>
-  <programme channel="6685" start="20261019003000 +0000" stop="20261019010000 +0000">
+  <programme channel="6685" start="20261018233500 +0000" stop="20261019010000 +0000">
     <title lang="id">Highlight - Matchday 5 : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">Highlight - Matchday 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>

@@ -4,28 +4,28 @@
     <programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="VTV1 HD.mytv">
         <title> Chống gian lận-Bảo vệ người dùng: Siêu lợi nhuận từ sơn giả </title>
     </programme>
-    <programme start="20261019003000 +0000" stop="20261019004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019003000 +0000" stop="20261019004400 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu: Những người trở về </title>
     </programme>
-    <programme start="20261019004500 +0000" stop="20261019011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019004400 +0000" stop="20261019011100 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20261019011000 +0000" stop="20261019020000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019011100 +0000" stop="20261019020000 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Sử dụng pin lithium an toàn </title>
     </programme>
     <programme start="20261019020000 +0000" stop="20261019023000 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Người Bahnar bên dòng Đắk Bla </title>
     </programme>
-    <programme start="20261019023000 +0000" stop="20261019024500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019023000 +0000" stop="20261019024400 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Giải mã những cơn đau đầu </title>
     </programme>
-    <programme start="20261019024500 +0000" stop="20261019033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019024400 +0000" stop="20261019033000 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Không ngại cưới, chỉ cần 1 lý do - Tập 31 </title>
     </programme>
-    <programme start="20261019033000 +0000" stop="20261019041500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019033000 +0000" stop="20261019041400 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Không ngại cưới, chỉ cần 1 lý do - Tập 32 </title>
     </programme>
-    <programme start="20261019041500 +0000" stop="20261019050500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261019041400 +0000" stop="20261019050500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Sơn La bên dòng suối Chiến </title>
     </programme>
     <programme start="20261019050500 +0000" stop="20261019051000 +0000" channel="VTV1 HD.mytv">

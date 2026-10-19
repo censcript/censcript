@@ -608,10 +608,10 @@
         <title>Headline News</title>
     </programme>
     <programme start="20261018160000 +0000" stop="20261019160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st October, Wednesday 7.20pm. Singapore Premier League 2026/2027</title>
+        <title>No Programme available now. Next Broadcast on 24th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
     </programme>
     <programme start="20261019160000 +0000" stop="20261020160000 +0000" channel="spl01.mewatch">
-        <title>No Programme available now. Next Broadcast on 21st October, Wednesday 7.20pm. Singapore Premier League 2026/2027</title>
+        <title>No Programme available now. Next Broadcast on 24th October, Saturday 7.20pm. Singapore Premier League 2026/2027</title>
     </programme>
     <programme start="20261018160000 +0000" stop="20261019160000 +0000" channel="spl02.mewatch">
         <title>No Programme available now. Next Broadcast on 25th October, Sunday 7.20pm. Singapore Premier League 2026/2027</title>
