@@ -23,7 +23,7 @@
 <title>Terikat Janji (RCTI)</title>
 </programme>
 <programme start="20261019133000 +0000" stop="20261019150000 +0000" channel="RCTI.vision">
-<title>Terbaik Itu Kamu</title>
+<title>Terbaik Itu Kamu (RCTI)</title>
 </programme>
 <programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="RCTI.vision">
 <title>Foto Tanpa Nama</title>
@@ -104,10 +104,10 @@
 <title>Ketawa Dimana Aja</title>
 </programme>
 <programme start="20261019170000 +0000" stop="20261019190000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20261019190000 +0000" stop="20261019230000 +0000" channel="MNCTV.vision">
-<title>Suparman Reborn</title>
+<title>Suparman Reborn 2</title>
 </programme>
 <programme start="20261019230000 +0000" stop="20261020000000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
@@ -320,16 +320,16 @@
 <title>SINDO Siang</title>
 </programme>
 <programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="SindoNews.vision">
-<title>iNews Today</title>
+<title>SINDO Today</title>
 </programme>
 <programme start="20261019060000 +0000" stop="20261019063000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
 <programme start="20261019063000 +0000" stop="20261019070000 +0000" channel="SindoNews.vision">
-<title>SINDO Today</title>
+<title>SINDO Siang</title>
 </programme>
 <programme start="20261019070000 +0000" stop="20261019083000 +0000" channel="SindoNews.vision">
-<title>iNews Siang</title>
+<title>To The Point</title>
 </programme>
 <programme start="20261019083000 +0000" stop="20261019090000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
@@ -344,7 +344,7 @@
 <title>SINDO Prime</title>
 </programme>
 <programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="SindoNews.vision">
-<title>iNews Files</title>
+<title>Beat The Giant</title>
 </programme>
 <programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="SindoNews.vision">
 <title>SINDO Files</title>
@@ -395,16 +395,16 @@
 <title>SINDO Siang</title>
 </programme>
 <programme start="20261020050000 +0000" stop="20261020060000 +0000" channel="SindoNews.vision">
-<title>iNews Today</title>
+<title>SINDO Today</title>
 </programme>
 <programme start="20261020060000 +0000" stop="20261020063000 +0000" channel="SindoNews.vision">
 <title>Lintas iNews Siang</title>
 </programme>
-<programme start="20261020063000 +0000" stop="20261020070000 +0000" channel="SindoNews.vision">
-<title>SINDO Today</title>
+<programme start="20261020063000 +0000" stop="20261020073000 +0000" channel="SindoNews.vision">
+<title>SINDO Siang</title>
 </programme>
-<programme start="20261020070000 +0000" stop="20261020083000 +0000" channel="SindoNews.vision">
-<title>iNews Siang</title>
+<programme start="20261020073000 +0000" stop="20261020083000 +0000" channel="SindoNews.vision">
+<title>Beat The Giant</title>
 </programme>
 <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="SindoNews.vision">
 <title>Special Report</title>
@@ -652,20 +652,11 @@
 <programme start="20261019093000 +0000" stop="20261019104500 +0000" channel="ANTV.vision">
 <title>Naagin 7</title>
 </programme>
-<programme start="20261019104500 +0000" stop="20261019131500 +0000" channel="ANTV.vision">
-<title>Berkelana</title>
-</programme>
 <programme start="20261019131500 +0000" stop="20261019150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
 <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
-</programme>
-<programme start="20261019153000 +0000" stop="20261019173000 +0000" channel="ANTV.vision">
-<title>Sudah Pasti Tahan</title>
-</programme>
-<programme start="20261019173000 +0000" stop="20261019190000 +0000" channel="ANTV.vision">
-<title>The Touch</title>
 </programme>
 <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -698,127 +689,100 @@
 <title>Naagin 1</title>
 </programme>
 <programme start="20261020104500 +0000" stop="20261020131500 +0000" channel="ANTV.vision">
-<title>Berkelana 2</title>
+<title>Pengabdian</title>
 </programme>
-<programme start="20261019000000 +0000" stop="20261019003000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261018220000 +0000" stop="20261019023000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20261019003000 +0000" stop="20261019010000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019023000 +0000" stop="20261019030000 +0000" channel="RTV.vision">
+<title>Will Sliney&#039;s Storytellers</title>
 </programme>
-<programme start="20261019010000 +0000" stop="20261019013000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019030000 +0000" stop="20261019044500 +0000" channel="RTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20261019013000 +0000" stop="20261019020000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019044500 +0000" stop="20261019054500 +0000" channel="RTV.vision">
+<title>Blox Buster</title>
 </programme>
-<programme start="20261019020000 +0000" stop="20261019033000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019054500 +0000" stop="20261019061500 +0000" channel="RTV.vision">
+<title>Tawa Satwa</title>
 </programme>
-<programme start="20261019033000 +0000" stop="20261019040000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261019060000 +0000" stop="20261019073000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261019073000 +0000" stop="20261019080000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261019080000 +0000" stop="20261019083000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019061500 +0000" stop="20261019083000 +0000" channel="RTV.vision">
+<title>SUPER WINGS</title>
 </programme>
 <programme start="20261019083000 +0000" stop="20261019093000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Secret Jouju Bijou Of Star</title>
 </programme>
-<programme start="20261019093000 +0000" stop="20261019100000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019093000 +0000" stop="20261019103000 +0000" channel="RTV.vision">
+<title>Teletubbies</title>
 </programme>
-<programme start="20261019100000 +0000" stop="20261019110000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019103000 +0000" stop="20261019113000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20261019110000 +0000" stop="20261019130000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019113000 +0000" stop="20261019130000 +0000" channel="RTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>
 <programme start="20261019130000 +0000" stop="20261019143000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>EJEN ALI</title>
 </programme>
 <programme start="20261019143000 +0000" stop="20261019150000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Harapan Indah</title>
 </programme>
 <programme start="20261019150000 +0000" stop="20261019153000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Terkepo-Kepo</title>
 </programme>
 <programme start="20261019153000 +0000" stop="20261019160000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Lensa Indonesia Malam</title>
 </programme>
 <programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Canda Empire</title>
 </programme>
-<programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019170000 +0000" stop="20261019173000 +0000" channel="RTV.vision">
+<title>Ijin, Ndan!</title>
+</programme>
+<programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="RTV.vision">
+<title>KOKOM (Kompilasi Komedi)</title>
 </programme>
 <programme start="20261019180000 +0000" stop="20261019183000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Cahaya Bagi Negeri</title>
 </programme>
 <programme start="20261019183000 +0000" stop="20261019200000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Movinesia</title>
 </programme>
 <programme start="20261019200000 +0000" stop="20261019203000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Ustadz On The Road</title>
 </programme>
-<programme start="20261019203000 +0000" stop="20261019213000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019203000 +0000" stop="20261019220000 +0000" channel="RTV.vision">
+<title>Robocar Poli</title>
 </programme>
-<programme start="20261019213000 +0000" stop="20261019220000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261019220000 +0000" stop="20261020023000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20261019220000 +0000" stop="20261019233000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020023000 +0000" stop="20261020030000 +0000" channel="RTV.vision">
+<title>Will Sliney&#039;s Storytellers</title>
 </programme>
-<programme start="20261019233000 +0000" stop="20261020000000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020030000 +0000" stop="20261020044500 +0000" channel="RTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>
-<programme start="20261020000000 +0000" stop="20261020010000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020044500 +0000" stop="20261020054500 +0000" channel="RTV.vision">
+<title>Blox Buster</title>
 </programme>
-<programme start="20261020010000 +0000" stop="20261020013000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020054500 +0000" stop="20261020061500 +0000" channel="RTV.vision">
+<title>Tawa Satwa</title>
 </programme>
-<programme start="20261020013000 +0000" stop="20261020020000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261020020000 +0000" stop="20261020033000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261020033000 +0000" stop="20261020040000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261020040000 +0000" stop="20261020060000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261020060000 +0000" stop="20261020073000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261020073000 +0000" stop="20261020080000 +0000" channel="RTV.vision">
-<title>RTV</title>
-</programme>
-<programme start="20261020080000 +0000" stop="20261020083000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020061500 +0000" stop="20261020083000 +0000" channel="RTV.vision">
+<title>SUPER WINGS</title>
 </programme>
 <programme start="20261020083000 +0000" stop="20261020093000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<title>Secret Jouju Bijou Of Star</title>
 </programme>
-<programme start="20261020093000 +0000" stop="20261020100000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020093000 +0000" stop="20261020103000 +0000" channel="RTV.vision">
+<title>Teletubbies</title>
 </programme>
-<programme start="20261020100000 +0000" stop="20261020110000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020103000 +0000" stop="20261020113000 +0000" channel="RTV.vision">
+<title>Bread Barbershop</title>
 </programme>
-<programme start="20261020110000 +0000" stop="20261020130000 +0000" channel="RTV.vision">
-<title>RTV</title>
+<programme start="20261020113000 +0000" stop="20261020130000 +0000" channel="RTV.vision">
+<title>Adit Sopo Jarwo</title>
 </programme>
 <programme start="20261018233000 +0000" stop="20261019013000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Pagi</title>
@@ -849,12 +813,6 @@
 </programme>
 <programme start="20261019110000 +0000" stop="20261019120000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20261019120000 +0000" stop="20261019140000 +0000" channel="TVOne.vision">
-<title>Talkshow Spesial</title>
-</programme>
-<programme start="20261019140000 +0000" stop="20261019150000 +0000" channel="TVOne.vision">
-<title>Bimteknas PKS 2026</title>
 </programme>
 <programme start="20261019150000 +0000" stop="20261019160000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1497,4 +1455,46 @@
 </programme>
 <programme start="20261020103000 +0000" stop="20261020120000 +0000" channel="BTV.vision">
 <title>BTV</title>
+</programme>
+<programme start="20261019000000 +0000" stop="20261019010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
+</programme>
+<programme start="20261019010000 +0000" stop="20261019020000 +0000" channel="TVRI.vision">
+<title>Bersama Perempuan</title>
+</programme>
+<programme start="20261019020000 +0000" stop="20261019020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261019020300 +0000" stop="20261019023000 +0000" channel="TVRI.vision">
+<title>Sepiring Rasa</title>
+</programme>
+<programme start="20261019023000 +0000" stop="20261019030000 +0000" channel="TVRI.vision">
+<title>Mimbar Agama Katolik</title>
+</programme>
+<programme start="20261019030000 +0000" stop="20261019030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261019030300 +0000" stop="20261019033000 +0000" channel="TVRI.vision">
+<title>Pesona Indonesia</title>
+</programme>
+<programme start="20261019033000 +0000" stop="20261019040000 +0000" channel="TVRI.vision">
+<title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20261019040000 +0000" stop="20261019040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261019040300 +0000" stop="20261019050000 +0000" channel="TVRI.vision">
+<title>Seblak Show</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="TVRI.vision">
+<title>Berita Siang</title>
+</programme>
+<programme start="20261019060000 +0000" stop="20261019070000 +0000" channel="TVRI.vision">
+<title>Marbot Ali</title>
+</programme>
+<programme start="20261019070000 +0000" stop="20261019070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261019070300 +0000" stop="20261019080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn S3</title>
 </programme>

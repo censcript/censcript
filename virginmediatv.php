@@ -3859,7 +3859,10 @@
 <programme start="20261019034500 +0000" stop="20261019040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>NFL Football - Indianapolis Colts at Washington Commanders</title>
 </programme>
-<programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261019071500 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4070,7 +4073,7 @@
     <title>Test Cricket - 3rd Test, Day 1: England v Pakistan</title>
 </programme>
 <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Test Cricket - 2nd Test, Day 2: South Africa v Australia</title>
+    <title>ICC World Cup - Countdown To World Cup</title>
 </programme>
 <programme start="20261018233000 +0000" stop="20261019003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Korea Championship, LET Golf - Highlights</title>
@@ -4496,7 +4499,7 @@
     <title>Premier League - Everton v Chelsea</title>
 </programme>
 <programme start="20261019120000 +0000" stop="20261019140000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 1: Wu Yize v Scott Donaldson</title>
+    <title>Live: Northern Ireland Open Snooker - Round 1: Barry Hawkins v Daniel Wells</title>
 </programme>
 <programme start="20261019140000 +0000" stop="20261019160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Northern Ireland Open Snooker - Round 1: Ronnie O&#039;Sullivan v Ka Wai Cheung</title>
@@ -4628,7 +4631,7 @@
     <title>FIM Superbike World Championship Motorcycle Racing - Spanish Round: Superbike Superpole Race</title>
 </programme>
 <programme start="20261019120000 +0000" stop="20261019140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 1: Wu Yize v Scott Donaldson</title>
+    <title>Live: Northern Ireland Open Snooker - Round 1: Barry Hawkins v Daniel Wells</title>
 </programme>
 <programme start="20261019140000 +0000" stop="20261019160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: Northern Ireland Open Snooker - Round 1: Ronnie O&#039;Sullivan v Ka Wai Cheung</title>
@@ -4720,7 +4723,10 @@
 <programme start="20261019034500 +0000" stop="20261019040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>NFL Football - Indianapolis Colts at Washington Commanders</title>
 </programme>
-<programme start="20261019040000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261019071500 +0000" stop="20261019160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4931,7 +4937,7 @@
     <title>Test Cricket - 3rd Test, Day 1: England v Pakistan</title>
 </programme>
 <programme start="20261019170000 +0000" stop="20261019180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Test Cricket - 2nd Test, Day 2: South Africa v Australia</title>
+    <title>ICC World Cup - Countdown To World Cup</title>
 </programme>
 <programme start="20261018233000 +0000" stop="20261019003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Korea Championship, LET Golf - Highlights</title>
@@ -6193,7 +6199,10 @@
 <programme start="20261018175800 +0000" stop="20261019015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261019015800 +0000" stop="20261019060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261019015800 +0000" stop="20261019050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261019050000 +0000" stop="20261019060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261019115500 +0000" stop="20261019121000 +0000" channel="CBBC.virginmediatv">
@@ -7501,17 +7510,44 @@
 <programme start="20261019040000 +0000" stop="20261019050000 +0000" channel="DCTV.virginmediatv">
     <title>Off Air</title>
 </programme>
-<programme start="20261019050000 +0000" stop="20261019090000 +0000" channel="DCTV.virginmediatv">
+<programme start="20261019050000 +0000" stop="20261019055900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20261019055900 +0000" stop="20261019070400 +0000" channel="DCTV.virginmediatv">
+    <title>Troubled Waters</title>
+</programme>
+<programme start="20261019120000 +0000" stop="20261019125900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20261019125900 +0000" stop="20261019130000 +0000" channel="DCTV.virginmediatv">
+    <title>A Finglas Story - Episode 1</title>
+</programme>
+<programme start="20261019130000 +0000" stop="20261019132900 +0000" channel="DCTV.virginmediatv">
     <title>To Be Announced</title>
 </programme>
-<programme start="20261019090000 +0000" stop="20261019130000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20261019132900 +0000" stop="20261019140300 +0000" channel="DCTV.virginmediatv">
+    <title>Fermanagh Youth Environment - Water, Wetlands and Ecosystems</title>
 </programme>
-<programme start="20261019130000 +0000" stop="20261019170000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20261019140300 +0000" stop="20261019143100 +0000" channel="DCTV.virginmediatv">
+    <title>Access for All</title>
 </programme>
-<programme start="20261019170000 +0000" stop="20261019210000 +0000" channel="DCTV.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20261019143100 +0000" stop="20261019150100 +0000" channel="DCTV.virginmediatv">
+    <title>Journey of a Joke - Episode 2</title>
+</programme>
+<programme start="20261019150100 +0000" stop="20261019152800 +0000" channel="DCTV.virginmediatv">
+    <title>Really Useful Guides - Episode 1</title>
+</programme>
+<programme start="20261019152800 +0000" stop="20261019163000 +0000" channel="DCTV.virginmediatv">
+    <title>Robert Ballagh - The Tapestry Documentary</title>
+</programme>
+<programme start="20261019163000 +0000" stop="20261019170000 +0000" channel="DCTV.virginmediatv">
+    <title>Bayside Stories</title>
+</programme>
+<programme start="20261019170000 +0000" stop="20261019175900 +0000" channel="DCTV.virginmediatv">
+    <title>Democracy Now!</title>
+</programme>
+<programme start="20261019175900 +0000" stop="20261019185800 +0000" channel="DCTV.virginmediatv">
+    <title>DCTV - Supporting Irish Music</title>
 </programme>
 <programme start="20261018210000 +0000" stop="20261019010000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>

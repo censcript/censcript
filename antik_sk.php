@@ -628,13 +628,13 @@
   <programme start="20261020221500 +0000" stop="20261020232500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Love Island VI (37)</title>
   </programme>
-  <programme start="20261020232500 +0000" stop="20261021002500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261020232500 +0000" stop="20261021002000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXIII (8)</title>
   </programme>
-  <programme start="20261021002500 +0000" stop="20261021011500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261021002000 +0000" stop="20261021011000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXIII (9)</title>
   </programme>
-  <programme start="20261021011500 +0000" stop="20261021023000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261021011000 +0000" stop="20261021023000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
   <programme start="20261021023000 +0000" stop="20261021032000 +0000" channel="Markíza +1.webtv.sk">
