@@ -661,17 +661,17 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261020075700 +0000" stop="20261020104200 +0000">
+  <programme channel="205" start="20261020075700 +0000" stop="20261020103200 +0000">
     <title lang="id">Isenmulang Kalteng FC vs Java United FC - BRI Super League</title>
     <desc lang="id">Mampukah ketajaman lini serang Java United bongkar pertahanan rapat Isenmulang Kalteng?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XSVHl_z-cyVGA3nXUGNz7l_2-9k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385684/b05282.jpg"/>
   </programme>
-  <programme channel="205" start="20261020104200 +0000" stop="20261020113000 +0000">
+  <programme channel="205" start="20261020103200 +0000" stop="20261020113400 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261020113000 +0000" stop="20261020141800 +0000">
+  <programme channel="205" start="20261020113400 +0000" stop="20261020141800 +0000">
     <title lang="id">Dewa United Banten FC vs PERSIJAP Jepara - BRI Super League</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -6710,23 +6710,23 @@
     <title lang="id">Suci</title>
     <icon src="https://thumbor.prod.vidiocdn.com/WF3_Z5GB2Z2YlHbrFpXxUiX93Xs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408082/7d14f5.jpg"/>
   </programme>
-  <programme channel="875" start="20261021035500 +0000" stop="20261021045500 +0000">
+  <programme channel="875" start="20261021035500 +0000" stop="20261021050000 +0000">
     <title lang="id">Mimpi Manis</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021045500 +0000" stop="20261021055500 +0000">
+  <programme channel="875" start="20261021050000 +0000" stop="20261021060000 +0000">
     <title lang="id">Resep Chef Devina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021055500 +0000" stop="20261021073000 +0000">
+  <programme channel="875" start="20261021060000 +0000" stop="20261021073000 +0000">
     <title lang="id">Makan Enak</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021073000 +0000" stop="20261021090000 +0000">
+  <programme channel="875" start="20261021073000 +0000" stop="20261021090500 +0000">
     <title lang="id">Laper Mata</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021090000 +0000" stop="20261021103500 +0000">
+  <programme channel="875" start="20261021090500 +0000" stop="20261021103500 +0000">
     <title lang="id">Masak Gesss!!!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6735,7 +6735,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261021120000 +0000" stop="20261021130000 +0000">
-    <title lang="id">Md Series: Rasa Rindu</title>
+    <title lang="id">Md Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261021130000 +0000" stop="20261021140000 +0000">
@@ -6750,15 +6750,15 @@
     <title lang="id">Jatanras</title>
     <icon src="https://thumbor.prod.vidiocdn.com/mQJh_ddQq5Fbw-mVV-DqbAWR184=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382345/4dcdfe.jpg"/>
   </programme>
-  <programme channel="875" start="20261021160500 +0000" stop="20261021165500 +0000">
+  <programme channel="875" start="20261021160500 +0000" stop="20261021170500 +0000">
     <title lang="id">Customs Protection</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021165500 +0000" stop="20261021181500 +0000">
-    <title lang="id">86</title>
+  <programme channel="875" start="20261021160500 +0000" stop="20261021170500 +0000">
+    <title lang="id">Customs Protection</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021165500 +0000" stop="20261021181500 +0000">
+  <programme channel="875" start="20261021170500 +0000" stop="20261021181500 +0000">
     <title lang="id">86</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6770,11 +6770,11 @@
     <title lang="id">Mimpi Metropolitan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021195000 +0000" stop="20261021205500 +0000">
+  <programme channel="875" start="20261021195000 +0000" stop="20261021210500 +0000">
     <title lang="id">Di Balik Mitos</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261021205500 +0000" stop="20261021231500 +0000">
+  <programme channel="875" start="20261021210500 +0000" stop="20261021231500 +0000">
     <title lang="id">Top Spot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6794,27 +6794,27 @@
     <title lang="id">Sensasihot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022025500 +0000" stop="20261022035500 +0000">
+  <programme channel="875" start="20261022025500 +0000" stop="20261022040000 +0000">
     <title lang="id">Suci</title>
     <icon src="https://thumbor.prod.vidiocdn.com/WF3_Z5GB2Z2YlHbrFpXxUiX93Xs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408082/7d14f5.jpg"/>
   </programme>
-  <programme channel="875" start="20261022035500 +0000" stop="20261022045500 +0000">
+  <programme channel="875" start="20261022040000 +0000" stop="20261022050000 +0000">
     <title lang="id">Mimpi Manis</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022045500 +0000" stop="20261022055500 +0000">
+  <programme channel="875" start="20261022050000 +0000" stop="20261022060000 +0000">
     <title lang="id">Resep Chef Devina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022055500 +0000" stop="20261022073000 +0000">
+  <programme channel="875" start="20261022060000 +0000" stop="20261022073000 +0000">
     <title lang="id">Makan Enak</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022073000 +0000" stop="20261022090000 +0000">
+  <programme channel="875" start="20261022073000 +0000" stop="20261022090500 +0000">
     <title lang="id">Laper Mata</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022090000 +0000" stop="20261022103500 +0000">
+  <programme channel="875" start="20261022090500 +0000" stop="20261022103500 +0000">
     <title lang="id">Masak Gesss!!!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6823,26 +6823,26 @@
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261022120000 +0000" stop="20261022130000 +0000">
-    <title lang="id">Md Series: Rasa Rindu</title>
+    <title lang="id">Md Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261022130000 +0000" stop="20261022140000 +0000">
     <title lang="id">Md Series: Suara Hati</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022140000 +0000" stop="20261022152500 +0000">
+  <programme channel="875" start="20261022140000 +0000" stop="20261022154000 +0000">
     <title lang="id">Gala Cinema Md: Lawang Sewu: Dendam Kuntilanak</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022152500 +0000" stop="20261022162500 +0000">
+  <programme channel="875" start="20261022154000 +0000" stop="20261022163500 +0000">
     <title lang="id">Customs Protection</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022162500 +0000" stop="20261022181500 +0000">
+  <programme channel="875" start="20261022163500 +0000" stop="20261022181500 +0000">
     <title lang="id">86</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022162500 +0000" stop="20261022181500 +0000">
+  <programme channel="875" start="20261022163500 +0000" stop="20261022181500 +0000">
     <title lang="id">86</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6854,11 +6854,11 @@
     <title lang="id">Mimpi Metropolitan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022195000 +0000" stop="20261022205500 +0000">
+  <programme channel="875" start="20261022195000 +0000" stop="20261022210500 +0000">
     <title lang="id">Di Balik Mitos</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261022205500 +0000" stop="20261022231500 +0000">
+  <programme channel="875" start="20261022210500 +0000" stop="20261022231500 +0000">
     <title lang="id">Top Spot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6878,27 +6878,27 @@
     <title lang="id">Sensasihot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023025500 +0000" stop="20261023035500 +0000">
+  <programme channel="875" start="20261023025500 +0000" stop="20261023040000 +0000">
     <title lang="id">Suci</title>
     <icon src="https://thumbor.prod.vidiocdn.com/WF3_Z5GB2Z2YlHbrFpXxUiX93Xs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408082/7d14f5.jpg"/>
   </programme>
-  <programme channel="875" start="20261023035500 +0000" stop="20261023045500 +0000">
+  <programme channel="875" start="20261023040000 +0000" stop="20261023050000 +0000">
     <title lang="id">Mimpi Manis</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023045500 +0000" stop="20261023055500 +0000">
+  <programme channel="875" start="20261023050000 +0000" stop="20261023060000 +0000">
     <title lang="id">Resep Chef Devina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023055500 +0000" stop="20261023073000 +0000">
+  <programme channel="875" start="20261023060000 +0000" stop="20261023073000 +0000">
     <title lang="id">Makan Enak</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023073000 +0000" stop="20261023090000 +0000">
+  <programme channel="875" start="20261023073000 +0000" stop="20261023090500 +0000">
     <title lang="id">Laper Mata</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023090000 +0000" stop="20261023103500 +0000">
+  <programme channel="875" start="20261023090500 +0000" stop="20261023103500 +0000">
     <title lang="id">Masak Gesss!!!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6907,26 +6907,26 @@
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261023120000 +0000" stop="20261023130000 +0000">
-    <title lang="id">Md Series: Rasa Rindu</title>
+    <title lang="id">Md Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261023130000 +0000" stop="20261023140000 +0000">
     <title lang="id">Md Series: Suara Hati</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023140000 +0000" stop="20261023152500 +0000">
+  <programme channel="875" start="20261023140000 +0000" stop="20261023154000 +0000">
     <title lang="id">Gala Cinema Md: Komedi Moderen Gokil!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023152500 +0000" stop="20261023162500 +0000">
+  <programme channel="875" start="20261023154000 +0000" stop="20261023163500 +0000">
     <title lang="id">Customs Protection</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023162500 +0000" stop="20261023181500 +0000">
+  <programme channel="875" start="20261023163500 +0000" stop="20261023181500 +0000">
     <title lang="id">86</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261023162500 +0000" stop="20261023181500 +0000">
+  <programme channel="875" start="20261023163500 +0000" stop="20261023181500 +0000">
     <title lang="id">86</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -6991,7 +6991,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261024120500 +0000" stop="20261024130000 +0000">
-    <title lang="id">Md Series: Rasa Rindu</title>
+    <title lang="id">Md Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261024130000 +0000" stop="20261024140000 +0000">
@@ -7079,7 +7079,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261025120500 +0000" stop="20261025130000 +0000">
-    <title lang="id">Md Series: Rasa Rindu</title>
+    <title lang="id">Md Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261025130000 +0000" stop="20261025140000 +0000">
@@ -17769,7 +17769,7 @@
   </programme>
   <programme channel="17139" start="20261020175500 +0000" stop="20261020200000 +0000">
     <title lang="id">Al-Nassr vs NEOM SC - ROSHN Saudi League</title>
-    <desc lang="id">Nonton streaming pertandingan seru Al-Nassr vs NEOM SC - ROSHN Saudi League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah ketajaman lini serang Al-Nassr bongkar pertahanan disiplin NEOM SC?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ao_-QkuNesXKK7CQekYAlO4Tgj8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385234/a6b054.jpg"/>
   </programme>
   <programme channel="17139" start="20261020200000 +0000" stop="20261021000000 +0000">
@@ -18292,13 +18292,8 @@
     <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261021121500 +0000" stop="20261021124500 +0000">
-    <title lang="id">Highlights : 2026 Longines Global Champions Tour, Rome</title>
-    <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261021124500 +0000" stop="20261021151500 +0000">
-    <title lang="id">Tampa Bay Rays vs Cleveland Guardians : MLB 2026 Postseason: AL Championship Series Game 7</title>
+  <programme channel="17140" start="20261021121500 +0000" stop="20261021151500 +0000">
+    <title lang="id">Milwaukee Brewers vs Los Angeles Dodgers : MLB 2026 Postseason: NL Championship Series Game 2</title>
     <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
@@ -18347,9 +18342,14 @@
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261022050000 +0000" stop="20261022084500 +0000">
+  <programme channel="17140" start="20261022050000 +0000" stop="20261022080000 +0000">
     <title lang="id">Freeway Insurance 500 : 2026 NASCAR Cup Series</title>
     <desc lang="id">Feel the adrenaline as NASCAR's top drivers battle wheel-to-wheel across iconic tracks, delivering high-speed action, bold overtakes, and championship drama all season long.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261022080000 +0000" stop="20261022084500 +0000">
+    <title lang="id">Ep1 : 2026 MotoGP Factory Floor: the Red Bull KTM vlog</title>
+    <desc lang="id">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261022084500 +0000" stop="20261022113000 +0000">
@@ -18392,12 +18392,12 @@
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261022193000 +0000" stop="20261022200000 +0000">
+  <programme channel="17140" start="20261022193000 +0000" stop="20261022200500 +0000">
     <title lang="id">Highlights : 2026 Global Champions League, Rome</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261022200000 +0000" stop="20261022210000 +0000">
+  <programme channel="17140" start="20261022200500 +0000" stop="20261022210000 +0000">
     <title lang="id">Race 1 : 2026 Moto4 Northern Cup Rd 7 Assen</title>
     <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -18432,39 +18432,39 @@
     <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261023060000 +0000" stop="20261023070000 +0000">
+  <programme channel="17140" start="20261023060000 +0000" stop="20261023064500 +0000">
     <title lang="id">Race 2 : 2026 Moto4 British Cup Rd 8 Donington</title>
     <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261023070000 +0000" stop="20261023080000 +0000">
+  <programme channel="17140" start="20261023064500 +0000" stop="20261023073500 +0000">
     <title lang="id">Race 3 : 2026 Moto4 British Cup Rd 8 Donington</title>
     <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261023080000 +0000" stop="20261023090000 +0000">
-    <title lang="id">Highlights : 2026 WorldSBK: Rd 12 Pirelli Spanish Round</title>
-    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261023090000 +0000" stop="20261023103000 +0000">
-    <title lang="id">Rd 1 Thrifty Drivers vs Cartivo Movers : 2026 PYCL, Philippines S2</title>
-    <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261023103000 +0000" stop="20261023131500 +0000">
-    <title lang="id">MLB 2026 Postseason: AL Championship Series</title>
-    <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261023131500 +0000" stop="20261023151500 +0000">
+  <programme channel="17140" start="20261023073500 +0000" stop="20261023093000 +0000">
     <title lang="id">Global Champions League Round 1 : 2026 Longines Global Champions Tour, Cairo</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261023151500 +0000" stop="20261023164000 +0000">
+  <programme channel="17140" start="20261023093000 +0000" stop="20261023110000 +0000">
     <title lang="id">Global Champions League Round 2 : 2026 Longines Global Champions Tour, Cairo</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261023110000 +0000" stop="20261023132500 +0000">
+    <title lang="id">Tampa Bay Rays vs Cleveland Guardians : MLB 2026 Postseason: AL Championship Series Game 6</title>
+    <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261023132500 +0000" stop="20261023153000 +0000">
+    <title lang="id">MD 11 Al Faysaly vs Al Nassr : Roshn Saudi League 26/27</title>
+    <desc lang="id">The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261023153000 +0000" stop="20261023164000 +0000">
+    <title lang="id">Highlights : 2026 WorldSBK: Rd 12 Pirelli Spanish Round</title>
+    <desc lang="id">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261023164000 +0000" stop="20261023191500 +0000">
@@ -18517,27 +18517,32 @@
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024044500 +0000" stop="20261024064000 +0000">
-    <title lang="id">2015 Phillip Island : MotoGP Classic</title>
-    <desc lang="id">Experience the most memorable MotoGP races from 1992 to 2016. This classic collection revisits legendary battles, dramatic twists, and the riders who defined an era of two-wheeled greatness.</desc>
+  <programme channel="17140" start="20261024044500 +0000" stop="20261024055500 +0000">
+    <title lang="id">Ep 9 Ft. Worth : 2026 PBR: Team Series</title>
+    <desc lang="id">Elite bull riding teams go head-to-head in fast-paced 5-on-5 matchups, delivering fearless rides and intense competition in the race for the PBR Teams title.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024064000 +0000" stop="20261024080000 +0000">
-    <title lang="id">Round 16 Race : 2026 FIA TCR World Tour, Zhejiang</title>
-    <desc lang="id">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
+  <programme channel="17140" start="20261024055500 +0000" stop="20261024080000 +0000">
+    <title lang="id">Western Sydney Wanderers FC vs Auckland FC : A-League Men 26/27 MW 2</title>
+    <desc lang="id">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024080000 +0000" stop="20261024090000 +0000">
-    <title lang="id">Race 2 : 2026 WorldWCR: Rd 6 Pirelli Spanish Round</title>
-    <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261024090000 +0000" stop="20261024122000 +0000">
-    <title lang="id">Practice : 2026 MotoGP Rd 18 Grand Prix of Australia</title>
+  <programme channel="17140" start="20261024080000 +0000" stop="20261024083500 +0000">
+    <title lang="id">Grand Prix of Indonesia : 2026 MotoGP Rewind</title>
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024122000 +0000" stop="20261024150000 +0000">
+  <programme channel="17140" start="20261024083500 +0000" stop="20261024110000 +0000">
+    <title lang="id">Melbourne Victory vs Melbourne City FC : A-League Men 26/27 MW 2</title>
+    <desc lang="id">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261024110000 +0000" stop="20261024123000 +0000">
+    <title lang="id">Rd 1 Black Mamba Aces vs Thrifty Drivers : 2026 PYCL, Philippines S2</title>
+    <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261024123000 +0000" stop="20261024150000 +0000">
     <title lang="id">Grand Prix of Cairo : 2026 Longines Global Champions Tour, Cairo</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -18547,17 +18552,22 @@
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024153000 +0000" stop="20261024183000 +0000">
+  <programme channel="17140" start="20261024153000 +0000" stop="20261024181500 +0000">
     <title lang="id">Day 8 Session 2 Finals : WTT China Smash 2026</title>
     <desc lang="id">The world's top table tennis players compete for one of the sport's most prestigious titles, delivering world-class action, fierce rivalries, and championship drama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024153000 +0000" stop="20261024183000 +0000">
+  <programme channel="17140" start="20261024153000 +0000" stop="20261024181500 +0000">
     <title lang="id">Day 8 Session 2 Finals : WTT China Smash 2026</title>
     <desc lang="id">The world's top table tennis players compete for one of the sport's most prestigious titles, delivering world-class action, fierce rivalries, and championship drama.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024183000 +0000" stop="20261024193000 +0000">
+  <programme channel="17140" start="20261024181500 +0000" stop="20261024184500 +0000">
+    <title lang="id">Ep 5 : SailGP: Racing on the Edge S6</title>
+    <desc lang="id">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261024184500 +0000" stop="20261024193000 +0000">
     <title lang="id">Tissot Superpole : 2026 WorldWCR: Rd 6 Pirelli Spanish Round</title>
     <desc lang="id">The FIM Women's Circuit Racing World Championship, with six rounds in 2026, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -18607,44 +18617,39 @@
     <desc lang="id">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261025063000 +0000" stop="20261025090000 +0000">
+  <programme channel="17140" start="20261025063000 +0000" stop="20261025070000 +0000">
+    <title lang="id">Rewind Malaysia 2025 : 2026 MotoGP Asian Campaign</title>
+    <desc lang="id">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261025070000 +0000" stop="20261025083500 +0000">
+    <title lang="id">2015 Phillip Island : MotoGP Classic</title>
+    <desc lang="id">Experience the most memorable MotoGP races from 1992 to 2016. This classic collection revisits legendary battles, dramatic twists, and the riders who defined an era of two-wheeled greatness.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261025083500 +0000" stop="20261025110000 +0000">
     <title lang="id">CSI 5* : 2026 Longines Global Champions Tour, Cairo</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261025090000 +0000" stop="20261025103000 +0000">
-    <title lang="id">Rd 1 Cebuana Lhuillier Gems vs Dream Skin Radiants : 2026 PYCL, Philippines S2</title>
+  <programme channel="17140" start="20261025110000 +0000" stop="20261025123000 +0000">
+    <title lang="id">Rd 1 Cartivo Movers vs Dream Skin Radiants : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261025103000 +0000" stop="20261025151500 +0000">
+  <programme channel="17140" start="20261025123000 +0000" stop="20261025173000 +0000">
     <title lang="id">Moto3 Jr WCh/Moto2 ECh/Moto4 EC/Stock ECh : 2026 MotoJunior FIM World C'ship, Motor Valley and Emilia-Romagna</title>
     <desc lang="id">Rising young riders compete in this exciting junior championship, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261025151500 +0000" stop="20261025160000 +0000">
-    <title lang="id">Race 1 : 2026 Moto4 British Cup Rd 8 Donington</title>
-    <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
+  <programme channel="17140" start="20261025123000 +0000" stop="20261025173000 +0000">
+    <title lang="id">Moto3 Jr WCh/Moto2 ECh/Moto4 EC/Stock ECh : 2026 MotoJunior FIM World C'ship, Motor Valley and Emilia-Romagna</title>
+    <desc lang="id">Rising young riders compete in this exciting junior championship, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261025160000 +0000" stop="20261025164500 +0000">
-    <title lang="id">Race 2 : 2026 Moto4 British Cup Rd 8 Donington</title>
-    <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261025164500 +0000" stop="20261025173000 +0000">
-    <title lang="id">Race 3 : 2026 Moto4 British Cup Rd 8 Donington</title>
-    <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261025164500 +0000" stop="20261025173000 +0000">
-    <title lang="id">Race 3 : 2026 Moto4 British Cup Rd 8 Donington</title>
-    <desc lang="id">Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261025173000 +0000" stop="20261025220000 +0000">
-    <title lang="id">Yellawood 500 : 2026 NASCAR Cup Series</title>
-    <desc lang="id">Feel the adrenaline as NASCAR's top drivers battle wheel-to-wheel across iconic tracks, delivering high-speed action, bold overtakes, and championship drama all season long.</desc>
+  <programme channel="17140" start="20261025173000 +0000" stop="20261025180000 +0000">
+    <title lang="id">Rewind Malaysia 2025 : 2026 MotoGP Asian Campaign</title>
+    <desc lang="id">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="6362" start="20261019161500 +0000" stop="20261019174500 +0000">
@@ -18907,42 +18912,32 @@
     <desc lang="id">Judge Lee Han-young, who regains consciousness after an unjust death, returns to the past to punish the wrongdoers and change his fate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261022143000 +0000" stop="20261022160000 +0000">
+  <programme channel="6362" start="20261022143000 +0000" stop="20261022162000 +0000">
     <title lang="id">Space Rice Cake</title>
     <desc lang="id">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261022160000 +0000" stop="20261022172000 +0000">
+  <programme channel="6362" start="20261022162000 +0000" stop="20261022174000 +0000">
     <title lang="id">My Bias, My Boss Ep3</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261022160000 +0000" stop="20261022172000 +0000">
+  <programme channel="6362" start="20261022162000 +0000" stop="20261022174000 +0000">
     <title lang="id">My Bias, My Boss Ep3</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261022172000 +0000" stop="20261022184000 +0000">
+  <programme channel="6362" start="20261022174000 +0000" stop="20261022190000 +0000">
     <title lang="id">My Bias, My Boss Ep4</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261022184000 +0000" stop="20261022185500 +0000">
-    <title lang="id">You Can Cook With Sam Kim</title>
-    <desc lang="id">Star chef Sam Kim will teach you how to make all kinds of delicious dishes from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261022185500 +0000" stop="20261022191500 +0000">
-    <title lang="id">You Can Cook With Sam Kim</title>
-    <desc lang="id">Star chef Sam Kim will teach you how to make all kinds of delicious dishes from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261022191500 +0000" stop="20261022203000 +0000">
+  <programme channel="6362" start="20261022190000 +0000" stop="20261022201000 +0000">
     <title lang="id">The Judge Returns Ep7</title>
     <desc lang="id">Judge Lee Han-young, who regains consciousness after an unjust death, returns to the past to punish the wrongdoers and change his fate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261022203000 +0000" stop="20261022220000 +0000">
+  <programme channel="6362" start="20261022201000 +0000" stop="20261022220000 +0000">
     <title lang="id">Space Rice Cake</title>
     <desc lang="id">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
@@ -18972,12 +18967,12 @@
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023053500 +0000" stop="20261023070000 +0000">
+  <programme channel="6362" start="20261023053500 +0000" stop="20261023065500 +0000">
     <title lang="id">My Bias, My Boss Ep4</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023070000 +0000" stop="20261023090000 +0000">
+  <programme channel="6362" start="20261023065500 +0000" stop="20261023090000 +0000">
     <title lang="id">Fresh Off the Sea 3</title>
     <desc lang="id">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
@@ -18987,12 +18982,7 @@
     <desc lang="id">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tGmutFwUM_ED-m1XW2Y9cJ4GZZo=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/9136/walking-through-the-village-4f8c5c.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023100000 +0000" stop="20261023102000 +0000">
-    <title lang="id">You Can Cook With Sam Kim</title>
-    <desc lang="id">Star chef Sam Kim will teach you how to make all kinds of delicious dishes from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261023102000 +0000" stop="20261023115000 +0000">
+  <programme channel="6362" start="20261023100000 +0000" stop="20261023115000 +0000">
     <title lang="id">Space Rice Cake</title>
     <desc lang="id">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
@@ -19012,27 +19002,27 @@
     <desc lang="id">Four travelers embark on a two-week journey to four destinations with just one shared suitcase, turning every packing choice into a challenge, compromise and adventure.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023160000 +0000" stop="20261023173000 +0000">
+  <programme channel="6362" start="20261023160000 +0000" stop="20261023172000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023160000 +0000" stop="20261023173000 +0000">
+  <programme channel="6362" start="20261023160000 +0000" stop="20261023172000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023173000 +0000" stop="20261023190000 +0000">
+  <programme channel="6362" start="20261023172000 +0000" stop="20261023184000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023190000 +0000" stop="20261023191500 +0000">
-    <title lang="id">You Can Cook With Sam Kim</title>
-    <desc lang="id">Star chef Sam Kim will teach you how to make all kinds of delicious dishes from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+  <programme channel="6362" start="20261023184000 +0000" stop="20261023191000 +0000">
+    <title lang="id">Chansung's Cooking</title>
+    <desc lang="id">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261023191500 +0000" stop="20261023203000 +0000">
+  <programme channel="6362" start="20261023191000 +0000" stop="20261023203000 +0000">
     <title lang="id">The Judge Returns Ep8</title>
     <desc lang="id">Judge Lee Han-young, who regains consciousness after an unjust death, returns to the past to punish the wrongdoers and change his fate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
@@ -19067,32 +19057,27 @@
     <desc lang="id">Judge Lee Han-young, who regains consciousness after an unjust death, returns to the past to punish the wrongdoers and change his fate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024041500 +0000" stop="20261024054500 +0000">
+  <programme channel="6362" start="20261024041500 +0000" stop="20261024060500 +0000">
     <title lang="id">Space Rice Cake</title>
     <desc lang="id">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024054500 +0000" stop="20261024073500 +0000">
+  <programme channel="6362" start="20261024060500 +0000" stop="20261024075500 +0000">
     <title lang="id">3 Meals A Day : Light</title>
     <desc lang="id">3 Meals A Day returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024073500 +0000" stop="20261024091500 +0000">
+  <programme channel="6362" start="20261024075500 +0000" stop="20261024093500 +0000">
     <title lang="id">GBRB: Joy Pops Laugh Pops</title>
     <desc lang="id">Forget about farming or cooking, the GBRB trio are heading overseas this time! Join them on the exciting and bumpy freestyle trip in Mexico.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024091500 +0000" stop="20261024093000 +0000">
-    <title lang="id">You Can Cook With Sam Kim</title>
-    <desc lang="id">Star chef Sam Kim will teach you how to make all kinds of delicious dishes from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261024093000 +0000" stop="20261024103000 +0000">
+  <programme channel="6362" start="20261024093500 +0000" stop="20261024103500 +0000">
     <title lang="id">Walking Through the Village</title>
     <desc lang="id">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tGmutFwUM_ED-m1XW2Y9cJ4GZZo=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/9136/walking-through-the-village-4f8c5c.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024103000 +0000" stop="20261024120000 +0000">
+  <programme channel="6362" start="20261024103500 +0000" stop="20261024120000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
@@ -19102,44 +19087,44 @@
     <desc lang="id">Judge Lee Han-young, who regains consciousness after an unjust death, returns to the past to punish the wrongdoers and change his fate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024131500 +0000" stop="20261024151500 +0000">
+  <programme channel="6362" start="20261024131500 +0000" stop="20261024152000 +0000">
     <title lang="id">Fresh Off the Sea 3</title>
     <desc lang="id">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024151500 +0000" stop="20261024171500 +0000">
+  <programme channel="6362" start="20261024152000 +0000" stop="20261024172000 +0000">
     <title lang="id">Europe Outside Your Tent: Romantic Italy</title>
     <desc lang="id">Join veteran camper Ra Mi-ran as she leads a trio of rookie campers - Kwak Sun-young, Lee Joo-bin and Lee Se-young - on a romantic camping trip across Italy's hidden gems.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024151500 +0000" stop="20261024171500 +0000">
+  <programme channel="6362" start="20261024152000 +0000" stop="20261024172000 +0000">
     <title lang="id">Europe Outside Your Tent: Romantic Italy</title>
     <desc lang="id">Join veteran camper Ra Mi-ran as she leads a trio of rookie campers - Kwak Sun-young, Lee Joo-bin and Lee Se-young - on a romantic camping trip across Italy's hidden gems.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024171500 +0000" stop="20261024190500 +0000">
+  <programme channel="6362" start="20261024172000 +0000" stop="20261024191000 +0000">
     <title lang="id">3 Meals A Day : Light</title>
     <desc lang="id">3 Meals A Day returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024190500 +0000" stop="20261024203000 +0000">
+  <programme channel="6362" start="20261024191000 +0000" stop="20261024203500 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024203000 +0000" stop="20261024220000 +0000">
+  <programme channel="6362" start="20261024203500 +0000" stop="20261024220000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261024220000 +0000" stop="20261024223000 +0000">
-    <title lang="id">Chansung's Cooking</title>
-    <desc lang="id">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261024223000 +0000" stop="20261025003000 +0000">
+  <programme channel="6362" start="20261024220000 +0000" stop="20261025000000 +0000">
     <title lang="id">Europe Outside Your Tent: Romantic Italy</title>
     <desc lang="id">Join veteran camper Ra Mi-ran as she leads a trio of rookie campers - Kwak Sun-young, Lee Joo-bin and Lee Se-young - on a romantic camping trip across Italy's hidden gems.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+  </programme>
+  <programme channel="6362" start="20261025000000 +0000" stop="20261025003000 +0000">
+    <title lang="id">Chansung's Cooking</title>
+    <desc lang="id">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
   <programme channel="6362" start="20261025003000 +0000" stop="20261025014500 +0000">
@@ -19157,24 +19142,24 @@
     <desc lang="id">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261025050000 +0000" stop="20261025063000 +0000">
+  <programme channel="6362" start="20261025050000 +0000" stop="20261025062000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261025063000 +0000" stop="20261025080000 +0000">
+  <programme channel="6362" start="20261025062000 +0000" stop="20261025074000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261025080000 +0000" stop="20261025083000 +0000">
-    <title lang="id">Chansung's Cooking</title>
-    <desc lang="id">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261025083000 +0000" stop="20261025100000 +0000">
+  <programme channel="6362" start="20261025074000 +0000" stop="20261025093000 +0000">
     <title lang="id">Space Rice Cake</title>
     <desc lang="id">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+  </programme>
+  <programme channel="6362" start="20261025093000 +0000" stop="20261025100000 +0000">
+    <title lang="id">Chansung's Cooking</title>
+    <desc lang="id">2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
   <programme channel="6362" start="20261025100000 +0000" stop="20261025113000 +0000">
@@ -19252,27 +19237,22 @@
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261026054000 +0000" stop="20261026074000 +0000">
+  <programme channel="6362" start="20261026054000 +0000" stop="20261026074500 +0000">
     <title lang="id">Fresh Off the Sea 3</title>
     <desc lang="id">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261026074000 +0000" stop="20261026091000 +0000">
+  <programme channel="6362" start="20261026074500 +0000" stop="20261026091000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261026091000 +0000" stop="20261026093000 +0000">
-    <title lang="id">You Can Cook With Sam Kim</title>
-    <desc lang="id">Star chef Sam Kim will teach you how to make all kinds of delicious dishes from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
-  </programme>
-  <programme channel="6362" start="20261026093000 +0000" stop="20261026103000 +0000">
+  <programme channel="6362" start="20261026091000 +0000" stop="20261026101000 +0000">
     <title lang="id">Walking Through the Village</title>
     <desc lang="id">Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tGmutFwUM_ED-m1XW2Y9cJ4GZZo=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/9136/walking-through-the-village-4f8c5c.jpg"/>
   </programme>
-  <programme channel="6362" start="20261026103000 +0000" stop="20261026120000 +0000">
+  <programme channel="6362" start="20261026101000 +0000" stop="20261026120000 +0000">
     <title lang="id">Space Rice Cake</title>
     <desc lang="id">A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
@@ -19292,7 +19272,7 @@
     <desc lang="id">3 Meals A Day returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
   </programme>
-  <programme channel="6362" start="20261026162000 +0000" stop="20261026175500 +0000">
+  <programme channel="6362" start="20261026162000 +0000" stop="20261026175000 +0000">
     <title lang="id">Abra-ca Empty: The Weight We Share</title>
     <desc lang="id">Four travelers embark on a two-week journey to four destinations with just one shared suitcase, turning every packing choice into a challenge, compromise and adventure.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>

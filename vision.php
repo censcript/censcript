@@ -163,35 +163,35 @@
 <programme start="20261020153000 +0000" stop="20261020173000 +0000" channel="GTV.vision">
 <title>Asmara Melintasi Waktu</title>
 </programme>
-<programme start="20261020180000 +0000" stop="20261020184500 +0000" channel="GTV.vision">
+<programme start="20261020173000 +0000" stop="20261020190000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20261020184500 +0000" stop="20261020203000 +0000" channel="GTV.vision">
+<programme start="20261020190000 +0000" stop="20261020203000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20261020203000 +0000" stop="20261020221500 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20261020203000 +0000" stop="20261020223000 +0000" channel="GTV.vision">
+<title>Petualangan Fantasi</title>
 </programme>
-<programme start="20261020221500 +0000" stop="20261020230000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20261020223000 +0000" stop="20261020230000 +0000" channel="GTV.vision">
+<title>Bhootu</title>
 </programme>
 <programme start="20261020230000 +0000" stop="20261020233000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20261020233000 +0000" stop="20261021010000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Kiko</title>
 </programme>
 <programme start="20261021010000 +0000" stop="20261021050000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261021050000 +0000" stop="20261021070000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20261021050000 +0000" stop="20261021080000 +0000" channel="GTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20261021070000 +0000" stop="20261021103000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<programme start="20261021080000 +0000" stop="20261021103000 +0000" channel="GTV.vision">
+<title>Entong (GTV)</title>
 </programme>
 <programme start="20261021103000 +0000" stop="20261021120000 +0000" channel="GTV.vision">
-<title>GTV</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20261019234500 +0000" stop="20261020001500 +0000" channel="iNews.vision">
 <title>Special Report</title>
@@ -630,9 +630,6 @@
 </programme>
 <programme start="20261020010000 +0000" stop="20261020023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261020023000 +0000" stop="20261020060000 +0000" channel="ANTV.vision">
-<title>Jawan</title>
 </programme>
 <programme start="20261020060000 +0000" stop="20261020073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261020070000 +0000" stop="20261020070300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261020070300 +0000" stop="20261020080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn S3</title>
 </programme>

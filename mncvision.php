@@ -202,9 +202,6 @@
 <programme start="20261020160000 +0000" stop="20261020163000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
 </programme>
-<programme start="20261020163000 +0000" stop="20261019170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>The Bottom Line</title>
-</programme>
 <programme start="20261019170000 +0000" stop="20261019190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
@@ -4025,10 +4022,10 @@
     <title>Entong</title>
 </programme>
 <programme start="20261020103000 +0000" stop="20261020120000 +0000" channel="GTV.mncvision">
-    <title>Film Keluarga</title>
+    <title>Siti Si Tikus Teliti</title>
 </programme>
 <programme start="20261020120000 +0000" stop="20261020133000 +0000" channel="GTV.mncvision">
-    <title>Film Keluarga</title>
+    <title>Petualangan Ajaib Siput Emas</title>
 </programme>
 <programme start="20261020133000 +0000" stop="20261020153000 +0000" channel="GTV.mncvision">
     <title>Shark Zone</title>
@@ -4064,10 +4061,10 @@
     <title>Entong</title>
 </programme>
 <programme start="20261020103000 +0000" stop="20261020120000 +0000" channel="GTV HD.mncvision">
-    <title>Film Keluarga</title>
+    <title>Siti Si Tikus Teliti</title>
 </programme>
 <programme start="20261020120000 +0000" stop="20261020133000 +0000" channel="GTV HD.mncvision">
-    <title>Film Keluarga</title>
+    <title>Petualangan Ajaib Siput Emas</title>
 </programme>
 <programme start="20261020133000 +0000" stop="20261020153000 +0000" channel="GTV HD.mncvision">
     <title>Shark Zone</title>

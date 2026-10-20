@@ -1114,35 +1114,35 @@
   <programme start="20261022204500 +0000" stop="20261022233000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Amsterdam</title>
   </programme>
-  <programme start="20261021192500 +0000" stop="20261021223000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Hokej - Tipos SHL</title>
+  <programme start="20261021213000 +0000" stop="20261021225000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Hokej je na JOJke - Extra Shift</title>
   </programme>
-  <programme start="20261021223000 +0000" stop="20261022001000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Automobilové preteky</title>
-  </programme>
-  <programme start="20261022001000 +0000" stop="20261022012500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261021225000 +0000" stop="20261022001000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár zjazd ženy</title>
   </programme>
-  <programme start="20261022012500 +0000" stop="20261022024000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261022001000 +0000" stop="20261022014000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár Super G ženy</title>
   </programme>
-  <programme start="20261022024000 +0000" stop="20261022052500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261022014000 +0000" stop="20261022042500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
-  <programme start="20261022052500 +0000" stop="20261022085000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261022042500 +0000" stop="20261022073000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20261022085000 +0000" stop="20261022113000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261022073000 +0000" stop="20261022085000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Magazín UEFA</title>
+  </programme>
+  <programme start="20261022085000 +0000" stop="20261022114500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20261022113000 +0000" stop="20261022133500 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Futbal - Európska liga</title>
+  <programme start="20261022114500 +0000" stop="20261022135000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Portugalský pohár</title>
   </programme>
-  <programme start="20261022133500 +0000" stop="20261022155000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Hokej - Tipos SHL</title>
+  <programme start="20261022135000 +0000" stop="20261022155500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga ženy</title>
   </programme>
-  <programme start="20261022155000 +0000" stop="20261022183000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">FIBA Europe Cup</title>
+  <programme start="20261022155500 +0000" stop="20261022183000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Volejbal Slovenský pohár ženy</title>
   </programme>
   <programme start="20261022183000 +0000" stop="20261022185500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio UEFA</title>
@@ -1153,10 +1153,10 @@
   <programme start="20261022213000 +0000" stop="20261022223500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Highlighty Európskej a Konferenčnej ligy UEFA</title>
   </programme>
-  <programme start="20261021212000 +0000" stop="20261021231500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261021211000 +0000" stop="20261021230500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20261021231500 +0000" stop="20261022010500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261021230500 +0000" stop="20261022010500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
   <programme start="20261022010500 +0000" stop="20261022025000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1165,37 +1165,37 @@
   <programme start="20261022025000 +0000" stop="20261022043500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20261022043500 +0000" stop="20261022064000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Futbal</title>
+  <programme start="20261022043500 +0000" stop="20261022054000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261022064000 +0000" stop="20261022082500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Futbal</title>
+  <programme start="20261022054000 +0000" stop="20261022064000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261022082500 +0000" stop="20261022093500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261022064000 +0000" stop="20261022073500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
+  </programme>
+  <programme start="20261022073500 +0000" stop="20261022083500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">PIVOT</title>
+  </programme>
+  <programme start="20261022083500 +0000" stop="20261022093500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej je na JOJke - Extra Shift</title>
   </programme>
-  <programme start="20261022093500 +0000" stop="20261022102500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
-  </programme>
-  <programme start="20261022102500 +0000" stop="20261022112000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
-  </programme>
-  <programme start="20261022112000 +0000" stop="20261022121500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
-  </programme>
-  <programme start="20261022121500 +0000" stop="20261022144500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261022093500 +0000" stop="20261022120500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261022144500 +0000" stop="20261022171000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261022120500 +0000" stop="20261022142500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261022171000 +0000" stop="20261022180000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Magazín UEFA</title>
-  </programme>
-  <programme start="20261022180000 +0000" stop="20261022203000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261022142500 +0000" stop="20261022165000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261022203000 +0000" stop="20261022220500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261022165000 +0000" stop="20261022185500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">FIBA Europe Cup</title>
+  </programme>
+  <programme start="20261022185500 +0000" stop="20261022213500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Volejbal CEV Liga Majstrov ženy</title>
+  </programme>
+  <programme start="20261022213500 +0000" stop="20261022231500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
   <programme start="20261021215000 +0000" stop="20261021230000 +0000" channel="WAU.webtv.sk">
@@ -1970,7 +1970,7 @@
     <title lang="id">Zabi nudu! I (1/30)</title>
   </programme>
   <programme start="20261021213000 +0000" stop="20261021222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (23)</title>
   </programme>
   <programme start="20261021222000 +0000" stop="20261021224500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Kung Fu Panda II (22)</title>
@@ -2057,7 +2057,7 @@
     <title lang="id">Maxipes Fík III (9)</title>
   </programme>
   <programme start="20261022045000 +0000" stop="20261022050500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (226)</title>
   </programme>
   <programme start="20261022050500 +0000" stop="20261022053000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou I (3)</title>
@@ -2084,7 +2084,7 @@
     <title lang="id">Rozprávky líšky a vlka I (22)</title>
   </programme>
   <programme start="20261022070500 +0000" stop="20261022072000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (170)</title>
   </programme>
   <programme start="20261022072000 +0000" stop="20261022073000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Jožinko a kamaráti I (3)</title>
@@ -2126,7 +2126,7 @@
     <title lang="id">Priatelia z farmy I (31)</title>
   </programme>
   <programme start="20261022102500 +0000" stop="20261022104000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (155)</title>
   </programme>
   <programme start="20261022104000 +0000" stop="20261022104500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou II./III. III (17)</title>
@@ -2189,7 +2189,7 @@
     <title lang="id">Barbie: Dreamtopia I (2)</title>
   </programme>
   <programme start="20261022151000 +0000" stop="20261022152500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (160)</title>
   </programme>
   <programme start="20261022152500 +0000" stop="20261022154000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Bob staviteľ II (32)</title>
@@ -2207,7 +2207,7 @@
     <title lang="id">Požiarnik Sam VI (3)</title>
   </programme>
   <programme start="20261022162000 +0000" stop="20261022171000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (31)</title>
   </programme>
   <programme start="20261022171000 +0000" stop="20261022172000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Maxipes Fík III (11)</title>
@@ -2258,7 +2258,7 @@
     <title lang="id">Tomáš a Priatelia I (12)</title>
   </programme>
   <programme start="20261022213000 +0000" stop="20261022222000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (28)</title>
   </programme>
   <programme start="20261021220000 +0000" stop="20261022030000 +0000" channel="LALA TV.webtv.sk">
     <title lang="id">Spíva celá rodina</title>
@@ -3844,19 +3844,22 @@
   <programme start="20261022213500 +0000" stop="20261022221000 +0000" channel="Prima SK.webtv.sk">
     <title lang="id">Vychytávky Ládi Hrušky</title>
   </programme>
-  <programme start="20261021210000 +0000" stop="20261021225000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261021210500 +0000" stop="20261021230000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">České zájmy v Evropě</title>
   </programme>
-  <programme start="20261021225000 +0000" stop="20261022002500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261021230000 +0000" stop="20261022004000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20261022002500 +0000" stop="20261022011500 +0000" channel="CNN Prima News.webtv.sk">
-    <title lang="id">Co na to vaše zdraví</title>
+  <programme start="20261022004000 +0000" stop="20261022011500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Prima ČESKO</title>
   </programme>
-  <programme start="20261022011500 +0000" stop="20261022021000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022011500 +0000" stop="20261022012000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">HLAVNÍ ZPRÁVY</title>
   </programme>
-  <programme start="20261022021000 +0000" stop="20261022035500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022012000 +0000" stop="20261022020500 +0000" channel="CNN Prima News.webtv.sk">
+    <title lang="id">Co na to vaše zdraví</title>
+  </programme>
+  <programme start="20261022020500 +0000" stop="20261022035500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
   <programme start="20261022035500 +0000" stop="20261022040000 +0000" channel="CNN Prima News.webtv.sk">
@@ -3874,13 +3877,13 @@
   <programme start="20261022103000 +0000" stop="20261022110000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">K věci</title>
   </programme>
-  <programme start="20261022110000 +0000" stop="20261022112500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022110000 +0000" stop="20261022111000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20261022112500 +0000" stop="20261022131500 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022111000 +0000" stop="20261022130000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">České zájmy v Evropě</title>
   </programme>
-  <programme start="20261022131500 +0000" stop="20261022134000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022130000 +0000" stop="20261022134000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">K věci</title>
   </programme>
   <programme start="20261022134000 +0000" stop="20261022140000 +0000" channel="CNN Prima News.webtv.sk">
@@ -3910,10 +3913,10 @@
   <programme start="20261022174500 +0000" stop="20261022193000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zpravodajské centrum</title>
   </programme>
-  <programme start="20261022193000 +0000" stop="20261022210000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022193000 +0000" stop="20261022211000 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">360°</title>
   </programme>
-  <programme start="20261022210000 +0000" stop="20261022224000 +0000" channel="CNN Prima News.webtv.sk">
+  <programme start="20261022211000 +0000" stop="20261022225500 +0000" channel="CNN Prima News.webtv.sk">
     <title lang="id">Zpravodajské centrum</title>
   </programme>
   <programme start="20261021211500 +0000" stop="20261021221500 +0000" channel="Prima Cool SK.webtv.sk">
@@ -4637,7 +4640,7 @@
     <title lang="id">Švihák testuje</title>
   </programme>
   <programme start="20261022111500 +0000" stop="20261022113000 +0000" channel="Arena Sport 1.webtv.sk">
-    <title lang="id">Piok Cars</title>
+    <title lang="id">28. RALLY PREŠOV 2026</title>
   </programme>
   <programme start="20261022113000 +0000" stop="20261022120000 +0000" channel="Arena Sport 1.webtv.sk">
     <title lang="id">GarazTV</title>
@@ -4757,7 +4760,7 @@
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20261022194500 +0000" stop="20261022200000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">AutoGRATIS</title>
+    <title lang="id">28. RALLY PREŠOV 2026</title>
   </programme>
   <programme start="20261022200000 +0000" stop="20261022203000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
