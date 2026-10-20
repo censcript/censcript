@@ -4165,19 +4165,19 @@
   <programme start="20261021233500 +0000" stop="20261022003000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly VIII (1)</title>
   </programme>
-  <programme start="20261022003000 +0000" stop="20261022011000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261022003000 +0000" stop="20261022011500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly VIII (2)</title>
   </programme>
-  <programme start="20261022011000 +0000" stop="20261022015500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261022011500 +0000" stop="20261022020000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG VII (9)</title>
   </programme>
-  <programme start="20261022015500 +0000" stop="20261022024000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261022020000 +0000" stop="20261022024500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG VII (10)</title>
   </programme>
-  <programme start="20261022024000 +0000" stop="20261022024500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261022024500 +0000" stop="20261022025000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Výleťák (232)</title>
   </programme>
-  <programme start="20261022024500 +0000" stop="20261022031000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261022025000 +0000" stop="20261022031000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ušák Jaromíra Bosáka (61)</title>
   </programme>
   <programme start="20261022031000 +0000" stop="20261022040000 +0000" channel="Seznam.cz TV.webtv.sk">
@@ -10054,10 +10054,10 @@
   <programme start="20261022000500 +0000" stop="20261022002000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Show Patricka Hvězdice I (5)</title>
   </programme>
-  <programme start="20261022002000 +0000" stop="20261022004500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022002000 +0000" stop="20261022004000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (282)</title>
   </programme>
-  <programme start="20261022004500 +0000" stop="20261022010500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022004000 +0000" stop="20261022010500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Thundermanovi v utajení I (1)</title>
   </programme>
   <programme start="20261022010500 +0000" stop="20261022013000 +0000" channel="Nickelodeon.webtv.sk">
@@ -10069,10 +10069,10 @@
   <programme start="20261022015500 +0000" stop="20261022022000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VII (9)</title>
   </programme>
-  <programme start="20261022022000 +0000" stop="20261022024000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022022000 +0000" stop="20261022025000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VII (10)</title>
   </programme>
-  <programme start="20261022024000 +0000" stop="20261022030000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022025000 +0000" stop="20261022030000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi II (20)</title>
   </programme>
   <programme start="20261022030000 +0000" stop="20261022032500 +0000" channel="Nickelodeon.webtv.sk">
@@ -10084,16 +10084,16 @@
   <programme start="20261022034500 +0000" stop="20261022040000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (262)</title>
   </programme>
-  <programme start="20261022040000 +0000" stop="20261022042000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022040000 +0000" stop="20261022042500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (6)</title>
   </programme>
-  <programme start="20261022042000 +0000" stop="20261022044500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022042500 +0000" stop="20261022044500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show IV (2)</title>
   </programme>
-  <programme start="20261022044500 +0000" stop="20261022050000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022044500 +0000" stop="20261022045500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Show Patricka Hvězdice II (8)</title>
   </programme>
-  <programme start="20261022050000 +0000" stop="20261022052000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022045500 +0000" stop="20261022052000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VIII (9)</title>
   </programme>
   <programme start="20261022052000 +0000" stop="20261022054500 +0000" channel="Nickelodeon.webtv.sk">
@@ -10105,16 +10105,16 @@
   <programme start="20261022061000 +0000" stop="20261022063000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VII (14)</title>
   </programme>
-  <programme start="20261022063000 +0000" stop="20261022065000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022063000 +0000" stop="20261022065500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (245)</title>
   </programme>
-  <programme start="20261022065000 +0000" stop="20261022070000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022065500 +0000" stop="20261022070500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XI (229)</title>
   </programme>
-  <programme start="20261022070000 +0000" stop="20261022072500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022070500 +0000" stop="20261022073000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show V (8)</title>
   </programme>
-  <programme start="20261022072500 +0000" stop="20261022074000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022073000 +0000" stop="20261022074000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Show Patrika Hvězdice IV (3)</title>
   </programme>
   <programme start="20261022074000 +0000" stop="20261022080500 +0000" channel="Nickelodeon.webtv.sk">
@@ -10126,10 +10126,10 @@
   <programme start="20261022083000 +0000" stop="20261022085000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi III (8)</title>
   </programme>
-  <programme start="20261022085000 +0000" stop="20261022090000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022085000 +0000" stop="20261022090500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (277)</title>
   </programme>
-  <programme start="20261022090000 +0000" stop="20261022093000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022090500 +0000" stop="20261022093000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XIII (293)</title>
   </programme>
   <programme start="20261022093000 +0000" stop="20261022095000 +0000" channel="Nickelodeon.webtv.sk">
@@ -10138,61 +10138,61 @@
   <programme start="20261022095000 +0000" stop="20261022101500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Henry Nebezpečný V (25)</title>
   </programme>
-  <programme start="20261022101500 +0000" stop="20261022103500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022101500 +0000" stop="20261022104000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nebezpečná síla III (12)</title>
   </programme>
-  <programme start="20261022103500 +0000" stop="20261022110000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022104000 +0000" stop="20261022110000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Thundermanovi v utajení II (12)</title>
   </programme>
-  <programme start="20261022110000 +0000" stop="20261022112000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022110000 +0000" stop="20261022112500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Ta holka Lay Lay II (33)</title>
   </programme>
-  <programme start="20261022112000 +0000" stop="20261022114500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022112500 +0000" stop="20261022115000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VI (3)</title>
   </programme>
-  <programme start="20261022114500 +0000" stop="20261022121000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022115000 +0000" stop="20261022121000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VI (4)</title>
   </programme>
-  <programme start="20261022121000 +0000" stop="20261022123000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022121000 +0000" stop="20261022123500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi IV (9)</title>
   </programme>
-  <programme start="20261022123000 +0000" stop="20261022125500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022123500 +0000" stop="20261022130000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show V (8)</title>
   </programme>
-  <programme start="20261022125500 +0000" stop="20261022131500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022130000 +0000" stop="20261022132000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XV (308)</title>
   </programme>
-  <programme start="20261022131500 +0000" stop="20261022134000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022132000 +0000" stop="20261022134500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi IX (5)</title>
   </programme>
-  <programme start="20261022134000 +0000" stop="20261022135500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022134500 +0000" stop="20261022140000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi IV (16)</title>
   </programme>
-  <programme start="20261022135500 +0000" stop="20261022141500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022140000 +0000" stop="20261022142000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi V (20)</title>
   </programme>
-  <programme start="20261022141500 +0000" stop="20261022144000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022142000 +0000" stop="20261022144500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XII (267)</title>
   </programme>
-  <programme start="20261022144000 +0000" stop="20261022150000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022144500 +0000" stop="20261022151000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Spongebob v kalhotách XV (317)</title>
   </programme>
-  <programme start="20261022150000 +0000" stop="20261022153000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022151000 +0000" stop="20261022153000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Patrikova hvězdná show V (8)</title>
   </programme>
-  <programme start="20261022153000 +0000" stop="20261022155000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022153000 +0000" stop="20261022155500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (11)</title>
   </programme>
-  <programme start="20261022155000 +0000" stop="20261022160000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022155500 +0000" stop="20261022161000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Marsupilami I (17)</title>
   </programme>
-  <programme start="20261022160000 +0000" stop="20261022162500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022161000 +0000" stop="20261022163500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VII (11)</title>
   </programme>
-  <programme start="20261022162500 +0000" stop="20261022165000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022163500 +0000" stop="20261022164500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi VII (12)</title>
   </programme>
-  <programme start="20261022165000 +0000" stop="20261022170000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022164500 +0000" stop="20261022170000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Hlasiťákovi IX (9)</title>
   </programme>
   <programme start="20261022170000 +0000" stop="20261022172500 +0000" channel="Nickelodeon.webtv.sk">
@@ -10201,25 +10201,25 @@
   <programme start="20261022172500 +0000" stop="20261022175000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Henry Nebezpečný V (25)</title>
   </programme>
-  <programme start="20261022175000 +0000" stop="20261022181500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022175000 +0000" stop="20261022181000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Nebezpečná síla III (12)</title>
   </programme>
-  <programme start="20261022181500 +0000" stop="20261022183500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022181000 +0000" stop="20261022183500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Thundermanovi v utajení II (12)</title>
   </programme>
   <programme start="20261022183500 +0000" stop="20261022190000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Ta holka Lay Lay II (33)</title>
   </programme>
-  <programme start="20261022190000 +0000" stop="20261022192500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022190000 +0000" stop="20261022192000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">ICarly III (1)</title>
   </programme>
-  <programme start="20261022192500 +0000" stop="20261022195000 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022192000 +0000" stop="20261022194500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">ICarly III (2)</title>
   </programme>
-  <programme start="20261022195000 +0000" stop="20261022201500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022194500 +0000" stop="20261022201000 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Victorious III (14)</title>
   </programme>
-  <programme start="20261022201500 +0000" stop="20261022203500 +0000" channel="Nickelodeon.webtv.sk">
+  <programme start="20261022201000 +0000" stop="20261022203500 +0000" channel="Nickelodeon.webtv.sk">
     <title lang="id">Sam &amp; Cat I (13)</title>
   </programme>
   <programme start="20261022203500 +0000" stop="20261022210000 +0000" channel="Nickelodeon.webtv.sk">
