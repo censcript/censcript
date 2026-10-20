@@ -139,10 +139,10 @@
 <programme start="20261020002500 +0000" stop="20261020011000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>The Real Housewives of New York City - Reunion Part 1</title>
 </programme>
-<programme start="20261020011000 +0000" stop="20261020014300 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20261020011000 +0000" stop="20261020014500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Bump - Prophecy</title>
 </programme>
-<programme start="20261020014300 +0000" stop="20261020060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20261020014500 +0000" stop="20261020060000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261020120000 +0000" stop="20261020123000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -2753,7 +2753,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261020003000 +0000" stop="20261020010000 +0000" channel="BBC_News.virginmediatv">
-    <title>Talking Business</title>
+    <title>On The Front Line - America&#039;s War on Drugs: The Synthetic Wave</title>
 </programme>
 <programme start="20261020010000 +0000" stop="20261020013000 +0000" channel="BBC_News.virginmediatv">
     <title>Newsday</title>
@@ -4342,11 +4342,17 @@
 <programme start="20261020030000 +0000" stop="20261020040000 +0000" channel="MUTV.virginmediatv">
     <title>Beckham: Take a Bow</title>
 </programme>
-<programme start="20261020040000 +0000" stop="20261020060000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261020040000 +0000" stop="20261020054500 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Leeds United v Manchester United</title>
 </programme>
-<programme start="20261020120000 +0000" stop="20261020140000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261020054500 +0000" stop="20261020060000 +0000" channel="MUTV.virginmediatv">
+    <title>Sir Alex Ferguson: Games of My Life</title>
+</programme>
+<programme start="20261020120000 +0000" stop="20261020134500 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Leeds United v Manchester United</title>
+</programme>
+<programme start="20261020134500 +0000" stop="20261020140000 +0000" channel="MUTV.virginmediatv">
+    <title>Access All Areas - Leeds</title>
 </programme>
 <programme start="20261020140000 +0000" stop="20261020143000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Leeds United v Manchester United</title>
@@ -4357,20 +4363,14 @@
 <programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="MUTV.virginmediatv">
     <title>Paul Parker: Tackling the Game</title>
 </programme>
-<programme start="20261020160000 +0000" stop="20261020163000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League 2 - Highlights: Nottingham Forest U21 v Manchester United U21</title>
-</programme>
-<programme start="20261020163000 +0000" stop="20261020170000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - When Mainoo met Seedorf</title>
+<programme start="20261020160000 +0000" stop="20261020170000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Academy</title>
 </programme>
 <programme start="20261020170000 +0000" stop="20261020171500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Andrey Santos</title>
+    <title>Access All Areas - Leeds</title>
 </programme>
-<programme start="20261020171500 +0000" stop="20261020174500 +0000" channel="MUTV.virginmediatv">
+<programme start="20261020171500 +0000" stop="20261020180000 +0000" channel="MUTV.virginmediatv">
     <title>Live: Manager&#039;s Press Conference</title>
-</programme>
-<programme start="20261020174500 +0000" stop="20261020180000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - United with Fans</title>
 </programme>
 <programme start="20261020000000 +0000" stop="20261020002500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best Of Australia 2026</title>
@@ -4442,7 +4442,7 @@
     <title>Major League Baseball - Highlights</title>
 </programme>
 <programme start="20261020123000 +0000" stop="20261020124500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>TNT Sports Cricket Reload - India v West Indies: 5th T20</title>
+    <title>TNT Sports Cricket Reload - India v West Indies: 4th T20</title>
 </programme>
 <programme start="20261020124500 +0000" stop="20261020130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>TNT Sports Cricket Reload - India v Zimbabwe: Women&#039;s 1st T20</title>
@@ -4454,7 +4454,7 @@
     <title>Live: Women&#039;s International T20 Cricket - 3rd T20: India v Zimbabwe</title>
 </programme>
 <programme start="20261020171500 +0000" stop="20261020173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>The Breakdown - Sunderland</title>
+    <title>The Gruppetto - Episode 38</title>
 </programme>
 <programme start="20261020173000 +0000" stop="20261020180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Premier League Netbusters - Episode 7</title>

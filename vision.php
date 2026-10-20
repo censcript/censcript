@@ -640,9 +640,6 @@
 <programme start="20261020093000 +0000" stop="20261020104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261020104500 +0000" stop="20261020131500 +0000" channel="ANTV.vision">
-<title>Pengabdian</title>
-</programme>
 <programme start="20261020131500 +0000" stop="20261020150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261020070300 +0000" stop="20261020080000 +0000" channel="TVRI.vision">
 <title>Losmen Reborn S3</title>
+</programme>
+<programme start="20261020080000 +0000" stop="20261020080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

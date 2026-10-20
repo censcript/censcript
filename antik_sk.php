@@ -4969,7 +4969,10 @@
   <programme start="20261022133000 +0000" stop="20261022153000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Cyklistika: Tour de France 2027</title>
   </programme>
-  <programme start="20261022153000 +0000" stop="20261022170000 +0000" channel="Eurosport 2.webtv.sk">
+  <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Powerboats: Mistrovství světa v Šanghaji</title>
+  </programme>
+  <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Lezení: World Series v Salt Lake City</title>
   </programme>
   <programme start="20261022170000 +0000" stop="20261022200000 +0000" channel="Eurosport 2.webtv.sk">
