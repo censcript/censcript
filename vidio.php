@@ -193,7 +193,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/j38PM5B9-OFh53fzDmo63Ry02BE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384186/7d4943.jpg"/>
   </programme>
   <programme channel="204" start="20261020025800 +0000" stop="20261020045400 +0000">
-    <title lang="id">FTV Pagi : From Gadungan Jadi Tunangan</title>
+    <title lang="id">FTV - Pecel Lele Tak Semahal Cintamu Sis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5QQKltN9KlhKPN6g9P6ZlupA-4Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384192/ace4c6.jpg"/>
   </programme>
@@ -206,17 +206,17 @@
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
   </programme>
-  <programme channel="204" start="20261020100000 +0000" stop="20261020111500 +0000">
+  <programme channel="204" start="20261020100000 +0000" stop="20261020112800 +0000">
     <title lang="id">Putri Pewaris</title>
     <desc lang="id">Sinetron Putri Pewaris mengisahkan Aina, perempuan sederhana yang ternyata pewaris sah perusahaan VOLTZ setelah masa lalu keluarganya terungkap. Saksikan setiap hari pukul 17.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ngDpM2Dw83nKt_YtPAHdda5UkAA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413910/ac5808.jpg"/>
   </programme>
-  <programme channel="204" start="20261020111500 +0000" stop="20261020124500 +0000">
+  <programme channel="204" start="20261020112800 +0000" stop="20261020130000 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261020124500 +0000" stop="20261020143000 +0000">
+  <programme channel="204" start="20261020130000 +0000" stop="20261020143400 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
@@ -257,12 +257,12 @@
   </programme>
   <programme channel="204" start="20261021000000 +0000" stop="20261021030000 +0000">
     <title lang="id">Cinta Suci</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/cHySPkerSQT89s9eNhHVDOl1sBM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384187/92adc1.jpg"/>
   </programme>
   <programme channel="204" start="20261021030000 +0000" stop="20261021050000 +0000">
     <title lang="id">FTV Pagi: Diam Disangka Ob Bergerak Jadi Sultan</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/xOLUrpAKiDM2W_ErprSW_QDUKBw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384231/178f1a.jpg"/>
   </programme>
   <programme channel="204" start="20261021050000 +0000" stop="20261021053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -271,7 +271,7 @@
   <programme channel="204" start="20261021053000 +0000" stop="20261021100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/LIiVyfYfcLtAtD9u39xop0Ziizw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5384200/9e3b03.jpg"/>
   </programme>
   <programme channel="204" start="20261021100000 +0000" stop="20261021111500 +0000">
     <title lang="id">Putri Pewaris</title>
@@ -656,12 +656,12 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 Wib, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261020060000 +0000" stop="20261020080000 +0000">
+  <programme channel="205" start="20261020060000 +0000" stop="20261020075700 +0000">
     <title lang="id">Kisah Nyata Sore Spesial: Ada Yang Disembunyikan Di Pabrik Tempe Suamiku</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261020080000 +0000" stop="20261020104200 +0000">
+  <programme channel="205" start="20261020075700 +0000" stop="20261020104200 +0000">
     <title lang="id">Isenmulang Kalteng FC vs Java United FC - BRI Super League</title>
     <desc lang="id">Mampukah ketajaman lini serang Java United bongkar pertahanan rapat Isenmulang Kalteng?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XSVHl_z-cyVGA3nXUGNz7l_2-9k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385684/b05282.jpg"/>
@@ -922,7 +922,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
   <programme channel="205" start="20261023120000 +0000" stop="20261023160000 +0000">
-    <title lang="id">D'Academy 8</title>
+    <title lang="id">D' Academy 8 Top 12 Result Malam Pertama</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
@@ -2250,7 +2250,7 @@
   </programme>
   <programme channel="733" start="20261021013000 +0000" stop="20261021033000 +0000">
     <title lang="id">Pagi-Pagi Ambyar</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ab3fJgJG2eMCNYuKIB8JjcfQT3g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381219/7fe5b8.png"/>
   </programme>
   <programme channel="733" start="20261021033000 +0000" stop="20261021053000 +0000">
     <title lang="id">Insert Siang</title>
@@ -3002,17 +3002,17 @@
     <desc lang="id">Hati Ke Hati Bersama Mamah Dedeh</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261019230000 +0000" stop="20261020010000 +0000">
+  <programme channel="782" start="20261019230000 +0000" stop="20261020005600 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261020010000 +0000" stop="20261020023000 +0000">
+  <programme channel="782" start="20261020005600 +0000" stop="20261020023500 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5zfNeUbsYF-YG1c6kMNf-Ht6zpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380153/0c2371.jpg"/>
   </programme>
-  <programme channel="782" start="20261020023000 +0000" stop="20261020060000 +0000">
+  <programme channel="782" start="20261020023500 +0000" stop="20261020060000 +0000">
     <title lang="id">Mega Bollywood : Jawan</title>
     <desc lang="id">Mega Bollywood : Jawan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Ks9_KWzKvlphaQaa-fC_0FVWzT8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380185/500b3b.png"/>
@@ -3090,22 +3090,22 @@
   <programme channel="782" start="20261021010000 +0000" stop="20261021023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/MeSURbPb_7mWQ5WF7ZvTk-pHtdc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380154/c8affe.jpg"/>
   </programme>
   <programme channel="782" start="20261021023000 +0000" stop="20261021060000 +0000">
     <title lang="id">Mega Bollywood : Dil Se</title>
     <desc lang="id">Mega Bollywood : Dil Se</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/hEOvwOK5oXEi2LS2N8MkPYFitCY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380195/069dca.jpg"/>
   </programme>
   <programme channel="782" start="20261021060000 +0000" stop="20261021073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_Re9vjsiynlPSlcFRcJTqExWY-U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380162/ee818f.jpg"/>
   </programme>
   <programme channel="782" start="20261021073000 +0000" stop="20261021093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/j8AeEvwU80LupcMkKUeyp6UpTN0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380169/90c844.jpg"/>
   </programme>
   <programme channel="782" start="20261021093000 +0000" stop="20261021104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -13863,12 +13863,12 @@
   </programme>
   <programme channel="6317" start="20261020164000 +0000" stop="20261020185500 +0000">
     <title lang="id">Fenerbahce vs Slavia Praha - UEFA Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru Fenerbahce vs Slavia Praha - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah Fenerbahce mendapat 3 poin kala menjamu Slavia Praha?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/and9DQPZ-fjnxuexlJ8zzWXv0g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385692/c2bbc8.jpg"/>
   </programme>
   <programme channel="6317" start="20261020164000 +0000" stop="20261020185500 +0000">
     <title lang="id">Fenerbahce vs Slavia Praha - UEFA Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru Fenerbahce vs Slavia Praha - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah Fenerbahce mendapat 3 poin kala menjamu Slavia Praha?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/and9DQPZ-fjnxuexlJ8zzWXv0g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385692/c2bbc8.jpg"/>
   </programme>
   <programme channel="6317" start="20261020185500 +0000" stop="20261020210000 +0000">
@@ -13968,12 +13968,12 @@
   </programme>
   <programme channel="6317" start="20261021164000 +0000" stop="20261021185500 +0000">
     <title lang="id">LOSC Lille vs Galatasaray - UEFA Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru LOSC Lille vs Galatasaray - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah Calvin Verdonk dkk meraih hasil positif kala menjamu Galatasaray?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KkwBeo1DRUFo0N3078czODEOmQc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385698/b9a670.jpg"/>
   </programme>
   <programme channel="6317" start="20261021164000 +0000" stop="20261021185500 +0000">
     <title lang="id">LOSC Lille vs Galatasaray - UEFA Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru LOSC Lille vs Galatasaray - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah Calvin Verdonk dkk meraih hasil positif kala menjamu Galatasaray?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KkwBeo1DRUFo0N3078czODEOmQc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385698/b9a670.jpg"/>
   </programme>
   <programme channel="6317" start="20261021185500 +0000" stop="20261021210000 +0000">
@@ -14469,10 +14469,14 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261020000500 +0000" stop="20261020034500 +0000">
+  <programme channel="6786" start="20261020000500 +0000" stop="20261020033000 +0000">
     <title lang="id">Washington Commanders vs San Francisco 49ers - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Washington Commanders vs San Francisco 49ers - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/gq9mhUhNK4tu63wBgJkCney2qtc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387969/784871.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261020033000 +0000" stop="20261020040000 +0000">
+    <title lang="id">NFL Extra Week 4</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261020040000 +0000" stop="20261020043000 +0000">
     <title lang="id">Show 4 : NFL Game Day 2026/27</title>
@@ -14486,7 +14490,7 @@
   </programme>
   <programme channel="6786" start="20261020050000 +0000" stop="20261020130000 +0000">
     <title lang="id">Day 2 - WTA 500: BNB Ningbo Open 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Day 2 - WTA 500: BNB Ningbo Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Saksikan keseruan aksi Jasmine Paolini dan petenis dunia lainnya di hari kedua Ningbo Open!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlk_-GHkYtusGHdCLy3maEyssfs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388026/85d94e.png"/>
   </programme>
   <programme channel="6786" start="20261020130000 +0000" stop="20261020133000 +0000">
@@ -15046,7 +15050,7 @@
   </programme>
   <programme channel="17875" start="20261020185500 +0000" stop="20261020210000 +0000">
     <title lang="id">Man City vs AEK Athens - UEFA Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru Man City vs AEK Athens - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah The Citizens meraih hasil positif di Etihad Stadium?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IS1GSupUdCozibEw6YNsOcY6Gk8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385693/6d365b.jpg"/>
   </programme>
   <programme channel="17875" start="20261020210000 +0000" stop="20261020213000 +0000">
@@ -18721,7 +18725,7 @@
   <programme channel="6362" start="20261020131000 +0000" stop="20261020143000 +0000">
     <title lang="id">My Bias, My Boss Ep3</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/MZInzGT_jPgT26ddC99dHiCn6xQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311901/5ac29e.jpg"/>
   </programme>
   <programme channel="6362" start="20261020143000 +0000" stop="20261020160000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
@@ -18816,12 +18820,12 @@
   <programme channel="6362" start="20261021131000 +0000" stop="20261021143000 +0000">
     <title lang="id">My Bias, My Boss Ep4</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/krwg6lJiP4u4jJP-fsy8BGvyAC4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311910/87d172.jpg"/>
   </programme>
   <programme channel="6362" start="20261021143000 +0000" stop="20261021163000 +0000">
     <title lang="id">Fresh Off the Sea 3</title>
     <desc lang="id">The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/N-h7TGN3yHQVYh5ip-MGjcukTlU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5311811/be6b8a.jpg"/>
   </programme>
   <programme channel="6362" start="20261021163000 +0000" stop="20261021174000 +0000">
     <title lang="id">The Judge Returns Ep5</title>
@@ -34573,9 +34577,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20261022020000 +0000" stop="20261022070000 +0000">
-    <title lang="id">BMW LADIES CHAMPIONSHIP</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 1 - BMW Ladies Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - BMW Ladies Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/2SWMNPRSg6OWnhXQ46n8YNAQ_6M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5388074/7e7d4a.png"/>
   </programme>
   <programme channel="18190" start="20261022070000 +0000" stop="20261022093000 +0000">
     <title lang="id">HILTON GRAND VACATIONS</title>

@@ -200,7 +200,7 @@
     <title>NewsHour</title>
 </programme>
 <programme start="20261020160000 +0000" stop="20261020163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+    <title>NewsHour</title>
 </programme>
 <programme start="20261020163000 +0000" stop="20261019170000 +0000" channel="Al Jazeera English.mncvision">
     <title>The Bottom Line</title>
@@ -2894,7 +2894,7 @@
     <title>Planet A: A Dark Secret</title>
 </programme>
 <programme start="20261020033000 +0000" stop="20261020040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: Toxic Dust</title>
 </programme>
 <programme start="20261020040000 +0000" stop="20261020040300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2936,7 +2936,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20261020080200 +0000" stop="20261020083000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Birdwatching</title>
 </programme>
 <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: The Environment</title>
@@ -3542,7 +3542,7 @@
     <title>Gutfeld!</title>
 </programme>
 <programme start="20261020080000 +0000" stop="20261020090000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>Fox &amp; Friends First</title>
 </programme>
 <programme start="20261020090000 +0000" stop="20261020100000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
@@ -6122,34 +6122,31 @@
     <title>The Famous</title>
 </programme>
 <programme start="20261020031500 +0000" stop="20261020041500 +0000" channel="Music TV.mncvision">
-    <title>Konco Ngaso</title>
+    <title>Campur Sari Now</title>
 </programme>
 <programme start="20261020041500 +0000" stop="20261020050000 +0000" channel="Music TV.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20261020050000 +0000" stop="20261020073000 +0000" channel="Music TV.mncvision">
+<programme start="20261020050000 +0000" stop="20261020070000 +0000" channel="Music TV.mncvision">
     <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20261020070000 +0000" stop="20261020073000 +0000" channel="Music TV.mncvision">
+    <title>Kita Kepo</title>
 </programme>
 <programme start="20261020073000 +0000" stop="20261020100000 +0000" channel="Music TV.mncvision">
     <title>Indonesian Idol 2022</title>
 </programme>
 <programme start="20261020100000 +0000" stop="20261020110000 +0000" channel="Music TV.mncvision">
-    <title>Godain</title>
+    <title>Juke Box</title>
 </programme>
 <programme start="20261020110000 +0000" stop="20261020120000 +0000" channel="Music TV.mncvision">
     <title>K-Hits</title>
 </programme>
-<programme start="20261020120000 +0000" stop="20261020130000 +0000" channel="Music TV.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20261020130000 +0000" stop="20261020140000 +0000" channel="Music TV.mncvision">
-    <title>Bucin (Bursa Music Indonesia)</title>
-</programme>
-<programme start="20261020140000 +0000" stop="20261020153000 +0000" channel="Music TV.mncvision">
-    <title>Kilau DMD</title>
+<programme start="20261020120000 +0000" stop="20261020153000 +0000" channel="Music TV.mncvision">
+    <title>Kilau Raya MNCTV 35 (L)</title>
 </programme>
 <programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="Music TV.mncvision">
-    <title>Indonesian Idol 2022</title>
+    <title>Kilau DMD</title>
 </programme>
 <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="Music TV HD.mncvision">
     <title>The Famous</title>
@@ -6173,34 +6170,31 @@
     <title>The Famous</title>
 </programme>
 <programme start="20261020031500 +0000" stop="20261020041500 +0000" channel="Music TV HD.mncvision">
-    <title>Konco Ngaso</title>
+    <title>Campur Sari Now</title>
 </programme>
 <programme start="20261020041500 +0000" stop="20261020050000 +0000" channel="Music TV HD.mncvision">
     <title>Godain</title>
 </programme>
-<programme start="20261020050000 +0000" stop="20261020073000 +0000" channel="Music TV HD.mncvision">
+<programme start="20261020050000 +0000" stop="20261020070000 +0000" channel="Music TV HD.mncvision">
     <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20261020070000 +0000" stop="20261020073000 +0000" channel="Music TV HD.mncvision">
+    <title>Kita Kepo</title>
 </programme>
 <programme start="20261020073000 +0000" stop="20261020100000 +0000" channel="Music TV HD.mncvision">
     <title>Indonesian Idol 2022</title>
 </programme>
 <programme start="20261020100000 +0000" stop="20261020110000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
+    <title>Juke Box</title>
 </programme>
 <programme start="20261020110000 +0000" stop="20261020120000 +0000" channel="Music TV HD.mncvision">
     <title>K-Hits</title>
 </programme>
-<programme start="20261020120000 +0000" stop="20261020130000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20261020130000 +0000" stop="20261020140000 +0000" channel="Music TV HD.mncvision">
-    <title>Bucin (Bursa Music Indonesia)</title>
-</programme>
-<programme start="20261020140000 +0000" stop="20261020153000 +0000" channel="Music TV HD.mncvision">
-    <title>Kilau DMD</title>
+<programme start="20261020120000 +0000" stop="20261020153000 +0000" channel="Music TV HD.mncvision">
+    <title>Kilau Raya MNCTV 35 (L)</title>
 </programme>
 <programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol 2022</title>
+    <title>Kilau DMD</title>
 </programme>
 <programme start="20261019173000 +0000" stop="20261019190000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah</title>
@@ -7681,103 +7675,103 @@
 <programme start="20261019173800 +0000" stop="20261019185600 +0000" channel="SCTV.mncvision">
     <title>Dua Tukang Sunat Jatuh Cinta</title>
 </programme>
-<programme start="20261019185600 +0000" stop="20261019190600 +0000" channel="SCTV.mncvision">
+<programme start="20261019185600 +0000" stop="20261019192600 +0000" channel="SCTV.mncvision">
     <title>Solusi</title>
 </programme>
-<programme start="20261019190600 +0000" stop="20261019203100 +0000" channel="SCTV.mncvision">
+<programme start="20261019192600 +0000" stop="20261019203100 +0000" channel="SCTV.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
 </programme>
-<programme start="20261019203100 +0000" stop="20261019210400 +0000" channel="SCTV.mncvision">
-    <title>Mencintai Pangeran Keraton</title>
+<programme start="20261019203100 +0000" stop="20261019210600 +0000" channel="SCTV.mncvision">
+    <title>23 Cara Mendapatkan Cintamu</title>
 </programme>
-<programme start="20261019210400 +0000" stop="20261019213000 +0000" channel="SCTV.mncvision">
+<programme start="20261019210600 +0000" stop="20261019213300 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20261019213000 +0000" stop="20261019220000 +0000" channel="SCTV.mncvision">
+<programme start="20261019213300 +0000" stop="20261019215400 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20261019220000 +0000" stop="20261019230000 +0000" channel="SCTV.mncvision">
+<programme start="20261019215400 +0000" stop="20261019230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261019230000 +0000" stop="20261020000000 +0000" channel="SCTV.mncvision">
+<programme start="20261019230000 +0000" stop="20261020001500 +0000" channel="SCTV.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20261020000000 +0000" stop="20261020030000 +0000" channel="SCTV.mncvision">
+<programme start="20261020001500 +0000" stop="20261020025800 +0000" channel="SCTV.mncvision">
     <title>Cinta Suci</title>
 </programme>
-<programme start="20261020030000 +0000" stop="20261020050000 +0000" channel="SCTV.mncvision">
+<programme start="20261020025800 +0000" stop="20261020045400 +0000" channel="SCTV.mncvision">
     <title>From Gadungan Jadi Tunangan</title>
 </programme>
-<programme start="20261020050000 +0000" stop="20261020053000 +0000" channel="SCTV.mncvision">
+<programme start="20261020045400 +0000" stop="20261020053100 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261020053000 +0000" stop="20261020100000 +0000" channel="SCTV.mncvision">
+<programme start="20261020053100 +0000" stop="20261020100000 +0000" channel="SCTV.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20261020100000 +0000" stop="20261020111500 +0000" channel="SCTV.mncvision">
+<programme start="20261020100000 +0000" stop="20261020112800 +0000" channel="SCTV.mncvision">
     <title>Putri Pewaris</title>
 </programme>
-<programme start="20261020111500 +0000" stop="20261020124500 +0000" channel="SCTV.mncvision">
+<programme start="20261020112800 +0000" stop="20261020130000 +0000" channel="SCTV.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261020124500 +0000" stop="20261020143000 +0000" channel="SCTV.mncvision">
+<programme start="20261020130000 +0000" stop="20261020143400 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261020143000 +0000" stop="20261020164500 +0000" channel="SCTV.mncvision">
+<programme start="20261020143400 +0000" stop="20261020161500 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261020164500 +0000" stop="20261019171500 +0000" channel="SCTV.mncvision">
+<programme start="20261020161500 +0000" stop="20261020164500 +0000" channel="SCTV.mncvision">
     <title>UEFA Champions League (L)</title>
 </programme>
 <programme start="20261019173800 +0000" stop="20261019185600 +0000" channel="SCTV HD.mncvision">
     <title>Dua Tukang Sunat Jatuh Cinta</title>
 </programme>
-<programme start="20261019185600 +0000" stop="20261019190600 +0000" channel="SCTV HD.mncvision">
+<programme start="20261019185600 +0000" stop="20261019192600 +0000" channel="SCTV HD.mncvision">
     <title>Solusi</title>
 </programme>
-<programme start="20261019190600 +0000" stop="20261019203100 +0000" channel="SCTV HD.mncvision">
+<programme start="20261019192600 +0000" stop="20261019203100 +0000" channel="SCTV HD.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
 </programme>
-<programme start="20261019203100 +0000" stop="20261019210400 +0000" channel="SCTV HD.mncvision">
-    <title>Mencintai Pangeran Keraton</title>
+<programme start="20261019203100 +0000" stop="20261019210600 +0000" channel="SCTV HD.mncvision">
+    <title>23 Cara Mendapatkan Cintamu</title>
 </programme>
-<programme start="20261019210400 +0000" stop="20261019213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261019210600 +0000" stop="20261019213300 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20261019213000 +0000" stop="20261019220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261019213300 +0000" stop="20261019215400 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20261019220000 +0000" stop="20261019230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261019215400 +0000" stop="20261019230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261019230000 +0000" stop="20261020000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261019230000 +0000" stop="20261020001500 +0000" channel="SCTV HD.mncvision">
     <title>Hot Shot</title>
 </programme>
-<programme start="20261020000000 +0000" stop="20261020030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020001500 +0000" stop="20261020025800 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Suci</title>
 </programme>
-<programme start="20261020030000 +0000" stop="20261020050000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020025800 +0000" stop="20261020045400 +0000" channel="SCTV HD.mncvision">
     <title>From Gadungan Jadi Tunangan</title>
 </programme>
-<programme start="20261020050000 +0000" stop="20261020053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020045400 +0000" stop="20261020053100 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261020053000 +0000" stop="20261020100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020053100 +0000" stop="20261020100000 +0000" channel="SCTV HD.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20261020100000 +0000" stop="20261020111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020100000 +0000" stop="20261020112800 +0000" channel="SCTV HD.mncvision">
     <title>Putri Pewaris</title>
 </programme>
-<programme start="20261020111500 +0000" stop="20261020124500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020112800 +0000" stop="20261020130000 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261020124500 +0000" stop="20261020143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020130000 +0000" stop="20261020143400 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261020143000 +0000" stop="20261020164500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020143400 +0000" stop="20261020161500 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261020164500 +0000" stop="20261019171500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261020161500 +0000" stop="20261020164500 +0000" channel="SCTV HD.mncvision">
     <title>UEFA Champions League (L)</title>
 </programme>
 <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="Sindo News TV.mncvision">

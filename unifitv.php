@@ -601,8 +601,6 @@
     <title lang="en">Refleksi Aktif (Ulangan)</title>
     <desc lang="en">Bersama hos Fariha Razak menyelami latihan-latihan yang dilaksanakan oleh atlet-atlet berprestasi tinggi dalam meningkatkan prestasi mereka.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261019160000 +0000" stop="20261019163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -613,50 +611,36 @@
     <title lang="en">Terlanjur Mencintaimu SR.2 (Ulangan)</title>
     <desc lang="en">Drama bersiri kekeluargaan, suka duka, perebutan kuasa,cinta dan dendam.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261019173000 +0000" stop="20261019180000 +0000" channel="tv1.unifitv">
     <title lang="en">Legasi Maritim Melayu (Ulangan)</title>
     <desc lang="en">Sebuah program dokumentari yang memaparkan warisan ilmu laut dan membongkar rahsia kehebatan dunia maritim rumpun Melayu sejak zaman silam. Temuramah bersama individu berkaitan juga turut dilakukan bagi mendapatkan lebih informasi.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261019180000 +0000" stop="20261019190000 +0000" channel="tv1.unifitv">
     <title lang="en">Imam Muda Dari Cairo (Ulangan)</title>
     <desc lang="en">Dr. Fitri, seorang doktor yang merupakan graduan universiti dari Cairo. Berita kepulangan Fitri dari Cairo, telah menjadi bualan orang kampung. Kheir pula masih tidak dapat melupakan apa yang telah berlaku 20 tahun yang lalu.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261019190000 +0000" stop="20261019193000 +0000" channel="tv1.unifitv">
     <title lang="en">Cerita Samudera (Ulangan)</title>
     <desc lang="en">Cerita Samudera membawakan cerita-cerita alam yang jarang sekali menjadi perhatian atau kurang dikenali umum.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261019193000 +0000" stop="20261019203000 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261019203000 +0000" stop="20261019210000 +0000" channel="tv1.unifitv">
     <title lang="en">Orang Minyak (Ulangan)</title>
     <desc lang="en">Sebuah drama sitkom yang memaparkan kehidupan seharian Pak Wahab serta pekerjanya Rahmat dan Chun yang turut menguruskan kedai serbaneka di stesen minyak Sini.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261019210000 +0000" stop="20261019213500 +0000" channel="tv1.unifitv">
     <title lang="en">Projek Hias (Ulangan)</title>
     <desc lang="en">Sebuah majalah yang memaparkan dekorasi hiasan dalaman rumah oleh dua pasangan keluarga yang akan bertanding mengikut konsep yand ditetapkan oleh Pakar Perunding Hiasan Dalaman yang juga merangkap sebagai ketua juri iaitu Puan Dinny.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261019213500 +0000" stop="20261019220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al-Waqiah (2026)</title>
@@ -667,8 +651,6 @@
     <title lang="en">Anda Musykil 2026 (Ulangan)</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261019230000 +0000" stop="20261019234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -694,8 +676,6 @@
     <title lang="en">Epic Safari Encounters &amp; Destination (Ulangan)</title>
     <desc lang="en">Program majalah dengan melawat beberapa destinasi safari yang menarik di Zimbabwe dan Afrika dengan disertai oleh pegawai safari sebagai jurupandu.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.15.</episode-num>
-    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20261020050000 +0000" stop="20261020053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -706,15 +686,11 @@
     <title lang="en">Terlanjur Mencintaimu SR.2 (Ulangan)</title>
     <desc lang="en">Drama bersiri kekeluargaan, suka duka, perebutan kuasa,cinta dan dendam.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261020063000 +0000" stop="20261020070000 +0000" channel="tv1.unifitv">
     <title lang="en">Sembang Jarak Jauh (Ulangan)</title>
     <desc lang="en">Gelagat Tipah dan Kak Ziah, dua jiran di kawasan rumah flat yang gemar bersembang kuat dari pintu rumah masing-masing.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261020070000 +0000" stop="20261020070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -725,8 +701,6 @@
     <title lang="en">Kuppa Kopi 2026</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.31.</episode-num>
-    <episode-num system="onscreen">S1E32</episode-num>
   </programme>
   <programme start="20261020080000 +0000" stop="20261020080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -737,15 +711,11 @@
     <title lang="en">Satu Sentuhan (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang memaparkan usaha mengitar semula barangan terpakai bagi menghasilkan perkakasan dengan kegunaan yang baru.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20261020083000 +0000" stop="20261020090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.73.</episode-num>
-    <episode-num system="onscreen">S1E74</episode-num>
   </programme>
   <programme start="20261020090000 +0000" stop="20261020100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -756,15 +726,11 @@
     <title lang="en">Bismillah 2026 (Ulangan)</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261020104500 +0000" stop="20261020114400 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261020114400 +0000" stop="20261020120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -785,8 +751,6 @@
     <title lang="en">Bicara Naratif 2026 (Ulangan)</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.48.</episode-num>
-    <episode-num system="onscreen">S1E49</episode-num>
   </programme>
   <programme start="20261020140000 +0000" stop="20261020141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>
@@ -802,15 +766,11 @@
     <title lang="en">Isteri Untuk Diiktiraf (Ulangan)</title>
     <desc lang="en">Safiyya dan Tengku Wildan yang disatukan atas pilihan keluarga walaupun pernah mempunyai konflik sebelum berkahwin. Perkahwinan mereka dipenuhi pertelingkahan, cemburu dan salah faham sehingga Tengku Wildan mula menyedari perasaannya terhadap Safiyya. Namun, tuduhan serius terhadap Wildan serta campur tangan keluarga terus menguji hubungan dan peluang mereka untuk mengecapi kebahagiaan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261020153000 +0000" stop="20261020160000 +0000" channel="tv1.unifitv">
     <title lang="en">Renovation Nation (Ulangan)</title>
     <desc lang="en">Sebuah majalah yang memaparkan pengubahsuaian semula hartanah yang hampir runtuh.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20261020160000 +0000" stop="20261020163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -15208,12 +15168,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261020115500 +0000" stop="20261020135500 +0000" channel="beinsports.unifitv">
-    <title lang="en">UEFA Youth League - Man City vs AEK Athens - MD3 (L)</title>
+    <title lang="en">UEFA Youth League - PSG vs Barcelona - MD3 (L)</title>
     <desc lang="en">The UEFA Youth League is an elite international club football tournament for the under-19 academies of Europe's top teams, running in parallel to the prestigious UEFA Champions League.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261020135500 +0000" stop="20261020160000 +0000" channel="beinsports.unifitv">
-    <title lang="en">UEFA Youth League - PSG vs Barcelona - MD3 (L)</title>
+    <title lang="en">UEFA Youth League - Man City vs AEK Athens - MD3 (L)</title>
     <desc lang="en">The UEFA Youth League is an elite international club football tournament for the under-19 academies of Europe's top teams, running in parallel to the prestigious UEFA Champions League.</desc>
     <category lang="en">Sports</category>
   </programme>
