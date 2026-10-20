@@ -643,12 +643,6 @@
 <programme start="20261020131500 +0000" stop="20261020150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261020150000 +0000" stop="20261020170000 +0000" channel="ANTV.vision">
-<title>Bagi-Bagi Dong</title>
-</programme>
-<programme start="20261020170000 +0000" stop="20261020183000 +0000" channel="ANTV.vision">
-<title>Best Of The Best</title>
-</programme>
 <programme start="20261020183000 +0000" stop="20261020193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1496,5 +1490,11 @@
 <title>Losmen Reborn S3</title>
 </programme>
 <programme start="20261020080000 +0000" stop="20261020080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261020080300 +0000" stop="20261020090000 +0000" channel="TVRI.vision">
+<title>Pengen Beken</title>
+</programme>
+<programme start="20261020090000 +0000" stop="20261020090300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>

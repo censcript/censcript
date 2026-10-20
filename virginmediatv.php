@@ -3838,7 +3838,10 @@
 <programme start="20261020033000 +0000" stop="20261020040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261020040000 +0000" stop="20261020060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261020040000 +0000" stop="20261020050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20261020050000 +0000" stop="20261020060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261020073000 +0000" stop="20261020160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4477,23 +4480,29 @@
 <programme start="20261020053000 +0000" stop="20261020060000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>A-League Men - Highlights</title>
 </programme>
-<programme start="20261020120000 +0000" stop="20261020140000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: UEFA Youth League Football - Manchester City U19 v AEK Athens FC U19</title>
-</programme>
-<programme start="20261020140000 +0000" stop="20261020141500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20261020120000 +0000" stop="20261020121500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>The Breakdown - Harry Kane</title>
 </programme>
-<programme start="20261020141500 +0000" stop="20261020144500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20261020121500 +0000" stop="20261020124500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA: Extraordinary Stories - Deserter: The Extraordinary Story of Miodrag Belodedici</title>
 </programme>
-<programme start="20261020144500 +0000" stop="20261020151500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20261020124500 +0000" stop="20261020131500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA: Extraordinary Stories - The Lions of Furiani: The Extraordinary Story of SEC Bastia</title>
 </programme>
-<programme start="20261020151500 +0000" stop="20261020154500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20261020131500 +0000" stop="20261020134500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA: Extraordinary Stories - Not For A 100 years: The Extraordinary Story of Béla Guttmann</title>
 </programme>
-<programme start="20261020154500 +0000" stop="20261020161500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+<programme start="20261020134500 +0000" stop="20261020140000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Groundbreaking - Goodison Park</title>
+</programme>
+<programme start="20261020140000 +0000" stop="20261020154500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>Live: UEFA Youth League Football - Manchester City U19 v AEK Athens FC U19</title>
+</programme>
+<programme start="20261020154500 +0000" stop="20261020160000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>UEFA: Extraordinary Stories - Impact: The Extraordinary Story of Gianluigi Lentini</title>
+</programme>
+<programme start="20261020160000 +0000" stop="20261020161500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
+    <title>The Breakdown - Harry Kane</title>
 </programme>
 <programme start="20261020161500 +0000" stop="20261020164500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Match Officials Mic&#039;d Up - Episode 2</title>
@@ -4651,7 +4660,10 @@
 <programme start="20261020033000 +0000" stop="20261020040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261020040000 +0000" stop="20261020060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261020040000 +0000" stop="20261020050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20261020050000 +0000" stop="20261020060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261020073000 +0000" stop="20261020160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
