@@ -4202,7 +4202,7 @@
     <title>Tennis: ATP Shanghai Masters 2026 - Review</title>
 </programme>
 <programme start="20261021011500 +0000" stop="20261021014500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 103</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261021014500 +0000" stop="20261021020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Final</title>
@@ -4457,10 +4457,10 @@
     <title>Premier League - Everton v Chelsea</title>
 </programme>
 <programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 2</title>
+    <title>Live: Northern Ireland Open Snooker - Round 2: John Higgins v Jak Jones</title>
 </programme>
 <programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 2</title>
+    <title>Live: Northern Ireland Open Snooker - Round 2: Zhang Anda v Mark Williams</title>
 </programme>
 <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>FIA World Endurance Championship Motor Racing - 6 Hours of Barcelona</title>
@@ -4595,10 +4595,10 @@
     <title>Major League Baseball - World Series, Game 2: Los Angeles Dodgers at Toronto Blue Jays</title>
 </programme>
 <programme start="20261021120000 +0000" stop="20261021140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 2</title>
+    <title>Live: Northern Ireland Open Snooker - Round 2: John Higgins v Jak Jones</title>
 </programme>
 <programme start="20261021140000 +0000" stop="20261021160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 2</title>
+    <title>Live: Northern Ireland Open Snooker - Round 2: Zhang Anda v Mark Williams</title>
 </programme>
 <programme start="20261021160000 +0000" stop="20261021161500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>TNT Sports Cricket Reload - India v Zimbabwe: Women&#039;s 3rd T20</title>
@@ -5057,7 +5057,7 @@
     <title>Tennis: ATP Shanghai Masters 2026 - Review</title>
 </programme>
 <programme start="20261021011500 +0000" stop="20261021014500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 103</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261021014500 +0000" stop="20261021020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Final</title>

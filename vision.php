@@ -646,9 +646,6 @@
 <programme start="20261021093000 +0000" stop="20261021104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261021104500 +0000" stop="20261021131500 +0000" channel="ANTV.vision">
-<title>Darah Muda</title>
-</programme>
 <programme start="20261021131500 +0000" stop="20261021150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261021050000 +0000" stop="20261021060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
+</programme>
+<programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="TVRI.vision">
+<title>Marbot Ali</title>
 </programme>
