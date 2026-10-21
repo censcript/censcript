@@ -7580,7 +7580,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261021150000 +0000" stop="20261021160000 +0000" channel="RCTI.mncvision">
-    <title>The Villa Girl&#039;s Secret</title>
+    <title>Cinta Tak Untuk Dijual</title>
 </programme>
 <programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="RCTI.mncvision">
     <title>Anugerah Cinta</title>
@@ -7628,7 +7628,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261021150000 +0000" stop="20261021160000 +0000" channel="RCTI HD.mncvision">
-    <title>The Villa Girl&#039;s Secret</title>
+    <title>Cinta Tak Untuk Dijual</title>
 </programme>
 <programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="RCTI HD.mncvision">
     <title>Anugerah Cinta</title>

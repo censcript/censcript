@@ -5530,7 +5530,10 @@
 <programme start="20261021125500 +0000" stop="20261021130000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Odo - The Eclipse</title>
 </programme>
-<programme start="20261021130000 +0000" stop="20261021131500 +0000" channel="RTE_KIDSjr.virginmediatv">
+<programme start="20261021130000 +0000" stop="20261021131000 +0000" channel="RTE_KIDSjr.virginmediatv">
+    <title>Hey Duggee - The Spider Badge</title>
+</programme>
+<programme start="20261021131000 +0000" stop="20261021131500 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Bluey - Work</title>
 </programme>
 <programme start="20261021131500 +0000" stop="20261021132500 +0000" channel="RTE_KIDSjr.virginmediatv">
