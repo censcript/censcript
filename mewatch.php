@@ -782,5 +782,5 @@
         <title>No programme available now. - EP5</title>
     </programme>
     <programme start="20261022160000 +0000" stop="20261023160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th October, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC</title>
+        <title>No programme available now.</title>
     </programme>

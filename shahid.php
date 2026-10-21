@@ -193,6 +193,9 @@
     <programme start="20261024000000 +0000" stop="20261023235959 +0000" channel="387288.shahid">
         <title>Al Hadath News</title>
     </programme>
+    <programme start="20261022000000 +0000" stop="20261023235959 +0000" channel="1007223.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261022000000 +0000" stop="20261022002955 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Dawri El Abtal Season 4 Episode 27</title>
     </programme>
@@ -417,9 +420,6 @@
     </programme>
     <programme start="20261023233227 +0000" stop="20261023235959 +0000" channel="992538.shahid">
         <title>El Le&#039;ba Season 1 Episode 18</title>
-    </programme>
-    <programme start="20261022000000 +0000" stop="20261023235959 +0000" channel="1007223.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20261022000000 +0000" stop="20261022000205 +0000" channel="49923172117967.shahid">
         <title>Kadha Habibi</title>
@@ -2179,6 +2179,9 @@
     <programme start="20261023120419 +0000" stop="20261023235959 +0000" channel="989622.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20261022000000 +0000" stop="20261023235959 +0000" channel="999927.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261022000000 +0000" stop="20261022060000 +0000" channel="1003218.shahid">
         <title>TV guide is not available</title>
     </programme>
@@ -2225,9 +2228,6 @@
         <title>Al Arabiya News</title>
     </programme>
     <programme start="20261022160500 +0000" stop="20261023235959 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261022000000 +0000" stop="20261023235959 +0000" channel="999927.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20261022000000 +0000" stop="20261023235959 +0000" channel="946948.shahid">
