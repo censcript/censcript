@@ -204,16 +204,16 @@
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261021143900 +0000" stop="20261021161700 +0000">
+  <programme channel="204" start="20261021143900 +0000" stop="20261021161800 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron terbaru biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261021161700 +0000" stop="20261021184200 +0000">
+  <programme channel="204" start="20261021161800 +0000" stop="20261021184200 +0000">
     <title lang="id">Como VS Man United - UEFA CHAMPIONS LEAGUE - LIVE</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261021161700 +0000" stop="20261021184200 +0000">
+  <programme channel="204" start="20261021161800 +0000" stop="20261021184200 +0000">
     <title lang="id">Como VS Man United - UEFA CHAMPIONS LEAGUE - LIVE</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
@@ -1001,17 +1001,17 @@
     <desc lang="id">AVC MEN'S NATION CUP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261021140700 +0000" stop="20261021162500 +0000">
+  <programme channel="206" start="20261021140700 +0000" stop="20261021155600 +0000">
     <title lang="id">UEFA Champions League</title>
     <desc lang="id">UEFA CHAMPIONS LEAGUE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261021162500 +0000" stop="20261021180600 +0000">
+  <programme channel="206" start="20261021155600 +0000" stop="20261021180600 +0000">
     <title lang="id">VNL 2026</title>
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261021162500 +0000" stop="20261021180600 +0000">
+  <programme channel="206" start="20261021155600 +0000" stop="20261021180600 +0000">
     <title lang="id">VNL 2026</title>
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -12046,12 +12046,12 @@
     <desc lang="id">SHOW 08 - MATCHWEEK 08</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261023183000 +0000" stop="20261023210000 +0000">
-    <title lang="id">Ipswich Town vs Nottingham Forest : [LIVE] Premier League 2026/27</title>
-    <desc lang="id">IPSWICH TOWN vs NOTTINGHAM FOREST</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  <programme channel="9182" start="20261023190000 +0000" stop="20261023211500 +0000">
+    <title lang="id">Ipswich vs Nottingham Forest - Premier League</title>
+    <desc lang="id">Kedua tim masih dalam performa inkonsisten, siapakah di antara Ipswich atau Nott'm Forest yang bakal kunci kemenangan?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LzD-cQD99HreoV4-Np5ZdITono4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391017/87bbef.jpg"/>
   </programme>
-  <programme channel="9182" start="20261023210000 +0000" stop="20261023213000 +0000">
+  <programme channel="9182" start="20261023211500 +0000" stop="20261023213000 +0000">
     <title lang="id">Show - Matchday 08 : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">SHOW - MATCHDAY 08</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
@@ -12329,17 +12329,17 @@
     <desc lang="id">Top 20 David Beckham Goals</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261021164000 +0000" stop="20261021185500 +0000">
+  <programme channel="6317" start="20261021164000 +0000" stop="20261021185000 +0000">
     <title lang="id">LOSC Lille vs Galatasaray - UEFA Champions League</title>
     <desc lang="id">Mampukah Calvin Verdonk dkk meraih hasil positif kala menjamu Galatasaray?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KkwBeo1DRUFo0N3078czODEOmQc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385698/b9a670.jpg"/>
   </programme>
-  <programme channel="6317" start="20261021164000 +0000" stop="20261021185500 +0000">
+  <programme channel="6317" start="20261021164000 +0000" stop="20261021185000 +0000">
     <title lang="id">LOSC Lille vs Galatasaray - UEFA Champions League</title>
     <desc lang="id">Mampukah Calvin Verdonk dkk meraih hasil positif kala menjamu Galatasaray?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KkwBeo1DRUFo0N3078czODEOmQc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385698/b9a670.jpg"/>
   </programme>
-  <programme channel="6317" start="20261021185500 +0000" stop="20261021210000 +0000">
+  <programme channel="6317" start="20261021185000 +0000" stop="20261021210000 +0000">
     <title lang="id">Real Madrid vs RB Leipzig - UEFA Champions League</title>
     <desc lang="id">Pertarungan sengit Liga Champions, Real Madrid bentrok lawan RB Leipzig!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Lsf3Hkoxd-Bw4kgTEgxbgi0URcU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5387997/bcc090.jpg"/>

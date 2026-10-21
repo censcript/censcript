@@ -3832,7 +3832,10 @@
 <programme start="20261021013000 +0000" stop="20261021040000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NBA Basketball - Oklahoma City Thunder at San Antonio Spurs</title>
 </programme>
-<programme start="20261021040000 +0000" stop="20261021060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261021040000 +0000" stop="20261021050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20261021050000 +0000" stop="20261021060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261021073000 +0000" stop="20261021160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4687,7 +4690,10 @@
 <programme start="20261021013000 +0000" stop="20261021040000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: NBA Basketball - Oklahoma City Thunder at San Antonio Spurs</title>
 </programme>
-<programme start="20261021040000 +0000" stop="20261021060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261021040000 +0000" stop="20261021050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Sky Sports News</title>
+</programme>
+<programme start="20261021050000 +0000" stop="20261021060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261021073000 +0000" stop="20261021160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">

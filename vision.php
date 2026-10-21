@@ -649,12 +649,6 @@
 <programme start="20261021131500 +0000" stop="20261021150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261021150000 +0000" stop="20261021170000 +0000" channel="ANTV.vision">
-<title>Godain Kita Dong</title>
-</programme>
-<programme start="20261021170000 +0000" stop="20261021183000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 2</title>
-</programme>
 <programme start="20261021183000 +0000" stop="20261021193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261021060000 +0000" stop="20261021070000 +0000" channel="TVRI.vision">
 <title>Marbot Ali</title>
+</programme>
+<programme start="20261021070000 +0000" stop="20261021070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261021070300 +0000" stop="20261021080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn S3</title>
 </programme>
