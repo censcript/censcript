@@ -448,16 +448,16 @@
 <programme start="20261021173000 +0000" stop="20261021180000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Newsline</title>
 </programme>
-<programme start="20261020230000 +0000" stop="20261021002500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261020231500 +0000" stop="20261021004000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Retreat</title>
 </programme>
-<programme start="20261021002500 +0000" stop="20261021013000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261021004000 +0000" stop="20261021014000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Celebrity Traitors - Episode 6</title>
 </programme>
-<programme start="20261021013000 +0000" stop="20261021020000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261021014000 +0000" stop="20261021021000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Celebrity Traitors: Uncloaked - Episode 6</title>
 </programme>
-<programme start="20261021020000 +0000" stop="20261021053000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261021021000 +0000" stop="20261021053000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261021053000 +0000" stop="20261021061500 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -4195,20 +4195,14 @@
 <programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>NBA Basketball - Philadelphia 76ers at New York Knicks</title>
 </programme>
-<programme start="20261021000000 +0000" stop="20261021001500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP Canadian Open 2026 - Final</title>
+<programme start="20261020224500 +0000" stop="20261021001500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: Day Highlights - Day 2</title>
 </programme>
-<programme start="20261021001500 +0000" stop="20261021003000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
+<programme start="20261021001500 +0000" stop="20261021011500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+    <title>Tennis: ATP Shanghai Masters 2026 - Review</title>
 </programme>
-<programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>WTA All Access</title>
-</programme>
-<programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20261021011500 +0000" stop="20261021014500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>ATP Tour: This Week - Episode 103</title>
-</programme>
-<programme start="20261021013000 +0000" stop="20261021014500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Tennis: WTA Qatar Open 2026 - Final</title>
 </programme>
 <programme start="20261021014500 +0000" stop="20261021020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Final</title>
@@ -5056,20 +5050,14 @@
 <programme start="20261021170000 +0000" stop="20261021190000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>NBA Basketball - Philadelphia 76ers at New York Knicks</title>
 </programme>
-<programme start="20261021000000 +0000" stop="20261021001500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP Canadian Open 2026 - Final</title>
+<programme start="20261020224500 +0000" stop="20261021001500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: Day Highlights - Day 2</title>
 </programme>
-<programme start="20261021001500 +0000" stop="20261021003000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - ATP Final</title>
+<programme start="20261021001500 +0000" stop="20261021011500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: ATP Shanghai Masters 2026 - Review</title>
 </programme>
-<programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>WTA All Access</title>
-</programme>
-<programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20261021011500 +0000" stop="20261021014500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>ATP Tour: This Week - Episode 103</title>
-</programme>
-<programme start="20261021013000 +0000" stop="20261021014500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Tennis: WTA Qatar Open 2026 - Final</title>
 </programme>
 <programme start="20261021014500 +0000" stop="20261021020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Dubai Championship 2026 - WTA Final</title>

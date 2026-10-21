@@ -1186,16 +1186,16 @@
   <programme start="20261023011000 +0000" stop="20261023030000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20261023030000 +0000" stop="20261023043500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hádzaná - EHF Euro 2026</title>
+  <programme start="20261023030000 +0000" stop="20261023050000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Portugalský pohár</title>
   </programme>
-  <programme start="20261023043500 +0000" stop="20261023062500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261023050000 +0000" stop="20261023063500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20261023062500 +0000" stop="20261023084500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Footgolf</title>
+  <programme start="20261023063500 +0000" stop="20261023084000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Volejbal CEV Liga Majstrov ženy</title>
   </programme>
-  <programme start="20261023084500 +0000" stop="20261023095500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261023084000 +0000" stop="20261023095500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">PIVOT</title>
   </programme>
   <programme start="20261023095500 +0000" stop="20261023113500 +0000" channel="JOJ Šport 2.webtv.sk">

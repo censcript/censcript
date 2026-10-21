@@ -757,9 +757,21 @@
     <programme start="20261021160000 +0000" stop="20261022160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45pm. AFC Champions League Two 2026/27: Adelaide United FC vs Lion City Sailors FC</title>
     </programme>
-    <programme start="20261020160000 +0000" stop="20261021160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th October, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC</title>
+    <programme start="20261020160000 +0000" stop="20261020220000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP1</title>
+    </programme>
+    <programme start="20261020220000 +0000" stop="20261021040000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP2</title>
+    </programme>
+    <programme start="20261021040000 +0000" stop="20261021070000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP3</title>
+    </programme>
+    <programme start="20261021070000 +0000" stop="20261021100000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP4</title>
+    </programme>
+    <programme start="20261021100000 +0000" stop="20261021160000 +0000" channel="Live 6.mewatch">
+        <title>No programme available now. - EP5</title>
     </programme>
     <programme start="20261021160000 +0000" stop="20261022160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th October, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC</title>
+        <title>No programme available now.</title>
     </programme>

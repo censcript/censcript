@@ -15086,25 +15086,15 @@
     <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261020201500 +0000" stop="20261021000000 +0000" channel="spotv2.unifitv">
+  <programme start="20261020201500 +0000" stop="20261021000800 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 WorldSBK: Rd 12 Pirelli Spanish Round - SPB/SSP/SBK Race 2</title>
     <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261021000000 +0000" stop="20261021003000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Asian Campaign - Rewind Australia 2025</title>
-    <desc lang="en">Recap the action, behind-the-scenes and rider interviews at the MotoGP 2025.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20261021003000 +0000" stop="20261021013000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 FIA TCR World Tour, Chengdu - Qualifying</title>
-    <desc lang="en">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
-    <category lang="en">Motorsports</category>
-  </programme>
-  <programme start="20261021013000 +0000" stop="20261021030000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 FIA TCR World Tour, Chengdu - Round 13 Race</title>
-    <desc lang="en">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
-    <category lang="en">Motorsports</category>
+  <programme start="20261021000800 +0000" stop="20261021030000 +0000" channel="spotv2.unifitv">
+    <title lang="en">(L) MLB 2026 Postseason: AL Championship Series Game 7 - Tampa Bay Rays vs Cleveland Guardians</title>
+    <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <category lang="en">Baseball</category>
   </programme>
   <programme start="20261021030000 +0000" stop="20261021080500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoJunior FIM World C'ship, Motor Valley and Emilia-Romagna - Moto3 Jr WCh/Moto2 ECh/Moto4 EC/Stock ECh</title>
@@ -15121,8 +15111,13 @@
     <desc lang="en">The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261021121500 +0000" stop="20261021151500 +0000" channel="spotv2.unifitv">
-    <title lang="en">MLB 2026 Postseason: NL Championship Series Game 4 - Milwaukee Brewers vs Los Angeles Dodgers</title>
+  <programme start="20261021121500 +0000" stop="20261021124500 +0000" channel="spotv2.unifitv">
+    <title lang="en">2026 Longines Global Champions Tour, Rome - Highlights</title>
+    <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+    <category lang="en">Extreme Sports</category>
+  </programme>
+  <programme start="20261021124500 +0000" stop="20261021151500 +0000" channel="spotv2.unifitv">
+    <title lang="en">MLB 2026 Postseason: AL Championship Series Game 7 - Tampa Bay Rays vs Cleveland Guardians</title>
     <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <category lang="en">Baseball</category>
   </programme>

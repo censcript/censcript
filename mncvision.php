@@ -187,9 +187,6 @@
 <programme start="20261021160000 +0000" stop="20261021163000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
 </programme>
-<programme start="20261021163000 +0000" stop="20261020170000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Echoes Of A Lost Gaza</title>
-</programme>
 <programme start="20261020170000 +0000" stop="20261020190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
 </programme>
