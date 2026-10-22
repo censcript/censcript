@@ -4085,7 +4085,7 @@
     <title>In Hell</title>
 </programme>
 <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="GTV.mncvision">
-    <title>Untold Story</title>
+    <title>Untold Story Experiment</title>
 </programme>
 <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="GTV.mncvision">
     <title>Dalam Tegukan Takdir</title>
@@ -4127,7 +4127,7 @@
     <title>In Hell</title>
 </programme>
 <programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="GTV HD.mncvision">
-    <title>Untold Story</title>
+    <title>Untold Story Experiment</title>
 </programme>
 <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="GTV HD.mncvision">
     <title>Dalam Tegukan Takdir</title>

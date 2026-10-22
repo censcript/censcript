@@ -16417,8 +16417,11 @@
   <programme start="20261024200000 +0000" stop="20261024220000 +0000" channel="Espreso TV.webtv.sk">
     <title lang="id">Суботній політклуб</title>
   </programme>
-  <programme start="20261023220000 +0000" stop="20261023230000 +0000" channel="Current Time.webtv.sk">
-    <title lang="id">Спецпроект.Док</title>
+  <programme start="20261023220000 +0000" stop="20261023223000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ЗА НАШУ СВОБОДУ: Нас уже пытались закрыть</title>
+  </programme>
+  <programme start="20261023223000 +0000" stop="20261023230000 +0000" channel="Current Time.webtv.sk">
+    <title lang="id">ЗА НАШУ СВОБОДУ: Вырывание политического</title>
   </programme>
   <programme start="20261023230000 +0000" stop="20261024000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Документальный час</title>

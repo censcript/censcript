@@ -8,7 +8,7 @@
     <title>The Tonight Show - Episode 75</title>
 </programme>
 <programme start="20261022051500 +0000" stop="20261022060000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
-    <title>The Six O&#039;Clock Show - Episode 201</title>
+    <title>The Six O&#039;Clock Show - Roy G Hemmings</title>
 </programme>
 <programme start="20261022120000 +0000" stop="20261022130000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Chase - Episode 51</title>
