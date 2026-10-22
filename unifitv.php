@@ -14952,14 +14952,9 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20261021140000 +0000" stop="20261021193000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261021140000 +0000" stop="20261021195500 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Fight Night: Buckley vs. Malott - Main</title>
     <desc lang="en">Returning to Edmonton for the fourth time, UFC brings an action-packed fight card to Rogers Place on Sunday, October 18 headlined by a compelling welterweight main event between Joaquin “New Mansa” Buckley and “Proper” Mike Malott. Buckley makes his first trip north of the border seeking to maintain his place in the welterweight Top 10 and showcase the explosive skills that previously produced wins over former title challengers Stephen Thompson and Colby Covington. The Ontario native Malott makes his seventh consecutive start in Canada and second main event appearance of 2026, looking to add to his four-fight winning streak and build on his third-round stoppage win over Gilbert Burns in Winnipeg back in April.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261021193000 +0000" stop="20261021195500 +0000" channel="unifisports1.unifitv">
-    <title lang="en">UFC Fight Flashback - Volkanovski vs Ortega</title>
-    <desc lang="en">At UFC 266, The Ultimate Fighter coaching rivalry between featherweight champion Alexander Volkanovski and Brian Ortega came to a head. Relive the action like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261021195500 +0000" stop="20261021200000 +0000" channel="unifisports1.unifitv">
@@ -14997,9 +14992,49 @@
     <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261022060000 +0000" stop="20261022153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261022060000 +0000" stop="20261022083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 319: Du Plessis vs Chimaev</title>
     <desc lang="en">UFC returns to Chicago with a stacked card featuring one of the most highly anticipated middleweight title fights in years, as South African champion Dricus Du Plessis faces his toughest test to date against unbeaten challenger Khamzat Chimaev. Plus a whole lot more action on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022083000 +0000" stop="20261022090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 4 - 12</title>
+    <desc lang="en">Program pencarian bakat bola sepak yang hebat diteruskan lagi dengan Musim Ke-4. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022090000 +0000" stop="20261022093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 30</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022093000 +0000" stop="20261022100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - Usman vs. Covington 2</title>
+    <desc lang="en">UFC 268 was headlined by the heated rematch between welterweight king Kamaru “The Nigerian Nightmare” Usman and Colby “Chaos” Covington. Relive their incredible battle with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022100000 +0000" stop="20261022123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 320: Ankalaev vs Pereira 2</title>
+    <desc lang="en">UFC returns to Chicago with a stacked card featuring one of the most highly anticipated middleweight title fights in years, as South African champion Dricus Du Plessis faces his toughest test to date against unbeaten challenger Khamzat Chimaev. Plus a whole lot more action on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022123000 +0000" stop="20261022130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1101: Best Of 2023 - 2024</title>
+    <desc lang="en">UFC Ultimate Knockouts showcases the most thrilling KOs from recent UFC events in 2023 and 2024. Relive the explosive highlights from fighters like Max Holloway, Islam Makhachev, and Alex Pereira.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022130000 +0000" stop="20261022135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 317: Topuria vs Oliveira</title>
+    <desc lang="en">UFC 317 Countdown previews two title fights, as former 145-pound king Ilia Topuria faces former 155-pound champion Charles Oliveira for the vacant lightweight title. In the co-main event, flyweight champ Alexandre Pantoja faces Kai Kara-France.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022135500 +0000" stop="20261022140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS ADRIAN LOPEZ - LALIGA TOP GOALS ADRIAN LOPEZ</title>
+    <desc lang="en">Remember Adrian? One of LaLiga's famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261022140000 +0000" stop="20261022193000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Buckley vs. Malott - Main</title>
+    <desc lang="en">Returning to Edmonton for the fourth time, UFC brings an action-packed fight card to Rogers Place on Sunday, October 18 headlined by a compelling welterweight main event between Joaquin “New Mansa” Buckley and “Proper” Mike Malott. Buckley makes his first trip north of the border seeking to maintain his place in the welterweight Top 10 and showcase the explosive skills that previously produced wins over former title challengers Stephen Thompson and Colby Covington. The Ontario native Malott makes his seventh consecutive start in Canada and second main event appearance of 2026, looking to add to his four-fight winning streak and build on his third-round stoppage win over Gilbert Burns in Winnipeg back in April.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
