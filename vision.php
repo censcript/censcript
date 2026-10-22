@@ -149,15 +149,18 @@
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20261022103000 +0000" stop="20261022120000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Cermin Retak Untuk Merak</title>
 </programme>
 <programme start="20261022120000 +0000" stop="20261022133000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Cangkang Baru Petualang Kecil</title>
 </programme>
 <programme start="20261022133000 +0000" stop="20261022153000 +0000" channel="GTV.vision">
 <title>In Hell</title>
 </programme>
-<programme start="20261022153000 +0000" stop="20261022173000 +0000" channel="GTV.vision">
+<programme start="20261022153000 +0000" stop="20261022160000 +0000" channel="GTV.vision">
+<title>Untold Story Experiment</title>
+</programme>
+<programme start="20261022160000 +0000" stop="20261022173000 +0000" channel="GTV.vision">
 <title>Dalam Tegukan Takdir</title>
 </programme>
 <programme start="20261022173000 +0000" stop="20261022190000 +0000" channel="GTV.vision">
@@ -184,11 +187,14 @@
 <programme start="20261023050000 +0000" stop="20261023080000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20261023080000 +0000" stop="20261023103000 +0000" channel="GTV.vision">
+<programme start="20261023080000 +0000" stop="20261023090000 +0000" channel="GTV.vision">
+<title>Zak Storm</title>
+</programme>
+<programme start="20261023090000 +0000" stop="20261023103000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20261023103000 +0000" stop="20261023120000 +0000" channel="GTV.vision">
-<title>Film Keluarga</title>
+<title>Semut Kecil &amp; Jembatan Daun</title>
 </programme>
 <programme start="20261021234500 +0000" stop="20261022001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -648,9 +654,6 @@
 </programme>
 <programme start="20261022093000 +0000" stop="20261022104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
-</programme>
-<programme start="20261022104500 +0000" stop="20261022131500 +0000" channel="ANTV.vision">
-<title>Badai Di Awal Bahagia</title>
 </programme>
 <programme start="20261022131500 +0000" stop="20261022150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
@@ -1494,7 +1497,4 @@
 </programme>
 <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
-</programme>
-<programme start="20261022060000 +0000" stop="20261022070000 +0000" channel="TVRI.vision">
-<title>Marbot Ali</title>
 </programme>

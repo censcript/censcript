@@ -169,10 +169,10 @@
     <programme start="20261022160000 +0000" stop="20261022163000 +0000" channel="Channel 5.mewatch">
         <title>Yes Captain! - EP 43</title>
     </programme>
-    <programme start="20261021160000 +0000" stop="20261021170000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261021160000 +0000" stop="20261021165900 +0000" channel="Channel 8.mewatch">
         <title>Love of Nirvana - EP 25</title>
     </programme>
-    <programme start="20261021170000 +0000" stop="20261021180000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261021165900 +0000" stop="20261021180000 +0000" channel="Channel 8.mewatch">
         <title>Cyber Scammed - EP 2</title>
     </programme>
     <programme start="20261021180000 +0000" stop="20261021190000 +0000" channel="Channel 8.mewatch">

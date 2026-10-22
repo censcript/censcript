@@ -1,7 +1,7 @@
-<programme start="20261022000000 +0000" stop="20261022004800 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20261022000000 +0000" stop="20261022005500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Bay - Episode 2</title>
 </programme>
-<programme start="20261022004800 +0000" stop="20261022042500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20261022005500 +0000" stop="20261022042500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261022042500 +0000" stop="20261022051500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -487,10 +487,10 @@
 <programme start="20261022173000 +0000" stop="20261022180000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Strictly Come Dancing: It Takes Two - Episode 19</title>
 </programme>
-<programme start="20261022000000 +0000" stop="20261022004800 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20261022000000 +0000" stop="20261022005500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>The Bay - Episode 2</title>
 </programme>
-<programme start="20261022004800 +0000" stop="20261022042500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20261022005500 +0000" stop="20261022042500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261022042500 +0000" stop="20261022052500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
@@ -4172,7 +4172,7 @@
     <title>Formula 1 - Italian Grand Prix: Highlights</title>
 </programme>
 <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>WTA All Access</title>
+    <title>WTA All Access - Episode 7</title>
 </programme>
 <programme start="20261022003000 +0000" stop="20261022004500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Final</title>
@@ -4400,10 +4400,10 @@
     <title>Women&#039;s International T20 Cricket - 3rd T20: India v Zimbabwe</title>
 </programme>
 <programme start="20261022120000 +0000" stop="20261022140000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 3</title>
+    <title>Live: Northern Ireland Open Snooker - Round 3: Kyren Wilson v Pang Junxu</title>
 </programme>
 <programme start="20261022140000 +0000" stop="20261022160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 3</title>
+    <title>Live: Northern Ireland Open Snooker - Round 3: Anthony McGill v Mateusz Baranowski</title>
 </programme>
 <programme start="20261022160000 +0000" stop="20261022184500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: UEFA Europa League Football - Lech Poznan v Sunderland</title>
@@ -4514,10 +4514,10 @@
     <title>Major League Baseball - World Series, Game 3: Toronto Blue Jays at Los Angeles Dodgers</title>
 </programme>
 <programme start="20261022120000 +0000" stop="20261022140000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 3</title>
+    <title>Live: Northern Ireland Open Snooker - Round 3: Kyren Wilson v Pang Junxu</title>
 </programme>
 <programme start="20261022140000 +0000" stop="20261022160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Round 3</title>
+    <title>Live: Northern Ireland Open Snooker - Round 3: Anthony McGill v Mateusz Baranowski</title>
 </programme>
 <programme start="20261022160000 +0000" stop="20261022170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>FIA World Rally-Raid Championship Highlights - Rallye du Maroc</title>
@@ -4943,7 +4943,7 @@
     <title>Formula 1 - Italian Grand Prix: Highlights</title>
 </programme>
 <programme start="20261022000000 +0000" stop="20261022003000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>WTA All Access</title>
+    <title>WTA All Access - Episode 7</title>
 </programme>
 <programme start="20261022003000 +0000" stop="20261022004500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Final</title>
@@ -6125,7 +6125,7 @@
     <title>The Football Academy - Could It Be Magic?</title>
 </programme>
 <programme start="20261022170000 +0000" stop="20261022172500 +0000" channel="CBBC.virginmediatv">
-    <title>Stage Stars - Episode 14</title>
+    <title>Stage Stars - Go, Go, Go Joseph</title>
 </programme>
 <programme start="20261022172500 +0000" stop="20261022175000 +0000" channel="CBBC.virginmediatv">
     <title>The Next Step: Cheer - Assistant Coach?!</title>

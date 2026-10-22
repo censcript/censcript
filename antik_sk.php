@@ -274,55 +274,49 @@
   <programme start="20261024205500 +0000" stop="20261024220400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Kriminálka Staré Mesto I (1/7)</title>
   </programme>
-  <programme start="20261023215900 +0000" stop="20261023225000 +0000" channel=":24.webtv.sk">
+  <programme start="20261023215900 +0000" stop="20261023224000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20261023225000 +0000" stop="20261023230500 +0000" channel=":24.webtv.sk">
+  <programme start="20261023224000 +0000" stop="20261023225500 +0000" channel=":24.webtv.sk">
     <title lang="id">Góly - body - sekundy</title>
   </programme>
-  <programme start="20261023230500 +0000" stop="20261023231500 +0000" channel=":24.webtv.sk">
+  <programme start="20261023225500 +0000" stop="20261023230500 +0000" channel=":24.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20261023231500 +0000" stop="20261023234000 +0000" channel=":24.webtv.sk">
+  <programme start="20261023230500 +0000" stop="20261023233000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy z regiónov</title>
   </programme>
-  <programme start="20261023234000 +0000" stop="20261024000500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Týždeň v ekonomike</title>
-  </programme>
-  <programme start="20261024000500 +0000" stop="20261024003000 +0000" channel=":24.webtv.sk">
+  <programme start="20261023233000 +0000" stop="20261023235500 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet 24</title>
   </programme>
-  <programme start="20261024003000 +0000" stop="20261024010000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20261024010000 +0000" stop="20261024012500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20261024012500 +0000" stop="20261024015000 +0000" channel=":24.webtv.sk">
+  <programme start="20261023235500 +0000" stop="20261024002000 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy 24</title>
   </programme>
-  <programme start="20261024015000 +0000" stop="20261024021000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20261024021000 +0000" stop="20261024023500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
-  </programme>
-  <programme start="20261024023500 +0000" stop="20261024025500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20261024025500 +0000" stop="20261024030000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20261024030000 +0000" stop="20261024033000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet 24</title>
-  </programme>
-  <programme start="20261024033000 +0000" stop="20261024035500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20261024035500 +0000" stop="20261024042000 +0000" channel=":24.webtv.sk">
+  <programme start="20261024002000 +0000" stop="20261024004500 +0000" channel=":24.webtv.sk">
     <title lang="id">Týždeň v ekonomike</title>
   </programme>
-  <programme start="20261024042000 +0000" stop="20261024050000 +0000" channel=":24.webtv.sk">
+  <programme start="20261024004500 +0000" stop="20261024011000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Šport 24</title>
+  </programme>
+  <programme start="20261024011000 +0000" stop="20261024020000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024023000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy z regiónov</title>
+  </programme>
+  <programme start="20261024023000 +0000" stop="20261024025500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Interview 24</title>
+  </programme>
+  <programme start="20261024025500 +0000" stop="20261024034500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy</title>
+  </programme>
+  <programme start="20261024034500 +0000" stop="20261024035000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20261024035000 +0000" stop="20261024041500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Týždeň v ekonomike</title>
+  </programme>
+  <programme start="20261024041500 +0000" stop="20261024050000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet 24</title>
   </programme>
   <programme start="20261024050000 +0000" stop="20261024051500 +0000" channel=":24.webtv.sk">
@@ -398,7 +392,7 @@
     <title lang="id">Aktuálne 24</title>
   </programme>
   <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Cestománia IV (5/26)</title>
+    <title lang="id">Cestománia IV</title>
   </programme>
   <programme start="20261024160000 +0000" stop="20261024162500 +0000" channel=":24.webtv.sk">
     <title lang="id">Aktuálne 24</title>
@@ -1096,13 +1090,13 @@
   <programme start="20261024204500 +0000" stop="20261024224000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Taxi</title>
   </programme>
-  <programme start="20261023195000 +0000" stop="20261023225500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261023202500 +0000" stop="20261023224000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal CEV Liga Majstrov ženy</title>
   </programme>
-  <programme start="20261023225500 +0000" stop="20261023234000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261023224000 +0000" stop="20261023233000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
-  <programme start="20261023234000 +0000" stop="20261024005500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261023233000 +0000" stop="20261024005500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">FIS Svetový pohár obrovský slalom ženy</title>
   </programme>
   <programme start="20261024005500 +0000" stop="20261024014500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1138,10 +1132,10 @@
   <programme start="20261024165500 +0000" stop="20261024200000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261024200000 +0000" stop="20261024204500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261024204500 +0000" stop="20261024223500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261024210000 +0000" stop="20261024223500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
   <programme start="20261023214000 +0000" stop="20261023233500 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -4755,6 +4749,54 @@
   </programme>
   <programme start="20261024210000 +0000" stop="20261024221500 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Lezení: World Series v Santiagu</title>
+  </programme>
+  <programme start="20261023204500 +0000" stop="20261023234500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: HK Nitra - HC Košice</title>
+  </programme>
+  <programme start="20261023234500 +0000" stop="20261024020000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Zug - Lausanne</title>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024030000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024040000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024050000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20261024050000 +0000" stop="20261024070000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20261024070000 +0000" stop="20261024080000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024110000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: HK Nitra - HC Košice</title>
+  </programme>
+  <programme start="20261024110000 +0000" stop="20261024130000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Olympiacos - Sparta Praha</title>
+  </programme>
+  <programme start="20261024130000 +0000" stop="20261024150000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Cagliari - Bologna</title>
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024160000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Tragédie na stadionu Heysel 6/1</title>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Neapol - Řím</title>
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024184500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">MVP</title>
+  </programme>
+  <programme start="20261024184500 +0000" stop="20261024204500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Lazio - Parma</title>
+  </programme>
+  <programme start="20261024204500 +0000" stop="20261024214500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20261024214500 +0000" stop="20261024234500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Cagliari - Bologna</title>
   </programme>
   <programme start="20261023201500 +0000" stop="20261023221500 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Fotbal</title>
@@ -9318,6 +9360,78 @@
   </programme>
   <programme start="20261024215500 +0000" stop="20261024222500 +0000" channel="DocuBox.webtv.sk">
     <title lang="id">Everyday Elements (7)</title>
+  </programme>
+  <programme start="20261023220000 +0000" stop="20261023230000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261023230000 +0000" stop="20261024000000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024000000 +0000" stop="20261024010000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20261024010000 +0000" stop="20261024020000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20261024020000 +0000" stop="20261024030000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Nite Sides</title>
+  </programme>
+  <programme start="20261024030000 +0000" stop="20261024040000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024040000 +0000" stop="20261024050000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20261024050000 +0000" stop="20261024060000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20261024060000 +0000" stop="20261024070000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Morning Spin</title>
+  </programme>
+  <programme start="20261024070000 +0000" stop="20261024080000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024080000 +0000" stop="20261024090000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20261024090000 +0000" stop="20261024100000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Fresh Out The Box</title>
+  </programme>
+  <programme start="20261024100000 +0000" stop="20261024110000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261024110000 +0000" stop="20261024120000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024120000 +0000" stop="20261024130000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Totally Indie</title>
+  </programme>
+  <programme start="20261024130000 +0000" stop="20261024140000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Rough Riff</title>
+  </programme>
+  <programme start="20261024140000 +0000" stop="20261024150000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261024150000 +0000" stop="20261024160000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024160000 +0000" stop="20261024170000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Artist Breakout</title>
+  </programme>
+  <programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Ultra Mix</title>
+  </programme>
+  <programme start="20261024180000 +0000" stop="20261024190000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024190000 +0000" stop="20261024200000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">DJ Mixes premiere</title>
+  </programme>
+  <programme start="20261024200000 +0000" stop="20261024210000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Bounce &amp; Fun</title>
+  </programme>
+  <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="360 TuneBox.webtv.sk">
+    <title lang="id">Bounce &amp; Fun</title>
   </programme>
   <programme start="20261023215500 +0000" stop="20261023220500 +0000" channel="Disney Channel.webtv.sk">
     <title lang="id">Kluk Holka atd. (24)</title>
