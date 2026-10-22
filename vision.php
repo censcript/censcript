@@ -658,12 +658,6 @@
 <programme start="20261022131500 +0000" stop="20261022150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261022150000 +0000" stop="20261022170000 +0000" channel="ANTV.vision">
-<title>Malu-Malu Mau</title>
-</programme>
-<programme start="20261022170000 +0000" stop="20261022183000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 3</title>
-</programme>
 <programme start="20261022183000 +0000" stop="20261022193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261022050000 +0000" stop="20261022060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
+</programme>
+<programme start="20261022060000 +0000" stop="20261022070000 +0000" channel="TVRI.vision">
+<title>Marbot Ali</title>
+</programme>
+<programme start="20261022070000 +0000" stop="20261022070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>
