@@ -5768,112 +5768,118 @@
     <title lang="id">Roswell: The First Witness (1) I (1)</title>
   </programme>
   <programme start="20261024213000 +0000" stop="20261024222500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
+    <title lang="id">Lovec vražd VII (13)</title>
   </programme>
   <programme start="20261024222500 +0000" stop="20261024230500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
+    <title lang="id">Lovec vražd VIII (1)</title>
   </programme>
-  <programme start="20261024230500 +0000" stop="20261025010500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
+  <programme start="20261024230500 +0000" stop="20261025010000 +0000" channel="Crime & Investigation.webtv.sk">
+    <title lang="id">Lovec vražd VII (14)</title>
+  </programme>
+  <programme start="20261025010000 +0000" stop="20261025010500 +0000" channel="Crime & Investigation.webtv.sk">
+    <title lang="id">Lovec vražd VIII (2)</title>
   </programme>
   <programme start="20261025010500 +0000" stop="20261025015000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Lovec vražd</title>
+    <title lang="id">Lovec vražd VII (15)</title>
   </programme>
   <programme start="20261025015000 +0000" stop="20261025024500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Po prvních 48 hodinách</title>
+    <title lang="id">Po prvních 48 hodinách XV (2)</title>
   </programme>
   <programme start="20261025024500 +0000" stop="20261025031000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Squatteři</title>
+    <title lang="id">Squatteři I (16)</title>
   </programme>
-  <programme start="20261025031000 +0000" stop="20261025050000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Po prvních 48 hodinách</title>
+  <programme start="20261025031000 +0000" stop="20261025040000 +0000" channel="Crime & Investigation.webtv.sk">
+    <title lang="id">Po prvních 48 hodinách XV (6)</title>
+  </programme>
+  <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="Crime & Investigation.webtv.sk">
+    <title lang="id">Vražedné vyšetřování I (7)</title>
   </programme>
   <programme start="20261025050000 +0000" stop="20261025052500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (11)</title>
   </programme>
   <programme start="20261025052500 +0000" stop="20261025055000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (2)</title>
   </programme>
   <programme start="20261025055000 +0000" stop="20261025061500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (12)</title>
   </programme>
   <programme start="20261025061500 +0000" stop="20261025064000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (3)</title>
   </programme>
   <programme start="20261025064000 +0000" stop="20261025070500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (6)</title>
   </programme>
   <programme start="20261025070500 +0000" stop="20261025073000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (7)</title>
   </programme>
   <programme start="20261025073000 +0000" stop="20261025075500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera (125)</title>
+    <title lang="id">Soudní kamera V (26)</title>
   </programme>
   <programme start="20261025075500 +0000" stop="20261025081500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera V (21)</title>
   </programme>
   <programme start="20261025081500 +0000" stop="20261025084000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera V (22)</title>
   </programme>
   <programme start="20261025084000 +0000" stop="20261025090000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera V (23)</title>
   </programme>
   <programme start="20261025090000 +0000" stop="20261025094500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Po prvních 48 hodinách</title>
+    <title lang="id">Po prvních 48 hodinách XV (7)</title>
   </programme>
   <programme start="20261025094500 +0000" stop="20261025103000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Po prvních 48 hodinách</title>
+    <title lang="id">Po prvních 48 hodinách XV (11)</title>
   </programme>
   <programme start="20261025103000 +0000" stop="20261025111500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Po prvních 48 hodinách</title>
+    <title lang="id">Po prvních 48 hodinách XV (3)</title>
   </programme>
   <programme start="20261025111500 +0000" stop="20261025120000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Po prvních 48 hodinách</title>
+    <title lang="id">Po prvních 48 hodinách XV (8)</title>
   </programme>
   <programme start="20261025120000 +0000" stop="20261025125000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zinscenováno: Smrtící podvod</title>
+    <title lang="id">Zinscenováno: Smrtící podvod I (7)</title>
   </programme>
   <programme start="20261025125000 +0000" stop="20261025133000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zinscenováno: Smrtící podvod</title>
+    <title lang="id">Zinscenováno: Smrtící podvod I (2)</title>
   </programme>
   <programme start="20261025133000 +0000" stop="20261025141500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zinscenováno: Smrtící podvod</title>
+    <title lang="id">Zinscenováno: Smrtící podvod I (3)</title>
   </programme>
   <programme start="20261025141500 +0000" stop="20261025150000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zinscenováno: Smrtící podvod</title>
+    <title lang="id">Zinscenováno: Smrtící podvod I (4)</title>
   </programme>
   <programme start="20261025150000 +0000" stop="20261025154500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Zinscenováno: Smrtící podvod</title>
+    <title lang="id">Zinscenováno: Smrtící podvod I (5)</title>
   </programme>
   <programme start="20261025154500 +0000" stop="20261025161000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (11)</title>
   </programme>
   <programme start="20261025161000 +0000" stop="20261025163000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (2)</title>
   </programme>
   <programme start="20261025163000 +0000" stop="20261025165000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (12)</title>
   </programme>
   <programme start="20261025165000 +0000" stop="20261025171500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Soudní kamera</title>
+    <title lang="id">Soudní kamera VII (3)</title>
   </programme>
   <programme start="20261025171500 +0000" stop="20261025180000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Nedokonalá vražda</title>
+    <title lang="id">Nedokonalá vražda III (7)</title>
   </programme>
   <programme start="20261025180000 +0000" stop="20261025184500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vražedný check-in</title>
+    <title lang="id">Vražedný check-in I (4)</title>
   </programme>
   <programme start="20261025184500 +0000" stop="20261025193000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Někdo něco skrývá</title>
+    <title lang="id">Někdo něco skrývá III (9)</title>
   </programme>
   <programme start="20261025193000 +0000" stop="20261025201500 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Vražda v 21. století</title>
+    <title lang="id">Vražda v 21. století I (9)</title>
   </programme>
   <programme start="20261025201500 +0000" stop="20261025210000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Řekni mi, jak jsem zemřel</title>
+    <title lang="id">Řekni mi, jak jsem zemřel I (3)</title>
   </programme>
   <programme start="20261025210000 +0000" stop="20261025223000 +0000" channel="Crime & Investigation.webtv.sk">
-    <title lang="id">Scott Peterson: Nové důkazy</title>
+    <title lang="id">Scott Peterson: Nové důkazy I (1)</title>
   </programme>
   <programme start="20261024214000 +0000" stop="20261024223500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">13 hodin na přežití (1)</title>
