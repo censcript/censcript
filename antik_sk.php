@@ -17810,7 +17810,7 @@
     <title lang="id">Assignment Asia</title>
   </programme>
   <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="CGTN.webtv.sk">
-    <title lang="id">The World Today</title>
+    <title lang="id">Big Story</title>
   </programme>
   <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The World Today</title>

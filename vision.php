@@ -640,12 +640,6 @@
 <programme start="20261023131500 +0000" stop="20261023150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261023150000 +0000" stop="20261023170000 +0000" channel="ANTV.vision">
-<title>Mana Bisa Tahan</title>
-</programme>
-<programme start="20261023170000 +0000" stop="20261023183000 +0000" channel="ANTV.vision">
-<title>Best Of The Best 4</title>
-</programme>
 <programme start="20261023183000 +0000" stop="20261023193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261023170000 +0000" stop="20261023210000 +0000" channel="TVRI.vision">
 <title>Piala Dunia 2026</title>
+</programme>
+<programme start="20261023210000 +0000" stop="20261023213000 +0000" channel="TVRI.vision">
+<title>Jejak Islam</title>
+</programme>
+<programme start="20261023213000 +0000" stop="20261023230000 +0000" channel="TVRI.vision">
+<title>Serambi Islami</title>
 </programme>

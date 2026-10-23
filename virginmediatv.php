@@ -2420,7 +2420,7 @@
     <title>BBC News Now</title>
 </programme>
 <programme start="20261023133000 +0000" stop="20261023134500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20261023134500 +0000" stop="20261023140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
