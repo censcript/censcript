@@ -2410,7 +2410,7 @@
 <programme start="20261023043000 +0000" stop="20261023050000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20261023050000 +0000" stop="20261023070000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261023050000 +0000" stop="20261023080000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Breakfast</title>
 </programme>
 <programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="BBC_News_24.virginmediatv">
@@ -3805,7 +3805,10 @@
 <programme start="20261022230000 +0000" stop="20261023041500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NFL Football - New England Patriots at Chicago Bears</title>
 </programme>
-<programme start="20261023041500 +0000" stop="20261023080000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261023041500 +0000" stop="20261023050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+    <title>Live: Korea Championship, DP World Tour Golf - Day 2</title>
+</programme>
+<programme start="20261023050000 +0000" stop="20261023080000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Korea Championship, DP World Tour Golf - Day 2</title>
 </programme>
 <programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3872,10 +3875,10 @@
     <title>Total Football - Episode 32</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023153000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Preview - Round 8</title>
+    <title>The Fantasy Show</title>
 </programme>
 <programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>The Fantasy Show</title>
+    <title>Premier League Preview - Round 8</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023170000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League Show - Episode 139</title>
@@ -4034,7 +4037,7 @@
     <title>Live: NFL Football - New England Patriots at Chicago Bears</title>
 </programme>
 <programme start="20261023041500 +0000" stop="20261023043000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Detroit Lions at Carolina Panthers</title>
+    <title>NFL Football - Detroit Lions at Arizona Cardinals</title>
 </programme>
 <programme start="20261023043000 +0000" stop="20261023044500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Dallas Cowboys at Houston Texans</title>
@@ -4250,37 +4253,31 @@
     <title>UEFA Champions League Football - League Phase - Como v Manchester United</title>
 </programme>
 <programme start="20261023050000 +0000" stop="20261023053000 +0000" channel="MUTV.virginmediatv">
-    <title>Match Day Review - UEFA Champions League: Como v Manchester United</title>
+    <title>The Official United Podcast - Inside Carrington - Maya Le Tissier</title>
 </programme>
 <programme start="20261023053000 +0000" stop="20261023060000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Youth League Football - Highlights: Como U19 v Manchester United U19</title>
 </programme>
-<programme start="20261023120000 +0000" stop="20261023123000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - When Mainoo met Seedorf</title>
+<programme start="20261023120000 +0000" stop="20261023121500 +0000" channel="MUTV.virginmediatv">
+    <title>Sir Alex Ferguson: Games of My Life</title>
 </programme>
-<programme start="20261023123000 +0000" stop="20261023124500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+<programme start="20261023121500 +0000" stop="20261023124500 +0000" channel="MUTV.virginmediatv">
+    <title>Live: Manager&#039;s Press Conference</title>
 </programme>
 <programme start="20261023124500 +0000" stop="20261023130000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Phallon Tullis-Joyce: New York v Manchester</title>
 </programme>
-<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261023130000 +0000" stop="20261023135500 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Academy</title>
 </programme>
-<programme start="20261023140000 +0000" stop="20261023143000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: League Phase - Como v Manchester United</title>
+<programme start="20261023135500 +0000" stop="20261023160000 +0000" channel="MUTV.virginmediatv">
+    <title>UEFA Youth League Football - Como U19 v Manchester United U19</title>
 </programme>
-<programme start="20261023143000 +0000" stop="20261023144500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference</title>
+<programme start="20261023160000 +0000" stop="20261023174500 +0000" channel="MUTV.virginmediatv">
+    <title>Premier League - Leeds United v Manchester United</title>
 </programme>
-<programme start="20261023144500 +0000" stop="20261023150000 +0000" channel="MUTV.virginmediatv">
-    <title>Sir Alex Ferguson: Games of My Life</title>
-</programme>
-<programme start="20261023150000 +0000" stop="20261023160000 +0000" channel="MUTV.virginmediatv">
-    <title>Scholesy: In A League Of His Own</title>
-</programme>
-<programme start="20261023160000 +0000" stop="20261023180000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - League Phase - Como v Manchester United</title>
+<programme start="20261023174500 +0000" stop="20261023180000 +0000" channel="MUTV.virginmediatv">
+    <title>FA Women&#039;s League Cup - Highlights: Liverpool v Manchester United</title>
 </programme>
 <programme start="20261022233000 +0000" stop="20261023003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - United States Grand Prix: Highlights</title>
@@ -4370,7 +4367,7 @@
     <title>FIA World Endurance Championship Motor Racing - 6 Hours of Barcelona</title>
 </programme>
 <programme start="20261023120000 +0000" stop="20261023153000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Quarter-Final</title>
+    <title>Live: Northern Ireland Open Snooker - Quarter-Final: Anthony McGill v Kyren Wilson</title>
 </programme>
 <programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Inside Serie A - Matchday 8</title>
@@ -4499,7 +4496,7 @@
     <title>Major League Baseball - World Series, Game 6: Los Angeles Dodgers at Toronto Blue Jays</title>
 </programme>
 <programme start="20261023120000 +0000" stop="20261023153000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Quarter-Final</title>
+    <title>Live: Northern Ireland Open Snooker - Quarter-Final: Anthony McGill v Kyren Wilson</title>
 </programme>
 <programme start="20261023153000 +0000" stop="20261023170000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Ultimate Pool Leagues - Semi-Final 2</title>
@@ -4567,7 +4564,10 @@
 <programme start="20261022230000 +0000" stop="20261023041500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: NFL Football - New England Patriots at Chicago Bears</title>
 </programme>
-<programme start="20261023041500 +0000" stop="20261023080000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261023041500 +0000" stop="20261023050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+    <title>Live: Korea Championship, DP World Tour Golf - Day 2</title>
+</programme>
+<programme start="20261023050000 +0000" stop="20261023080000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Korea Championship, DP World Tour Golf - Day 2</title>
 </programme>
 <programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4634,10 +4634,10 @@
     <title>Total Football - Episode 32</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023153000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Preview - Round 8</title>
+    <title>The Fantasy Show</title>
 </programme>
 <programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>The Fantasy Show</title>
+    <title>Premier League Preview - Round 8</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023170000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League Show - Episode 139</title>
@@ -4796,7 +4796,7 @@
     <title>Live: NFL Football - New England Patriots at Chicago Bears</title>
 </programme>
 <programme start="20261023041500 +0000" stop="20261023043000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Detroit Lions at Carolina Panthers</title>
+    <title>NFL Football - Detroit Lions at Arizona Cardinals</title>
 </programme>
 <programme start="20261023043000 +0000" stop="20261023044500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Dallas Cowboys at Houston Texans</title>

@@ -151,11 +151,8 @@
 <programme start="20261023120000 +0000" stop="20261023133000 +0000" channel="GTV.vision">
 <title>Liga Bintang Juara (GTV)</title>
 </programme>
-<programme start="20261023133000 +0000" stop="20261023153000 +0000" channel="GTV.vision">
+<programme start="20261023133000 +0000" stop="20261023160000 +0000" channel="GTV.vision">
 <title>Creature</title>
-</programme>
-<programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="GTV.vision">
-<title>Untold Story</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023173000 +0000" channel="GTV.vision">
 <title>GTV</title>
@@ -184,10 +181,7 @@
 <programme start="20261024050000 +0000" stop="20261024080000 +0000" channel="GTV.vision">
 <title>Kiko</title>
 </programme>
-<programme start="20261024080000 +0000" stop="20261024090000 +0000" channel="GTV.vision">
-<title>Zak Storm</title>
-</programme>
-<programme start="20261024090000 +0000" stop="20261024103000 +0000" channel="GTV.vision">
+<programme start="20261024080000 +0000" stop="20261024103000 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20261024103000 +0000" stop="20261024120000 +0000" channel="GTV.vision">
@@ -409,7 +403,7 @@
 <programme start="20261024110000 +0000" stop="20261024120000 +0000" channel="SindoNews.vision">
 <title>One On One</title>
 </programme>
-<programme start="20261029233000 +0000" stop="20261030003000 +0000" channel="Trans TV.vision">
+<programme start="20261022233000 +0000" stop="20261023003000 +0000" channel="Trans TV.vision">
 <title>Insert Pagi (L)</title>
 </programme>
 <programme start="20261023003000 +0000" stop="20261023013000 +0000" channel="Trans TV.vision">
@@ -482,7 +476,7 @@
 <title>Insert Investigasi</title>
 </programme>
 <programme start="20261024090000 +0000" stop="20261024100000 +0000" channel="Trans TV.vision">
-<title>Spill DD Tea</title>
+<title>Sehari Jadi Ratu</title>
 </programme>
 <programme start="20261024100000 +0000" stop="20261024110000 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
@@ -631,6 +625,9 @@
 <programme start="20261023010000 +0000" stop="20261023023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
+<programme start="20261023023000 +0000" stop="20261023060000 +0000" channel="ANTV.vision">
+<title>Bang Bang</title>
+</programme>
 <programme start="20261023060000 +0000" stop="20261023073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -639,9 +636,6 @@
 </programme>
 <programme start="20261023093000 +0000" stop="20261023104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
-</programme>
-<programme start="20261023104500 +0000" stop="20261023131500 +0000" channel="ANTV.vision">
-<title>Cinta Segitiga</title>
 </programme>
 <programme start="20261023131500 +0000" stop="20261023150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
@@ -1262,7 +1256,7 @@
 <title>Jendela Nusantara</title>
 </programme>
 <programme start="20261023033000 +0000" stop="20261023040000 +0000" channel="BTV.vision">
-<title>Indonesia Update: Ekspos</title>
+<title>Relasi</title>
 </programme>
 <programme start="20261023040000 +0000" stop="20261023050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
@@ -1303,10 +1297,10 @@
 <programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="BTV.vision">
 <title>Berita Satu Malam</title>
 </programme>
-<programme start="20261023130000 +0000" stop="20261023143000 +0000" channel="BTV.vision">
+<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="BTV.vision">
 <title>Investor Daily Summit 2026</title>
 </programme>
-<programme start="20261023143000 +0000" stop="20261023150000 +0000" channel="BTV.vision">
+<programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="BTV.vision">
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023160000 +0000" channel="BTV.vision">
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261023153000 +0000" stop="20261023163000 +0000" channel="TVRI.vision">
 <title>D&#039;Teras</title>
+</programme>
+<programme start="20261023163000 +0000" stop="20261023170000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20261023170000 +0000" stop="20261023210000 +0000" channel="TVRI.vision">
+<title>Piala Dunia 2026</title>
 </programme>

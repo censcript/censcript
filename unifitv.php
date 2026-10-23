@@ -7810,7 +7810,7 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20261023135500 +0000" stop="20261023154000 +0000" channel="rockaction.unifitv">
-    <title lang="en">The Inglorious Bastards</title>
+    <title lang="en">The Inglorious Basterds</title>
     <desc lang="en">In 1944, escaping American military prisoners flee toward Switzerland but are mistaken for elite commandos. They are drafted into a dangerous partisan mission to sabotage a Nazi armored train carrying a prototype missile.</desc>
     <category lang="en">Action</category>
   </programme>

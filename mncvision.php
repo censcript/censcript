@@ -4816,10 +4816,16 @@
 <programme start="20261023091500 +0000" stop="20261023120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261023120000 +0000" stop="20261023133000 +0000" channel="iNews.mncvision">
+<programme start="20261023120000 +0000" stop="20261023120500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261023120500 +0000" stop="20261023133000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20261023133000 +0000" stop="20261023150000 +0000" channel="iNews.mncvision">
+<programme start="20261023133000 +0000" stop="20261023133500 +0000" channel="iNews.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261023133500 +0000" stop="20261023150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023151500 +0000" channel="iNews.mncvision">
@@ -4897,10 +4903,16 @@
 <programme start="20261023091500 +0000" stop="20261023120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261023120000 +0000" stop="20261023133000 +0000" channel="iNews HD.mncvision">
+<programme start="20261023120000 +0000" stop="20261023120500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261023120500 +0000" stop="20261023133000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20261023133000 +0000" stop="20261023150000 +0000" channel="iNews HD.mncvision">
+<programme start="20261023133000 +0000" stop="20261023133500 +0000" channel="iNews HD.mncvision">
+    <title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261023133500 +0000" stop="20261023150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023151500 +0000" channel="iNews HD.mncvision">
@@ -6155,22 +6167,22 @@
     <title>Ratu Dendang Dangdut</title>
 </programme>
 <programme start="20261023110000 +0000" stop="20261023120000 +0000" channel="Music TV.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="Music TV.mncvision">
     <title>Made In India</title>
 </programme>
-<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="Music TV.mncvision">
+<programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="Music TV.mncvision">
     <title>Juke Box</title>
 </programme>
-<programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="Music TV.mncvision">
+<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="Music TV.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20261023140000 +0000" stop="20261023153000 +0000" channel="Music TV.mncvision">
+    <title>Mega Konser: Idola</title>
+</programme>
+<programme start="20261023153000 +0000" stop="20261023163000 +0000" channel="Music TV.mncvision">
     <title>Campur Sari Now</title>
 </programme>
-<programme start="20261023150000 +0000" stop="20261023163000 +0000" channel="Music TV.mncvision">
-    <title>My Boyband My Boyfriend</title>
-</programme>
 <programme start="20261023163000 +0000" stop="20261022170000 +0000" channel="Music TV.mncvision">
-    <title>Ratu Dendang Dangdut</title>
+    <title>#IdoLyfe</title>
 </programme>
 <programme start="20261022173000 +0000" stop="20261022190000 +0000" channel="Music TV HD.mncvision">
     <title>#IdoLyfe</title>
@@ -6212,22 +6224,22 @@
     <title>Ratu Dendang Dangdut</title>
 </programme>
 <programme start="20261023110000 +0000" stop="20261023120000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="Music TV HD.mncvision">
     <title>Made In India</title>
 </programme>
-<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="Music TV HD.mncvision">
+<programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="Music TV HD.mncvision">
     <title>Juke Box</title>
 </programme>
-<programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="Music TV HD.mncvision">
+<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="Music TV HD.mncvision">
+    <title>Konco Ngaso</title>
+</programme>
+<programme start="20261023140000 +0000" stop="20261023153000 +0000" channel="Music TV HD.mncvision">
+    <title>Mega Konser: Idola</title>
+</programme>
+<programme start="20261023153000 +0000" stop="20261023163000 +0000" channel="Music TV HD.mncvision">
     <title>Campur Sari Now</title>
 </programme>
-<programme start="20261023150000 +0000" stop="20261023163000 +0000" channel="Music TV HD.mncvision">
-    <title>My Boyband My Boyfriend</title>
-</programme>
 <programme start="20261023163000 +0000" stop="20261022170000 +0000" channel="Music TV HD.mncvision">
-    <title>Ratu Dendang Dangdut</title>
+    <title>#IdoLyfe</title>
 </programme>
 <programme start="20261022173000 +0000" stop="20261022190000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah</title>
@@ -7517,7 +7529,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023160000 +0000" channel="RCTI.mncvision">
-    <title>Studio Cinta</title>
+    <title>Reuni Adalah Maut</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023163000 +0000" channel="RCTI.mncvision">
     <title>Anugerah Cinta</title>
@@ -7565,7 +7577,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261023150000 +0000" stop="20261023160000 +0000" channel="RCTI HD.mncvision">
-    <title>Studio Cinta</title>
+    <title>Reuni Adalah Maut</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023163000 +0000" channel="RCTI HD.mncvision">
     <title>Anugerah Cinta</title>

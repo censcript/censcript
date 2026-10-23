@@ -4658,7 +4658,7 @@
     <title lang="id">Vraťme se zpět</title>
   </programme>
   <programme start="20261025014500 +0000" stop="20261025021000 +0000" channel="Auto Motor und Sport.webtv.sk">
-    <title lang="id">Na gauči s Menzelem</title>
+    <title lang="id">Petrolheads</title>
   </programme>
   <programme start="20261025021000 +0000" stop="20261025021500 +0000" channel="Auto Motor und Sport.webtv.sk">
     <title lang="id">Srovnávací testy</title>
