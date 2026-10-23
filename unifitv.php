@@ -4393,22 +4393,40 @@
     <episode-num system="xmltv_ns">0.677.</episode-num>
     <episode-num system="onscreen">S1E678</episode-num>
   </programme>
-  <programme start="20261023090500 +0000" stop="20261023110500 +0000" channel="seti.unifitv">
-    <title lang="en">The 61st Television Program Golden Bell Awards Red Carpet 61</title>
-    <desc lang="en">The 61st Television Program Golden Bell Awards Red Carpet welcomes nominees and television professionals to Taipei Music Center. Red-carpet interviews and fashion highlights build excitement for the awards ceremony.</desc>
-    <category lang="en">Musical</category>
+  <programme start="20261023090500 +0000" stop="20261023100500 +0000" channel="seti.unifitv">
+    <title lang="en">Stylish Man-The Chef</title>
+    <desc lang="en">Stylish Man The Chef is co-hosted by the Golden Bell Awards winner Sam Tseng and Genie Chuo, together with professional chef, James. There are two main themes for the program, which are Big Stars Come to Cook and Five-Star Cooking Show.</desc>
+    <category lang="en">Cooking</category>
+    <episode-num system="xmltv_ns">0.3632.</episode-num>
+    <episode-num system="onscreen">S1E3633</episode-num>
   </programme>
-  <programme start="20261023110500 +0000" stop="20261023143500 +0000" channel="seti.unifitv">
-    <title lang="en">The 61st Television Program Golden Bell Awards 61</title>
-    <desc lang="en">Hosted by Hank Chen, the 61st Television Program Golden Bell Awards honours Taiwan's outstanding television programmes, presenters and creative teams. The ceremony recognises achievements across entertainment, lifestyle, reality and factual programming while celebrating the talent behind the year's finest productions.</desc>
-    <category lang="en">Musical</category>
+  <programme start="20261023100500 +0000" stop="20261023110500 +0000" channel="seti.unifitv">
+    <title lang="en">Mommy Says</title>
+    <desc lang="en">A warm and relatable lifestyle talk show that explores the daily dynamics between mothers, daughters-in-law, and modern families. Through real stories, lighthearted conversations, and practical tips on relationships, parenting, and home life, the program highlights touching and humorous moments.</desc>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">0.861.</episode-num>
+    <episode-num system="onscreen">S1E862</episode-num>
+  </programme>
+  <programme start="20261023110500 +0000" stop="20261023120500 +0000" channel="seti.unifitv">
+    <title lang="en">Hot Door Night</title>
+    <desc lang="en">Different in age, generation, and hosting style, these three hosts not only can sing, act, dance, and imitate, but are also skilled in cross-talk! With this unique combination, we hope to attract viewers of all ages and spark great entertainment.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.2162.</episode-num>
+    <episode-num system="onscreen">S1E2163</episode-num>
+  </programme>
+  <programme start="20261023120500 +0000" stop="20261023143500 +0000" channel="seti.unifitv">
+    <title lang="en">Family Reunion</title>
+    <desc lang="en">A lively grandmother, a warm-hearted couple and their four daughters run a tangyuan shop. Working together to prepare glutinous rice balls for every joyful occasion, the family transforms its modest business into a neighbourhood symbol of warmth, togetherness and reunion.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261023143500 +0000" stop="20261023150500 +0000" channel="seti.unifitv">
-    <title lang="en">Show Biz</title>
-    <desc lang="en">Show Biz delivers fast-paced coverage of the latest celebrity news, entertainment events and popular culture. Through studio segments, interviews, live reports and highlights, the programme keeps viewers informed about current stars, performances and industry developments.</desc>
-    <category lang="en">Variety</category>
-    <episode-num system="xmltv_ns">0.1182.</episode-num>
-    <episode-num system="onscreen">S1E1183</episode-num>
+    <title lang="en">The Tradition Story of Taiwan</title>
+    <desc lang="en">The Tradition Story of Taiwan dramatises folk tales, legends and local beliefs passed down through generations. Drawing on Taiwans rich cultural heritage, each story explores the lives, values and supernatural traditions of different communities.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5448.</episode-num>
+    <episode-num system="onscreen">S1E5449</episode-num>
   </programme>
   <programme start="20261023150500 +0000" stop="20261023160500 +0000" channel="seti.unifitv">
     <title lang="en">Stylish Man-The Chef</title>
@@ -12416,14 +12434,9 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261022160300 +0000" stop="20261022163300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261022163300 +0000" stop="20261022170300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Witness</title>
-    <desc lang="en">Inspirational and provocative stories providing a fresh and informative insight into the world's key events as they impact on the lives of ordinary people.</desc>
+  <programme start="20261022160300 +0000" stop="20261022170300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261022170300 +0000" stop="20261022173300 +0000" channel="aljazeera.unifitv">
@@ -12433,7 +12446,7 @@
   </programme>
   <programme start="20261022173300 +0000" stop="20261022180300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1477.</episode-num>
     <episode-num system="onscreen">S1E1478</episode-num>
@@ -12443,21 +12456,14 @@
     <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261022190300 +0000" stop="20261022193300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">News Live</title>
-    <desc lang="en">Up-to-date news and analysis from around the world.</desc>
+  <programme start="20261022190300 +0000" stop="20261022200300 +0000" channel="aljazeera.unifitv">
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
-  </programme>
-  <programme start="20261022193300 +0000" stop="20261022200300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.501.</episode-num>
-    <episode-num system="onscreen">S1E502</episode-num>
   </programme>
   <programme start="20261022200300 +0000" stop="20261022210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Program to be Announce</title>
-    <desc lang="en">Program to be Announ</desc>
+    <title lang="en">Head to Head</title>
+    <desc lang="en">Mehdi Hasan goes Head to Head with former senior Trump campaign adviser, Steve Cortes on the President's record in office &amp; the Republican midterm prospects.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261022210300 +0000" stop="20261022220300 +0000" channel="aljazeera.unifitv">
@@ -12472,7 +12478,7 @@
   </programme>
   <programme start="20261022223300 +0000" stop="20261022230300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261022230300 +0000" stop="20261022233300 +0000" channel="aljazeera.unifitv">
@@ -12482,7 +12488,7 @@
   </programme>
   <programme start="20261022233300 +0000" stop="20261023000300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1477.</episode-num>
     <episode-num system="onscreen">S1E1478</episode-num>
@@ -12509,7 +12515,7 @@
   </programme>
   <programme start="20261023033300 +0000" stop="20261023040300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Fault Lines</title>
-    <desc lang="en">Fault Lines takes you beyond the headlines and holds the powerful to account as we examine the role of the US in the world.</desc>
+    <desc lang="en">Two mothers warned family courts their children were in danger. Fault Lines investigates why documented abuse and deadly warning signs were ignored.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261023040300 +0000" stop="20261023043300 +0000" channel="aljazeera.unifitv">
@@ -12518,8 +12524,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261023043300 +0000" stop="20261023050300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Echoes Of A Lost Gaza</title>
-    <desc lang="en">Documentary filmmaker Mariam Shahin looks back at how the blockade and successive conflicts have reduced the hopes and dreams of people in Gaza to rubble.</desc>
+    <title lang="en">Talk to Al Jazeera</title>
+    <desc lang="en">The U.S. ambassador to Turkiye Tom Barrack says Washington's relationship with the Middle East needs to change, from one of control to one of support.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261023050300 +0000" stop="20261023053300 +0000" channel="aljazeera.unifitv">
@@ -12529,7 +12535,7 @@
   </programme>
   <programme start="20261023053300 +0000" stop="20261023060300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1477.</episode-num>
     <episode-num system="onscreen">S1E1478</episode-num>
@@ -12556,7 +12562,7 @@
   </programme>
   <programme start="20261023083300 +0000" stop="20261023090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">From Khamenei's succession to the Strait of Hormuz, Al Jazeera explains how Iran turns political architecture and geography into power.</desc>
+    <desc lang="en">Who really holds power at the UN, why can five countries block action, and who holds the organisation accountable when it falls short?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
@@ -12568,7 +12574,7 @@
   </programme>
   <programme start="20261023093300 +0000" stop="20261023100300 +0000" channel="aljazeera.unifitv">
     <title lang="en">101 East</title>
-    <desc lang="en">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="en">101 East's 2-part special investigates if power and politics is enabling those behind the 2006 murder of a Mongolian woman in Malaysia evade justice.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261023100300 +0000" stop="20261023110300 +0000" channel="aljazeera.unifitv">
@@ -12583,14 +12589,14 @@
   </programme>
   <programme start="20261023113300 +0000" stop="20261023120300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Inside Story</title>
-    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds in the Middle East and beyond.</desc>
+    <desc lang="en">Beyond the headlines to the heart of the news of the day. Al Jazeera gets the Inside Story from some of the best minds from around the globe.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.1477.</episode-num>
     <episode-num system="onscreen">S1E1478</episode-num>
   </programme>
   <programme start="20261023120300 +0000" stop="20261023130300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Program to be Announce</title>
-    <desc lang="en">Program to be Announ</desc>
+    <title lang="en">Head to Head</title>
+    <desc lang="en">Mehdi Hasan goes Head to Head with former senior Trump campaign adviser, Steve Cortes on the President's record in office &amp; the Republican midterm prospects.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261023130300 +0000" stop="20261023140300 +0000" channel="aljazeera.unifitv">
@@ -12605,7 +12611,7 @@
   </programme>
   <programme start="20261023143300 +0000" stop="20261023150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Fault Lines</title>
-    <desc lang="en">Fault Lines takes you beyond the headlines and holds the powerful to account as we examine the role of the US in the world.</desc>
+    <desc lang="en">Two mothers warned family courts their children were in danger. Fault Lines investigates why documented abuse and deadly warning signs were ignored.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261023150300 +0000" stop="20261023160300 +0000" channel="aljazeera.unifitv">
@@ -13891,21 +13897,21 @@
   </programme>
   <programme start="20261022160300 +0000" stop="20261022163300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022163300 +0000" stop="20261022170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">Student protests are radicalizing young people in France. +++ Hungary's media is organizing a fresh start after Orbán's departure.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022170300 +0000" stop="20261022171800 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13919,35 +13925,35 @@
   </programme>
   <programme start="20261022173300 +0000" stop="20261022180300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022180300 +0000" stop="20261022183300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022183300 +0000" stop="20261022190300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">Bird sightings, social media fame, and a real-world treasure hunt — Gen Z is obsessed with birdwatching. Plus: Women in South Africa say 'NO' to domestic violence.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022190300 +0000" stop="20261022190500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022190500 +0000" stop="20261022191800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -13968,28 +13974,28 @@
   </programme>
   <programme start="20261022200300 +0000" stop="20261022203300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022203300 +0000" stop="20261022210300 +0000" channel="dw.unifitv">
     <title lang="en">The Day</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022210300 +0000" stop="20261022210500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022210500 +0000" stop="20261022211800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14003,14 +14009,14 @@
   </programme>
   <programme start="20261022220300 +0000" stop="20261022220500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022220500 +0000" stop="20261022223300 +0000" channel="dw.unifitv">
     <title lang="en">The Day</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14024,14 +14030,14 @@
   </programme>
   <programme start="20261022230300 +0000" stop="20261022230500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261022230500 +0000" stop="20261022231800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14052,14 +14058,14 @@
   </programme>
   <programme start="20261023000300 +0000" stop="20261023000500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023000500 +0000" stop="20261023003300 +0000" channel="dw.unifitv">
     <title lang="en">The Day</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14073,14 +14079,14 @@
   </programme>
   <programme start="20261023010300 +0000" stop="20261023010500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023010500 +0000" stop="20261023011800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14094,35 +14100,35 @@
   </programme>
   <programme start="20261023020300 +0000" stop="20261023020500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023020500 +0000" stop="20261023023300 +0000" channel="dw.unifitv">
     <title lang="en">The Day</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023023300 +0000" stop="20261023030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">Student protests are radicalizing young people in France. +++ Hungary's media is organizing a fresh start after Orbán's departure.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023030300 +0000" stop="20261023030500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023030500 +0000" stop="20261023031800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14143,14 +14149,14 @@
   </programme>
   <programme start="20261023040300 +0000" stop="20261023040500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023040500 +0000" stop="20261023041800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14164,35 +14170,35 @@
   </programme>
   <programme start="20261023050300 +0000" stop="20261023050500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023050500 +0000" stop="20261023053300 +0000" channel="dw.unifitv">
     <title lang="en">The Day</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">The Day</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023053300 +0000" stop="20261023060300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023060300 +0000" stop="20261023060500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023060500 +0000" stop="20261023061800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14213,14 +14219,14 @@
   </programme>
   <programme start="20261023070300 +0000" stop="20261023070500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023070500 +0000" stop="20261023071800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14234,7 +14240,7 @@
   </programme>
   <programme start="20261023080300 +0000" stop="20261023080500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14248,21 +14254,21 @@
   </programme>
   <programme start="20261023083300 +0000" stop="20261023090300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023090300 +0000" stop="20261023090500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023090500 +0000" stop="20261023091800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14276,14 +14282,14 @@
   </programme>
   <programme start="20261023100300 +0000" stop="20261023100500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023100500 +0000" stop="20261023101800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14297,7 +14303,7 @@
   </programme>
   <programme start="20261023110300 +0000" stop="20261023110500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14318,14 +14324,14 @@
   </programme>
   <programme start="20261023120300 +0000" stop="20261023120500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023120500 +0000" stop="20261023121800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14339,42 +14345,42 @@
   </programme>
   <programme start="20261023130300 +0000" stop="20261023130500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023130500 +0000" stop="20261023131800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023131800 +0000" stop="20261023133300 +0000" channel="dw.unifitv">
     <title lang="en">Travel</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">Everyone knows the Mona Lisa. But Leonardo da Vinci was much more than a painter. He designed flying machines, studied nature and anatomy, and experimented relentlessly.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023133300 +0000" stop="20261023140300 +0000" channel="dw.unifitv">
-    <title lang="en">DocFilm</title>
-    <desc lang="en">One of the smallest countries in Europe: Malta. The Romans, the Arabs, the British and the French have all left their mark here. A sunny country with a multicultural heritage.</desc>
-    <category lang="en">Documentary</category>
+    <title lang="en">In Good Shape</title>
+    <desc lang="en">Sex in pregnancy: Is it safe and how best to do it? Plus: dating in museums and supermarkets - and why sexually transmitted infections too often go undetected.</desc>
+    <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023140300 +0000" stop="20261023140500 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261023140500 +0000" stop="20261023141800 +0000" channel="dw.unifitv">
     <title lang="en">DW News Focus</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News Focus</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14388,7 +14394,7 @@
   </programme>
   <programme start="20261023150300 +0000" stop="20261023153300 +0000" channel="dw.unifitv">
     <title lang="en">DW News</title>
-    <desc lang="en">News</desc>
+    <desc lang="en">DW News</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>

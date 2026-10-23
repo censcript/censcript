@@ -4060,11 +4060,8 @@
 <programme start="20261023120000 +0000" stop="20261023133000 +0000" channel="GTV.mncvision">
     <title>Liga Bintang Juara</title>
 </programme>
-<programme start="20261023133000 +0000" stop="20261023153000 +0000" channel="GTV.mncvision">
+<programme start="20261023133000 +0000" stop="20261023160000 +0000" channel="GTV.mncvision">
     <title>Creature</title>
-</programme>
-<programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="GTV.mncvision">
-    <title>Untold Story</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023163000 +0000" channel="GTV.mncvision">
     <title>Predator-PBS World C&#039;ship 2026</title>
@@ -4105,11 +4102,8 @@
 <programme start="20261023120000 +0000" stop="20261023133000 +0000" channel="GTV HD.mncvision">
     <title>Liga Bintang Juara</title>
 </programme>
-<programme start="20261023133000 +0000" stop="20261023153000 +0000" channel="GTV HD.mncvision">
+<programme start="20261023133000 +0000" stop="20261023160000 +0000" channel="GTV HD.mncvision">
     <title>Creature</title>
-</programme>
-<programme start="20261023153000 +0000" stop="20261023160000 +0000" channel="GTV HD.mncvision">
-    <title>Untold Story</title>
 </programme>
 <programme start="20261023160000 +0000" stop="20261023163000 +0000" channel="GTV HD.mncvision">
     <title>Predator-PBS World C&#039;ship 2026</title>
@@ -6428,7 +6422,7 @@
     <title>Direct Talk</title>
 </programme>
 <programme start="20261023114300 +0000" stop="20261023115500 +0000" channel="NHK World.mncvision">
-    <title>Impacts</title>
+    <title>Impacts: Climates Change...</title>
 </programme>
 <programme start="20261023115500 +0000" stop="20261023120000 +0000" channel="NHK World.mncvision">
     <title>Chatroom Japan</title>
@@ -9233,7 +9227,7 @@
     <title>Kabar Hari Ini</title>
 </programme>
 <programme start="20261022203000 +0000" stop="20261022211500 +0000" channel="tvOne.mncvision">
-    <title>Berita Utama Kriminal</title>
+    <title>Metropolitan</title>
 </programme>
 <programme start="20261022211500 +0000" stop="20261022230000 +0000" channel="tvOne.mncvision">
     <title>Kabar Pagi</title>
@@ -9244,11 +9238,8 @@
 <programme start="20261022233000 +0000" stop="20261023013000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia Pagi</title>
 </programme>
-<programme start="20261023013000 +0000" stop="20261023023000 +0000" channel="tvOne.mncvision">
+<programme start="20261023013000 +0000" stop="20261023033000 +0000" channel="tvOne.mncvision">
     <title>Hidup Sehat</title>
-</programme>
-<programme start="20261023023000 +0000" stop="20261023033000 +0000" channel="tvOne.mncvision">
-    <title>Pagi-Pagi Seru</title>
 </programme>
 <programme start="20261023033000 +0000" stop="20261023040000 +0000" channel="tvOne.mncvision">
     <title>Metropolitan</title>
@@ -9271,11 +9262,8 @@
 <programme start="20261023090000 +0000" stop="20261023110000 +0000" channel="tvOne.mncvision">
     <title>Kabar Petang</title>
 </programme>
-<programme start="20261023110000 +0000" stop="20261023130000 +0000" channel="tvOne.mncvision">
+<programme start="20261023110000 +0000" stop="20261023140000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia Malam</title>
-</programme>
-<programme start="20261023130000 +0000" stop="20261023140000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261023140000 +0000" stop="20261023150000 +0000" channel="tvOne.mncvision">
     <title>One On One</title>

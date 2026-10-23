@@ -1435,10 +1435,10 @@
 <programme start="20261023170000 +0000" stop="20261023180000 +0000" channel="Sky_History_HD.virginmediatv">
     <title>History&#039;s Greatest Picks With Mike Wolfe - Greatest Showmen</title>
 </programme>
-<programme start="20261022220000 +0000" stop="20261023001000 +0000" channel="BBC_FOUR.virginmediatv">
+<programme start="20261022220000 +0000" stop="20261023001500 +0000" channel="BBC_FOUR.virginmediatv">
     <title>North by Northwest</title>
 </programme>
-<programme start="20261023001000 +0000" stop="20261023010000 +0000" channel="BBC_FOUR.virginmediatv">
+<programme start="20261023001500 +0000" stop="20261023010000 +0000" channel="BBC_FOUR.virginmediatv">
     <title>Hauntings - The Enfield Poltergeist</title>
 </programme>
 <programme start="20261023010000 +0000" stop="20261023014500 +0000" channel="BBC_FOUR.virginmediatv">

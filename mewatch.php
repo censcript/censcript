@@ -719,20 +719,26 @@
         <title>No programme available now. Next broadcast on 24th October, Saturday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20261022160000 +0000" stop="20261023160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th November, Wednesday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
+        <title>No Programme available now. Next Broadcast on 28th October, Wednesday 3.45am. Carabao Cup 2026/27: Bradford vs Peterborough</title>
     </programme>
     <programme start="20261023160000 +0000" stop="20261024160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th November, Wednesday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
+        <title>No Programme available now. Next Broadcast on 28th October, Wednesday 3.45am. Carabao Cup 2026/27: Bradford vs Peterborough</title>
     </programme>
     <programme start="20261022160000 +0000" stop="20261023160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45pm. AFC Champions League Two 2026/27: Adelaide United FC vs Lion City Sailors FC</title>
+        <title>No Programme available now. Next Broadcast on 28th October, Wednesday 4am. Carabao Cup 2026/27: Fleetwood vs Arsenal</title>
     </programme>
     <programme start="20261023160000 +0000" stop="20261024160000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45pm. AFC Champions League Two 2026/27: Adelaide United FC vs Lion City Sailors FC</title>
+        <title>No Programme available now. Next Broadcast on 28th October, Wednesday 4am. Carabao Cup 2026/27: Fleetwood vs Arsenal</title>
     </programme>
     <programme start="20261022160000 +0000" stop="20261023160000 +0000" channel="Live 6.mewatch">
-        <title>No programme available now.</title>
+        <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45am. Carabao Cup 2026/27: Fulham vs Crystal Palace</title>
     </programme>
     <programme start="20261023160000 +0000" stop="20261024160000 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 29th October, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Preah Khan Reach Svay Rieng FC</title>
+        <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45am. Carabao Cup 2026/27: Fulham vs Crystal Palace</title>
+    </programme>
+    <programme start="20261022160000 +0000" stop="20261023160000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45am. Carabao Cup 2026/27: AFC Bournemouth vs Aston Villa</title>
+    </programme>
+    <programme start="20261023160000 +0000" stop="20261024160000 +0000" channel="Live 7.mewatch">
+        <title>No Programme available now. Next Broadcast on 29th October, Thursday 3.45am. Carabao Cup 2026/27: AFC Bournemouth vs Aston Villa</title>
     </programme>

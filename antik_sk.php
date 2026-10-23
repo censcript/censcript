@@ -11225,7 +11225,7 @@
     <title lang="id">Aké je tvoje zamestnanie?</title>
   </programme>
   <programme start="20261025013000 +0000" stop="20261025013300 +0000" channel="Duck TV.webtv.sk">
-    <title lang="id">Svet Elfov</title>
+    <title lang="id">V múzeu</title>
   </programme>
   <programme start="20261025013300 +0000" stop="20261025013500 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">Farebné kolieska</title>
@@ -11243,7 +11243,7 @@
     <title lang="id">Zeleninkovia</title>
   </programme>
   <programme start="20261025014200 +0000" stop="20261025014500 +0000" channel="Duck TV.webtv.sk">
-    <title lang="id">Miyu a Litto</title>
+    <title lang="id">Svet zvierat</title>
   </programme>
   <programme start="20261025014500 +0000" stop="20261025014600 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">Miyu a Litto</title>
@@ -11264,7 +11264,7 @@
     <title lang="id">Teraz sa hráme</title>
   </programme>
   <programme start="20261025015400 +0000" stop="20261025015700 +0000" channel="Duck TV.webtv.sk">
-    <title lang="id">Safari</title>
+    <title lang="id">Svet zvierat</title>
   </programme>
   <programme start="20261025015700 +0000" stop="20261025015900 +0000" channel="Duck TV.webtv.sk">
     <title lang="id">Zeleninkovia</title>
@@ -16679,7 +16679,7 @@
     <title lang="id">Inside Story</title>
   </programme>
   <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">Newshour</title>
+    <title lang="id">Al Jazeera Investigates</title>
   </programme>
   <programme start="20261025020000 +0000" stop="20261025030000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">Newshour</title>
@@ -16781,7 +16781,7 @@
     <title lang="id">Behind the News</title>
   </programme>
   <programme start="20261025010000 +0000" stop="20261025020000 +0000" channel="Al Jazeera.webtv.sk">
-    <title lang="id">News Bulletin</title>
+    <title lang="id">News Summary</title>
   </programme>
   <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">News Bulletin</title>
