@@ -2591,7 +2591,14 @@
     <desc lang="en">TVS Pagi membawakan perkembangan menyeluruh dari dalam dan luar negara.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261022233000 +0000" stop="20261023040000 +0000" channel="tvs.unifitv">
+  <programme start="20261022233000 +0000" stop="20261023000000 +0000" channel="tvs.unifitv">
+    <title lang="en">Sanggar Vista</title>
+    <desc lang="en">Menjejak rumah-rumah cantik di Sarawak. Keindahan adalah subjektif, maka program ini menampil pelbagai jenis rumah, bukan hanya banglo mewah, tetapi juga rumah tradisional dan sederhana yang dihias indah.</desc>
+    <category lang="en">Interior Design</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261023000000 +0000" stop="20261023040000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Dragon Boat 2026</title>
     <desc lang="en">Live 12th Edition Sarawak International Dragon Boat Regatta 2026 at Waterfront, Kuching, Sarawak</desc>
     <category lang="en">Sports</category>
@@ -2620,7 +2627,24 @@
     <episode-num system="xmltv_ns">0.150.</episode-num>
     <episode-num system="onscreen">S1E151</episode-num>
   </programme>
-  <programme start="20261023060000 +0000" stop="20261023090000 +0000" channel="tvs.unifitv">
+  <programme start="20261023060000 +0000" stop="20261023063000 +0000" channel="tvs.unifitv">
+    <title lang="en">Borneo's Blue Gold</title>
+    <desc lang="en">Borneo's Blue Gold is a six-part series exploring the vital role of fresh water in Borneo, examining environmental, cultural, and political impacts, with stunning visuals and expert insights on sustainable water management.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20261023063000 +0000" stop="20261023073000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Dragon Boat 2026</title>
+    <desc lang="en">Live 12th Edition Sarawak International Dragon Boat Regatta 2026 at Waterfront, Kuching, Sarawak</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261023073000 +0000" stop="20261023080000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Terkini TVS: Sidang Media Khas</title>
+    <desc lang="en">Siaran langsung Terkini TVS: Sidang Media Khas YAB Premier Sarawak.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20261023080000 +0000" stop="20261023090000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Dragon Boat 2026</title>
     <desc lang="en">Live 12th Edition Sarawak International Dragon Boat Regatta 2026 at Waterfront, Kuching, Sarawak</desc>
     <category lang="en">Sports</category>
@@ -15023,7 +15047,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261022215500 +0000" stop="20261023004500 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 2026 MotoGP Rd 18 Grand Prix of Australia - Free Practice 1</title>
+    <title lang="en">(L) 2026 MotoGP Rd 18 Red Bull Grand Prix of Australia - Free Practice 1</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
@@ -15038,7 +15062,7 @@
     <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261023021000 +0000" stop="20261023051500 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) 2026 MotoGP Rd 18 Grand Prix of Australia - Practice</title>
+    <title lang="en">(L) 2026 MotoGP Rd 18 Red Bull Grand Prix of Australia - Practice</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>

@@ -1612,14 +1612,17 @@
 <programme start="20261023175500 +0000" stop="20261023190000 +0000" channel="ITV3.virginmediatv">
     <title>Heartbeat - Hearts and Flowers</title>
 </programme>
-<programme start="20261022233500 +0000" stop="20261023003000 +0000" channel="ITV4.virginmediatv">
-    <title>Minder - The Last Video Show</title>
+<programme start="20261022232000 +0000" stop="20261023001500 +0000" channel="ITV4.virginmediatv">
+    <title>Benidorm - Episode 5</title>
 </programme>
-<programme start="20261023003000 +0000" stop="20261023013000 +0000" channel="ITV4.virginmediatv">
+<programme start="20261023001500 +0000" stop="20261023011500 +0000" channel="ITV4.virginmediatv">
     <title>StartUp - Early Adopters</title>
 </programme>
-<programme start="20261023013000 +0000" stop="20261023020000 +0000" channel="ITV4.virginmediatv">
+<programme start="20261023011500 +0000" stop="20261023014000 +0000" channel="ITV4.virginmediatv">
     <title>Auto Mundial - Episode 43</title>
+</programme>
+<programme start="20261023014000 +0000" stop="20261023020000 +0000" channel="ITV4.virginmediatv">
+    <title>Unwind with ITV - Episode 248</title>
 </programme>
 <programme start="20261023020000 +0000" stop="20261023050000 +0000" channel="ITV4.virginmediatv">
     <title>Teleshopping</title>
@@ -2407,11 +2410,8 @@
 <programme start="20261023043000 +0000" stop="20261023050000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20261023050000 +0000" stop="20261023053000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News</title>
-</programme>
-<programme start="20261023053000 +0000" stop="20261023060000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+<programme start="20261023050000 +0000" stop="20261023070000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Breakfast</title>
 </programme>
 <programme start="20261023120000 +0000" stop="20261023130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>

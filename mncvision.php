@@ -131,7 +131,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20261023043000 +0000" stop="20261023050000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Echoes Of A Lost Gaza</title>
+    <title>Talk To Al Jazeera: Tom Barrack</title>
 </programme>
 <programme start="20261023050000 +0000" stop="20261023053000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>

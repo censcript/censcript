@@ -377,6 +377,16 @@
     <title lang="id">Sunderland Vs Leeds United - Premier League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
+  <programme channel="204" start="20261025183000 +0000" stop="20261025200000 +0000">
+    <title lang="id">Drama Turki: Arafta: Terbelenggu Takdir</title>
+    <desc lang="id">Bahwa sebuah misi balas dendam tidak pernah berjalan sesederhana yang direncanakan. Serial ini bukan sekadar romansa biasa, melainkan sebuah studi karakter tentang seorang pria yang harus memilih antara menghancurkan musuhnya atau menyelamatkan hatinya sendiri.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
+  <programme channel="204" start="20261025200000 +0000" stop="20261025210000 +0000">
+    <title lang="id">Sinema Dini Hari</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+  </programme>
   <programme channel="205" start="20261022141400 +0000" stop="20261022180000 +0000">
     <title lang="id">D'Academy 8</title>
     <desc lang="id">D'Academy 8</desc>
@@ -470,12 +480,12 @@
   <programme channel="205" start="20261023183000 +0000" stop="20261023200000 +0000">
     <title lang="id">Mega Film Asia: Martial Arts Of Shaolin</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Uf4xQJ6p_llxJtRed5BW9TFRDMM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385350/5e35e6.png"/>
   </programme>
   <programme channel="205" start="20261023200000 +0000" stop="20261023213000 +0000">
     <title lang="id">Mega Film Asia: Look Out Officer</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GVoj8doYcg0GsrVfLERcjuUg53k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5385351/44cfa7.png"/>
   </programme>
   <programme channel="205" start="20261023213000 +0000" stop="20261023230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -517,28 +527,28 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261024080000 +0000" stop="20261024103000 +0000">
+  <programme channel="205" start="20261024080000 +0000" stop="20261024104000 +0000">
     <title lang="id">Isenmulang Kalteng FC vs PSIM Jogja - BRI Super League</title>
     <desc lang="id">Mampukah Isenmulang Kalteng FC mengamankan tiga poin penuh di rumah sendiri?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BhcxndO79Ld23qxNhM3LssuRCic=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390717/65f7ca.jpg"/>
   </programme>
-  <programme channel="205" start="20261024103000 +0000" stop="20261024113000 +0000">
+  <programme channel="205" start="20261024104000 +0000" stop="20261024113000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261024113000 +0000" stop="20261024140000 +0000">
-    <title lang="id">Bri Super League 2026/27</title>
+  <programme channel="205" start="20261024113000 +0000" stop="20261024141000 +0000">
+    <title lang="id">PERSIJAP Jepara vs Java United FC - BRI Super League</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261024140000 +0000" stop="20261024180000 +0000">
-    <title lang="id">D'Academy 8</title>
+  <programme channel="205" start="20261024141000 +0000" stop="20261024180000 +0000">
+    <title lang="id">D'Academy 8: BEST OF TOP 12 SHOW MALAM KEDUA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
-  <programme channel="205" start="20261024140000 +0000" stop="20261024180000 +0000">
-    <title lang="id">D'Academy 8</title>
+  <programme channel="205" start="20261024141000 +0000" stop="20261024180000 +0000">
+    <title lang="id">D'Academy 8: BEST OF TOP 12 SHOW MALAM KEDUA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
@@ -672,49 +682,49 @@
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023034400 +0000" stop="20261023060900 +0000">
+  <programme channel="206" start="20261023040000 +0000" stop="20261023060000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023060900 +0000" stop="20261023101600 +0000">
+  <programme channel="206" start="20261023060000 +0000" stop="20261023100000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023101600 +0000" stop="20261023123500 +0000">
+  <programme channel="206" start="20261023100000 +0000" stop="20261023120000 +0000">
     <title lang="id">SEA V Cup 2026</title>
     <desc lang="id">SEA V CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023123500 +0000" stop="20261023143000 +0000">
+  <programme channel="206" start="20261023120000 +0000" stop="20261023140000 +0000">
     <title lang="id">AVC Men'S Nation Cup</title>
     <desc lang="id">AVC MEN'S NATION CUP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023143000 +0000" stop="20261023162100 +0000">
+  <programme channel="206" start="20261023140000 +0000" stop="20261023160000 +0000">
     <title lang="id">UEFA Champions League</title>
     <desc lang="id">UEFA CHAMPIONS LEAGUE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023162100 +0000" stop="20261023180600 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261023160000 +0000" stop="20261023173000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023162100 +0000" stop="20261023180600 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261023160000 +0000" stop="20261023173000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023180600 +0000" stop="20261023195600 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261023173000 +0000" stop="20261023190000 +0000">
+    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261023195600 +0000" stop="20261023220000 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261023190000 +0000" stop="20261023200000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20261023200000 +0000" stop="20261023220000 +0000">
+    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261023220000 +0000" stop="20261023231500 +0000">
@@ -742,44 +752,42 @@
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024023000 +0000" stop="20261024041400 +0000">
+  <programme channel="206" start="20261024023000 +0000" stop="20261024040000 +0000">
     <title lang="id">Ungkap</title>
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024041400 +0000" stop="20261024060300 +0000">
+  <programme channel="206" start="20261024040000 +0000" stop="20261024060000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024060300 +0000" stop="20261024094500 +0000">
+  <programme channel="206" start="20261024060000 +0000" stop="20261024100000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024094500 +0000" stop="20261024120000 +0000">
+  <programme channel="206" start="20261024100000 +0000" stop="20261024120000 +0000">
     <title lang="id">SEA V Cup 2026</title>
     <desc lang="id">SEA V CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024120000 +0000" stop="20261024143400 +0000">
+  <programme channel="206" start="20261024120000 +0000" stop="20261024140000 +0000">
     <title lang="id">AVC Men'S Nation Cup</title>
     <desc lang="id">AVC MEN'S NATION CUP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024143400 +0000" stop="20261024162500 +0000">
+  <programme channel="206" start="20261024140000 +0000" stop="20261024160000 +0000">
     <title lang="id">UEFA Champions League</title>
     <desc lang="id">UEFA CHAMPIONS LEAGUE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024162500 +0000" stop="20261024181000 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261024160000 +0000" stop="20261024173000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024162500 +0000" stop="20261024181000 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261024160000 +0000" stop="20261024173000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261024181000 +0000" stop="20261024195600 +0000">
@@ -1800,7 +1808,7 @@
   </programme>
   <programme channel="733" start="20261024030000 +0000" stop="20261024043000 +0000">
     <title lang="id">Ambyar In Weekend</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/UEDSG2kvUEV54HiHpBgnCzxHnf8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5381291/d3f383.png"/>
   </programme>
   <programme channel="733" start="20261024043000 +0000" stop="20261024053000 +0000">
     <title lang="id">Insert Siang</title>
@@ -2149,22 +2157,22 @@
   <programme channel="782" start="20261024010000 +0000" stop="20261024023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Q53RoC2z3_m1YCsO2VJsL2_O3Yc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380157/8a1955.jpg"/>
   </programme>
   <programme channel="782" start="20261024023000 +0000" stop="20261024060000 +0000">
     <title lang="id">Mega Bollywood : Tumko Na Bhool Paayenge</title>
     <desc lang="id">Mega Bollywood : Tumko Na Bhool Paayenge</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/pSh48vQNH5GHN0HnSvimSbBn1wo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380207/500df1.jpg"/>
   </programme>
   <programme channel="782" start="20261024060000 +0000" stop="20261024073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/KhTCSEOn5y8Zk8owkYnLnfRTtgI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380165/37be0a.jpg"/>
   </programme>
   <programme channel="782" start="20261024073000 +0000" stop="20261024093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/V9fbfrvmlCeWdPko6SEmynzsGC4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380172/ec0a22.jpg"/>
   </programme>
   <programme channel="782" start="20261024093000 +0000" stop="20261024104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -8968,12 +8976,12 @@
     <desc lang="id">Alaves vs Malaga</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261024120000 +0000" stop="20261024140000 +0000">
+  <programme channel="6299" start="20261024115500 +0000" stop="20261024141000 +0000">
     <title lang="id">Rayo Vallecano vs Elche - LaLiga</title>
     <desc lang="id">Akankah kelincahan lini serang Rayo Vallecano kembali menghibur ribuan suporter setia di Vallecas?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eUrw8uY6Z2nqv0HIHyNfyJK_Jfs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390722/29f28f.jpg"/>
   </programme>
-  <programme channel="6299" start="20261024141500 +0000" stop="20261024161500 +0000">
+  <programme channel="6299" start="20261024141000 +0000" stop="20261024162500 +0000">
     <title lang="id">Racing Santander vs Espanyol - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Racing Santander vs Espanyol - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ogVgbaAAO--jSEBHIGVFSaAOqpk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390723/98797e.jpg"/>
@@ -9648,7 +9656,7 @@
     <desc lang="id">RACE 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261023190000 +0000" stop="20261023210000 +0000">
+  <programme channel="6685" start="20261023185500 +0000" stop="20261023210000 +0000">
     <title lang="id">Bolton vs Middlesbrough - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Bolton vs Middlesbrough - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/G6iy_6kWRhNqDbLinVfdI5KbWtM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390694/cdc045.jpg"/>
@@ -9919,7 +9927,7 @@
     <desc lang="id">ROBBIE FOWLER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261023180000 +0000" stop="20261023183000 +0000">
+  <programme channel="9182" start="20261023180000 +0000" stop="20261023190000 +0000">
     <title lang="id">Show 08 - Matchweek 08 : PL Preview 2026/27</title>
     <desc lang="id">SHOW 08 - MATCHWEEK 08</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
@@ -9999,7 +10007,7 @@
     <desc lang="id">ASTON VILLA vs MANCHESTER CITY</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261024140000 +0000" stop="20261024160000 +0000">
+  <programme channel="9182" start="20261024134000 +0000" stop="20261024161000 +0000">
     <title lang="id">Arsenal vs Everton - Premier League</title>
     <desc lang="id">Mampukah Everton mencuri poin berharga dari The Gunners yang sedang membara?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KtAsTK1clIHdyfpJdCFLbOYeImI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391098/4d1cdc.jpg"/>
@@ -10776,12 +10784,12 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261023001500 +0000" stop="20261023034500 +0000">
+  <programme channel="6786" start="20261023001500 +0000" stop="20261023032600 +0000">
     <title lang="id">New England Patriots vs Chicago Bears - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru New England Patriots vs Chicago Bears - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/R9-D71KhBnFH6QLzuhi9igQPU5w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390685/3f0df4.jpg"/>
   </programme>
-  <programme channel="6786" start="20261023034500 +0000" stop="20261023040000 +0000">
+  <programme channel="6786" start="20261023032600 +0000" stop="20261023040000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -10845,7 +10853,11 @@
     <desc lang="id">WTA my story</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261023184500 +0000" stop="20261023204500 +0000">
+  <programme channel="6786" start="20261023180000 +0000" stop="20261023183000 +0000">
+    <title lang="id">Serie A 2026/27 - Preview</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261023183000 +0000" stop="20261023210000 +0000">
     <title lang="id">Torino vs Monza - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Torino vs Monza - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/G4dGvvWsYlIqlhtwfQpZnrBwtAg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390708/bc815a.jpg"/>
@@ -10915,12 +10927,12 @@
     <desc lang="id">12</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261024160000 +0000" stop="20261024180000 +0000">
+  <programme channel="6786" start="20261024154500 +0000" stop="20261024180000 +0000">
     <title lang="id">Napoli vs Roma - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Napoli vs Roma - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ctq56F7-lF0lo9xW745TemYqO9s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391818/32b42d.jpg"/>
   </programme>
-  <programme channel="6786" start="20261024160000 +0000" stop="20261024180000 +0000">
+  <programme channel="6786" start="20261024154500 +0000" stop="20261024180000 +0000">
     <title lang="id">Napoli vs Roma - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Napoli vs Roma - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ctq56F7-lF0lo9xW745TemYqO9s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391818/32b42d.jpg"/>
@@ -11115,7 +11127,7 @@
     <desc lang="id">2025 Women's Singles SF 2 Gauff v Boisson</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261023190000 +0000" stop="20261023210000 +0000">
+  <programme channel="17875" start="20261023185500 +0000" stop="20261023210000 +0000">
     <title lang="id">Alaves vs Malaga - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Alaves vs Malaga - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pTgtlsHkJ49Db4L2dsxn7f-3wbk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390692/15242c.jpg"/>
@@ -11195,12 +11207,12 @@
     <desc lang="id">Paris Major Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261024163000 +0000" stop="20261024183000 +0000">
+  <programme channel="17875" start="20261024162500 +0000" stop="20261024183000 +0000">
     <title lang="id">Valencia vs Villarreal - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Valencia vs Villarreal - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UH4Fj5P2kVUun7tOQlu_r3USYcw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391104/673738.jpg"/>
   </programme>
-  <programme channel="17875" start="20261024163000 +0000" stop="20261024183000 +0000">
+  <programme channel="17875" start="20261024162500 +0000" stop="20261024183000 +0000">
     <title lang="id">Valencia vs Villarreal - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Valencia vs Villarreal - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UH4Fj5P2kVUun7tOQlu_r3USYcw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391104/673738.jpg"/>
@@ -11741,8 +11753,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20261023003000 +0000" stop="20261023023000 +0000">
-    <title lang="id">Match 04 - Quarter Final : [LIVE] WTA 250</title>
-    <desc lang="id">MATCH 04 - QUARTER FINAL</desc>
+    <title lang="id">EFL Championship 2026/2027 - Stoke City vs Middelsbrough</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20261023023000 +0000" stop="20261023103000 +0000">
@@ -11882,12 +11893,12 @@
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261024151500 +0000" stop="20261024171500 +0000">
+  <programme channel="6686" start="20261024151000 +0000" stop="20261024171500 +0000">
     <title lang="id">Toulouse FC vs ESTAC Troyes - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Toulouse FC vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bJMiwe5LtFdFsTXSQERWMTfdFuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg"/>
   </programme>
-  <programme channel="6686" start="20261024151500 +0000" stop="20261024171500 +0000">
+  <programme channel="6686" start="20261024151000 +0000" stop="20261024171500 +0000">
     <title lang="id">Toulouse FC vs ESTAC Troyes - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Toulouse FC vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bJMiwe5LtFdFsTXSQERWMTfdFuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg"/>
@@ -12087,7 +12098,7 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261023184500 +0000" stop="20261023204500 +0000">
+  <programme channel="9183" start="20261023184500 +0000" stop="20261023210000 +0000">
     <title lang="id">Stade Brestois 29 vs OGC Nice - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Stade Brestois 29 vs OGC Nice - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Nf6qw63P8fHEcJ6aTuYweDUL6fE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391091/39dc19.jpg"/>
@@ -12142,7 +12153,7 @@
     <desc lang="id">Strasbourg vs PSG</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261024113000 +0000" stop="20261024133000 +0000">
+  <programme channel="9183" start="20261024113000 +0000" stop="20261024140000 +0000">
     <title lang="id">Ipswich Town vs Nottingham Forest : [LIVE] Premier League 2026/27</title>
     <desc lang="id">Ipswich Town vs Nottingham Forest</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
@@ -12826,7 +12837,7 @@
     <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261023180000 +0000" stop="20261023200000 +0000">
+  <programme channel="17139" start="20261023175500 +0000" stop="20261023200000 +0000">
     <title lang="id">Al-Qadsiah vs Al-Hilal - ROSHN Saudi League</title>
     <desc lang="id">Nonton streaming pertandingan seru Al-Qadsiah vs Al-Hilal - ROSHN Saudi League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PQkuucKP2iEJIYldt5_OxbISi5c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390691/c2a09b.jpg"/>
@@ -12836,10 +12847,14 @@
     <desc lang="id">The stars of the Ladies European Tour gather in South Korea to compete for the Aramco Korea Championship title, delivering world-class golf and thrilling championship action.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261024000000 +0000" stop="20261024030000 +0000">
+  <programme channel="17139" start="20261024000000 +0000" stop="20261024025500 +0000">
     <title lang="id">Game 1: Tampa Bay Rays vs Milwaukee Brewers - World Series Major League Baseball</title>
     <desc lang="id">Nonton streaming pertandingan seru Tampa Bay Rays vs Milwaukee Brewers - Major League Baseball. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/awLjRlRPeHFsb1WJghKBUz9UHBE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391108/b935c3.png"/>
+  </programme>
+  <programme channel="17139" start="20261024025500 +0000" stop="20261024040000 +0000">
+    <title lang="id">The AIG Women's Open Official Film 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261024040000 +0000" stop="20261024060000 +0000">
     <title lang="id">Newcastle Jets vs Macarthur FC - Isuzu UTE A-League Men</title>
@@ -12917,8 +12932,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261025030000 +0000" stop="20261025040000 +0000">
-    <title lang="id">The Open Official Film 2026</title>
-    <desc lang="id">R&amp;A Magazines 2026</desc>
+    <title lang="id">Highlights : 2026 LET: La Sella Open</title>
+    <desc lang="id">La Sella Open features top female golfers battling for the title in one of Spain's premier women's golf tournaments.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261025040000 +0000" stop="20261025053000 +0000">
@@ -13262,8 +13277,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261029050000 +0000" stop="20261029060000 +0000">
-    <title lang="id">The Open Official Film 2026</title>
-    <desc lang="id">R&amp;A Magazines 2026</desc>
+    <title lang="id">The AIG Women's Open Official Film 2026</title>
+    <desc lang="id">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261029060000 +0000" stop="20261029090000 +0000">
@@ -13366,17 +13381,17 @@
     <desc lang="id">Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261023021000 +0000" stop="20261023031000 +0000">
+  <programme channel="17140" start="20261023021000 +0000" stop="20261023025600 +0000">
     <title lang="id">Moto3 Practice: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Practice: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/fUaPUVOD4LWIAGgBkneRXwVJFpA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390682/4acfc1.png"/>
   </programme>
-  <programme channel="17140" start="20261023031000 +0000" stop="20261023040500 +0000">
+  <programme channel="17140" start="20261023025600 +0000" stop="20261023035000 +0000">
     <title lang="id">Moto2 Practice: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Practice: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5TQT-SQiMlETvugfNBD6SvnIPRQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390683/a08eb8.png"/>
   </programme>
-  <programme channel="17140" start="20261023040500 +0000" stop="20261023060000 +0000">
+  <programme channel="17140" start="20261023035000 +0000" stop="20261023060000 +0000">
     <title lang="id">MotoGP Practice: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Practice: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/SsohhBB94B6qdVEqbmK4qD2zdr4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390684/ab87a9.png"/>
@@ -13476,10 +13491,14 @@
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Qualifying: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RSo6zX_5urzls_2uUjqukhUYcmM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390730/37fe10.png"/>
   </programme>
-  <programme channel="17140" start="20261024033000 +0000" stop="20261024050000 +0000">
+  <programme channel="17140" start="20261024033000 +0000" stop="20261024044500 +0000">
     <title lang="id">MotoGP Tissot SPRINT: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Tissot SPRINT: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/C4wuiNv5y3JTb2CpmxLkdqDXCEg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390731/b24a33.png"/>
+  </programme>
+  <programme channel="17140" start="20261024044500 +0000" stop="20261024055500 +0000">
+    <title lang="id">2026 PBR: Team Series</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261024055500 +0000" stop="20261024080000 +0000">
     <title lang="id">Western Sydney Wanderers FC vs Auckland FC : A-League Men 26/27 MW 2</title>
@@ -26991,6 +27010,882 @@
   </programme>
   <programme channel="6784" start="20261025140000 +0000" stop="20261025143000 +0000">
     <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025150000 +0000" stop="20261025153000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025153000 +0000" stop="20261025160000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025160000 +0000" stop="20261025170000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025160000 +0000" stop="20261025170000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025170000 +0000" stop="20261025180000 +0000">
+    <title lang="id">Simply K-Pop 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025180000 +0000" stop="20261025183000 +0000">
+    <title lang="id">Vibe In Action: K-Initiative</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025183000 +0000" stop="20261025193000 +0000">
+    <title lang="id">Arirang Prime</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025193000 +0000" stop="20261025200000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025200000 +0000" stop="20261025203000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025203000 +0000" stop="20261025210000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025210000 +0000" stop="20261025213000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025213000 +0000" stop="20261025220000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025220000 +0000" stop="20261025223000 +0000">
+    <title lang="id">Talk Room</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025223000 +0000" stop="20261025225000 +0000">
+    <title lang="id">K-Arts Artists</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025225000 +0000" stop="20261025230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025230000 +0000" stop="20261025233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025233000 +0000" stop="20261025235000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261025235000 +0000" stop="20261026000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026000000 +0000" stop="20261026003000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026003000 +0000" stop="20261026010000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026010000 +0000" stop="20261026013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026013000 +0000" stop="20261026020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026020000 +0000" stop="20261026030000 +0000">
+    <title lang="id">Culture Crunch [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026030000 +0000" stop="20261026033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026033000 +0000" stop="20261026040000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026040000 +0000" stop="20261026050000 +0000">
+    <title lang="id">Performarts Reload</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026050000 +0000" stop="20261026053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026053000 +0000" stop="20261026060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026060000 +0000" stop="20261026063000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026063000 +0000" stop="20261026065000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026065000 +0000" stop="20261026070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026070000 +0000" stop="20261026072000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026072000 +0000" stop="20261026073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026073000 +0000" stop="20261026080000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026080000 +0000" stop="20261026083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026083000 +0000" stop="20261026090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026090000 +0000" stop="20261026101000 +0000">
+    <title lang="id">Show K-Pop [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026101000 +0000" stop="20261026103000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026103000 +0000" stop="20261026110000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026110000 +0000" stop="20261026113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026113000 +0000" stop="20261026120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026120000 +0000" stop="20261026123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026123000 +0000" stop="20261026125000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026125000 +0000" stop="20261026130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026130000 +0000" stop="20261026132000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026132000 +0000" stop="20261026133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026133000 +0000" stop="20261026140000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026140000 +0000" stop="20261026143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026143000 +0000" stop="20261026145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026145000 +0000" stop="20261026150000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026150000 +0000" stop="20261026153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026153000 +0000" stop="20261026160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026160000 +0000" stop="20261026162000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026162000 +0000" stop="20261026163000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026163000 +0000" stop="20261026170000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026163000 +0000" stop="20261026170000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026170000 +0000" stop="20261026180000 +0000">
+    <title lang="id">Performarts Reload</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026180000 +0000" stop="20261026183000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026183000 +0000" stop="20261026190000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026190000 +0000" stop="20261026193000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026193000 +0000" stop="20261026195000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026195000 +0000" stop="20261026200000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026200000 +0000" stop="20261026203000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026203000 +0000" stop="20261026205000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026205000 +0000" stop="20261026210000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026210000 +0000" stop="20261026220000 +0000">
+    <title lang="id">Performarts Reload</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026220000 +0000" stop="20261026223000 +0000">
+    <title lang="id">With Science, We LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026223000 +0000" stop="20261026225000 +0000">
+    <title lang="id">K-Arts Artists</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026225000 +0000" stop="20261026230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026230000 +0000" stop="20261026233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026233000 +0000" stop="20261026235000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261026235000 +0000" stop="20261027000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027000000 +0000" stop="20261027003000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027003000 +0000" stop="20261027010000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027010000 +0000" stop="20261027013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027013000 +0000" stop="20261027020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027020000 +0000" stop="20261027030000 +0000">
+    <title lang="id">Culture Crunch [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027030000 +0000" stop="20261027033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027033000 +0000" stop="20261027040000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027040000 +0000" stop="20261027050000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027050000 +0000" stop="20261027053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027053000 +0000" stop="20261027060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027060000 +0000" stop="20261027063000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027063000 +0000" stop="20261027065000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027065000 +0000" stop="20261027070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027070000 +0000" stop="20261027072000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027072000 +0000" stop="20261027073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027073000 +0000" stop="20261027080000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027080000 +0000" stop="20261027083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027083000 +0000" stop="20261027090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027090000 +0000" stop="20261027100000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027100000 +0000" stop="20261027103000 +0000">
+    <title lang="id">With Science, We LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027103000 +0000" stop="20261027110000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027110000 +0000" stop="20261027113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027113000 +0000" stop="20261027120000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027120000 +0000" stop="20261027123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027123000 +0000" stop="20261027125000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027125000 +0000" stop="20261027130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027130000 +0000" stop="20261027132000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027132000 +0000" stop="20261027133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027133000 +0000" stop="20261027140000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027140000 +0000" stop="20261027143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027143000 +0000" stop="20261027145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027145000 +0000" stop="20261027150000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027150000 +0000" stop="20261027153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027153000 +0000" stop="20261027160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027160000 +0000" stop="20261027162000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027162000 +0000" stop="20261027163000 +0000">
+    <title lang="id">Exploring Korean Literature B</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027163000 +0000" stop="20261027170000 +0000">
+    <title lang="id">Regional Tastes: Chungcheong</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027163000 +0000" stop="20261027170000 +0000">
+    <title lang="id">Regional Tastes: Chungcheong</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027170000 +0000" stop="20261027180000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027180000 +0000" stop="20261027183000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027183000 +0000" stop="20261027190000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027190000 +0000" stop="20261027193000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027193000 +0000" stop="20261027195000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027195000 +0000" stop="20261027200000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027200000 +0000" stop="20261027203000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027203000 +0000" stop="20261027205000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027205000 +0000" stop="20261027210000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027210000 +0000" stop="20261027220000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027220000 +0000" stop="20261027223000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027223000 +0000" stop="20261027225000 +0000">
+    <title lang="id">K-Arts Artists</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027225000 +0000" stop="20261027230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027230000 +0000" stop="20261027233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027233000 +0000" stop="20261027235000 +0000">
+    <title lang="id">K-Culture Minutes: K-Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261027235000 +0000" stop="20261028000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028000000 +0000" stop="20261028003000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028003000 +0000" stop="20261028010000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028010000 +0000" stop="20261028013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028013000 +0000" stop="20261028020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028020000 +0000" stop="20261028030000 +0000">
+    <title lang="id">Culture Crunch [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028030000 +0000" stop="20261028033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028033000 +0000" stop="20261028040000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028040000 +0000" stop="20261028043000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028043000 +0000" stop="20261028050000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028050000 +0000" stop="20261028053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028053000 +0000" stop="20261028060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028060000 +0000" stop="20261028063000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028063000 +0000" stop="20261028065000 +0000">
+    <title lang="id">K-Culture Minutes: K-Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028065000 +0000" stop="20261028070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028070000 +0000" stop="20261028072000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028072000 +0000" stop="20261028073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028073000 +0000" stop="20261028080000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028080000 +0000" stop="20261028083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028083000 +0000" stop="20261028090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028090000 +0000" stop="20261028093000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028093000 +0000" stop="20261028100000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028100000 +0000" stop="20261028103000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028103000 +0000" stop="20261028110000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028110000 +0000" stop="20261028113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028113000 +0000" stop="20261028120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028120000 +0000" stop="20261028123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028123000 +0000" stop="20261028125000 +0000">
+    <title lang="id">K-Culture Minutes: K-Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028125000 +0000" stop="20261028130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028130000 +0000" stop="20261028132000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028132000 +0000" stop="20261028133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028133000 +0000" stop="20261028140000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028140000 +0000" stop="20261028143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028143000 +0000" stop="20261028145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028145000 +0000" stop="20261028150000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028150000 +0000" stop="20261028153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028153000 +0000" stop="20261028160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028160000 +0000" stop="20261028163000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028163000 +0000" stop="20261028170000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028163000 +0000" stop="20261028170000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028170000 +0000" stop="20261028173000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028173000 +0000" stop="20261028180000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028180000 +0000" stop="20261028183000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028183000 +0000" stop="20261028190000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028190000 +0000" stop="20261028193000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028193000 +0000" stop="20261028195000 +0000">
+    <title lang="id">K-Culture Minutes: K-Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028195000 +0000" stop="20261028200000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028200000 +0000" stop="20261028203000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028203000 +0000" stop="20261028205000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028205000 +0000" stop="20261028210000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028210000 +0000" stop="20261028213000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028213000 +0000" stop="20261028220000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028220000 +0000" stop="20261028223000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028223000 +0000" stop="20261028225000 +0000">
+    <title lang="id">K-Sports Beyond</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028225000 +0000" stop="20261028230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028230000 +0000" stop="20261028233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028233000 +0000" stop="20261028235000 +0000">
+    <title lang="id">K-Culture Minutes: K-Stage</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261028235000 +0000" stop="20261029000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029000000 +0000" stop="20261029003000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029003000 +0000" stop="20261029010000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029010000 +0000" stop="20261029013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029013000 +0000" stop="20261029020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029020000 +0000" stop="20261029030000 +0000">
+    <title lang="id">Culture Crunch [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029030000 +0000" stop="20261029033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029033000 +0000" stop="20261029040000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029040000 +0000" stop="20261029050000 +0000">
+    <title lang="id">Simply K-Pop 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029050000 +0000" stop="20261029053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029053000 +0000" stop="20261029060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029060000 +0000" stop="20261029063000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029063000 +0000" stop="20261029065000 +0000">
+    <title lang="id">K-Culture Minutes: K-Stage</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029065000 +0000" stop="20261029070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029070000 +0000" stop="20261029072000 +0000">
+    <title lang="id">K-Sports Beyond</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029072000 +0000" stop="20261029073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029073000 +0000" stop="20261029080000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029080000 +0000" stop="20261029083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029083000 +0000" stop="20261029090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029090000 +0000" stop="20261029100000 +0000">
+    <title lang="id">Simply K-Pop 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029100000 +0000" stop="20261029103000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029103000 +0000" stop="20261029110000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029110000 +0000" stop="20261029113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029113000 +0000" stop="20261029120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029120000 +0000" stop="20261029123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029123000 +0000" stop="20261029125000 +0000">
+    <title lang="id">K-Culture Minutes: K-Stage</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029125000 +0000" stop="20261029130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029130000 +0000" stop="20261029132000 +0000">
+    <title lang="id">K-Sports Beyond</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029132000 +0000" stop="20261029133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029133000 +0000" stop="20261029140000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029140000 +0000" stop="20261029143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029143000 +0000" stop="20261029145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029145000 +0000" stop="20261029150000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029150000 +0000" stop="20261029153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029153000 +0000" stop="20261029160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029160000 +0000" stop="20261029163000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261029163000 +0000" stop="20261029170000 +0000">
+    <title lang="id">Re: Space</title>
     <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
   </programme>
   <programme channel="7464" start="20261022160000 +0000" stop="20261022173000 +0000">
