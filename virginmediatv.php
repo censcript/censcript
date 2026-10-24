@@ -4357,19 +4357,13 @@
 <programme start="20261024041500 +0000" stop="20261024060000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: A-League Women - Central Coast Mariners v Canberra United</title>
 </programme>
-<programme start="20261024120000 +0000" stop="20261024153000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261024120000 +0000" stop="20261024163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Northern Ireland Open Snooker - Semi-Final: Kyren Wilson v Sam Craigie</title>
 </programme>
-<programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>UCI Mountain Bike Enduro World Championships - Ligure</title>
-</programme>
-<programme start="20261024160000 +0000" stop="20261024163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>FIS World Cup Alpine Skiing - Sölden: Women&#039;s Giant Slalom, 1st Run</title>
-</programme>
-<programme start="20261024163000 +0000" stop="20261024170000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261024163000 +0000" stop="20261024171500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>FIS World Cup Alpine Skiing - Sölden: Women&#039;s Giant Slalom, 2nd Run</title>
 </programme>
-<programme start="20261024170000 +0000" stop="20261024180000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261024171500 +0000" stop="20261024180000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>A-League Men - Melbourne Victory v Melbourne City FC</title>
 </programme>
 <programme start="20261023230000 +0000" stop="20261024020000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -5752,7 +5746,10 @@
 <programme start="20261023175800 +0000" stop="20261024015800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261024015800 +0000" stop="20261024060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261024015800 +0000" stop="20261024050000 +0000" channel="CBBC.virginmediatv">
+    <title>This is CBBC!</title>
+</programme>
+<programme start="20261024050000 +0000" stop="20261024060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261024115500 +0000" stop="20261024122500 +0000" channel="CBBC.virginmediatv">

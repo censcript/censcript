@@ -115,16 +115,16 @@
   <programme start="20261026221500 +0000" stop="20261026231000 +0000" channel="Jednotka.webtv.sk">
     <title lang="id">Srdcia III</title>
   </programme>
-  <programme start="20261025212500 +0000" stop="20261025230200 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261025213000 +0000" stop="20261025230900 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Anjel milosrdenstva</title>
   </programme>
-  <programme start="20261025230200 +0000" stop="20261025230400 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261025230900 +0000" stop="20261025231100 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20261025230400 +0000" stop="20261026020400 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261025231100 +0000" stop="20261026020400 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20261026050000 +0000" stop="20261026050500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026045500 +0000" stop="20261026050500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Zázračný miniateliér</title>
   </programme>
   <programme start="20261026050500 +0000" stop="20261026052000 +0000" channel="Dvojka.webtv.sk">
@@ -133,23 +133,26 @@
   <programme start="20261026052000 +0000" stop="20261026052500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Slimák Maťo a škriatok Klinček</title>
   </programme>
-  <programme start="20261026052500 +0000" stop="20261026053500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026052500 +0000" stop="20261026053000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Slimák Maťo a škriatok Klinček</title>
   </programme>
-  <programme start="20261026053500 +0000" stop="20261026054500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026053000 +0000" stop="20261026054500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Paddington a jeho dobrodružstvá II</title>
   </programme>
   <programme start="20261026054500 +0000" stop="20261026055000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Bluey II</title>
   </programme>
-  <programme start="20261026055000 +0000" stop="20261026060500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026055000 +0000" stop="20261026060000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rodinka líšok a jazvecov</title>
   </programme>
-  <programme start="20261026060500 +0000" stop="20261026063000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Heidi</title>
   </programme>
-  <programme start="20261026063000 +0000" stop="20261026070500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Živá panoráma</title>
+  </programme>
+  <programme start="20261026070000 +0000" stop="20261026070500 +0000" channel="Dvojka.webtv.sk">
+    <title lang="id">Už si tu bol? / Ez az a hely</title>
   </programme>
   <programme start="20261026070500 +0000" stop="20261026073000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Od prameňa (česky)</title>
@@ -160,13 +163,13 @@
   <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Generácia</title>
   </programme>
-  <programme start="20261026083000 +0000" stop="20261026085500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Orientácie</title>
   </programme>
-  <programme start="20261026085500 +0000" stop="20261026092500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Televízny klub nepočujúcich</title>
   </programme>
-  <programme start="20261026092500 +0000" stop="20261026103000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026093000 +0000" stop="20261026103000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Dobrodružstvo v hoteli</title>
   </programme>
   <programme start="20261026103000 +0000" stop="20261026103500 +0000" channel="Dvojka.webtv.sk">
@@ -190,37 +193,37 @@
   <programme start="20261026113000 +0000" stop="20261026124000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Žabí ženích</title>
   </programme>
-  <programme start="20261026124000 +0000" stop="20261026132000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026124000 +0000" stop="20261026131500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Karimina skúška</title>
   </programme>
-  <programme start="20261026132000 +0000" stop="20261026132500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026131500 +0000" stop="20261026132000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Sociálna abeceda</title>
   </programme>
-  <programme start="20261026132500 +0000" stop="20261026133500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026132000 +0000" stop="20261026133000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">AgroFokus</title>
   </programme>
-  <programme start="20261026133500 +0000" stop="20261026143000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026133000 +0000" stop="20261026142500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Dušan Jamrich - Ticho medzi slovami</title>
   </programme>
-  <programme start="20261026143000 +0000" stop="20261026145500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026142500 +0000" stop="20261026145500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Radosť zo života</title>
   </programme>
   <programme start="20261026145500 +0000" stop="20261026153000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Vedeli ste? (10/30)</title>
   </programme>
-  <programme start="20261026153000 +0000" stop="20261026165500 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026153000 +0000" stop="20261026170000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Regina</title>
   </programme>
-  <programme start="20261026165500 +0000" stop="20261026173000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Na rybách - Petrov zdar</title>
   </programme>
   <programme start="20261026173000 +0000" stop="20261026173500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Večerníček</title>
   </programme>
-  <programme start="20261026173500 +0000" stop="20261026174000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026173500 +0000" stop="20261026174500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Medvedík Pompon</title>
   </programme>
-  <programme start="20261026174000 +0000" stop="20261026175000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026174500 +0000" stop="20261026175000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Bluey II</title>
   </programme>
   <programme start="20261026175000 +0000" stop="20261026180000 +0000" channel="Dvojka.webtv.sk">
@@ -232,10 +235,10 @@
   <programme start="20261026181000 +0000" stop="20261026182000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Rodinka líšok a jazvecov</title>
   </programme>
-  <programme start="20261026182000 +0000" stop="20261026184000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026182000 +0000" stop="20261026184500 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Heidi</title>
   </programme>
-  <programme start="20261026184000 +0000" stop="20261026190000 +0000" channel="Dvojka.webtv.sk">
+  <programme start="20261026184500 +0000" stop="20261026190000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Môj zvierací miláčik I</title>
   </programme>
   <programme start="20261026190000 +0000" stop="20261026190700 +0000" channel="Dvojka.webtv.sk">
