@@ -200,7 +200,7 @@
   <programme channel="204" start="20261024053200 +0000" stop="20261024095500 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
   </programme>
   <programme channel="204" start="20261024095500 +0000" stop="20261024112300 +0000">
     <title lang="id">Putri Pewaris</title>
@@ -278,7 +278,7 @@
   <programme channel="204" start="20261025052800 +0000" stop="20261025095500 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
   </programme>
   <programme channel="204" start="20261025095500 +0000" stop="20261025112500 +0000">
     <title lang="id">Putri Pewaris</title>
@@ -373,22 +373,22 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 Wib, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261024060000 +0000" stop="20261024080000 +0000">
+  <programme channel="205" start="20261024060000 +0000" stop="20261024080100 +0000">
     <title lang="id">Kisah Nyata Sore Spesial: Pernikahan Semu Yang Membuka Rahasia Gelap Di Dalamnya</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261024080000 +0000" stop="20261024104000 +0000">
+  <programme channel="205" start="20261024080100 +0000" stop="20261024102800 +0000">
     <title lang="id">Isenmulang Kalteng FC vs PSIM Jogja - BRI Super League</title>
     <desc lang="id">Mampukah Isenmulang Kalteng FC mengamankan tiga poin penuh di rumah sendiri?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BhcxndO79Ld23qxNhM3LssuRCic=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390717/65f7ca.jpg"/>
   </programme>
-  <programme channel="205" start="20261024104000 +0000" stop="20261024113000 +0000">
+  <programme channel="205" start="20261024102800 +0000" stop="20261024113400 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261024113000 +0000" stop="20261024141000 +0000">
+  <programme channel="205" start="20261024113400 +0000" stop="20261024141000 +0000">
     <title lang="id">PERSIJAP Jepara vs Java United FC - BRI Super League</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -572,14 +572,16 @@
     <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024181000 +0000" stop="20261024195600 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261024173000 +0000" stop="20261024190000 +0000">
+    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261024195600 +0000" stop="20261024220000 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261024190000 +0000" stop="20261024200000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20261024200000 +0000" stop="20261024220000 +0000">
+    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261024220000 +0000" stop="20261024231500 +0000">
@@ -592,7 +594,11 @@
     <desc lang="id">LIPUTAN 6 PAGI MOJI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5KBPYTNQP5HPD2jrzGUlLk5KYP8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/378394/1034d4.jpg"/>
   </programme>
-  <programme channel="206" start="20261025000000 +0000" stop="20261025010000 +0000">
+  <programme channel="206" start="20261025000000 +0000" stop="20261025003000 +0000">
+    <title lang="id">BISNIS UPDATE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20261025003000 +0000" stop="20261025010000 +0000">
     <title lang="id">Bisik Pagi</title>
     <desc lang="id">BISIK PAGI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -602,27 +608,26 @@
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025020000 +0000" stop="20261025034100 +0000">
+  <programme channel="206" start="20261025020000 +0000" stop="20261025040000 +0000">
     <title lang="id">Ungkap</title>
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025034100 +0000" stop="20261025060000 +0000">
+  <programme channel="206" start="20261025040000 +0000" stop="20261025060000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025060000 +0000" stop="20261025094200 +0000">
+  <programme channel="206" start="20261025060000 +0000" stop="20261025100000 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025094200 +0000" stop="20261025112500 +0000">
-    <title lang="id">SEA V Cup 2026</title>
-    <desc lang="id">SEA V CUP 2026</desc>
+  <programme channel="206" start="20261025100000 +0000" stop="20261025120000 +0000">
+    <title lang="id">RERUN INTERNATIONAL FRIENDLY MATCH</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025112500 +0000" stop="20261025133000 +0000">
+  <programme channel="206" start="20261025120000 +0000" stop="20261025133000 +0000">
     <title lang="id">AVC Men'S Nation Cup</title>
     <desc lang="id">AVC MEN'S NATION CUP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -632,14 +637,12 @@
     <desc lang="id">PREMIER LEAGUE (LIVE) - CYSTAL PALACE VS NEWCASTLE UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025160000 +0000" stop="20261025180500 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261025160000 +0000" stop="20261025173000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261025160000 +0000" stop="20261025180500 +0000">
-    <title lang="id">VNL 2026</title>
-    <desc lang="id">VNL 2026</desc>
+  <programme channel="206" start="20261025160000 +0000" stop="20261025173000 +0000">
+    <title lang="id">RERUN AVC WOMEN'S CONTINENTAL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261025180500 +0000" stop="20261025195600 +0000">
@@ -2670,37 +2673,37 @@
     <desc lang="id">Bikin Mewek</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261023230000 +0000" stop="20261024010000 +0000">
+  <programme channel="782" start="20261023230000 +0000" stop="20261024005800 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261024010000 +0000" stop="20261024023000 +0000">
+  <programme channel="782" start="20261024005800 +0000" stop="20261024023400 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Q53RoC2z3_m1YCsO2VJsL2_O3Yc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380157/8a1955.jpg"/>
   </programme>
-  <programme channel="782" start="20261024023000 +0000" stop="20261024060000 +0000">
+  <programme channel="782" start="20261024023400 +0000" stop="20261024055000 +0000">
     <title lang="id">Mega Bollywood : Tumko Na Bhool Paayenge</title>
     <desc lang="id">Mega Bollywood : Tumko Na Bhool Paayenge</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pSh48vQNH5GHN0HnSvimSbBn1wo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380207/500df1.jpg"/>
   </programme>
-  <programme channel="782" start="20261024060000 +0000" stop="20261024073000 +0000">
+  <programme channel="782" start="20261024055000 +0000" stop="20261024073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KhTCSEOn5y8Zk8owkYnLnfRTtgI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380165/37be0a.jpg"/>
   </programme>
-  <programme channel="782" start="20261024073000 +0000" stop="20261024093000 +0000">
+  <programme channel="782" start="20261024073000 +0000" stop="20261024093100 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/V9fbfrvmlCeWdPko6SEmynzsGC4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380172/ec0a22.jpg"/>
   </programme>
-  <programme channel="782" start="20261024093000 +0000" stop="20261024104500 +0000">
+  <programme channel="782" start="20261024093100 +0000" stop="20261024105500 +0000">
     <title lang="id">Naagin 1</title>
     <desc lang="id">Naagin 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261024104500 +0000" stop="20261024131500 +0000">
+  <programme channel="782" start="20261024105500 +0000" stop="20261024131500 +0000">
     <title lang="id">Sinema Spesial Rhoma Irama : Raja Dangdut</title>
     <desc lang="id">Sinema Spesial Rhoma Irama : Raja Dangdut</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -13486,14 +13489,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261025155500 +0000" stop="20261025180000 +0000">
-    <title lang="id">Goztepe vs Corum : Super Lig 2026/27</title>
-    <desc lang="id">Goztepe vs Corum</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Goztepe vs Corum - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Goztepe vs Corum - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jAJSR5SeziOsgadaz82SMnGW9yM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399459/8bb53e.jpg"/>
   </programme>
   <programme channel="6317" start="20261025155500 +0000" stop="20261025180000 +0000">
-    <title lang="id">Goztepe vs Corum : Super Lig 2026/27</title>
-    <desc lang="id">Goztepe vs Corum</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Goztepe vs Corum - Trendyol Super Lig</title>
+    <desc lang="id">Nonton streaming pertandingan seru Goztepe vs Corum - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jAJSR5SeziOsgadaz82SMnGW9yM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399459/8bb53e.jpg"/>
   </programme>
   <programme channel="6317" start="20261025180000 +0000" stop="20261025200000 +0000">
     <title lang="id">Man United vs Man City : Women's Super League 2026/27 (Join in Progress)</title>
@@ -14994,16 +14997,6 @@
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261024151000 +0000" stop="20261024172000 +0000">
-    <title lang="id">Toulouse FC vs ESTAC Troyes - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Toulouse FC vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/bJMiwe5LtFdFsTXSQERWMTfdFuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261024151000 +0000" stop="20261024172000 +0000">
-    <title lang="id">Toulouse FC vs ESTAC Troyes - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Toulouse FC vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/bJMiwe5LtFdFsTXSQERWMTfdFuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg"/>
-  </programme>
   <programme channel="6686" start="20261024172000 +0000" stop="20261024173000 +0000">
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
@@ -15410,17 +15403,17 @@
     <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26minute highlights show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261024100000 +0000" stop="20261024113000 +0000">
+  <programme channel="9353" start="20261024100000 +0000" stop="20261024110000 +0000">
     <title lang="id">Fri 23 Oct (Update) : Preview</title>
     <desc lang="id">A tightly packed lookahead to the forthcoming match round with a mix of player interviews and special features.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261024113000 +0000" stop="20261024190000 +0000">
+  <programme channel="9353" start="20261024110000 +0000" stop="20261024190000 +0000">
     <title lang="id">Aston villa v Manchester City / Arsenal v Everton / Chelsea v Tottenham Hotspur : Premier League Live</title>
     <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261024113000 +0000" stop="20261024190000 +0000">
+  <programme channel="9353" start="20261024110000 +0000" stop="20261024190000 +0000">
     <title lang="id">Aston villa v Manchester City / Arsenal v Everton / Chelsea v Tottenham Hotspur : Premier League Live</title>
     <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>

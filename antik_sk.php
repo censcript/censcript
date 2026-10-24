@@ -4081,10 +4081,10 @@
   <programme start="20261026010500 +0000" stop="20261026014500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly: Vraždící páry XVI (5)</title>
   </programme>
-  <programme start="20261026014500 +0000" stop="20261026022500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261026014500 +0000" stop="20261026023000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXXIII (18)</title>
   </programme>
-  <programme start="20261026022500 +0000" stop="20261026031000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261026023000 +0000" stop="20261026031000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXXIII (19)</title>
   </programme>
   <programme start="20261026031000 +0000" stop="20261026035000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -4093,10 +4093,10 @@
   <programme start="20261026035000 +0000" stop="20261026043500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20261026043500 +0000" stop="20261026044500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261026043500 +0000" stop="20261026044800 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
-  <programme start="20261026044500 +0000" stop="20261026050000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261026044800 +0000" stop="20261026050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20261026050000 +0000" stop="20261026051500 +0000" channel="Prima Krimi SK.webtv.sk">
