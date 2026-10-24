@@ -2758,22 +2758,22 @@
   <programme channel="782" start="20261025010000 +0000" stop="20261025023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1mD39yrrdDJAkhCltDbUkbgxR0k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380158/d3c0d7.jpg"/>
   </programme>
   <programme channel="782" start="20261025023000 +0000" stop="20261025060000 +0000">
     <title lang="id">Mega Bollywood : Main Hoon Na</title>
     <desc lang="id">Mega Bollywood : Main Hoon Na</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/G_6ogckC46NpidXoiGfYxSdS8L8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380211/f0c6d2.png"/>
   </programme>
   <programme channel="782" start="20261025060000 +0000" stop="20261025073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bPL0PrIorln5EkZN1jaMFct2ABU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380166/619053.jpg"/>
   </programme>
   <programme channel="782" start="20261025073000 +0000" stop="20261025093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1z1XQ-_z1s42da0jtM3gDB8awac=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5380173/f9b901.jpg"/>
   </programme>
   <programme channel="782" start="20261025093000 +0000" stop="20261025104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -3864,7 +3864,7 @@
   <programme channel="874" start="20261023180000 +0000" stop="20261023200000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261023200000 +0000" stop="20261023203000 +0000">
     <title lang="id">Kompas Malam</title>
@@ -4079,7 +4079,7 @@
   <programme channel="874" start="20261025090000 +0000" stop="20261025103000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-3gVG8LsZOUnCh2_aCX73Pykb8o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5392931/60e769.jpg"/>
   </programme>
   <programme channel="874" start="20261025103000 +0000" stop="20261025110000 +0000">
     <title lang="id">Kompas Sepekan</title>
@@ -4189,7 +4189,7 @@
   <programme channel="874" start="20261026090000 +0000" stop="20261026103000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261026103000 +0000" stop="20261026123000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
@@ -4239,7 +4239,7 @@
   <programme channel="874" start="20261026180000 +0000" stop="20261026190000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261026190000 +0000" stop="20261026200000 +0000">
     <title lang="id">Jurnal Merah Putih</title>
@@ -4314,7 +4314,7 @@
   <programme channel="874" start="20261027090000 +0000" stop="20261027103000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261027103000 +0000" stop="20261027123000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
@@ -4364,7 +4364,7 @@
   <programme channel="874" start="20261027183000 +0000" stop="20261027193000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261027193000 +0000" stop="20261027200000 +0000">
     <title lang="id">Jurnal Merah Putih</title>
@@ -4434,7 +4434,7 @@
   <programme channel="874" start="20261028090000 +0000" stop="20261028103000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261028103000 +0000" stop="20261028123000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
@@ -4484,7 +4484,7 @@
   <programme channel="874" start="20261028180000 +0000" stop="20261028193000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261028193000 +0000" stop="20261028200000 +0000">
     <title lang="id">Jurnal Merah Putih</title>
@@ -4559,7 +4559,7 @@
   <programme channel="874" start="20261029090000 +0000" stop="20261029103000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261029103000 +0000" stop="20261029123000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
@@ -4609,7 +4609,7 @@
   <programme channel="874" start="20261029180000 +0000" stop="20261029193000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261029193000 +0000" stop="20261029200000 +0000">
     <title lang="id">Jurnal Merah Putih</title>
@@ -4684,7 +4684,7 @@
   <programme channel="874" start="20261030090000 +0000" stop="20261030103000 +0000">
     <title lang="id">Kompas Petang</title>
     <desc lang="id">Program berita di Kompas TV yang ditayangkan setiap sore. Program ini menyajikan berita terkini seputar peristiwa, politik, hukum, kriminal, hingga humaniora.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/jj9luSHlZk2jbvjSgqs3OHK1LOc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-98863c.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QBZf0bNIR7TCBjLmuyu_HNrvt3A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380293/fc04de.jpg"/>
   </programme>
   <programme channel="874" start="20261030103000 +0000" stop="20261030120000 +0000">
     <title lang="id">Sapa Indonesia Malam</title>
@@ -12385,7 +12385,7 @@
     <desc lang="id">Atletico Madrid vs Deportivo</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261025130000 +0000" stop="20261025150000 +0000">
+  <programme channel="6299" start="20261025125500 +0000" stop="20261025150000 +0000">
     <title lang="id">Athletic Club vs Getafe - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Athletic Club vs Getafe - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/15GPHQA1dqgZ2szCHoYvEYwkSYA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5394543/8cfd38.jpg"/>
@@ -13221,7 +13221,7 @@
     <desc lang="id">CHELSEA vs TOTTENHAM HOTSPUR</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261024184500 +0000" stop="20261024204500 +0000">
+  <programme channel="9182" start="20261024184000 +0000" stop="20261024204600 +0000">
     <title lang="id">RC Lens vs Paris FC - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru RC Lens vs Paris FC - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/4JthGfvYIHGjOVVUMnRILXcyqNw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391099/02a360.jpg"/>
@@ -13390,15 +13390,15 @@
     <desc lang="id">MD3 Review</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261024160500 +0000" stop="20261024181500 +0000">
-    <title lang="id">Brighton vs West Ham : Women's Super League 2026/27</title>
-    <desc lang="id">Brighton vs West Ham</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20261024161000 +0000" stop="20261024181500 +0000">
+    <title lang="id">Brighton vs West Ham - Women's Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brighton vs West Ham - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LAZ2qdNq1sfJLIaE9sDs2uPupuw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399423/506502.jpg"/>
   </programme>
-  <programme channel="6317" start="20261024160500 +0000" stop="20261024181500 +0000">
-    <title lang="id">Brighton vs West Ham : Women's Super League 2026/27</title>
-    <desc lang="id">Brighton vs West Ham</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20261024161000 +0000" stop="20261024181500 +0000">
+    <title lang="id">Brighton vs West Ham - Women's Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Brighton vs West Ham - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LAZ2qdNq1sfJLIaE9sDs2uPupuw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399423/506502.jpg"/>
   </programme>
   <programme channel="6317" start="20261024181500 +0000" stop="20261024183000 +0000">
     <title lang="id">Aberdeen 1983 : UCL/UEL Series - How We Conquered</title>
@@ -14018,12 +14018,16 @@
     <desc lang="id">JUVENTUS vs LAZIO</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261024030000 +0000" stop="20261024070000 +0000">
+  <programme channel="6786" start="20261024030000 +0000" stop="20261024040000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261024040000 +0000" stop="20261024080000 +0000">
     <title lang="id">Semifinal - WTA 250: Kinoshita Group Japan Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal - WTA 250: Kinoshita Group Japan Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mgalYemwsQmMLXoMHUeqodnAePA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390732/3e68a8.png"/>
   </programme>
-  <programme channel="6786" start="20261024070000 +0000" stop="20261024090000 +0000">
+  <programme channel="6786" start="20261024080000 +0000" stop="20261024090000 +0000">
     <title lang="id">Match 18 - Semifinal : [LIVE] WTA 500</title>
     <desc lang="id">Match 18 - Semifinal</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -14083,7 +14087,7 @@
     <desc lang="id">Full Impact - Round 7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261024184500 +0000" stop="20261024204500 +0000">
+  <programme channel="6786" start="20261024183000 +0000" stop="20261024210000 +0000">
     <title lang="id">Lazio vs Parma - Serie A</title>
     <desc lang="id">Adu gengsi panggung Serie A, Lazio &amp; Parma berburu poin krusial malam ini!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/DDTtI3dm8Cw6Wrs8Ad9cH3UDBtY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391819/a69c1e.jpg"/>
@@ -14343,9 +14347,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261025115000 +0000" stop="20261025140000 +0000">
-    <title lang="id">Crystal Palace vs Chelsea : Women's Super League 2026/27</title>
-    <desc lang="id">Crystal Palace vs Chelsea</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Crystal Palace vs Chelsea - Women's Super League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Crystal Palace vs Chelsea - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlyuf_82SokcPo3uvVztX_8a7RU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399422/263be4.jpg"/>
   </programme>
   <programme channel="17875" start="20261025140000 +0000" stop="20261025143000 +0000">
     <title lang="id">Kite World Cup Sylt 2026 : GKA Kite World Tour 2026</title>
@@ -14990,12 +14994,12 @@
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261024151000 +0000" stop="20261024171500 +0000">
+  <programme channel="6686" start="20261024151000 +0000" stop="20261024172000 +0000">
     <title lang="id">Toulouse FC vs ESTAC Troyes - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Toulouse FC vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bJMiwe5LtFdFsTXSQERWMTfdFuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg"/>
   </programme>
-  <programme channel="6686" start="20261024151000 +0000" stop="20261024171500 +0000">
+  <programme channel="6686" start="20261024151000 +0000" stop="20261024172000 +0000">
     <title lang="id">Toulouse FC vs ESTAC Troyes - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Toulouse FC vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bJMiwe5LtFdFsTXSQERWMTfdFuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391103/f65479.jpg"/>
@@ -15077,7 +15081,7 @@
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261025140000 +0000" stop="20261025160000 +0000">
+  <programme channel="6686" start="20261025135500 +0000" stop="20261025160000 +0000">
     <title lang="id">AS Monaco vs LOSC Lille - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru AS Monaco vs LOSC Lille - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/532TLG7I0zSZ1lnU-Y3AxoRSZHM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391816/4ef164.jpg"/>
@@ -15086,12 +15090,12 @@
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261025161500 +0000" stop="20261025181500 +0000">
+  <programme channel="6686" start="20261025161000 +0000" stop="20261025181500 +0000">
     <title lang="id">Stade Rennais FC vs RC Strasbourg Alsace - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Stade Rennais FC vs RC Strasbourg Alsace - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Db3u521HcDJorTGu-6vsDhnQO8Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391817/ab4b86.jpg"/>
   </programme>
-  <programme channel="6686" start="20261025161500 +0000" stop="20261025181500 +0000">
+  <programme channel="6686" start="20261025161000 +0000" stop="20261025181500 +0000">
     <title lang="id">Stade Rennais FC vs RC Strasbourg Alsace - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Stade Rennais FC vs RC Strasbourg Alsace - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Db3u521HcDJorTGu-6vsDhnQO8Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391817/ab4b86.jpg"/>
@@ -15640,12 +15644,12 @@
     <title lang="id">The AIG Women's Open Official Film 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261024040000 +0000" stop="20261024060000 +0000">
+  <programme channel="17139" start="20261024040000 +0000" stop="20261024055000 +0000">
     <title lang="id">Newcastle Jets vs Macarthur FC - Isuzu UTE A-League Men</title>
     <desc lang="id">Nonton streaming pertandingan seru Newcastle Jets vs Macarthur FC - Isuzu UTE A-League Men. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/AuUIO3hR8_qUvJyuFTOK0I2WFTY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391290/cd6908.png"/>
   </programme>
-  <programme channel="17139" start="20261024060000 +0000" stop="20261024070000 +0000">
+  <programme channel="17139" start="20261024055000 +0000" stop="20261024070000 +0000">
     <title lang="id">Highlights Day 2 : CelcomDigi STL 2026 GP Perak</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Perak, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
@@ -16245,17 +16249,17 @@
     <desc lang="id">Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024014000 +0000" stop="20261024025500 +0000">
+  <programme channel="17140" start="20261024014000 +0000" stop="20261024030400 +0000">
     <title lang="id">Moto3 Qualifying: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Qualifying: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xn6IPjlim68yNc3KbG24yT6ILVs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390729/416f64.png"/>
   </programme>
-  <programme channel="17140" start="20261024025500 +0000" stop="20261024034800 +0000">
+  <programme channel="17140" start="20261024030400 +0000" stop="20261024033000 +0000">
     <title lang="id">Moto2 Qualifying: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Qualifying: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RSo6zX_5urzls_2uUjqukhUYcmM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390730/37fe10.png"/>
   </programme>
-  <programme channel="17140" start="20261024034800 +0000" stop="20261024050500 +0000">
+  <programme channel="17140" start="20261024033000 +0000" stop="20261024050500 +0000">
     <title lang="id">MotoGP Tissot SPRINT: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Tissot SPRINT: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/C4wuiNv5y3JTb2CpmxLkdqDXCEg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390731/b24a33.png"/>

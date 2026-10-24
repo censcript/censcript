@@ -4152,8 +4152,8 @@
     <episode-num system="onscreen">S1E20261024</episode-num>
   </programme>
   <programme start="20261024093300 +0000" stop="20261024100300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
+    <title lang="en">X + (IV)</title>
+    <desc lang="en">The show serves as a flagship platform to highlight breakthroughs in artificial intelligence, deep-sea robotics, biomedical engineering, green technology, and industrial automation. It features on-location reporting, field tests of emerging technologies, and interviews with leading scientists and tech founders.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20261023.</episode-num>
     <episode-num system="onscreen">S1E20261024</episode-num>
@@ -4228,12 +4228,15 @@
     <episode-num system="xmltv_ns">0.20261023.</episode-num>
     <episode-num system="onscreen">S1E20261024</episode-num>
   </programme>
-  <programme start="20261024150300 +0000" stop="20261024160300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PREMIUM SPECTACULAR</title>
-    <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
+  <programme start="20261024150300 +0000" stop="20261024153300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE CARBON PURSUIT OF HAPPINESS</title>
+    <desc lang="en">This documentary series brings together global experts to explore how sustainability, medical technology, and green living can improve public health, environmental balance, and overall human well-being.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20261023.</episode-num>
-    <episode-num system="onscreen">S1E20261024</episode-num>
+  </programme>
+  <programme start="20261024153300 +0000" stop="20261024160300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE CARBON PURSUIT OF HAPPINESS</title>
+    <desc lang="en">This documentary series brings together global experts to explore how sustainability, medical technology, and green living can improve public health, environmental balance, and overall human well-being.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <channel id="seti.unifitv">
     <display-name>SETI</display-name>
@@ -4343,29 +4346,54 @@
     <episode-num system="xmltv_ns">0.678.</episode-num>
     <episode-num system="onscreen">S1E679</episode-num>
   </programme>
-  <programme start="20261024090500 +0000" stop="20261024110500 +0000" channel="seti.unifitv">
-    <title lang="en">The 61st Television Drama Golden Bell Awards Red Carpet 61</title>
-    <desc lang="en">The 61st Television Drama Golden Bell Awards Red Carpet welcomes actors, directors and creative teams to Taipei Music Center. Red-carpet interviews and fashion highlights build excitement for the awards ceremony. 61</desc>
-    <category lang="en">Musical</category>
+  <programme start="20261024090500 +0000" stop="20261024100500 +0000" channel="seti.unifitv">
+    <title lang="en">Mommy Says</title>
+    <desc lang="en">A warm and relatable lifestyle talk show that explores the daily dynamics between mothers, daughters-in-law, and modern families. Through real stories, lighthearted conversations, and practical tips on relationships, parenting, and home life, the program highlights touching and humorous moments.</desc>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">0.861.</episode-num>
+    <episode-num system="onscreen">S1E862</episode-num>
   </programme>
-  <programme start="20261024110500 +0000" stop="20261024143500 +0000" channel="seti.unifitv">
-    <title lang="en">The 61st Television Drama Golden Bell Awards 61</title>
-    <desc lang="en">Hosted by Annie Chen, the 61st Television Drama Golden Bell Awards honours Taiwan's outstanding television dramas, actors and creative teams. The ceremony recognises achievements in acting, directing, writing and production while celebrating the year's finest stories.</desc>
-    <category lang="en">Musical</category>
+  <programme start="20261024100500 +0000" stop="20261024110500 +0000" channel="seti.unifitv">
+    <title lang="en">Venus Online</title>
+    <desc lang="en">Venus Online is a vibrant lifestyle and beauty show featuring the latest in makeup, skincare, and fashion. Each episode shares practical tips and fun challenges that inspire confidence and celebrate personal style.</desc>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">0.30.</episode-num>
+    <episode-num system="onscreen">S1E31</episode-num>
   </programme>
-  <programme start="20261024143500 +0000" stop="20261024150500 +0000" channel="seti.unifitv">
+  <programme start="20261024110500 +0000" stop="20261024120500 +0000" channel="seti.unifitv">
+    <title lang="en">Girls Tease</title>
+    <desc lang="en">This show focuses on the issues that are most important to urban modern women. It combines current events with discussions of life's major and minor problems and invites various specialists to address various difficulties.</desc>
+    <category lang="en">Variety</category>
+    <episode-num system="xmltv_ns">0.73.</episode-num>
+    <episode-num system="onscreen">S1E74</episode-num>
+  </programme>
+  <programme start="20261024120500 +0000" stop="20261024133500 +0000" channel="seti.unifitv">
+    <title lang="en">Top Singers</title>
+    <desc lang="en">The show 'Top Singers' aims to spotlight outstanding Taiwanese singers and composers, setting a new standard in the industry. Combining elements of competition, variety, and personal stories, the show welcomes participants of all ages.</desc>
+    <category lang="en">Musical</category>
+    <episode-num system="xmltv_ns">0.732.</episode-num>
+    <episode-num system="onscreen">S1E733</episode-num>
+  </programme>
+  <programme start="20261024133500 +0000" stop="20261024140500 +0000" channel="seti.unifitv">
     <title lang="en">Show Biz</title>
     <desc lang="en">Show Biz delivers fast-paced coverage of the latest celebrity news, entertainment events and popular culture. Through studio segments, interviews, live reports and highlights, the programme keeps viewers informed about current stars, performances and industry developments.</desc>
     <category lang="en">Variety</category>
     <episode-num system="xmltv_ns">0.1182.</episode-num>
     <episode-num system="onscreen">S1E1183</episode-num>
   </programme>
-  <programme start="20261024150500 +0000" stop="20261024160500 +0000" channel="seti.unifitv">
+  <programme start="20261024140500 +0000" stop="20261024150500 +0000" channel="seti.unifitv">
     <title lang="en">Love, Now</title>
     <desc lang="en">Lan Shi De, who lost his first love in college, reunites with Yang Yi Ru in a foreign land. When he learns she has only six months to live, he decides to marry her and fulfill her dream wedding. Eight days later, she mysteriously disappears, and Shi De vows not to let true love slip away again.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.69.</episode-num>
     <episode-num system="onscreen">S1E70</episode-num>
+  </programme>
+  <programme start="20261024150500 +0000" stop="20261024160500 +0000" channel="seti.unifitv">
+    <title lang="en">Love, Now</title>
+    <desc lang="en">Lan Shi De, who lost his first love in college, reunites with Yang Yi Ru in a foreign land. When he learns she has only six months to live, he decides to marry her and fulfill her dream wedding. Eight days later, she mysteriously disappears, and Shi De vows not to let true love slip away again.</desc>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.70.</episode-num>
+    <episode-num system="onscreen">S1E71</episode-num>
   </programme>
   <channel id="celestialmovies.unifitv">
     <display-name>Celestial Movies</display-name>

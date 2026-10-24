@@ -613,9 +613,6 @@
 <programme start="20261024010000 +0000" stop="20261024023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261024023000 +0000" stop="20261024060000 +0000" channel="ANTV.vision">
-<title>Tumko Na Bhool Paayenge</title>
-</programme>
 <programme start="20261024060000 +0000" stop="20261024073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -786,9 +783,6 @@
 </programme>
 <programme start="20261024010000 +0000" stop="20261024013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20261024013000 +0000" stop="20261024023000 +0000" channel="TVOne.vision">
-<title>Indonesia Bergerak</title>
 </programme>
 <programme start="20261024023000 +0000" stop="20261024030000 +0000" channel="TVOne.vision">
 <title>Pesona Nusantara</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261024090300 +0000" stop="20261024093000 +0000" channel="TVRI.vision">
 <title>Jajan Story</title>
+</programme>
+<programme start="20261024093000 +0000" stop="20261024100000 +0000" channel="TVRI.vision">
+<title>Buah Hatiku Sayang</title>
+</programme>
+<programme start="20261024100000 +0000" stop="20261024100300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>
