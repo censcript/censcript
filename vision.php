@@ -622,9 +622,6 @@
 <programme start="20261024093000 +0000" stop="20261024104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261024104500 +0000" stop="20261024131500 +0000" channel="ANTV.vision">
-<title>Raja Dangdut</title>
-</programme>
 <programme start="20261024131500 +0000" stop="20261024150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261024100000 +0000" stop="20261024100300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261024100300 +0000" stop="20261024103000 +0000" channel="TVRI.vision">
+<title>Buah Hatiku Sayang</title>
 </programme>

@@ -2339,7 +2339,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261024133000 +0000" stop="20261024140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20261024140000 +0000" stop="20261024143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -4358,7 +4358,7 @@
     <title>Live: A-League Women - Central Coast Mariners v Canberra United</title>
 </programme>
 <programme start="20261024120000 +0000" stop="20261024153000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
-    <title>Live: Northern Ireland Open Snooker - Semi-Final</title>
+    <title>Live: Northern Ireland Open Snooker - Semi-Final: Kyren Wilson v Sam Craigie</title>
 </programme>
 <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>UCI Mountain Bike Enduro World Championships - Ligure</title>
