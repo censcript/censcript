@@ -14384,7 +14384,7 @@
   </channel>
   <programme start="20261023153500 +0000" stop="20261023160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Despite the booming popularity of Japan's castles, many facilities are reaching the end of their lifespan and require a critical decision: wooden reconstruction, seismic retrofitting, or demolition.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5135.</episode-num>
     <episode-num system="onscreen">S1E5136</episode-num>
@@ -14432,15 +14432,15 @@
     <episode-num system="onscreen">S1E5112</episode-num>
   </programme>
   <programme start="20261023184800 +0000" stop="20261023190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Impacts</title>
-    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">Impacts: Climates Change the World</title>
+    <desc lang="en">A record-breaking "Super El Nino" has begun. We examine the mechanisms driving this climate catalyst and the reality of projected climate disasters.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5182.</episode-num>
     <episode-num system="onscreen">S1E5183</episode-num>
   </programme>
   <programme start="20261023190000 +0000" stop="20261023190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">We visit an Edo-style open-air teahouse, where the townspeople enjoyed refreshments, conversation, and the company of exotic birds. For them, these outings were about more than a good time.</desc>
+    <desc lang="en">We attend a New Year's concert at a samurai residence, where a master koto player delights a crowd of gorgeously dressed celebrity-types. Lounging in the best seat in the house is no ordinary V.I.P.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5148.</episode-num>
     <episode-num system="onscreen">S1E5149</episode-num>
@@ -14489,7 +14489,7 @@
   </programme>
   <programme start="20261023213500 +0000" stop="20261023220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">Despite the booming popularity of Japan's castles, many facilities are reaching the end of their lifespan and require a critical decision: wooden reconstruction, seismic retrofitting, or demolition.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5135.</episode-num>
     <episode-num system="onscreen">S1E5136</episode-num>
@@ -14524,7 +14524,7 @@
   </programme>
   <programme start="20261023232000 +0000" stop="20261023233500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan's Top Inventions</title>
-    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter.</desc>
+    <desc lang="en">Discover the stories behind renowned Japanese products alongside our reporter. This time: center bridge knee braces.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5124.</episode-num>
     <episode-num system="onscreen">S1E5125</episode-num>
@@ -14558,8 +14558,8 @@
     <episode-num system="onscreen">S1E5044</episode-num>
   </programme>
   <programme start="20261024011500 +0000" stop="20261024020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Manben: Behind the Scenes of Manga</title>
+    <desc lang="en">Manga artist Urasawa Naoki takes you behind the scenes of how manga is made with guest Sugimura Shinichi. Learn Sugimura's digital drawing techniques as he works on the climax of Last Pleasure Boat.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
@@ -14573,7 +14573,7 @@
   </programme>
   <programme start="20261024021500 +0000" stop="20261024030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc lang="en">We travel to Gunma, surrounded by mountains, meeting people who share what they love, such as a girls' dance team arranging a folk song and a corn stall owner keeping the memory of her husband alive.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5114.</episode-num>
     <episode-num system="onscreen">S1E5115</episode-num>
@@ -14614,8 +14614,8 @@
     <episode-num system="onscreen">S1E5027</episode-num>
   </programme>
   <programme start="20261024041500 +0000" stop="20261024044500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK World-Japan on a journey that reveals the truth behind some of the turning points of the past.</desc>
+    <title lang="en">Samurai Castles</title>
+    <desc lang="en">Goryokaku may be star-shaped, like European fortresses, but it was designed by a samurai. It became a symbol of Japan in transition in the mid-1800s, after 250 years of seclusion and peace.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5207.</episode-num>
     <episode-num system="onscreen">S1E5208</episode-num>
@@ -14677,8 +14677,8 @@
     <episode-num system="onscreen">S1E5030</episode-num>
   </programme>
   <programme start="20261024071500 +0000" stop="20261024080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Manben: Behind the Scenes of Manga</title>
+    <desc lang="en">Manga artist Urasawa Naoki takes you behind the scenes of how manga is made with guest Sugimura Shinichi. Learn Sugimura's digital drawing techniques as he works on the climax of Last Pleasure Boat.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
@@ -14691,8 +14691,8 @@
     <episode-num system="onscreen">S1E5031</episode-num>
   </programme>
   <programme start="20261024081500 +0000" stop="20261024084500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK World-Japan on a journey that reveals the truth behind some of the turning points of the past.</desc>
+    <title lang="en">Samurai Castles</title>
+    <desc lang="en">Goryokaku may be star-shaped, like European fortresses, but it was designed by a samurai. It became a symbol of Japan in transition in the mid-1800s, after 250 years of seclusion and peace.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5207.</episode-num>
     <episode-num system="onscreen">S1E5208</episode-num>
@@ -14741,7 +14741,7 @@
   </programme>
   <programme start="20261024101500 +0000" stop="20261024110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc lang="en">We travel to Gunma, surrounded by mountains, meeting people who share what they love, such as a girls' dance team arranging a folk song and a corn stall owner keeping the memory of her husband alive.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5114.</episode-num>
     <episode-num system="onscreen">S1E5115</episode-num>
@@ -14796,8 +14796,8 @@
     <episode-num system="onscreen">S1E5035</episode-num>
   </programme>
   <programme start="20261024131500 +0000" stop="20261024140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Manben: Behind the Scenes of Manga</title>
+    <desc lang="en">Manga artist Urasawa Naoki takes you behind the scenes of how manga is made with guest Sugimura Shinichi. Learn Sugimura's digital drawing techniques as he works on the climax of Last Pleasure Boat.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
@@ -14846,7 +14846,7 @@
   </programme>
   <programme start="20261024151500 +0000" stop="20261024160500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Cycle Around Japan</title>
-    <desc lang="en">Come ride with us! Bicycle through the scenery of Japan, stay with locals and discover hidden traditions in a Japan you didn't know existed.</desc>
+    <desc lang="en">We travel to Gunma, surrounded by mountains, meeting people who share what they love, such as a girls' dance team arranging a folk song and a corn stall owner keeping the memory of her husband alive.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5114.</episode-num>
     <episode-num system="onscreen">S1E5115</episode-num>

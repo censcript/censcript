@@ -12166,12 +12166,12 @@
     <desc lang="id">Ante Budimir</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261023205500 +0000" stop="20261023220800 +0000">
+  <programme channel="6299" start="20261023205500 +0000" stop="20261023220600 +0000">
     <title lang="id">Practice 2 - Formula 1 MSC Cruises United States Grand Prix 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Practice 2 - Formula 1 MSC Cruises United States Grand Prix 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/y67JLMCNBOYSkGIfvrrbto4hthU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390724/cbd874.png"/>
   </programme>
-  <programme channel="6299" start="20261023220800 +0000" stop="20261023221500 +0000">
+  <programme channel="6299" start="20261023220600 +0000" stop="20261023221500 +0000">
     <title lang="id">Raphinha : LaLiga Goals Galore 2024/25</title>
     <desc lang="id">Raphinha</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -12181,14 +12181,13 @@
     <desc lang="id">Matchday 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261023224500 +0000" stop="20261023232500 +0000">
+  <programme channel="6299" start="20261023224500 +0000" stop="20261023234200 +0000">
     <title lang="id">F1 ACADEMY RACING SERIES, ROUND 5 UNITED STATES, 2026 Race 1 : F1 Academy Race 2026</title>
     <desc lang="id">F1 ACADEMY RACING SERIES, ROUND 5 UNITED STATES, 2026 Race 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261023232500 +0000" stop="20261024000000 +0000">
-    <title lang="id">Jarama : FIA European Truck Racing Championship Highlights 2026</title>
-    <desc lang="id">Jarama</desc>
+  <programme channel="6299" start="20261023234200 +0000" stop="20261024000000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261024000000 +0000" stop="20261024003000 +0000">
@@ -13212,23 +13211,14 @@
     <desc lang="id">Mampukah Everton mencuri poin berharga dari The Gunners yang sedang membara?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KtAsTK1clIHdyfpJdCFLbOYeImI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5391098/4d1cdc.jpg"/>
   </programme>
-  <programme channel="9182" start="20261024161000 +0000" stop="20261024170000 +0000">
+  <programme channel="9182" start="20261024161000 +0000" stop="20261024184000 +0000">
     <title lang="id">Chelsea vs Tottenham Hotspur : [LIVE] Premier League 2026/27</title>
     <desc lang="id">CHELSEA vs TOTTENHAM HOTSPUR</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261024161000 +0000" stop="20261024170000 +0000">
+  <programme channel="9182" start="20261024161000 +0000" stop="20261024184000 +0000">
     <title lang="id">Chelsea vs Tottenham Hotspur : [LIVE] Premier League 2026/27</title>
     <desc lang="id">CHELSEA vs TOTTENHAM HOTSPUR</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
-  </programme>
-  <programme channel="9182" start="20261024170000 +0000" stop="20261024183000 +0000">
-    <title lang="id">Chelsea vs Tottenham Hotspur : [Continue] Premier League 2025/26</title>
-    <desc lang="id">CHELSEA vs TOTTENHAM HOTSPUR</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
-  </programme>
-  <programme channel="9182" start="20261024183000 +0000" stop="20261024184000 +0000">
-    <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
   <programme channel="9182" start="20261024184500 +0000" stop="20261024204500 +0000">
@@ -16230,47 +16220,47 @@
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261023213500 +0000" stop="20261023221000 +0000">
+  <programme channel="17140" start="20261023213500 +0000" stop="20261023221600 +0000">
     <title lang="id">Moto3 Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Free Practice 2: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/EHbbqb1FY0BZQ2qacQH_razV2cE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390728/d90edf.png"/>
   </programme>
-  <programme channel="17140" start="20261023221000 +0000" stop="20261023225000 +0000">
+  <programme channel="17140" start="20261023221600 +0000" stop="20261023230100 +0000">
     <title lang="id">Moto2 Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Free Practice 2: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YPjPKAUC0Lj4be8oJoLSdSWp96s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390727/ffb225.png"/>
   </programme>
-  <programme channel="17140" start="20261023225000 +0000" stop="20261023234000 +0000">
+  <programme channel="17140" start="20261023230100 +0000" stop="20261023234500 +0000">
     <title lang="id">MotoGP Free Practice 2: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Free Practice 2: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/L0DuK8mHQsEJE3TFme6oWZxdy-k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390725/7ff6df.png"/>
   </programme>
-  <programme channel="17140" start="20261023234000 +0000" stop="20261024004500 +0000">
+  <programme channel="17140" start="20261023234500 +0000" stop="20261024004600 +0000">
     <title lang="id">MotoGP Qualifying: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Qualifying: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/mqaWzr1ulkk6U-Frr6HR-AM1TtA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390726/c648c7.png"/>
   </programme>
-  <programme channel="17140" start="20261024004500 +0000" stop="20261024014000 +0000">
+  <programme channel="17140" start="20261024004600 +0000" stop="20261024014000 +0000">
     <title lang="id">SJM Macao Open : 2026 Asian Tour Highlights</title>
     <desc lang="id">Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261024014000 +0000" stop="20261024024000 +0000">
+  <programme channel="17140" start="20261024014000 +0000" stop="20261024025500 +0000">
     <title lang="id">Moto3 Qualifying: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Qualifying: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xn6IPjlim68yNc3KbG24yT6ILVs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390729/416f64.png"/>
   </programme>
-  <programme channel="17140" start="20261024024000 +0000" stop="20261024033000 +0000">
+  <programme channel="17140" start="20261024025500 +0000" stop="20261024034800 +0000">
     <title lang="id">Moto2 Qualifying: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Qualifying: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RSo6zX_5urzls_2uUjqukhUYcmM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390730/37fe10.png"/>
   </programme>
-  <programme channel="17140" start="20261024033000 +0000" stop="20261024044500 +0000">
+  <programme channel="17140" start="20261024034800 +0000" stop="20261024050500 +0000">
     <title lang="id">MotoGP Tissot SPRINT: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Tissot SPRINT: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/C4wuiNv5y3JTb2CpmxLkdqDXCEg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5390731/b24a33.png"/>
   </programme>
-  <programme channel="17140" start="20261024044500 +0000" stop="20261024055500 +0000">
+  <programme channel="17140" start="20261024050500 +0000" stop="20261024055500 +0000">
     <title lang="id">2026 PBR: Team Series</title>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
