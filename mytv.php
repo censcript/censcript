@@ -4,10 +4,10 @@
     <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="VTV1 HD.mytv">
         <title> Học tập và thực hành theo Bác: Người gieo chữ dưới mái lớp tình thương </title>
     </programme>
-    <programme start="20261025003000 +0000" stop="20261025004500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025003000 +0000" stop="20261025004600 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn </title>
     </programme>
-    <programme start="20261025004500 +0000" stop="20261025011000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025004600 +0000" stop="20261025011000 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Minh bạch phát thải, thúc đẩy thị trường cac bon </title>
     </programme>
     <programme start="20261025011000 +0000" stop="20261025014000 +0000" channel="VTV1 HD.mytv">
@@ -19,25 +19,25 @@
     <programme start="20261025030000 +0000" stop="20261025033000 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Giữa miền non xanh Cao Bằng </title>
     </programme>
-    <programme start="20261025033000 +0000" stop="20261025034500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025033000 +0000" stop="20261025034600 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Sự sống từ hơi thở mới </title>
     </programme>
-    <programme start="20261025034500 +0000" stop="20261025043000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025034600 +0000" stop="20261025043200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Món quà của cha - Tập 7 </title>
     </programme>
-    <programme start="20261025043000 +0000" stop="20261025051500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025043200 +0000" stop="20261025051200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Món quà của cha - Tập 8 </title>
     </programme>
-    <programme start="20261025051500 +0000" stop="20261025060500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025051200 +0000" stop="20261025060300 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Một ngày ở miền quê xứ dừa </title>
     </programme>
-    <programme start="20261025060500 +0000" stop="20261025061000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025060300 +0000" stop="20261025060800 +0000" channel="VTV1 HD.mytv">
         <title> Vì cộng đồng: Sinh kế từ cây sâm quý </title>
     </programme>
-    <programme start="20261025061000 +0000" stop="20261025062500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025060800 +0000" stop="20261025062300 +0000" channel="VTV1 HD.mytv">
         <title> Hải quan Việt Nam </title>
     </programme>
-    <programme start="20261025062500 +0000" stop="20261025063000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261025062300 +0000" stop="20261025063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
     <programme start="20261025063000 +0000" stop="20261025080000 +0000" channel="VTV1 HD.mytv">

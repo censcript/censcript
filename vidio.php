@@ -15149,27 +15149,26 @@
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Warm Up &amp; Rider's Parade: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/znJMUT21UbJr1qKYD0znofylZ0Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393763/a919f0.png"/>
   </programme>
-  <programme channel="17140" start="20261024234500 +0000" stop="20261025011500 +0000">
+  <programme channel="17140" start="20261024234500 +0000" stop="20261025013500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261025013500 +0000" stop="20261025022000 +0000">
     <title lang="id">Moto3 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Race: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Y-PAY6D71TRcM2z6LqM2bRu_xf8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393764/267ce4.png"/>
   </programme>
-  <programme channel="17140" start="20261025011500 +0000" stop="20261025022500 +0000">
+  <programme channel="17140" start="20261025022000 +0000" stop="20261025032500 +0000">
     <title lang="id">Moto2 Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Race: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Rdk9dFzaoz3dPdPpAROJVDbVsQ4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393765/9d424b.png"/>
   </programme>
-  <programme channel="17140" start="20261025022500 +0000" stop="20261025044000 +0000">
+  <programme channel="17140" start="20261025032500 +0000" stop="20261025054000 +0000">
     <title lang="id">MotoGP Race: Red Bull Grand Prix of Australia - MotoGP 2026 Round 18</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Race: Grand Prix of Australia - MotoGP 2026 Round 18. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QuJW-ZubAyZ4kS3qifBaRKlurlo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5393766/55c3d8.png"/>
   </programme>
-  <programme channel="17140" start="20261025044000 +0000" stop="20261025052000 +0000">
-    <title lang="id">Rd 4 Bol d'Or, France : 2026 FIM EWC Highlights</title>
-    <desc lang="id">Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261025052000 +0000" stop="20261025063000 +0000">
+  <programme channel="17140" start="20261025054000 +0000" stop="20261025063000 +0000">
     <title lang="id">Round 18 Race : 2026 FIA TCR World Tour, Zhejiang</title>
     <desc lang="id">Top touring car drivers compete across global circuits, delivering close racing, intense battles, and high-speed action in a world-class championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
