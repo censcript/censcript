@@ -103,13 +103,13 @@
     <programme start="20261025093000 +0000" stop="20261025113000 +0000" channel="Channel 5.mewatch">
         <title>You Gotta Believe</title>
     </programme>
-    <programme start="20261025113000 +0000" stop="20261025133000 +0000" channel="Channel 5.mewatch">
+    <programme start="20261025113000 +0000" stop="20261025133800 +0000" channel="Channel 5.mewatch">
         <title>(Live) President&#039;s Challenge Night 2026</title>
     </programme>
-    <programme start="20261025133000 +0000" stop="20261025140000 +0000" channel="Channel 5.mewatch">
+    <programme start="20261025133800 +0000" stop="20261025140800 +0000" channel="Channel 5.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20261025140000 +0000" stop="20261025160500 +0000" channel="Channel 5.mewatch">
+    <programme start="20261025140800 +0000" stop="20261025160500 +0000" channel="Channel 5.mewatch">
         <title>Living</title>
     </programme>
     <programme start="20261024143000 +0000" stop="20261024170000 +0000" channel="Channel 8.mewatch">

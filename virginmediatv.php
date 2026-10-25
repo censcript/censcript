@@ -3658,10 +3658,7 @@
 <programme start="20261025123000 +0000" stop="20261025160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Premier League - Hull City v Brentford</title>
 </programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>PGA Tour Champions Learning Centre - Play-Off Preview</title>
-</programme>
-<programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Bermuda Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -3892,7 +3889,7 @@
 <programme start="20261025121500 +0000" stop="20261025170000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20261025170000 +0000" stop="20261025190000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
 <programme start="20261024230000 +0000" stop="20261025010000 +0000" channel="Racing_TV_HD.virginmediatv">
@@ -3916,7 +3913,7 @@
 <programme start="20261025121500 +0000" stop="20261025170000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20261025170000 +0000" stop="20261025190000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
 <programme start="20261024234500 +0000" stop="20261025010000 +0000" channel="MUTV.virginmediatv">
@@ -4414,10 +4411,7 @@
 <programme start="20261025123000 +0000" stop="20261025160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Premier League - Hull City v Brentford</title>
 </programme>
-<programme start="20261025160000 +0000" stop="20261025170000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>PGA Tour Champions Learning Centre - Play-Off Preview</title>
-</programme>
-<programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20261025160000 +0000" stop="20261025180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Bermuda Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="Sky_Sports_Action.virginmediatv">
