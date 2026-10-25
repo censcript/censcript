@@ -3061,8 +3061,8 @@
 <programme start="20261025172000 +0000" stop="20261025192000 +0000" channel="Sky_Hits_HD.virginmediatv">
     <title>Final Destination Bloodlines</title>
 </programme>
-<programme start="20261024231000 +0000" stop="20261025032000 +0000" channel="Sky_Greats_HD.virginmediatv">
-    <title>The Green Mile</title>
+<programme start="20261024210000 +0000" stop="20261025032000 +0000" channel="Sky_Greats_HD.virginmediatv">
+    <title>The Bodyguard</title>
 </programme>
 <programme start="20261025032000 +0000" stop="20261025060500 +0000" channel="Sky_Greats_HD.virginmediatv">
     <title>Sky Cinema Preview - Oct 2026</title>
@@ -3445,11 +3445,8 @@
 <programme start="20261025171500 +0000" stop="20261025200000 +0000" channel="Sky_Action.virginmediatv">
     <title>Transformers: Age of Extinction</title>
 </programme>
-<programme start="20261024215500 +0000" stop="20261025001500 +0000" channel="Film4_HD.virginmediatv">
+<programme start="20261024215500 +0000" stop="20261025041500 +0000" channel="Film4_HD.virginmediatv">
     <title>Last Night in Soho</title>
-</programme>
-<programme start="20261025001500 +0000" stop="20261025041500 +0000" channel="Film4_HD.virginmediatv">
-    <title>Teleshopping</title>
 </programme>
 <programme start="20261025041500 +0000" stop="20261025110000 +0000" channel="Film4_HD.virginmediatv">
     <title>Teleshopping</title>
@@ -4888,11 +4885,8 @@
 <programme start="20261025164500 +0000" stop="20261025183500 +0000" channel="UandGold_+1.virginmediatv">
     <title>Only Fools and Horses... - Fatal Extraction</title>
 </programme>
-<programme start="20261024225500 +0000" stop="20261025011500 +0000" channel="FILMFOUR_+1.virginmediatv">
+<programme start="20261024225500 +0000" stop="20261025051500 +0000" channel="FILMFOUR_+1.virginmediatv">
     <title>Last Night in Soho</title>
-</programme>
-<programme start="20261025011500 +0000" stop="20261025051500 +0000" channel="FILMFOUR_+1.virginmediatv">
-    <title>Teleshopping</title>
 </programme>
 <programme start="20261025051500 +0000" stop="20261025120000 +0000" channel="FILMFOUR_+1.virginmediatv">
     <title>Teleshopping</title>

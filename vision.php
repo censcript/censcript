@@ -478,11 +478,17 @@
 <programme start="20261026114500 +0000" stop="20261026130000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
+<programme start="20261025000000 +0000" stop="20261025010000 +0000" channel="Trans 7.vision">
+<title>Moto3 Australia GP</title>
+</programme>
 <programme start="20261025010000 +0000" stop="20261025014500 +0000" channel="Trans 7.vision">
 <title>Bikin Seneng</title>
 </programme>
 <programme start="20261025014500 +0000" stop="20261025024500 +0000" channel="Trans 7.vision">
 <title>Heits Abis</title>
+</programme>
+<programme start="20261025024500 +0000" stop="20261025040000 +0000" channel="Trans 7.vision">
+<title>MotoGP Australia GP</title>
 </programme>
 <programme start="20261025040000 +0000" stop="20261025050000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
@@ -1490,11 +1496,5 @@
 <title>Spot Check</title>
 </programme>
 <programme start="20261025093000 +0000" stop="20261025100000 +0000" channel="TVRI.vision">
-<title>Buah Hatiku Sayang</title>
-</programme>
-<programme start="20261025100000 +0000" stop="20261025100300 +0000" channel="TVRI.vision">
-<title>Info Terkini</title>
-</programme>
-<programme start="20261025100300 +0000" stop="20261025103000 +0000" channel="TVRI.vision">
 <title>Buah Hatiku Sayang</title>
 </programme>
