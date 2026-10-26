@@ -640,14 +640,8 @@
 <programme start="20261026093000 +0000" stop="20261026104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261026104500 +0000" stop="20261026131500 +0000" channel="ANTV.vision">
-<title>Tabir Biru</title>
-</programme>
 <programme start="20261026131500 +0000" stop="20261026150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261026150000 +0000" stop="20261026170000 +0000" channel="ANTV.vision">
-<title>Salah Masuk</title>
 </programme>
 <programme start="20261026170000 +0000" stop="20261026183000 +0000" channel="ANTV.vision">
 <title>Teenage Mutant Ninja Turtles</title>
@@ -807,9 +801,6 @@
 </programme>
 <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="TVOne.vision">
-<title>Fakta</title>
 </programme>
 <programme start="20261026150000 +0000" stop="20261026153000 +0000" channel="TVOne.vision">
 <title>Kabar Arena Malam</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261026080300 +0000" stop="20261026090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261026090000 +0000" stop="20261026090300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261026090300 +0000" stop="20261026093000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

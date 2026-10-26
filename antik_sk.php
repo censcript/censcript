@@ -259,49 +259,25 @@
   <programme start="20261028225200 +0000" stop="20261028234000 +0000" channel="Dvojka.webtv.sk">
     <title lang="id">Správy</title>
   </programme>
-  <programme start="20261027230000 +0000" stop="20261027230200 +0000" channel=":24.webtv.sk">
-    <title lang="id">Hymna SR</title>
-  </programme>
-  <programme start="20261027230200 +0000" stop="20261027234500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20261027234500 +0000" stop="20261028004000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy</title>
-  </programme>
-  <programme start="20261028004000 +0000" stop="20261028010500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Ekonomika 24</title>
-  </programme>
-  <programme start="20261028010500 +0000" stop="20261028013000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet 24</title>
-  </programme>
-  <programme start="20261028013000 +0000" stop="20261028020000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20261028020000 +0000" stop="20261028022500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20261028022500 +0000" stop="20261028025000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy 24</title>
-  </programme>
-  <programme start="20261028025000 +0000" stop="20261028031000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly-body-sekundy</title>
-  </programme>
-  <programme start="20261028031000 +0000" stop="20261028031500 +0000" channel=":24.webtv.sk">
+  <programme start="20261027225500 +0000" stop="20261027230500 +0000" channel=":24.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20261028031500 +0000" stop="20261028034000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
+  <programme start="20261027230500 +0000" stop="20261028000000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Hymna SR</title>
   </programme>
-  <programme start="20261028034000 +0000" stop="20261028043000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
+  <programme start="20261028000000 +0000" stop="20261028030000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Záznam z rokovania NR SR</title>
   </programme>
-  <programme start="20261028043000 +0000" stop="20261028045500 +0000" channel=":24.webtv.sk">
+  <programme start="20261028040000 +0000" stop="20261028042500 +0000" channel=":24.webtv.sk">
+    <title lang="id">Správy 24</title>
+  </programme>
+  <programme start="20261028042500 +0000" stop="20261028045000 +0000" channel=":24.webtv.sk">
     <title lang="id">Interview 24</title>
   </programme>
-  <programme start="20261028045500 +0000" stop="20261028052000 +0000" channel=":24.webtv.sk">
+  <programme start="20261028045000 +0000" stop="20261028051500 +0000" channel=":24.webtv.sk">
     <title lang="id">Ekonomika 24</title>
   </programme>
-  <programme start="20261028052000 +0000" stop="20261028060000 +0000" channel=":24.webtv.sk">
+  <programme start="20261028051500 +0000" stop="20261028060000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet 24</title>
   </programme>
   <programme start="20261028060000 +0000" stop="20261028073000 +0000" channel=":24.webtv.sk">
@@ -377,7 +353,7 @@
     <title lang="id">Správy</title>
   </programme>
   <programme start="20261028185000 +0000" stop="20261028191000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly-body-sekundy</title>
+    <title lang="id">Góly - body - sekundy</title>
   </programme>
   <programme start="20261028191000 +0000" stop="20261028192000 +0000" channel=":24.webtv.sk">
     <title lang="id">Počasie</title>
@@ -391,16 +367,19 @@
   <programme start="20261028210000 +0000" stop="20261028212500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy 24</title>
   </programme>
-  <programme start="20261028212500 +0000" stop="20261028213500 +0000" channel=":24.webtv.sk">
+  <programme start="20261028212500 +0000" stop="20261028213000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Počasie</title>
+  </programme>
+  <programme start="20261028213000 +0000" stop="20261028214000 +0000" channel=":24.webtv.sk">
     <title lang="id">Hírek</title>
   </programme>
-  <programme start="20261028213500 +0000" stop="20261028220000 +0000" channel=":24.webtv.sk">
+  <programme start="20261028214000 +0000" stop="20261028221000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet 24</title>
   </programme>
-  <programme start="20261028220000 +0000" stop="20261028223000 +0000" channel=":24.webtv.sk">
+  <programme start="20261028221000 +0000" stop="20261028223500 +0000" channel=":24.webtv.sk">
     <title lang="id">Interview 24</title>
   </programme>
-  <programme start="20261028223000 +0000" stop="20261028230000 +0000" channel=":24.webtv.sk">
+  <programme start="20261028223500 +0000" stop="20261028230500 +0000" channel=":24.webtv.sk">
     <title lang="id">Správy 24</title>
   </programme>
   <programme start="20261027224300 +0000" stop="20261028004500 +0000" channel=":Šport.webtv.sk">
@@ -1144,10 +1123,10 @@
   <programme start="20261028210500 +0000" stop="20261028231000 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Výplata 2</title>
   </programme>
-  <programme start="20261027211000 +0000" stop="20261027234500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261027203000 +0000" stop="20261027232500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Futbal - Európska liga</title>
   </programme>
-  <programme start="20261027234500 +0000" stop="20261028020500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261027232500 +0000" stop="20261028020500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
   <programme start="20261028020500 +0000" stop="20261028035500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1156,56 +1135,59 @@
   <programme start="20261028035500 +0000" stop="20261028053000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Plážový volejbal</title>
   </programme>
-  <programme start="20261028053000 +0000" stop="20261028073000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261028053000 +0000" stop="20261028073500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
-  <programme start="20261028073000 +0000" stop="20261028095000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261028073500 +0000" stop="20261028100000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20261028095000 +0000" stop="20261028122000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261028100000 +0000" stop="20261028123500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - Niké Extraliga muži</title>
   </programme>
-  <programme start="20261028122000 +0000" stop="20261028143000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261028123500 +0000" stop="20261028145500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Basketbal - Tipos SBL</title>
   </programme>
-  <programme start="20261028143000 +0000" stop="20261028170000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Hokej - Tipsport liga</title>
+  <programme start="20261028145500 +0000" stop="20261028170000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Futsal - Liga majstrov</title>
   </programme>
   <programme start="20261028170000 +0000" stop="20261028172500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Štúdio Hokej</title>
   </programme>
-  <programme start="20261028172500 +0000" stop="20261028205500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261028172500 +0000" stop="20261028204000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261028205500 +0000" stop="20261028235000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
-  </programme>
-  <programme start="20261027225500 +0000" stop="20261028000000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261028204000 +0000" stop="20261028221000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej je na JOJke - Extra Shift</title>
   </programme>
-  <programme start="20261028000000 +0000" stop="20261028020000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261028221000 +0000" stop="20261029010500 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Volejbal CEV Liga Majstrov ženy</title>
+  </programme>
+  <programme start="20261027214500 +0000" stop="20261027232500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
+  </programme>
+  <programme start="20261027232500 +0000" stop="20261028014000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
+  </programme>
+  <programme start="20261028014000 +0000" stop="20261028041000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
+  </programme>
+  <programme start="20261028041000 +0000" stop="20261028055000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hádzaná - EHF Euro 2026</title>
   </programme>
-  <programme start="20261028020000 +0000" stop="20261028034000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hádzaná - EHF Euro 2026</title>
+  <programme start="20261028055000 +0000" stop="20261028083500 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Padel</title>
   </programme>
-  <programme start="20261028034000 +0000" stop="20261028051000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hádzaná - EHF Euro 2026</title>
+  <programme start="20261028083500 +0000" stop="20261028102000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Padel</title>
   </programme>
-  <programme start="20261028051000 +0000" stop="20261028065000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hádzaná - EHF Euro 2026</title>
-  </programme>
-  <programme start="20261028065000 +0000" stop="20261028084500 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Futbal</title>
-  </programme>
-  <programme start="20261028084500 +0000" stop="20261028105000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Futbal</title>
-  </programme>
-  <programme start="20261028105000 +0000" stop="20261028133500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261028102000 +0000" stop="20261028125000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261028133500 +0000" stop="20261028155000 +0000" channel="JOJ Šport 2.webtv.sk">
-    <title lang="id">Hokej - Tipos SHL</title>
+  <programme start="20261028125000 +0000" stop="20261028135000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Automobilové preteky</title>
+  </programme>
+  <programme start="20261028135000 +0000" stop="20261028155000 +0000" channel="JOJ Šport 2.webtv.sk">
+    <title lang="id">Basketbal - Tipos extraliga ženy</title>
   </programme>
   <programme start="20261028155000 +0000" stop="20261028175000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Basketbal - Euro Cup</title>

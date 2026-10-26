@@ -2356,11 +2356,8 @@
 <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
 </programme>
-<programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261026150000 +0000" stop="20261026153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -2785,17 +2782,23 @@
 <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="BBC_News.virginmediatv">
     <title>Focus on Africa</title>
 </programme>
-<programme start="20261025220000 +0000" stop="20261026005500 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261025224000 +0000" stop="20261026002000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Health</title>
 </programme>
-<programme start="20261026005500 +0000" stop="20261026024000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261026002000 +0000" stop="20261026005500 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Social Protection, Rural and Community Development</title>
+</programme>
+<programme start="20261026005500 +0000" stop="20261026020000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Oireachtas Replay</title>
 </programme>
-<programme start="20261026024000 +0000" stop="20261026053000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261026020000 +0000" stop="20261026024000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Defence and National Security</title>
+</programme>
+<programme start="20261026024000 +0000" stop="20261026042000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Oireachtas Replay</title>
 </programme>
-<programme start="20261026053000 +0000" stop="20261026063000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Oireachtas Replay</title>
+<programme start="20261026042000 +0000" stop="20261026063000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee - Education and Youth</title>
 </programme>
 <programme start="20261026110000 +0000" stop="20261026121000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Joint Committee on Key Issues affecting the Traveller Community</title>
@@ -4003,8 +4006,14 @@
 <programme start="20261026030000 +0000" stop="20261026060000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW Ladies Championship LPGA Golf - Day 4</title>
 </programme>
-<programme start="20261026110000 +0000" stop="20261026140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Bermuda Championship, PGA Tour Golf - Day 4</title>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Bermuda Championship, PGA Tour Golf - Day 4</title>
+</programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Scotland&#039;s Greatest Golf Holes</title>
+</programme>
+<programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>PGA Tour Champions Learning Centre - Episode 57</title>
 </programme>
 <programme start="20261026140000 +0000" stop="20261026160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>BMW Ladies Championship LPGA Golf - Day 4</title>
@@ -4189,40 +4198,22 @@
 <programme start="20261026123000 +0000" stop="20261026210000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Raceday</title>
 </programme>
-<programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261025234500 +0000" stop="20261026060000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261026030000 +0000" stop="20261026050000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20261026050000 +0000" stop="20261026070000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261026114500 +0000" stop="20261026121500 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261026123000 +0000" stop="20261026203000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261026121500 +0000" stop="20261026203000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20261026020000 +0000" stop="20261026030000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261025234500 +0000" stop="20261026060000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261026030000 +0000" stop="20261026050000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
-</programme>
-<programme start="20261026050000 +0000" stop="20261026070000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Racing Replay</title>
-</programme>
-<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261026114500 +0000" stop="20261026121500 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261026123000 +0000" stop="20261026203000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261026121500 +0000" stop="20261026203000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
 <programme start="20261026000000 +0000" stop="20261026020000 +0000" channel="MUTV.virginmediatv">
@@ -4807,8 +4798,14 @@
 <programme start="20261026030000 +0000" stop="20261026060000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW Ladies Championship LPGA Golf - Day 4</title>
 </programme>
-<programme start="20261026110000 +0000" stop="20261026140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Bermuda Championship, PGA Tour Golf - Day 4</title>
+<programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Bermuda Championship, PGA Tour Golf - Day 4</title>
+</programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Scotland&#039;s Greatest Golf Holes</title>
+</programme>
+<programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>PGA Tour Champions Learning Centre - Episode 57</title>
 </programme>
 <programme start="20261026140000 +0000" stop="20261026160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>BMW Ladies Championship LPGA Golf - Day 4</title>
@@ -7453,17 +7450,65 @@
 <programme start="20261026043000 +0000" stop="20261026045800 +0000" channel="TV5.virginmediatv">
     <title>Escapades en Suisse italienne - Episode 5</title>
 </programme>
-<programme start="20261026045800 +0000" stop="20261026090000 +0000" channel="TV5.virginmediatv">
+<programme start="20261026045800 +0000" stop="20261026052400 +0000" channel="TV5.virginmediatv">
     <title>6h info</title>
 </programme>
-<programme start="20261026090000 +0000" stop="20261026130000 +0000" channel="TV5.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20261026052400 +0000" stop="20261026052600 +0000" channel="TV5.virginmediatv">
+    <title>Meteo</title>
 </programme>
-<programme start="20261026130000 +0000" stop="20261026170000 +0000" channel="TV5.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20261026052600 +0000" stop="20261026053800 +0000" channel="TV5.virginmediatv">
+    <title>Oum le dauphin blanc - Episode 22</title>
 </programme>
-<programme start="20261026170000 +0000" stop="20261026210000 +0000" channel="TV5.virginmediatv">
-    <title>To Be Announced</title>
+<programme start="20261026053800 +0000" stop="20261026060200 +0000" channel="TV5.virginmediatv">
+    <title>Les Millimus - Tempête magique</title>
+</programme>
+<programme start="20261026114500 +0000" stop="20261026123000 +0000" channel="TV5.virginmediatv">
+    <title>Tout le monde veut prendre sa place</title>
+</programme>
+<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="TV5.virginmediatv">
+    <title>Le Journal de la RTBF</title>
+</programme>
+<programme start="20261026130000 +0000" stop="20261026135200 +0000" channel="TV5.virginmediatv">
+    <title>Jeux d&#039;influence: les combattantes - Episode 1</title>
+</programme>
+<programme start="20261026135200 +0000" stop="20261026144600 +0000" channel="TV5.virginmediatv">
+    <title>Jeux d&#039;influence : les combattantes - Episode 2</title>
+</programme>
+<programme start="20261026144600 +0000" stop="20261026150000 +0000" channel="TV5.virginmediatv">
+    <title>Château ! - Palais Jacques-Coeur - Brézé</title>
+</programme>
+<programme start="20261026150000 +0000" stop="20261026151300 +0000" channel="TV5.virginmediatv">
+    <title>OKI</title>
+</programme>
+<programme start="20261026151300 +0000" stop="20261026152400 +0000" channel="TV5.virginmediatv">
+    <title>Les Croquemoutard - Trollhunter 93</title>
+</programme>
+<programme start="20261026152400 +0000" stop="20261026153500 +0000" channel="TV5.virginmediatv">
+    <title>Idéfix et les irréductibles - Le chaton à plumes</title>
+</programme>
+<programme start="20261026153500 +0000" stop="20261026154600 +0000" channel="TV5.virginmediatv">
+    <title>Idéfix et les irréductibles - Lutèce vue du ciel</title>
+</programme>
+<programme start="20261026154600 +0000" stop="20261026160000 +0000" channel="TV5.virginmediatv">
+    <title>Partie de campagne - A day of discovery</title>
+</programme>
+<programme start="20261026160000 +0000" stop="20261026165400 +0000" channel="TV5.virginmediatv">
+    <title>Le Point</title>
+</programme>
+<programme start="20261026165400 +0000" stop="20261026170000 +0000" channel="TV5.virginmediatv">
+    <title>La rencontre, francophonie et ambassadeurs - Roumanie</title>
+</programme>
+<programme start="20261026170000 +0000" stop="20261026172700 +0000" channel="TV5.virginmediatv">
+    <title>64&#039; actu</title>
+</programme>
+<programme start="20261026172700 +0000" stop="20261026173000 +0000" channel="TV5.virginmediatv">
+    <title>Meteo</title>
+</programme>
+<programme start="20261026173000 +0000" stop="20261026175300 +0000" channel="TV5.virginmediatv">
+    <title>64&#039; débat</title>
+</programme>
+<programme start="20261026175300 +0000" stop="20261026180100 +0000" channel="TV5.virginmediatv">
+    <title>L&#039;invité</title>
 </programme>
 <programme start="20261025220000 +0000" stop="20261026020000 +0000" channel="PPV_HD.virginmediatv">
     <title>Next PPV Event is To Be Advised</title>
