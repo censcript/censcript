@@ -1207,11 +1207,11 @@
 <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel Highlights 2026</title>
 </programme>
-<programme start="20261026110000 +0000" stop="20261026123000 +0000" channel="beIN Sports 2.mncvision">
-    <title>Premier Padel 2026: Kuwait (L)</title>
-</programme>
-<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel Highlights 2026</title>
+</programme>
+<programme start="20261026113000 +0000" stop="20261026130000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel 2026: Kuwait (L)</title>
 </programme>
 <programme start="20261026130000 +0000" stop="20261026143000 +0000" channel="beIN Sports 2.mncvision">
     <title>Premier Padel 2026: Kuwait (L)</title>
@@ -1261,11 +1261,11 @@
 <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel Highlights 2026</title>
 </programme>
-<programme start="20261026110000 +0000" stop="20261026123000 +0000" channel="beIN Sports 2 HD.mncvision">
-    <title>Premier Padel 2026: Kuwait (L)</title>
-</programme>
-<programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel Highlights 2026</title>
+</programme>
+<programme start="20261026113000 +0000" stop="20261026130000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel 2026: Kuwait (L)</title>
 </programme>
 <programme start="20261026130000 +0000" stop="20261026143000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>Premier Padel 2026: Kuwait (L)</title>
@@ -4837,14 +4837,14 @@
 <programme start="20261026133500 +0000" stop="20261026150000 +0000" channel="iNews.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261026150000 +0000" stop="20261026151000 +0000" channel="iNews.mncvision">
+<programme start="20261026150000 +0000" stop="20261026151500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261026151000 +0000" stop="20261026160000 +0000" channel="iNews.mncvision">
+<programme start="20261026151500 +0000" stop="20261026160000 +0000" channel="iNews.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="iNews.mncvision">
-    <title>ACL Elite 2026-2027 (L)</title>
+    <title>ACL Elite 26/27: AHL Vs GFA (L)</title>
 </programme>
 <programme start="20261025181500 +0000" stop="20261025190000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room</title>
@@ -4918,14 +4918,14 @@
 <programme start="20261026133500 +0000" stop="20261026150000 +0000" channel="iNews HD.mncvision">
     <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261026150000 +0000" stop="20261026151000 +0000" channel="iNews HD.mncvision">
+<programme start="20261026150000 +0000" stop="20261026151500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261026151000 +0000" stop="20261026160000 +0000" channel="iNews HD.mncvision">
+<programme start="20261026151500 +0000" stop="20261026160000 +0000" channel="iNews HD.mncvision">
     <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="iNews HD.mncvision">
-    <title>ACL Elite 2026-2027 (L)</title>
+    <title>ACL Elite 26/27: AHL Vs GFA (L)</title>
 </programme>
 <programme start="20261026020000 +0000" stop="20261026023000 +0000" channel="JAKTV.mncvision">
     <title>Chess Player</title>
@@ -7714,92 +7714,92 @@
 <programme start="20261025183000 +0000" stop="20261025200000 +0000" channel="SCTV.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
 </programme>
-<programme start="20261025200000 +0000" stop="20261025215400 +0000" channel="SCTV.mncvision">
+<programme start="20261025200000 +0000" stop="20261025210100 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20261025215400 +0000" stop="20261025230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261025210100 +0000" stop="20261025212800 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20261025230000 +0000" stop="20261026001000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261025212800 +0000" stop="20261025215300 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20261026001000 +0000" stop="20261026010900 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261025215300 +0000" stop="20261025230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261026010900 +0000" stop="20261026025200 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261025230000 +0000" stop="20261026001600 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20261026025200 +0000" stop="20261026044700 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026001600 +0000" stop="20261026030200 +0000" channel="SCTV.mncvision">
+    <title>Cinta Suci</title>
 </programme>
-<programme start="20261026044700 +0000" stop="20261026052000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026030200 +0000" stop="20261026045900 +0000" channel="SCTV.mncvision">
+    <title>Dulu Kici-Kici, Sekarang...</title>
 </programme>
-<programme start="20261026052000 +0000" stop="20261026090000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026045900 +0000" stop="20261026053400 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026053400 +0000" stop="20261026095500 +0000" channel="SCTV.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261026100000 +0000" stop="20261026112500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026095500 +0000" stop="20261026112100 +0000" channel="SCTV.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261026112500 +0000" stop="20261026125900 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026112100 +0000" stop="20261026124800 +0000" channel="SCTV.mncvision">
+    <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261026125900 +0000" stop="20261026142500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026124800 +0000" stop="20261026143400 +0000" channel="SCTV.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261026142500 +0000" stop="20261026160600 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026143400 +0000" stop="20261026160100 +0000" channel="SCTV.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261026160600 +0000" stop="20261026163600 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261026160100 +0000" stop="20261026163100 +0000" channel="SCTV.mncvision">
+    <title>Vidio Original Series: Mercury</title>
 </programme>
 <programme start="20261025183000 +0000" stop="20261025200000 +0000" channel="SCTV HD.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
 </programme>
-<programme start="20261025200000 +0000" stop="20261025215400 +0000" channel="SCTV HD.mncvision">
+<programme start="20261025200000 +0000" stop="20261025210100 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20261025215400 +0000" stop="20261025230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261025210100 +0000" stop="20261025212800 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20261025230000 +0000" stop="20261026001000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261025212800 +0000" stop="20261025215300 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20261026001000 +0000" stop="20261026010900 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261025215300 +0000" stop="20261025230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261026010900 +0000" stop="20261026025200 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261025230000 +0000" stop="20261026001600 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20261026025200 +0000" stop="20261026044700 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026001600 +0000" stop="20261026030200 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Suci</title>
 </programme>
-<programme start="20261026044700 +0000" stop="20261026052000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026030200 +0000" stop="20261026045900 +0000" channel="SCTV HD.mncvision">
+    <title>Dulu Kici-Kici, Sekarang...</title>
 </programme>
-<programme start="20261026052000 +0000" stop="20261026090000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026045900 +0000" stop="20261026053400 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261026090000 +0000" stop="20261026100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026053400 +0000" stop="20261026095500 +0000" channel="SCTV HD.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261026100000 +0000" stop="20261026112500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026095500 +0000" stop="20261026112100 +0000" channel="SCTV HD.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261026112500 +0000" stop="20261026125900 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026112100 +0000" stop="20261026124800 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261026125900 +0000" stop="20261026142500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026124800 +0000" stop="20261026143400 +0000" channel="SCTV HD.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261026142500 +0000" stop="20261026160600 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026143400 +0000" stop="20261026160100 +0000" channel="SCTV HD.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261026160600 +0000" stop="20261026163600 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261026160100 +0000" stop="20261026163100 +0000" channel="SCTV HD.mncvision">
+    <title>Vidio Original Series: Mercury</title>
 </programme>
 <programme start="20261025170000 +0000" stop="20261025173000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>

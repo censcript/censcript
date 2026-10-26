@@ -4,28 +4,28 @@
     <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="VTV1 HD.mytv">
         <title> Chống gian lận-Bảo vệ người dùng: Phía sau lớp vỏ đồ điện tử cũ </title>
     </programme>
-    <programme start="20261026013000 +0000" stop="20261026014500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026013000 +0000" stop="20261026014000 +0000" channel="VTV1 HD.mytv">
         <title> Sự kiện và bình luận </title>
     </programme>
-    <programme start="20261026014500 +0000" stop="20261026021000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026014000 +0000" stop="20261026021100 +0000" channel="VTV1 HD.mytv">
         <title> Giai điệu kết nối </title>
     </programme>
-    <programme start="20261026021000 +0000" stop="20261026030000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026021100 +0000" stop="20261026030200 +0000" channel="VTV1 HD.mytv">
         <title> Hiểu sâu - Sống chất: Cạm bẫy thuốc lá thế hệ mới </title>
     </programme>
-    <programme start="20261026030000 +0000" stop="20261026033000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026030200 +0000" stop="20261026033000 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Dấu ấn Đào Xá </title>
     </programme>
-    <programme start="20261026033000 +0000" stop="20261026034500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026033000 +0000" stop="20261026034400 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Mổ cột sống không đau </title>
     </programme>
-    <programme start="20261026034500 +0000" stop="20261026043000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026034400 +0000" stop="20261026043200 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Món quà của cha - Tập 9 </title>
     </programme>
-    <programme start="20261026043000 +0000" stop="20261026051500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026043200 +0000" stop="20261026051100 +0000" channel="VTV1 HD.mytv">
         <title> Phim truyện: Món quà của cha - Tập 10 </title>
     </programme>
-    <programme start="20261026051500 +0000" stop="20261026060500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261026051100 +0000" stop="20261026060500 +0000" channel="VTV1 HD.mytv">
         <title> S - Việt Nam: Về miền xanh ở sân chim Vàm Hồ </title>
     </programme>
     <programme start="20261026060500 +0000" stop="20261026061000 +0000" channel="VTV1 HD.mytv">
@@ -98,7 +98,7 @@
         <title> Ánh sáng tri thức: Nhìn trước mùa hạn </title>
     </programme>
     <programme start="20261026155500 +0000" stop="20261026161000 +0000" channel="VTV1 HD.mytv">
-        <title> Doanh nghiệp - Doanh nhân: Nội địa hoá và Vị thế doanh nghiệp Việt </title>
+        <title> Doanh nghiệp - Doanh nhân: Nội địa hoá và vị thế doanh nghiệp Việt </title>
     </programme>
     <programme start="20261026161000 +0000" stop="20261026163000 +0000" channel="VTV1 HD.mytv">
         <title> Phim tài liệu: Vietnam Wild Live - Hành trình chạm thiên nhiên </title>

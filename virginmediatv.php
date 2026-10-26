@@ -1540,22 +1540,22 @@
 <programme start="20261026175000 +0000" stop="20261026185500 +0000" channel="ITV3.virginmediatv">
     <title>Heartbeat - Give Peace a Chance</title>
 </programme>
-<programme start="20261025230500 +0000" stop="20261026000500 +0000" channel="ITV4.virginmediatv">
+<programme start="20261025232000 +0000" stop="20261026002000 +0000" channel="ITV4.virginmediatv">
     <title>Rocky Balboa - Episode 2</title>
 </programme>
-<programme start="20261026000500 +0000" stop="20261026010500 +0000" channel="ITV4.virginmediatv">
+<programme start="20261026002000 +0000" stop="20261026012000 +0000" channel="ITV4.virginmediatv">
     <title>Auf Wiedersehen, Pet - Private Lives</title>
 </programme>
-<programme start="20261026010500 +0000" stop="20261026020000 +0000" channel="ITV4.virginmediatv">
-    <title>Minder - Fatal Impression</title>
-</programme>
-<programme start="20261026020000 +0000" stop="20261026022500 +0000" channel="ITV4.virginmediatv">
+<programme start="20261026012000 +0000" stop="20261026015000 +0000" channel="ITV4.virginmediatv">
     <title>Two and a Half Men - Give Me Your Thumb</title>
 </programme>
-<programme start="20261026022500 +0000" stop="20261026025000 +0000" channel="ITV4.virginmediatv">
+<programme start="20261026015000 +0000" stop="20261026021500 +0000" channel="ITV4.virginmediatv">
     <title>Two and a Half Men - Untainted by Filth</title>
 </programme>
-<programme start="20261026025000 +0000" stop="20261026030000 +0000" channel="ITV4.virginmediatv">
+<programme start="20261026021500 +0000" stop="20261026024500 +0000" channel="ITV4.virginmediatv">
+    <title>Auto Mundial - Episode 44</title>
+</programme>
+<programme start="20261026024500 +0000" stop="20261026030000 +0000" channel="ITV4.virginmediatv">
     <title>Unwind with ITV - Episode 251</title>
 </programme>
 <programme start="20261026030000 +0000" stop="20261026060000 +0000" channel="ITV4.virginmediatv">

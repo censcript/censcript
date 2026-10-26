@@ -15054,9 +15054,14 @@
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>
   </channel>
-  <programme start="20261025140000 +0000" stop="20261025195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20261025140000 +0000" stop="20261025190000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 333: Volkanovski vs. Evloev - Main</title>
     <desc lang="en">UFC's annual October showcase in Abu Dhabi has historically been packed with action, and this year is no different as a pair of highly anticipated championship fights close out UFC 333 at Etihad Arena. In the main event, two-time featherweight champion Alexander “The Great” Volkanovski defends his title for the second time this year, taking on the challenge of undefeated Russian contender Movsar Evloev. And in the co-main event, bantamweight rivals battle for a third time as two-time titleholder Petr “No Mercy” Yan squares off with former champion Merab “The Machine” Dvalishvili to determine which of them will lord over the 135-pound weight class heading into next year.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261025190000 +0000" stop="20261025195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Main Event - UFC 284: Makhachev vs Volkanovski</title>
+    <desc lang="en">At UFC 284, featherweight king Alexander Volkanovski sought a new challenge and a second belt by challenging lightweight champion Islam Makhachev. See both athletes train and prepare ahead of their title bout on UFC Main Event.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261025195500 +0000" stop="20261025200000 +0000" channel="unifisports1.unifitv">
@@ -15139,7 +15144,7 @@
     <desc lang="en">Remember Adrian? One of LaLiga's famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261026140000 +0000" stop="20261026195500 +0000" channel="unifisports1.unifitv">
+  <programme start="20261026140000 +0000" stop="20261026190000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC 333: Volkanovski vs. Evloev - Main</title>
     <desc lang="en">UFC's annual October showcase in Abu Dhabi has historically been packed with action, and this year is no different as a pair of highly anticipated championship fights close out UFC 333 at Etihad Arena. In the main event, two-time featherweight champion Alexander “The Great” Volkanovski defends his title for the second time this year, taking on the challenge of undefeated Russian contender Movsar Evloev. And in the co-main event, bantamweight rivals battle for a third time as two-time titleholder Petr “No Mercy” Yan squares off with former champion Merab “The Machine” Dvalishvili to determine which of them will lord over the 135-pound weight class heading into next year.</desc>
     <category lang="en">Sports</category>
