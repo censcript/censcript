@@ -15521,14 +15521,14 @@
     <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261026110000 +0000" stop="20261026123000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel - Kuwait Major Day 2 Match 2 (L)</title>
-    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
+  <programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Highlights -Buenos Aires P1</title>
+    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Buenos Aires P1</title>
-    <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
+  <programme start="20261026113000 +0000" stop="20261026130000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Kuwait Major Day 2 Match 2 (L)</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261026130000 +0000" stop="20261026143000 +0000" channel="beinsports2.unifitv">

@@ -4511,7 +4511,7 @@
     <title>UEFA Champions League Football - FC Bayern München v Arsenal</title>
 </programme>
 <programme start="20261026030000 +0000" stop="20261026050000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>UEFA Champions League Football - Liverpool v Villarreal CF</title>
+    <title>Liga Profesional de Fútbol - River Plate v Racing Club</title>
 </programme>
 <programme start="20261026050000 +0000" stop="20261026060000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>European Rugby Champions Cup - Highlights: Round 1</title>

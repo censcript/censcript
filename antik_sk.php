@@ -15800,7 +15800,7 @@
     <title lang="id">Dejme dětem rodinu</title>
   </programme>
   <programme start="20261028164000 +0000" stop="20261028164200 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Regionální zprávy - rychlý přehled</title>
+    <title lang="id">Bez komentáře</title>
   </programme>
   <programme start="20261028164200 +0000" stop="20261028165000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Magazín TV medicína</title>
@@ -15860,7 +15860,7 @@
     <title lang="id">Vítkovický miniexpres</title>
   </programme>
   <programme start="20261028190000 +0000" stop="20261028191000 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Regionální zprávy POLAR - hlavní vydání</title>
+    <title lang="id">Regionální zprávy POLAR</title>
   </programme>
   <programme start="20261028191000 +0000" stop="20261028191400 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Počasí</title>
@@ -15878,7 +15878,7 @@
     <title lang="id">Dejme dětem rodinu</title>
   </programme>
   <programme start="20261028194000 +0000" stop="20261028194200 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Regionální zprávy - rychlý přehled</title>
+    <title lang="id">Bez komentáře</title>
   </programme>
   <programme start="20261028194200 +0000" stop="20261028195000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Magazín TV medicína</title>
@@ -15956,7 +15956,7 @@
     <title lang="id">Dejme dětem rodinu</title>
   </programme>
   <programme start="20261028224000 +0000" stop="20261028224200 +0000" channel="Polar TV.webtv.sk">
-    <title lang="id">Regionální zprávy - rychlý přehled</title>
+    <title lang="id">Bez komentáře</title>
   </programme>
   <programme start="20261028224200 +0000" stop="20261028225000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Magazín TV medicína</title>
@@ -16309,16 +16309,16 @@
   <programme start="20261028012500 +0000" stop="20261028014000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20261028014000 +0000" stop="20261028020000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261028014000 +0000" stop="20261028020300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20261028020000 +0000" stop="20261028023700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261028020300 +0000" stop="20261028024000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia II (18)</title>
   </programme>
-  <programme start="20261028023700 +0000" stop="20261028031200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261028024000 +0000" stop="20261028031300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polskie Parki Narodowe (12)</title>
   </programme>
-  <programme start="20261028031200 +0000" stop="20261028035800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261028031300 +0000" stop="20261028035800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (541)</title>
   </programme>
   <programme start="20261028035800 +0000" stop="20261028044500 +0000" channel="TVP Info.webtv.sk">
@@ -16653,6 +16653,225 @@
   </programme>
   <programme start="20261028224500 +0000" stop="20261028234000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Sekielski wieczorowa pora (42)</title>
+  </programme>
+  <programme start="20261027230000 +0000" stop="20261027233000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Деокупація. Шлях Литви</title>
+  </programme>
+  <programme start="20261027233000 +0000" stop="20261028020000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028020000 +0000" stop="20261028030000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Зміст чутливого характеру</title>
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028040000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028040000 +0000" stop="20261028041000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028041000 +0000" stop="20261028044000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20261028044000 +0000" stop="20261028050000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028053000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028053000 +0000" stop="20261028060000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028061000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028061000 +0000" stop="20261028080000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028081000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028081000 +0000" stop="20261028084000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">ФронтNews</title>
+  </programme>
+  <programme start="20261028084000 +0000" stop="20261028090000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028090000 +0000" stop="20261028093000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Спеціальний репортаж</title>
+  </programme>
+  <programme start="20261028093000 +0000" stop="20261028100000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Ваші гроші</title>
+  </programme>
+  <programme start="20261028100000 +0000" stop="20261028101000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028101000 +0000" stop="20261028110000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028110000 +0000" stop="20261028114500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Символ і воля</title>
+  </programme>
+  <programme start="20261028114500 +0000" stop="20261028120000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Популярна історія</title>
+  </programme>
+  <programme start="20261028120000 +0000" stop="20261028121000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028121000 +0000" stop="20261028131500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028131500 +0000" stop="20261028134000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028134000 +0000" stop="20261028140000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Винуватці війни</title>
+  </programme>
+  <programme start="20261028140000 +0000" stop="20261028143000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028143000 +0000" stop="20261028160000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028161500 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Антизомбі</title>
+  </programme>
+  <programme start="20261028161500 +0000" stop="20261028163000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Громадянська оборона</title>
+  </programme>
+  <programme start="20261028163000 +0000" stop="20261028164000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028164000 +0000" stop="20261028174000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028174000 +0000" stop="20261028180000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Pеальна історія</title>
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028190000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028190000 +0000" stop="20261028193000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028193000 +0000" stop="20261028203000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">FreeДОМ</title>
+  </programme>
+  <programme start="20261028203000 +0000" stop="20261028204000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Наш час</title>
+  </programme>
+  <programme start="20261028204000 +0000" stop="20261028214000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Тіньова торгівля</title>
+  </programme>
+  <programme start="20261028214000 +0000" stop="20261028220000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261028220100 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Гімн України</title>
+  </programme>
+  <programme start="20261028220100 +0000" stop="20261028225000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Інформаційні сюжети</title>
+  </programme>
+  <programme start="20261028225000 +0000" stop="20261028233000 +0000" channel="UA TV.webtv.sk">
+    <title lang="id">Деокупація. Шлях Латвії</title>
+  </programme>
+  <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Відбудова</title>
+  </programme>
+  <programme start="20261028000000 +0000" stop="20261028003000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Подкаст FM Галичина</title>
+  </programme>
+  <programme start="20261028003000 +0000" stop="20261028010000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Київ сьогодні</title>
+  </programme>
+  <programme start="20261028010000 +0000" stop="20261028020000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">СвітОгляд з Євгеном Магдою</title>
+  </programme>
+  <programme start="20261028020000 +0000" stop="20261028023000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Київ сьогодні</title>
+  </programme>
+  <programme start="20261028023000 +0000" stop="20261028030000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Подкаст FM Галичина</title>
+  </programme>
+  <programme start="20261028030000 +0000" stop="20261028033000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Київ сьогодні</title>
+  </programme>
+  <programme start="20261028033000 +0000" stop="20261028040000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Історії людей поруч</title>
+  </programme>
+  <programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028051000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261028051000 +0000" stop="20261028060000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261028060000 +0000" stop="20261028061000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261028061000 +0000" stop="20261028070000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261028070000 +0000" stop="20261028070100 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Хвилина мовчання</title>
+  </programme>
+  <programme start="20261028070100 +0000" stop="20261028071000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261028071000 +0000" stop="20261028080000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Pанок</title>
+  </programme>
+  <programme start="20261028080000 +0000" stop="20261028081000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261028081000 +0000" stop="20261028101000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261028101000 +0000" stop="20261028103000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Варшава - Київ. Про головне</title>
+  </programme>
+  <programme start="20261028103000 +0000" stop="20261028111000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус</title>
+  </programme>
+  <programme start="20261028111000 +0000" stop="20261028131000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Гарячі питання</title>
+  </programme>
+  <programme start="20261028131000 +0000" stop="20261028141000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Європейці з Лесею Вакулюк</title>
+  </programme>
+  <programme start="20261028141000 +0000" stop="20261028150000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Точка зору</title>
+  </programme>
+  <programme start="20261028150000 +0000" stop="20261028160000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Євроінтеграція з Юрієм Фізером</title>
+  </programme>
+  <programme start="20261028160000 +0000" stop="20261028161000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261028161000 +0000" stop="20261028170000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028171000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Новини</title>
+  </programme>
+  <programme start="20261028171000 +0000" stop="20261028180000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261028180000 +0000" stop="20261028190500 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">BBC News Україна</title>
+  </programme>
+  <programme start="20261028190500 +0000" stop="20261028200000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Тепер головне</title>
+  </programme>
+  <programme start="20261028200000 +0000" stop="20261028210000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Свобода Live</title>
+  </programme>
+  <programme start="20261028210000 +0000" stop="20261028220000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Український фокус: Вечір</title>
+  </programme>
+  <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="Espreso TV.webtv.sk">
+    <title lang="id">Гарячі питання</title>
   </programme>
   <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="Current Time.webtv.sk">
     <title lang="id">Спецпроект.Док</title>

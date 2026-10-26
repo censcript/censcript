@@ -4682,43 +4682,46 @@
     <title>The Man With The Iron Fists 2</title>
 </programme>
 <programme start="20261025213000 +0000" stop="20261025230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20261025230000 +0000" stop="20261026000000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20261026000000 +0000" stop="20261026013000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Bukti Pengkhianatan Buatan AI</title>
 </programme>
 <programme start="20261026013000 +0000" stop="20261026030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Di Balik Rahasia Keberadaan...</title>
 </programme>
 <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20261026050000 +0000" stop="20261026063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kesetiaan Dibalas Kesengsaraan</title>
 </programme>
 <programme start="20261026063000 +0000" stop="20261026080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Pernikahan Dihantui Dosa...</title>
 </programme>
 <programme start="20261026080000 +0000" stop="20261026100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Demi Gelang 100 Juta...</title>
 </programme>
-<programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261026100000 +0000" stop="20261026113000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261026113000 +0000" stop="20261026140000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2026/27</title>
+</programme>
+<programme start="20261026140000 +0000" stop="20261026160000 +0000" channel="Indosiar.mncvision">
+    <title>BRI Super League 2026/27</title>
 </programme>
 <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Blind War</title>
 </programme>
 <programme start="20261025180000 +0000" stop="20261025200000 +0000" channel="Indosiar HD.mncvision">
     <title>Once Upon A Time In China...</title>
@@ -4727,43 +4730,46 @@
     <title>The Man With The Iron Fists 2</title>
 </programme>
 <programme start="20261025213000 +0000" stop="20261025230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Pagi</title>
 </programme>
 <programme start="20261025230000 +0000" stop="20261026000000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20261026000000 +0000" stop="20261026013000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Bukti Pengkhianatan Buatan AI</title>
 </programme>
 <programme start="20261026013000 +0000" stop="20261026030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Di Balik Rahasia Keberadaan...</title>
 </programme>
 <programme start="20261026030000 +0000" stop="20261026040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20261026040000 +0000" stop="20261026043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20261026043000 +0000" stop="20261026050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20261026050000 +0000" stop="20261026063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kesetiaan Dibalas Kesengsaraan</title>
 </programme>
 <programme start="20261026063000 +0000" stop="20261026080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Pernikahan Dihantui Dosa...</title>
 </programme>
 <programme start="20261026080000 +0000" stop="20261026100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Demi Gelang 100 Juta...</title>
 </programme>
-<programme start="20261026100000 +0000" stop="20261026120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261026100000 +0000" stop="20261026113000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20261026120000 +0000" stop="20261026160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261026113000 +0000" stop="20261026140000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2026/27</title>
+</programme>
+<programme start="20261026140000 +0000" stop="20261026160000 +0000" channel="Indosiar HD.mncvision">
+    <title>BRI Super League 2026/27</title>
 </programme>
 <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Blind War</title>
 </programme>
 <programme start="20261025181500 +0000" stop="20261025190000 +0000" channel="iNews.mncvision">
     <title>iNews Room</title>
