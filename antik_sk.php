@@ -3037,10 +3037,10 @@
   <programme start="20261029025000 +0000" stop="20261029031000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Pod pokličkou</title>
   </programme>
-  <programme start="20261029031000 +0000" stop="20261029033600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261029031000 +0000" stop="20261029033500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kura Kura</title>
   </programme>
-  <programme start="20261029033600 +0000" stop="20261029040200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261029033500 +0000" stop="20261029040200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kluci v akci</title>
   </programme>
   <programme start="20261029040200 +0000" stop="20261029045900 +0000" channel="ČT1.webtv.sk">
@@ -3121,10 +3121,10 @@
   <programme start="20261029203500 +0000" stop="20261029213100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Máte slovo s M. Jílkovou</title>
   </programme>
-  <programme start="20261029213100 +0000" stop="20261029215400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261029213100 +0000" stop="20261029215500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na stopě</title>
   </programme>
-  <programme start="20261029215400 +0000" stop="20261029215600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261029215500 +0000" stop="20261029215600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
   <programme start="20261029215600 +0000" stop="20261029222500 +0000" channel="ČT1.webtv.sk">

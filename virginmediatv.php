@@ -254,7 +254,7 @@
     <title>Paddington Station 24/7 - Episode 18</title>
 </programme>
 <programme start="20261027154000 +0000" stop="20261027161500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Emmerdale - Sun 25 Oct, 8.00 pm</title>
+    <title>Emmerdale - Episode 207</title>
 </programme>
 <programme start="20261027161500 +0000" stop="20261027165000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>Coronation Street - Episode 207</title>
@@ -266,7 +266,7 @@
     <title>Marple - Sleeping Murder</title>
 </programme>
 <programme start="20261027000000 +0000" stop="20261027021900 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
-    <title>This Morning - Fri 23 Oct, 10.00 am</title>
+    <title>This Morning - Episode 210</title>
 </programme>
 <programme start="20261027021900 +0000" stop="20261027070000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
@@ -422,7 +422,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261027121500 +0000" stop="20261027130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - What do businesses want from the Budget?</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 17</title>
@@ -2357,7 +2357,7 @@
     <title>BBC News Now</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -3041,7 +3041,7 @@
     <title>Teleshopping</title>
 </programme>
 <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>The Incredible Dr. Pol - License to Chill</title>
+    <title>Shark Men - Big Mama</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
     <title>Heartland Docs, DVM - What&#039;s All the Pus About?</title>
@@ -3056,7 +3056,7 @@
     <title>Shark Attack 360 - Making Waves</title>
 </programme>
 <programme start="20261027170000 +0000" stop="20261027180000 +0000" channel="Nat_Geo_Wild_HD.virginmediatv">
-    <title>Megafactories - Coca-Cola</title>
+    <title>Inside Sydney Airport - Dawn to Curfew</title>
 </programme>
 <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="MysteryX.virginmediatv">
     <title>Unsealed: Alien Files - The Shoot Down Order</title>
@@ -3758,7 +3758,7 @@
     <title>The Premier League Show - Episode 141</title>
 </programme>
 <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League Review - Round 8</title>
+    <title>Premier League Review - Episode 2</title>
 </programme>
 <programme start="20261027010000 +0000" stop="20261027030000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Prem Classics - 2007/08: Fulham v Manchester United</title>
@@ -3784,11 +3784,8 @@
 <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Premier League 100 - Matt Le Tissier</title>
 </programme>
-<programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League - Liverpool v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League - Crystal Palace v Newcastle United</title>
+<programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League 100 Club - Harry Kane</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Premier League - Hull City v Brentford</title>
@@ -3802,11 +3799,8 @@
 <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Premier League - Liverpool v Brighton &amp; Hove Albion</title>
 </programme>
-<programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League - Crystal Palace v Newcastle United</title>
-</programme>
-<programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
-    <title>Premier League - Coventry City v Fulham</title>
+<programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
+    <title>Premier League 100 Club - Harry Kane</title>
 </programme>
 <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>Premier League - Arsenal v Everton</title>
@@ -4153,17 +4147,17 @@
 <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="Racing_UK.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261027123000 +0000" stop="20261027164500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261027123000 +0000" stop="20261027163000 +0000" channel="Racing_UK.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20261027164500 +0000" stop="20261027170000 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261027170000 +0000" stop="20261027171500 +0000" channel="Racing_UK.virginmediatv">
+<programme start="20261027170000 +0000" stop="20261027173000 +0000" channel="Racing_UK.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261027171500 +0000" stop="20261027180000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
+<programme start="20261027173000 +0000" stop="20261027180000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
 </programme>
 <programme start="20261026231500 +0000" stop="20261027010000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
@@ -4183,17 +4177,17 @@
 <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Mark Your Card</title>
 </programme>
-<programme start="20261027123000 +0000" stop="20261027164500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261027123000 +0000" stop="20261027163000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Live: Racing</title>
 </programme>
-<programme start="20261027164500 +0000" stop="20261027170000 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261027170000 +0000" stop="20261027171500 +0000" channel="Racing_TV_HD.virginmediatv">
+<programme start="20261027170000 +0000" stop="20261027173000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Racing Replay</title>
 </programme>
-<programme start="20261027171500 +0000" stop="20261027180000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
+<programme start="20261027173000 +0000" stop="20261027180000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
 </programme>
 <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Manchester United v Bournemouth</title>
@@ -4253,7 +4247,7 @@
     <title>F1 Academy - United States: Race 2</title>
 </programme>
 <programme start="20261027011000 +0000" stop="20261027015500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>F1 Academy - United States: Race 3</title>
+    <title>F1 Academy - F1 Academy Us: Race 3 25.10.26</title>
 </programme>
 <programme start="20261027015500 +0000" stop="20261027020000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Fernando Alonso IV: Azerbaijan</title>
@@ -4295,7 +4289,7 @@
     <title>F1 Academy - United States: Race 2</title>
 </programme>
 <programme start="20261027171000 +0000" stop="20261027180500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
-    <title>F1 Academy - United States: Race 3</title>
+    <title>F1 Academy - F1 Academy Us: Race 3 25.10.26</title>
 </programme>
 <programme start="20261026233000 +0000" stop="20261027033000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Major League Baseball - World Series, Game 3: Milwaukee Brewers at Tampa Bay Rays</title>
@@ -4538,7 +4532,7 @@
     <title>The Premier League Show - Episode 141</title>
 </programme>
 <programme start="20261027000000 +0000" stop="20261027010000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League Review - Round 8</title>
+    <title>Premier League Review - Episode 2</title>
 </programme>
 <programme start="20261027010000 +0000" stop="20261027030000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Prem Classics - 2007/08: Fulham v Manchester United</title>
@@ -4564,11 +4558,8 @@
 <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Premier League 100 - Matt Le Tissier</title>
 </programme>
-<programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League - Liverpool v Brighton &amp; Hove Albion</title>
-</programme>
-<programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League - Crystal Palace v Newcastle United</title>
+<programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League 100 Club - Harry Kane</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Premier League - Hull City v Brentford</title>
@@ -4582,11 +4573,8 @@
 <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Premier League - Liverpool v Brighton &amp; Hove Albion</title>
 </programme>
-<programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League - Crystal Palace v Newcastle United</title>
-</programme>
-<programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
-    <title>Premier League - Coventry City v Fulham</title>
+<programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
+    <title>Premier League 100 Club - Harry Kane</title>
 </programme>
 <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>Premier League - Arsenal v Everton</title>
@@ -4910,7 +4898,7 @@
     <title>F1 Academy - United States: Race 2</title>
 </programme>
 <programme start="20261027011000 +0000" stop="20261027015500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>F1 Academy - United States: Race 3</title>
+    <title>F1 Academy - F1 Academy Us: Race 3 25.10.26</title>
 </programme>
 <programme start="20261027015500 +0000" stop="20261027020000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Fernando Alonso IV: Azerbaijan</title>
@@ -4952,7 +4940,7 @@
     <title>F1 Academy - United States: Race 2</title>
 </programme>
 <programme start="20261027171000 +0000" stop="20261027180500 +0000" channel="Sky_Sports_F1.virginmediatv">
-    <title>F1 Academy - United States: Race 3</title>
+    <title>F1 Academy - F1 Academy Us: Race 3 25.10.26</title>
 </programme>
 <programme start="20261026233000 +0000" stop="20261027011300 +0000" channel="TG4+1_HD.virginmediatv">
     <title>An Cailín Ciúin</title>
@@ -5408,7 +5396,7 @@
     <title>Sir Mouse - Magic Flute</title>
 </programme>
 <programme start="20261027162000 +0000" stop="20261027162500 +0000" channel="RTE_KIDSjr.virginmediatv">
-    <title>MaeBee - Mae Bee</title>
+    <title>MaeBee - Episode 7</title>
 </programme>
 <programme start="20261027162500 +0000" stop="20261027164000 +0000" channel="RTE_KIDSjr.virginmediatv">
     <title>Vida the Vet - Vida&#039;s Tiny Trip</title>
@@ -6941,7 +6929,7 @@
     <title>Teleshopping</title>
 </programme>
 <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>The Incredible Dr. Pol - License to Chill</title>
+    <title>Shark Men - Big Mama</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="Nat_Geo_Wild.virginmediatv">
     <title>Heartland Docs, DVM - What&#039;s All the Pus About?</title>
@@ -6956,7 +6944,7 @@
     <title>Shark Attack 360 - Making Waves</title>
 </programme>
 <programme start="20261027170000 +0000" stop="20261027180000 +0000" channel="Nat_Geo_Wild.virginmediatv">
-    <title>Megafactories - Coca-Cola</title>
+    <title>Inside Sydney Airport - Dawn to Curfew</title>
 </programme>
 <programme start="20261027000000 +0000" stop="20261027005500 +0000" channel="Sky_History.virginmediatv">
     <title>Strange Evidence - Church of the Death Eaters</title>
@@ -7382,7 +7370,7 @@
     <title>Dilo Ki Ram Leela - Episode 53</title>
 </programme>
 <programme start="20261027013000 +0000" stop="20261027020000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Humari Radha - Episode 72</title>
+    <title>Hamari Radha - Episode 72</title>
 </programme>
 <programme start="20261027020000 +0000" stop="20261027023000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Episode 134</title>
@@ -7427,7 +7415,7 @@
     <title>Tu Hi Re Dil Mein - Episode 133</title>
 </programme>
 <programme start="20261027173000 +0000" stop="20261027180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Humari Radha - Episode 72</title>
+    <title>Hamari Radha - Episode 72</title>
 </programme>
 <programme start="20261026235400 +0000" stop="20261027002000 +0000" channel="TV5.virginmediatv">
     <title>Le journal Afrique</title>
