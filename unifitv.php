@@ -683,8 +683,6 @@
     <title lang="en">Anda Musykil 2026 (Ulangan)</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20261026230000 +0000" stop="20261026234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -710,8 +708,6 @@
     <title lang="en">Epic Safari Encounters &amp; Destination (Ulangan)</title>
     <desc lang="en">Program majalah dengan melawat beberapa destinasi safari yang menarik di Zimbabwe dan Afrika dengan disertai oleh pegawai safari sebagai jurupandu.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20261027050000 +0000" stop="20261027053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -722,15 +718,11 @@
     <title lang="en">Kasih Malisa (Ulangan)</title>
     <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261027063000 +0000" stop="20261027070000 +0000" channel="tv1.unifitv">
     <title lang="en">Sembang Jarak Jauh (Ulangan)</title>
     <desc lang="en">Gelagat Tipah dan Kak Ziah, dua jiran di kawasan rumah flat yang gemar bersembang kuat dari pintu rumah masing-masing.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261027070000 +0000" stop="20261027070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -741,8 +733,6 @@
     <title lang="en">Kuppa Kopi 2026</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261027080000 +0000" stop="20261027080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -753,15 +743,11 @@
     <title lang="en">Satu Sentuhan (Ulangan)</title>
     <desc lang="en">Sebuah program majalah yang memaparkan usaha mengitar semula barangan terpakai bagi menghasilkan perkakasan dengan kegunaan yang baru.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.25.</episode-num>
-    <episode-num system="onscreen">S1E26</episode-num>
   </programme>
   <programme start="20261027083000 +0000" stop="20261027090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.76.</episode-num>
-    <episode-num system="onscreen">S1E77</episode-num>
   </programme>
   <programme start="20261027090000 +0000" stop="20261027100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -772,15 +758,11 @@
     <title lang="en">Bismillah 2026 (Ulangan)</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261027104500 +0000" stop="20261027114400 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20261027114400 +0000" stop="20261027120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -801,8 +783,6 @@
     <title lang="en">Bicara Naratif 2026</title>
     <desc lang="en">Program bicarawara bertema Naratif bersama tetamu undangan dan membincangkan isu semasa sebagai topik pilihan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.51.</episode-num>
-    <episode-num system="onscreen">S1E52</episode-num>
   </programme>
   <programme start="20261027140000 +0000" stop="20261027141500 +0000" channel="tv1.unifitv">
     <title lang="en">DUNIA 10</title>
@@ -818,15 +798,11 @@
     <title lang="en">Isteri Untuk Diiktiraf (Ulangan)</title>
     <desc lang="en">Safiyya dan Tengku Wildan yang disatukan atas pilihan keluarga walaupun pernah mempunyai konflik sebelum berkahwin. Perkahwinan mereka dipenuhi pertelingkahan, cemburu dan salah faham sehingga Tengku Wildan mula menyedari perasaannya terhadap Safiyya. Namun, tuduhan serius terhadap Wildan serta campur tangan keluarga terus menguji hubungan dan peluang mereka untuk mengecapi kebahagiaan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="tv1.unifitv">
     <title lang="en">Innovation Nation (Ulangan)</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -15310,7 +15286,7 @@
     <category lang="en">Golf</category>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027030000 +0000" channel="spotv2.unifitv">
-    <title lang="en">(L) MLB 2026 Postseason: World Series Game 3 - Tampa Bay Rays/Cleveland Guardians vs Milwaukee Brewers</title>
+    <title lang="en">(L) MLB 2026 Postseason: World Series Game 3 - Tampa Bay Rays vs Milwaukee Brewers</title>
     <desc lang="en">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <category lang="en">Baseball</category>
   </programme>
@@ -15340,7 +15316,7 @@
     <category lang="en">Table Tennis</category>
   </programme>
   <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="spotv2.unifitv">
-    <title lang="en">2026 MotoGP Rd 18 Red Bull Grand Prix of Australia - Highlights</title>
+    <title lang="en">2026 MotoGP Rd 17 Pertamina Grand Prix of Indonesia - Highlights</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>

@@ -164,7 +164,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20261027083000 +0000" stop="20261027090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Al Jazeera Explains</title>
+    <title>Al Jazeera Explains: US Midterm</title>
 </programme>
 <programme start="20261027090000 +0000" stop="20261027093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -182,7 +182,7 @@
     <title>Inside Story</title>
 </programme>
 <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Let&#039;s Focus</title>
+    <title>Let&#039;s Focus: Forever Wars</title>
 </programme>
 <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="Al Jazeera English.mncvision">
     <title>NewsHour</title>
@@ -2924,10 +2924,10 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20261027031500 +0000" stop="20261027033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Arts Unveiled: Jewish Museum</title>
 </programme>
 <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+    <title>Close Up: ICE Comes Knocking</title>
 </programme>
 <programme start="20261027040000 +0000" stop="20261027040300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2951,10 +2951,10 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20261027061500 +0000" stop="20261027063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
+    <title>Arts Unveiled: Jewish Museum</title>
 </programme>
 <programme start="20261027063000 +0000" stop="20261027070000 +0000" channel="DW English.mncvision">
-    <title>Arts Unveiled: The Art World</title>
+    <title>Arts Unveiled: Old &amp; New Nazis</title>
 </programme>
 <programme start="20261027070000 +0000" stop="20261027070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2969,7 +2969,7 @@
     <title>DW News</title>
 </programme>
 <programme start="20261027080200 +0000" stop="20261027083000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
+    <title>Global Us: Big Crime</title>
 </programme>
 <programme start="20261027083000 +0000" stop="20261027090000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: The Environment</title>
@@ -4807,20 +4807,20 @@
 <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="iNews.mncvision">
     <title>iNews On Point</title>
 </programme>
-<programme start="20261027063000 +0000" stop="20261027074500 +0000" channel="iNews.mncvision">
+<programme start="20261027063000 +0000" stop="20261027073000 +0000" channel="iNews.mncvision">
     <title>Breaking News (L)</title>
 </programme>
-<programme start="20261027074500 +0000" stop="20261027091500 +0000" channel="iNews.mncvision">
+<programme start="20261027073000 +0000" stop="20261027081500 +0000" channel="iNews.mncvision">
+    <title>Breaking News (L)</title>
+</programme>
+<programme start="20261027081500 +0000" stop="20261027091500 +0000" channel="iNews.mncvision">
     <title>Realita (L)</title>
 </programme>
 <programme start="20261027091500 +0000" stop="20261027120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="iNews.mncvision">
+<programme start="20261027120000 +0000" stop="20261027150000 +0000" channel="iNews.mncvision">
     <title>Rakyat Bersuara (L)</title>
-</programme>
-<programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="iNews.mncvision">
-    <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261027150000 +0000" stop="20261027151500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
@@ -4879,20 +4879,20 @@
 <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="iNews HD.mncvision">
     <title>iNews On Point</title>
 </programme>
-<programme start="20261027063000 +0000" stop="20261027074500 +0000" channel="iNews HD.mncvision">
+<programme start="20261027063000 +0000" stop="20261027073000 +0000" channel="iNews HD.mncvision">
     <title>Breaking News (L)</title>
 </programme>
-<programme start="20261027074500 +0000" stop="20261027091500 +0000" channel="iNews HD.mncvision">
+<programme start="20261027073000 +0000" stop="20261027081500 +0000" channel="iNews HD.mncvision">
+    <title>Breaking News (L)</title>
+</programme>
+<programme start="20261027081500 +0000" stop="20261027091500 +0000" channel="iNews HD.mncvision">
     <title>Realita (L)</title>
 </programme>
 <programme start="20261027091500 +0000" stop="20261027120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="iNews HD.mncvision">
+<programme start="20261027120000 +0000" stop="20261027150000 +0000" channel="iNews HD.mncvision">
     <title>Rakyat Bersuara (L)</title>
-</programme>
-<programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Prime (L)</title>
 </programme>
 <programme start="20261027150000 +0000" stop="20261027151500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
@@ -8537,7 +8537,7 @@
     <title>SailGP S6: Rolex Switzerland</title>
 </programme>
 <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="SPOTV 2.mncvision">
-    <title>2026 MotoGP Of Australia</title>
+    <title>Pertamina GP Of Indonesia HL</title>
 </programme>
 <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="SPOTV 2 HD.mncvision">
     <title>2026 MotoGP Asian Campaign</title>
@@ -8573,7 +8573,7 @@
     <title>SailGP S6: Rolex Switzerland</title>
 </programme>
 <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="SPOTV 2 HD.mncvision">
-    <title>2026 MotoGP Of Australia</title>
+    <title>Pertamina GP Of Indonesia HL</title>
 </programme>
 <programme start="20261026180000 +0000" stop="20261026190000 +0000" channel="SPOTV HD.mncvision">
     <title>CelcomDigi STL 2026 GP Perak</title>

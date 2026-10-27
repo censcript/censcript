@@ -4213,8 +4213,8 @@
 <programme start="20261027033000 +0000" stop="20261027040000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - Premier League: Manchester United v Bournemouth</title>
 </programme>
-<programme start="20261027040000 +0000" stop="20261027060000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League - Manchester United v Bournemouth</title>
+<programme start="20261027040000 +0000" stop="20261027060500 +0000" channel="MUTV.virginmediatv">
+    <title>Under 18 Premier League - Manchester United U18 v Liverpool U18</title>
 </programme>
 <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="MUTV.virginmediatv">
     <title>Paul Parker: Tackling the Game</title>

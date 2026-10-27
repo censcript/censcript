@@ -640,9 +640,6 @@
 <programme start="20261027010000 +0000" stop="20261027023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261027023000 +0000" stop="20261027060000 +0000" channel="ANTV.vision">
-<title>Taarzan: The Wonder</title>
-</programme>
 <programme start="20261027060000 +0000" stop="20261027073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261027080000 +0000" stop="20261027080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261027080300 +0000" stop="20261027090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

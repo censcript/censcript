@@ -2629,8 +2629,11 @@
   <programme start="20261029191500 +0000" stop="20261029194500 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">Premium country</title>
   </programme>
-  <programme start="20261029194500 +0000" stop="20261029214500 +0000" channel="PREMIUM.webtv.sk">
+  <programme start="20261029194500 +0000" stop="20261029200000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">Teleshopping</title>
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029214500 +0000" channel="PREMIUM.webtv.sk">
+    <title lang="id">Live klub</title>
   </programme>
   <programme start="20261029214500 +0000" stop="20261029230000 +0000" channel="PREMIUM.webtv.sk">
     <title lang="id">Teleshopping</title>
@@ -2671,14 +2674,20 @@
   <programme start="20261029192000 +0000" stop="20261029230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Večerní pořad</title>
   </programme>
-  <programme start="20261028230000 +0000" stop="20261029070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261028230000 +0000" stop="20261029060000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
+  </programme>
+  <programme start="20261029060000 +0000" stop="20261029070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20261029070000 +0000" stop="20261029113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
-  <programme start="20261029113000 +0000" stop="20261029133000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261029113000 +0000" stop="20261029123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
+  </programme>
+  <programme start="20261029123000 +0000" stop="20261029133000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20261029133000 +0000" stop="20261029183000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
@@ -3550,10 +3559,10 @@
   <programme start="20261029130500 +0000" stop="20261029132100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Energomise I (4)</title>
   </programme>
-  <programme start="20261029132100 +0000" stop="20261029133600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261029132100 +0000" stop="20261029133500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">AKCE KUTU - Kdo umí, ten umí</title>
   </programme>
-  <programme start="20261029133600 +0000" stop="20261029134200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261029133500 +0000" stop="20261029134200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hvězdičky</title>
   </programme>
   <programme start="20261029134200 +0000" stop="20261029140500 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3562,10 +3571,10 @@
   <programme start="20261029140500 +0000" stop="20261029141300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Byl jednou jeden předmět</title>
   </programme>
-  <programme start="20261029141300 +0000" stop="20261029143700 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261029141300 +0000" stop="20261029143600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Změna hry (12/25)</title>
   </programme>
-  <programme start="20261029143700 +0000" stop="20261029144400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261029143600 +0000" stop="20261029144400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Planeta YÓ</title>
   </programme>
   <programme start="20261029144400 +0000" stop="20261029145000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3577,10 +3586,10 @@
   <programme start="20261029150000 +0000" stop="20261029151000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">To já ve tvém věku…</title>
   </programme>
-  <programme start="20261029151000 +0000" stop="20261029152800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261029151000 +0000" stop="20261029152700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">FUTURO</title>
   </programme>
-  <programme start="20261029152800 +0000" stop="20261029154100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261029152700 +0000" stop="20261029154100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Elin supertajný deník II</title>
   </programme>
   <programme start="20261029154100 +0000" stop="20261029154600 +0000" channel="ČT :D - ČT art.webtv.sk">
