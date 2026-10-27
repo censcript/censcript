@@ -1,12 +1,3 @@
-<programme start="20261027200000 +0000" stop="20261027210000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261027210000 +0000" stop="20261027220000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261027220000 +0000" stop="20261027230000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261027230000 +0000" stop="20261028000000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -61,9 +52,6 @@
 <programme start="20261028160000 +0000" stop="20261028170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261027200000 +0000" stop="20261027220000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -92,9 +80,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261028160000 +0000" stop="20261028180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261027200000 +0000" stop="20261027220000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -126,9 +111,6 @@
 </programme>
 <programme start="20261028160000 +0000" stop="20261028180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261027200000 +0000" stop="20261027220000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Manchester United vs Bournemouth</title>
 </programme>
 <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Arsenal vs Everton</title>
