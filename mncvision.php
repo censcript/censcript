@@ -2905,14 +2905,8 @@
 <programme start="20261028033000 +0000" stop="20261028040000 +0000" channel="DW English.mncvision">
     <title>Eco Africa: The Environment</title>
 </programme>
-<programme start="20261028040000 +0000" stop="20261028040200 +0000" channel="DW English.mncvision">
+<programme start="20261028040000 +0000" stop="20261028050000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
-</programme>
-<programme start="20261028040200 +0000" stop="20261028041500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus</title>
-</programme>
-<programme start="20261028041500 +0000" stop="20261028050000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
 </programme>
 <programme start="20261028050000 +0000" stop="20261028050200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2932,17 +2926,11 @@
 <programme start="20261028061500 +0000" stop="20261028063000 +0000" channel="DW English.mncvision">
     <title>Travel</title>
 </programme>
-<programme start="20261028063000 +0000" stop="20261028070000 +0000" channel="DW English.mncvision">
-    <title>In Good Shape: Sex &amp; Dating</title>
-</programme>
-<programme start="20261028070000 +0000" stop="20261028070200 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
-</programme>
-<programme start="20261028070200 +0000" stop="20261028083000 +0000" channel="DW English.mncvision">
+<programme start="20261028063000 +0000" stop="20261028080000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
-<programme start="20261028083000 +0000" stop="20261028090000 +0000" channel="DW English.mncvision">
-    <title>Eco India: India&#039;s Solar Boom</title>
+<programme start="20261028080000 +0000" stop="20261028090000 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
 </programme>
 <programme start="20261028090000 +0000" stop="20261028090300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2971,8 +2959,20 @@
 <programme start="20261028113000 +0000" stop="20261028120000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: A Crossroads</title>
 </programme>
-<programme start="20261028120000 +0000" stop="20261028123000 +0000" channel="DW English.mncvision">
+<programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
+</programme>
+<programme start="20261028130000 +0000" stop="20261028130200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261028130200 +0000" stop="20261028131500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20261028131500 +0000" stop="20261028133000 +0000" channel="DW English.mncvision">
+    <title>Planet A: Running Out Of Water</title>
+</programme>
+<programme start="20261028133000 +0000" stop="20261028140000 +0000" channel="DW English.mncvision">
+    <title>Eco Africa: The Environment</title>
 </programme>
 <programme start="20261027173000 +0000" stop="20261027180000 +0000" channel="Entertainment.mncvision">
     <title>Untold Story: Experiment</title>
