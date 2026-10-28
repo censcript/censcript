@@ -160,10 +160,10 @@
 <programme start="20261028010500 +0000" stop="20261028015000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Vanderpump Rules - Your Pride&#039;s Showing</title>
 </programme>
-<programme start="20261028015000 +0000" stop="20261028022900 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20261028015000 +0000" stop="20261028023200 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Vanderpump Rules - It&#039;s Not About the Pastor</title>
 </programme>
-<programme start="20261028022900 +0000" stop="20261028071000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20261028023200 +0000" stop="20261028071000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261028120000 +0000" stop="20261028130000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -2345,7 +2345,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261028003000 +0000" stop="20261028010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast</title>
+    <title>Newscast - 28/10/2026</title>
 </programme>
 <programme start="20261028010000 +0000" stop="20261028013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2386,17 +2386,14 @@
 <programme start="20261028053000 +0000" stop="20261028060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20261028111500 +0000" stop="20261028123000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Politics Live - 28/10/2026</title>
+<programme start="20261028120000 +0000" stop="20261028123000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>Politics Live - Budget 2026</title>
 </programme>
 <programme start="20261028123000 +0000" stop="20261028153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Politics Live - Budget 2026</title>
 </programme>
-<programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
-</programme>
-<programme start="20261028160000 +0000" stop="20261028163000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
+<programme start="20261028153000 +0000" stop="20261028163000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261028163000 +0000" stop="20261028164500 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
@@ -4225,7 +4222,7 @@
 <programme start="20261028050000 +0000" stop="20261028053000 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - U18s Highlights: Liverpool (H) 26/27</title>
 </programme>
-<programme start="20261028053000 +0000" stop="20261028070000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261028053000 +0000" stop="20261028060000 +0000" channel="MUTV.virginmediatv">
     <title>FA Women&#039;s League Cup - Highlights: Manchester United v Sheffield United</title>
 </programme>
 <programme start="20261028105500 +0000" stop="20261028130000 +0000" channel="MUTV.virginmediatv">

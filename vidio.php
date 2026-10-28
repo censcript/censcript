@@ -4398,11 +4398,115 @@ Schedule Repeat?</desc>
     <title lang="id">COD - Candaof the Day</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261028163000 +0000" stop="20261028173000 +0000">
+  <programme channel="6441" start="20261028170000 +0000" stop="20261028213000 +0000">
+    <title lang="id">TVRI Program</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261028213000 +0000" stop="20261028230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261028230000 +0000" stop="20261029000000 +0000">
+    <title lang="id">LIVE Klik Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029000000 +0000" stop="20261029010000 +0000">
+    <title lang="id">LIVE Jendela Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029010000 +0000" stop="20261029020000 +0000">
+    <title lang="id">Bersama Perempuan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029020000 +0000" stop="20261029023000 +0000">
+    <title lang="id">Sepiring Rasa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029023000 +0000" stop="20261029030000 +0000">
+    <title lang="id">Mimbar Agama Budha</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029030000 +0000" stop="20261029033000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029033000 +0000" stop="20261029040000 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029040000 +0000" stop="20261029050000 +0000">
+    <title lang="id">Seblak Show</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029050000 +0000" stop="20261029060000 +0000">
+    <title lang="id">LIVE Berita Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029060000 +0000" stop="20261029070000 +0000">
+    <title lang="id">Marbot Ali</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029070000 +0000" stop="20261029080000 +0000">
+    <title lang="id">Losmen Reborn</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029080000 +0000" stop="20261029090000 +0000">
+    <title lang="id">Bincang Olahraga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029090000 +0000" stop="20261029093000 +0000">
+    <title lang="id">Masakan Khas Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029093000 +0000" stop="20261029100000 +0000">
+    <title lang="id">Jelajah Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029100000 +0000" stop="20261029103000 +0000">
+    <title lang="id">Inspirasi Tani</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029103000 +0000" stop="20261029110000 +0000">
+    <title lang="id">LIVE Jejak Pembangunan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029110000 +0000" stop="20261029120000 +0000">
+    <title lang="id">LIVE Klik Indonesia Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029120000 +0000" stop="20261029130000 +0000">
+    <title lang="id">LIVE Indonesia Bicara</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029130000 +0000" stop="20261029133000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029133000 +0000" stop="20261029140000 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029140000 +0000" stop="20261029143000 +0000">
+    <title lang="id">LIVE Dunia Dalam Berita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029143000 +0000" stop="20261029150000 +0000">
+    <title lang="id">Indonesia Raya Jelajah Sains</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029150000 +0000" stop="20261029153000 +0000">
+    <title lang="id">LIVE Monitor Olahraga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029153000 +0000" stop="20261029163000 +0000">
+    <title lang="id">Warung Pengkolan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029163000 +0000" stop="20261029173000 +0000">
     <title lang="id">LIVE Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261028163000 +0000" stop="20261028173000 +0000">
+  <programme channel="6441" start="20261029163000 +0000" stop="20261029173000 +0000">
     <title lang="id">LIVE Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -11633,6 +11737,10 @@ Schedule Repeat?</desc>
     <desc lang="id">Venezia menantang pemuncak klasemen Serie A, akankah ada kejutan?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cukhFwkMVhBJhI_gBEEJoDyT54U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403428/1c65e6.jpg"/>
   </programme>
+  <programme channel="6786" start="20261028193000 +0000" stop="20261028194500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
   <programme channel="6786" start="20261028194500 +0000" stop="20261028220000 +0000">
     <title lang="id">Genoa vs Juventus - Serie A</title>
     <desc lang="id">Si Nyonya Tua melawat ke Genoa bermodalkan rekor apik atas tuan rumah.</desc>
@@ -11656,17 +11764,17 @@ Schedule Repeat?</desc>
   <programme channel="6786" start="20261029013000 +0000" stop="20261029033000 +0000">
     <title lang="id">Alycia Parks vs Kimberly Birrell - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Alycia Parks vs Kimberly Birrell - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/aeku5sxohRfQUhfMOW67fSIYt3g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404333/62d86b.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GHB6TKtjIGSW3uuKnH9PkRGUaBE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404333/6d8bc7.png"/>
   </programme>
   <programme channel="6786" start="20261029033000 +0000" stop="20261029053000 +0000">
     <title lang="id">Leylah Fernandez vs Elise Mertens - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Leylah Fernandez vs Elise Mertens - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IrZhlADg9qlogFyCaKy7FN70NCU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404334/dea34e.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/r3C8TlUXNZGERo0DnCkqTqIBU-U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404334/05572e.png"/>
   </programme>
   <programme channel="6786" start="20261029053000 +0000" stop="20261029073000 +0000">
     <title lang="id">Naomi Osaka vs Mia Pohankova - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Naomi Osaka vs Mia Pohankova - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nTHSKM3C9DvxMj_09Gf9u47GU2Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404335/f0e196.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/REstWdA4rP-sTo-yEBf2SMlrkHM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404335/11300d.png"/>
   </programme>
   <programme channel="6786" start="20261029073000 +0000" stop="20261029080000 +0000">
     <title lang="id">Show 6 : NFL Extra 2026/27</title>
@@ -11676,7 +11784,7 @@ Schedule Repeat?</desc>
   <programme channel="6786" start="20261029080000 +0000" stop="20261029100000 +0000">
     <title lang="id">Elena Rybakina vs Yulia Putintseva - Round of 16 | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Day 4 - WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xTbI9Qsv8lYQwZPCuEEXaaFlVhY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403432/0e0a66.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7JKG7EaxytbIfUkDsKrVZhBzN1s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403432/eff04c.png"/>
   </programme>
   <programme channel="6786" start="20261029100000 +0000" stop="20261029103000 +0000">
     <title lang="id">Eps 13 : Sport Woman</title>
@@ -12469,25 +12577,10 @@ Schedule Repeat?</desc>
     <desc lang="id">PARMA vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261029033000 +0000" stop="20261029053000 +0000">
-    <title lang="id">Manchester City vs Brighton &amp; Hove Albion : Carabao Cup 2026/27</title>
-    <desc lang="id">MANCHESTER CITY vs BRIGHTON &amp; HOVE ALBION</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261029053000 +0000" stop="20261029073000 +0000">
-    <title lang="id">Fc Utrecht vs Willem Ii : Dutch League Eredivisie 2026/27</title>
-    <desc lang="id">FC UTRECHT vs WILLEM II</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261029073000 +0000" stop="20261029093000 +0000">
-    <title lang="id">Table Tennis : 20Th Asian Games Aichi-Nagoya 2026</title>
-    <desc lang="id">TABLE TENNIS</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261029093000 +0000" stop="20261029113000 +0000">
-    <title lang="id">Parma vs Udinese : Serie A 2026/27</title>
-    <desc lang="id">PARMA vs UDINESE</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20261029050000 +0000" stop="20261029110000 +0000">
+    <title lang="id">Round of 16 - WTA 250: Guangzhou Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round of 16 - WTA 250: Guangzhou Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/oXtYAy34bcVOyTtZI4dp36b5tbg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404352/6065e6.png"/>
   </programme>
   <programme channel="6686" start="20261029113000 +0000" stop="20261029133000 +0000">
     <title lang="id">Manchester City vs Brighton &amp; Hove Albion : Carabao Cup 2026/27</title>
@@ -12539,25 +12632,10 @@ Schedule Repeat?</desc>
     <desc lang="id">BASKETBALL MEN'S - GROUP PHASE SAUDI ARABIA vs INDONESIA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261030033000 +0000" stop="20261030053000 +0000">
-    <title lang="id">Swimming - Day 3 : 20Th Asian Games Aichi-Nagoya 2026</title>
-    <desc lang="id">SWIMMING - DAY 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261030053000 +0000" stop="20261030073000 +0000">
-    <title lang="id">Gil Vicente vs Porto : Portuguese League 2026/27</title>
-    <desc lang="id">GIL VICENTE vs PORTO</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261030073000 +0000" stop="20261030103000 +0000">
-    <title lang="id">Badminton Women'S Team Semi Final China vs Indonesia : 20Th Asian Games Aichi-Nagoya 2026</title>
-    <desc lang="id">BADMINTON WOMEN'S TEAM SEMI FINAL CHINA vs INDONESIA</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261030103000 +0000" stop="20261030130000 +0000">
-    <title lang="id">Padel : 20Th Asian Games Aichi-Nagoya 2026</title>
-    <desc lang="id">PADEL</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20261030050000 +0000" stop="20261030130000 +0000">
+    <title lang="id">Quarter Finals - WTA 250: Guangzhou Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Quarter Finals - WTA 250: Guangzhou Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/UlQ5DBFQVgVOkmTnxIg5BuVBytk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404351/53c60c.png"/>
   </programme>
   <programme channel="6686" start="20261030130000 +0000" stop="20261030150000 +0000">
     <title lang="id">Gil Vicente vs Porto : Portuguese League 2026/27</title>

@@ -649,17 +649,8 @@
 <programme start="20261028093000 +0000" stop="20261028104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261028104500 +0000" stop="20261028131500 +0000" channel="ANTV.vision">
-<title>Kemilau Cinta Di Langit Jingga</title>
-</programme>
 <programme start="20261028131500 +0000" stop="20261028144500 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261028144500 +0000" stop="20261028163000 +0000" channel="ANTV.vision">
-<title>Depan Bisa Belakang Bisa</title>
-</programme>
-<programme start="20261028163000 +0000" stop="20261028170000 +0000" channel="ANTV.vision">
-<title>Mr. Bean</title>
 </programme>
 <programme start="20261028170000 +0000" stop="20261028193000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261028060000 +0000" stop="20261028070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261028070000 +0000" stop="20261028070300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261028070300 +0000" stop="20261028080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261028080000 +0000" stop="20261028080300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
