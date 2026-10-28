@@ -3821,7 +3821,7 @@
     <title>EFL Cup - Round 4: Fleetwood Town v Arsenal</title>
 </programme>
 <programme start="20261028003000 +0000" stop="20261028023000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>EFL Cup - 2020 Final: Aston Villa V Manchester City</title>
+    <title>EFL Cup Retro - 2020 Final: Aston Villa v Manchester City</title>
 </programme>
 <programme start="20261028023000 +0000" stop="20261028033000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>1983: When Aberdeen Ruled Europe</title>
@@ -4223,7 +4223,7 @@
     <title>Top 20 Goals - Top 20 European Away Goals</title>
 </programme>
 <programme start="20261028050000 +0000" stop="20261028053000 +0000" channel="MUTV.virginmediatv">
-    <title>Under 18 Premier League - Highlights: Manchester United U18 v Liverpool U18</title>
+    <title>Under 18 Premier League - U18s Highlights: Liverpool (H) 26/27</title>
 </programme>
 <programme start="20261028053000 +0000" stop="20261028070000 +0000" channel="MUTV.virginmediatv">
     <title>FA Women&#039;s League Cup - Highlights: Manchester United v Sheffield United</title>
@@ -4238,7 +4238,7 @@
     <title>Premier League Cup - Highlights: Chelsea U18 v Manchester United U18</title>
 </programme>
 <programme start="20261028140000 +0000" stop="20261028143000 +0000" channel="MUTV.virginmediatv">
-    <title>Under 18 Premier League - Highlights: Manchester United U18 v Liverpool U18</title>
+    <title>Under 18 Premier League - U18s Highlights: Liverpool (H) 26/27</title>
 </programme>
 <programme start="20261028143000 +0000" stop="20261028150000 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - Highlights: Burnley U18 v Manchester United U18</title>
@@ -4256,7 +4256,7 @@
     <title>Player Spotlight - MUW: Swedes in Manchester</title>
 </programme>
 <programme start="20261028160000 +0000" stop="20261028163000 +0000" channel="MUTV.virginmediatv">
-    <title>Under 18 Premier League - Highlights: Manchester United U18 v Liverpool U18</title>
+    <title>Under 18 Premier League - U18s Highlights: Liverpool (H) 26/27</title>
 </programme>
 <programme start="20261028163000 +0000" stop="20261028170000 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - Highlights: Burnley U18 v Manchester United U18</title>
@@ -4610,7 +4610,7 @@
     <title>EFL Cup - Round 4: Fleetwood Town v Arsenal</title>
 </programme>
 <programme start="20261028003000 +0000" stop="20261028023000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>EFL Cup - 2020 Final: Aston Villa V Manchester City</title>
+    <title>EFL Cup Retro - 2020 Final: Aston Villa v Manchester City</title>
 </programme>
 <programme start="20261028023000 +0000" stop="20261028033000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>1983: When Aberdeen Ruled Europe</title>

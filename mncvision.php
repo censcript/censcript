@@ -7514,7 +7514,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="RCTI.mncvision">
-    <title>Anugerah Cinta</title>
+    <title>Cinta Berakhir Bahagia</title>
 </programme>
 <programme start="20261027171500 +0000" stop="20261027180000 +0000" channel="RCTI HD.mncvision">
     <title>Bogem Cinta Jamilah</title>
@@ -7556,7 +7556,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="RCTI HD.mncvision">
-    <title>Anugerah Cinta</title>
+    <title>Cinta Berakhir Bahagia</title>
 </programme>
 <programme start="20261027181500 +0000" stop="20261027195000 +0000" channel="Rock Action.mncvision">
     <title>P.O.W. The Escape</title>

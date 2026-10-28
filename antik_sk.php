@@ -8147,7 +8147,7 @@
     <title lang="id">Rybolov pod lupou - Když se nepočítají pouze největší ryby</title>
   </programme>
   <programme start="20261030073000 +0000" stop="20261030080000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Dva rybáři gurmáni - Candát s kachním prsíčkem</title>
+    <title lang="id">Dva gurmánští rybáři - Candát s kachním prsíčkem</title>
   </programme>
   <programme start="20261030080000 +0000" stop="20261030083000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Kde je ryba? - Pěšky na Malém Žitném ostrovu</title>
@@ -8159,7 +8159,7 @@
     <title lang="id">Jen jemně! - Obrovští cejni</title>
   </programme>
   <programme start="20261030093000 +0000" stop="20261030100000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Divocí kapři na háčku - Wafters novinky při nasazení</title>
+    <title lang="id">Divocí kapři na háčku - wafters novinky při nasazení</title>
   </programme>
   <programme start="20261030100000 +0000" stop="20261030103000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Rybářské výpravy - Jedna delta, dva státy</title>
@@ -8207,13 +8207,13 @@
     <title lang="id">S Reviczkym kolem řeky Kriš - Biharugra</title>
   </programme>
   <programme start="20261030173000 +0000" stop="20261030180000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Divočina - S Károly Moritóriszem</title>
+    <title lang="id">Divočina - S Károlyem Moritóriszem</title>
   </programme>
   <programme start="20261030180000 +0000" stop="20261030183000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Myslivecká kuchyně - Gruzinské chinkali</title>
   </programme>
   <programme start="20261030183000 +0000" stop="20261030190000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Rybolov pod lupou – L ov kaprů na Dunaji</title>
+    <title lang="id">Rybolov pod lupou - lov kaprů na Dunaji</title>
   </programme>
   <programme start="20261030190000 +0000" stop="20261030193000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">Vampire - Ulov budoucnost!</title>
@@ -8228,16 +8228,16 @@
     <title lang="id">Na vrchol, krásy horského lovu v pohoří Sierra Nevada - se Zsoltem Mikuczou</title>
   </programme>
   <programme start="20261030210000 +0000" stop="20261030213000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Linzenbold Attila - Na sněhem zakrytých cestičkách - Zimní šoulačka v Bockereku</title>
+    <title lang="id">Linzenbold Attila - Na sněhem zakrytých cestičkách - zimní šoulačka v Bockereku</title>
   </programme>
   <programme start="20261030213000 +0000" stop="20261030220000 +0000" channel="Fishing&Hunting.webtv.sk">
     <title lang="id">József Kolláth - Myslivecká dobrodružství na Islandu</title>
   </programme>
   <programme start="20261030220000 +0000" stop="20261030223000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Hodula Fishing - Letní přívlač na candáta s woblery (1)</title>
+    <title lang="id">HodulaFishing - Letní přívlač na candáta s woblery (1)</title>
   </programme>
   <programme start="20261030223000 +0000" stop="20261030230000 +0000" channel="Fishing&Hunting.webtv.sk">
-    <title lang="id">Method feederový lov s MIKADO Total Fishing</title>
+    <title lang="id">Methodfeedrový lov s MIKADO Total Fishing</title>
   </programme>
   <programme start="20261029230000 +0000" stop="20261030012000 +0000" channel="HBO.webtv.sk">
     <title lang="id">Parthenope</title>
