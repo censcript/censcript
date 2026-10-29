@@ -643,14 +643,8 @@
 <programme start="20261029093000 +0000" stop="20261029104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261029104500 +0000" stop="20261029131500 +0000" channel="ANTV.vision">
-<title>Nada &amp; Dakwah</title>
-</programme>
 <programme start="20261029131500 +0000" stop="20261029144500 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261029144500 +0000" stop="20261029164500 +0000" channel="ANTV.vision">
-<title>Pencet Sana Pencet Sini</title>
 </programme>
 <programme start="20261029164500 +0000" stop="20261029181500 +0000" channel="ANTV.vision">
 <title>Teenage Mutant Ninja Turtles 3</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261029070300 +0000" stop="20261029080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261029080000 +0000" stop="20261029080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261029080300 +0000" stop="20261029090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

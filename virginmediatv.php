@@ -440,7 +440,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261029121500 +0000" stop="20261029130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - 29/10/2026</title>
 </programme>
 <programme start="20261029130000 +0000" stop="20261029134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 19</title>
@@ -2066,10 +2066,10 @@
     <title>Salvage Hunters - Magnificent Manor Treasures</title>
 </programme>
 <programme start="20261029120000 +0000" stop="20261029130000 +0000" channel="Really.virginmediatv">
-    <title>The Yorkshire Auction House - Tongs Will Wag!</title>
+    <title>Antiques Road Trip - Episode 2</title>
 </programme>
 <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="Really.virginmediatv">
-    <title>The Yorkshire Auction House - He Who Dares Sells</title>
+    <title>Antiques Road Trip - Tim Medhurst and Izzie Balmer, Day 3</title>
 </programme>
 <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="Really.virginmediatv">
     <title>The Repair Shop - Charles II Painting, Arab Chest</title>
@@ -2081,7 +2081,7 @@
     <title>Salvage Hunters - Scouring Castles in Germany</title>
 </programme>
 <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="Really.virginmediatv">
-    <title>Long Lost Family: Born Without Trace - What Happened Next</title>
+    <title>A Place in the Sun</title>
 </programme>
 <programme start="20261029000000 +0000" stop="20261029003000 +0000" channel="Fashion_TV.virginmediatv">
     <title>Top Models</title>
@@ -2351,7 +2351,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261029003000 +0000" stop="20261029010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast - Episode 14</title>
+    <title>Newscast - 29/10/2026</title>
 </programme>
 <programme start="20261029010000 +0000" stop="20261029013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -3889,8 +3889,11 @@
 <programme start="20261029134500 +0000" stop="20261029140000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Championship - Cardiff City v Birmingham City</title>
 </programme>
-<programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>The World Football Show</title>
+<programme start="20261029140000 +0000" stop="20261029143000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 4: Fleetwood Town v Arsenal</title>
+</programme>
+<programme start="20261029143000 +0000" stop="20261029150000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Cup - Round 4: Liverpool v Chelsea</title>
 </programme>
 <programme start="20261029150000 +0000" stop="20261029151500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Championship - Queens Park Rangers v Swansea City</title>
@@ -4052,10 +4055,10 @@
     <title>Lunchtime Live</title>
 </programme>
 <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Lunchtime Live</title>
+    <title>The World Football Show</title>
 </programme>
 <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>The World Football Show</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>Sports Desk</title>
@@ -4672,8 +4675,11 @@
 <programme start="20261029134500 +0000" stop="20261029140000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Championship - Cardiff City v Birmingham City</title>
 </programme>
-<programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>The World Football Show</title>
+<programme start="20261029140000 +0000" stop="20261029143000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 4: Fleetwood Town v Arsenal</title>
+</programme>
+<programme start="20261029143000 +0000" stop="20261029150000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Cup - Round 4: Liverpool v Chelsea</title>
 </programme>
 <programme start="20261029150000 +0000" stop="20261029151500 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Championship - Queens Park Rangers v Swansea City</title>
@@ -4835,10 +4841,10 @@
     <title>Lunchtime Live</title>
 </programme>
 <programme start="20261029130000 +0000" stop="20261029140000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Lunchtime Live</title>
+    <title>The World Football Show</title>
 </programme>
 <programme start="20261029140000 +0000" stop="20261029150000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>The World Football Show</title>
+    <title>Sports Desk</title>
 </programme>
 <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>Sports Desk</title>

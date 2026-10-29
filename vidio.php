@@ -242,24 +242,24 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261029210000 +0000" stop="20261029213000 +0000">
+  <programme channel="204" start="20261029210000 +0000" stop="20261029212500 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261029213000 +0000" stop="20261029220000 +0000">
+  <programme channel="204" start="20261029212500 +0000" stop="20261029215200 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261029220000 +0000" stop="20261029230000 +0000">
+  <programme channel="204" start="20261029215200 +0000" stop="20261029230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg"/>
   </programme>
-  <programme channel="204" start="20261029230000 +0000" stop="20261030000000 +0000">
+  <programme channel="204" start="20261029230000 +0000" stop="20261030001700 +0000">
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261030000000 +0000" stop="20261030030000 +0000">
+  <programme channel="204" start="20261030001700 +0000" stop="20261030030000 +0000">
     <title lang="id">Cinta Suci</title>
     <desc lang="id">Cinta Suci mengisahkan perjuangan Suci (Irish Bella), seorang wanita yang terpaksa menikahi pria kaya bernama Marcel (Ammar Zoni) demi membiayai pengobatan Aditya (Jonas Rivanno), suami pertamanya yang kritis. Pengorbanan tersebut membawa Suci ke dalam dinamika pernikahan baru penuh konflik, rahasia dan cinta.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jqXU9cA64eEk1kibYRX48oCrr-E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399796/b192a1.jpg"/>
@@ -269,56 +269,56 @@
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WpF1IQdkjnUY3kjgr1iohYsQI58=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399874/9ef6f1.jpg"/>
   </programme>
-  <programme channel="204" start="20261030050000 +0000" stop="20261030053000 +0000">
+  <programme channel="204" start="20261030050000 +0000" stop="20261030053500 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
   </programme>
-  <programme channel="204" start="20261030053000 +0000" stop="20261030100000 +0000">
+  <programme channel="204" start="20261030053500 +0000" stop="20261030095500 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
   </programme>
-  <programme channel="204" start="20261030100000 +0000" stop="20261030111500 +0000">
+  <programme channel="204" start="20261030095500 +0000" stop="20261030112300 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261030111500 +0000" stop="20261030130000 +0000">
+  <programme channel="204" start="20261030112300 +0000" stop="20261030125000 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261030130000 +0000" stop="20261030143000 +0000">
+  <programme channel="204" start="20261030125000 +0000" stop="20261030143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261030143000 +0000" stop="20261030160000 +0000">
+  <programme channel="204" start="20261030143000 +0000" stop="20261030161200 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya, seorang dosen sukses, menghadapi kehancuran rumah tangga akibat perselingkuhan suaminya, Pram, dengan Citra, mahasiswi yang ia tolong. Di tengah pengkhianatan dan konflik perebutan hak asuh anak, Nadya menemukan dukungan dari Aris, sosok dari masa lalunya yang diam-diam mencintainya. Namun, rahasia dan berbagai rintangan menguji perjuangan mereka untuk menemukan kebahagiaan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oVtK6pkM_XIRL2KDODrPFG1fpkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404296/2d3479.jpg"/>
   </programme>
-  <programme channel="204" start="20261030160000 +0000" stop="20261030173000 +0000">
+  <programme channel="204" start="20261030161200 +0000" stop="20261030173000 +0000">
     <title lang="id">FTV Primetime: Biarkan Semesta Bekerja Aku Dan Kamu Love- Lovean Aja</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261030160000 +0000" stop="20261030173000 +0000">
+  <programme channel="204" start="20261030161200 +0000" stop="20261030173000 +0000">
     <title lang="id">FTV Primetime: Biarkan Semesta Bekerja Aku Dan Kamu Love- Lovean Aja</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261030173000 +0000" stop="20261030184500 +0000">
+  <programme channel="204" start="20261030173000 +0000" stop="20261030190500 +0000">
     <title lang="id">FTV Utama: Unboxing Hati Juragan Kambing</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261030184500 +0000" stop="20261030200000 +0000">
+  <programme channel="204" start="20261030190500 +0000" stop="20261030201200 +0000">
     <title lang="id">Drama Turki: Arafta : Terbelenggu Takdir Arafta:</title>
     <desc lang="id">Bahwa sebuah misi balas dendam tidak pernah berjalan sesederhana yang direncanakan. Serial ini bukan sekadar romansa biasa, melainkan sebuah studi karakter tentang seorang pria yang harus memilih antara menghancurkan musuhnya atau menyelamatkan hatinya sendiri.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261030200000 +0000" stop="20261030210000 +0000">
+  <programme channel="204" start="20261030201200 +0000" stop="20261030210000 +0000">
     <title lang="id">Sinema Dini Hari: Tunggu Aku Di Yogya</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -549,17 +549,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261029120000 +0000" stop="20261029172000 +0000">
+  <programme channel="205" start="20261029120000 +0000" stop="20261029165200 +0000">
     <title lang="id">D' Academy 8 : Top 11 Show Malam Pertama</title>
     <desc lang="id">D' Academy (Musim 8) adalah ajang pencarian bakat menyanyi dangdut musim ke delapan dari D'Academy yang ditayangkan di Indosiar. Acara ini di selenggarakan pada tahun 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
-  <programme channel="205" start="20261029120000 +0000" stop="20261029172000 +0000">
-    <title lang="id">D' Academy 8 : Top 11 Show Malam Pertama</title>
-    <desc lang="id">D' Academy (Musim 8) adalah ajang pencarian bakat menyanyi dangdut musim ke delapan dari D'Academy yang ditayangkan di Indosiar. Acara ini di selenggarakan pada tahun 2026</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
+  <programme channel="205" start="20261029165200 +0000" stop="20261029180000 +0000">
+    <title lang="id">Mega Film Asia: The Comeback</title>
+    <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/8vfdFW8hb7LWO47YPCaJLfEs0c8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400357/5fbd4e.png"/>
   </programme>
-  <programme channel="205" start="20261029172000 +0000" stop="20261029180000 +0000">
+  <programme channel="205" start="20261029165200 +0000" stop="20261029180000 +0000">
     <title lang="id">Mega Film Asia: The Comeback</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8vfdFW8hb7LWO47YPCaJLfEs0c8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5400357/5fbd4e.png"/>
@@ -616,7 +616,7 @@
   </programme>
   <programme channel="205" start="20261030083000 +0000" stop="20261030104000 +0000">
     <title lang="id">Java United FC vs Bhayangkara Lampung FC - BRI Super League</title>
-    <desc lang="id">Mampukah Java United FC merebut 3 poin kala melawan Bhayangkara Lampung FC</desc>
+    <desc lang="id">Mampukah Java United FC merebut 3 poin kala melawan Bhayangkara Lampung FC?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/OJz3-hYitNTo9y3M9LAffft79ew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404309/5fd8e2.jpg"/>
   </programme>
   <programme channel="205" start="20261030104000 +0000" stop="20261030113000 +0000">
@@ -880,28 +880,28 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YsLL3jkCj7yvQZrWwBuLY6XxHLY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403789/1edc9a.jpg"/>
   </programme>
   <programme channel="206" start="20261029113000 +0000" stop="20261029140000 +0000">
-    <title lang="id">RERUN VNL 2026 MEN</title>
+    <title lang="id">United States vs Japan : Men's Volleyball Nations League 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261029140000 +0000" stop="20261029160000 +0000">
-    <title lang="id">RERUN VNL 2026 MEN</title>
+    <title lang="id">Brazil vs Iran : Men's Volleyball Nations League 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261029160000 +0000" stop="20261029180000 +0000">
-    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
+    <title lang="id">Iran vs Chinese Taipei : AVC Men's Volleyball Continental Championship 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261029160000 +0000" stop="20261029180000 +0000">
-    <title lang="id">RERUN AVC MEN'S CONTINENTAL 2026</title>
+    <title lang="id">Iran vs Chinese Taipei : AVC Men's Volleyball Continental Championship 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261029180000 +0000" stop="20261029200000 +0000">
-    <title lang="id">AVC Men'S Continental 2026</title>
+    <title lang="id">Thailand vs Korea : AVC Men's Volleyball Continental Championship 2026</title>
     <desc lang="id">AVC MEN'S CONTINENTAL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261029200000 +0000" stop="20261029220000 +0000">
-    <title lang="id">AVC Men'S Continental 2026</title>
+    <title lang="id">Thailand vs Australia : AVC Men's Volleyball Continental Championship 2026</title>
     <desc lang="id">AVC MEN'S CONTINENTAL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -935,47 +935,47 @@
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261030053000 +0000" stop="20261030073000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putri - Seri Jakarta (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRI - SERI JAKARTA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261030060000 +0000" stop="20261030080000 +0000">
+    <title lang="id">Semifinal Putri: STIES MIKAR vs USAKTI - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinal Putri: STIES MIKAR BEKASI vs USAKTI - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/i70zX0k7i_jtyfYC18Sr-AgtCVk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411451/68a681.jpg"/>
   </programme>
-  <programme channel="206" start="20261030073000 +0000" stop="20261030093000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putra - Seri Jakarta (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRA - SERI JAKARTA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261030080000 +0000" stop="20261030100000 +0000">
+    <title lang="id">Semifinal Putra: BLU vs STIES MIKAR - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinal Putra: BLU vs STIES MIKAR - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/2Aw_m0DoUqGxDqSQ6AYZdsPPw9M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411452/9dd65b.jpg"/>
   </programme>
-  <programme channel="206" start="20261030093000 +0000" stop="20261030113000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putri - Seri Jakarta (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRI - SERI JAKARTA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261030100000 +0000" stop="20261030120000 +0000">
+    <title lang="id">Semifinal Putri: BLU vs UNJ - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinal Putri: BLU vs UNJ - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/sYVtC-UtWdmH7JroVGY_Kspcdvk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411453/182698.jpg"/>
   </programme>
-  <programme channel="206" start="20261030113000 +0000" stop="20261030140000 +0000">
-    <title lang="id">Liga Voli Mahasiswa Putra - Seri Jakarta (LIVE)</title>
-    <desc lang="id">LIGA VOLI MAHASISWA PUTRA - SERI JAKARTA (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261030120000 +0000" stop="20261030140000 +0000">
+    <title lang="id">Semifinal Putra: UM ID vs UNJ - Liga Voli Mahasiswa</title>
+    <desc lang="id">Nonton streaming pertandingan seru Semifinal Putra: UM ID vs UNJ - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5gbR58c-nGq_56tEzyW3QEkqEwk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411454/704693.jpg"/>
   </programme>
   <programme channel="206" start="20261030140000 +0000" stop="20261030160000 +0000">
-    <title lang="id">RERUN VNL 2026 WOMEN</title>
+    <title lang="id">United States vs China : Women's Volleyball Nations League 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261030160000 +0000" stop="20261030180000 +0000">
-    <title lang="id">AVC Men'S Continental 2026</title>
+    <title lang="id">Korea vs China : AVC Men's Volleyball Continental Championship 2026</title>
     <desc lang="id">AVC MEN'S CONTINENTAL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261030160000 +0000" stop="20261030180000 +0000">
-    <title lang="id">AVC Men'S Continental 2026</title>
+    <title lang="id">Korea vs China : AVC Men's Volleyball Continental Championship 2026</title>
     <desc lang="id">AVC MEN'S CONTINENTAL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261030192100 +0000" stop="20261030204100 +0000">
-    <title lang="id">AVC Women'S Continental 2026</title>
-    <desc lang="id">AVC WOMEN'S CONTINENTAL 2026</desc>
+  <programme channel="206" start="20261030180000 +0000" stop="20261030200000 +0000">
+    <title lang="id">Indonesia vs Iran : AVC Women's Volleyball Continental Championship 2026</title>
+    <desc lang="id">AVC MEN'S CONTINENTAL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
   <programme channel="206" start="20261030204100 +0000" stop="20261030220000 +0000">
-    <title lang="id">AVC Men'S Continental 2026</title>
+    <title lang="id">Japan vs India : AVC Men's Volleyball Continental Championship 2026</title>
     <desc lang="id">AVC MEN'S CONTINENTAL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -4067,11 +4067,127 @@
     <title lang="id">Warung Pengkolan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261029163000 +0000" stop="20261029173000 +0000">
+  <programme channel="6441" start="20261029163000 +0000" stop="20261029170000 +0000">
     <title lang="id">LIVE Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261029163000 +0000" stop="20261029173000 +0000">
+  <programme channel="6441" start="20261029163000 +0000" stop="20261029170000 +0000">
+    <title lang="id">LIVE Klik Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029170000 +0000" stop="20261029213000 +0000">
+    <title lang="id">TVRI Program</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029213000 +0000" stop="20261029230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261029230000 +0000" stop="20261030000000 +0000">
+    <title lang="id">LIVE Klik Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030000000 +0000" stop="20261030010000 +0000">
+    <title lang="id">LIVE Jendela Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030010000 +0000" stop="20261030020000 +0000">
+    <title lang="id">Women's Insight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030020000 +0000" stop="20261030023000 +0000">
+    <title lang="id">Dapur Devina</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030023000 +0000" stop="20261030030000 +0000">
+    <title lang="id">Mimbar Agama Konghucu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030030000 +0000" stop="20261030033000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030033000 +0000" stop="20261030040000 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030040000 +0000" stop="20261030043000 +0000">
+    <title lang="id">Masjid-Masjid Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030043000 +0000" stop="20261030050000 +0000">
+    <title lang="id">Jejak Para Rasul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030050000 +0000" stop="20261030060000 +0000">
+    <title lang="id">LIVE Sholat Jum'at</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030060000 +0000" stop="20261030070000 +0000">
+    <title lang="id">LIVE Berita Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030070000 +0000" stop="20261030080000 +0000">
+    <title lang="id">Jejak Langkah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030080000 +0000" stop="20261030090000 +0000">
+    <title lang="id">Bincang Olahraga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030090000 +0000" stop="20261030093000 +0000">
+    <title lang="id">Kampung Vibes</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030093000 +0000" stop="20261030100000 +0000">
+    <title lang="id">Asta Cita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030100000 +0000" stop="20261030103000 +0000">
+    <title lang="id">Ayo Bertani</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030103000 +0000" stop="20261030110000 +0000">
+    <title lang="id">LIVE Teras Istana</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030110000 +0000" stop="20261030120000 +0000">
+    <title lang="id">LIVE Klik Indonesia Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030120000 +0000" stop="20261030130000 +0000">
+    <title lang="id">LIVE Indonesia Bicara</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030130000 +0000" stop="20261030133000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030133000 +0000" stop="20261030140000 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030140000 +0000" stop="20261030143000 +0000">
+    <title lang="id">LIVE Dunia Dalam Berita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030143000 +0000" stop="20261030150000 +0000">
+    <title lang="id">Indonesia Raya Jelajah Sains</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030150000 +0000" stop="20261030153000 +0000">
+    <title lang="id">LIVE Monitor Olahraga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030153000 +0000" stop="20261030163000 +0000">
+    <title lang="id">D'Teras</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030163000 +0000" stop="20261030173000 +0000">
+    <title lang="id">LIVE Klik Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261030163000 +0000" stop="20261030173000 +0000">
     <title lang="id">LIVE Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -11539,7 +11655,7 @@
   <programme channel="6786" start="20261030080000 +0000" stop="20261030100000 +0000">
     <title lang="id">Alexandra Eala vs Diana Shnaider - Quarter Final | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarterfinal - WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/27V5iybh7OevUvS2yRC4ev-3XQg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403436/72576b.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/RKKrvLgVlIJ71MlNZZ2q-vav9cc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403436/c3dac5.png"/>
   </programme>
   <programme channel="6786" start="20261030100000 +0000" stop="20261030103000 +0000">
     <title lang="id">Eps 12 : Sport Woman</title>
@@ -12463,24 +12579,29 @@
     <desc lang="id">Nonton streaming pertandingan seru Round of 16 - WTA 250: Guangzhou Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/oXtYAy34bcVOyTtZI4dp36b5tbg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404352/6065e6.png"/>
   </programme>
-  <programme channel="6686" start="20261029123000 +0000" stop="20261029133000 +0000">
+  <programme channel="6686" start="20261029121400 +0000" stop="20261029140700 +0000">
     <title lang="id">Manchester City vs Brighton &amp; Hove Albion : Carabao Cup 2026/27</title>
     <desc lang="id">MANCHESTER CITY vs BRIGHTON &amp; HOVE ALBION</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261029133000 +0000" stop="20261029153000 +0000">
-    <title lang="id">Fc Utrecht vs Willem Ii : Dutch League Eredivisie 2026/27</title>
-    <desc lang="id">FC UTRECHT vs WILLEM II</desc>
+  <programme channel="6686" start="20261029140700 +0000" stop="20261029143000 +0000">
+    <title lang="id">Highlight - Round 3 : Carabao Cup 2026/27</title>
+    <desc lang="id">Highlight - Round 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261029153000 +0000" stop="20261029170000 +0000">
+  <programme channel="6686" start="20261029143000 +0000" stop="20261029163000 +0000">
     <title lang="id">Hockey Men'S Indonesia vs Japan : 20Th Asian Games Aichi-Nagoya 2026</title>
     <desc lang="id">HOCKEY MEN'S INDONESIA vs JAPAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261029153000 +0000" stop="20261029170000 +0000">
-    <title lang="id">Hockey Men'S Indonesia vs Japan : 20Th Asian Games Aichi-Nagoya 2026</title>
-    <desc lang="id">HOCKEY MEN'S INDONESIA vs JAPAN</desc>
+  <programme channel="6686" start="20261029163000 +0000" stop="20261029170000 +0000">
+    <title lang="id">Highlight - Round 3 : Carabao Cup 2026/27</title>
+    <desc lang="id">Highlight - Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261029163000 +0000" stop="20261029170000 +0000">
+    <title lang="id">Highlight - Round 3 : Carabao Cup 2026/27</title>
+    <desc lang="id">Highlight - Round 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
   <programme channel="6686" start="20261029170000 +0000" stop="20261029190000 +0000">
