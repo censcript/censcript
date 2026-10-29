@@ -4253,7 +4253,7 @@
     <title>Top 20 Goals - 2007/08</title>
 </programme>
 <programme start="20261029140000 +0000" stop="20261029141500 +0000" channel="MUTV.virginmediatv">
-    <title>Live: Manager&#039;s Press Conference</title>
+    <title>Live: Manager&#039;s Press Conference - Live: Press Conference: Chelsea (A)</title>
 </programme>
 <programme start="20261029141500 +0000" stop="20261029143000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2019/20: Manchester United v Chelsea</title>
