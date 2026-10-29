@@ -3590,7 +3590,7 @@
     <title>Gutfeld!</title>
 </programme>
 <programme start="20261029080000 +0000" stop="20261029090000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends First</title>
+    <title>The Ingraham Angle</title>
 </programme>
 <programme start="20261029090000 +0000" stop="20261029100000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
@@ -5404,10 +5404,10 @@
 <programme start="20261029073000 +0000" stop="20261029080000 +0000" channel="Kompas TV.mncvision">
     <title>Jurnal Nusantara</title>
 </programme>
-<programme start="20261029080000 +0000" stop="20261029082900 +0000" channel="Kompas TV.mncvision">
+<programme start="20261029080000 +0000" stop="20261029083000 +0000" channel="Kompas TV.mncvision">
     <title>Jurnal Merah Putih</title>
 </programme>
-<programme start="20261029082900 +0000" stop="20261029090000 +0000" channel="Kompas TV.mncvision">
+<programme start="20261029083000 +0000" stop="20261029090000 +0000" channel="Kompas TV.mncvision">
     <title>Borgol</title>
 </programme>
 <programme start="20261029090000 +0000" stop="20261029103000 +0000" channel="Kompas TV.mncvision">
@@ -7624,11 +7624,8 @@
 <programme start="20261029133000 +0000" stop="20261029150000 +0000" channel="RCTI.mncvision">
     <title>Terbaik Itu Kamu</title>
 </programme>
-<programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="RCTI.mncvision">
+<programme start="20261029150000 +0000" stop="20261029153000 +0000" channel="RCTI.mncvision">
     <title>CEO Who Killed My Father</title>
-</programme>
-<programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="RCTI.mncvision">
-    <title>Cinta Berakhir Bahagia</title>
 </programme>
 <programme start="20261028171500 +0000" stop="20261028183000 +0000" channel="RCTI HD.mncvision">
     <title>Peramal Cantik Jatuh Hati</title>
@@ -7669,11 +7666,8 @@
 <programme start="20261029133000 +0000" stop="20261029150000 +0000" channel="RCTI HD.mncvision">
     <title>Terbaik Itu Kamu</title>
 </programme>
-<programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="RCTI HD.mncvision">
+<programme start="20261029150000 +0000" stop="20261029153000 +0000" channel="RCTI HD.mncvision">
     <title>CEO Who Killed My Father</title>
-</programme>
-<programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="RCTI HD.mncvision">
-    <title>Cinta Berakhir Bahagia</title>
 </programme>
 <programme start="20261028181500 +0000" stop="20261028201000 +0000" channel="Rock Action.mncvision">
     <title>Hellboy 2: The Golden Army</title>

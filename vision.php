@@ -25,14 +25,14 @@
 <programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="RCTI.vision">
 <title>CEO Who Killed My Father</title>
 </programme>
-<programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="RCTI.vision">
-<title>Bhootu</title>
+<programme start="20261029160000 +0000" stop="20261029171500 +0000" channel="RCTI.vision">
+<title>Cinta Berakhir Bahagia</title>
 </programme>
-<programme start="20261029163000 +0000" stop="20261029174500 +0000" channel="RCTI.vision">
-<title>Anugerah Cinta</title>
-</programme>
-<programme start="20261029174500 +0000" stop="20261029190000 +0000" channel="RCTI.vision">
+<programme start="20261029171500 +0000" stop="20261029183000 +0000" channel="RCTI.vision">
 <title>Putri Tidur Vs Bos Ganteng</title>
+</programme>
+<programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="RCTI.vision">
+<title>Kolang-Kaling I&#039;m In Love</title>
 </programme>
 <programme start="20261029190000 +0000" stop="20261029200000 +0000" channel="RCTI.vision">
 <title>Mega Film TV Malam</title>

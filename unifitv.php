@@ -12584,7 +12584,7 @@
   </programme>
   <programme start="20261028223300 +0000" stop="20261028230300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Fault Lines</title>
-    <desc lang="en">Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.</desc>
+    <desc lang="en">A hospital in South Sudan becomes the center of a health and hunger crisis as the U.S. cuts humanitarian aid.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261028230300 +0000" stop="20261028233300 +0000" channel="aljazeera.unifitv">
@@ -12670,7 +12670,7 @@
   </programme>
   <programme start="20261029083300 +0000" stop="20261029090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Russia expert Anatol Lieven explains how &amp; why U.S. attempts to make peace in Ukraine have failed.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.42.</episode-num>
     <episode-num system="onscreen">S1E43</episode-num>
@@ -12682,7 +12682,7 @@
   </programme>
   <programme start="20261029093300 +0000" stop="20261029100300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Fault Lines</title>
-    <desc lang="en">Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.</desc>
+    <desc lang="en">A hospital in South Sudan becomes the center of a health and hunger crisis as the U.S. cuts humanitarian aid.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261029100300 +0000" stop="20261029110300 +0000" channel="aljazeera.unifitv">
@@ -12704,7 +12704,7 @@
   </programme>
   <programme start="20261029120300 +0000" stop="20261029130300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Let's Focus</title>
-    <desc lang="en">Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <desc lang="en">Josh Rushing, Spencer Ackerman and General Mark Kimmitt ask why the U.S. keeps going to war, who profits, and whether the midterms can change it.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -12721,7 +12721,7 @@
   </programme>
   <programme start="20261029143300 +0000" stop="20261029150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc lang="en">Ahead of the US midterms, we examine how electoral maps could reshape Congress and why state elections matter as much as the battle for Washington..</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
@@ -13992,7 +13992,7 @@
   </channel>
   <programme start="20261028153300 +0000" stop="20261028160300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">From India's rooftop solar boom to electricity from chicken waste and the removal of old dams to restore rivers, green solutions are gaining ground.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14006,7 +14006,7 @@
   </programme>
   <programme start="20261028163300 +0000" stop="20261028170300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">One family struggles with rising costs, another with immigration detention, while critics question political influence of tech billionaires. Three stories about the state of America.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14019,15 +14019,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261028171800 +0000" stop="20261028173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">We need more water than ever, we have less rain than ever, and its hotter than ever. So the groundwater tables that we rely on are starting to run dry. Here's how we could keep them going into the future.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261028173300 +0000" stop="20261028180300 +0000" channel="dw.unifitv">
     <title lang="en">Close up</title>
-    <desc lang="en">The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+    <desc lang="en">Donald Trump's immigration crackdown is facing resistance across the United States. And not just from migrants. Local residents are fighting back, determined to stop new ICE detention centers from being built in their own backyards.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14061,15 +14061,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261028191800 +0000" stop="20261028193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">We need more water than ever, we have less rain than ever, and its hotter than ever. So the groundwater tables that we rely on are starting to run dry. Here's how we could keep them going into the future.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261028193300 +0000" stop="20261028200300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">Kenya is home to champions like Eliud Kipchoge. But behind the medals lies a deeper story of ambition, opportunity, and struggle. We explore the people, challenges, and forces shaping the future of Kenyan sport.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14118,7 +14118,7 @@
   </programme>
   <programme start="20261028223300 +0000" stop="20261028230300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">One family struggles with rising costs, another with immigration detention, while critics question political influence of tech billionaires. Three stories about the state of America.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14138,15 +14138,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261028231800 +0000" stop="20261028233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">We need more water than ever, we have less rain than ever, and its hotter than ever. So the groundwater tables that we rely on are starting to run dry. Here's how we could keep them going into the future.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261028233300 +0000" stop="20261029000300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Tensions continue to rise in the Spanish enclave of Ceuta following the arrival of tens of thousands of migrants. Local resident Sabah Hamed Mohamed is helping them.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.4125.</episode-num>
     <episode-num system="onscreen">S1E4126</episode-num>
@@ -14167,7 +14167,7 @@
   </programme>
   <programme start="20261029003300 +0000" stop="20261029010300 +0000" channel="dw.unifitv">
     <title lang="en">Arts Unveiled</title>
-    <desc lang="en">Arts Unveiled</desc>
+    <desc lang="en">In 1961, Hannah Arendt attended the trial of Adolf Eichmann, Nazi bureaucrat of the Holocaust and saw in him the "banality of evil.” And a new novel asks how right-wing hatred arises. Stories of guilt and silence.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14209,7 +14209,7 @@
   </programme>
   <programme start="20261029023300 +0000" stop="20261029030300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">One family struggles with rising costs, another with immigration detention, while critics question political influence of tech billionaires. Three stories about the state of America.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14229,15 +14229,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261029031800 +0000" stop="20261029033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">We need more water than ever, we have less rain than ever, and its hotter than ever. So the groundwater tables that we rely on are starting to run dry. Here's how we could keep them going into the future.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261029033300 +0000" stop="20261029040300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">From India's rooftop solar boom to electricity from chicken waste and the removal of old dams to restore rivers, green solutions are gaining ground.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14279,7 +14279,7 @@
   </programme>
   <programme start="20261029053300 +0000" stop="20261029060300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Tensions continue to rise in the Spanish enclave of Ceuta following the arrival of tens of thousands of migrants. Local resident Sabah Hamed Mohamed is helping them.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14299,8 +14299,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261029061800 +0000" stop="20261029063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Planet A</title>
+    <desc lang="en">We need more water than ever, we have less rain than ever, and its hotter than ever. So the groundwater tables that we rely on are starting to run dry. Here's how we could keep them going into the future.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14335,14 +14335,14 @@
   </programme>
   <programme start="20261029080500 +0000" stop="20261029083300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">One family struggles with rising costs, another with immigration detention, while critics question political influence of tech billionaires. Three stories about the state of America.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261029083300 +0000" stop="20261029090300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Tensions continue to rise in the Spanish enclave of Ceuta following the arrival of tens of thousands of migrants. Local resident Sabah Hamed Mohamed is helping them.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14412,7 +14412,7 @@
   </programme>
   <programme start="20261029113300 +0000" stop="20261029120300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Tensions continue to rise in the Spanish enclave of Ceuta following the arrival of tens of thousands of migrants. Local resident Sabah Hamed Mohamed is helping them.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14446,8 +14446,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261029131800 +0000" stop="20261029133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Arts Unveiled</title>
+    <desc lang="en">What does it take to document the stories most people never see? Award-winning Indian photojournalist Smita Sharma has spent years investigating human trafficking, gender inequality, and other hidden social issues across South Asia. Her work has appeared in National Geographic, TIME and The New York Times. However, things haven´t been easy.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14488,9 +14488,9 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261029153300 +0000" stop="20261029160300 +0000" channel="dw.unifitv">
-    <title lang="en">In Good Shape</title>
-    <desc lang="en">Sex in pregnancy: Is it safe and how best to do it? Plus: dating in museums and supermarkets - and why sexually transmitted infections too often go undetected.</desc>
-    <category lang="en">Magazine</category>
+    <title lang="en">DocFilm</title>
+    <desc lang="en">One of the smallest countries in Europe: Malta. The Romans, the Arabs, the British and the French have all left their mark here. A sunny country with a multicultural heritage.</desc>
+    <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
@@ -14963,9 +14963,49 @@
     <desc lang="en">Remember Adrian? One of LaLiga's famed marksmen scored goals aplenty. Here are some of his best, across his time at Atletico Madrid, Villarreal, Deportivo La Coruna and more.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261029060000 +0000" stop="20261029153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261029060000 +0000" stop="20261029083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 320: Ankalaev vs Pereira 2</title>
     <desc lang="en">UFC returns to Chicago with a stacked card featuring one of the most highly anticipated middleweight title fights in years, as South African champion Dricus Du Plessis faces his toughest test to date against unbeaten challenger Khamzat Chimaev. Plus a whole lot more action on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029083000 +0000" stop="20261029090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 1</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029090000 +0000" stop="20261029093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 1</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029093000 +0000" stop="20261029100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - Moreno vs Figueiredo 3</title>
+    <desc lang="en">UFC 270 featured the third meeting between flyweight rivals Deiveson Figueiredo and Mexican champion Brandon Moreno. Relive their incredible battle like you've never seen it with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029100000 +0000" stop="20261029123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 321: Aspinall vs. Gane</title>
+    <desc lang="en">The UFC heavyweight world championship is on the line in Abu Dhabi as Tom Aspinall defends his undisputed crown for the first time against Ciryl Gane. Plus Mackenzie Dern battles Virna Jandiroba for the vacant Women's strawweight belt and much more on UFC Reloaded</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029123000 +0000" stop="20261029130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - 1102: Light Heavyweights</title>
+    <desc lang="en">UFC Ultimate Knockouts showcases the most explosive KOs from the UFC's Light Heavyweight division. Re-live career defining moments from Chuck Liddell, Jon Jones, Alex Pereira and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029130000 +0000" stop="20261029135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 318: Holloway vs Poirier 3</title>
+    <desc lang="en">UFC 318 Countdown takes an inside look at the promotion's return to New Orleans, where lightweight Dustin “The Diamond” Poirier will enter the Octagon for the last time against the current BMF champion Max “Blessed” Holloway to end their trilogy</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029135500 +0000" stop="20261029140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP MOMENTS - GERARD PIQUE</title>
+    <desc lang="en">A towering presence at the back and a potent attacking force upfront. Complete domination by Barcelona club captain Gerard Pique.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261029140000 +0000" stop="20261029190000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC 333: Volkanovski vs. Evloev - Main</title>
+    <desc lang="en">UFC's annual October showcase in Abu Dhabi has historically been packed with action, and this year is no different as a pair of highly anticipated championship fights close out UFC 333 at Etihad Arena. In the main event, two-time featherweight champion Alexander “The Great” Volkanovski defends his title for the second time this year, taking on the challenge of undefeated Russian contender Movsar Evloev. And in the co-main event, bantamweight rivals battle for a third time as two-time titleholder Petr “No Mercy” Yan squares off with former champion Merab “The Machine” Dvalishvili to determine which of them will lord over the 135-pound weight class heading into next year.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
