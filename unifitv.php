@@ -4650,12 +4650,12 @@
   <channel id="zeethirai.unifitv">
     <display-name>Zee Thirai</display-name>
   </channel>
-  <programme start="20261028133000 +0000" stop="20261028163000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261028133200 +0000" stop="20261028164300 +0000" channel="zeethirai.unifitv">
     <title lang="en">Game Changer</title>
     <desc lang="en">Ram Nandan, a government official, embarks on a relentless fight against corrupt politicians. Determined to bring about fair elections, he tries to revolutionise the way the government operates.</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20261028163000 +0000" stop="20261028190000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261028164300 +0000" stop="20261028190000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Ghosty</title>
     <desc lang="en">Police officer, pursuing outlaw who escaped her father's custody 20 years ago, accidentally shoots someone else in a failed shootout.</desc>
     <category lang="en">Comedy</category>
@@ -4665,25 +4665,30 @@
     <desc lang="en">The host presents a curated compilation of hit songs and memorable snippets from the most popular and trending Tamil movies, celebrating the best of Tamil cinema.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261028193000 +0000" stop="20261028223000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261028193000 +0000" stop="20261028220200 +0000" channel="zeethirai.unifitv">
     <title lang="en">Kedi Billa Killadi Ranga</title>
     <desc lang="en">Kesavan and Murugan are friends who aim to make it big in politics by trying to impress people with their weird tricks. They pay no heed to others' advice and are rejected by their love interests.</desc>
     <category lang="en">Comedy</category>
   </programme>
-  <programme start="20261028223000 +0000" stop="20261029013000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261028220200 +0000" stop="20261028223000 +0000" channel="zeethirai.unifitv">
+    <title lang="en">Fillers</title>
+    <desc lang="en">Catch non-stop promos, music, and fun fillers from your favorite movies and shows-all in one place! Enjoy a seamless entertainment experience like never before!</desc>
+    <category lang="en">Entertainment</category>
+  </programme>
+  <programme start="20261028223000 +0000" stop="20261029010000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Periya Manushan</title>
     <desc lang="en">A wealthy elderly man caught in a love triangle with his two wives changes his behavior after a life-changing event, leading to family complications.</desc>
     <category lang="en">Family</category>
   </programme>
-  <programme start="20261029013000 +0000" stop="20261029043000 +0000" channel="zeethirai.unifitv">
+  <programme start="20261029010000 +0000" stop="20261029043000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Pyaar Prema Kaadhal</title>
     <desc lang="en">Sree Kumar, a young man, falls in love with Sindhuja, a vivacious woman. However, complications soon arise and they part their separate ways only to reunite again.</desc>
     <category lang="en">Romance</category>
   </programme>
   <programme start="20261029043000 +0000" stop="20261029080000 +0000" channel="zeethirai.unifitv">
-    <title lang="en">Kaaval</title>
-    <desc lang="en">Thamban and Antony were best friends and business partners. A family tragedy and its falling-out separates them for good.</desc>
-    <category lang="en">Action</category>
+    <title lang="en">Madha Yaanai Koottam</title>
+    <desc lang="en">Prithivi kill his uncle's son unfortunately. So his uncle and other family members take revenge on him.</desc>
+    <category lang="en">Thriller</category>
   </programme>
   <programme start="20261029080000 +0000" stop="20261029103000 +0000" channel="zeethirai.unifitv">
     <title lang="en">Shivanagam</title>
@@ -5231,12 +5236,7 @@
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20261028183000 +0000" stop="20261028193000 +0000" channel="unknown.unifitv">
-    <title lang="en">Free Ticket</title>
-    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
-    <category lang="en">Music</category>
-  </programme>
-  <programme start="20261028193000 +0000" stop="20261028200000 +0000" channel="unknown.unifitv">
+  <programme start="20261028183000 +0000" stop="20261028200000 +0000" channel="unknown.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
@@ -5356,14 +5356,14 @@
   <programme start="20261029050000 +0000" stop="20261029053000 +0000" channel="unknown.unifitv">
     <title lang="en">Enna Solla Pogirai</title>
     <desc lang="en">Vikram, a young man, devises a plan to make his fiancee fall in love with him. However, when his plan backfires, he unexpectedly gets caught in a complicated love triangle.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.60.</episode-num>
     <episode-num system="onscreen">S1E61</episode-num>
   </programme>
   <programme start="20261029053000 +0000" stop="20261029060000 +0000" channel="unknown.unifitv">
     <title lang="en">Enna Solla Pogirai</title>
     <desc lang="en">Vikram, a young man, devises a plan to make his fiancee fall in love with him. However, when his plan backfires, he unexpectedly gets caught in a complicated love triangle.</desc>
-    <category lang="en">Romance</category>
+    <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.61.</episode-num>
     <episode-num system="onscreen">S1E62</episode-num>
   </programme>

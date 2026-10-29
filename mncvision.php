@@ -7624,8 +7624,11 @@
 <programme start="20261029133000 +0000" stop="20261029150000 +0000" channel="RCTI.mncvision">
     <title>Terbaik Itu Kamu</title>
 </programme>
-<programme start="20261029150000 +0000" stop="20261029153000 +0000" channel="RCTI.mncvision">
+<programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="RCTI.mncvision">
     <title>CEO Who Killed My Father</title>
+</programme>
+<programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="RCTI.mncvision">
+    <title>Anugerah Cinta</title>
 </programme>
 <programme start="20261028171500 +0000" stop="20261028183000 +0000" channel="RCTI HD.mncvision">
     <title>Peramal Cantik Jatuh Hati</title>
@@ -7666,8 +7669,11 @@
 <programme start="20261029133000 +0000" stop="20261029150000 +0000" channel="RCTI HD.mncvision">
     <title>Terbaik Itu Kamu</title>
 </programme>
-<programme start="20261029150000 +0000" stop="20261029153000 +0000" channel="RCTI HD.mncvision">
+<programme start="20261029150000 +0000" stop="20261029160000 +0000" channel="RCTI HD.mncvision">
     <title>CEO Who Killed My Father</title>
+</programme>
+<programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="RCTI HD.mncvision">
+    <title>Anugerah Cinta</title>
 </programme>
 <programme start="20261028181500 +0000" stop="20261028201000 +0000" channel="Rock Action.mncvision">
     <title>Hellboy 2: The Golden Army</title>

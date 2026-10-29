@@ -1133,7 +1133,7 @@
     <title>The Comedy Central Chart Show - Rapper Plat&#039;num Has A Score To Settle</title>
 </programme>
 <programme start="20261029034500 +0000" stop="20261029041500 +0000" channel="Comedy_HD.virginmediatv">
-    <title>The Daily Show - Episode 120</title>
+    <title>The Daily Show - Jordan Klepper: Morgana Robinson</title>
 </programme>
 <programme start="20261029041500 +0000" stop="20261029043500 +0000" channel="Comedy_HD.virginmediatv">
     <title>Takeshi&#039;s Castle - Episode 6</title>
@@ -3944,7 +3944,7 @@
     <title>PGA Tour Champions Learning Centre - Episode 57</title>
 </programme>
 <programme start="20261029010000 +0000" stop="20261029013000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>PGA TOUR: The CUT - Episode 44</title>
+    <title>PGA TOUR: The CUT - Episode 1</title>
 </programme>
 <programme start="20261029013000 +0000" stop="20261029063000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Maybank Championship, LPGA Tour Golf - Day 1</title>
@@ -4243,11 +4243,26 @@
 <programme start="20261029054000 +0000" stop="20261029074500 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - Burnley U18 v Manchester United U18</title>
 </programme>
-<programme start="20261029120000 +0000" stop="20261029134000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261029120000 +0000" stop="20261029134500 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 1996 FA Cup Final: Manchester United v Liverpool</title>
 </programme>
-<programme start="20261029134000 +0000" stop="20261029154500 +0000" channel="MUTV.virginmediatv">
-    <title>FA Women&#039;s League Cup - Manchester United v Burnley</title>
+<programme start="20261029134500 +0000" stop="20261029140000 +0000" channel="MUTV.virginmediatv">
+    <title>Top 20 Goals - 2007/08</title>
+</programme>
+<programme start="20261029140000 +0000" stop="20261029141500 +0000" channel="MUTV.virginmediatv">
+    <title>Live: Manager&#039;s Press Conference</title>
+</programme>
+<programme start="20261029141500 +0000" stop="20261029143000 +0000" channel="MUTV.virginmediatv">
+    <title>The United Archives - 2019/20: Manchester United v Chelsea</title>
+</programme>
+<programme start="20261029143000 +0000" stop="20261029150000 +0000" channel="MUTV.virginmediatv">
+    <title>Under 18 Premier League - Highlights: Burnley U18 v Manchester United U18</title>
+</programme>
+<programme start="20261029150000 +0000" stop="20261029153000 +0000" channel="MUTV.virginmediatv">
+    <title>FA Women&#039;s League Cup - Highlights: Manchester United v Burnley</title>
+</programme>
+<programme start="20261029153000 +0000" stop="20261029154500 +0000" channel="MUTV.virginmediatv">
+    <title>The United Archives - PL: United v Chelsea 21/22</title>
 </programme>
 <programme start="20261029154500 +0000" stop="20261029160000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2018/19: Manchester United v Chelsea</title>
@@ -4256,7 +4271,7 @@
     <title>The United Archives - 1998/99 FA Cup: Chelsea v Manchester United</title>
 </programme>
 <programme start="20261029174500 +0000" stop="20261029180000 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2019/20: Manchester United v Chelsea</title>
+    <title>Manager&#039;s Press Conference</title>
 </programme>
 <programme start="20261028233000 +0000" stop="20261029003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Mexican Grand Prix: Race Highlights</title>
@@ -4712,7 +4727,7 @@
     <title>PGA Tour Champions Learning Centre - Episode 57</title>
 </programme>
 <programme start="20261029010000 +0000" stop="20261029013000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>PGA TOUR: The CUT - Episode 44</title>
+    <title>PGA TOUR: The CUT - Episode 1</title>
 </programme>
 <programme start="20261029013000 +0000" stop="20261029063000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Maybank Championship, LPGA Tour Golf - Day 1</title>
@@ -5294,7 +5309,7 @@
     <title>The Comedy Central Chart Show - Rapper Plat&#039;num Has A Score To Settle</title>
 </programme>
 <programme start="20261029044500 +0000" stop="20261029051500 +0000" channel="Comedy_+1.virginmediatv">
-    <title>The Daily Show - Episode 120</title>
+    <title>The Daily Show - Jordan Klepper: Morgana Robinson</title>
 </programme>
 <programme start="20261029051500 +0000" stop="20261029053500 +0000" channel="Comedy_+1.virginmediatv">
     <title>Takeshi&#039;s Castle - Episode 6</title>
@@ -7055,7 +7070,7 @@
     <title>The Comedy Central Chart Show - Rapper Plat&#039;num Has A Score To Settle</title>
 </programme>
 <programme start="20261029034500 +0000" stop="20261029041500 +0000" channel="Comedy.virginmediatv">
-    <title>The Daily Show - Episode 120</title>
+    <title>The Daily Show - Jordan Klepper: Morgana Robinson</title>
 </programme>
 <programme start="20261029041500 +0000" stop="20261029043500 +0000" channel="Comedy.virginmediatv">
     <title>Takeshi&#039;s Castle - Episode 6</title>
