@@ -3935,7 +3935,7 @@
     <title>Scotland&#039;s Greatest Golf Holes</title>
 </programme>
 <programme start="20261030013000 +0000" stop="20261030063000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Live: Maybank Championship, LPGA Tour Golf - Day 1</title>
+    <title>Live: Maybank Championship, LPGA Tour Golf - Day 2</title>
 </programme>
 <programme start="20261030110000 +0000" stop="20261030160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: European Challenge Tour Golf - Grand Final: Day 2</title>
@@ -4376,7 +4376,7 @@
     <title>The Fantasy Show - Episode 9</title>
 </programme>
 <programme start="20261030173000 +0000" stop="20261030180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Serie A Full Impact - Episode 9</title>
+    <title>Premier League: The Big Interview - Episode 11</title>
 </programme>
 <programme start="20261030000000 +0000" stop="20261030003000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>SailGP: Racing on the Edge - Episode 6</title>
@@ -4775,7 +4775,7 @@
     <title>Scotland&#039;s Greatest Golf Holes</title>
 </programme>
 <programme start="20261030013000 +0000" stop="20261030063000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Live: Maybank Championship, LPGA Tour Golf - Day 1</title>
+    <title>Live: Maybank Championship, LPGA Tour Golf - Day 2</title>
 </programme>
 <programme start="20261030110000 +0000" stop="20261030160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: European Challenge Tour Golf - Grand Final: Day 2</title>

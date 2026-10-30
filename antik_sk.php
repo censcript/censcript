@@ -2563,11 +2563,11 @@
   <programme start="20261101140000 +0000" stop="20261101160000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Vždy je něco nového!</title>
   </programme>
-  <programme start="20261101160000 +0000" stop="20261101170000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20261101160000 +0000" stop="20261101173000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Zábava na Šlágru</title>
   </programme>
-  <programme start="20261101170000 +0000" stop="20261101192000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Poklady našeho archivu</title>
+  <programme start="20261101173000 +0000" stop="20261101192000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">Písničky na přání</title>
   </programme>
   <programme start="20261101192000 +0000" stop="20261101230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Večerní pořad</title>
@@ -2586,9 +2586,6 @@
   </programme>
   <programme start="20261101173000 +0000" stop="20261101183000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
-  </programme>
-  <programme start="20261101183000 +0000" stop="20261101210000 +0000" channel="Šláger Muzika.webtv.sk">
-    <title lang="id">Zábava na dvojce</title>
   </programme>
   <programme start="20261101210000 +0000" stop="20261101230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
@@ -4713,6 +4710,63 @@
   </programme>
   <programme start="20261101200000 +0000" stop="20261101230000 +0000" channel="Eurosport 2.webtv.sk">
     <title lang="id">Golf: PGA Tour</title>
+  </programme>
+  <programme start="20261031214500 +0000" stop="20261101000000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Malmö - HV 71</title>
+  </programme>
+  <programme start="20261101000000 +0000" stop="20261101023000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">WNBA: Golden State Valkyries - Atlanta Dream</title>
+  </programme>
+  <programme start="20261101023000 +0000" stop="20261101033000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Tragédie na stadionu Heysel 6/1</title>
+  </programme>
+  <programme start="20261101033000 +0000" stop="20261101050000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Házená: Porto - One Veszprém HC</title>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101081500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: Zug - SCL Tigers</title>
+  </programme>
+  <programme start="20261101081500 +0000" stop="20261101083000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Ange-Yoan Bonny</title>
+  </programme>
+  <programme start="20261101083000 +0000" stop="20261101103000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Tenis</title>
+  </programme>
+  <programme start="20261101103000 +0000" stop="20261101113000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Poker</title>
+  </programme>
+  <programme start="20261101113000 +0000" stop="20261101133000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Como - Venezia</title>
+  </programme>
+  <programme start="20261101133000 +0000" stop="20261101134500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Wladimiro Falcone</title>
+  </programme>
+  <programme start="20261101134500 +0000" stop="20261101141500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">NCAA Fotbal, sestřih</title>
+  </programme>
+  <programme start="20261101141500 +0000" stop="20261101171500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: HK Dukla Trenčín - HKM Zvolen</title>
+  </programme>
+  <programme start="20261101171500 +0000" stop="20261101190000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Lecce - Janov</title>
+  </programme>
+  <programme start="20261101190000 +0000" stop="20261101191500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Made in Italy, Wladimiro Falcone</title>
+  </programme>
+  <programme start="20261101191500 +0000" stop="20261101194500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal, Serie A, Full Impact</title>
+  </programme>
+  <programme start="20261101194500 +0000" stop="20261101214500 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Fotbal: Juventus - Neapol</title>
+  </programme>
+  <programme start="20261101214500 +0000" stop="20261101223000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">MVP</title>
+  </programme>
+  <programme start="20261101223000 +0000" stop="20261102013000 +0000" channel="Sport 1.webtv.sk">
+    <title lang="id">Lední hokej: HK Dukla Trenčín - HKM Zvolen</title>
   </programme>
   <programme start="20261031213000 +0000" stop="20261031233000 +0000" channel="Sport 2.webtv.sk">
     <title lang="id">Tenis</title>

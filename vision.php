@@ -598,17 +598,8 @@
 <programme start="20261030093000 +0000" stop="20261030104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261030104500 +0000" stop="20261030131500 +0000" channel="ANTV.vision">
-<title>Perjuangan &amp; Doa</title>
-</programme>
 <programme start="20261030131500 +0000" stop="20261030144500 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261030144500 +0000" stop="20261030164500 +0000" channel="ANTV.vision">
-<title>Sama Juga Bohong</title>
-</programme>
-<programme start="20261030164500 +0000" stop="20261030181500 +0000" channel="ANTV.vision">
-<title>Yes, Madam!</title>
 </programme>
 <programme start="20261030181500 +0000" stop="20261030193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261030131800 +0000" stop="20261030132200 +0000" channel="Originals.vision">
 <title>4 Celebrities: Serial Cheaters</title>
+</programme>
+<programme start="20261030132200 +0000" stop="20261030145300 +0000" channel="Originals.vision">
+<title>Mary 4 Mayor</title>
+</programme>
+<programme start="20261030170400 +0000" stop="20261030171600 +0000" channel="Originals.vision">
+<title>73 Questions With Emily Blunt</title>
+</programme>
+<programme start="20261030171600 +0000" stop="20261030184800 +0000" channel="Originals.vision">
+<title>Grand Isle</title>
 </programme>
