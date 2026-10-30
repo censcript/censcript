@@ -15095,7 +15095,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20261101064000 +0000" stop="20261101065500 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Picture Poland</title>
+    <title lang="id">Picture Poland (20)</title>
   </programme>
   <programme start="20261101065500 +0000" stop="20261101070000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
@@ -15170,7 +15170,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20261101121500 +0000" stop="20261101124000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Cities of Culture prem/Kultur Docs prem</title>
+    <title lang="id">Cities of Culture (51)</title>
   </programme>
   <programme start="20261101124000 +0000" stop="20261101125000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -15212,7 +15212,7 @@
     <title lang="id">Weather</title>
   </programme>
   <programme start="20261101151500 +0000" stop="20261101154000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">UNESCO: Poland&apos;s Treasures prem/Unseen Poland prem</title>
+    <title lang="id">Unseen Poland (28)</title>
   </programme>
   <programme start="20261101154000 +0000" stop="20261101154500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -15230,7 +15230,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20261101171500 +0000" stop="20261101174000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">I Choose Poland</title>
+    <title lang="id">I Choose Poland (36)</title>
   </programme>
   <programme start="20261101174000 +0000" stop="20261101175500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1970)</title>
@@ -15287,7 +15287,7 @@
     <title lang="id">World News</title>
   </programme>
   <programme start="20261101211500 +0000" stop="20261101213000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Polish Tales</title>
+    <title lang="id">Polish Tales (18)</title>
   </programme>
   <programme start="20261101213000 +0000" stop="20261101214000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -15302,7 +15302,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20261101221500 +0000" stop="20261101224000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Cities of Culture/Kultur Docs</title>
+    <title lang="id">Cities of Culture (51)</title>
   </programme>
   <programme start="20261101224000 +0000" stop="20261101224500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
@@ -15313,10 +15313,10 @@
   <programme start="20261101225500 +0000" stop="20261101230000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20261031224500 +0000" stop="20261031230300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261031224500 +0000" stop="20261031230400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20261031230300 +0000" stop="20261101001000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261031230400 +0000" stop="20261101001000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Salonowiec (9)</title>
   </programme>
   <programme start="20261101001000 +0000" stop="20261101003800 +0000" channel="TVP Info.webtv.sk">
@@ -15334,13 +15334,13 @@
   <programme start="20261101013500 +0000" stop="20261101015500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20261101015500 +0000" stop="20261101024700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101015500 +0000" stop="20261101024800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">100 pytan do... (56)</title>
   </programme>
-  <programme start="20261101024700 +0000" stop="20261101032400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101024800 +0000" stop="20261101032300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Podróze z historia V (50)</title>
   </programme>
-  <programme start="20261101032400 +0000" stop="20261101041800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101032300 +0000" stop="20261101041800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Dokument w TVP3 Bydgoszcz (1)</title>
   </programme>
   <programme start="20261101041800 +0000" stop="20261101044000 +0000" channel="TVP Info.webtv.sk">
@@ -15406,10 +15406,10 @@
   <programme start="20261101070500 +0000" stop="20261101071400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
-  <programme start="20261101071400 +0000" stop="20261101071700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101071400 +0000" stop="20261101071600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
-  <programme start="20261101071700 +0000" stop="20261101073000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101071600 +0000" stop="20261101073000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Info Poranek</title>
   </programme>
   <programme start="20261101073000 +0000" stop="20261101073500 +0000" channel="TVP Info.webtv.sk">
@@ -15460,10 +15460,10 @@
   <programme start="20261101123000 +0000" stop="20261101131500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polscy szpiedzy (17)</title>
   </programme>
-  <programme start="20261101131500 +0000" stop="20261101132400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101131500 +0000" stop="20261101132500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20261101132400 +0000" stop="20261101133000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101132500 +0000" stop="20261101133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="TVP Info.webtv.sk">
@@ -15499,13 +15499,13 @@
   <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Portfel Kowalskiego (90)</title>
   </programme>
-  <programme start="20261101180000 +0000" stop="20261101180700 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101180000 +0000" stop="20261101180800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
   </programme>
-  <programme start="20261101180700 +0000" stop="20261101182200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101180800 +0000" stop="20261101182300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Troche kultury (64)</title>
   </programme>
-  <programme start="20261101182200 +0000" stop="20261101183000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101182300 +0000" stop="20261101183000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20261101183000 +0000" stop="20261101185800 +0000" channel="TVP Info.webtv.sk">
@@ -15541,7 +15541,7 @@
   <programme start="20261101223000 +0000" stop="20261101224500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20261101224500 +0000" stop="20261101230500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261101224500 +0000" stop="20261101230300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
   <programme start="20261031220000 +0000" stop="20261031230500 +0000" channel="TVP Polonia.webtv.sk">
@@ -15563,7 +15563,7 @@
     <title lang="id">Pytanie dnia (853)</title>
   </programme>
   <programme start="20261101010000 +0000" stop="20261101010500 +0000" channel="TVP Polonia.webtv.sk">
-    <title lang="id">Oredzie na uroczystosc Wszystkich Swietych</title>
+    <title lang="id">Oredzie abpa Zbigniewa Zielinskiego na uroczystosc Wszystkich Swietych</title>
   </programme>
   <programme start="20261101010500 +0000" stop="20261101011000 +0000" channel="TVP Polonia.webtv.sk">
     <title lang="id">Sport</title>

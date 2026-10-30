@@ -11045,12 +11045,12 @@
     <desc lang="id">Matchday 11</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261030182500 +0000" stop="20261030193000 +0000">
+  <programme channel="6299" start="20261030182500 +0000" stop="20261030193800 +0000">
     <title lang="id">Practice 1 - Formula 1 Gran Premio de La Ciudad de Mexico 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Practice 1 - Formula 1 Gran Premio de La Ciudad de Mexico 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/DJ4N6jcbHQc2oHT7Imn5UBcmgWE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5412455/e204a0.jpg"/>
   </programme>
-  <programme channel="6299" start="20261030193000 +0000" stop="20261030200000 +0000">
+  <programme channel="6299" start="20261030193800 +0000" stop="20261030200000 +0000">
     <title lang="id">Episode Number 29 : Fastzone 2026</title>
     <desc lang="id">Episode Number 29</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -12077,17 +12077,17 @@
     <desc lang="id">PREVIEW - MATCHDAY 09</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261030175500 +0000" stop="20261030200300 +0000">
+  <programme channel="9182" start="20261030175500 +0000" stop="20261030195800 +0000">
     <title lang="id">Havre AC vs Paris Saint-Germain - Ligue 1</title>
     <desc lang="id">Rasakan ketegangan transisi balik cepat Le Havre hadapi penguasaan bola tim tamu!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BmBuiMUjPm3YM0aSyCmzpOpwLqI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411525/479b79.jpg"/>
   </programme>
-  <programme channel="9182" start="20261030200300 +0000" stop="20261030221000 +0000">
+  <programme channel="9182" start="20261030195800 +0000" stop="20261030220000 +0000">
     <title lang="id">LOSC Lille vs RC Lens - Ligue 1</title>
     <desc lang="id">Mampukah Lille manfaatkan keunggulan kandang redam agresi serangan balik RC Lens?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Inp9XlCNX9NlU5_76GlMiexs3ZE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411526/cbbc94.jpg"/>
   </programme>
-  <programme channel="9182" start="20261030221000 +0000" stop="20261030223000 +0000">
+  <programme channel="9182" start="20261030220000 +0000" stop="20261030223000 +0000">
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
@@ -12389,24 +12389,13 @@
     <desc lang="id">Premier League 25/26</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261030170000 +0000" stop="20261030183000 +0000">
+  <programme channel="6317" start="20261030170000 +0000" stop="20261030213200 +0000">
     <title lang="id">Kuwait Major Premier Padel 2026 - Semifinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Kuwait Major Premier Padel 2026 - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qAbiEw0GkkktWkjurJwmTMU-5zs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404475/571b02.png"/>
   </programme>
-  <programme channel="6317" start="20261030183000 +0000" stop="20261030190000 +0000">
-    <title lang="id">Leah Galton : MUTV All The Goals</title>
-    <desc lang="id">Leah Galton</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20261030190000 +0000" stop="20261030203000 +0000">
-    <title lang="id">Czech Tour - Stage 4 : UCI World Tour 2026</title>
-    <desc lang="id">Czech Tour - Stage 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
-  </programme>
-  <programme channel="6317" start="20261030203000 +0000" stop="20261030233000 +0000">
-    <title lang="id">Stage 20: La Calahorra - Collado del Alguacil : La Vuelta 2026</title>
-    <desc lang="id">Stage 20: La Calahorra - Collado del Alguacil</desc>
+  <programme channel="6317" start="20261030213200 +0000" stop="20261030233000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261030233000 +0000" stop="20261031003000 +0000">

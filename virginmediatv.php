@@ -4537,11 +4537,8 @@
 <programme start="20261030040000 +0000" stop="20261030041000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>LaLiga Highlights - Racing Santander v RCD Espanyol</title>
 </programme>
-<programme start="20261030041000 +0000" stop="20261030042500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
+<programme start="20261030041000 +0000" stop="20261030062500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>LaLiga Highlights - FC Barcelona v Real Madrid</title>
-</programme>
-<programme start="20261030042500 +0000" stop="20261030062500 +0000" channel="Premier_Sports_1_HD.virginmediatv">
-    <title>Live: Wheelchair Rugby League World Cup - Pool A: England v Wales</title>
 </programme>
 <programme start="20261030113000 +0000" stop="20261030123000 +0000" channel="Premier_Sports_1_HD.virginmediatv">
     <title>URC in 60 - Round 4</title>
