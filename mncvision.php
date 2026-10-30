@@ -1589,7 +1589,7 @@
     <title>Jendela Nusantara</title>
 </programme>
 <programme start="20261030033000 +0000" stop="20261030040000 +0000" channel="BTV.mncvision">
-    <title>Relasi</title>
+    <title>Money Lab</title>
 </programme>
 <programme start="20261030040000 +0000" stop="20261030050000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Siang</title>
@@ -1607,7 +1607,7 @@
     <title>Pecah Telur</title>
 </programme>
 <programme start="20261030073000 +0000" stop="20261030080000 +0000" channel="BTV.mncvision">
-    <title>Jendela Dunia</title>
+    <title>Berita Satu Spc. Kemendag</title>
 </programme>
 <programme start="20261030080000 +0000" stop="20261030083000 +0000" channel="BTV.mncvision">
     <title>Berita Kriminal</title>
@@ -1630,10 +1630,10 @@
 <programme start="20261030120000 +0000" stop="20261030130000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Malam</title>
 </programme>
-<programme start="20261030130000 +0000" stop="20261030140000 +0000" channel="BTV.mncvision">
+<programme start="20261030130000 +0000" stop="20261030143000 +0000" channel="BTV.mncvision">
     <title>Investor Daily Summit 2026</title>
 </programme>
-<programme start="20261030140000 +0000" stop="20261030150000 +0000" channel="BTV.mncvision">
+<programme start="20261030143000 +0000" stop="20261030150000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
 <programme start="20261030150000 +0000" stop="20261030160000 +0000" channel="BTV.mncvision">

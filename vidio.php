@@ -218,10 +218,10 @@
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261030143000 +0000" stop="20261030161200 +0000">
+  <programme channel="204" start="20261030143000 +0000" stop="20261030160000 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya, seorang dosen sukses, menghadapi kehancuran rumah tangga akibat perselingkuhan suaminya, Pram, dengan Citra, mahasiswi yang ia tolong. Di tengah pengkhianatan dan konflik perebutan hak asuh anak, Nadya menemukan dukungan dari Aris, sosok dari masa lalunya yang diam-diam mencintainya. Namun, rahasia dan berbagai rintangan menguji perjuangan mereka untuk menemukan kebahagiaan.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/oVtK6pkM_XIRL2KDODrPFG1fpkU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404296/2d3479.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1w_tDfa3XOGT3mvyTVFUFJq7q0c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5412447/f14b8f.jpg"/>
   </programme>
   <programme channel="204" start="20261030161200 +0000" stop="20261030173000 +0000">
     <title lang="id">FTV Primetime: Biarkan Semesta Bekerja Aku Dan Kamu Love- Lovean Aja</title>
@@ -241,7 +241,7 @@
   <programme channel="204" start="20261030190500 +0000" stop="20261030201200 +0000">
     <title lang="id">Drama Turki: Arafta : Terbelenggu Takdir Arafta:</title>
     <desc lang="id">Bahwa sebuah misi balas dendam tidak pernah berjalan sesederhana yang direncanakan. Serial ini bukan sekadar romansa biasa, melainkan sebuah studi karakter tentang seorang pria yang harus memilih antara menghancurkan musuhnya atau menyelamatkan hatinya sendiri.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/uc94_f7yg6_5CVwjAmrphcTHhrc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399866/0bf95c.jpg"/>
   </programme>
   <programme channel="204" start="20261030201200 +0000" stop="20261030210000 +0000">
     <title lang="id">Sinema Dini Hari: Tunggu Aku Di Yogya</title>
@@ -268,12 +268,12 @@
   <programme channel="204" start="20261031000000 +0000" stop="20261031030000 +0000">
     <title lang="id">Cinta Suci</title>
     <desc lang="id">Cinta Suci mengisahkan perjuangan Suci (Irish Bella), seorang wanita yang terpaksa menikahi pria kaya bernama Marcel (Ammar Zoni) demi membiayai pengobatan Aditya (Jonas Rivanno), suami pertamanya yang kritis. Pengorbanan tersebut membawa Suci ke dalam dinamika pernikahan baru penuh konflik, rahasia dan cinta.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/6UaivKfwMeXNmWvI6bOsweo6I_0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/10869/98c3aa.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/ySmwjUXbDLYHdHJ0Oubf1bxG1IE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399797/25ec4a.jpg"/>
   </programme>
   <programme channel="204" start="20261031030000 +0000" stop="20261031050000 +0000">
-    <title lang="id">FTV Pagi</title>
+    <title lang="id">SCTV FTV Pagi - Isi Bensin Sampe Full, Mba Asdos So Beautiful</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v275FIZT57I80zDbY_7zhX11e1s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399877/7fc2b3.jpg"/>
   </programme>
   <programme channel="204" start="20261031050000 +0000" stop="20261031053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -282,7 +282,7 @@
   <programme channel="204" start="20261031053000 +0000" stop="20261031100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/J_tVv4NwKDzL6bjI_AXBfTCyP1E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399817/90ccf5.jpg"/>
   </programme>
   <programme channel="204" start="20261031100000 +0000" stop="20261031111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -301,7 +301,8 @@
   </programme>
   <programme channel="204" start="20261031143000 +0000" stop="20261031160000 +0000">
     <title lang="id">Kesetiaan</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
+    <desc lang="id">Nadya, seorang dosen sukses, menghadapi kehancuran rumah tangga akibat perselingkuhan suaminya, Pram, dengan Citra, mahasiswi yang ia tolong. Di tengah pengkhianatan dan konflik perebutan hak asuh anak, Nadya menemukan dukungan dari Aris, sosok dari masa lalunya yang diam-diam mencintainya. Namun, rahasia dan berbagai rintangan menguji perjuangan mereka untuk menemukan kebahagiaan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Xz2Lc1PtTIiAxDEwMoSEkBpOt2c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404297/f5bc2a.jpg"/>
   </programme>
   <programme channel="204" start="20261031160000 +0000" stop="20261031173000 +0000">
     <title lang="id">FTV Primetime: Si Paling Renang Pantas Banyak Gaya</title>
@@ -351,12 +352,12 @@
   <programme channel="204" start="20261101000000 +0000" stop="20261101030000 +0000">
     <title lang="id">Cinta Suci</title>
     <desc lang="id">Cinta Suci mengisahkan perjuangan Suci (Irish Bella), seorang wanita yang terpaksa menikahi pria kaya bernama Marcel (Ammar Zoni) demi membiayai pengobatan Aditya (Jonas Rivanno), suami pertamanya yang kritis. Pengorbanan tersebut membawa Suci ke dalam dinamika pernikahan baru penuh konflik, rahasia dan cinta.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/6UaivKfwMeXNmWvI6bOsweo6I_0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/10869/98c3aa.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/rQ491znG1Fv6rZV7UF2LtqoxYEw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399798/fbf0f4.jpg"/>
   </programme>
   <programme channel="204" start="20261101030000 +0000" stop="20261101050000 +0000">
     <title lang="id">FTV Pagi</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/OchUlnwUVmR8uePanJERVKbX5pU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399878/f0a9e6.jpg"/>
   </programme>
   <programme channel="204" start="20261101050000 +0000" stop="20261101053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -365,12 +366,12 @@
   <programme channel="204" start="20261101053000 +0000" stop="20261101061500 +0000">
     <title lang="id">FTV Siang Spesial: Pangeran Yang Menyamar</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/6OMLXUSIbW21gSd0_hjSOtE_85Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399884/c61239.jpg"/>
   </programme>
   <programme channel="204" start="20261101061500 +0000" stop="20261101100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/lP8qHqo-zIMCa3cebh_wPcFQoLM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5399819/2437a0.jpg"/>
   </programme>
   <programme channel="204" start="20261101100000 +0000" stop="20261101111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -389,7 +390,7 @@
   </programme>
   <programme channel="204" start="20261101143000 +0000" stop="20261101163000 +0000">
     <title lang="id">Kesetiaan</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/qRVMZ4aShaFr84CfFKa80s4FUGE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404298/828b4c.jpg"/>
   </programme>
   <programme channel="204" start="20261101163000 +0000" stop="20261101183000 +0000">
     <title lang="id">Liverpool Vs Arsenal - Premier League - Live</title>
@@ -713,7 +714,7 @@
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261030060000 +0000" stop="20261030080000 +0000">
+  <programme channel="206" start="20261030053000 +0000" stop="20261030080000 +0000">
     <title lang="id">Semifinal Putri: STIES MIKAR vs USAKTI - Liga Voli Mahasiswa</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal Putri: STIES MIKAR BEKASI vs USAKTI - Liga Voli Mahasiswa. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/i70zX0k7i_jtyfYC18Sr-AgtCVk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411451/68a681.jpg"/>
@@ -1082,8 +1083,580 @@
     <title lang="id">FTV : KUPINANG KAU DENGAN SURAT TILANG</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
-  <programme channel="734" start="20261031181500 +0000" stop="20261031191500 +0000">
-    <title lang="id">MOTOGP SPRINT RACE 2026</title>
+  <programme channel="734" start="20261031190000 +0000" stop="20261031193000 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261031193000 +0000" stop="20261031201500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/DSCHHhIPPneTBv9Lw91fR34g-n8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/109/2eb84d.png"/>
+  </programme>
+  <programme channel="734" start="20261031201500 +0000" stop="20261031210000 +0000">
+    <title lang="id">LOL Comediha!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261031210000 +0000" stop="20261031214500 +0000">
+    <title lang="id">Apa Kata Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261031214500 +0000" stop="20261031223000 +0000">
+    <title lang="id">Jalur Langit</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261031223000 +0000" stop="20261031233000 +0000">
+    <title lang="id">Redaksi Pagi Akhir Pekan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261031233000 +0000" stop="20261101003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/c4XIYk6pHeR7LxIfxiCXPrw9bGU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380598/b22b21.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101003000 +0000" stop="20261101013000 +0000">
+    <title lang="id">Selebrita Pagi ON The Weekend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101013000 +0000" stop="20261101021500 +0000">
+    <title lang="id">Bikin Seneng</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/9NVJwE9YnXW3xFSJgkVHBVACAxo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392754/a90467.png"/>
+  </programme>
+  <programme channel="734" start="20261101021500 +0000" stop="20261101031500 +0000">
+    <title lang="id">Heits Abis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101031500 +0000" stop="20261101040000 +0000">
+    <title lang="id">Enaknya Mantul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101040000 +0000" stop="20261101050000 +0000">
+    <title lang="id">MOTO3 2026 MALAYSIA GP</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101050000 +0000" stop="20261101054500 +0000">
+    <title lang="id">Jejak Petualangan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101054500 +0000" stop="20261101064500 +0000">
+    <title lang="id">The Explorer</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101064500 +0000" stop="20261101080000 +0000">
+    <title lang="id">MOTOGP 2026 MALAYSIA GP</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101080000 +0000" stop="20261101090000 +0000">
+    <title lang="id">Redaksi Pagi Akhir Pekan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101090000 +0000" stop="20261101100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101100000 +0000" stop="20261101110000 +0000">
+    <title lang="id">Selebrita On The Weekend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101110000 +0000" stop="20261101113000 +0000">
+    <title lang="id">Legenda Bertuah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101113000 +0000" stop="20261101121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101121500 +0000" stop="20261101130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/091MgdmRGzAL3bSghlchRq0APvM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392026/99cc1c.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101130000 +0000" stop="20261101143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101143000 +0000" stop="20261101154500 +0000">
+    <title lang="id">BTS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/frC5Y00s3xbaTNIvoLZUVyOmzlk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/1341/85078a.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101154500 +0000" stop="20261101163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101163000 +0000" stop="20261101174500 +0000">
+    <title lang="id">Theater : Belok Kanan Barcelona</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101163000 +0000" stop="20261101174500 +0000">
+    <title lang="id">Theater : Belok Kanan Barcelona</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101174500 +0000" stop="20261101184500 +0000">
+    <title lang="id">MOTO2 Malaysia GP</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101184500 +0000" stop="20261101193000 +0000">
+    <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101193000 +0000" stop="20261101201500 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101201500 +0000" stop="20261101210000 +0000">
+    <title lang="id">Lol Comediha!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101210000 +0000" stop="20261101214500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101214500 +0000" stop="20261101223000 +0000">
+    <title lang="id">Kisah Nyata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101223000 +0000" stop="20261101233000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261101233000 +0000" stop="20261102003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/c4XIYk6pHeR7LxIfxiCXPrw9bGU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380598/b22b21.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102003000 +0000" stop="20261102013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102013000 +0000" stop="20261102023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/fpJtxEn3usUhtkKrBW7lSuuNqgE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392027/8e0fd8.png"/>
+  </programme>
+  <programme channel="734" start="20261102023000 +0000" stop="20261102031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102031500 +0000" stop="20261102041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102041500 +0000" stop="20261102050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102050000 +0000" stop="20261102054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102054500 +0000" stop="20261102063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/frmYiRNKxHSenIbTEllTEhTRa7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2608/16c86b.png"/>
+  </programme>
+  <programme channel="734" start="20261102063000 +0000" stop="20261102071500 +0000">
+    <title lang="id">Indonesiaku</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102071500 +0000" stop="20261102074500 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102074500 +0000" stop="20261102081500 +0000">
+    <title lang="id">Spotlite Anti Kudet</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102081500 +0000" stop="20261102090000 +0000">
+    <title lang="id">Rejeki Keliling</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102090000 +0000" stop="20261102100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102100000 +0000" stop="20261102110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102110000 +0000" stop="20261102114500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/DSCHHhIPPneTBv9Lw91fR34g-n8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/109/2eb84d.png"/>
+  </programme>
+  <programme channel="734" start="20261102114500 +0000" stop="20261102121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102121500 +0000" stop="20261102130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/091MgdmRGzAL3bSghlchRq0APvM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392026/99cc1c.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102130000 +0000" stop="20261102143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102143000 +0000" stop="20261102154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102154500 +0000" stop="20261102163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102163000 +0000" stop="20261102171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102163000 +0000" stop="20261102171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102171500 +0000" stop="20261102174500 +0000">
+    <title lang="id">Redaksi Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102174500 +0000" stop="20261102183000 +0000">
+    <title lang="id">Sport 7</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102183000 +0000" stop="20261102193000 +0000">
+    <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102193000 +0000" stop="20261102201500 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102201500 +0000" stop="20261102210000 +0000">
+    <title lang="id">Lol Comediha!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102210000 +0000" stop="20261102214500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102214500 +0000" stop="20261102223000 +0000">
+    <title lang="id">Kisah Nyata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102223000 +0000" stop="20261102233000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261102233000 +0000" stop="20261103003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/c4XIYk6pHeR7LxIfxiCXPrw9bGU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380598/b22b21.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103003000 +0000" stop="20261103013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103013000 +0000" stop="20261103023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/fpJtxEn3usUhtkKrBW7lSuuNqgE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392027/8e0fd8.png"/>
+  </programme>
+  <programme channel="734" start="20261103023000 +0000" stop="20261103031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103031500 +0000" stop="20261103041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103041500 +0000" stop="20261103050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103050000 +0000" stop="20261103054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103054500 +0000" stop="20261103063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/frmYiRNKxHSenIbTEllTEhTRa7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2608/16c86b.png"/>
+  </programme>
+  <programme channel="734" start="20261103063000 +0000" stop="20261103071500 +0000">
+    <title lang="id">Indonesiaku</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103071500 +0000" stop="20261103074500 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103074500 +0000" stop="20261103081500 +0000">
+    <title lang="id">Spotlite Anti Kudet</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103081500 +0000" stop="20261103090000 +0000">
+    <title lang="id">Rejeki Keliling</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103090000 +0000" stop="20261103100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103100000 +0000" stop="20261103110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103110000 +0000" stop="20261103114500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/DSCHHhIPPneTBv9Lw91fR34g-n8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/109/2eb84d.png"/>
+  </programme>
+  <programme channel="734" start="20261103114500 +0000" stop="20261103121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103121500 +0000" stop="20261103130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/091MgdmRGzAL3bSghlchRq0APvM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392026/99cc1c.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103130000 +0000" stop="20261103143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103143000 +0000" stop="20261103154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103154500 +0000" stop="20261103163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103163000 +0000" stop="20261103171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103163000 +0000" stop="20261103171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103171500 +0000" stop="20261103174500 +0000">
+    <title lang="id">Redaksi Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103174500 +0000" stop="20261103183000 +0000">
+    <title lang="id">Sport 7</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103183000 +0000" stop="20261103193000 +0000">
+    <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103193000 +0000" stop="20261103201500 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103201500 +0000" stop="20261103210000 +0000">
+    <title lang="id">Lol Comediha!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103210000 +0000" stop="20261103214500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103214500 +0000" stop="20261103223000 +0000">
+    <title lang="id">Kisah Nyata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103223000 +0000" stop="20261103233000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261103233000 +0000" stop="20261104003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/c4XIYk6pHeR7LxIfxiCXPrw9bGU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380598/b22b21.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104003000 +0000" stop="20261104013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104013000 +0000" stop="20261104023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/fpJtxEn3usUhtkKrBW7lSuuNqgE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392027/8e0fd8.png"/>
+  </programme>
+  <programme channel="734" start="20261104023000 +0000" stop="20261104031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104031500 +0000" stop="20261104041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104041500 +0000" stop="20261104050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104050000 +0000" stop="20261104054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104054500 +0000" stop="20261104063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/frmYiRNKxHSenIbTEllTEhTRa7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2608/16c86b.png"/>
+  </programme>
+  <programme channel="734" start="20261104063000 +0000" stop="20261104071500 +0000">
+    <title lang="id">KEPO</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104071500 +0000" stop="20261104074500 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104074500 +0000" stop="20261104081500 +0000">
+    <title lang="id">Spotlite Anti Kudet</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104081500 +0000" stop="20261104090000 +0000">
+    <title lang="id">Rejeki Keliling</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104090000 +0000" stop="20261104100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104100000 +0000" stop="20261104110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104110000 +0000" stop="20261104114500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/DSCHHhIPPneTBv9Lw91fR34g-n8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/109/2eb84d.png"/>
+  </programme>
+  <programme channel="734" start="20261104114500 +0000" stop="20261104121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104121500 +0000" stop="20261104130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/091MgdmRGzAL3bSghlchRq0APvM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392026/99cc1c.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104130000 +0000" stop="20261104143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104143000 +0000" stop="20261104154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104154500 +0000" stop="20261104163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104163000 +0000" stop="20261104171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104163000 +0000" stop="20261104171500 +0000">
+    <title lang="id">Misteri Dunia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104171500 +0000" stop="20261104174500 +0000">
+    <title lang="id">Redaksi Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104174500 +0000" stop="20261104183000 +0000">
+    <title lang="id">Sport 7</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104183000 +0000" stop="20261104193000 +0000">
+    <title lang="id">Best Fishing</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104193000 +0000" stop="20261104201500 +0000">
+    <title lang="id">Dracin</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104201500 +0000" stop="20261104210000 +0000">
+    <title lang="id">Lol Comediha!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104210000 +0000" stop="20261104214500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104214500 +0000" stop="20261104223000 +0000">
+    <title lang="id">Kisah Nyata</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104223000 +0000" stop="20261104233000 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261104233000 +0000" stop="20261105003000 +0000">
+    <title lang="id">Spotlite</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/c4XIYk6pHeR7LxIfxiCXPrw9bGU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/380598/b22b21.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105003000 +0000" stop="20261105013000 +0000">
+    <title lang="id">Selebrita Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105013000 +0000" stop="20261105023000 +0000">
+    <title lang="id">FYP (For Your Pagi)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/fpJtxEn3usUhtkKrBW7lSuuNqgE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392027/8e0fd8.png"/>
+  </programme>
+  <programme channel="734" start="20261105023000 +0000" stop="20261105031500 +0000">
+    <title lang="id">Selebrita Heits</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105031500 +0000" stop="20261105041500 +0000">
+    <title lang="id">Big Bang!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105041500 +0000" stop="20261105050000 +0000">
+    <title lang="id">Enah Bikin Enak</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105050000 +0000" stop="20261105054500 +0000">
+    <title lang="id">Jejak Si Gundul</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105054500 +0000" stop="20261105063000 +0000">
+    <title lang="id">Bocah Petualang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/frmYiRNKxHSenIbTEllTEhTRa7I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/2608/16c86b.png"/>
+  </programme>
+  <programme channel="734" start="20261105063000 +0000" stop="20261105071500 +0000">
+    <title lang="id">KEPO</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105071500 +0000" stop="20261105074500 +0000">
+    <title lang="id">Redaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105074500 +0000" stop="20261105081500 +0000">
+    <title lang="id">Spotlite Anti Kudet</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105081500 +0000" stop="20261105090000 +0000">
+    <title lang="id">Bisik-Bisik Warga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105090000 +0000" stop="20261105100000 +0000">
+    <title lang="id">Makan Receh</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105100000 +0000" stop="20261105110000 +0000">
+    <title lang="id">Selebrita Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105110000 +0000" stop="20261105114500 +0000">
+    <title lang="id">On The Spot</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/DSCHHhIPPneTBv9Lw91fR34g-n8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/109/2eb84d.png"/>
+  </programme>
+  <programme channel="734" start="20261105114500 +0000" stop="20261105121500 +0000">
+    <title lang="id">Secret Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105121500 +0000" stop="20261105130000 +0000">
+    <title lang="id">POV (Pasti Obrolan Viral)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/091MgdmRGzAL3bSghlchRq0APvM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/392026/99cc1c.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105130000 +0000" stop="20261105143000 +0000">
+    <title lang="id">Arisan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105143000 +0000" stop="20261105154500 +0000">
+    <title lang="id">Lapor Pak!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105154500 +0000" stop="20261105163000 +0000">
+    <title lang="id">The Police</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
+  </programme>
+  <programme channel="734" start="20261105163000 +0000" stop="20261105171500 +0000">
+    <title lang="id">Misteri Dunia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="733" start="20261029150000 +0000" stop="20261029170000 +0000">
@@ -1298,6 +1871,258 @@
     <title lang="id">Bioskop Trans TV</title>
     <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
   </programme>
+  <programme channel="733" start="20261101171500 +0000" stop="20261101220000 +0000">
+    <title lang="id">CNN Tech News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261101220000 +0000" stop="20261101233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261101233000 +0000" stop="20261102003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102003000 +0000" stop="20261102013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102013000 +0000" stop="20261102033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102033000 +0000" stop="20261102053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102053000 +0000" stop="20261102070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102070000 +0000" stop="20261102080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102080000 +0000" stop="20261102090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102090000 +0000" stop="20261102093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102093000 +0000" stop="20261102103000 +0000">
+    <title lang="id">Dream Box Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/kES-QiHiRSaMiP9sXypmmvTEJGQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/372505/a4f6b1.png"/>
+  </programme>
+  <programme channel="733" start="20261102103000 +0000" stop="20261102114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261102114500 +0000" stop="20261102130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261102130000 +0000" stop="20261102150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261102150000 +0000" stop="20261102170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261102150000 +0000" stop="20261102170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261102170000 +0000" stop="20261102220000 +0000">
+    <title lang="id">CNN Indonesia Connected</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261102220000 +0000" stop="20261102233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261102233000 +0000" stop="20261103003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103003000 +0000" stop="20261103013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103013000 +0000" stop="20261103033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103033000 +0000" stop="20261103053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103053000 +0000" stop="20261103070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103070000 +0000" stop="20261103080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103080000 +0000" stop="20261103090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103090000 +0000" stop="20261103093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103093000 +0000" stop="20261103103000 +0000">
+    <title lang="id">Dream Box Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/kES-QiHiRSaMiP9sXypmmvTEJGQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/372505/a4f6b1.png"/>
+  </programme>
+  <programme channel="733" start="20261103103000 +0000" stop="20261103114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261103114500 +0000" stop="20261103130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261103130000 +0000" stop="20261103150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261103150000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261103150000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261103170000 +0000" stop="20261103220000 +0000">
+    <title lang="id">CNN Indonesia Connected</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261103220000 +0000" stop="20261103233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261103233000 +0000" stop="20261104003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104003000 +0000" stop="20261104013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104013000 +0000" stop="20261104033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104033000 +0000" stop="20261104053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104053000 +0000" stop="20261104070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104070000 +0000" stop="20261104080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104080000 +0000" stop="20261104090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104090000 +0000" stop="20261104093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104093000 +0000" stop="20261104103000 +0000">
+    <title lang="id">Dream Box Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/kES-QiHiRSaMiP9sXypmmvTEJGQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/372505/a4f6b1.png"/>
+  </programme>
+  <programme channel="733" start="20261104103000 +0000" stop="20261104114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261104114500 +0000" stop="20261104130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261104130000 +0000" stop="20261104150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261104150000 +0000" stop="20261104170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261104150000 +0000" stop="20261104170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261104170000 +0000" stop="20261104220000 +0000">
+    <title lang="id">CNN Indonesia Connected</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261104220000 +0000" stop="20261104233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261104233000 +0000" stop="20261105003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105003000 +0000" stop="20261105013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105013000 +0000" stop="20261105033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105033000 +0000" stop="20261105053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105053000 +0000" stop="20261105070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105070000 +0000" stop="20261105080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105080000 +0000" stop="20261105090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105090000 +0000" stop="20261105093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261105093000 +0000" stop="20261105103000 +0000">
+    <title lang="id">Dream Box Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/kES-QiHiRSaMiP9sXypmmvTEJGQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/372505/a4f6b1.png"/>
+  </programme>
+  <programme channel="733" start="20261105103000 +0000" stop="20261105114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261105114500 +0000" stop="20261105130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261105130000 +0000" stop="20261105150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261105150000 +0000" stop="20261105170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
   <programme channel="783" start="20261029163000 +0000" stop="20261029180000 +0000">
     <title lang="id">Kabar Petang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
@@ -1433,17 +2258,17 @@
     <desc lang="id">Hati Ke Hati Bersama Mamah Dedeh</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261029230000 +0000" stop="20261030010000 +0000">
+  <programme channel="782" start="20261029230100 +0000" stop="20261030005700 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261030010000 +0000" stop="20261030023000 +0000">
+  <programme channel="782" start="20261030005700 +0000" stop="20261030024300 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/m1OMkWdFdXj-EVC6A74_XQ86PEg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5398672/46f979.jpg"/>
   </programme>
-  <programme channel="782" start="20261030023000 +0000" stop="20261030060000 +0000">
+  <programme channel="782" start="20261030024300 +0000" stop="20261030060000 +0000">
     <title lang="id">Mega Bollywood : Robinhood</title>
     <desc lang="id">Mega Bollywood : Robinhood</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NplCr7H8G85LMnf5mGYOyFbdksg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5398741/9566be.jpg"/>
@@ -3417,8 +4242,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20261030033000 +0000" stop="20261030040000 +0000">
-    <title lang="id">Relasi</title>
-    <desc lang="id">Program Relasi Adalah Program Dialog Yang Menghadirkan Kepala Daerah Untuk Membahas Isu Strategis, Kebijakan Publik Dan Pembangunan Daerah</desc>
+    <title lang="id">Money Lab</title>
+    <desc lang="id">Program dialog yang hadir sebagai ruang belajar seputar investasi. ekonomi dan bisnis khususnya bagi generasi muda</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20261030040000 +0000" stop="20261030050000 +0000">
@@ -3447,8 +4272,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20261030073000 +0000" stop="20261030080000 +0000">
-    <title lang="id">Jendela Dunia</title>
-    <desc lang="id">Program Informasi Yang Menyajikan Berbagai Hal Menarik Dari Seluruh Penjuru Dunia</desc>
+    <title lang="id">Berita Satu Spesial Kemendag</title>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
   <programme channel="6165" start="20261030080000 +0000" stop="20261030083000 +0000">
@@ -3486,12 +4310,12 @@
     <desc lang="id">Program Berita Di Malam Hari Yang Akan Menyajikan Berita Ter-Update Dan Terkini Di Setiap Malamnya Dan Dikemas Secara Menarik</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
-  <programme channel="6165" start="20261030130000 +0000" stop="20261030140000 +0000">
+  <programme channel="6165" start="20261030130000 +0000" stop="20261030143000 +0000">
     <title lang="id">Investor Daily Summit 2026</title>
     <desc lang="id">Program Diskusi Yang Membahas Isu-Isu Terkait Ekonomi Global Yang Merupakan Rangkaian Dari Kegiatan Investor Daily Summit</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
   </programme>
-  <programme channel="6165" start="20261030140000 +0000" stop="20261030150000 +0000">
+  <programme channel="6165" start="20261030143000 +0000" stop="20261030150000 +0000">
     <title lang="id">Berita Satu Utama</title>
     <desc lang="id">Program Berita Yang Akan Menyajikan Berita Ter-Update Dan Terkini Di Setiap Malamnya Dan Dikemas Secara Menarik</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/PO4xKFzPV8JPdB9s8f7WyGusOP8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/btv-bd893c.jpg"/>
@@ -8617,7 +9441,7 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261030200000 +0000" stop="20261030220000 +0000">
+  <programme channel="6685" start="20261030195500 +0000" stop="20261030220000 +0000">
     <title lang="id">Sheffield United vs Wrexham - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Sheffield United vs Wrexham - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WcRJd34RSG3cO5c4ZK8FsMsqp0k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404660/a90546.jpg"/>
@@ -8885,20 +9709,20 @@
     <desc lang="id">SHOW - MATCHDAY 09</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261030173000 +0000" stop="20261030175000 +0000">
+  <programme channel="9182" start="20261030173000 +0000" stop="20261030175500 +0000">
     <title lang="id">Preview - Matchday 09 : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">PREVIEW - MATCHDAY 09</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261030175000 +0000" stop="20261030200000 +0000">
-    <title lang="id">Le Havre vs Psg : Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">LE HAVRE vs PSG</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  <programme channel="9182" start="20261030175500 +0000" stop="20261030200300 +0000">
+    <title lang="id">Havre AC vs Paris Saint-Germain - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru Havre AC vs Paris Saint-Germain - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/BmBuiMUjPm3YM0aSyCmzpOpwLqI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411525/479b79.jpg"/>
   </programme>
-  <programme channel="9182" start="20261030200000 +0000" stop="20261030221000 +0000">
-    <title lang="id">Lille vs Lens : Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">LILLE vs LENS</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  <programme channel="9182" start="20261030200300 +0000" stop="20261030221000 +0000">
+    <title lang="id">LOSC Lille vs RC Lens - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru LOSC Lille vs RC Lens - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Inp9XlCNX9NlU5_76GlMiexs3ZE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411526/cbbc94.jpg"/>
   </programme>
   <programme channel="9182" start="20261030221000 +0000" stop="20261030223000 +0000">
     <title lang="id">Filler Ligue 1</title>
@@ -8957,6 +9781,10 @@
   <programme channel="9182" start="20261031113000 +0000" stop="20261031120000 +0000">
     <title lang="id">Show 08 - Matchweek 09 : PL Preview 2026/27</title>
     <desc lang="id">SHOW 08 - MATCHWEEK 09</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261031120000 +0000" stop="20261031143000 +0000">
+    <title lang="id">Chelsea vs Man Utd - Premier League</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
   <programme channel="9182" start="20261031143000 +0000" stop="20261031170000 +0000">
@@ -9255,9 +10083,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261031130000 +0000" stop="20261031143000 +0000">
-    <title lang="id">Kuwait Major Day 7 Final - Women : Premier Padel 2026</title>
-    <desc lang="id">Kuwait Major Day 7 Final - Women</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Kuwait Major Premier Padel 2026 - Finals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Kuwait Major Premier Padel 2026 - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/AVOa1IsY8uCyPh46Mx3FWNpNuAk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411532/e45d80.png"/>
   </programme>
   <programme channel="6317" start="20261031143000 +0000" stop="20261031145500 +0000">
     <title lang="id">Lifeblood Short: Reds In Europe : MUTV: Specials</title>
@@ -9872,12 +10700,12 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261030000500 +0000" stop="20261030034500 +0000">
+  <programme channel="6786" start="20261030000500 +0000" stop="20261030032700 +0000">
     <title lang="id">Carolina Panthers vs Green Bay Packers - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Carolina Panthers vs Green Bay Packers - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/sVf0u35bNwWpE7vVmTScckYPmA0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403435/75049d.jpg"/>
   </programme>
-  <programme channel="6786" start="20261030034500 +0000" stop="20261030043000 +0000">
+  <programme channel="6786" start="20261030032700 +0000" stop="20261030043000 +0000">
     <title lang="id">[LIVE] WTA 500</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
@@ -9901,17 +10729,12 @@
     <desc lang="id">Inside - Round 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261030080000 +0000" stop="20261030100000 +0000">
+  <programme channel="6786" start="20261030080000 +0000" stop="20261030104000 +0000">
     <title lang="id">Alexandra Eala vs Diana Shnaider - Quarter Final | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Quarterfinal - WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/RKKrvLgVlIJ71MlNZZ2q-vav9cc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5403436/c3dac5.png"/>
   </programme>
-  <programme channel="6786" start="20261030100000 +0000" stop="20261030103000 +0000">
-    <title lang="id">Eps 12 : Sport Woman</title>
-    <desc lang="id">Eps 12</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20261030103000 +0000" stop="20261030123000 +0000">
+  <programme channel="6786" start="20261030104000 +0000" stop="20261030123000 +0000">
     <title lang="id">MONZA vs NAPOLI : Serie A 2026/27</title>
     <desc lang="id">MONZA vs NAPOLI</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -9991,32 +10814,36 @@
     <desc lang="id">Full Impact - Round 9</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261031133000 +0000" stop="20261031140000 +0000">
-    <title lang="id">Inside - Round 10 : Serie A 2026/27 - Preview</title>
-    <desc lang="id">Inside - Round 10</desc>
+  <programme channel="6786" start="20261031133000 +0000" stop="20261031134500 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261031140000 +0000" stop="20261031160000 +0000">
+  <programme channel="6786" start="20261031134500 +0000" stop="20261031160000 +0000">
     <title lang="id">Bologna vs Monza - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Bologna vs Monza - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GPRiBWLzPtwo69FClwzK3n97bkA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411045/f19853.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261031160000 +0000" stop="20261031163000 +0000">
+    <title lang="id">Inside - Round 10 : Serie A 2026/27 - Preview</title>
+    <desc lang="id">Inside - Round 10</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261031163000 +0000" stop="20261031164500 +0000">
     <title lang="id">6 : Made in Italy</title>
     <desc lang="id">6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261031164500 +0000" stop="20261031183000 +0000">
+  <programme channel="6786" start="20261031164500 +0000" stop="20261031190500 +0000">
     <title lang="id">Udinese vs Roma - Serie A</title>
     <desc lang="id">Sanggupkah I Bianconeri meredam kebangkitan Serigala Ibu Kota di markas sendiri?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kz73_vqP3t-B8MnFWzZmjyvH45g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404825/4cabe2.jpg"/>
   </programme>
-  <programme channel="6786" start="20261031164500 +0000" stop="20261031183000 +0000">
+  <programme channel="6786" start="20261031164500 +0000" stop="20261031190500 +0000">
     <title lang="id">Udinese vs Roma - Serie A</title>
     <desc lang="id">Sanggupkah I Bianconeri meredam kebangkitan Serigala Ibu Kota di markas sendiri?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kz73_vqP3t-B8MnFWzZmjyvH45g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404825/4cabe2.jpg"/>
   </programme>
-  <programme channel="6786" start="20261031194500 +0000" stop="20261031214500 +0000">
+  <programme channel="6786" start="20261031193000 +0000" stop="20261031215000 +0000">
     <title lang="id">Milan vs Inter - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Milan vs Inter - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/AKTUzHcPVtYhgFNxRt2h94aNA64=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411046/2de94c.jpg"/>
@@ -10101,17 +10928,12 @@
     <desc lang="id">LECCE vs GENOA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="17875" start="20261029110000 +0000" stop="20261029183000 +0000">
+  <programme channel="17875" start="20261029110000 +0000" stop="20261029200300 +0000">
     <title lang="id">Kuwait Major Premier Padel 2026 - Quarterfinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Kuwait Major Premier Padel 2026 - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/pu8quURjV6bqXaeScu87rzfJorU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404097/278f46.png"/>
   </programme>
-  <programme channel="17875" start="20261029183000 +0000" stop="20261029200000 +0000">
-    <title lang="id">Pretoria P1 Day 3 Match 2 : Premier Padel 2026</title>
-    <desc lang="id">Pretoria P1 Day 3 Match 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261029200000 +0000" stop="20261029210500 +0000">
+  <programme channel="17875" start="20261029200300 +0000" stop="20261029210500 +0000">
     <title lang="id">Pretoria P1 Day 2 Match 5 : Premier Padel 2026</title>
     <desc lang="id">Pretoria P1 Day 2 Match 5</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -11094,15 +11916,14 @@
     <desc lang="id">EPS 11</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261030170000 +0000" stop="20261030190000 +0000">
-    <title lang="id">Marseille vs Le Havre : Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">Marseille vs Le Havre</desc>
+  <programme channel="9183" start="20261030170000 +0000" stop="20261030175000 +0000">
+    <title lang="id">FIller</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261030190000 +0000" stop="20261030200000 +0000">
-    <title lang="id">Matchweek 08 : Generation Xg 2026/27</title>
-    <desc lang="id">MATCHWEEK 08</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  <programme channel="9183" start="20261030175000 +0000" stop="20261030200000 +0000">
+    <title lang="id">OGC Nice vs Stade Rennais FC - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru OGC Nice vs Stade Rennais FC - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/CROKsxiERtOq2cvPLQv1IR9ZIrA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411527/617fd7.jpg"/>
   </programme>
   <programme channel="9183" start="20261030200000 +0000" stop="20261030220000 +0000">
     <title lang="id">Ipswich Town vs Nottingham Forest : Premier League 2026/27</title>
@@ -12726,22 +13547,22 @@
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261030005500 +0000" stop="20261030015000 +0000">
+  <programme channel="17140" start="20261030005500 +0000" stop="20261030014700 +0000">
     <title lang="id">Moto3 Free Practice 1: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Free Practice 1: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/hKjYncXM04sQ_iXsb0UGyMjk86U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404100/2a8604.png"/>
   </programme>
-  <programme channel="17140" start="20261030015000 +0000" stop="20261030023500 +0000">
+  <programme channel="17140" start="20261030014700 +0000" stop="20261030023600 +0000">
     <title lang="id">Moto2 Free Practice 1: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Free Practice 1: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vfLtxkXUj6nhcwVHk3XYEJdQKnQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404102/67f9b4.png"/>
   </programme>
-  <programme channel="17140" start="20261030023500 +0000" stop="20261030034500 +0000">
+  <programme channel="17140" start="20261030023600 +0000" stop="20261030034800 +0000">
     <title lang="id">MotoGP Free Practice 1: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Free Practice 1: PETRONAS Grand Prix of Malaysia - MotoGP 2026 Round 19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/e6swY0HsKQgys-7aqEr97kYxi6A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404101/0b05ab.png"/>
   </programme>
-  <programme channel="17140" start="20261030034500 +0000" stop="20261030041500 +0000">
+  <programme channel="17140" start="20261030034800 +0000" stop="20261030041500 +0000">
     <title lang="id">Ep 8 : MotoGP Inside Ducati Lenovo Team</title>
     <desc lang="id">INSIDE S2 returns, following the Ducati Lenovo Team through the 2026 MotoGP season with Marc Marquez and Francesco Bagnaia, capturing global races, emotion, unseen moments, and the people behind every result.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -13953,7 +14774,7 @@
   <programme channel="8121" start="20261101125500 +0000" stop="20261101145000 +0000">
     <title lang="id">Ghost Rider</title>
     <desc lang="id">Based on the Marvel Comics character, stunt motorcyclist Johnny Blaze gives up his soul to become a hell-blazing vigilante, to fight against power-hungry Blackheart, the son of the devil himself.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/oAPRNCCItb9chPxHY8pd0yBgCEg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/nzIAD2PhmnttR4Q1_LbaDPVF4IA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411095/4073f1.jpg"/>
   </programme>
   <programme channel="8121" start="20261101145000 +0000" stop="20261101164000 +0000">
     <title lang="id">U-571</title>
@@ -26237,8 +27058,888 @@
     <title lang="id">Arirang Special</title>
     <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
   </programme>
-  <programme channel="6784" start="20261101140000 +0000" stop="20261101143000 +0000">
+  <programme channel="6784" start="20261101140000 +0000" stop="20261101150000 +0000">
     <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101150000 +0000" stop="20261101153000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101153000 +0000" stop="20261101160000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101160000 +0000" stop="20261101170000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101160000 +0000" stop="20261101170000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101170000 +0000" stop="20261101180000 +0000">
+    <title lang="id">Simply K-Pop 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101180000 +0000" stop="20261101183000 +0000">
+    <title lang="id">Vibe In Action: K-Initiative</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101183000 +0000" stop="20261101190000 +0000">
+    <title lang="id">Pocket Soundtrack</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101190000 +0000" stop="20261101193000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101193000 +0000" stop="20261101200000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101200000 +0000" stop="20261101203000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101203000 +0000" stop="20261101210000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101210000 +0000" stop="20261101213000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101213000 +0000" stop="20261101220000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101220000 +0000" stop="20261101223000 +0000">
+    <title lang="id">Talk Room</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101223000 +0000" stop="20261101225000 +0000">
+    <title lang="id">K-Arts Artists</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101225000 +0000" stop="20261101230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101230000 +0000" stop="20261101233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101233000 +0000" stop="20261101235000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261101235000 +0000" stop="20261102000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102000000 +0000" stop="20261102003000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102003000 +0000" stop="20261102010000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102010000 +0000" stop="20261102013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102013000 +0000" stop="20261102020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102020000 +0000" stop="20261102030000 +0000">
+    <title lang="id">Culture Crunch [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102030000 +0000" stop="20261102033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102033000 +0000" stop="20261102040000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102040000 +0000" stop="20261102050000 +0000">
+    <title lang="id">Performarts Reload</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102050000 +0000" stop="20261102053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102053000 +0000" stop="20261102060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102060000 +0000" stop="20261102063000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102063000 +0000" stop="20261102065000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102065000 +0000" stop="20261102070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102070000 +0000" stop="20261102072000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102072000 +0000" stop="20261102073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102073000 +0000" stop="20261102080000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102080000 +0000" stop="20261102083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102083000 +0000" stop="20261102090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102090000 +0000" stop="20261102101000 +0000">
+    <title lang="id">Show K-Pop [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102101000 +0000" stop="20261102103000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102103000 +0000" stop="20261102110000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102110000 +0000" stop="20261102113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102113000 +0000" stop="20261102120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102120000 +0000" stop="20261102123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102123000 +0000" stop="20261102125000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102125000 +0000" stop="20261102130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102130000 +0000" stop="20261102132000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102132000 +0000" stop="20261102133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102133000 +0000" stop="20261102140000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102140000 +0000" stop="20261102143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102143000 +0000" stop="20261102145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102145000 +0000" stop="20261102150000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102150000 +0000" stop="20261102153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102153000 +0000" stop="20261102160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102160000 +0000" stop="20261102162000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102162000 +0000" stop="20261102163000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102163000 +0000" stop="20261102170000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102163000 +0000" stop="20261102170000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102170000 +0000" stop="20261102180000 +0000">
+    <title lang="id">Performarts Reload</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102180000 +0000" stop="20261102183000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102183000 +0000" stop="20261102190000 +0000">
+    <title lang="id">Smartbiz Accelerators</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102190000 +0000" stop="20261102193000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102193000 +0000" stop="20261102195000 +0000">
+    <title lang="id">K-Culture Minutes: K-Now</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102195000 +0000" stop="20261102200000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102200000 +0000" stop="20261102203000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102203000 +0000" stop="20261102205000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102205000 +0000" stop="20261102210000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102210000 +0000" stop="20261102220000 +0000">
+    <title lang="id">Performarts Reload</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102220000 +0000" stop="20261102223000 +0000">
+    <title lang="id">With Science, We LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102223000 +0000" stop="20261102225000 +0000">
+    <title lang="id">K-Arts Artists</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102225000 +0000" stop="20261102230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102230000 +0000" stop="20261102233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102233000 +0000" stop="20261102235000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261102235000 +0000" stop="20261103000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103000000 +0000" stop="20261103003000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103003000 +0000" stop="20261103010000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103010000 +0000" stop="20261103013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103013000 +0000" stop="20261103020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103020000 +0000" stop="20261103030000 +0000">
+    <title lang="id">Culture Crunch [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103030000 +0000" stop="20261103033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103033000 +0000" stop="20261103040000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103040000 +0000" stop="20261103050000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103050000 +0000" stop="20261103053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103053000 +0000" stop="20261103060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103060000 +0000" stop="20261103063000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103063000 +0000" stop="20261103065000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103065000 +0000" stop="20261103070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103070000 +0000" stop="20261103072000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103072000 +0000" stop="20261103073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103073000 +0000" stop="20261103080000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103080000 +0000" stop="20261103083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103083000 +0000" stop="20261103090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103090000 +0000" stop="20261103100000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103100000 +0000" stop="20261103103000 +0000">
+    <title lang="id">With Science, We LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103103000 +0000" stop="20261103110000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103110000 +0000" stop="20261103113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103113000 +0000" stop="20261103120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103120000 +0000" stop="20261103123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103123000 +0000" stop="20261103125000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103125000 +0000" stop="20261103130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103130000 +0000" stop="20261103132000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103132000 +0000" stop="20261103133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103133000 +0000" stop="20261103140000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103140000 +0000" stop="20261103143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103143000 +0000" stop="20261103145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103145000 +0000" stop="20261103150000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103150000 +0000" stop="20261103153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103153000 +0000" stop="20261103160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103160000 +0000" stop="20261103162000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103162000 +0000" stop="20261103163000 +0000">
+    <title lang="id">Exploring Korean Literature B</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103163000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Regional Tastes: Chungcheong</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103163000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Regional Tastes: Chungcheong</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103170000 +0000" stop="20261103180000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103180000 +0000" stop="20261103183000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103183000 +0000" stop="20261103190000 +0000">
+    <title lang="id">Diplomat'S Archive: Hidden Stories</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103190000 +0000" stop="20261103193000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103193000 +0000" stop="20261103195000 +0000">
+    <title lang="id">K-Culture Minutes: K-People</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103195000 +0000" stop="20261103200000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103200000 +0000" stop="20261103203000 +0000">
+    <title lang="id">Countryside Escape</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103203000 +0000" stop="20261103205000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103205000 +0000" stop="20261103210000 +0000">
+    <title lang="id">The Grand Heritage Four Seasons</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103210000 +0000" stop="20261103220000 +0000">
+    <title lang="id">Gugak The Music Of Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103220000 +0000" stop="20261103223000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103223000 +0000" stop="20261103225000 +0000">
+    <title lang="id">K-Arts Artists</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103225000 +0000" stop="20261103230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103230000 +0000" stop="20261103233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103233000 +0000" stop="20261103235000 +0000">
+    <title lang="id">K-Culture Minutes: K-Market</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261103235000 +0000" stop="20261104000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104000000 +0000" stop="20261104003000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104003000 +0000" stop="20261104010000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104010000 +0000" stop="20261104013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104013000 +0000" stop="20261104020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104020000 +0000" stop="20261104030000 +0000">
+    <title lang="id">Culture Crunch [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104030000 +0000" stop="20261104033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104033000 +0000" stop="20261104040000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104040000 +0000" stop="20261104043000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104043000 +0000" stop="20261104050000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104050000 +0000" stop="20261104053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104053000 +0000" stop="20261104060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104060000 +0000" stop="20261104063000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104063000 +0000" stop="20261104065000 +0000">
+    <title lang="id">K-Culture Minutes: K-Market</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104065000 +0000" stop="20261104070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104070000 +0000" stop="20261104072000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104072000 +0000" stop="20261104073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104073000 +0000" stop="20261104080000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104080000 +0000" stop="20261104083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104083000 +0000" stop="20261104090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104090000 +0000" stop="20261104093000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104093000 +0000" stop="20261104100000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104100000 +0000" stop="20261104103000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104103000 +0000" stop="20261104110000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104110000 +0000" stop="20261104113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104113000 +0000" stop="20261104120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104120000 +0000" stop="20261104123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104123000 +0000" stop="20261104125000 +0000">
+    <title lang="id">K-Culture Minutes: K-Market</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104125000 +0000" stop="20261104130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104130000 +0000" stop="20261104132000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104132000 +0000" stop="20261104133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104133000 +0000" stop="20261104140000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104140000 +0000" stop="20261104143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104143000 +0000" stop="20261104145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104145000 +0000" stop="20261104150000 +0000">
+    <title lang="id">The Grand Heritage K-Asmr(10)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104150000 +0000" stop="20261104153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104153000 +0000" stop="20261104160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104160000 +0000" stop="20261104163000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104163000 +0000" stop="20261104170000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104163000 +0000" stop="20261104170000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104170000 +0000" stop="20261104173000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104173000 +0000" stop="20261104180000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104180000 +0000" stop="20261104183000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104183000 +0000" stop="20261104190000 +0000">
+    <title lang="id">Arirang Special</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104190000 +0000" stop="20261104193000 +0000">
+    <title lang="id">Within The Frame [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104193000 +0000" stop="20261104195000 +0000">
+    <title lang="id">K-Culture Minutes: K-Market</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104195000 +0000" stop="20261104200000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104200000 +0000" stop="20261104203000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104203000 +0000" stop="20261104205000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104205000 +0000" stop="20261104210000 +0000">
+    <title lang="id">The Grand Heritage K-Asmr(10)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104210000 +0000" stop="20261104213000 +0000">
+    <title lang="id">I'M LIVE</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104213000 +0000" stop="20261104220000 +0000">
+    <title lang="id">K-Stage Pan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104220000 +0000" stop="20261104223000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104223000 +0000" stop="20261104225000 +0000">
+    <title lang="id">K-Sports Beyond</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104225000 +0000" stop="20261104230000 +0000">
+    <title lang="id">Heritage Walks With Little Friend</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104230000 +0000" stop="20261104233000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104233000 +0000" stop="20261104235000 +0000">
+    <title lang="id">K-Culture Minutes: K-Stage</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261104235000 +0000" stop="20261105000000 +0000">
+    <title lang="id">The Living Sea Of Jeju</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105000000 +0000" stop="20261105003000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105003000 +0000" stop="20261105010000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105010000 +0000" stop="20261105013000 +0000">
+    <title lang="id">New Day At Arirang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105013000 +0000" stop="20261105020000 +0000">
+    <title lang="id">News Generation [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105020000 +0000" stop="20261105030000 +0000">
+    <title lang="id">Culture Crunch [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105030000 +0000" stop="20261105033000 +0000">
+    <title lang="id">Arirang News 12:00</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105033000 +0000" stop="20261105040000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105040000 +0000" stop="20261105050000 +0000">
+    <title lang="id">Simply K-Pop 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105050000 +0000" stop="20261105053000 +0000">
+    <title lang="id">K-Culture Dive [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105053000 +0000" stop="20261105060000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105060000 +0000" stop="20261105063000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105063000 +0000" stop="20261105065000 +0000">
+    <title lang="id">K-Culture Minutes: K-Stage</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105065000 +0000" stop="20261105070000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105070000 +0000" stop="20261105072000 +0000">
+    <title lang="id">K-Sports Beyond</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105072000 +0000" stop="20261105073000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105073000 +0000" stop="20261105080000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105080000 +0000" stop="20261105083000 +0000">
+    <title lang="id">The Daily Report</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105083000 +0000" stop="20261105090000 +0000">
+    <title lang="id">Press Perspective [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105090000 +0000" stop="20261105100000 +0000">
+    <title lang="id">Simply K-Pop 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105100000 +0000" stop="20261105103000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105103000 +0000" stop="20261105110000 +0000">
+    <title lang="id">Moo No Plan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105110000 +0000" stop="20261105113000 +0000">
+    <title lang="id">Newscenter</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105113000 +0000" stop="20261105120000 +0000">
+    <title lang="id">Within The Frame [L]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105120000 +0000" stop="20261105123000 +0000">
+    <title lang="id">K-Culture Dive [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105123000 +0000" stop="20261105125000 +0000">
+    <title lang="id">K-Culture Minutes: K-Stage</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105125000 +0000" stop="20261105130000 +0000">
+    <title lang="id">Smartbiz Accelerators 2</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105130000 +0000" stop="20261105132000 +0000">
+    <title lang="id">K-Sports Beyond</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105132000 +0000" stop="20261105133000 +0000">
+    <title lang="id">Fishing In The Museum</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105133000 +0000" stop="20261105140000 +0000">
+    <title lang="id">Beauty On And Off</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105140000 +0000" stop="20261105143000 +0000">
+    <title lang="id">Press Perspective [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105143000 +0000" stop="20261105145000 +0000">
+    <title lang="id">The Grand Heritage Asmr</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105145000 +0000" stop="20261105150000 +0000">
+    <title lang="id">The Grand Heritage K-Asmr(10)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105150000 +0000" stop="20261105153000 +0000">
+    <title lang="id">News Generation [R]</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105153000 +0000" stop="20261105160000 +0000">
+    <title lang="id">Trip In Korea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105160000 +0000" stop="20261105163000 +0000">
+    <title lang="id">Premium Collection</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
+  </programme>
+  <programme channel="6784" start="20261105163000 +0000" stop="20261105170000 +0000">
+    <title lang="id">Re: Space</title>
     <icon src="https://thumbor.prod.vidiocdn.com/XgOPcqAzsASYuXA9R-pY3WX_8tY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg"/>
   </programme>
   <programme channel="7464" start="20261029160000 +0000" stop="20261029173000 +0000">
