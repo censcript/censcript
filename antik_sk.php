@@ -442,28 +442,31 @@
   <programme start="20261101224400 +0000" stop="20261102004000 +0000" channel=":Šport.webtv.sk">
     <title lang="id">Futbal - MS 2026</title>
   </programme>
-  <programme start="20261031212000 +0000" stop="20261101000000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261031212000 +0000" stop="20261031235000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Duch</title>
   </programme>
-  <programme start="20261101000000 +0000" stop="20261101010000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261031235000 +0000" stop="20261101005000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Love Island VI (47)</title>
   </programme>
-  <programme start="20261101010000 +0000" stop="20261101025500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261101005000 +0000" stop="20261101024000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Mierotvorca</title>
   </programme>
-  <programme start="20261101025500 +0000" stop="20261101032500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261101024000 +0000" stop="20261101032500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
-  <programme start="20261101032500 +0000" stop="20261101033500 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261101032500 +0000" stop="20261101040500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Susedské prípady</title>
   </programme>
-  <programme start="20261101033500 +0000" stop="20261101050000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261101040500 +0000" stop="20261101050000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Rodinné prípady (49)</title>
   </programme>
   <programme start="20261101050000 +0000" stop="20261101055500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Televízne noviny</title>
   </programme>
-  <programme start="20261101055500 +0000" stop="20261101061000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261101055500 +0000" stop="20261101060000 +0000" channel="Markíza.webtv.sk">
+    <title lang="id">Tom a Jerry a veselá družina</title>
+  </programme>
+  <programme start="20261101060000 +0000" stop="20261101061000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Tom a Jerry</title>
   </programme>
   <programme start="20261101061000 +0000" stop="20261101071000 +0000" channel="Markíza.webtv.sk">
@@ -505,7 +508,7 @@
   <programme start="20261101193000 +0000" stop="20261101220000 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Farma XVIII (40)</title>
   </programme>
-  <programme start="20261101220000 +0000" stop="20261101235000 +0000" channel="Markíza.webtv.sk">
+  <programme start="20261101220000 +0000" stop="20261101235500 +0000" channel="Markíza.webtv.sk">
     <title lang="id">Honba na čarodejnice</title>
   </programme>
   <programme start="20261031214000 +0000" stop="20261101002000 +0000" channel="JOJ.webtv.sk">
@@ -850,10 +853,10 @@
   <programme start="20261101091500 +0000" stop="20261101100000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med X (13)</title>
   </programme>
-  <programme start="20261101100000 +0000" stop="20261101105000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261101100000 +0000" stop="20261101104500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Chicago Med X (14)</title>
   </programme>
-  <programme start="20261101105000 +0000" stop="20261101122500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261101104500 +0000" stop="20261101122500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Smotánka</title>
   </programme>
   <programme start="20261101122500 +0000" stop="20261101143000 +0000" channel="Doma.webtv.sk">
@@ -862,10 +865,10 @@
   <programme start="20261101143000 +0000" stop="20261101164000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Pre moju sestru</title>
   </programme>
-  <programme start="20261101164000 +0000" stop="20261101180500 +0000" channel="Doma.webtv.sk">
+  <programme start="20261101164000 +0000" stop="20261101181500 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XVI (4)</title>
   </programme>
-  <programme start="20261101180500 +0000" stop="20261101193000 +0000" channel="Doma.webtv.sk">
+  <programme start="20261101181500 +0000" stop="20261101193000 +0000" channel="Doma.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XVI (5)</title>
   </programme>
   <programme start="20261101193000 +0000" stop="20261101220500 +0000" channel="Doma.webtv.sk">
@@ -1006,31 +1009,31 @@
   <programme start="20261101215500 +0000" stop="20261102000500 +0000" channel="JOJ Plus.webtv.sk">
     <title lang="id">Nežný bar</title>
   </programme>
-  <programme start="20261031225000 +0000" stop="20261101002500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261031211500 +0000" stop="20261031233000 +0000" channel="JOJ Šport.webtv.sk">
+    <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
+  </programme>
+  <programme start="20261031233000 +0000" stop="20261101005500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Automobilové preteky</title>
   </programme>
-  <programme start="20261101002500 +0000" stop="20261101020500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101005500 +0000" stop="20261101021500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20261101020500 +0000" stop="20261101030500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101021500 +0000" stop="20261101032500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Bedminton</title>
   </programme>
-  <programme start="20261101030500 +0000" stop="20261101041000 +0000" channel="JOJ Šport.webtv.sk">
-    <title lang="id">Bedminton</title>
-  </programme>
-  <programme start="20261101041000 +0000" stop="20261101064000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101032500 +0000" stop="20261101060500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 ženy</title>
   </programme>
-  <programme start="20261101064000 +0000" stop="20261101084000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101060500 +0000" stop="20261101075000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal - ME 2026 muži</title>
   </programme>
-  <programme start="20261101084000 +0000" stop="20261101111500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101075000 +0000" stop="20261101103500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Volejbal CEV Liga Majstrov ženy</title>
   </programme>
-  <programme start="20261101111500 +0000" stop="20261101133500 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101103500 +0000" stop="20261101130500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Tipsport liga</title>
   </programme>
-  <programme start="20261101133500 +0000" stop="20261101143000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101130500 +0000" stop="20261101143000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Hokej - Zostrihy Tipsport ligy</title>
   </programme>
   <programme start="20261101143000 +0000" stop="20261101145500 +0000" channel="JOJ Šport.webtv.sk">
@@ -1048,13 +1051,13 @@
   <programme start="20261101195500 +0000" stop="20261101221000 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261101221000 +0000" stop="20261102003000 +0000" channel="JOJ Šport.webtv.sk">
+  <programme start="20261101221000 +0000" stop="20261102004500 +0000" channel="JOJ Šport.webtv.sk">
     <title lang="id">Krasokorčuľovanie ISU Grand Prix</title>
   </programme>
-  <programme start="20261031214000 +0000" stop="20261101001500 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261031215000 +0000" stop="20261101000500 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - Tipos SHL</title>
   </programme>
-  <programme start="20261101001500 +0000" stop="20261101025000 +0000" channel="JOJ Šport 2.webtv.sk">
+  <programme start="20261101000500 +0000" stop="20261101025000 +0000" channel="JOJ Šport 2.webtv.sk">
     <title lang="id">Hokej - NCAA</title>
   </programme>
   <programme start="20261101025000 +0000" stop="20261101055000 +0000" channel="JOJ Šport 2.webtv.sk">
@@ -1919,7 +1922,7 @@
     <title lang="id">Dobrodružstvá Bolka a Lolka I (48)</title>
   </programme>
   <programme start="20261101005500 +0000" stop="20261101011000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (231)</title>
   </programme>
   <programme start="20261101011000 +0000" stop="20261101012000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Máša a medveď V (103)</title>
@@ -1946,7 +1949,7 @@
     <title lang="id">Hot Wheels autíčka II (4)</title>
   </programme>
   <programme start="20261101025000 +0000" stop="20261101030500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (125)</title>
   </programme>
   <programme start="20261101030500 +0000" stop="20261101031500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun I (35)</title>
@@ -1982,7 +1985,7 @@
     <title lang="id">Tomáš a Priatelia I (4)</title>
   </programme>
   <programme start="20261101055000 +0000" stop="20261101060500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (226)</title>
   </programme>
   <programme start="20261101060500 +0000" stop="20261101063000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou I (1)</title>
@@ -1994,13 +1997,13 @@
     <title lang="id">Máša a medveď VI (104)</title>
   </programme>
   <programme start="20261101065500 +0000" stop="20261101071000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (180)</title>
   </programme>
   <programme start="20261101071000 +0000" stop="20261101071500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Všetko najlepšie s Flopym</title>
   </programme>
   <programme start="20261101071500 +0000" stop="20261101080500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (3)</title>
   </programme>
   <programme start="20261101080500 +0000" stop="20261101092500 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Pat a Mat vo filme</title>
@@ -2072,7 +2075,7 @@
     <title lang="id">Požiarnik Sam XIV (3)</title>
   </programme>
   <programme start="20261101162000 +0000" stop="20261101163500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (231)</title>
   </programme>
   <programme start="20261101163500 +0000" stop="20261101164000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Všetko najlepšie s Flopym</title>
@@ -2090,13 +2093,13 @@
     <title lang="id">Kiri a Lou I (4)</title>
   </programme>
   <programme start="20261101172000 +0000" stop="20261101181000 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopyho veselé príbehy</title>
+    <title lang="id">Flopyho veselé príbehy (16)</title>
   </programme>
   <programme start="20261101181000 +0000" stop="20261101182000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Ovečka Shaun II (1)</title>
   </programme>
   <programme start="20261101182000 +0000" stop="20261101183500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (232)</title>
   </programme>
   <programme start="20261101183500 +0000" stop="20261101190000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Rozprávky líšky a vlka I (7)</title>
@@ -2132,7 +2135,7 @@
     <title lang="id">Požiarnik Sam VII (15)</title>
   </programme>
   <programme start="20261101214000 +0000" stop="20261101215500 +0000" channel="RiK TV.webtv.sk">
-    <title lang="id">Flopy</title>
+    <title lang="id">Flopy (124)</title>
   </programme>
   <programme start="20261101215500 +0000" stop="20261101222000 +0000" channel="RiK TV.webtv.sk">
     <title lang="id">Volám sa Caillou V (26)</title>
@@ -4534,16 +4537,16 @@
   <programme start="20261101074500 +0000" stop="20261101093000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Montreal Canadiens - Pittsburgh Penguins</title>
   </programme>
-  <programme start="20261101093000 +0000" stop="20261101113000 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20261101093000 +0000" stop="20261101111500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Dallas Stars - Columbus Blue Jackets</title>
   </programme>
-  <programme start="20261101113000 +0000" stop="20261101120500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20261101111500 +0000" stop="20261101114500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">SpadePoker Show 2026 (40)</title>
   </programme>
-  <programme start="20261101120500 +0000" stop="20261101130500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20261101114500 +0000" stop="20261101124000 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">DFB-Pokal Highlights (2)</title>
   </programme>
-  <programme start="20261101130500 +0000" stop="20261101154500 +0000" channel="Nova Sport 1.webtv.sk">
+  <programme start="20261101124000 +0000" stop="20261101154500 +0000" channel="Nova Sport 1.webtv.sk">
     <title lang="id">Longines Global Champions Tour 2026 - Rabat</title>
   </programme>
   <programme start="20261101154500 +0000" stop="20261101172500 +0000" channel="Nova Sport 1.webtv.sk">
@@ -4574,10 +4577,10 @@
     <title lang="id">Green Bay Packers - Carolina Panthers</title>
   </programme>
   <programme start="20261101060000 +0000" stop="20261101080000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">OGC Nice - Stade Rennes</title>
+    <title lang="id">Bath Rugby - Sale Sharks</title>
   </programme>
   <programme start="20261101080000 +0000" stop="20261101100000 +0000" channel="Nova Sport 2.webtv.sk">
-    <title lang="id">Stade Reims - FC Sochaux</title>
+    <title lang="id">Galatasaray MCT Technic - SIG Strasbourg</title>
   </programme>
   <programme start="20261101100000 +0000" stop="20261101120000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Utah Jazz - Portland Trail Blazers</title>
@@ -16478,7 +16481,7 @@
     <title lang="id">K-culture Minutes: K-people</title>
   </programme>
   <programme start="20261101013000 +0000" stop="20261101015000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">K-culture Minutes: K-market</title>
+    <title lang="id">K-culture Minutes: K-story</title>
   </programme>
   <programme start="20261101015000 +0000" stop="20261101030000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Show K-pop</title>

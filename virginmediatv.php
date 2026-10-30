@@ -347,7 +347,7 @@
     <title>Today - Episode 130</title>
 </programme>
 <programme start="20261029234000 +0000" stop="20261030001000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Newscast - 29/10/2026</title>
+    <title>Newscast - Series 7: 14. The Week: The Budget in Four Charts</title>
 </programme>
 <programme start="20261030001000 +0000" stop="20261030001500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Weather for the Week Ahead</title>
@@ -362,7 +362,7 @@
     <title>Newsday</title>
 </programme>
 <programme start="20261030013000 +0000" stop="20261030020000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>The Interface</title>
+    <title>The Interface - Why AI is Obsessed with Lighthouses</title>
 </programme>
 <programme start="20261030020000 +0000" stop="20261030023000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Newsday</title>
@@ -2345,7 +2345,7 @@
     <title>Newsday</title>
 </programme>
 <programme start="20261030013000 +0000" stop="20261030020000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Interface</title>
+    <title>The Interface - Why AI is Obsessed with Lighthouses</title>
 </programme>
 <programme start="20261030020000 +0000" stop="20261030023000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Newsday</title>
@@ -3745,7 +3745,7 @@
 <programme start="20261029230000 +0000" stop="20261030041500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NFL Football - Carolina Panthers at Green Bay Packers</title>
 </programme>
-<programme start="20261030041500 +0000" stop="20261030063000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261030041500 +0000" stop="20261030060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Maybank Championship, LPGA Tour Golf - Day 2</title>
 </programme>
 <programme start="20261030090000 +0000" stop="20261030163000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3926,7 +3926,7 @@
     <title>ICC T20 World Cup - 2007: England v India</title>
 </programme>
 <programme start="20261030000000 +0000" stop="20261030003000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>PGA Tour Champions Learning Centre - Episode 50</title>
+    <title>PGA Tour Champions Learning Centre - Episode 57</title>
 </programme>
 <programme start="20261030003000 +0000" stop="20261030010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>European Challenge Tour Golf - Hangzhou Open</title>
@@ -4109,7 +4109,7 @@
     <title>Tennis: ATP Shanghai Masters 2026 - Review</title>
 </programme>
 <programme start="20261030003000 +0000" stop="20261030010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 108</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261030010000 +0000" stop="20261030011500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - WTA Final</title>
@@ -4585,7 +4585,7 @@
 <programme start="20261029230000 +0000" stop="20261030041500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: NFL Football - Carolina Panthers at Green Bay Packers</title>
 </programme>
-<programme start="20261030041500 +0000" stop="20261030063000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261030041500 +0000" stop="20261030060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Maybank Championship, LPGA Tour Golf - Day 2</title>
 </programme>
 <programme start="20261030090000 +0000" stop="20261030163000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4766,7 +4766,7 @@
     <title>ICC T20 World Cup - 2007: England v India</title>
 </programme>
 <programme start="20261030000000 +0000" stop="20261030003000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>PGA Tour Champions Learning Centre - Episode 50</title>
+    <title>PGA Tour Champions Learning Centre - Episode 57</title>
 </programme>
 <programme start="20261030003000 +0000" stop="20261030010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>European Challenge Tour Golf - Hangzhou Open</title>
@@ -4949,7 +4949,7 @@
     <title>Tennis: ATP Shanghai Masters 2026 - Review</title>
 </programme>
 <programme start="20261030003000 +0000" stop="20261030010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 108</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261030010000 +0000" stop="20261030011500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Indian Wells Open 2026 - WTA Final</title>

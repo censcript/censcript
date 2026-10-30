@@ -618,6 +618,8 @@
     <title lang="en">Innovation Nation (Ulangan)</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261029160000 +0000" stop="20261029163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -628,36 +630,50 @@
     <title lang="en">Kasih Malisa (Ulangan)</title>
     <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261029173000 +0000" stop="20261029180000 +0000" channel="tv1.unifitv">
     <title lang="en">Diaspora Melayu (Ulangan)</title>
     <desc lang="en">Rancangan yang memaparkan kehidupan individu berbangsa melayu yang mempunyai karier di serata dunia.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261029180000 +0000" stop="20261029190000 +0000" channel="tv1.unifitv">
     <title lang="en">Skuad JPJ 2.0</title>
     <desc lang="en">Mengisahkan sebuah drama bersiri yang memaparkan operasi Jabatan Pengangkutan Jalan (JPJ) dalam menjaga keamanan serta membanteras pelbagai bentuk jenayah.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261029190000 +0000" stop="20261029193000 +0000" channel="tv1.unifitv">
     <title lang="en">Sekoci (Ulangan)</title>
     <desc lang="en">Program majalah warisan dan budaya yang mengupas tentang baju tradisional dan menemui tukang-tukang mahir tradisional dalam kemahiran masing-masing.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261029193000 +0000" stop="20261029203000 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.18.</episode-num>
+    <episode-num system="onscreen">S1E19</episode-num>
   </programme>
   <programme start="20261029203000 +0000" stop="20261029210000 +0000" channel="tv1.unifitv">
     <title lang="en">Sembang Jarak Jauh (Ulangan)</title>
     <desc lang="en">Gelagat Tipah dan Kak Ziah, dua jiran di kawasan rumah flat yang gemar bersembang kuat dari pintu rumah masing-masing.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261029210000 +0000" stop="20261029213000 +0000" channel="tv1.unifitv">
     <title lang="en">Warna-Warni Asia (Ulangan)</title>
     <desc lang="en">Sebuah rancangan yang membawa anda menerokai keindahan dan keunikan tempat-tempat menarik di Asia</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261029213000 +0000" stop="20261029220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Yassin (2023)</title>

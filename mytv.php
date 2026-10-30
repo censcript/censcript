@@ -70,10 +70,10 @@
     <programme start="20261030110200 +0000" stop="20261030113000 +0000" channel="VTV1 HD.mytv">
         <title> Sự lựa chọn</title>
     </programme>
-    <programme start="20261030113000 +0000" stop="20261030115500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030113000 +0000" stop="20261030115100 +0000" channel="VTV1 HD.mytv">
         <title> Nét đẹp dân gian: Một vòng làng Quỳnh Đôi</title>
     </programme>
-    <programme start="20261030115500 +0000" stop="20261030120000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030115100 +0000" stop="20261030120000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>
     </programme>
     <programme start="20261030120000 +0000" stop="20261030124500 +0000" channel="VTV1 HD.mytv">
@@ -82,25 +82,25 @@
     <programme start="20261030124500 +0000" stop="20261030130000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự</title>
     </programme>
-    <programme start="20261030130000 +0000" stop="20261030134500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030130000 +0000" stop="20261030134400 +0000" channel="VTV1 HD.mytv">
         <title> Nhịp sống tuổi bạc</title>
     </programme>
-    <programme start="20261030134500 +0000" stop="20261030140000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030134400 +0000" stop="20261030135900 +0000" channel="VTV1 HD.mytv">
         <title> VTV Sống khỏe: Sự sống từ hơi thở mới</title>
     </programme>
-    <programme start="20261030140000 +0000" stop="20261030144500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030135900 +0000" stop="20261030144300 +0000" channel="VTV1 HD.mytv">
         <title> Phụ nữ và cuộc sống: Nghị lực sống</title>
     </programme>
-    <programme start="20261030144500 +0000" stop="20261030150000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030144300 +0000" stop="20261030150000 +0000" channel="VTV1 HD.mytv">
         <title> THTT: Quốc hội thảo luận về kinh tế - Xã hội</title>
     </programme>
     <programme start="20261030150000 +0000" stop="20261030163000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin</title>
     </programme>
-    <programme start="20261030163000 +0000" stop="20261030164500 +0000" channel="VTV1 HD.mytv">
-        <title> Truyền hình trực tiếp: Quốc hội thảo luận về kinh tế - Xã hội</title>
+    <programme start="20261030163000 +0000" stop="20261030164200 +0000" channel="VTV1 HD.mytv">
+        <title> THTT: Quốc hội thảo luận về kinh tế - Xã hội</title>
     </programme>
-    <programme start="20261030164500 +0000" stop="20261030171500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261030164200 +0000" stop="20261030171500 +0000" channel="VTV1 HD.mytv">
         <title> Cựu chiến binh Việt Nam: Màu xanh quê hương</title>
     </programme>
     <programme start="20261030171500 +0000" stop="20261030180000 +0000" channel="VTV1 HD.mytv">
@@ -122,13 +122,13 @@
         <title> Thời sự</title>
     </programme>
     <programme start="20261030200000 +0000" stop="20261030204000 +0000" channel="VTV1 HD.mytv">
-        <title> Thời tiết - Thể thao 24/7</title>
+        <title> Thể thao 24/7</title>
     </programme>
     <programme start="20261030204000 +0000" stop="20261030205500 +0000" channel="VTV1 HD.mytv">
         <title> Thật - Giả kiểm chứng</title>
     </programme>
     <programme start="20261030205500 +0000" stop="20261030210000 +0000" channel="VTV1 HD.mytv">
-        <title> Truyền hình trực tiếp: Chương trình kỷ niệm 195 năm ngày thành lập tỉnh Thái Nguyên và Khai mạc Festival Trà quốc tế - Thái Nguyên năm 2026</title>
+        <title> THTT: Chương trình kỷ niệm 195 năm ngày thành lập tỉnh Thái Nguyên và Khai mạc Festival Trà quốc tế - Thái Nguyên năm 2026</title>
     </programme>
     <programme start="20261030210000 +0000" stop="20261030223000 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh</title>
