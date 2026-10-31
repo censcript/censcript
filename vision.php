@@ -514,9 +514,6 @@
 <programme start="20261031110000 +0000" stop="20261031123000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
-<programme start="20261031123000 +0000" stop="20261031150000 +0000" channel="Trans 7.vision">
-<title>Weekend Project 2026</title>
-</programme>
 <programme start="20261031150000 +0000" stop="20261031161500 +0000" channel="Trans 7.vision">
 <title>BTS</title>
 </programme>
@@ -603,9 +600,6 @@
 </programme>
 <programme start="20261031093000 +0000" stop="20261031104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
-</programme>
-<programme start="20261031104500 +0000" stop="20261031131500 +0000" channel="ANTV.vision">
-<title>Pengorbanan</title>
 </programme>
 <programme start="20261031131500 +0000" stop="20261031144500 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261031090000 +0000" stop="20261031104000 +0000" channel="MDTV.vision">
 <title>Masak Gesss!!!</title>
+</programme>
+<programme start="20261031104000 +0000" stop="20261031120500 +0000" channel="MDTV.vision">
+<title>Marisol</title>
+</programme>
+<programme start="20261031120500 +0000" stop="20261031130000 +0000" channel="MDTV.vision">
+<title>Cinta Paulina</title>
 </programme>

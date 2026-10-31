@@ -4253,7 +4253,7 @@
     <title>Golden Trail World Series - Muju Trail, Grand Finale: Day 1</title>
 </programme>
 <programme start="20261031130000 +0000" stop="20261031153000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
-    <title>Live: European Championship Curling - Women&#039;s Semi-Final: TBA v TBA</title>
+    <title>Live: European Championship Curling - Women&#039;s Semi-Final: Switzerland v Scotland</title>
 </programme>
 <programme start="20261031153000 +0000" stop="20261031160000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>SailGP: Racing on the Edge - Episode 6</title>
