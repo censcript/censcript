@@ -520,12 +520,6 @@
 <programme start="20261031161500 +0000" stop="20261031170000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20261031170000 +0000" stop="20261031181500 +0000" channel="Trans 7.vision">
-<title>Kupinang Dengan Surat Tilang</title>
-</programme>
-<programme start="20261031181500 +0000" stop="20261031190000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race 2026</title>
-</programme>
 <programme start="20261031190000 +0000" stop="20261031193000 +0000" channel="Trans 7.vision">
 <title>Dracin</title>
 </programme>
@@ -603,9 +597,6 @@
 </programme>
 <programme start="20261031131500 +0000" stop="20261031144500 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261031144500 +0000" stop="20261031164500 +0000" channel="ANTV.vision">
-<title>Jodoh Boleh Diatur</title>
 </programme>
 <programme start="20261031164500 +0000" stop="20261031181500 +0000" channel="ANTV.vision">
 <title>Faithfully Yours</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261031120500 +0000" stop="20261031130000 +0000" channel="MDTV.vision">
 <title>Cinta Paulina</title>
+</programme>
+<programme start="20261031130000 +0000" stop="20261031140000 +0000" channel="MDTV.vision">
+<title>Suara Hati</title>
+</programme>
+<programme start="20261031140000 +0000" stop="20261031150000 +0000" channel="MDTV.vision">
+<title>Istri Paruh Waktu</title>
+</programme>
+<programme start="20261031150000 +0000" stop="20261031160000 +0000" channel="MDTV.vision">
+<title>Comedy Night Live</title>
 </programme>

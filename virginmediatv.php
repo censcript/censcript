@@ -382,10 +382,10 @@
 <programme start="20261031122000 +0000" stop="20261031125500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Marcus Wareing&#039;s Tales from a Kitchen Garden - Cows</title>
 </programme>
-<programme start="20261031125500 +0000" stop="20261031132000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261031125500 +0000" stop="20261031132500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Nadiya&#039;s Everyday Baking - Family Bakes</title>
 </programme>
-<programme start="20261031132000 +0000" stop="20261031153500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261031132500 +0000" stop="20261031153500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Sense and Sensibility</title>
 </programme>
 <programme start="20261031153500 +0000" stop="20261031163000 +0000" channel="BBC_TWO_HD.virginmediatv">
