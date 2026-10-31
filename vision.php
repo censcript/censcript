@@ -595,9 +595,6 @@
 <programme start="20261031010000 +0000" stop="20261031023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261031023000 +0000" stop="20261031060000 +0000" channel="ANTV.vision">
-<title>Yaadein</title>
-</programme>
 <programme start="20261031060000 +0000" stop="20261031073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261031073000 +0000" stop="20261031090000 +0000" channel="MDTV.vision">
 <title>Laper Mata</title>
+</programme>
+<programme start="20261031090000 +0000" stop="20261031104000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
 </programme>

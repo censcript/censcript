@@ -4137,8 +4137,8 @@
     <episode-num system="onscreen">S1E20261031</episode-num>
   </programme>
   <programme start="20261031093300 +0000" stop="20261031100300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">TBC</desc>
+    <title lang="en">X + (IV)</title>
+    <desc lang="en">The show serves as a flagship platform to highlight breakthroughs in artificial intelligence, deep-sea robotics, biomedical engineering, green technology, and industrial automation. It features on-location reporting, field tests of emerging technologies, and interviews with leading scientists and tech founders.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">0.20261030.</episode-num>
     <episode-num system="onscreen">S1E20261031</episode-num>
@@ -4213,12 +4213,15 @@
     <episode-num system="xmltv_ns">0.20261030.</episode-num>
     <episode-num system="onscreen">S1E20261031</episode-num>
   </programme>
-  <programme start="20261031150300 +0000" stop="20261031160300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PREMIUM SPECTACULAR</title>
+  <programme start="20261031150300 +0000" stop="20261031153300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE CARBON PURSUIT OF HAPPINESS</title>
     <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20261030.</episode-num>
-    <episode-num system="onscreen">S1E20261031</episode-num>
+  </programme>
+  <programme start="20261031153300 +0000" stop="20261031160300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE CARBON PURSUIT OF HAPPINESS</title>
+    <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <channel id="seti.unifitv">
     <display-name>SETI</display-name>
@@ -12048,249 +12051,69 @@
   <channel id="bbcworldnewshd.unifitv">
     <display-name>BBC World News HD</display-name>
   </channel>
-  <programme start="20261030153300 +0000" stop="20261030160300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030160300 +0000" stop="20261030163300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030163300 +0000" stop="20261030170300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030170300 +0000" stop="20261030173300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030173300 +0000" stop="20261030180300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Focus on Africa</title>
-    <desc lang="en">The biggest African and international stories from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030180300 +0000" stop="20261030183300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030183300 +0000" stop="20261030190300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030190300 +0000" stop="20261030193300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030193300 +0000" stop="20261030200300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030200300 +0000" stop="20261030203300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030203300 +0000" stop="20261030210300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030210300 +0000" stop="20261030213300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030213300 +0000" stop="20261030220300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030220300 +0000" stop="20261030223300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030223300 +0000" stop="20261030230300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030230300 +0000" stop="20261030233300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030233300 +0000" stop="20261030234800 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The President's Path</title>
-    <desc lang="en">Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US presidency.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261030234800 +0000" stop="20261031000300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031000300 +0000" stop="20261031003300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
+  <programme start="20261030013300 +0000" stop="20261031003300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">Tech Now</title>
+    <desc lang="en">Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261031003300 +0000" stop="20261031010300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation. Paul Carter explores how advanced prosthetics technology is also helping train future humanoid robots.</desc>
+    <desc lang="en">Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031010300 +0000" stop="20261031013300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031013300 +0000" stop="20261031020300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Clive Myrie's African Adventure</title>
-    <desc lang="en">Clive learns about his family story on an emotional visit to a former slave fort, before getting a big celebratory welcome - and a new name - from the elders of the Fante people.</desc>
+  <programme start="20261031010300 +0000" stop="20261031020300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261031020300 +0000" stop="20261031023300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261031023300 +0000" stop="20261031030300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Racing on the Edge</title>
-    <desc lang="en">Nicolai Sehested has made Denmark the fastest team on water, but speed has come at a price. When France takes their record, Denmark faces a choice: cling to its identity or learn to race differently.</desc>
+    <title lang="en">Racing On The Edge</title>
+    <desc lang="en">Go behind the scenes as the F50 fleet tackles iconic global destinations in this high-stakes human drama. Feel the speed, witness the rivalry.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031030300 +0000" stop="20261031033300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031033300 +0000" stop="20261031040300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+  <programme start="20261031030300 +0000" stop="20261031040300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261031040300 +0000" stop="20261031043300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031043300 +0000" stop="20261031050300 +0000" channel="bbcworldnewshd.unifitv">
+  <programme start="20261031043300 +0000" stop="20261031063300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">The Travel Show</title>
-    <desc lang="en">Can the great outdoors still inspire a generation raised on screens? 2026 sees the Duke of Edinburgh Awards marking 70 years of taking young people on adventures in the British countryside.</desc>
+    <desc lang="en">Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031050300 +0000" stop="20261031053300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031053300 +0000" stop="20261031060300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031060300 +0000" stop="20261031063300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031063300 +0000" stop="20261031070300 +0000" channel="bbcworldnewshd.unifitv">
+  <programme start="20261031063300 +0000" stop="20261031083300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation. Paul Carter explores how advanced prosthetics technology is also helping train future humanoid robots.</desc>
+    <desc lang="en">Tech Now explores the latest innovation and technology shaping our lives. Bringing you the inside track on global trends and advancements happening in the tech space today.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031070300 +0000" stop="20261031073300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031073300 +0000" stop="20261031080300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Clive Myrie's African Adventure</title>
-    <desc lang="en">Clive learns about his family story on an emotional visit to a former slave fort, before getting a big celebratory welcome - and a new name - from the elders of the Fante people.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031080300 +0000" stop="20261031083300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031083300 +0000" stop="20261031090300 +0000" channel="bbcworldnewshd.unifitv">
+  <programme start="20261031083300 +0000" stop="20261031113300 +0000" channel="bbcworldnewshd.unifitv">
     <title lang="en">Global Eye</title>
-    <desc lang="en">Nawal Al-Maghafi reports from Yemen's front lines, where Houthi forces are posing the most serious threat in years to the city of Taiz, raising fears of a major escalation.</desc>
+    <desc lang="en">Award-winning investigations - revealing secrets, rooting out injustice, and exposing crime, corruption, and abuse. The biggest stories from BBC correspondents all over the world.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031090300 +0000" stop="20261031100300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
+  <programme start="20261031113300 +0000" stop="20261031123300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261031100300 +0000" stop="20261031103300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031103300 +0000" stop="20261031110300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031110300 +0000" stop="20261031113300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031113300 +0000" stop="20261031120300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031120300 +0000" stop="20261031123300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031123300 +0000" stop="20261031130300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Talking Movies</title>
-    <desc lang="en">Talking Movies looks at the films that made waves at the BFI London Film Festival and the New York Film Festival in October, including Elsinore, Wild Horse Nine, and La Bola Negra.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031130300 +0000" stop="20261031133300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031133300 +0000" stop="20261031140300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">AI Decoded</title>
-    <desc lang="en">Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031140300 +0000" stop="20261031143300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031143300 +0000" stop="20261031150300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261031150300 +0000" stop="20261031153300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
+  <programme start="20261031123300 +0000" stop="20261031153300 +0000" channel="bbcworldnewshd.unifitv">
+    <title lang="en">TBA</title>
+    <desc lang="en">TBA</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261031153300 +0000" stop="20261031160300 +0000" channel="bbcworldnewshd.unifitv">
-    <title lang="en">Racing on the Edge</title>
-    <desc lang="en">Nicolai Sehested has made Denmark the fastest team on water, but speed has come at a price. When France takes their record, Denmark faces a choice: cling to its identity or learn to race differently.</desc>
+    <title lang="en">Racing On The Edge</title>
+    <desc lang="en">Go behind the scenes as the F50 fleet tackles iconic global destinations in this high-stakes human drama. Feel the speed, witness the rivalry.</desc>
     <category lang="en">News</category>
   </programme>
   <channel id="aljazeera.unifitv">
