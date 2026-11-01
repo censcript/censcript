@@ -1861,29 +1861,29 @@
 <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="Really.virginmediatv">
     <title>Salvage Hunters - Changing Spaces</title>
 </programme>
-<programme start="20261101120000 +0000" stop="20261101123000 +0000" channel="Really.virginmediatv">
-    <title>My Lottery Dream Home - A Fistful of Friendship</title>
+<programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="Really.virginmediatv">
+    <title>The Hotel Inspector - Caer Beris Manor</title>
 </programme>
-<programme start="20261101123000 +0000" stop="20261101130000 +0000" channel="Really.virginmediatv">
-    <title>My Lottery Dream Home - Heartfelt Inspiration</title>
-</programme>
-<programme start="20261101130000 +0000" stop="20261101133000 +0000" channel="Really.virginmediatv">
-    <title>My Lottery Dream Home - My Lottery Dream Stable</title>
-</programme>
-<programme start="20261101133000 +0000" stop="20261101140000 +0000" channel="Really.virginmediatv">
-    <title>My Lottery Dream Home - Little Sister, Big House</title>
+<programme start="20261101130000 +0000" stop="20261101140000 +0000" channel="Really.virginmediatv">
+    <title>The Hotel Inspector - The Pack O&#039; Cards</title>
 </programme>
 <programme start="20261101140000 +0000" stop="20261101143000 +0000" channel="Really.virginmediatv">
-    <title>My Lottery Dream Home - Tallahassee Dream Team</title>
+    <title>My Lottery Dream Home - Millionaire Mama</title>
 </programme>
 <programme start="20261101143000 +0000" stop="20261101150000 +0000" channel="Really.virginmediatv">
-    <title>My Lottery Dream Home - Texas Beach House</title>
+    <title>My Lottery Dream Home - A Million-Dollar Hug</title>
 </programme>
-<programme start="20261101150000 +0000" stop="20261101160000 +0000" channel="Really.virginmediatv">
-    <title>A Place in the Sun - Antequera, Spain</title>
+<programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Mortgage Free in Atlanta</title>
 </programme>
-<programme start="20261101160000 +0000" stop="20261101170000 +0000" channel="Really.virginmediatv">
-    <title>A Place in the Sun - Aquitaine, France</title>
+<programme start="20261101153000 +0000" stop="20261101160000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Seven Million Big Ones</title>
+</programme>
+<programme start="20261101160000 +0000" stop="20261101163000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Oh, My Goodness</title>
+</programme>
+<programme start="20261101163000 +0000" stop="20261101170000 +0000" channel="Really.virginmediatv">
+    <title>My Lottery Dream Home - Massachusetts Millions</title>
 </programme>
 <programme start="20261101170000 +0000" stop="20261101180000 +0000" channel="Really.virginmediatv">
     <title>A Place in the Sun - Alicante, Spain</title>
@@ -4157,7 +4157,7 @@
     <title>Live: A-League Men - Melbourne Victory v Central Coast Mariners</title>
 </programme>
 <programme start="20261101113000 +0000" stop="20261101150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: International Championship Snooker - Round 1</title>
+    <title>Live: International Championship Snooker - Round 2: David Lilley v Zhao Xintong</title>
 </programme>
 <programme start="20261101150000 +0000" stop="20261101163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Lewis Moody v MND</title>
@@ -4187,7 +4187,7 @@
     <title>MotoGP - Malaysian Grand Prix: MotoGP Race</title>
 </programme>
 <programme start="20261101130000 +0000" stop="20261101153000 +0000" channel="TNT_Sports_2_HD.virginmediatv">
-    <title>Live: European Championship Curling - Men&#039;s Final: TBA v TBA</title>
+    <title>Live: European Championship Curling - Men&#039;s Final: Italy v Scotland</title>
 </programme>
 <programme start="20261101153000 +0000" stop="20261101161500 +0000" channel="TNT_Sports_2_HD.virginmediatv">
     <title>Live: World Marathon Majors - New York</title>

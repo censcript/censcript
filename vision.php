@@ -421,9 +421,6 @@
 <programme start="20261101063000 +0000" stop="20261101070000 +0000" channel="Trans TV.vision">
 <title>Masak Anti Ribet</title>
 </programme>
-<programme start="20261101070000 +0000" stop="20261101080000 +0000" channel="Trans TV.vision">
-<title>Tanah Air Beta</title>
-</programme>
 <programme start="20261101080000 +0000" stop="20261101090000 +0000" channel="Trans TV.vision">
 <title>Insert Investigasi</title>
 </programme>
@@ -504,9 +501,6 @@
 </programme>
 <programme start="20261101054500 +0000" stop="20261101064500 +0000" channel="Trans 7.vision">
 <title>The Explorer</title>
-</programme>
-<programme start="20261101064500 +0000" stop="20261101080000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Malaysia</title>
 </programme>
 <programme start="20261101080000 +0000" stop="20261101090000 +0000" channel="Trans 7.vision">
 <title>Redaksi Pagi Akhir Pekan</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101060000 +0000" stop="20261101080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101080000 +0000" stop="20261101090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
