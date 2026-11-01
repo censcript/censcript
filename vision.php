@@ -529,12 +529,6 @@
 <programme start="20261101154500 +0000" stop="20261101163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20261101163000 +0000" stop="20261101174500 +0000" channel="Trans 7.vision">
-<title>Belok Kanan Barcelona</title>
-</programme>
-<programme start="20261101174500 +0000" stop="20261101184500 +0000" channel="Trans 7.vision">
-<title>Moto2 Malaysia GP</title>
-</programme>
 <programme start="20261101184500 +0000" stop="20261101193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -619,17 +613,8 @@
 <programme start="20261101093000 +0000" stop="20261101104500 +0000" channel="ANTV.vision">
 <title>Naagin 1</title>
 </programme>
-<programme start="20261101104500 +0000" stop="20261101131500 +0000" channel="ANTV.vision">
-<title>Nada-Nada Rindu</title>
-</programme>
 <programme start="20261101131500 +0000" stop="20261101144500 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261101144500 +0000" stop="20261101164500 +0000" channel="ANTV.vision">
-<title>Manusia 6 Juta Dolar</title>
-</programme>
-<programme start="20261101164500 +0000" stop="20261101181500 +0000" channel="ANTV.vision">
-<title>The Inspector Wears Skirts</title>
 </programme>
 <programme start="20261101181500 +0000" stop="20261101193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1496,5 +1481,20 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261101080000 +0000" stop="20261101090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101090000 +0000" stop="20261101093000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101093000 +0000" stop="20261101103000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101103000 +0000" stop="20261101110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101110000 +0000" stop="20261101120000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101120000 +0000" stop="20261101130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -240,15 +240,15 @@
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qRVMZ4aShaFr84CfFKa80s4FUGE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5404298/828b4c.jpg"/>
   </programme>
-  <programme channel="204" start="20261101155600 +0000" stop="20261101183000 +0000">
+  <programme channel="204" start="20261101155600 +0000" stop="20261101183400 +0000">
     <title lang="id">Liverpool Vs Arsenal - Premier League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261101155600 +0000" stop="20261101183000 +0000">
+  <programme channel="204" start="20261101155600 +0000" stop="20261101183400 +0000">
     <title lang="id">Liverpool Vs Arsenal - Premier League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261101183000 +0000" stop="20261101200000 +0000">
+  <programme channel="204" start="20261101183400 +0000" stop="20261101200000 +0000">
     <title lang="id">Sinema Malam</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -12416,15 +12416,10 @@
     <desc lang="id">FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261101195500 +0000" stop="20261101220000 +0000">
+  <programme channel="6299" start="20261101195500 +0000" stop="20261101230000 +0000">
     <title lang="id">Race - Formula 1 Gran Premio de La Ciudad de Mexico 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Race - Formula 1 Gran Premio de La Ciudad de Mexico 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/aGiSKGtBa-cjtnfIRhhRh_bKo9I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415259/f12817.jpg"/>
-  </programme>
-  <programme channel="6299" start="20261101220000 +0000" stop="20261101230000 +0000">
-    <title lang="id">FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2026 : Chequered Flag 2026</title>
-    <desc lang="id">FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2026</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261101230000 +0000" stop="20261101233000 +0000">
     <title lang="id">FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2026 : Ted's Notebook 2026</title>
@@ -12611,10 +12606,10 @@
     <desc lang="id">Galatasaray vs Stuttgart - MD4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261103195500 +0000" stop="20261103220000 +0000">
-    <title lang="id">Man United vs Roma - MD4 : UEFA Champions League 2026/27</title>
-    <desc lang="id">Man United vs Roma - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261103200000 +0000" stop="20261103220000 +0000">
+    <title lang="id">Man Utd vs Roma - UEFA Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man Utd vs Roma - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/vld8CLHXWQeKdMpW9bz8loGp1Cs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421101/006bdb.jpg"/>
   </programme>
   <programme channel="6299" start="20261103220000 +0000" stop="20261103224500 +0000">
     <title lang="id">Tue, MD4 : The UCL Review Show 2026/27</title>
@@ -12696,30 +12691,30 @@
     <desc lang="id">Matchday 11</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261104125500 +0000" stop="20261104145500 +0000">
-    <title lang="id">Lens vs Como 1907 - MD4 : UEFA Youth League 2026/27</title>
-    <desc lang="id">Lens vs Como 1907 - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261104130000 +0000" stop="20261104150000 +0000">
+    <title lang="id">RC Lens vs Como - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru RC Lens vs Como - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/V1Y6G3w4cNQGN_Oy3aC0HjdxStA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421102/e2a858.jpg"/>
   </programme>
-  <programme channel="6299" start="20261104145500 +0000" stop="20261104170000 +0000">
-    <title lang="id">Dortmund vs Real Betis - MD4 : UEFA Youth League 2026/27</title>
-    <desc lang="id">Dortmund vs Real Betis - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261104150000 +0000" stop="20261104170000 +0000">
+    <title lang="id">Dortmund vs Real Betis - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Dortmund vs Real Betis - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jDtp7hEbDv_YZ83AFd8jSwP_jeU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421103/2f1119.jpg"/>
   </programme>
-  <programme channel="6299" start="20261104145500 +0000" stop="20261104170000 +0000">
-    <title lang="id">Dortmund vs Real Betis - MD4 : UEFA Youth League 2026/27</title>
-    <desc lang="id">Dortmund vs Real Betis - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261104150000 +0000" stop="20261104170000 +0000">
+    <title lang="id">Dortmund vs Real Betis - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Dortmund vs Real Betis - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jDtp7hEbDv_YZ83AFd8jSwP_jeU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421103/2f1119.jpg"/>
   </programme>
   <programme channel="6299" start="20261104170000 +0000" stop="20261104174000 +0000">
     <title lang="id">Wed, MD4 : The UCL Preview Show 2026/27</title>
     <desc lang="id">Wed, MD4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261104174000 +0000" stop="20261104195500 +0000">
-    <title lang="id">AEK Athens vs Real Madrid - MD4 : UEFA Champions League 2026/27</title>
-    <desc lang="id">AEK Athens vs Real Madrid - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261104174500 +0000" stop="20261104194500 +0000">
+    <title lang="id">Fenerbahce vs Liverpool - UEFA Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Fenerbahce vs Liverpool - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VtAtvzmg_wxxJvPb6ZjT8n5QoAg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421104/691ae2.jpg"/>
   </programme>
   <programme channel="6299" start="20261104195500 +0000" stop="20261104220000 +0000">
     <title lang="id">Slavia Prague vs Arsenal - MD4 : UEFA Champions League 2026/27</title>
@@ -13823,14 +13818,18 @@
     <desc lang="id">Nonton streaming pertandingan seru RC Strasbourg Alsace vs AJ Auxerre - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/wKbAYW7lPAwJGlBvQQKtzPZUJxY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5412453/ad0532.jpg"/>
   </programme>
-  <programme channel="9182" start="20261101160000 +0000" stop="20261101184500 +0000">
+  <programme channel="9182" start="20261101160000 +0000" stop="20261101183700 +0000">
     <title lang="id">Liverpool vs Arsenal - Premier League 2026/27</title>
     <desc lang="id">LIVERPOOL vs ARSENAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261101160000 +0000" stop="20261101184500 +0000">
+  <programme channel="9182" start="20261101160000 +0000" stop="20261101183700 +0000">
     <title lang="id">Liverpool vs Arsenal - Premier League 2026/27</title>
     <desc lang="id">LIVERPOOL vs ARSENAL</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261101183700 +0000" stop="20261101184500 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
   <programme channel="9182" start="20261101184500 +0000" stop="20261101190000 +0000">
@@ -15193,15 +15192,19 @@
     <title lang="id">Made in Italy 9</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261101164500 +0000" stop="20261101190000 +0000">
+  <programme channel="6786" start="20261101164500 +0000" stop="20261101185900 +0000">
     <title lang="id">Lecce vs Genoa - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Lecce vs Genoa - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JNzaYG_naw7-VKPGwACQSJ1Uq2w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415421/6b91b6.jpg"/>
   </programme>
-  <programme channel="6786" start="20261101164500 +0000" stop="20261101190000 +0000">
+  <programme channel="6786" start="20261101164500 +0000" stop="20261101185900 +0000">
     <title lang="id">Lecce vs Genoa - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Lecce vs Genoa - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JNzaYG_naw7-VKPGwACQSJ1Uq2w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415421/6b91b6.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261101185900 +0000" stop="20261101190000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261101190000 +0000" stop="20261101193000 +0000">
     <title lang="id">Show 7 : NFL Extra 2026/27</title>
@@ -15800,12 +15803,12 @@
     <desc lang="id">New Giza P2 Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261101172500 +0000" stop="20261101194000 +0000">
+  <programme channel="17875" start="20261101172500 +0000" stop="20261101192700 +0000">
     <title lang="id">Elche vs Valencia - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Elche vs Valencia - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/i0i78yoXtTaih0jr61d5s3kAmvg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5410323/cac18f.jpg"/>
   </programme>
-  <programme channel="17875" start="20261101194000 +0000" stop="20261101195500 +0000">
+  <programme channel="17875" start="20261101192700 +0000" stop="20261101195500 +0000">
     <title lang="id">2025 Men's Singles SF 2 Sinner v Djokovic : Roland Garros Match Highlights</title>
     <desc lang="id">2025 Men's Singles SF 2 Sinner v Djokovic</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -15930,10 +15933,10 @@
     <desc lang="id">Australia vs USA - Cup Final, Valladolid - Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261103195500 +0000" stop="20261103220000 +0000">
-    <title lang="id">Villarreal vs PSG - MD4 : UEFA Champions League 2026/27</title>
-    <desc lang="id">Villarreal vs PSG - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261103200000 +0000" stop="20261103220000 +0000">
+    <title lang="id">Villarreal vs Paris Saint-Germain - UEFA Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Villarreal vs Paris Saint-Germain - UEFA Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/CEwe21q6s5qRCU5-dNXzAx1xad4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421105/0bd86f.jpg"/>
   </programme>
   <programme channel="17875" start="20261103220000 +0000" stop="20261103222500 +0000">
     <title lang="id">Canada vs USA - 3rd Playoff, Bordeaux - Women : HSBC SVNS World Championships 2026</title>
@@ -17663,14 +17666,18 @@
     <desc lang="id">At just 16 years and 361 days old, Rio Ngumoha became Liverpool's youngest ever goalscorer, scoring a 100th minute winner on his Premier League debut at Newcastle. The records kept on falling in the 2025/26 season as the young winger went from wonderkid to first team regular. The East Londoner reflects on his meteoric rise and the importance of family support along the way.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261101153000 +0000" stop="20261101190000 +0000">
+  <programme channel="9353" start="20261101153000 +0000" stop="20261101183400 +0000">
     <title lang="id">Liverpool V Arsenal : Premier League LIVE</title>
     <desc lang="id">Premier League Live will be pitch-side at Anfield as Liverpool take on the champions Arsenal.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261101153000 +0000" stop="20261101190000 +0000">
+  <programme channel="9353" start="20261101153000 +0000" stop="20261101183400 +0000">
     <title lang="id">Liverpool V Arsenal : Premier League LIVE</title>
     <desc lang="id">Premier League Live will be pitch-side at Anfield as Liverpool take on the champions Arsenal.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
+  </programme>
+  <programme channel="9353" start="20261101183400 +0000" stop="20261101190000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261101190000 +0000" stop="20261101200000 +0000">
