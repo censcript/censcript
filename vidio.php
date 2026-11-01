@@ -1344,7 +1344,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20261101040000 +0000" stop="20261101050000 +0000">
-    <title lang="id">MOTO3 2026 MALAYSIA GP</title>
+    <title lang="id">Trans 7 program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20261101050000 +0000" stop="20261101054500 +0000">
@@ -1356,7 +1356,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20261101064500 +0000" stop="20261101080000 +0000">
-    <title lang="id">MOTOGP 2026 MALAYSIA GP</title>
+    <title lang="id">trans 7 program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VyDWgGuvUtZp5M006MXkTEIEpxw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-9dade4.jpg"/>
   </programme>
   <programme channel="734" start="20261101080000 +0000" stop="20261101090000 +0000">
@@ -2201,7 +2201,7 @@
   </programme>
   <programme channel="733" start="20261101233000 +0000" stop="20261102003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bk1h1WxArDKtTVInEV5Cm2ZUbpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382640/4833fb.png"/>
   </programme>
   <programme channel="733" start="20261102003000 +0000" stop="20261102013000 +0000">
     <title lang="id">CNN Indonesia Good Morning</title>
@@ -2265,7 +2265,7 @@
   </programme>
   <programme channel="733" start="20261102233000 +0000" stop="20261103003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bk1h1WxArDKtTVInEV5Cm2ZUbpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382640/4833fb.png"/>
   </programme>
   <programme channel="733" start="20261103003000 +0000" stop="20261103013000 +0000">
     <title lang="id">CNN Indonesia Good Morning</title>
@@ -2329,7 +2329,7 @@
   </programme>
   <programme channel="733" start="20261103233000 +0000" stop="20261104003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bk1h1WxArDKtTVInEV5Cm2ZUbpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382640/4833fb.png"/>
   </programme>
   <programme channel="733" start="20261104003000 +0000" stop="20261104013000 +0000">
     <title lang="id">CNN Indonesia Good Morning</title>
@@ -2393,7 +2393,7 @@
   </programme>
   <programme channel="733" start="20261104233000 +0000" stop="20261105003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bk1h1WxArDKtTVInEV5Cm2ZUbpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382640/4833fb.png"/>
   </programme>
   <programme channel="733" start="20261105003000 +0000" stop="20261105013000 +0000">
     <title lang="id">CNN Indonesia Good Morning</title>
@@ -2457,7 +2457,7 @@
   </programme>
   <programme channel="733" start="20261105233000 +0000" stop="20261106003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bk1h1WxArDKtTVInEV5Cm2ZUbpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382640/4833fb.png"/>
   </programme>
   <programme channel="733" start="20261106003000 +0000" stop="20261106013000 +0000">
     <title lang="id">CNN Indonesia Good Morning</title>
@@ -2521,7 +2521,7 @@
   </programme>
   <programme channel="733" start="20261106233000 +0000" stop="20261107003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bk1h1WxArDKtTVInEV5Cm2ZUbpI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382640/4833fb.png"/>
   </programme>
   <programme channel="733" start="20261107003000 +0000" stop="20261107020000 +0000">
     <title lang="id">Kajian Hati</title>
@@ -2787,22 +2787,22 @@
   <programme channel="782" start="20261102010000 +0000" stop="20261102023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/HDeZwms0ULIcMDnaE3zqYSWWjKY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415186/99a5c9.jpg"/>
   </programme>
   <programme channel="782" start="20261102023000 +0000" stop="20261102060000 +0000">
     <title lang="id">Mega Bollywood : Phir Bhi Dil Hai Hindustani</title>
     <desc lang="id">Mega Bollywood : Phir Bhi Dil Hai Hindustani</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/8fYg8v-uKRYuxs7ckkg9plFxsx8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415193/18a72b.png"/>
   </programme>
   <programme channel="782" start="20261102060000 +0000" stop="20261102073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_vXqPLfbuonwDMIfv225XhjQWfE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415194/64dcc6.jpg"/>
   </programme>
   <programme channel="782" start="20261102073000 +0000" stop="20261102093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tIKQPnIdkzPwjrJ1c5_kD8_eF2k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415201/ba9da6.jpg"/>
   </programme>
   <programme channel="782" start="20261102093000 +0000" stop="20261102104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -11531,20 +11531,20 @@
     <desc lang="id">FORMULA 1 GRAN PREMIO DE LA CIUDAD DE MEXICO 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261103125500 +0000" stop="20261103145500 +0000">
-    <title lang="id">Man United vs Roma - MD4 : UEFA Youth League 2026/27</title>
-    <desc lang="id">Man United vs Roma - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261103125500 +0000" stop="20261103150000 +0000">
+    <title lang="id">Man Utd vs Roma - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Man Utd vs Roma - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/avKyxsB9kkeRnLDgllo38ddXodI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420222/1dae38.jpg"/>
   </programme>
-  <programme channel="6299" start="20261103145500 +0000" stop="20261103170000 +0000">
-    <title lang="id">Atletico Madrid vs Bayern - MD4 : UEFA Youth League 2026/27</title>
-    <desc lang="id">Atletico Madrid vs Bayern - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261103150000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Atletico Madrid vs Bayern - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Bayern - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/AGdUPitUMkxFPuM8bbJA2A5hTRU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420223/861f15.jpg"/>
   </programme>
-  <programme channel="6299" start="20261103145500 +0000" stop="20261103170000 +0000">
-    <title lang="id">Atletico Madrid vs Bayern - MD4 : UEFA Youth League 2026/27</title>
-    <desc lang="id">Atletico Madrid vs Bayern - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261103150000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Atletico Madrid vs Bayern - UEFA Youth League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Bayern - UEFA Youth League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/AGdUPitUMkxFPuM8bbJA2A5hTRU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420223/861f15.jpg"/>
   </programme>
   <programme channel="6299" start="20261103170000 +0000" stop="20261103174000 +0000">
     <title lang="id">Tue, MD4 : The UCL Preview Show 2026/27</title>
@@ -12035,12 +12035,12 @@
     <desc lang="id">Ujian berat Nathan Tjoe-A-On meredam gempuran raksasa PSV Eindhoven!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/dIx2NSA15JA7ZjpAeOj6SI_Pon0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5410123/d8332b.jpg"/>
   </programme>
-  <programme channel="6685" start="20261031200000 +0000" stop="20261031220000 +0000">
+  <programme channel="6685" start="20261031200000 +0000" stop="20261031220600 +0000">
     <title lang="id">Ajax vs AZ Alkmaar - Eredivisie</title>
     <desc lang="id">Panasnya bentrokan derbi wilayah utara Belanda!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-W98CYVtfJoxEAXt4YcYk6zDW3s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5410124/321fa3.jpg"/>
   </programme>
-  <programme channel="6685" start="20261031220000 +0000" stop="20261101000000 +0000">
+  <programme channel="6685" start="20261031220600 +0000" stop="20261101000000 +0000">
     <title lang="id">Liverpool vs Chelsea : Carabao Cup 2026/27</title>
     <desc lang="id">Liverpool vs Chelsea</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -12109,6 +12109,16 @@
     <title lang="id">Feyenoord vs Fortuna Sittard : Dutch League Eredivisie 2026/27</title>
     <desc lang="id">Feyenoord vs Fortuna Sittard</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261101180000 +0000" stop="20261101212500 +0000">
+    <title lang="id">Baltimore Ravens vs Buffalo Bills - NFL</title>
+    <desc lang="id">Nonton streaming pertandingan seru Baltimore Ravens vs Buffalo Bills - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VD1UEE_rLMMeCHv7JWlz_eE7sHw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420228/cbd290.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261101212500 +0000" stop="20261102005500 +0000">
+    <title lang="id">Kansas City Chiefs vs Denver Broncos - NFL</title>
+    <desc lang="id">Nonton streaming pertandingan seru Kansas City Chiefs vs Denver Broncos - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Go6K4I6ULOm6W-e2kHtlOIwurc0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420229/e13080.jpg"/>
   </programme>
   <programme channel="9182" start="20261031144300 +0000" stop="20261031170600 +0000">
     <title lang="id">Man City vs Brighton - Premier League</title>
@@ -12216,7 +12226,7 @@
   </programme>
   <programme channel="9182" start="20261101194000 +0000" stop="20261101215500 +0000">
     <title lang="id">Olympique de Marseille vs Toulouse FC - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Olympique de Marseille vs Toulouse FC - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Akankah Marseille bisa meraih kemenangan mudah di kandang sendiri saat menjamu Toulouse?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/7hfCQU9dLceuF6SmqTmqQv-qegE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415263/7bce15.jpg"/>
   </programme>
   <programme channel="6317" start="20261031155500 +0000" stop="20261031180000 +0000">
@@ -12977,12 +12987,12 @@
     <desc lang="id">MILAN vs INTER</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261101030000 +0000" stop="20261101050000 +0000">
+  <programme channel="6786" start="20261101030000 +0000" stop="20261101052500 +0000">
     <title lang="id">Leylah Fernandez vs Diana Shnaider - Final | WTA 500: Toray Pan Pacific Open Tennis 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final - WTA 500: Toray Pan Pacific Open Tennis 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/QSyNwgIJ5ev1KzuwcrWGIUWrYYo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419565/dd0fb9.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/dsSA7Dts9EMY-G4vhb3OgRrQsIM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419565/015ddb.jpg"/>
   </programme>
-  <programme channel="6786" start="20261101050000 +0000" stop="20261101053000 +0000">
+  <programme channel="6786" start="20261101052500 +0000" stop="20261101053000 +0000">
     <title lang="id">Eps 15 : Sport Woman</title>
     <desc lang="id">Eps 15</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -13056,7 +13066,7 @@
   </programme>
   <programme channel="6786" start="20261101193000 +0000" stop="20261101214500 +0000">
     <title lang="id">Juventus vs Napoli - Serie A</title>
-    <desc lang="id">Nonton streaming pertandingan seru Juventus vs Napoli - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah Luciano Spalletti membawa kemenangan untuk Juventus melawan mantan tim asuhannya?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BXSjASx_Z7fotiHjPocYqW2lvyU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5418847/ea514e.jpg"/>
   </programme>
   <programme channel="17875" start="20261031150700 +0000" stop="20261031171500 +0000">
@@ -13191,7 +13201,7 @@
   </programme>
   <programme channel="17875" start="20261101195500 +0000" stop="20261101220000 +0000">
     <title lang="id">Athletic Club vs Real Sociedad - LaLiga</title>
-    <desc lang="id">Jangan lewatkan salah satu derbi paling bergengsi dan sarat tradisi di dunia!</desc>
+    <desc lang="id">Derby Basque! Jangan lewatkan salah satu derbi paling bergengsi dan sarat tradisi di dunia kala Athletic Club kedatangan Real Sociedad!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/0fKMexKF9o2O9vLW3sZfoKovnps=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5410325/a3d10f.jpg"/>
   </programme>
   <programme channel="17875" start="20261101220000 +0000" stop="20261101233000 +0000">
@@ -13234,40 +13244,15 @@
     <desc lang="id">Trabzonspor vs Gaziantep</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261102110000 +0000" stop="20261102123000 +0000">
-    <title lang="id">Day 1 Match 1 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261102110000 +0000" stop="20261102193000 +0000">
+    <title lang="id">FIP World Cup 2026 - Day 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru FIP World Cup 2026 - Day 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/F2gxls6wvjTJPZL3FJFZP4eIfLo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420224/3e7ad4.png"/>
   </programme>
-  <programme channel="17875" start="20261102123000 +0000" stop="20261102140000 +0000">
-    <title lang="id">Day 1 Match 2 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261102140000 +0000" stop="20261102150000 +0000">
-    <title lang="id">Day 1 Match 3 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261102150000 +0000" stop="20261102163000 +0000">
-    <title lang="id">Day 1 Match 4 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261102163000 +0000" stop="20261102180000 +0000">
-    <title lang="id">Day 1 Match 5 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 5</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261102163000 +0000" stop="20261102180000 +0000">
-    <title lang="id">Day 1 Match 5 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 5</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261102180000 +0000" stop="20261102193000 +0000">
-    <title lang="id">Day 1 Match 6 : FIP World Cup 2026</title>
-    <desc lang="id">Day 1 Match 6</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261102110000 +0000" stop="20261102193000 +0000">
+    <title lang="id">FIP World Cup 2026 - Day 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru FIP World Cup 2026 - Day 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/F2gxls6wvjTJPZL3FJFZP4eIfLo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420224/3e7ad4.png"/>
   </programme>
   <programme channel="17875" start="20261102193000 +0000" stop="20261102210000 +0000">
     <title lang="id">Day 1 Match 1 : FIP World Cup 2026</title>
@@ -13319,40 +13304,15 @@
     <desc lang="id">Day 1 Match 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261103110000 +0000" stop="20261103123000 +0000">
-    <title lang="id">Day 2 Match 1 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261103110000 +0000" stop="20261103193000 +0000">
+    <title lang="id">FIP World Cup 2026 - Day 2</title>
+    <desc lang="id">Nonton streaming pertandingan seru FIP World Cup 2026 - Day 2. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/8aDk4AKccyRxsc0vF80JFNpV4o0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420225/4431a6.png"/>
   </programme>
-  <programme channel="17875" start="20261103123000 +0000" stop="20261103140000 +0000">
-    <title lang="id">Day 2 Match 2 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261103140000 +0000" stop="20261103150000 +0000">
-    <title lang="id">Day 2 Match 3 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261103150000 +0000" stop="20261103163000 +0000">
-    <title lang="id">Day 2 Match 4 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261103163000 +0000" stop="20261103180000 +0000">
-    <title lang="id">Day 2 Match 5 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 5</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261103163000 +0000" stop="20261103180000 +0000">
-    <title lang="id">Day 2 Match 5 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 5</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261103180000 +0000" stop="20261103193000 +0000">
-    <title lang="id">Day 2 Match 6 : FIP World Cup 2026</title>
-    <desc lang="id">Day 2 Match 6</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261103110000 +0000" stop="20261103193000 +0000">
+    <title lang="id">FIP World Cup 2026 - Day 2</title>
+    <desc lang="id">Nonton streaming pertandingan seru FIP World Cup 2026 - Day 2. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/8aDk4AKccyRxsc0vF80JFNpV4o0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420225/4431a6.png"/>
   </programme>
   <programme channel="17875" start="20261103193000 +0000" stop="20261103195500 +0000">
     <title lang="id">Australia vs USA - Cup Final, Valladolid - Women : HSBC SVNS World Championships 2026</title>
@@ -18826,7 +18786,7 @@
   </programme>
   <programme channel="6410" start="20261031193000 +0000" stop="20261031200000 +0000">
     <title lang="id">The Listening Post</title>
-    <desc lang="id">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="id">Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261031200000 +0000" stop="20261031210000 +0000">
@@ -18846,7 +18806,7 @@
   </programme>
   <programme channel="6410" start="20261031223000 +0000" stop="20261031230000 +0000">
     <title lang="id">The Bottom Line</title>
-    <desc lang="id">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="id">Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261031230000 +0000" stop="20261031233000 +0000">
@@ -18881,7 +18841,7 @@
   </programme>
   <programme channel="6410" start="20261101033000 +0000" stop="20261101040000 +0000">
     <title lang="id">Upfront</title>
-    <desc lang="id">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="id">Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261101040000 +0000" stop="20261101043000 +0000">
@@ -18891,7 +18851,7 @@
   </programme>
   <programme channel="6410" start="20261101043000 +0000" stop="20261101050000 +0000">
     <title lang="id">Counting The Cost</title>
-    <desc lang="id">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="id">Can Britain's budget ease living costs and sustain growth while keeping investors on side?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261101050000 +0000" stop="20261101053000 +0000">
@@ -18911,7 +18871,7 @@
   </programme>
   <programme channel="6410" start="20261101063000 +0000" stop="20261101070000 +0000">
     <title lang="id">Fault Lines</title>
-    <desc lang="id">Fault Lines investigates the disappearance of three fishermen in two U.S. boat strikes, exposing the human toll of Operation Southern Spear.</desc>
+    <desc lang="id">A hospital in South Sudan becomes the center of a health and hunger crisis as the U.S. cuts humanitarian aid.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261101070000 +0000" stop="20261101080000 +0000">
@@ -18926,7 +18886,7 @@
   </programme>
   <programme channel="6410" start="20261101083000 +0000" stop="20261101090000 +0000">
     <title lang="id">The Listening Post</title>
-    <desc lang="id">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="id">Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261101090000 +0000" stop="20261101093000 +0000">
@@ -18936,7 +18896,7 @@
   </programme>
   <programme channel="6410" start="20261101093000 +0000" stop="20261101100000 +0000">
     <title lang="id">The Bottom Line</title>
-    <desc lang="id">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="id">Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261101100000 +0000" stop="20261101110000 +0000">
@@ -19011,7 +18971,7 @@
   </programme>
   <programme channel="6410" start="20261101193000 +0000" stop="20261101200000 +0000">
     <title lang="id">Al Jazeera Reels</title>
-    <desc lang="id">A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc lang="id">Seven stories explore Lebanon's contradictions from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261101200000 +0000" stop="20261101210000 +0000">
@@ -19066,7 +19026,7 @@
   </programme>
   <programme channel="6410" start="20261102033000 +0000" stop="20261102040000 +0000">
     <title lang="id">The Bottom Line</title>
-    <desc lang="id">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="id">Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102040000 +0000" stop="20261102043000 +0000">
@@ -19076,7 +19036,7 @@
   </programme>
   <programme channel="6410" start="20261102043000 +0000" stop="20261102050000 +0000">
     <title lang="id">The Listening Post</title>
-    <desc lang="id">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="id">Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102050000 +0000" stop="20261102053000 +0000">
@@ -19096,7 +19056,7 @@
   </programme>
   <programme channel="6410" start="20261102063000 +0000" stop="20261102070000 +0000">
     <title lang="id">101 East</title>
-    <desc lang="id">101 East reports on the people and events shaping the Asia Pacific region. .</desc>
+    <desc lang="id">As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse. 101 East investigates.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102070000 +0000" stop="20261102080000 +0000">
@@ -19111,7 +19071,7 @@
   </programme>
   <programme channel="6410" start="20261102083000 +0000" stop="20261102090000 +0000">
     <title lang="id">Talk To Al Jazeera</title>
-    <desc lang="id">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="id">The founder of India's Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102090000 +0000" stop="20261102093000 +0000">
@@ -19156,7 +19116,7 @@
   </programme>
   <programme channel="6410" start="20261102143000 +0000" stop="20261102150000 +0000">
     <title lang="id">Counting The Cost</title>
-    <desc lang="id">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="id">Can Britain's budget ease living costs and sustain growth while keeping investors on side?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102150000 +0000" stop="20261102160000 +0000">
@@ -19195,8 +19155,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102200000 +0000" stop="20261102210000 +0000">
-    <title lang="id">Al Jazeera World</title>
-    <desc lang="id">The story of Avraham Stern, leader of a major Zionist armed group that fought the British Mandate in 1930s Palestine with the aim of creating a Jewish state.</desc>
+    <title lang="id">Vietnam - 50 Years Of Forgetting</title>
+    <desc lang="id">The granddaughter of a Vietnamese hero explores the enduring legacy of the Vietnam War on her family and country.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261102210000 +0000" stop="20261102220000 +0000">
@@ -19256,7 +19216,7 @@
   </programme>
   <programme channel="6410" start="20261103043000 +0000" stop="20261103050000 +0000">
     <title lang="id">Talk To Al Jazeera</title>
-    <desc lang="id">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="id">The founder of India's Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103050000 +0000" stop="20261103053000 +0000">
@@ -19276,7 +19236,7 @@
   </programme>
   <programme channel="6410" start="20261103063000 +0000" stop="20261103070000 +0000">
     <title lang="id">Upfront</title>
-    <desc lang="id">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="id">Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103070000 +0000" stop="20261103080000 +0000">
@@ -19291,7 +19251,7 @@
   </programme>
   <programme channel="6410" start="20261103083000 +0000" stop="20261103090000 +0000">
     <title lang="id">Al Jazeera Reels</title>
-    <desc lang="id">A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc lang="id">Seven stories explore Lebanon's contradictions from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103090000 +0000" stop="20261103093000 +0000">
@@ -19301,7 +19261,7 @@
   </programme>
   <programme channel="6410" start="20261103093000 +0000" stop="20261103100000 +0000">
     <title lang="id">Witness</title>
-    <desc lang="id">When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to restore its artefacts and revive its beauty.</desc>
+    <desc lang="id">A young Indonesian Indigenous leader makes bold plans to protect her village from Borneo's wildfires.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103100000 +0000" stop="20261103110000 +0000">
@@ -19320,8 +19280,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103120000 +0000" stop="20261103130000 +0000">
-    <title lang="id">Witness</title>
-    <desc lang="id">When the ancient Iraqi city of Mosul is devastated after liberation from ISIL, three men strive to restore its artefacts and revive its beauty.</desc>
+    <title lang="id">Vietnam - 50 Years Of Forgetting</title>
+    <desc lang="id">The granddaughter of a Vietnamese hero explores the enduring legacy of the Vietnam War on her family and country.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103130000 +0000" stop="20261103140000 +0000">
@@ -19336,7 +19296,7 @@
   </programme>
   <programme channel="6410" start="20261103143000 +0000" stop="20261103150000 +0000">
     <title lang="id">The Listening Post</title>
-    <desc lang="id">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="id">Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103150000 +0000" stop="20261103160000 +0000">
@@ -19345,13 +19305,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103160000 +0000" stop="20261103170000 +0000">
-    <title lang="id">News LIVE</title>
-    <desc lang="id">Up-to-date news and analysis from around the world.</desc>
+    <title lang="id">Newshour</title>
+    <desc lang="id">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103160000 +0000" stop="20261103170000 +0000">
-    <title lang="id">News LIVE</title>
-    <desc lang="id">Up-to-date news and analysis from around the world.</desc>
+    <title lang="id">Newshour</title>
+    <desc lang="id">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261103170000 +0000" stop="20261103173000 +0000">
@@ -19410,8 +19370,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261104010000 +0000" stop="20261104020000 +0000">
-    <title lang="id">Silenced: The War On Journalism</title>
-    <desc lang="id">A gripping look at journalism's ultimate sacrifice, told through stories of courage, loss and unwavering conviction.</desc>
+    <title lang="id">Vietnam - 50 Years Of Forgetting</title>
+    <desc lang="id">The granddaughter of a Vietnamese hero explores the enduring legacy of the Vietnam War on her family and country.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261104020000 +0000" stop="20261104030000 +0000">
@@ -19436,7 +19396,7 @@
   </programme>
   <programme channel="6410" start="20261104043000 +0000" stop="20261104050000 +0000">
     <title lang="id">Al Jazeera Reels</title>
-    <desc lang="id">A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc lang="id">Seven stories explore Lebanon's contradictions from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261104050000 +0000" stop="20261104053000 +0000">
@@ -19456,7 +19416,7 @@
   </programme>
   <programme channel="6410" start="20261104063000 +0000" stop="20261104070000 +0000">
     <title lang="id">The Bottom Line</title>
-    <desc lang="id">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="id">Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261104070000 +0000" stop="20261104080000 +0000">
@@ -19471,7 +19431,7 @@
   </programme>
   <programme channel="6410" start="20261104083000 +0000" stop="20261104090000 +0000">
     <title lang="id">The Listening Post</title>
-    <desc lang="id">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="id">Billions flood the U.S. midterms as AI-generated ads blur fact and fiction. Plus, what is the story emerging from Israel post-elections?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261104090000 +0000" stop="20261104093000 +0000">
@@ -19516,7 +19476,7 @@
   </programme>
   <programme channel="6410" start="20261104143000 +0000" stop="20261104150000 +0000">
     <title lang="id">Talk To Al Jazeera</title>
-    <desc lang="id">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="id">The founder of India's Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261104150000 +0000" stop="20261104160000 +0000">
@@ -19616,7 +19576,7 @@
   </programme>
   <programme channel="6410" start="20261105043000 +0000" stop="20261105050000 +0000">
     <title lang="id">Upfront</title>
-    <desc lang="id">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="id">Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261105050000 +0000" stop="20261105053000 +0000">
@@ -19651,7 +19611,7 @@
   </programme>
   <programme channel="6410" start="20261105083000 +0000" stop="20261105090000 +0000">
     <title lang="id">The Bottom Line</title>
-    <desc lang="id">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="id">Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261105090000 +0000" stop="20261105093000 +0000">
@@ -19696,7 +19656,7 @@
   </programme>
   <programme channel="6410" start="20261105143000 +0000" stop="20261105150000 +0000">
     <title lang="id">Al Jazeera Reels</title>
-    <desc lang="id">A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc lang="id">Seven stories explore Lebanon's contradictions from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261105150000 +0000" stop="20261105160000 +0000">
@@ -19831,7 +19791,7 @@
   </programme>
   <programme channel="6410" start="20261106083000 +0000" stop="20261106090000 +0000">
     <title lang="id">Al Jazeera Reels</title>
-    <desc lang="id">A new generation of voices takes on major stories in news, culture and technology, bringing unexpected angles, deeper context and distinct perspectives.</desc>
+    <desc lang="id">Seven stories explore Lebanon's contradictions from banks and identity to sectarian power, diaspora, war and the compromises holding it together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261106090000 +0000" stop="20261106093000 +0000">
@@ -19869,9 +19829,14 @@
     <desc lang="id">Latest news and in-depth analysis from around the world.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
-  <programme channel="6410" start="20261106140000 +0000" stop="20261106150000 +0000">
+  <programme channel="6410" start="20261106140000 +0000" stop="20261106143000 +0000">
     <title lang="id">News LIVE</title>
     <desc lang="id">Up-to-date news and analysis from around the world.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
+  </programme>
+  <programme channel="6410" start="20261106143000 +0000" stop="20261106150000 +0000">
+    <title lang="id">Fault Lines</title>
+    <desc lang="id">Fault Lines investigates evidence of torture, starvation and sexual abuse of Palestinians inside Israeli prisons.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261106150000 +0000" stop="20261106160000 +0000">
@@ -19910,8 +19875,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261106200000 +0000" stop="20261106210000 +0000">
-    <title lang="id">Let'S Focus</title>
-    <desc lang="id">Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="id">Al Jazeera World</title>
+    <desc lang="id">Thriving trading nation or a land without a people? This 20th century history uses sources and testimonies to show the other side of the Palestinian story.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261106210000 +0000" stop="20261106220000 +0000">
@@ -20035,8 +20000,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261107120000 +0000" stop="20261107130000 +0000">
-    <title lang="id">Let'S Focus</title>
-    <desc lang="id">Designed for viewers seeking context, depth and clarity, Let's Focus unpacks the U.S. midterm elections and treats audiences as citizens rather than spectators.</desc>
+    <title lang="id">Al Jazeera World</title>
+    <desc lang="id">Thriving trading nation or a land without a people? This 20th century history uses sources and testimonies to show the other side of the Palestinian story.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/azLqEW77kBcm2VAzo4lo8tCOmPE=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6410/aljazeera-f65dea.jpg"/>
   </programme>
   <programme channel="6410" start="20261107130000 +0000" stop="20261107140000 +0000">
@@ -30380,6 +30345,420 @@
   <programme channel="18189" start="20261101140000 +0000" stop="20261101170000 +0000">
     <title lang="id">PGA TOUR</title>
     <desc lang="id">VidantaWorld Mexico Open Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261101170000 +0000" stop="20261101190000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261101190000 +0000" stop="20261101230000 +0000">
+    <title lang="id">Round 4 - VidantaWorld Mexico Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - VidantaWorld Mexico Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/c4pCUZqeM6bdraTML5hiYYsk4ZQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5420221/03a808.png"/>
+  </programme>
+  <programme channel="18189" start="20261101230000 +0000" stop="20261101233000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Learning Center - 26-026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261101233000 +0000" stop="20261102023000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102023000 +0000" stop="20261102030000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102030000 +0000" stop="20261102060000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102060000 +0000" stop="20261102090000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102090000 +0000" stop="20261102093000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102093000 +0000" stop="20261102100000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Learning Center - 26-026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102100000 +0000" stop="20261102130000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102130000 +0000" stop="20261102160000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102160000 +0000" stop="20261102170000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102160000 +0000" stop="20261102170000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102170000 +0000" stop="20261102200000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102200000 +0000" stop="20261102230000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261102230000 +0000" stop="20261103000000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">Butterfield Bermuda Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103000000 +0000" stop="20261103030000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">SAS Championship Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103030000 +0000" stop="20261103060000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103060000 +0000" stop="20261103090000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103090000 +0000" stop="20261103093000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 33</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103093000 +0000" stop="20261103100000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Learning Center - 26-025</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103100000 +0000" stop="20261103130000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103130000 +0000" stop="20261103160000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103160000 +0000" stop="20261103170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Stifel Charity Classic Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103160000 +0000" stop="20261103170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Stifel Charity Classic Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103170000 +0000" stop="20261103200000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103200000 +0000" stop="20261103230000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261103230000 +0000" stop="20261104000000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Stifel Charity Classic Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104000000 +0000" stop="20261104030000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">SAS Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104030000 +0000" stop="20261104043000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 7</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104043000 +0000" stop="20261104050000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104050000 +0000" stop="20261104060000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Simmons Bank Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104060000 +0000" stop="20261104090000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104090000 +0000" stop="20261104120000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104120000 +0000" stop="20261104150000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104150000 +0000" stop="20261104153000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Learning Center - 26-026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104153000 +0000" stop="20261104160000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104160000 +0000" stop="20261104170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Simmons Bank Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104160000 +0000" stop="20261104170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Simmons Bank Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104170000 +0000" stop="20261104183000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 7</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104183000 +0000" stop="20261104190000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104190000 +0000" stop="20261104200000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Simmons Bank Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104200000 +0000" stop="20261104230000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261104230000 +0000" stop="20261105000000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105000000 +0000" stop="20261105030000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">SAS Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105030000 +0000" stop="20261105043000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 8</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105043000 +0000" stop="20261105050000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105050000 +0000" stop="20261105060000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">SAS Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105060000 +0000" stop="20261105090000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105090000 +0000" stop="20261105093000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 34</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105093000 +0000" stop="20261105110000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 13</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105110000 +0000" stop="20261105140000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Stifel Charity Classic Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105140000 +0000" stop="20261105170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Stifel Charity Classic Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105140000 +0000" stop="20261105170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Stifel Charity Classic Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105170000 +0000" stop="20261105183000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105183000 +0000" stop="20261105190000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">Butterfield Bermuda Championship Playoff</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105190000 +0000" stop="20261105220000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105220000 +0000" stop="20261105230000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Jefferson Lehigh Valley Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261105230000 +0000" stop="20261106000000 +0000">
+    <title lang="id">Official Film</title>
+    <desc lang="id">The Player Champions 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106000000 +0000" stop="20261106013000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106013000 +0000" stop="20261106020000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Learning Center - 26-024</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106020000 +0000" stop="20261106050000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106050000 +0000" stop="20261106060000 +0000">
+    <title lang="id">Official Film</title>
+    <desc lang="id">FedExCup Playoffs 2026</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106060000 +0000" stop="20261106090000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106090000 +0000" stop="20261106093000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 35</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106093000 +0000" stop="20261106110000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 6</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106110000 +0000" stop="20261106140000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106140000 +0000" stop="20261106170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106140000 +0000" stop="20261106170000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONSHIP</title>
+    <desc lang="id">Simmons Bank Championship Round 3</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106170000 +0000" stop="20261106183000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 5</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106183000 +0000" stop="20261106190000 +0000">
+    <title lang="id">The CUT 2026</title>
+    <desc lang="id">Eps 32</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106190000 +0000" stop="20261106220000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106220000 +0000" stop="20261106230000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">Bank of Utah Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261106230000 +0000" stop="20261107000000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Simmons Bank Championship Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107000000 +0000" stop="20261107013000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107013000 +0000" stop="20261107020000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <desc lang="id">Learning Center - 26-025</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107020000 +0000" stop="20261107050000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107050000 +0000" stop="20261107060000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Highlight</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107060000 +0000" stop="20261107063000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">Butterfield Bermuda Championship Playoff</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107063000 +0000" stop="20261107093000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 1</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107093000 +0000" stop="20261107110000 +0000">
+    <title lang="id">On The Range 2026</title>
+    <desc lang="id">Eps 7</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107110000 +0000" stop="20261107140000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">World Wide Technology Championship Round 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261107140000 +0000" stop="20261107170000 +0000">
+    <title lang="id">PGA TOUR</title>
+    <desc lang="id">VidantaWorld Mexico Open Round 4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18190" start="20261031140000 +0000" stop="20261031190000 +0000">

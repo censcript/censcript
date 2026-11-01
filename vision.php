@@ -499,9 +499,6 @@
 <programme start="20261101031500 +0000" stop="20261101040000 +0000" channel="Trans 7.vision">
 <title>Enaknya Mantul</title>
 </programme>
-<programme start="20261101040000 +0000" stop="20261101050000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Malaysia GP</title>
-</programme>
 <programme start="20261101050000 +0000" stop="20261101054500 +0000" channel="Trans 7.vision">
 <title>Jejak Petualang</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261101043000 +0000" stop="20261101050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
