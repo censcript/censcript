@@ -7771,104 +7771,98 @@
 <programme start="20261101183000 +0000" stop="20261101200000 +0000" channel="SCTV.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
 </programme>
-<programme start="20261101200000 +0000" stop="20261101210000 +0000" channel="SCTV.mncvision">
+<programme start="20261101200000 +0000" stop="20261101210600 +0000" channel="SCTV.mncvision">
     <title>Tiga Sahabat Mengejar Cinta</title>
 </programme>
-<programme start="20261101210000 +0000" stop="20261101213000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261101210600 +0000" stop="20261101213300 +0000" channel="SCTV.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261101213300 +0000" stop="20261101215500 +0000" channel="SCTV.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261101215500 +0000" stop="20261101230000 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261101230000 +0000" stop="20261102001900 +0000" channel="SCTV.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20261102000000 +0000" stop="20261102010000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102001900 +0000" stop="20261102011300 +0000" channel="SCTV.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261102010000 +0000" stop="20261102030000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102011300 +0000" stop="20261102025400 +0000" channel="SCTV.mncvision">
+    <title>Demi Oppa Ganteng Dari Kroya</title>
 </programme>
-<programme start="20261102030000 +0000" stop="20261102050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102025400 +0000" stop="20261102044500 +0000" channel="SCTV.mncvision">
+    <title>Nikah Aja Dulu Cintanya Nyusul</title>
 </programme>
-<programme start="20261102050000 +0000" stop="20261102053000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102044500 +0000" stop="20261102052100 +0000" channel="SCTV.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261102053000 +0000" stop="20261102090000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102052100 +0000" stop="20261102100000 +0000" channel="SCTV.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261102090000 +0000" stop="20261102100000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102100000 +0000" stop="20261102112200 +0000" channel="SCTV.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261102100000 +0000" stop="20261102110000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102112200 +0000" stop="20261102125600 +0000" channel="SCTV.mncvision">
+    <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261102110000 +0000" stop="20261102123000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102125600 +0000" stop="20261102143000 +0000" channel="SCTV.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261102123000 +0000" stop="20261102150000 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102143000 +0000" stop="20261102160000 +0000" channel="SCTV.mncvision">
+    <title>Kesetiaan</title>
 </programme>
-<programme start="20261102150000 +0000" stop="20261102161500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20261102161500 +0000" stop="20261102164500 +0000" channel="SCTV.mncvision">
-    <title>SCTV</title>
+<programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="SCTV.mncvision">
+    <title>My Husband My Enemy</title>
 </programme>
 <programme start="20261101183000 +0000" stop="20261101200000 +0000" channel="SCTV HD.mncvision">
     <title>Arafta: Terbelenggu Takdir</title>
 </programme>
-<programme start="20261101200000 +0000" stop="20261101210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261101200000 +0000" stop="20261101210600 +0000" channel="SCTV HD.mncvision">
     <title>Tiga Sahabat Mengejar Cinta</title>
 </programme>
-<programme start="20261101210000 +0000" stop="20261101213000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261101210600 +0000" stop="20261101213300 +0000" channel="SCTV HD.mncvision">
+    <title>Indahnya Kebersamaan</title>
 </programme>
-<programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261101213300 +0000" stop="20261101215500 +0000" channel="SCTV HD.mncvision">
+    <title>Buser</title>
 </programme>
-<programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261101215500 +0000" stop="20261101230000 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261101230000 +0000" stop="20261102001900 +0000" channel="SCTV HD.mncvision">
+    <title>Hot Shot</title>
 </programme>
-<programme start="20261102000000 +0000" stop="20261102010000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102001900 +0000" stop="20261102011300 +0000" channel="SCTV HD.mncvision">
+    <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261102010000 +0000" stop="20261102030000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102011300 +0000" stop="20261102025400 +0000" channel="SCTV HD.mncvision">
+    <title>Demi Oppa Ganteng Dari Kroya</title>
 </programme>
-<programme start="20261102030000 +0000" stop="20261102050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102025400 +0000" stop="20261102044500 +0000" channel="SCTV HD.mncvision">
+    <title>Nikah Aja Dulu Cintanya Nyusul</title>
 </programme>
-<programme start="20261102050000 +0000" stop="20261102053000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102044500 +0000" stop="20261102052100 +0000" channel="SCTV HD.mncvision">
+    <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261102053000 +0000" stop="20261102090000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102052100 +0000" stop="20261102100000 +0000" channel="SCTV HD.mncvision">
+    <title>Samudra Cinta</title>
 </programme>
-<programme start="20261102090000 +0000" stop="20261102100000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102100000 +0000" stop="20261102112200 +0000" channel="SCTV HD.mncvision">
+    <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261102100000 +0000" stop="20261102110000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102112200 +0000" stop="20261102125600 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261102110000 +0000" stop="20261102123000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102125600 +0000" stop="20261102143000 +0000" channel="SCTV HD.mncvision">
+    <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261102123000 +0000" stop="20261102150000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102143000 +0000" stop="20261102160000 +0000" channel="SCTV HD.mncvision">
+    <title>Kesetiaan</title>
 </programme>
-<programme start="20261102150000 +0000" stop="20261102161500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
-</programme>
-<programme start="20261102161500 +0000" stop="20261102164500 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV</title>
+<programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="SCTV HD.mncvision">
+    <title>My Husband My Enemy</title>
 </programme>
 <programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="Sindo News TV.mncvision">
     <title>OMG</title>

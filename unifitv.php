@@ -891,7 +891,7 @@
   </programme>
   <programme start="20261102030000 +0000" stop="20261102033000 +0000" channel="tv2.unifitv">
     <title lang="en">Ammavin Parambariya Samayal</title>
-    <desc lang="en">Cef Jothi memasak masakan tradisional Vanjarameen Briyani serta Seppakilangu Tandu Poriyal dan tetamu undangan memasak Pottukadalai Boli.</desc>
+    <desc lang="en">Cef Jothi memasak masakan tradisional Mudakkatan Nandu Rasam serta Mutton Kolah Urundai dan tetamu jemputan memasak kuih Kopi Sukku Panangkarkandu.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -929,7 +929,7 @@
   </programme>
   <programme start="20261102070000 +0000" stop="20261102080000 +0000" channel="tv2.unifitv">
     <title lang="en">Annai Madi</title>
-    <desc lang="en">Vijay dan Priya menyiasat latar belakang Seetharaman, seorang ahli koperat berjaya yang mungkin terlibat dengan percubaan membunuh Kamala di ladang kelapa sawit pada satu ketika dahulu. Vijay , Priya dan Prema merancang untuk mengambil 'DNA' pada Seetharaman untuk memastikan adakah Priya merupakan anak kandung Seetharaman.</desc>
+    <desc lang="en">Kesengsaraan dan kesedihan Priya sepanjang dua minggu telah berakhir. Kini semuanya telah terbongkar dan Priya telah berjaya menemui ibu kandunganya.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.12.</episode-num>
     <episode-num system="onscreen">S1E13</episode-num>
