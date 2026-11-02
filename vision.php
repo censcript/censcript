@@ -631,20 +631,11 @@
 <programme start="20261102093000 +0000" stop="20261102104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261102104500 +0000" stop="20261102131500 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari</title>
-</programme>
 <programme start="20261102131500 +0000" stop="20261102143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261102143000 +0000" stop="20261102170000 +0000" channel="ANTV.vision">
-<title>Maju Kena Mundur Kena</title>
-</programme>
 <programme start="20261102170000 +0000" stop="20261102193000 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20261102193000 +0000" stop="20261102200000 +0000" channel="ANTV.vision">
-<title>Total Football: Inside</title>
 </programme>
 <programme start="20261102200000 +0000" stop="20261102213000 +0000" channel="ANTV.vision">
 <title>Karma</title>
@@ -1436,65 +1427,74 @@
 <title>Berita Satu Utama</title>
 </programme>
 <programme start="20261102000000 +0000" stop="20261102010000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Jendela Negeri</title>
 </programme>
-<programme start="20261102010000 +0000" stop="20261102013000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102010000 +0000" stop="20261102020000 +0000" channel="TVRI.vision">
+<title>Bersama Perempuan</title>
 </programme>
-<programme start="20261102013000 +0000" stop="20261102030000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102020000 +0000" stop="20261102020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261102020300 +0000" stop="20261102023000 +0000" channel="TVRI.vision">
+<title>Sepiring Rasa</title>
+</programme>
+<programme start="20261102023000 +0000" stop="20261102030000 +0000" channel="TVRI.vision">
+<title>Mimbar Agama</title>
 </programme>
 <programme start="20261102030000 +0000" stop="20261102030300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Info Terkini</title>
 </programme>
 <programme start="20261102030300 +0000" stop="20261102033000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Pesona Indonesia</title>
 </programme>
 <programme start="20261102033000 +0000" stop="20261102040000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Inspirasi Indonesia</title>
 </programme>
 <programme start="20261102040000 +0000" stop="20261102040300 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Info Terkini</title>
 </programme>
-<programme start="20261102040300 +0000" stop="20261102043000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261102043000 +0000" stop="20261102050000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102040300 +0000" stop="20261102050000 +0000" channel="TVRI.vision">
+<title>Seblak Show</title>
 </programme>
 <programme start="20261102050000 +0000" stop="20261102060000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Berita Siang</title>
 </programme>
-<programme start="20261102060000 +0000" stop="20261102080000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="TVRI.vision">
+<title>Marbot Ali</title>
 </programme>
-<programme start="20261102080000 +0000" stop="20261102090000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102070000 +0000" stop="20261102070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>
-<programme start="20261102090000 +0000" stop="20261102093000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102070300 +0000" stop="20261102080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn S3</title>
 </programme>
-<programme start="20261102093000 +0000" stop="20261102103000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<programme start="20261102080000 +0000" stop="20261102080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261102080300 +0000" stop="20261102090000 +0000" channel="TVRI.vision">
+<title>Pengen Beken</title>
+</programme>
+<programme start="20261102090000 +0000" stop="20261102090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261102090300 +0000" stop="20261102093000 +0000" channel="TVRI.vision">
+<title>Ragam Kain Nusantara</title>
+</programme>
+<programme start="20261102093000 +0000" stop="20261102100000 +0000" channel="TVRI.vision">
+<title>Ngulik Negeri</title>
+</programme>
+<programme start="20261102100000 +0000" stop="20261102100300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261102100300 +0000" stop="20261102103000 +0000" channel="TVRI.vision">
+<title>Tekno Tani</title>
 </programme>
 <programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Jejak Pembangunan</title>
 </programme>
 <programme start="20261102110000 +0000" stop="20261102120000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Klik Indonesia Petang</title>
 </programme>
 <programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261102140000 +0000" stop="20261102143000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261102143000 +0000" stop="20261102163000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261102163000 +0000" stop="20261102170000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
+<title>Indonesia Bicara (L)</title>
 </programme>
