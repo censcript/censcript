@@ -152,7 +152,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20261102083000 +0000" stop="20261102090000 +0000" channel="Al Jazeera English.mncvision">
-    <title>Talk To Al Jazeera</title>
+    <title>Talk To Al Jazeera: A. Dipke</title>
 </programme>
 <programme start="20261102090000 +0000" stop="20261102093000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -370,41 +370,41 @@
 <programme start="20261101181500 +0000" stop="20261101193000 +0000" channel="ANTV.mncvision">
     <title>Garis Tangan</title>
 </programme>
-<programme start="20261101193000 +0000" stop="20261101210000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20261101193000 +0000" stop="20261101203000 +0000" channel="ANTV.mncvision">
+    <title>Karma</title>
 </programme>
-<programme start="20261101210000 +0000" stop="20261101220000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20261101203000 +0000" stop="20261101213000 +0000" channel="ANTV.mncvision">
+    <title>Bikin Mewek</title>
 </programme>
-<programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20261101213000 +0000" stop="20261101230000 +0000" channel="ANTV.mncvision">
+    <title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
 <programme start="20261101230000 +0000" stop="20261102010000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Radha Mohan</title>
 </programme>
 <programme start="20261102010000 +0000" stop="20261102023000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Jaane Anjaane</title>
 </programme>
 <programme start="20261102023000 +0000" stop="20261102060000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Phir Bhi Dil Hai Hindustani</title>
 </programme>
 <programme start="20261102060000 +0000" stop="20261102073000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Jhanak</title>
 </programme>
 <programme start="20261102073000 +0000" stop="20261102093000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Sayali</title>
 </programme>
 <programme start="20261102093000 +0000" stop="20261102104500 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Naagin</title>
 </programme>
 <programme start="20261102104500 +0000" stop="20261102131500 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+    <title>Menggapai Matahari</title>
 </programme>
-<programme start="20261102131500 +0000" stop="20261102150000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20261102131500 +0000" stop="20261102143000 +0000" channel="ANTV.mncvision">
+    <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="ANTV.mncvision">
-    <title>ANTV</title>
+<programme start="20261102143000 +0000" stop="20261102150000 +0000" channel="ANTV.mncvision">
+    <title>Maju Kena Mundur Kena</title>
 </programme>
 <programme start="20261101170000 +0000" stop="20261101180000 +0000" channel="Arirang.mncvision">
     <title>Simply K-Pop 2026</title>
@@ -3572,31 +3572,31 @@
     <title>Sunday Night In America</title>
 </programme>
 <programme start="20261102020000 +0000" stop="20261102030000 +0000" channel="FOX News.mncvision">
-    <title>One Nation</title>
-</programme>
-<programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Democracy &#039;26</title>
-</programme>
-<programme start="20261102040000 +0000" stop="20261102050000 +0000" channel="FOX News.mncvision">
     <title>Sunday Night In America</title>
 </programme>
-<programme start="20261102050000 +0000" stop="20261102060000 +0000" channel="FOX News.mncvision">
+<programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="FOX News.mncvision">
     <title>One Nation</title>
 </programme>
-<programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="FOX News.mncvision">
-    <title>Fox News Sunday</title>
-</programme>
-<programme start="20261102070000 +0000" stop="20261102080000 +0000" channel="FOX News.mncvision">
+<programme start="20261102040000 +0000" stop="20261102050000 +0000" channel="FOX News.mncvision">
     <title>Fox News Democracy &#039;26</title>
 </programme>
+<programme start="20261102050000 +0000" stop="20261102060000 +0000" channel="FOX News.mncvision">
+    <title>Sunday Night In America</title>
+</programme>
+<programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="FOX News.mncvision">
+    <title>One Nation</title>
+</programme>
+<programme start="20261102070000 +0000" stop="20261102080000 +0000" channel="FOX News.mncvision">
+    <title>Fox News Sunday</title>
+</programme>
 <programme start="20261102080000 +0000" stop="20261102090000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends First</title>
+    <title>Fox News Democracy &#039;26</title>
 </programme>
 <programme start="20261102090000 +0000" stop="20261102100000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
 </programme>
 <programme start="20261102100000 +0000" stop="20261102110000 +0000" channel="FOX News.mncvision">
-    <title>Fox &amp; Friends</title>
+    <title>Fox &amp; Friends First</title>
 </programme>
 <programme start="20261102110000 +0000" stop="20261102120000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends</title>
@@ -3605,16 +3605,16 @@
     <title>Fox &amp; Friends</title>
 </programme>
 <programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="FOX News.mncvision">
-    <title>America&#039;s Newsroom</title>
+    <title>Fox &amp; Friends</title>
 </programme>
 <programme start="20261102140000 +0000" stop="20261102150000 +0000" channel="FOX News.mncvision">
     <title>America&#039;s Newsroom</title>
 </programme>
 <programme start="20261102150000 +0000" stop="20261102160000 +0000" channel="FOX News.mncvision">
-    <title>The Faulkner Focus</title>
+    <title>America&#039;s Newsroom</title>
 </programme>
 <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="FOX News.mncvision">
-    <title>Outnumbered</title>
+    <title>The Faulkner Focus</title>
 </programme>
 <programme start="20261101170000 +0000" stop="20261101171300 +0000" channel="France 24 English.mncvision">
     <title>News (L)</title>
@@ -4676,88 +4676,94 @@
     <title>Darah Perawan Bulan Madu</title>
 </programme>
 <programme start="20261101180000 +0000" stop="20261101200000 +0000" channel="Indosiar.mncvision">
-    <title>Striking Rescue</title>
+    <title>Project A</title>
 </programme>
-<programme start="20261101200000 +0000" stop="20261101220000 +0000" channel="Indosiar.mncvision">
+<programme start="20261101200000 +0000" stop="20261101213000 +0000" channel="Indosiar.mncvision">
     <title>The 36th Chamber Of Shaolin</title>
 </programme>
-<programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261101213000 +0000" stop="20261101230000 +0000" channel="Indosiar.mncvision">
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20261101230000 +0000" stop="20261102010000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="Indosiar.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20261102010000 +0000" stop="20261102030000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+<programme start="20261102000000 +0000" stop="20261102013000 +0000" channel="Indosiar.mncvision">
+    <title>Teka-Teki Kematian Kekasih...</title>
+</programme>
+<programme start="20261102013000 +0000" stop="20261102030000 +0000" channel="Indosiar.mncvision">
+    <title>Rahasia Dibalik Akun Palsu</title>
 </programme>
 <programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20261102040000 +0000" stop="20261102043000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20261102043000 +0000" stop="20261102050000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20261102050000 +0000" stop="20261102063000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Misteri Catatan Harian Tante</title>
 </programme>
 <programme start="20261102063000 +0000" stop="20261102080000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Parasit Dalam Rumah Tanggaku</title>
 </programme>
 <programme start="20261102080000 +0000" stop="20261102100000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Apa Salah Ibu Sampai...</title>
 </programme>
 <programme start="20261102100000 +0000" stop="20261102120000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20261102120000 +0000" stop="20261102160000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S8</title>
 </programme>
 <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="Indosiar.mncvision">
-    <title>Indosiar</title>
+    <title>Project A, Pt 2</title>
 </programme>
 <programme start="20261101180000 +0000" stop="20261101200000 +0000" channel="Indosiar HD.mncvision">
-    <title>Striking Rescue</title>
+    <title>Project A</title>
 </programme>
-<programme start="20261101200000 +0000" stop="20261101220000 +0000" channel="Indosiar HD.mncvision">
+<programme start="20261101200000 +0000" stop="20261101213000 +0000" channel="Indosiar HD.mncvision">
     <title>The 36th Chamber Of Shaolin</title>
 </programme>
-<programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261101213000 +0000" stop="20261101230000 +0000" channel="Indosiar HD.mncvision">
+    <title>Fokus Pagi</title>
 </programme>
-<programme start="20261101230000 +0000" stop="20261102010000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="Indosiar HD.mncvision">
+    <title>Merangkai Kisah Indah</title>
 </programme>
-<programme start="20261102010000 +0000" stop="20261102030000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+<programme start="20261102000000 +0000" stop="20261102013000 +0000" channel="Indosiar HD.mncvision">
+    <title>Teka-Teki Kematian Kekasih...</title>
+</programme>
+<programme start="20261102013000 +0000" stop="20261102030000 +0000" channel="Indosiar HD.mncvision">
+    <title>Rahasia Dibalik Akun Palsu</title>
 </programme>
 <programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Kiss Pagi</title>
 </programme>
 <programme start="20261102040000 +0000" stop="20261102043000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Patroli Siang</title>
 </programme>
 <programme start="20261102043000 +0000" stop="20261102050000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Fokus Siang</title>
 </programme>
 <programme start="20261102050000 +0000" stop="20261102063000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Misteri Catatan Harian Tante</title>
 </programme>
 <programme start="20261102063000 +0000" stop="20261102080000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Parasit Dalam Rumah Tanggaku</title>
 </programme>
 <programme start="20261102080000 +0000" stop="20261102100000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Apa Salah Ibu Sampai...</title>
 </programme>
 <programme start="20261102100000 +0000" stop="20261102120000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Merangkai Kisah Indah</title>
 </programme>
 <programme start="20261102120000 +0000" stop="20261102160000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>D&#039;Academy S8</title>
 </programme>
 <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="Indosiar HD.mncvision">
-    <title>Indosiar</title>
+    <title>Project A, Pt 2</title>
 </programme>
 <programme start="20261101180000 +0000" stop="20261101190000 +0000" channel="iNews.mncvision">
     <title>iNews Malam</title>
@@ -4819,20 +4825,23 @@
 <programme start="20261102091500 +0000" stop="20261102120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261102120000 +0000" stop="20261102120500 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20261102120500 +0000" stop="20261102133000 +0000" channel="iNews.mncvision">
+<programme start="20261102120000 +0000" stop="20261102133000 +0000" channel="iNews.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20261102133000 +0000" stop="20261102134000 +0000" channel="iNews.mncvision">
-    <title>iNews Terkini (L)</title>
+<programme start="20261102133000 +0000" stop="20261102140000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261102134000 +0000" stop="20261102154500 +0000" channel="iNews.mncvision">
-    <title>ACL Elite 2026-2027 (L)</title>
+<programme start="20261102140000 +0000" stop="20261102143000 +0000" channel="iNews.mncvision">
+    <title>Minerba Convex 2026</title>
 </programme>
-<programme start="20261102154500 +0000" stop="20261102160000 +0000" channel="iNews.mncvision">
+<programme start="20261102143000 +0000" stop="20261102150000 +0000" channel="iNews.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20261102150000 +0000" stop="20261102151500 +0000" channel="iNews.mncvision">
     <title>Breaking Goals (L)</title>
+</programme>
+<programme start="20261102151500 +0000" stop="20261102160000 +0000" channel="iNews.mncvision">
+    <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="iNews.mncvision">
     <title>ACL Elite 2026-2027 (L)</title>
@@ -4897,20 +4906,23 @@
 <programme start="20261102091500 +0000" stop="20261102120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
 </programme>
-<programme start="20261102120000 +0000" stop="20261102120500 +0000" channel="iNews HD.mncvision">
-    <title>iNews Terkini (L)</title>
-</programme>
-<programme start="20261102120500 +0000" stop="20261102133000 +0000" channel="iNews HD.mncvision">
+<programme start="20261102120000 +0000" stop="20261102133000 +0000" channel="iNews HD.mncvision">
     <title>iNews Room (L)</title>
 </programme>
-<programme start="20261102133000 +0000" stop="20261102134000 +0000" channel="iNews HD.mncvision">
-    <title>iNews Terkini (L)</title>
+<programme start="20261102133000 +0000" stop="20261102140000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261102134000 +0000" stop="20261102154500 +0000" channel="iNews HD.mncvision">
-    <title>ACL Elite 2026-2027 (L)</title>
+<programme start="20261102140000 +0000" stop="20261102143000 +0000" channel="iNews HD.mncvision">
+    <title>Minerba Convex 2026</title>
 </programme>
-<programme start="20261102154500 +0000" stop="20261102160000 +0000" channel="iNews HD.mncvision">
+<programme start="20261102143000 +0000" stop="20261102150000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Prime (L)</title>
+</programme>
+<programme start="20261102150000 +0000" stop="20261102151500 +0000" channel="iNews HD.mncvision">
     <title>Breaking Goals (L)</title>
+</programme>
+<programme start="20261102151500 +0000" stop="20261102160000 +0000" channel="iNews HD.mncvision">
+    <title>iNews Malam (L)</title>
 </programme>
 <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="iNews HD.mncvision">
     <title>ACL Elite 2026-2027 (L)</title>
@@ -7579,10 +7591,7 @@
 <programme start="20261102133000 +0000" stop="20261102150000 +0000" channel="RCTI.mncvision">
     <title>Terbaik Itu Kamu</title>
 </programme>
-<programme start="20261102150000 +0000" stop="20261102160000 +0000" channel="RCTI.mncvision">
-    <title>Microdrama+</title>
-</programme>
-<programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="RCTI.mncvision">
+<programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="RCTI.mncvision">
     <title>Catatan Harian Seorang Istri</title>
 </programme>
 <programme start="20261101170000 +0000" stop="20261101183000 +0000" channel="RCTI HD.mncvision">
@@ -7624,10 +7633,7 @@
 <programme start="20261102133000 +0000" stop="20261102150000 +0000" channel="RCTI HD.mncvision">
     <title>Terbaik Itu Kamu</title>
 </programme>
-<programme start="20261102150000 +0000" stop="20261102160000 +0000" channel="RCTI HD.mncvision">
-    <title>Microdrama+</title>
-</programme>
-<programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="RCTI HD.mncvision">
+<programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="RCTI HD.mncvision">
     <title>Catatan Harian Seorang Istri</title>
 </programme>
 <programme start="20261101190500 +0000" stop="20261101205000 +0000" channel="Rock Action.mncvision">
@@ -9095,7 +9101,7 @@
     <title>CNN Indonesia News Update</title>
 </programme>
 <programme start="20261102093000 +0000" stop="20261102103000 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
+    <title>Monitor Ketua</title>
 </programme>
 <programme start="20261102103000 +0000" stop="20261102114500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>
@@ -9296,109 +9302,172 @@
     <title>Whispering Corridors 6</title>
 </programme>
 <programme start="20261101170000 +0000" stop="20261101183000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
-<programme start="20261101183000 +0000" stop="20261101193000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20261101193000 +0000" stop="20261101200000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261101183000 +0000" stop="20261101200000 +0000" channel="tvOne.mncvision">
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
 <programme start="20261101200000 +0000" stop="20261101203000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Utama 2</title>
 </programme>
-<programme start="20261101203000 +0000" stop="20261101211500 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261101203000 +0000" stop="20261101210000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi 2</title>
 </programme>
-<programme start="20261101211500 +0000" stop="20261101230000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261101210000 +0000" stop="20261101230000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Pagi</title>
 </programme>
 <programme start="20261101230000 +0000" stop="20261101233000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Arena Pagi 2</title>
 </programme>
 <programme start="20261101233000 +0000" stop="20261102013000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Pagi</title>
 </programme>
-<programme start="20261102013000 +0000" stop="20261102020000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102013000 +0000" stop="20261102023000 +0000" channel="tvOne.mncvision">
+    <title>Hidup Sehat</title>
 </programme>
-<programme start="20261102020000 +0000" stop="20261102023000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102023000 +0000" stop="20261102030000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Pagi 2</title>
 </programme>
-<programme start="20261102023000 +0000" stop="20261102033000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
-</programme>
-<programme start="20261102033000 +0000" stop="20261102040000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102030000 +0000" stop="20261102040000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261102040000 +0000" stop="20261102053000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Siang</title>
 </programme>
 <programme start="20261102053000 +0000" stop="20261102070000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Siang</title>
 </programme>
-<programme start="20261102070000 +0000" stop="20261102080000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102070000 +0000" stop="20261102073000 +0000" channel="tvOne.mncvision">
+    <title>Hidup Sehat Plus</title>
 </programme>
-<programme start="20261102080000 +0000" stop="20261102083000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102073000 +0000" stop="20261102080000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Plus</title>
 </programme>
-<programme start="20261102083000 +0000" stop="20261102090000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102080000 +0000" stop="20261102090000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Merah Putih</title>
 </programme>
 <programme start="20261102090000 +0000" stop="20261102110000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
 <programme start="20261102110000 +0000" stop="20261102130000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20261102130000 +0000" stop="20261102150000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
-<programme start="20261102150000 +0000" stop="20261102160000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102140000 +0000" stop="20261102150000 +0000" channel="tvOne.mncvision">
+    <title>Fakta</title>
 </programme>
-<programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+<programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Arena Malam</title>
+</programme>
+<programme start="20261102153000 +0000" stop="20261102163000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261102163000 +0000" stop="20261101170000 +0000" channel="tvOne.mncvision">
-    <title>tvOne</title>
+    <title>Kabar Petang</title>
 </programme>
-<programme start="20261101170000 +0000" stop="20261101190000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261101210000 +0000" stop="20261101213000 +0000" channel="TVRI.mncvision">
+    <title>Jejak Islam</title>
 </programme>
-<programme start="20261101190000 +0000" stop="20261101210000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261101213000 +0000" stop="20261101230000 +0000" channel="TVRI.mncvision">
+    <title>Serambi Islami</title>
 </programme>
-<programme start="20261101210000 +0000" stop="20261101230000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261101230000 +0000" stop="20261102000000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Pagi</title>
 </programme>
-<programme start="20261101230000 +0000" stop="20261102010000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102000000 +0000" stop="20261102010000 +0000" channel="TVRI.mncvision">
+    <title>Jendela Negeri</title>
 </programme>
-<programme start="20261102010000 +0000" stop="20261102030000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102010000 +0000" stop="20261102020000 +0000" channel="TVRI.mncvision">
+    <title>Bersama Perempuan</title>
 </programme>
-<programme start="20261102030000 +0000" stop="20261102050000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102020000 +0000" stop="20261102020300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
 </programme>
-<programme start="20261102050000 +0000" stop="20261102070000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102020300 +0000" stop="20261102023000 +0000" channel="TVRI.mncvision">
+    <title>Sepiring Rasa</title>
 </programme>
-<programme start="20261102070000 +0000" stop="20261102090000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102023000 +0000" stop="20261102030000 +0000" channel="TVRI.mncvision">
+    <title>Mimbar Agama</title>
 </programme>
-<programme start="20261102090000 +0000" stop="20261102110000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102030000 +0000" stop="20261102030300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
 </programme>
-<programme start="20261102110000 +0000" stop="20261102130000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102030300 +0000" stop="20261102033000 +0000" channel="TVRI.mncvision">
+    <title>Pesona Indonesia</title>
 </programme>
-<programme start="20261102130000 +0000" stop="20261102150000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+<programme start="20261102033000 +0000" stop="20261102040000 +0000" channel="TVRI.mncvision">
+    <title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20261102040000 +0000" stop="20261102040300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20261102040300 +0000" stop="20261102050000 +0000" channel="TVRI.mncvision">
+    <title>Seblak Show</title>
+</programme>
+<programme start="20261102050000 +0000" stop="20261102060000 +0000" channel="TVRI.mncvision">
+    <title>Berita Siang</title>
+</programme>
+<programme start="20261102060000 +0000" stop="20261102070000 +0000" channel="TVRI.mncvision">
+    <title>Marbot Ali</title>
+</programme>
+<programme start="20261102070000 +0000" stop="20261102070300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20261102070300 +0000" stop="20261102080000 +0000" channel="TVRI.mncvision">
+    <title>Losmen Reborn S3</title>
+</programme>
+<programme start="20261102080000 +0000" stop="20261102080300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20261102080300 +0000" stop="20261102090000 +0000" channel="TVRI.mncvision">
+    <title>Pengen Beken</title>
+</programme>
+<programme start="20261102090000 +0000" stop="20261102090300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20261102090300 +0000" stop="20261102093000 +0000" channel="TVRI.mncvision">
+    <title>Ragam Kain Nusantara</title>
+</programme>
+<programme start="20261102093000 +0000" stop="20261102100000 +0000" channel="TVRI.mncvision">
+    <title>Ngulik Negeri</title>
+</programme>
+<programme start="20261102100000 +0000" stop="20261102100300 +0000" channel="TVRI.mncvision">
+    <title>Info Terkini</title>
+</programme>
+<programme start="20261102100300 +0000" stop="20261102103000 +0000" channel="TVRI.mncvision">
+    <title>Tekno Tani</title>
+</programme>
+<programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="TVRI.mncvision">
+    <title>Jejak Pembangunan</title>
+</programme>
+<programme start="20261102110000 +0000" stop="20261102120000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20261102120000 +0000" stop="20261102130000 +0000" channel="TVRI.mncvision">
+    <title>Indonesia Bicara (L)</title>
+</programme>
+<programme start="20261102130000 +0000" stop="20261102133000 +0000" channel="TVRI.mncvision">
+    <title>Pesona Indonesia Terbaik Gatra</title>
+</programme>
+<programme start="20261102133000 +0000" stop="20261102140000 +0000" channel="TVRI.mncvision">
+    <title>Inspirasi Indonesia Terbaik</title>
+</programme>
+<programme start="20261102140000 +0000" stop="20261102143000 +0000" channel="TVRI.mncvision">
+    <title>Dunia Dalam Berita (L)</title>
+</programme>
+<programme start="20261102143000 +0000" stop="20261102150000 +0000" channel="TVRI.mncvision">
+    <title>Jelajah Kopi</title>
 </programme>
 <programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="TVRI.mncvision">
-    <title>TVRI</title>
+    <title>Monitor Olahraga Malam</title>
+</programme>
+<programme start="20261102153000 +0000" stop="20261102163000 +0000" channel="TVRI.mncvision">
+    <title>Canda Of The Day</title>
+</programme>
+<programme start="20261102163000 +0000" stop="20261101170000 +0000" channel="TVRI.mncvision">
+    <title>Klik Indonesia Malam</title>
 </programme>
 <programme start="20261101180200 +0000" stop="20261101195400 +0000" channel="UNIQUES.mncvision">
     <title>Battlecreek</title>

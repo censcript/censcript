@@ -557,7 +557,7 @@
         <title>Talking Point - EP 23</title>
     </programme>
     <programme start="20261101230000 +0000" stop="20261102020000 +0000" channel="CNA.mewatch">
-        <title>(Live) Asia First 2026/2027</title>
+        <title>(Live) Asia First</title>
     </programme>
     <programme start="20261102020000 +0000" stop="20261102030000 +0000" channel="CNA.mewatch">
         <title>Tech To Save The World - EP 3</title>

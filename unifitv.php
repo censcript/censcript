@@ -3225,33 +3225,33 @@
     <episode-num system="xmltv_ns">0.8.</episode-num>
     <episode-num system="onscreen">S1E9</episode-num>
   </programme>
-  <programme start="20261101190500 +0000" stop="20261101193000 +0000" channel="tvbjade.unifitv">
+  <programme start="20261101190500 +0000" stop="20261101193500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Scoop 2026</title>
     <desc lang="en">"Scoop" airs from Monday to Sunday, closely following major social events and interesting stories, while also reporting the latest updates in the entertainment industry, celebrity news, as well as drama promotions and behind-the-scenes features. The "Today's Breaking News" segment keeps viewers up to date with the day's hottest stories. The in-depth feature section explores current affairs, social, and livelihood issues that the public cares about, interviewing relevant experts for their insights.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.303.</episode-num>
     <episode-num system="onscreen">S1E304</episode-num>
   </programme>
-  <programme start="20261101193000 +0000" stop="20261101201000 +0000" channel="tvbjade.unifitv">
+  <programme start="20261101193500 +0000" stop="20261101202000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Star Weekly</title>
     <desc lang="en">The talk show "Star Weekly" invites celebrities and industry leaders each episode, along with entertainment anchors such as Au Wing-Kuen, Hsu Wen-Hsuan, and Wang Chen-Chuan, to share their recent work plans and discuss special topics related to movies, television, and concerts, especially people and events that netizens and friends in the industry are concerned about and discussing! With so much surrounding information, the show features a special "Fact Check" segment, where guests personally respond to various rumors, allowing the parties involved to clarify the truth!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.46.</episode-num>
     <episode-num system="onscreen">S1E47</episode-num>
   </programme>
-  <programme start="20261101201000 +0000" stop="20261101202000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">J Music 2026</title>
-    <desc lang="en">J Music is dedicated to creating a high-quality music platform, providing singers with opportunities to showcase their musical talents while allowing music fans to gain a deeper understanding of their musical stories. The program invites popular singers as guests, who personally select their favorite new and old works, perform them live, and share their favorite tracks. New faces in the music scene will also appear, showcasing their musical potential through interactive exchanges. Furthermore, each episode closely follows the latest developments on the Jade Solid Gold Chart, featuring music videos and interviews with various singers, songwriters, and producers, who discuss their work and the people and events within the music industry.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.130.</episode-num>
-    <episode-num system="onscreen">S1E131</episode-num>
-  </programme>
-  <programme start="20261101202000 +0000" stop="20261101220500 +0000" channel="tvbjade.unifitv">
+  <programme start="20261101202000 +0000" stop="20261101210500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Gourmet Express Weekly</title>
     <desc lang="en">Hong Kong is a melting pot of global cuisine! Food anchors and hosts like Carmaney Wong,Carmen Ngai,Gillian Ng stay up-to-date with the latest culinary trends, gathering information on top-rated restaurants from various platforms. The hosts personally sample the food and provide honest reviews; they uncover hidden gems in different districts and invite long-time expatriates to visit their favorite hometown eateries; renowned chefs and food critics also guide the way, offering expert recommendations. The program features a selection of popular restaurants featured in "Food News Report," highlighting their signature dishes and delivering quick deals, ensuring viewers stay up-to-date with the most delicious and affordable dining information.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.92.</episode-num>
     <episode-num system="onscreen">S1E93</episode-num>
+  </programme>
+  <programme start="20261101210500 +0000" stop="20261101220500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Cantopop At 50</title>
+    <desc lang="en">Throughout the years, countless hit songs have emerged in both Chinese and international music scenes. Regardless of the era, every work has its own devoted fans. " Cantopop At 50" invites original singers or accomplished vocalists to reinterpret these once-popular classics that transcend generations, delivering high-quality musical enjoyment to music lovers. In addition to featuring influential senior artists in the music industry, the program also welcomes many singers who have not appeared in public for a long time, bringing multiple surprises to the audience.</desc>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0.114.</episode-num>
+    <episode-num system="onscreen">S1E115</episode-num>
   </programme>
   <programme start="20261101220500 +0000" stop="20261101223500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Finance Magazine 2026</title>
@@ -3273,8 +3273,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261102000500 +0000" stop="20261102010500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">M DRAMA TBC</title>
-    <desc lang="en">M DRAMA TBC</desc>
+    <title lang="en">LOVE IS BEAUTIFUL</title>
+    <desc lang="en">LARINE (HEUNG HOI LAN, ANNE) and JOJO (CHAN MIU YING, MARIANE) have been friends since childhood. They have both been chosen to be mistresses to the emperor because of their beauty. LARINE's mother died a long time ago. She pretends to be ugly when the government officials visit in order to stay with her father. However, during one festival, she saves the plain-dressed emperor, without realizing who he is. He cannot put her aside when he gets back to the palace and decides to marry her. JOJO is jealous of her. She lies to her and takes her to a gypsy, who switches their faces. From then on, their fates change. With LARINE's face, JOJO enjoys all the luxuries in the palace. On the other hand, poor LARINE, having been betrayed by her best friend, is not recognized by her father and has become homeless. At last, she decides to meet the emperor to clarify everything as she thinks she is treated unfairly. JOJO is a very tough girl too. Will the truth be revealed? Will JOJO and LARINE be enemies forever?</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -4576,7 +4576,7 @@
     <desc lang="en">An imperial minister Cheng betroths his pretty younger daughter, Ye, to his friend's son, Mu. His wife however, refuses to let Ye marry before her elder daughter Yan, who is ugly and undesirable. Yan is asked to pretend as Ye to meet Mu but scares him away. A rich guy who likes Ye meanwhile pretends as Mu to attend the wedding...</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261102140000 +0000" stop="20261102165000 +0000" channel="celestialclassicmovies.unifitv">
+  <programme start="20261102140000 +0000" stop="20261102172500 +0000" channel="celestialclassicmovies.unifitv">
     <title lang="en">Have Sword Will Travel</title>
     <desc lang="en">When the head of a manor loses his kung fu skills, he enlists his nephew and fiancée to escort gold to the capital. Along the way, they encounter a mysterious swordsman and join forces with him to stop bandits from stealing the gold.</desc>
     <category lang="en">Action</category>
