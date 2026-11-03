@@ -34,8 +34,11 @@
 <programme start="20261103070000 +0000" stop="20261103072500 +0000" channel="ABC Australia.mncvision">
     <title>The Cook Up With Adam Liaw</title>
 </programme>
-<programme start="20261103072500 +0000" stop="20261103080000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103072500 +0000" stop="20261103075000 +0000" channel="ABC Australia.mncvision">
     <title>Extraordinary Animals</title>
+</programme>
+<programme start="20261103075000 +0000" stop="20261103080000 +0000" channel="ABC Australia.mncvision">
+    <title>Culture By Design Shorts</title>
 </programme>
 <programme start="20261103080000 +0000" stop="20261103083000 +0000" channel="ABC Australia.mncvision">
     <title>ABC National News</title>
@@ -43,10 +46,10 @@
 <programme start="20261103083000 +0000" stop="20261103090000 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20261103090000 +0000" stop="20261103093000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103090000 +0000" stop="20261103093500 +0000" channel="ABC Australia.mncvision">
     <title>Australian Story</title>
 </programme>
-<programme start="20261103093000 +0000" stop="20261103100000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103093500 +0000" stop="20261103100000 +0000" channel="ABC Australia.mncvision">
     <title>Audra&#039;s Eat, Roam, Relish</title>
 </programme>
 <programme start="20261103100000 +0000" stop="20261103110000 +0000" channel="ABC Australia.mncvision">
@@ -64,28 +67,31 @@
 <programme start="20261103122500 +0000" stop="20261103125000 +0000" channel="ABC Australia.mncvision">
     <title>Extraordinary Animals</title>
 </programme>
-<programme start="20261103125000 +0000" stop="20261103131500 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103125000 +0000" stop="20261103130000 +0000" channel="ABC Australia.mncvision">
+    <title>Culture By Design Shorts</title>
+</programme>
+<programme start="20261103130000 +0000" stop="20261103132500 +0000" channel="ABC Australia.mncvision">
     <title>ABC Late News</title>
 </programme>
-<programme start="20261103131500 +0000" stop="20261103133000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103132500 +0000" stop="20261103134000 +0000" channel="ABC Australia.mncvision">
     <title>The Business</title>
 </programme>
-<programme start="20261103133000 +0000" stop="20261103140000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103134000 +0000" stop="20261103141500 +0000" channel="ABC Australia.mncvision">
     <title>7.30</title>
 </programme>
-<programme start="20261103140000 +0000" stop="20261103150000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103141500 +0000" stop="20261103151000 +0000" channel="ABC Australia.mncvision">
     <title>The World</title>
 </programme>
-<programme start="20261103150000 +0000" stop="20261103153000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103151000 +0000" stop="20261103154000 +0000" channel="ABC Australia.mncvision">
     <title>Landline</title>
 </programme>
-<programme start="20261103153000 +0000" stop="20261103160000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103154000 +0000" stop="20261103161000 +0000" channel="ABC Australia.mncvision">
     <title>Back Roads</title>
 </programme>
-<programme start="20261103160000 +0000" stop="20261103163000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103161000 +0000" stop="20261103164500 +0000" channel="ABC Australia.mncvision">
     <title>Australian Story</title>
 </programme>
-<programme start="20261103163000 +0000" stop="20261102170000 +0000" channel="ABC Australia.mncvision">
+<programme start="20261103164500 +0000" stop="20261102171500 +0000" channel="ABC Australia.mncvision">
     <title>Gardening Australia</title>
 </programme>
 <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="Al Jazeera English.mncvision">
@@ -6193,57 +6199,6 @@
 <programme start="20261103153000 +0000" stop="20261103160000 +0000" channel="Music TV.mncvision">
     <title>Indonesian Idol 2022</title>
 </programme>
-<programme start="20261102180000 +0000" stop="20261102190000 +0000" channel="Music TV HD.mncvision">
-    <title>The Famous</title>
-</programme>
-<programme start="20261102190000 +0000" stop="20261102213000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20261102213000 +0000" stop="20261102223000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20261102223000 +0000" stop="20261102233000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20261102233000 +0000" stop="20261103001500 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20261103001500 +0000" stop="20261103023000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20261103023000 +0000" stop="20261103031500 +0000" channel="Music TV HD.mncvision">
-    <title>The Famous</title>
-</programme>
-<programme start="20261103031500 +0000" stop="20261103041500 +0000" channel="Music TV HD.mncvision">
-    <title>Konco Ngaso</title>
-</programme>
-<programme start="20261103041500 +0000" stop="20261103050000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20261103050000 +0000" stop="20261103073000 +0000" channel="Music TV HD.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20261103073000 +0000" stop="20261103100000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol 2022</title>
-</programme>
-<programme start="20261103100000 +0000" stop="20261103110000 +0000" channel="Music TV HD.mncvision">
-    <title>Godain</title>
-</programme>
-<programme start="20261103110000 +0000" stop="20261103120000 +0000" channel="Music TV HD.mncvision">
-    <title>K-Hits</title>
-</programme>
-<programme start="20261103120000 +0000" stop="20261103130000 +0000" channel="Music TV HD.mncvision">
-    <title>Juke Box</title>
-</programme>
-<programme start="20261103130000 +0000" stop="20261103140000 +0000" channel="Music TV HD.mncvision">
-    <title>Bucin (Bursa Music Indonesia)</title>
-</programme>
-<programme start="20261103140000 +0000" stop="20261103153000 +0000" channel="Music TV HD.mncvision">
-    <title>Kilau DMD</title>
-</programme>
-<programme start="20261103153000 +0000" stop="20261103160000 +0000" channel="Music TV HD.mncvision">
-    <title>Indonesian Idol 2022</title>
-</programme>
 <programme start="20261102173000 +0000" stop="20261102190000 +0000" channel="Muslim TV.mncvision">
     <title>Live Dari Mekkah</title>
 </programme>
@@ -7513,11 +7468,8 @@
 <programme start="20261102171500 +0000" stop="20261102180000 +0000" channel="RCTI.mncvision">
     <title>Gadis Pemerah Susu</title>
 </programme>
-<programme start="20261102180000 +0000" stop="20261102190000 +0000" channel="RCTI.mncvision">
-    <title>ACL Elite: ITH Vs AIN (L)</title>
-</programme>
-<programme start="20261102190000 +0000" stop="20261102201500 +0000" channel="RCTI.mncvision">
-    <title>ACL Elite 2026/2027</title>
+<programme start="20261102180000 +0000" stop="20261102201500 +0000" channel="RCTI.mncvision">
+    <title>ACL Elite 26/27: ITH Vs AIN (L)</title>
 </programme>
 <programme start="20261102201500 +0000" stop="20261102221500 +0000" channel="RCTI.mncvision">
     <title>Preman Pensiun Deui</title>
@@ -7550,16 +7502,13 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261103150000 +0000" stop="20261103153000 +0000" channel="RCTI.mncvision">
-    <title>Catatan Harian Seorang Istri</title>
+    <title>Catatan Hati Seorang Istri</title>
 </programme>
 <programme start="20261102171500 +0000" stop="20261102180000 +0000" channel="RCTI HD.mncvision">
     <title>Gadis Pemerah Susu</title>
 </programme>
-<programme start="20261102180000 +0000" stop="20261102190000 +0000" channel="RCTI HD.mncvision">
-    <title>ACL Elite: ITH Vs AIN (L)</title>
-</programme>
-<programme start="20261102190000 +0000" stop="20261102201500 +0000" channel="RCTI HD.mncvision">
-    <title>ACL Elite 2026/2027</title>
+<programme start="20261102180000 +0000" stop="20261102201500 +0000" channel="RCTI HD.mncvision">
+    <title>ACL Elite 26/27: ITH Vs AIN (L)</title>
 </programme>
 <programme start="20261102201500 +0000" stop="20261102221500 +0000" channel="RCTI HD.mncvision">
     <title>Preman Pensiun Deui</title>
@@ -7592,7 +7541,7 @@
     <title>Terbaik Itu Kamu</title>
 </programme>
 <programme start="20261103150000 +0000" stop="20261103153000 +0000" channel="RCTI HD.mncvision">
-    <title>Catatan Harian Seorang Istri</title>
+    <title>Catatan Hati Seorang Istri</title>
 </programme>
 <programme start="20261102180500 +0000" stop="20261102194500 +0000" channel="Rock Action.mncvision">
     <title>Moby Dick, Pt 2</title>
@@ -9136,19 +9085,19 @@
 <programme start="20261103041500 +0000" stop="20261103053500 +0000" channel="tvN.mncvision">
     <title>The Judge Returns, Ep 10</title>
 </programme>
-<programme start="20261103053500 +0000" stop="20261103070500 +0000" channel="tvN.mncvision">
+<programme start="20261103053500 +0000" stop="20261103072000 +0000" channel="tvN.mncvision">
     <title>Abra-ca Empty, Ep 9</title>
 </programme>
-<programme start="20261103070500 +0000" stop="20261103085000 +0000" channel="tvN.mncvision">
+<programme start="20261103072000 +0000" stop="20261103074000 +0000" channel="tvN.mncvision">
+    <title>You Can Cook, Sam Kim, Ep 21</title>
+</programme>
+<programme start="20261103074000 +0000" stop="20261103092000 +0000" channel="tvN.mncvision">
     <title>GBRB: Joy Pops Laugh..., Ep 4</title>
 </programme>
-<programme start="20261103085000 +0000" stop="20261103095000 +0000" channel="tvN.mncvision">
-    <title>Walking Through Village, Ep 2</title>
-</programme>
-<programme start="20261103095000 +0000" stop="20261103113000 +0000" channel="tvN.mncvision">
+<programme start="20261103092000 +0000" stop="20261103110000 +0000" channel="tvN.mncvision">
     <title>3 Meals A Day: Light, Ep 10</title>
 </programme>
-<programme start="20261103113000 +0000" stop="20261103131000 +0000" channel="tvN.mncvision">
+<programme start="20261103110000 +0000" stop="20261103131000 +0000" channel="tvN.mncvision">
     <title>World Dice Tour S4, Ep 1</title>
 </programme>
 <programme start="20261103131000 +0000" stop="20261103143000 +0000" channel="tvN.mncvision">
@@ -9190,19 +9139,19 @@
 <programme start="20261103041500 +0000" stop="20261103053500 +0000" channel="tvN HD.mncvision">
     <title>The Judge Returns, Ep 10</title>
 </programme>
-<programme start="20261103053500 +0000" stop="20261103070500 +0000" channel="tvN HD.mncvision">
+<programme start="20261103053500 +0000" stop="20261103072000 +0000" channel="tvN HD.mncvision">
     <title>Abra-ca Empty, Ep 9</title>
 </programme>
-<programme start="20261103070500 +0000" stop="20261103085000 +0000" channel="tvN HD.mncvision">
+<programme start="20261103072000 +0000" stop="20261103074000 +0000" channel="tvN HD.mncvision">
+    <title>You Can Cook, Sam Kim, Ep 21</title>
+</programme>
+<programme start="20261103074000 +0000" stop="20261103092000 +0000" channel="tvN HD.mncvision">
     <title>GBRB: Joy Pops Laugh..., Ep 4</title>
 </programme>
-<programme start="20261103085000 +0000" stop="20261103095000 +0000" channel="tvN HD.mncvision">
-    <title>Walking Through Village, Ep 2</title>
-</programme>
-<programme start="20261103095000 +0000" stop="20261103113000 +0000" channel="tvN HD.mncvision">
+<programme start="20261103092000 +0000" stop="20261103110000 +0000" channel="tvN HD.mncvision">
     <title>3 Meals A Day: Light, Ep 10</title>
 </programme>
-<programme start="20261103113000 +0000" stop="20261103131000 +0000" channel="tvN HD.mncvision">
+<programme start="20261103110000 +0000" stop="20261103131000 +0000" channel="tvN HD.mncvision">
     <title>World Dice Tour S4, Ep 1</title>
 </programme>
 <programme start="20261103131000 +0000" stop="20261103143000 +0000" channel="tvN HD.mncvision">

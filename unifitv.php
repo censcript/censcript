@@ -3297,8 +3297,8 @@
     <episode-num system="onscreen">S1E2256</episode-num>
   </programme>
   <programme start="20261102163500 +0000" stop="20261102173500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">LOVE IS BEAUTIFUL</title>
-    <desc lang="en">LARINE (HEUNG HOI LAN, ANNE) and JOJO (CHAN MIU YING, MARIANE) have been friends since childhood. They have both been chosen to be mistresses to the emperor because of their beauty. LARINE's mother died a long time ago. She pretends to be ugly when the government officials visit in order to stay with her father. However, during one festival, she saves the plain-dressed emperor, without realizing who he is. He cannot put her aside when he gets back to the palace and decides to marry her. JOJO is jealous of her. She lies to her and takes her to a gypsy, who switches their faces. From then on, their fates change. With LARINE's face, JOJO enjoys all the luxuries in the palace. On the other hand, poor LARINE, having been betrayed by her best friend, is not recognized by her father and has become homeless. At last, she decides to meet the emperor to clarify everything as she thinks she is treated unfairly. JOJO is a very tough girl too. Will the truth be revealed? Will JOJO and LARINE be enemies forever?</desc>
+    <title lang="en">Game of Deceit</title>
+    <desc lang="en">The tricky CHING (CHEUNG KA FAI) and the loafer, JIAN, (CHIN KA LOK) always cheat to earn a living. Unexpectedly, they incur, JIAN`s teacher, SUN (LIU KAI CHI) to death. They even make the banker, HUNG (LAW LOK LAU)`s business bankrupted and HUNG`s daughter, PO, (CHEUNG YUK SHAN) has become a courtesan. CHING has disclosed LUN (HSUAN JESSICA HESTER)`s female identity who is the owner of a famous adjusting agent `The First Tooth`. LUN forces CHING to marry her so as to protect her adjusting agent`s reputation. To CHING it is a great torture as he has to change from a tricky swindler to an impartial adjuster. CHING has then become the person in-charge of the adjusting agent. With CHING`s talent together with JIAN and LUN`s assistance, they manage to clear up many swindling cases such as `The Virgin Courtesan`, `The Twins` and `The Nice Weather` etc. Though CHING and LUN, JIAN and PO are enemies at the beginning, they gradually become lovers.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -3372,8 +3372,8 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261103000500 +0000" stop="20261103010500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">LOVE IS BEAUTIFUL</title>
-    <desc lang="en">LARINE (HEUNG HOI LAN, ANNE) and JOJO (CHAN MIU YING, MARIANE) have been friends since childhood. They have both been chosen to be mistresses to the emperor because of their beauty. LARINE's mother died a long time ago. She pretends to be ugly when the government officials visit in order to stay with her father. However, during one festival, she saves the plain-dressed emperor, without realizing who he is. He cannot put her aside when he gets back to the palace and decides to marry her. JOJO is jealous of her. She lies to her and takes her to a gypsy, who switches their faces. From then on, their fates change. With LARINE's face, JOJO enjoys all the luxuries in the palace. On the other hand, poor LARINE, having been betrayed by her best friend, is not recognized by her father and has become homeless. At last, she decides to meet the emperor to clarify everything as she thinks she is treated unfairly. JOJO is a very tough girl too. Will the truth be revealed? Will JOJO and LARINE be enemies forever?</desc>
+    <title lang="en">Game of Deceit</title>
+    <desc lang="en">The tricky CHING (CHEUNG KA FAI) and the loafer, JIAN, (CHIN KA LOK) always cheat to earn a living. Unexpectedly, they incur, JIAN`s teacher, SUN (LIU KAI CHI) to death. They even make the banker, HUNG (LAW LOK LAU)`s business bankrupted and HUNG`s daughter, PO, (CHEUNG YUK SHAN) has become a courtesan. CHING has disclosed LUN (HSUAN JESSICA HESTER)`s female identity who is the owner of a famous adjusting agent `The First Tooth`. LUN forces CHING to marry her so as to protect her adjusting agent`s reputation. To CHING it is a great torture as he has to change from a tricky swindler to an impartial adjuster. CHING has then become the person in-charge of the adjusting agent. With CHING`s talent together with JIAN and LUN`s assistance, they manage to clear up many swindling cases such as `The Virgin Courtesan`, `The Twins` and `The Nice Weather` etc. Though CHING and LUN, JIAN and PO are enemies at the beginning, they gradually become lovers.</desc>
     <category lang="en">Drama Series</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
@@ -3389,8 +3389,8 @@
     <title lang="en">Hands Up 2026</title>
     <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1844.</episode-num>
-    <episode-num system="onscreen">S1E1845</episode-num>
+    <episode-num system="xmltv_ns">0.1843.</episode-num>
+    <episode-num system="onscreen">S1E1844</episode-num>
   </programme>
   <programme start="20261103020500 +0000" stop="20261103023500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big Feast Duel &amp; What's On Today</title>
@@ -3431,8 +3431,8 @@
     <title lang="en">Hands Up 2026</title>
     <desc lang="en">The brand-new children's program “Hands Up” encourages kids to ask questions bravely, express themselves, and pursue their goals! Members of the mascot “Sauce Family” join the hosts in performing short skits, accompanying everyone for joyful moments. The show will also feature a variety of children's songs, allowing kids to sing along while learning practical life knowledge.</desc>
     <category lang="en">Kids</category>
-    <episode-num system="xmltv_ns">0.1844.</episode-num>
-    <episode-num system="onscreen">S1E1845</episode-num>
+    <episode-num system="xmltv_ns">0.1843.</episode-num>
+    <episode-num system="onscreen">S1E1844</episode-num>
   </programme>
   <programme start="20261103052500 +0000" stop="20261103061000 +0000" channel="tvbjade.unifitv">
     <title lang="en">Big City Shop 2026</title>
@@ -7950,38 +7950,42 @@
   <channel id="bbcearthhd.unifitv">
     <display-name>BBC Earth HD</display-name>
   </channel>
-  <programme start="20261102154500 +0000" stop="20261102164500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">Programme to be confirmed.</desc>
-    <category lang="en">Entertainment</category>
+  <programme start="20261102150500 +0000" stop="20261102160000 +0000" channel="bbcearthhd.unifitv">
+    <title lang="en">Life Below Zero</title>
+    <desc lang="en">As Alaskans enter a new dawn in the Arctic winter, they must adapt to the changing landscape if they are to survive.</desc>
+    <category lang="en">Knowledge</category>
+    <episode-num system="xmltv_ns">10.0.</episode-num>
+    <episode-num system="onscreen">S11E1</episode-num>
   </programme>
-  <programme start="20261102164500 +0000" stop="20261102174000 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261102160000 +0000" stop="20261102171000 +0000" channel="bbcearthhd.unifitv">
+    <title lang="en">Blue Planet III</title>
+    <desc lang="en">In the tropical seas, year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity.</desc>
+    <category lang="en">Knowledge</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
+  </programme>
+  <programme start="20261102171000 +0000" stop="20261102181000 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Trailblazers: A Rocky Mountain Road Trip</title>
     <desc lang="en">Ruby Wax, Mel B and Emily Atack travel off-road through Utah and trek the mountains of Aspen as they investigate the meaning of the American Dream.</desc>
     <category lang="en">Travel</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20261102174000 +0000" stop="20261102183000 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261102181000 +0000" stop="20261102190500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Where the Wild Men Are with Ben Fogle</title>
     <desc lang="en">Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
     <category lang="en">Knowledge</category>
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <episode-num system="onscreen">S12E2</episode-num>
   </programme>
-  <programme start="20261102183000 +0000" stop="20261102191500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">Extreme Fishing with Robson Green</title>
-    <desc lang="en">Robson's journey continues in Patagonia, where he goes on the hunt for the massive Chinook Salmon.</desc>
+  <programme start="20261102190500 +0000" stop="20261102201500 +0000" channel="bbcearthhd.unifitv">
+    <title lang="en">Blue Planet III</title>
+    <desc lang="en">In the tropical seas, year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity.</desc>
     <category lang="en">Knowledge</category>
-    <episode-num system="xmltv_ns">3.1.</episode-num>
-    <episode-num system="onscreen">S4E2</episode-num>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
-  <programme start="20261102191500 +0000" stop="20261102202000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">Programme to be confirmed.</desc>
-    <category lang="en">Entertainment</category>
-  </programme>
-  <programme start="20261102202000 +0000" stop="20261102211500 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261102201500 +0000" stop="20261102211500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Trailblazers: A Rocky Mountain Road Trip</title>
     <desc lang="en">Ruby Wax, Mel B and Emily Atack travel off-road through Utah and trek the mountains of Aspen as they investigate the meaning of the American Dream.</desc>
     <category lang="en">Travel</category>
@@ -7995,38 +7999,40 @@
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <episode-num system="onscreen">S12E2</episode-num>
   </programme>
-  <programme start="20261102220500 +0000" stop="20261102230000 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261102220500 +0000" stop="20261102225500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Our Guy in Vietnam</title>
     <desc lang="en">On the famous Ho Chi Minh Trail, Guy visits a Huey helicopter graveyard, makes his own version of napalm and comes face to face with a live cluster bomb left over from the war.</desc>
     <category lang="en">Travel</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261102225500 +0000" stop="20261102235500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Trailblazers: A Rocky Mountain Road Trip</title>
     <desc lang="en">Ruby Wax, Mel B and Emily Atack travel off-road through Utah and trek the mountains of Aspen as they investigate the meaning of the American Dream.</desc>
     <category lang="en">Travel</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20261103000000 +0000" stop="20261103005000 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261102235500 +0000" stop="20261103004500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Extreme Fishing with Robson Green</title>
     <desc lang="en">Robson's journey continues in Patagonia, where he goes on the hunt for the massive Chinook Salmon.</desc>
     <category lang="en">Knowledge</category>
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme start="20261103005000 +0000" stop="20261103014500 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261103004500 +0000" stop="20261103013500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Where the Wild Men Are with Ben Fogle</title>
     <desc lang="en">Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
     <category lang="en">Knowledge</category>
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <episode-num system="onscreen">S12E2</episode-num>
   </programme>
-  <programme start="20261103014500 +0000" stop="20261103025000 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">Programme to be confirmed.</desc>
-    <category lang="en">Entertainment</category>
+  <programme start="20261103013500 +0000" stop="20261103025000 +0000" channel="bbcearthhd.unifitv">
+    <title lang="en">Blue Planet III</title>
+    <desc lang="en">In the tropical seas, year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity.</desc>
+    <category lang="en">Knowledge</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
   <programme start="20261103025000 +0000" stop="20261103034000 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Our Guy in Vietnam</title>
@@ -8049,19 +8055,21 @@
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
   </programme>
-  <programme start="20261103053000 +0000" stop="20261103063500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">Programme to be confirmed.</desc>
-    <category lang="en">Entertainment</category>
+  <programme start="20261103053000 +0000" stop="20261103064000 +0000" channel="bbcearthhd.unifitv">
+    <title lang="en">Blue Planet III</title>
+    <desc lang="en">In the tropical seas, year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity.</desc>
+    <category lang="en">Knowledge</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
-  <programme start="20261103063500 +0000" stop="20261103072500 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261103064000 +0000" stop="20261103073000 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Where the Wild Men Are with Ben Fogle</title>
     <desc lang="en">Ben ventures into forested Norwegian wilderness to stay with two remarkable artists.</desc>
     <category lang="en">Knowledge</category>
     <episode-num system="xmltv_ns">11.1.</episode-num>
     <episode-num system="onscreen">S12E2</episode-num>
   </programme>
-  <programme start="20261103072500 +0000" stop="20261103082000 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261103073000 +0000" stop="20261103082000 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Our Guy in Vietnam</title>
     <desc lang="en">On the famous Ho Chi Minh Trail, Guy visits a Huey helicopter graveyard, makes his own version of napalm and comes face to face with a live cluster bomb left over from the war.</desc>
     <category lang="en">Travel</category>
@@ -8075,12 +8083,14 @@
     <episode-num system="xmltv_ns">3.1.</episode-num>
     <episode-num system="onscreen">S4E2</episode-num>
   </programme>
-  <programme start="20261103091000 +0000" stop="20261103101500 +0000" channel="bbcearthhd.unifitv">
-    <title lang="en">TBA</title>
-    <desc lang="en">Programme to be confirmed.</desc>
-    <category lang="en">Entertainment</category>
+  <programme start="20261103091000 +0000" stop="20261103102000 +0000" channel="bbcearthhd.unifitv">
+    <title lang="en">Blue Planet III</title>
+    <desc lang="en">In the tropical seas, year-round sunshine has created the perfect conditions for the ocean's richest habitats to flourish, but survival takes remarkable and surprising ingenuity.</desc>
+    <category lang="en">Knowledge</category>
+    <episode-num system="xmltv_ns">2.0.</episode-num>
+    <episode-num system="onscreen">S3E1</episode-num>
   </programme>
-  <programme start="20261103101500 +0000" stop="20261103111500 +0000" channel="bbcearthhd.unifitv">
+  <programme start="20261103102000 +0000" stop="20261103111500 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Trailblazers: A Rocky Mountain Road Trip</title>
     <desc lang="en">Ruby Wax, Mel B and Emily Atack travel off-road through Utah and trek the mountains of Aspen as they investigate the meaning of the American Dream.</desc>
     <category lang="en">Travel</category>

@@ -20,7 +20,7 @@
 <title>Terbaik Itu Kamu (RCTI)</title>
 </programme>
 <programme start="20261103150000 +0000" stop="20261103171500 +0000" channel="RCTI.vision">
-<title>Catatan Harian Seorang Istri</title>
+<title>Catatan Hati Seorang Istri</title>
 </programme>
 <programme start="20261103171500 +0000" stop="20261103180000 +0000" channel="RCTI.vision">
 <title>Cinta Biang Onar</title>
@@ -624,9 +624,6 @@
 </programme>
 <programme start="20261103010000 +0000" stop="20261103023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261103023000 +0000" stop="20261103060000 +0000" channel="ANTV.vision">
-<title>Koi Mil Gaya</title>
 </programme>
 <programme start="20261103060000 +0000" stop="20261103073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261103090000 +0000" stop="20261103090300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261103090300 +0000" stop="20261103093000 +0000" channel="TVRI.vision">
+<title>Ragam Kain Nusantara</title>
 </programme>

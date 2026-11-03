@@ -17146,7 +17146,121 @@
   <programme start="20261105220500 +0000" stop="20261105230000 +0000" channel="Al Jazeera.webtv.sk">
     <title lang="id">Making Sense</title>
   </programme>
-  <programme start="20261104223000 +0000" stop="20261105013000 +0000" channel="Sky News.webtv.sk">
+  <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
+  </programme>
+  <programme start="20261104233000 +0000" stop="20261105000000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
+  </programme>
+  <programme start="20261105000000 +0000" stop="20261105010000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20261105010000 +0000" stop="20261105020000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20261105030000 +0000" stop="20261105040000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20261105040000 +0000" stop="20261105050000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20261105050000 +0000" stop="20261105060000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News</title>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105063000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings</title>
+  </programme>
+  <programme start="20261105063000 +0000" stop="20261105070000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings</title>
+  </programme>
+  <programme start="20261105070000 +0000" stop="20261105073000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20261105073000 +0000" stop="20261105080000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20261105080000 +0000" stop="20261105083000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20261105083000 +0000" stop="20261105090000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20261105090000 +0000" stop="20261105093000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20261105093000 +0000" stop="20261105100000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Mornings with Ridge and Frost</title>
+  </programme>
+  <programme start="20261105100000 +0000" stop="20261105103000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Barlow</title>
+  </programme>
+  <programme start="20261105103000 +0000" stop="20261105110000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Barlow</title>
+  </programme>
+  <programme start="20261105110000 +0000" stop="20261105113000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Barlow</title>
+  </programme>
+  <programme start="20261105113000 +0000" stop="20261105120000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Barlow</title>
+  </programme>
+  <programme start="20261105120000 +0000" stop="20261105123000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Barlow</title>
+  </programme>
+  <programme start="20261105123000 +0000" stop="20261105130000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Gareth Barlow</title>
+  </programme>
+  <programme start="20261105130000 +0000" stop="20261105133000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105133000 +0000" stop="20261105140000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105140000 +0000" stop="20261105143000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105143000 +0000" stop="20261105150000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105150000 +0000" stop="20261105153000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105153000 +0000" stop="20261105160000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105163000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105163000 +0000" stop="20261105170000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">Sky News Today with Jayne Secker</title>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20261105180000 +0000" stop="20261105183000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The News Hour With Mark Austin</title>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Cathy Newman Show</title>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105210000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">UK Tonight With Sarah-Jane Mee</title>
+  </programme>
+  <programme start="20261105210000 +0000" stop="20261105220000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The World with Yalda Hakim</title>
+  </programme>
+  <programme start="20261105220000 +0000" stop="20261105223000 +0000" channel="Sky News.webtv.sk">
+    <title lang="id">The Wrap With Anna Botting</title>
+  </programme>
+  <programme start="20261105223000 +0000" stop="20261105230000 +0000" channel="Sky News.webtv.sk">
     <title lang="id">The Wrap With Anna Botting</title>
   </programme>
   <programme start="20261104230000 +0000" stop="20261104231000 +0000" channel="France 24 English.webtv.sk">
@@ -17908,7 +18022,7 @@
   <programme start="20261105224500 +0000" stop="20261105225500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Porta a porta</title>
   </programme>
-  <programme start="20261105225500 +0000" stop="20261106015500 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20261105225500 +0000" stop="20261105230000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
   </programme>
   <programme start="20261104230000 +0000" stop="20261105000000 +0000" channel="Rai Tre.webtv.sk">
@@ -18019,7 +18133,7 @@
   <programme start="20261105194500 +0000" stop="20261105201500 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Un posto al sole XXX</title>
   </programme>
-  <programme start="20261105201500 +0000" stop="20261105231500 +0000" channel="Rai Tre.webtv.sk">
+  <programme start="20261105201500 +0000" stop="20261105230000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">Splendida Cornice VI</title>
   </programme>
   <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="CGTN.webtv.sk">
