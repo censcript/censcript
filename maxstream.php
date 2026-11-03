@@ -104,6 +104,42 @@
     <title>Montase</title>
     <desc>Program magazine tentang movie &amp; series review, menghadirkan para cast dan mengkombinasikan game show</desc>
   </programme>
+  <programme start="20261104113000 +0000" stop="20261104123000 +0000" channel="MAXStream TV.maxstream">
+    <title>Ikatan Cinta</title>
+    <desc>Berkisah tentang 2 bersaudara Andin dan Elsa yang tanpa sengaja mencintai pria yang sama yaitu Nino. Hubungan mereka berdua yang memang tidak pernah baik menjadi semakin buruk setelah Nino menikah dengan Andin.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104133000 +0000" channel="MAXStream TV.maxstream">
+    <title>Bunga Di Tepi Jurang</title>
+    <desc>Andini, seorang gadis muda dari desa kecil, memimpikan kehidupan yang lebih layak di kota besar. Namun, langkahnya justru membawanya ke dunia yang keras dan tak terduga, tempat bertahan hidup menuntut pengorbanan.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104153000 +0000" channel="MAXStream TV.maxstream">
+    <title>Live Awarding AMI Award 2026</title>
+    <desc>AWARDING AMI AWARD 2026 LIVE</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104143000 +0000" channel="MAXStream TV.maxstream">
+    <title>The Other Sister</title>
+    <desc>Raya, penari klub malam, yang menyamar sebagai saudara kembar identik-nya telah meninggal, Anna. Penyamaran ini bertujuan membongkar rahasia kelam keluarga politisi Ardana yang sangat berkuasa di balik kematian misterius Anna.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104161500 +0000" channel="MAXStream TV.maxstream">
+    <title>Kun Ana Wa Anta</title>
+    <desc>Firman bertemu Orang Utan (Uto) yang nyasar di area pesantren. Cocok ditonton bersama oleh teman dan keluarga besar. Mengajarkan cinta lingkungan, persahabatan, kepercayaan, kejujuran dan keberanian.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104154500 +0000" channel="MAXStream TV.maxstream">
+    <title>CLBK The Series</title>
+    <desc>Mini series yang menceritakan suka dan duka mencari pasangan melalui kencan buta.</desc>
+  </programme>
+  <programme start="20261104154500 +0000" stop="20261104161500 +0000" channel="MAXStream TV.maxstream">
+    <title>Dapuk</title>
+    <desc>Sketsa Komedi Oleh Denny Caknan, Cak Percil dan Abah Kirun. Dalam Lakon Keseharian. Yang Memberikan Solusi Penuh Masalah Dibalut Dengan Komedi Jawa Yang Kental.</desc>
+  </programme>
+  <programme start="20261104161500 +0000" stop="20261104163000 +0000" channel="MAXStream TV.maxstream">
+    <title>Mr Bean Animation</title>
+    <desc>Mr. Bean laki-laki yang mempunyai sikap sedikit kekanak-kanakan yang berusaha bertahan hidup di kota London dan sangat kompetititf. Dalam series animasi, ia digambarkan lebih beruntung dan kompeten dari versi live actionya.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="MAXStream TV.maxstream">
+    <title>Bisik Hati Lara</title>
+    <desc>LARA sebagai anak sulung, tak punya pilihan selain harus mencari pekerjaan tambahan, demi adik satu- satunya, LENA, bisa melanjutkan SMA nya sampai lulus, sembari memastikan terapi pengobatan Ibu.</desc>
+  </programme>
   <programme start="20261102170000 +0000" stop="20261102174500 +0000" channel="MAXStream TV.maxstream">
     <title>Horror Banget</title>
     <desc>Cak Lontong dan anak indigo Naomi Angelia Sea akan membahas dan membedah hal-hal horor dengan tema-tema yang seru. Kita akan buktikan bersama apakah itu nyata atau hanya gosip saja.</desc>
@@ -952,26 +988,6 @@
     <title>Bisik Hati Lara</title>
     <desc>LARA sebagai anak sulung, tak punya pilihan selain harus mencari pekerjaan tambahan, demi adik satu- satunya, LENA, bisa melanjutkan SMA nya sampai lulus, sembari memastikan terapi pengobatan Ibu.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027123000 +0000" channel="MAXStream TV.maxstream">
-    <title>Ikatan Cinta</title>
-    <desc>Berkisah tentang 2 bersaudara Andin dan Elsa yang tanpa sengaja mencintai pria yang sama yaitu Nino. Hubungan mereka berdua yang memang tidak pernah baik menjadi semakin buruk setelah Nino menikah dengan Andin.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027133000 +0000" channel="MAXStream TV.maxstream">
-    <title>Bunga Di Tepi Jurang</title>
-    <desc>Andini, seorang gadis muda dari desa kecil, memimpikan kehidupan yang lebih layak di kota besar. Namun, langkahnya justru membawanya ke dunia yang keras dan tak terduga, tempat bertahan hidup menuntut pengorbanan.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027143000 +0000" channel="MAXStream TV.maxstream">
-    <title>The Other Sister</title>
-    <desc>Raya, penari klub malam, yang menyamar sebagai saudara kembar identik-nya telah meninggal, Anna. Penyamaran ini bertujuan membongkar rahasia kelam keluarga politisi Ardana yang sangat berkuasa di balik kematian misterius Anna.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027163000 +0000" channel="MAXStream TV.maxstream">
-    <title>Dilan 1991 Extended</title>
-    <desc>22 Desember 1990, Dilan dan Milea resmi berpacaran. Di tengah kebahagiaan mereka Dilan terancam dipecat dari sekolah akibat perkelahian dengan Anhar. Dilan juga semakin sering berkelahi. Milea khawatir dengan masa depan Dilan.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="MAXStream TV.maxstream">
-    <title>Bisik Hati Lara</title>
-    <desc>LARA sebagai anak sulung, tak punya pilihan selain harus mencari pekerjaan tambahan, demi adik satu- satunya, LENA, bisa melanjutkan SMA nya sampai lulus, sembari memastikan terapi pengobatan Ibu.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103184500 +0000" channel="MAXReels.maxstream">
     <title>Lafran</title>
     <desc>Mengikuti perjalanan tokoh pahlawan nasional, Lafran Pane, dikenal sebagai pendiri organisasi HMI. Organisasi untuk menampung perjuangan masyarakat. Tumbuh di Yogyakarta dan Jakarta, Lafran ditinggal orang tercintanya sejak muda.</desc>
@@ -1061,6 +1077,30 @@
     <desc>Program magazine tentang movie &amp; series review, menghadirkan para cast dan mengkombinasikan game show</desc>
   </programme>
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="MAXReels.maxstream">
+    <title>Ini Dia</title>
+    <desc>Kompilasi informasi tentang berbagai hal unik dan viral di dunia maya, baik di dalam maupun luar negeri</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="MAXReels.maxstream">
+    <title>Dimasakin Cheeeck</title>
+    <desc>Pertemuan Chef dengan bintang tamu spesial yang akan dimasakin oleh chef sambil mengobrol santai.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="MAXReels.maxstream">
+    <title>Agent 0812</title>
+    <desc>Sketsa komedi yang dikemas ala agen-agen detektif yang kocak dan seru</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="MAXReels.maxstream">
+    <title>Ikatan Cinta</title>
+    <desc>Berkisah tentang 2 bersaudara Andin dan Elsa yang tanpa sengaja mencintai pria yang sama yaitu Nino. Hubungan mereka berdua yang tidak pernah baik jadi semakin buruk setelah Nino menikah dengan Andin</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104154500 +0000" channel="MAXReels.maxstream">
+    <title>Lafran</title>
+    <desc>Mengikuti perjalanan tokoh pahlawan nasional, Lafran Pane, dikenal sebagai pendiri organisasi HMI. Organisasi untuk menampung perjuangan masyarakat. Tumbuh di Yogyakarta dan Jakarta, Lafran ditinggal orang tercintanya sejak muda.</desc>
+  </programme>
+  <programme start="20261104154500 +0000" stop="20261104163000 +0000" channel="MAXReels.maxstream">
+    <title>Ckckck</title>
+    <desc>Menjelajahi kompleksitas hubungan modern dengan perpaduan drama dan komedi. Dimana situasi itu membuat orang bereaksi ck..ck..ck..</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="MAXReels.maxstream">
     <title>Ini Dia</title>
     <desc>Kompilasi informasi tentang berbagai hal unik dan viral di dunia maya, baik di dalam maupun luar negeri</desc>
   </programme>
@@ -1928,30 +1968,6 @@
     <title>Ini Dia</title>
     <desc>Kompilasi informasi tentang berbagai hal unik dan viral di dunia maya, baik di dalam maupun luar negeri</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="MAXReels.maxstream">
-    <title>Dimasakin Cheeeck</title>
-    <desc>Pertemuan Chef dengan bintang tamu spesial yang akan dimasakin oleh chef sambil mengobrol santai.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="MAXReels.maxstream">
-    <title>Agent 0812</title>
-    <desc>Sketsa komedi yang dikemas ala agen-agen detektif yang kocak dan seru</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="MAXReels.maxstream">
-    <title>Ikatan Cinta</title>
-    <desc>Berkisah tentang 2 bersaudara Andin dan Elsa yang tanpa sengaja mencintai pria yang sama yaitu Nino. Hubungan mereka berdua yang tidak pernah baik jadi semakin buruk setelah Nino menikah dengan Andin</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027154500 +0000" channel="MAXReels.maxstream">
-    <title>Warkop Reborn 4</title>
-    <desc>Dijatuhi hukuman gantung, Warkop DKI berhasil melarikan diri ke Maroko. Di sana mereka bertemu seseorang yang mengendalikan jaringan mata-mata anak-anak. Mereka berhasil mengetahui keberadaan Inka</desc>
-  </programme>
-  <programme start="20261027154500 +0000" stop="20261027163000 +0000" channel="MAXReels.maxstream">
-    <title>Ckckck</title>
-    <desc>Menjelajahi kompleksitas hubungan modern dengan perpaduan drama dan komedi. Dimana situasi itu membuat orang bereaksi ck..ck..ck..</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="MAXReels.maxstream">
-    <title>Ini Dia</title>
-    <desc>Kompilasi informasi tentang berbagai hal unik dan viral di dunia maya, baik di dalam maupun luar negeri</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103174500 +0000" channel="MAXEats.maxstream">
     <title>Jajan Terus</title>
     <desc>Program reality show kuliner. Seorang presenter berlaku sebagai penantang seorang bintang tamu untuk jajan dengan challenge uang 100-500rb rupiah. Presenter &amp; bintang tamu ada obrolan santai, review makanan sedang viral di sosmed.</desc>
@@ -2083,6 +2099,46 @@
   <programme start="20261104111500 +0000" stop="20261104113000 +0000" channel="MAXEats.maxstream">
     <title>Bu Nad Suka Masak</title>
     <desc>Resep makanan yang praktis dan sederhana untuk menu sehari-hari, yang diolah dan disajikan oleh Bu Nadia (Bu Nad).</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="MAXEats.maxstream">
+    <title>Masak Sih!</title>
+    <desc>Masak Sih! adalah program masak yang menyajikan beragam menu rumahan simpel, praktis, dan mudah dipraktikkan untuk keseharian. Program yang menjadi teman harian Moms untuk inspirasi harian di dapur.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="MAXEats.maxstream">
+    <title>Tasty</title>
+    <desc>Tasty adalah reality show human interest yang dengan dua host perempuan muda, yang menjelajahi ibukota untuk menemukan sosok pekerja keras di jalanan. Tasty bukan sekadar tentang makanan tetapi tentang pertemuan manusia.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="MAXEats.maxstream">
+    <title>Jajan Terus S2</title>
+    <desc>Program reality show kuliner, resenter &amp; bintang tamu akan ada obrolan santai , review makanan cemilan yang sedang viral di sosial media. setelah challenge mereka juga akan review makanan yang sudah didapatkan dengan review jujur.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="MAXEats.maxstream">
+    <title>Food Fotografi</title>
+    <desc>Program photography yang membahas tentang teknik membuat foto produk makanan atau minuman, serta tips &amp; trik nya.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="MAXEats.maxstream">
+    <title>Ruang Barista &amp; Brewing</title>
+    <desc>Tutorial untuk meracik minuman kopi dengan sajian yang beraneka ragam</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="MAXEats.maxstream">
+    <title>First Bite S2</title>
+    <desc>Reality Show Review makanan dengan mendatangi UMKM dadakan, menunjukkan perjalanan menuju resto, pesan makanan, mereview makanan, bertemu owner, pesan makanan di marketplace dan rating di google review.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="MAXEats.maxstream">
+    <title>Jajan Terus S2</title>
+    <desc>Program reality show kuliner, resenter &amp; bintang tamu akan ada obrolan santai , review makanan cemilan yang sedang viral di sosial media. setelah challenge mereka juga akan review makanan yang sudah didapatkan dengan review jujur.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="MAXEats.maxstream">
+    <title>Sweet</title>
+    <desc>Tutorial memasak dengan Chef yang ahli di bidang pastry</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="MAXEats.maxstream">
+    <title>Masak Sih!</title>
+    <desc>Masak Sih! adalah program masak yang menyajikan beragam menu rumahan simpel, praktis, dan mudah dipraktikkan untuk keseharian. Program yang menjadi teman harian Moms untuk inspirasi harian di dapur.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="MAXEats.maxstream">
+    <title>Colenak</title>
+    <desc>Program kuliner tematik bersama Anastasya Khosasih yang memesan makanan melalui layanan online. Apakah Anastasya akan Colenak atau tidak makanan itu?</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102174500 +0000" channel="MAXEats.maxstream">
     <title>Jajan Terus</title>
@@ -3292,46 +3348,6 @@
     <title>Colenak</title>
     <desc>Program kuliner tematik bersama Anastasya Khosasih yang memesan makanan melalui layanan online. Apakah Anastasya akan Colenak atau tidak makanan itu?</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="MAXEats.maxstream">
-    <title>Masak Sih!</title>
-    <desc>Masak Sih! adalah program masak yang menyajikan beragam menu rumahan simpel, praktis, dan mudah dipraktikkan untuk keseharian. Program yang menjadi teman harian Moms untuk inspirasi harian di dapur.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="MAXEats.maxstream">
-    <title>Tasty</title>
-    <desc>Tasty adalah reality show human interest yang dengan dua host perempuan muda, yang menjelajahi ibukota untuk menemukan sosok pekerja keras di jalanan. Tasty bukan sekadar tentang makanan tetapi tentang pertemuan manusia.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="MAXEats.maxstream">
-    <title>Jajan Terus S2</title>
-    <desc>Program reality show kuliner, resenter &amp; bintang tamu akan ada obrolan santai , review makanan cemilan yang sedang viral di sosial media. setelah challenge mereka juga akan review makanan yang sudah didapatkan dengan review jujur.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="MAXEats.maxstream">
-    <title>Food Fotografi</title>
-    <desc>Program photography yang membahas tentang teknik membuat foto produk makanan atau minuman, serta tips &amp; trik nya.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="MAXEats.maxstream">
-    <title>Ruang Barista &amp; Brewing</title>
-    <desc>Tutorial untuk meracik minuman kopi dengan sajian yang beraneka ragam</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="MAXEats.maxstream">
-    <title>First Bite S2</title>
-    <desc>Reality Show Review makanan dengan mendatangi UMKM dadakan, menunjukkan perjalanan menuju resto, pesan makanan, mereview makanan, bertemu owner, pesan makanan di marketplace dan rating di google review.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="MAXEats.maxstream">
-    <title>Jajan Terus S2</title>
-    <desc>Program reality show kuliner, resenter &amp; bintang tamu akan ada obrolan santai , review makanan cemilan yang sedang viral di sosial media. setelah challenge mereka juga akan review makanan yang sudah didapatkan dengan review jujur.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="MAXEats.maxstream">
-    <title>Sweet</title>
-    <desc>Tutorial memasak dengan Chef yang ahli di bidang pastry</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="MAXEats.maxstream">
-    <title>Masak Sih!</title>
-    <desc>Masak Sih! adalah program masak yang menyajikan beragam menu rumahan simpel, praktis, dan mudah dipraktikkan untuk keseharian. Program yang menjadi teman harian Moms untuk inspirasi harian di dapur.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="MAXEats.maxstream">
-    <title>Colenak</title>
-    <desc>Program kuliner tematik bersama Anastasya Khosasih yang memesan makanan melalui layanan online. Apakah Anastasya akan Colenak atau tidak makanan itu?</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="MAXKids.maxstream">
     <title>Agent Binky</title>
     <desc>Serial ini mengikuti petualangan Binky, seekor kucing rumah muda yang hitam dan putih, setelah Dia menjadi kucing luar angkasa, sedang dalam misi untuk melindungi keluarga manusia dari ancaman antar bintang.</desc>
@@ -3583,6 +3599,66 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="MAXKids.maxstream">
     <title>Agent Binky</title>
     <desc>Serial ini mengikuti petualangan Binky, seekor kucing rumah muda yang hitam dan putih, setelah Dia menjadi kucing luar angkasa, sedang dalam misi untuk melindungi keluarga manusia dari ancaman antar bintang.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="MAXKids.maxstream">
+    <title>Little Charmers</title>
+    <desc>Di tanah ajaib Charmville, Charmer-in-training Hazel dan sahabatnya, Posie dan Lavender, masih terbiasa dengan kekuatan mereka. Hazel yang tak kenal takut, memimpin kelompok dalam petualangan yang dirancang kemampuan magis mereka.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104123000 +0000" channel="MAXKids.maxstream">
+    <title>Ikatan Cinta</title>
+    <desc>Berkisah tentang 2 bersaudara Andin dan Elsa yang tanpa sengaja mencintai pria yang sama yaitu Nino. Hubungan mereka berdua yang memang tidak pernah baik menjadi semakin buruk setelah Nino menikah dengan Andin.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="MAXKids.maxstream">
+    <title>Menggapai Mimpi</title>
+    <desc>Program features tentang anak - anak sekolah yang berjuang dalam menggapai mimpi. Baik dalam dunia pendidikan formal maupun non formal mereka yang tetap semangat dalam meraih cita - citanya.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104124500 +0000" channel="MAXKids.maxstream">
+    <title>Uncle Max</title>
+    <desc>Uncle MAX akan mengajak anak untuk belajar berbagai hal seru melalui sulap, permainan dan interaksi yang menyenangkan</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104153000 +0000" channel="MAXKids.maxstream">
+    <title>Live Awarding AMI Award 2026</title>
+    <desc>AWARDING AMI AWARD 2026 LIVE</desc>
+  </programme>
+  <programme start="20261104124500 +0000" stop="20261104130000 +0000" channel="MAXKids.maxstream">
+    <title>Main Yuk !</title>
+    <desc>Program yang dirancang untuk membantu anak-anak mempelajari dasar-dasar pengetahuan dan keterampilan melalui visual, gerakan, suara, dan storytelling yang disajikan secara ringan, menyenangkan, edukatif, interaktif &amp; penuh warna.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104131500 +0000" channel="MAXKids.maxstream">
+    <title>Cerita Sebelum Tidur</title>
+    <desc>Program pengantar tidur anak yang menghadirkan cerita menarik melalui bayangan tangan. Dengan lampu kecil, bayangan membentuk karakter yang disukai anak-anak.</desc>
+  </programme>
+  <programme start="20261104131500 +0000" stop="20261104140000 +0000" channel="MAXKids.maxstream">
+    <title>Cbeebies</title>
+    <desc>Menghadirkan tayangan favorit Go Jetters &amp; Hey Duggee yang seru dan edukatif dari Cbeebies.Bersama Go Jetters, berpetualang keliling dunia mengenal berbagai tempat ikonik serta pentingnya menjaga lingkungan yang menyenangkan.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104153000 +0000" channel="MAXKids.maxstream">
+    <title>Laskar Pelangi 2</title>
+    <desc>Ikal dan Arai menjalani hari-hari menimba ilmu di Sorbonne. Ikal mengambil master ekonomi sementara Arai berkutat dengan ilmu biologi. Di antara harapan ayah Ikal yang menghendaki mereka menjadi ahli pupuk dan apoteker.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104154500 +0000" channel="MAXKids.maxstream">
+    <title>Teman Satwa</title>
+    <desc>Program edukasi dan hiburan ramah anak yang mengajak penonton mengenal kehidupan satwa Indonesia melalui storytelling yang ringan, hangat dan dekat dengan dunia anak.</desc>
+  </programme>
+  <programme start="20261104154500 +0000" stop="20261104160000 +0000" channel="MAXKids.maxstream">
+    <title>Hi Kiddos</title>
+    <desc>Hi Kiddos adalah sebuah program edukasi untuk anak yang menyajikan video bertema  ilmu pengetahuan dan belajar sambil menjelajahi tempat-tempat menarik.</desc>
+  </programme>
+  <programme start="20261104154500 +0000" stop="20261104161500 +0000" channel="MAXKids.maxstream">
+    <title>Dapuk</title>
+    <desc>Sketsa Komedi Oleh Denny Caknan, Cak Percil dan Abah Kirun. Dalam Lakon Keseharian. Yang Memberikan Solusi Penuh Masalah Dibalut Dengan Komedi Jawa Yang Kental.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="MAXKids.maxstream">
+    <title>Dolanan</title>
+    <desc>Dolanan merupakan program feature dokumenter yang mengangkat kearifan lokal sebuah desa. Seorang anak akan menceritakan keluarga kecilnya serta kehidupan mereka di tempat tinggalnya. </desc>
+  </programme>
+  <programme start="20261104161500 +0000" stop="20261104163000 +0000" channel="MAXKids.maxstream">
+    <title>Mr Bean Animation</title>
+    <desc>Mr. Bean laki-laki yang mempunyai sikap sedikit kekanak-kanakan yang berusaha bertahan hidup di kota London dan sangat kompetititf. Dalam series animasi, ia digambarkan lebih beruntung dan kompeten dari versi live actionya.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="MAXKids.maxstream">
+    <title>Little Charmers</title>
+    <desc>Di tanah ajaib Charmville, Charmer-in-training Hazel dan sahabatnya, Posie dan Lavender, masih terbiasa dengan kekuatan mereka. Hazel yang tak kenal takut, memimpin kelompok dalam petualangan yang dirancang kemampuan magis mereka.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="MAXKids.maxstream">
     <title>Agent Binky</title>
@@ -5340,46 +5416,6 @@
     <title>Little Charmers</title>
     <desc>Di tanah ajaib Charmville, Charmer-in-training Hazel dan sahabatnya, Posie dan Lavender, masih terbiasa dengan kekuatan mereka. Hazel yang tak kenal takut, memimpin kelompok dalam petualangan yang dirancang kemampuan magis mereka.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="MAXKids.maxstream">
-    <title>Little Charmers</title>
-    <desc>Di tanah ajaib Charmville, Charmer-in-training Hazel dan sahabatnya, Posie dan Lavender, masih terbiasa dengan kekuatan mereka. Hazel yang tak kenal takut, memimpin kelompok dalam petualangan yang dirancang kemampuan magis mereka.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="MAXKids.maxstream">
-    <title>Menggapai Mimpi</title>
-    <desc>Program features tentang anak - anak sekolah yang berjuang dalam menggapai mimpi. Baik dalam dunia pendidikan formal maupun non formal mereka yang tetap semangat dalam meraih cita - citanya.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027124500 +0000" channel="MAXKids.maxstream">
-    <title>Uncle Max</title>
-    <desc>Uncle MAX akan mengajak anak untuk belajar berbagai hal seru melalui sulap, permainan dan interaksi yang menyenangkan</desc>
-  </programme>
-  <programme start="20261027124500 +0000" stop="20261027130000 +0000" channel="MAXKids.maxstream">
-    <title>Main Yuk !</title>
-    <desc>Program yang dirancang untuk membantu anak-anak mempelajari dasar-dasar pengetahuan dan keterampilan melalui visual, gerakan, suara, dan storytelling yang disajikan secara ringan, menyenangkan, edukatif, interaktif &amp; penuh warna.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027131500 +0000" channel="MAXKids.maxstream">
-    <title>Cerita Sebelum Tidur</title>
-    <desc>Program pengantar tidur anak yang menghadirkan cerita menarik melalui bayangan tangan. Dengan lampu kecil, bayangan membentuk karakter yang disukai anak-anak.</desc>
-  </programme>
-  <programme start="20261027131500 +0000" stop="20261027140000 +0000" channel="MAXKids.maxstream">
-    <title>Cbeebies</title>
-    <desc>Menghadirkan tayangan favorit Go Jetters &amp; Hey Duggee yang seru dan edukatif dari Cbeebies.Bersama Go Jetters, berpetualang keliling dunia mengenal berbagai tempat ikonik serta pentingnya menjaga lingkungan yang menyenangkan.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027154500 +0000" channel="MAXKids.maxstream">
-    <title>Rasyah The Wonder Kid</title>
-    <desc>Pekerjaan ayah Rasyah membuat mereka sering berpindah tempat. Di Makasar Rasyah mendapatkan satu teman yang sangat baik. Dilema dimulai saat Rasyah akan meninggalkan teman terbaiknya itu.</desc>
-  </programme>
-  <programme start="20261027154500 +0000" stop="20261027160000 +0000" channel="MAXKids.maxstream">
-    <title>Hi Kiddos</title>
-    <desc>Hi Kiddos adalah sebuah program edukasi untuk anak yang menyajikan video bertema  ilmu pengetahuan dan belajar sambil menjelajahi tempat-tempat menarik.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="MAXKids.maxstream">
-    <title>Dolanan</title>
-    <desc>Dolanan merupakan program feature dokumenter yang mengangkat kearifan lokal sebuah desa. Seorang anak akan menceritakan keluarga kecilnya serta kehidupan mereka di tempat tinggalnya. </desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="MAXKids.maxstream">
-    <title>Little Charmers</title>
-    <desc>Di tanah ajaib Charmville, Charmer-in-training Hazel dan sahabatnya, Posie dan Lavender, masih terbiasa dengan kekuatan mereka. Hazel yang tak kenal takut, memimpin kelompok dalam petualangan yang dirancang kemampuan magis mereka.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="MAXStreak.maxstream">
     <title>Breakdown</title>
     <desc>Konten mingguan. Kami berbicara tentang kejadian dan adegan e-sports, memprioritaskan topik trending hot atau masalah yang terjadi di industri ini.</desc>
@@ -5459,6 +5495,34 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="MAXStreak.maxstream">
     <title>Good Game</title>
     <desc>Program talkshow santai dan ringan, menghadirkan informasi terupdate seputar dunia Esport. Menghadirkan bintang tamu dari kalangan profesional Esport, mulai dari pro player, caster, coach, hingga analis industri.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104121500 +0000" channel="MAXStreak.maxstream">
+    <title>Tutor Bang</title>
+    <desc>Program yang memberikan Tips and Trick dalam memainkan beberapa games seperti game FPS, Console ataupun Moba (Multiplayer Online Battle Arena).</desc>
+  </programme>
+  <programme start="20261104121500 +0000" stop="20261104140000 +0000" channel="MAXStreak.maxstream">
+    <title>DG WIB Fast Tournament Free Fire</title>
+    <desc>Dunia Games Waktu Indonesia Bermain (disingkat DGWIB) menampilkan seri Fast Turnament FREE FIRE di Indonesia</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104144500 +0000" channel="MAXStreak.maxstream">
+    <title>Mendadak Gamers</title>
+    <desc>Program Reality Show tentang seorang Big Boss sangat angkuh dan meremehkan orang lain. Yang mempunyai pasukan dan menantang orang secara random untuk bertanding E-Sport, seperti cafe, kampus, warnet, hingga tempat rental PS</desc>
+  </programme>
+  <programme start="20261104144500 +0000" stop="20261104160000 +0000" channel="MAXStreak.maxstream">
+    <title>Breakdown</title>
+    <desc>Konten mingguan. Kami berbicara tentang kejadian dan adegan e-sports, memprioritaskan topik trending hot atau masalah yang terjadi di industri ini.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104161500 +0000" channel="MAXStreak.maxstream">
+    <title>Jejak</title>
+    <desc>Masih ingat gak kalian sama Games yang dulu sering menemani hari-hari kita sebelum IG dan TikTok besar? Kita berhasil mengumpulkan beberapa list mobile games yang sudah tidak ada lagi nih dan akan kita bahas bersama</desc>
+  </programme>
+  <programme start="20261104161500 +0000" stop="20261104164500 +0000" channel="MAXStreak.maxstream">
+    <title>Good Game</title>
+    <desc>Program talkshow santai dan ringan, menghadirkan informasi terupdate seputar dunia Esport. Menghadirkan bintang tamu dari kalangan profesional Esport, mulai dari pro player, caster, coach, hingga analis industri.</desc>
+  </programme>
+  <programme start="20261104164500 +0000" stop="20261104170000 +0000" channel="MAXStreak.maxstream">
+    <title>Jejak</title>
+    <desc>Masih ingat gak kalian sama Games yang dulu sering menemani hari-hari kita sebelum IG dan TikTok besar? Kita berhasil mengumpulkan beberapa list mobile games yang sudah tidak ada lagi nih dan akan kita bahas bersama</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="MAXStreak.maxstream">
     <title>Breakdown</title>
@@ -6464,42 +6528,6 @@
     <title>Jejak</title>
     <desc>Masih ingat gak kalian sama Games yang dulu sering menemani hari-hari kita sebelum IG dan TikTok besar? Kita berhasil mengumpulkan beberapa list mobile games yang sudah tidak ada lagi nih dan akan kita bahas bersama</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027121500 +0000" channel="MAXStreak.maxstream">
-    <title>Tutor Bang</title>
-    <desc>Program yang memberikan Tips and Trick dalam memainkan beberapa games seperti game FPS, Console ataupun Moba (Multiplayer Online Battle Arena).</desc>
-  </programme>
-  <programme start="20261027121500 +0000" stop="20261027140000 +0000" channel="MAXStreak.maxstream">
-    <title>DG WIB Fast Tournament Free Fire</title>
-    <desc>Dunia Games Waktu Indonesia Bermain (disingkat DGWIB) menampilkan seri Fast Turnament FREE FIRE di Indonesia</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027144500 +0000" channel="MAXStreak.maxstream">
-    <title>Mendadak Gamers</title>
-    <desc>Program Reality Show tentang seorang Big Boss sangat angkuh dan meremehkan orang lain. Yang mempunyai pasukan dan menantang orang secara random untuk bertanding E-Sport, seperti cafe, kampus, warnet, hingga tempat rental PS</desc>
-  </programme>
-  <programme start="20261027144500 +0000" stop="20261027154500 +0000" channel="MAXStreak.maxstream">
-    <title>Breakdown</title>
-    <desc>Konten mingguan. Kami berbicara tentang kejadian dan adegan e-sports, memprioritaskan topik trending hot atau masalah yang terjadi di industri ini.</desc>
-  </programme>
-  <programme start="20261027144500 +0000" stop="20261027160000 +0000" channel="MAXStreak.maxstream">
-    <title>Breakdown</title>
-    <desc>Konten mingguan. Kami berbicara tentang kejadian dan adegan e-sports, memprioritaskan topik trending hot atau masalah yang terjadi di industri ini.</desc>
-  </programme>
-  <programme start="20261027154500 +0000" stop="20261027160000 +0000" channel="MAXStreak.maxstream">
-    <title>Jejak</title>
-    <desc>Masih ingat gak kalian sama Games yang dulu sering menemani hari-hari kita sebelum IG dan TikTok besar? Kita berhasil mengumpulkan beberapa list mobile games yang sudah tidak ada lagi nih dan akan kita bahas bersama</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027161500 +0000" channel="MAXStreak.maxstream">
-    <title>Jejak</title>
-    <desc>Masih ingat gak kalian sama Games yang dulu sering menemani hari-hari kita sebelum IG dan TikTok besar? Kita berhasil mengumpulkan beberapa list mobile games yang sudah tidak ada lagi nih dan akan kita bahas bersama</desc>
-  </programme>
-  <programme start="20261027161500 +0000" stop="20261027164500 +0000" channel="MAXStreak.maxstream">
-    <title>Good Game</title>
-    <desc>Program talkshow santai dan ringan, menghadirkan informasi terupdate seputar dunia Esport. Menghadirkan bintang tamu dari kalangan profesional Esport, mulai dari pro player, caster, coach, hingga analis industri.</desc>
-  </programme>
-  <programme start="20261027164500 +0000" stop="20261027170000 +0000" channel="MAXStreak.maxstream">
-    <title>Jejak</title>
-    <desc>Masih ingat gak kalian sama Games yang dulu sering menemani hari-hari kita sebelum IG dan TikTok besar? Kita berhasil mengumpulkan beberapa list mobile games yang sudah tidak ada lagi nih dan akan kita bahas bersama</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103170500 +0000" channel="Metro TV.maxstream">
     <title>Headline News</title>
     <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
@@ -6713,6 +6741,74 @@
     <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
   </programme>
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="Metro TV.maxstream">
+    <title>Primetime News</title>
+    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="Metro TV.maxstream">
+    <title>Primetime News</title>
+    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104120500 +0000" channel="Metro TV.maxstream">
+    <title>Headline News</title>
+    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
+  </programme>
+  <programme start="20261104120500 +0000" stop="20261104123000 +0000" channel="Metro TV.maxstream">
+    <title>Primetime News</title>
+    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104124500 +0000" channel="Metro TV.maxstream">
+    <title>Primetime News</title>
+    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
+  </programme>
+  <programme start="20261104124500 +0000" stop="20261104130000 +0000" channel="Metro TV.maxstream">
+    <title>Primetime News</title>
+    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104130500 +0000" channel="Metro TV.maxstream">
+    <title>Headline News</title>
+    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
+  </programme>
+  <programme start="20261104130500 +0000" stop="20261104133000 +0000" channel="Metro TV.maxstream">
+    <title>Top News</title>
+    <desc>Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="Metro TV.maxstream">
+    <title>Top News</title>
+    <desc>Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104140500 +0000" channel="Metro TV.maxstream">
+    <title>Headline News</title>
+    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
+  </programme>
+  <programme start="20261104140500 +0000" stop="20261104143000 +0000" channel="Metro TV.maxstream">
+    <title>Cover Both Side</title>
+    <desc>Menghadirkan program-program terbaik spesial hanya untuk anda.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="Metro TV.maxstream">
+    <title>Cover Both Side</title>
+    <desc>Menghadirkan program-program terbaik spesial hanya untuk anda.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104150500 +0000" channel="Metro TV.maxstream">
+    <title>Headline News</title>
+    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
+  </programme>
+  <programme start="20261104150500 +0000" stop="20261104153000 +0000" channel="Metro TV.maxstream">
+    <title>Metro Xinwen</title>
+    <desc>Program berita berbahasa Mandarin yang hadir di tengah masyarakat sebagai wujud penghargaan tertinggi terhadap pluralisme di Indonesia. Hanya di Metro TV.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="Metro TV.maxstream">
+    <title>Metro Sport</title>
+    <desc>Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104160500 +0000" channel="Metro TV.maxstream">
+    <title>Headline News</title>
+    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
+  </programme>
+  <programme start="20261104160500 +0000" stop="20261104163000 +0000" channel="Metro TV.maxstream">
+    <title>Primetime News</title>
+    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="Metro TV.maxstream">
     <title>Primetime News</title>
     <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
   </programme>
@@ -8688,74 +8784,6 @@
     <title>Primetime News</title>
     <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="Metro TV.maxstream">
-    <title>Primetime News</title>
-    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027120500 +0000" channel="Metro TV.maxstream">
-    <title>Headline News</title>
-    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
-  </programme>
-  <programme start="20261027120500 +0000" stop="20261027123000 +0000" channel="Metro TV.maxstream">
-    <title>Primetime News</title>
-    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027124500 +0000" channel="Metro TV.maxstream">
-    <title>Primetime News</title>
-    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
-  </programme>
-  <programme start="20261027124500 +0000" stop="20261027130000 +0000" channel="Metro TV.maxstream">
-    <title>Primetime News</title>
-    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027130500 +0000" channel="Metro TV.maxstream">
-    <title>Headline News</title>
-    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
-  </programme>
-  <programme start="20261027130500 +0000" stop="20261027133000 +0000" channel="Metro TV.maxstream">
-    <title>Top News</title>
-    <desc>Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="Metro TV.maxstream">
-    <title>Top News</title>
-    <desc>Dapatkan berita-berita pilihan terkini yang akan menemani malam Anda hanya di Top News- Metro TV.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027140500 +0000" channel="Metro TV.maxstream">
-    <title>Headline News</title>
-    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
-  </programme>
-  <programme start="20261027140500 +0000" stop="20261027143000 +0000" channel="Metro TV.maxstream">
-    <title>Top Economy</title>
-    <desc>Menghadirkan program-program terbaik spesial hanya untuk anda.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="Metro TV.maxstream">
-    <title>Top Economy</title>
-    <desc>Menghadirkan program-program terbaik spesial hanya untuk anda.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027150500 +0000" channel="Metro TV.maxstream">
-    <title>Headline News</title>
-    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
-  </programme>
-  <programme start="20261027150500 +0000" stop="20261027153000 +0000" channel="Metro TV.maxstream">
-    <title>Metro Xinwen</title>
-    <desc>Program berita berbahasa Mandarin yang hadir di tengah masyarakat sebagai wujud penghargaan tertinggi terhadap pluralisme di Indonesia. Hanya di Metro TV.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="Metro TV.maxstream">
-    <title>Metro Sport</title>
-    <desc>Metro Sport memberikan beragam informasi terkini dari dunia olahraga - baik nasional maupun internasional. Ulasan pertandingan - profil atlet hingga isu seputar dunia olahraga disajikan untuk memenuhi kebutuhan informasi anda.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027160500 +0000" channel="Metro TV.maxstream">
-    <title>Headline News</title>
-    <desc>Program acara yang menghadirkan berita terkini baik dari daerah nasional maupun internasional.</desc>
-  </programme>
-  <programme start="20261027160500 +0000" stop="20261027163000 +0000" channel="Metro TV.maxstream">
-    <title>Primetime News</title>
-    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="Metro TV.maxstream">
-    <title>Primetime News</title>
-    <desc>Jangan sampai terlewat topik-topik terhangat hari ini. Prime Talk hadir untuk menyajikan berita terbaru tentang masalah politik- hukum- ekonomi dan sosial.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="Kompas TV.maxstream">
     <title>Kompas Sport</title>
     <desc>Kompas Sport akan menghadirkan cuplikan-cuplikan berita tentang dunia olahraga, klub terkenal dan para pemain-pemainnya, baik dari dalam ataupun luar negeri.</desc>
@@ -8827,6 +8855,30 @@
   <programme start="20261104103000 +0000" stop="20261104123000 +0000" channel="Kompas TV.maxstream">
     <title>Sapa Indonesia Malam</title>
     <desc>Informasi terkini seputar dunia politik, ekonomi, kriminal, olahraga, serta hiburan dari dalam dan luar negeri.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104133000 +0000" channel="Kompas TV.maxstream">
+    <title>Berita Utama</title>
+    <desc>Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104143000 +0000" channel="Kompas TV.maxstream">
+    <title>Satu Meja The Forum</title>
+    <desc>Bincang-bincang bersama para tokoh terkemuka Indonesia seputar berbagai isu dan topik menarik yang tengah menjadi sorotan di tanah air.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104153000 +0000" channel="Kompas TV.maxstream">
+    <title>Kompas Malam</title>
+    <desc>Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="Kompas TV.maxstream">
+    <title>Berita Utama</title>
+    <desc>Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="Kompas TV.maxstream">
+    <title>Kompas Sport</title>
+    <desc>Kompas Sport akan menghadirkan cuplikan-cuplikan berita tentang dunia olahraga, klub terkenal dan para pemain-pemainnya, baik dari dalam ataupun luar negeri.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="Kompas TV.maxstream">
+    <title>Kilas Kompas</title>
+    <desc>Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="Kompas TV.maxstream">
     <title>Berita Utama</title>
@@ -9508,26 +9560,6 @@
     <title>Kilas Kompas</title>
     <desc>Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
   </programme>
-  <programme start="20261027123000 +0000" stop="20261027133000 +0000" channel="Kompas TV.maxstream">
-    <title>Berita Utama</title>
-    <desc>Berita Utama hadir sebagai sumber informasi Anda yang akan membahas isu-isu yang ada di masyarakat, seperti skandal publik, kemiskinan dan dampaknya, sampai ke kejahatan di masyarakat.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027143000 +0000" channel="Kompas TV.maxstream">
-    <title>Kompas Malam</title>
-    <desc>Program berita yang hadir untuk menemani hari Anda yang akan menampilkan berbagai informasi berita di dunia.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="Kompas TV.maxstream">
-    <title>Laporan Khusus</title>
-    <desc>Laporan khusus seputar berbagai isu dan peristiwa yang berhasil menyedot perhatian masyarakat dalam sepekan terakhir</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027163000 +0000" channel="Kompas TV.maxstream">
-    <title>Gagas RI</title>
-    <desc>Acara yang menyuguhkan kumpulan berita - berita kriminal yang terjadi di Indonesia</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="Kompas TV.maxstream">
-    <title>Kilas Kompas</title>
-    <desc>Program berita menyuguhkan perkembangan terbaru dan berbagai peristiwa penting yang terjadi di seluruh Indonesia.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103200000 +0000" channel="JAK TV.maxstream">
     <title>Sign Off</title>
     <desc>Sign Off</desc>
@@ -9607,6 +9639,30 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="JAK TV.maxstream">
     <title>Muslimpedia</title>
     <desc>Wadah edukasi daring yang membahas Islam kontemporer &amp; warisan keilmuan muslim, dari sejarah hingga solusi hidup modern.  </desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="JAK TV.maxstream">
+    <title>The Cloth Story</title>
+    <desc>Menyingkap sejarah panjang, makna simbolis, dan proses pembuatan berbagai kain tradisional yang menjadi warisan budaya tak ternilai.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="JAK TV.maxstream">
+    <title>Ninjao</title>
+    <desc>Mengisahkan petualangan para ninja dalam melawan kekuatan jahat. Ceritanya penuh dengan aksi, nilai persahabatan, dan perjuangan melindungi dunia mereka dengan kemampuan bela diri dan elemen spesial.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="JAK TV.maxstream">
+    <title>Dunia Kita</title>
+    <desc>Sebuah program acara persembahan Jak TV bertajuk Dunia Kita</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="JAK TV.maxstream">
+    <title>Three Queens</title>
+    <desc>Ketika Mikhail Pogodin ditemukan tewas mengenaskan di apartemen pribadinya. Sebelum meninggal, ia berencana meluncurkan merek anggur baru bernama &quot;The Three Queens&quot;.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="JAK TV.maxstream">
+    <title>Medika Natura</title>
+    <desc>Program pengobatan tradisional bersama Eyang Gentar yang membagikan ramuan alami, terapi herbal, dan kisah penyembuhan berdasarkan kearifan lokal.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104170000 +0000" channel="JAK TV.maxstream">
+    <title>Inovator</title>
+    <desc>Sebuah program acara persembahan Jak TV bertajuk Inovator</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102200000 +0000" channel="JAK TV.maxstream">
     <title>Sign Off</title>
@@ -10428,46 +10484,6 @@
     <title>Sign Off</title>
     <desc>Sign Off</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="JAK TV.maxstream">
-    <title>The Cloth Story</title>
-    <desc>Menyingkap sejarah panjang, makna simbolis, dan proses pembuatan berbagai kain tradisional yang menjadi warisan budaya tak ternilai.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="JAK TV.maxstream">
-    <title>Ninjao</title>
-    <desc>Mengisahkan petualangan para ninja dalam melawan kekuatan jahat. Ceritanya penuh dengan aksi, nilai persahabatan, dan perjuangan melindungi dunia mereka dengan kemampuan bela diri dan elemen spesial.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="JAK TV.maxstream">
-    <title>Dunia Kita</title>
-    <desc>Sebuah program acara persembahan Jak TV bertajuk Dunia Kita</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="JAK TV.maxstream">
-    <title>Creative Talk</title>
-    <desc>Bincang-bincang seputar dunia kreatif, ide dan inspirasi pekerja kreatif baik dari Indonesia maupun Amerika.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="JAK TV.maxstream">
-    <title>Three Queens</title>
-    <desc>Ketika Mikhail Pogodin ditemukan tewas mengenaskan di apartemen pribadinya. Sebelum meninggal, ia berencana meluncurkan merek anggur baru bernama &quot;The Three Queens&quot;.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027143000 +0000" channel="JAK TV.maxstream">
-    <title>Medika Natura</title>
-    <desc>Program pengobatan tradisional bersama Eyang Gentar yang membagikan ramuan alami, terapi herbal, dan kisah penyembuhan berdasarkan kearifan lokal.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="JAK TV.maxstream">
-    <title>Medika Natura</title>
-    <desc>Program pengobatan tradisional bersama Eyang Gentar yang membagikan ramuan alami, terapi herbal, dan kisah penyembuhan berdasarkan kearifan lokal.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027170000 +0000" channel="JAK TV.maxstream">
-    <title>Inovator</title>
-    <desc>Sebuah program acara persembahan Jak TV bertajuk Inovator</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="JAK TV.maxstream">
-    <title>Inovator</title>
-    <desc>Sebuah program acara persembahan Jak TV bertajuk Inovator</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="JAK TV.maxstream">
-    <title>Sign Off</title>
-    <desc>Sign Off</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103174500 +0000" channel="Inews.maxstream">
     <title>Breaking News</title>
     <desc>Breaking News menghadirkan perkembangan terbaru konflik amerika serikat dan israel melawan iran yang memicu ketegangan besar di kawasan timur tengah.</desc>
@@ -10539,6 +10555,30 @@
   <programme start="20261104094500 +0000" stop="20261104120000 +0000" channel="Inews.maxstream">
     <title>iNews Sore</title>
     <desc>Program buletin sore hari yang menyajikan berita terkini dan terpercaya, mulai dari isu nasional, internasional, sport, kriminal dan lainnya.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="Inews.maxstream">
+    <title>iNews Room</title>
+    <desc>Program berita dan informasi live yang menyajikan rangkuman peristiwa penting, analisis mendalam, dan perspektif solusi untuk memulai hari.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Inews.maxstream">
+    <title>The Prime Show</title>
+    <desc>Talkshow yang membahas isu terkini, diskusi mendalam terkait isu yang tengah hangat diperbincangkan  bersama para narasumber yang kredibel.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="Inews.maxstream">
+    <title>iNews Prime</title>
+    <desc>Program berita yang menyajikan informasi terkini, mendalam, dan lengkap seputar isu besar nasional dan internasional. program ini menjadi panduan bagi pemirsa untuk menutup hari dengan berita akurat, aktual dan kredibel.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104151000 +0000" channel="Inews.maxstream">
+    <title>Breaking Goals</title>
+    <desc>Saksikan Breaking Goals, program olahraga pilihan yang menyajikan ulasan mendalam, highlights pertandingan, dan kabar terkini dunia sport.</desc>
+  </programme>
+  <programme start="20261104151000 +0000" stop="20261104163000 +0000" channel="Inews.maxstream">
+    <title>iNews Malam</title>
+    <desc>Program buletin malam hari yang menyajikan berita terkini dan terpercaya, mulai dari isu nasional, internasional, sport, kriminal dan lainnya.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="Inews.maxstream">
+    <title>iNews Sport</title>
+    <desc>Program berita olahraga terupdate mulai dari kabar sepakbola tanah air dan dunia, bulutangkis, basket, hingga motorspot dan olahraga ekstrem, semua dirangkum dalam laporan cepat dan visual atraktif.</desc>
   </programme>
   <programme start="20261102180000 +0000" stop="20261102181500 +0000" channel="Inews.maxstream">
     <title>iNews Sore</title>
@@ -11256,26 +11296,6 @@
     <title>iNews Sport</title>
     <desc>Program berita olahraga terupdate mulai dari kabar sepakbola tanah air dan dunia, bulutangkis, basket, hingga motorspot dan olahraga ekstrem, semua dirangkum dalam laporan cepat dan visual atraktif.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="Inews.maxstream">
-    <title>Rakyat Bersuara</title>
-    <desc>Program talkshow dipandu jurnalis senior Aiman Witjaksono, menghadirkan narasumber kredibel untuk membahas isu-isu terkini nasional secara mendalam</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="Inews.maxstream">
-    <title>iNews Prime</title>
-    <desc>Program berita yang menyajikan informasi terkini, mendalam, dan lengkap seputar isu besar nasional dan internasional. program ini menjadi panduan bagi pemirsa untuk menutup hari dengan berita akurat, aktual dan kredibel.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027151000 +0000" channel="Inews.maxstream">
-    <title>Breaking Goals</title>
-    <desc>Saksikan Breaking Goals, program olahraga pilihan yang menyajikan ulasan mendalam, highlights pertandingan, dan kabar terkini dunia sport.</desc>
-  </programme>
-  <programme start="20261027151000 +0000" stop="20261027163000 +0000" channel="Inews.maxstream">
-    <title>iNews Malam</title>
-    <desc>Program buletin malam hari yang menyajikan berita terkini dan terpercaya, mulai dari isu nasional, internasional, sport, kriminal dan lainnya.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="Inews.maxstream">
-    <title>iNews Sport</title>
-    <desc>Program berita olahraga terupdate mulai dari kabar sepakbola tanah air dan dunia, bulutangkis, basket, hingga motorspot dan olahraga ekstrem, semua dirangkum dalam laporan cepat dan visual atraktif.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="U Channel.maxstream">
     <title>Solusi</title>
     <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
@@ -11398,6 +11418,42 @@
   </programme>
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="U Channel.maxstream">
     <title>New Creation</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="U Channel.maxstream">
+    <title>Menikmati Hidup</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="U Channel.maxstream">
+    <title>Bts U Channel</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="U Channel.maxstream">
+    <title>Special Feature 1</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="U Channel.maxstream">
+    <title>Idmc Movement</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="U Channel.maxstream">
+    <title>Belajar Alkitab Saya</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="U Channel.maxstream">
+    <title>Menikmati Hidup</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="U Channel.maxstream">
+    <title>Solusi</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="U Channel.maxstream">
+    <title>Scui</title>
+    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="U Channel.maxstream">
+    <title>Live From Studio B</title>
     <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="U Channel.maxstream">
@@ -12524,46 +12580,6 @@
     <title>Live From Studio B</title>
     <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="U Channel.maxstream">
-    <title>Menikmati Hidup</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="U Channel.maxstream">
-    <title>Good News</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="U Channel.maxstream">
-    <title>Bean Bag</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="U Channel.maxstream">
-    <title>The Relate Show</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="U Channel.maxstream">
-    <title>Amazing Grace</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="U Channel.maxstream">
-    <title>IFGF -College</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="U Channel.maxstream">
-    <title>Menikmati Hidup</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="U Channel.maxstream">
-    <title>Baruch Korman</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="U Channel.maxstream">
-    <title>Scui</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="U Channel.maxstream">
-    <title>One Cubed</title>
-    <desc>U-Channel merupakan stasiun televisi religi yang menghadirkan berbagai program dan informasi bagi umat Kristiani.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="TVRI World.maxstream">
     <title>Indonesian Legacy</title>
     <desc>Highlighting inspiring stories from various figures and important events that represent the identity and heritage of the nation in Indonesian history.</desc>
@@ -12683,6 +12699,42 @@
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="TVRI World.maxstream">
     <title>Taste and Culture</title>
     <desc>Taste and Culture explores the relationship between food and cultural identity, history, and how culinary traditions survive or change amid the passage of time</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="TVRI World.maxstream">
+    <title>Sound of Indonesia</title>
+    <desc>Documentaries about Indonesian culture that have been passed down from generation to generation and become part of people&#039;s lives</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="TVRI World.maxstream">
+    <title>News Watch</title>
+    <desc>A news programme that presents the latest information from within Indonesia and abroad. This programme provides in-depth reports on important events that affect Indonesian society and the world.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="TVRI World.maxstream">
+    <title>Spices</title>
+    <desc>Exploring the richness of the archipelago&#039;s spices, uncovering flavours and delving into the stories, history and functions of the spices that shape Indonesia&#039;s culinary identity.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="TVRI World.maxstream">
+    <title>Special Dialogue</title>
+    <desc>An exclusive talk show featuring in-depth interviews with important figures, such as government officials, academics, businesspeople, and cultural figures.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="TVRI World.maxstream">
+    <title>Inspiring Indonesia</title>
+    <desc>The show highlights inspiring people -individuals who through their actions, professions, or values make a positive impact in their communities.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="TVRI World.maxstream">
+    <title>Golden Spot</title>
+    <desc>Golden Spot programme takes viewers on an exploration of Indonesian culture and the diversity of its spices</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="TVRI World.maxstream">
+    <title>World Today</title>
+    <desc>World Today is an international news programme on TVRI that presents the latest information from various parts of the world.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="TVRI World.maxstream">
+    <title>Beautiful Indonesia</title>
+    <desc>Showcases the beauty and richness of Indonesia - from its natural landscapes to its diverse cultures, traditional arts, and culinary heritage.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="TVRI World.maxstream">
+    <title>Inspiring Indonesia</title>
+    <desc>The show highlights inspiring people -individuals who through their actions, professions, or values make a positive impact in their communities.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="TVRI World.maxstream">
     <title>Indonesian Legacy</title>
@@ -13812,42 +13864,6 @@
     <title>Inspiring Indonesia</title>
     <desc>The show highlights inspiring people -individuals who through their actions, professions, or values make a positive impact in their communities.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="TVRI World.maxstream">
-    <title>Hidden Wealth</title>
-    <desc>A programme that presents information about hidden resources that generate significant benefits for life and civilisation.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="TVRI World.maxstream">
-    <title>News Watch</title>
-    <desc>A news programme that presents the latest information from within Indonesia and abroad. This programme provides in-depth reports on important events that affect Indonesian society and the world.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="TVRI World.maxstream">
-    <title>Nusantara</title>
-    <desc>Coverage of cities and regions in Indonesia with their various roles in the unity of the archipelago</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="TVRI World.maxstream">
-    <title>Beautiful Indonesia</title>
-    <desc>Showcases the beauty and richness of Indonesia - from its natural landscapes to its diverse cultures, traditional arts, and culinary heritage.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="TVRI World.maxstream">
-    <title>Special Dialogue</title>
-    <desc>An exclusive talk show featuring in-depth interviews with important figures, such as government officials, academics, businesspeople, and cultural figures.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="TVRI World.maxstream">
-    <title>Potential Land</title>
-    <desc>Potential Land is a documentary program that highlights the various natural, cultural, and human resources scattered throughout Indonesia.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="TVRI World.maxstream">
-    <title>World Today</title>
-    <desc>World Today is an international news programme on TVRI that presents the latest information from various parts of the world.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="TVRI World.maxstream">
-    <title>Beautiful Indonesia</title>
-    <desc>Showcases the beauty and richness of Indonesia - from its natural landscapes to its diverse cultures, traditional arts, and culinary heritage.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="TVRI World.maxstream">
-    <title>Inspiring Indonesia</title>
-    <desc>The show highlights inspiring people -individuals who through their actions, professions, or values make a positive impact in their communities.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="TV9.maxstream">
     <title>Shallu Alan Nabi Majelis Ishari</title>
     <desc>Program Musik Khas Selera Masyarakat Santri, Yang Ditampilkan Di Berbagai Venue Dan Event Yang Diselenggarakan Oleh Masyarakat</desc>
@@ -13935,6 +13951,22 @@
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="TV9.maxstream">
     <title>Jurnal9 Petang</title>
     <desc>Program Berita Televisi Yang Menampilkan Peristiwa Dengan Penyajian Yang Santun Menggunakan Prinsip Jurnalisme Kemaslahatan</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104140000 +0000" channel="TV9.maxstream">
+    <title>Menjadi Indonesia </title>
+    <desc>Program Talkshow </desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="TV9.maxstream">
+    <title>Kiswah Kh Hasan Mutawakkil</title>
+    <desc>Program Kajian Ahlu Sunnah Wal Jamaah Bersama Kh Hasan Mutawakkil</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="TV9.maxstream">
+    <title>Sinema Religi Nabi Yusuf</title>
+    <desc>Drama Sejarah Yang Mengisahkan Kehidupan Nabi Yusuf AS</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="TV9.maxstream">
+    <title>Kiswah In Memoriam Kh Asrori Al Ishaqi</title>
+    <desc>Program Kajian Ahlu sunnah wal jamaah In Memoriam Kh Asrori Al Ishaqi</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="TV9.maxstream">
     <title>Shallu Alan Nabi Majelis Ishari</title>
@@ -14668,22 +14700,6 @@
     <title>Kiswah In Memoriam Kh Asrori Al Ishaqi</title>
     <desc>Program Kajian Ahlu sunnah wal jamaah In Memoriam Kh Asrori Al Ishaqi</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="TV9.maxstream">
-    <title>Banawa Sekar</title>
-    <desc>Program Kajian Ahlu Sunnah Wal Jamaah</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="TV9.maxstream">
-    <title>Kiswah Kh Yahya Cholil Staquf</title>
-    <desc>Program Kajian Ahlu Sunnah Wal Jamaah Bersama Kh Yahya Cholil Staquf</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="TV9.maxstream">
-    <title>Sinema Religi Nabi Yusuf</title>
-    <desc>Drama Sejarah Yang Mengisahkan Kehidupan Nabi Yusuf AS</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="TV9.maxstream">
-    <title>Kiswah In Memoriam Kh Abdurahman Wahid</title>
-    <desc>Program Kajian Ahlu sunnah wal jamaah In Memoriam Kh Abdurahman Wahid</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103170300 +0000" channel="The Indonesia Channel.maxstream">
     <title>Indonesia NewsBreak</title>
     <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
@@ -14811,6 +14827,34 @@
   <programme start="20261104110300 +0000" stop="20261104130000 +0000" channel="The Indonesia Channel.maxstream">
     <title>IndoCinema</title>
     <desc>Film-film Indonesia yang dilengkapi teks terjemahan untuk siaran TIC.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104130300 +0000" channel="The Indonesia Channel.maxstream">
+    <title>Indonesia NewsBreak</title>
+    <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
+  </programme>
+  <programme start="20261104130300 +0000" stop="20261104140000 +0000" channel="The Indonesia Channel.maxstream">
+    <title>Drive Time</title>
+    <desc>Kamera yang terpasang di ojek motor menampilkan kondisi lalu lintas dan cuaca pada jam sibuk.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104140300 +0000" channel="The Indonesia Channel.maxstream">
+    <title>Indonesia NewsBreak</title>
+    <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
+  </programme>
+  <programme start="20261104140300 +0000" stop="20261104150000 +0000" channel="The Indonesia Channel.maxstream">
+    <title>I-Pop Playlist</title>
+    <desc>Ringkasan video bergaya MTV yang menampilkan musik dan artis terpopuler di negara ini, disertai dengan penampilan konser dan klub spesial yang dipandu oleh VJ Ardina Glenda.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104150300 +0000" channel="The Indonesia Channel.maxstream">
+    <title>Indonesia NewsBreak</title>
+    <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
+  </programme>
+  <programme start="20261104150300 +0000" stop="20261104153000 +0000" channel="The Indonesia Channel.maxstream">
+    <title>Yoga Bliss</title>
+    <desc>Sebuah program gaya hidup yang menampilkan Caitlin Turner di lokasi-lokasi wisata indah di Indonesia.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104170000 +0000" channel="The Indonesia Channel.maxstream">
+    <title>The Home Team</title>
+    <desc>Momen-momen bersejarah dalam dunia olahraga Indonesia, termasuk pertandingan Olimpiade dan kompetisi regional.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102170300 +0000" channel="The Indonesia Channel.maxstream">
     <title>Indonesia NewsBreak</title>
@@ -15940,34 +15984,6 @@
     <title>The Home Team</title>
     <desc>Momen-momen bersejarah dalam dunia olahraga Indonesia, termasuk pertandingan Olimpiade dan kompetisi regional.</desc>
   </programme>
-  <programme start="20261027130000 +0000" stop="20261027130300 +0000" channel="The Indonesia Channel.maxstream">
-    <title>Indonesia NewsBreak</title>
-    <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
-  </programme>
-  <programme start="20261027130300 +0000" stop="20261027140000 +0000" channel="The Indonesia Channel.maxstream">
-    <title>Drive Time</title>
-    <desc>Kamera yang terpasang di ojek motor menampilkan kondisi lalu lintas dan cuaca pada jam sibuk.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027140300 +0000" channel="The Indonesia Channel.maxstream">
-    <title>Indonesia NewsBreak</title>
-    <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
-  </programme>
-  <programme start="20261027140300 +0000" stop="20261027150000 +0000" channel="The Indonesia Channel.maxstream">
-    <title>I-Pop Playlist</title>
-    <desc>Ringkasan video bergaya MTV yang menampilkan musik dan artis terpopuler di negara ini, disertai dengan penampilan konser dan klub spesial yang dipandu oleh VJ Ardina Glenda.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027150300 +0000" channel="The Indonesia Channel.maxstream">
-    <title>Indonesia NewsBreak</title>
-    <desc>Ringkasan singkat berita terpopuler, laporan bisnis/pasar, dan prakiraan cuaca.</desc>
-  </programme>
-  <programme start="20261027150300 +0000" stop="20261027153000 +0000" channel="The Indonesia Channel.maxstream">
-    <title>ASEAN Today</title>
-    <desc>Sebuah tayangan terkini yang mengulas kisah-kisah masyarakat di kawasan Asia Tenggara yang dinamis, dipandu oleh Raissa Chentami.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027170000 +0000" channel="The Indonesia Channel.maxstream">
-    <title>The Home Team</title>
-    <desc>Momen-momen bersejarah dalam dunia olahraga Indonesia, termasuk pertandingan Olimpiade dan kompetisi regional.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103215500 +0000" channel="TV MUI.maxstream">
     <title>Sign Off</title>
     <desc>Sign Off</desc>
@@ -16083,6 +16099,38 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="TV MUI.maxstream">
     <title>Harusnya Kamu Tahu</title>
     <desc>Harusnya Kamu Tahu, menayangkan informasi informasi dan pengetahuan ringan dan menarik yang mungkin Anda belum mengetahuinya.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="TV MUI.maxstream">
+    <title>Salman &amp; Sofia</title>
+    <desc>Serial ini berfokus pada keseharian kakak beradik, Salman dan Sofia dalam mempelajari nilai-nilai agama seperti Adab dan hafaan Doa, akhlak mulia, inspirasi ilmuwan muslim, dan lagu anak Islami.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="TV MUI.maxstream">
+    <title>Muslim&#039;s Journey</title>
+    <desc>Perjalanan spiritual dan kisah inspiratif individu dalam mendalami agama Islam.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="TV MUI.maxstream">
+    <title>Masjidku Surgaku</title>
+    <desc>Liputan tentang masjid dengan kegiatan kegiatannya yang berhubungan dengan kemakmuran masjid dan kemaslahatan ummat.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="TV MUI.maxstream">
+    <title>Around The World</title>
+    <desc>Around The World, menampilkan liputan liputan menarik seputar tempat dan hal bersejarah, ikonik, dan sarat kenangan dan nillai dari berbagai tempat di dunia.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="TV MUI.maxstream">
+    <title>Muslimah Diary</title>
+    <desc>Musimah Diary, mengangkat liputan tentang kehidupan sehari hari perempuan perempuan muslim beserta keluarganya dari berbagai latar belakang dan berbagai tempat dimana mereka menjalankan peran mereka.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="TV MUI.maxstream">
+    <title>Harusnya Kamu Tahu</title>
+    <desc>Harusnya Kamu Tahu, menayangkan informasi informasi dan pengetahuan ringan dan menarik yang mungkin Anda belum mengetahuinya.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="TV MUI.maxstream">
+    <title>Merantau</title>
+    <desc>Menayangkan program ringan tentang kisah kisah inspiratif yang bisa kita ambil hikmah dan pelajarannya dari para perantau.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104170000 +0000" channel="TV MUI.maxstream">
+    <title>Sign Off</title>
+    <desc>Sign Off</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102215500 +0000" channel="TV MUI.maxstream">
     <title>Sign Off</title>
@@ -17124,38 +17172,6 @@
     <title>Sign Off</title>
     <desc>Sign Off</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="TV MUI.maxstream">
-    <title>Salman &amp; Sofia</title>
-    <desc>Serial ini berfokus pada keseharian kakak beradik, Salman dan Sofia dalam mempelajari nilai-nilai agama seperti Adab dan hafaan Doa, akhlak mulia, inspirasi ilmuwan muslim, dan lagu anak Islami.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="TV MUI.maxstream">
-    <title>Generasi Bersih</title>
-    <desc>Podcast yang membahas tentang kelimuan dan urusan keummatan terkini.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="TV MUI.maxstream">
-    <title>Masjidku Surgaku</title>
-    <desc>Liputan tentang masjid dengan kegiatan kegiatannya yang berhubungan dengan kemakmuran masjid dan kemaslahatan ummat.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="TV MUI.maxstream">
-    <title>Around The World</title>
-    <desc>Around The World, menampilkan liputan liputan menarik seputar tempat dan hal bersejarah, ikonik, dan sarat kenangan dan nillai dari berbagai tempat di dunia.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="TV MUI.maxstream">
-    <title>Muslimah Diary</title>
-    <desc>Musimah Diary, mengangkat liputan tentang kehidupan sehari hari perempuan perempuan muslim beserta keluarganya dari berbagai latar belakang dan berbagai tempat dimana mereka menjalankan peran mereka.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="TV MUI.maxstream">
-    <title>Harusnya Kamu Tahu</title>
-    <desc>Harusnya Kamu Tahu, menayangkan informasi informasi dan pengetahuan ringan dan menarik yang mungkin Anda belum mengetahuinya.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261028150000 +0000" channel="TV MUI.maxstream">
-    <title>Fillers</title>
-    <desc>Promo program, informasi tayangan dan inspirasi sirah nabawiyah singkat yang bermanfaat dalam menambah wawasan.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261026170000 +0000" channel="TV MUI.maxstream">
-    <title>Sign Off</title>
-    <desc>Sign Off</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="TV MU.maxstream">
     <title>Sign Off</title>
     <desc>Sign Off</desc>
@@ -17259,6 +17275,34 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="TV MU.maxstream">
     <title>Tuntunan Akhir Zaman</title>
     <desc>Tuntunan Akhir Zaman merupakan panduan untuk mempersiapkan diri dalam menghadapi akhir zaman</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="TV MU.maxstream">
+    <title>Belajar Tahsin Metode Azka</title>
+    <desc>Belajar Tahsin Metode Azka adalah program yang memandu mempelajari cara membaca Al - Qur&#039;an dengan baik dan benar menggunakan metode Azka</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="TV MU.maxstream">
+    <title>Podcast TV Show</title>
+    <desc>Podcast TV Show, obrolan ringan berfaedah seputar bisnis, lifestyle, hiburan, sosial, budaya dan dunia kreatif</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="TV MU.maxstream">
+    <title>Netizen Bertanya Ustadz Menjawab</title>
+    <desc>Netizen Bertanya Ustadz Menjawab adalah program kajian tematik berdasarkan pertanyaan - pertanyaan dari para netizen</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="TV MU.maxstream">
+    <title>KOLAK</title>
+    <desc>Kajian Opini Aktual Agama dan Kebudayaan merupakan tausyiah ringan bersama Sekum PP Muhammadiyah, Prof. Abdul Mu&#039;ti</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="TV MU.maxstream">
+    <title>Berita tvMu</title>
+    <desc>Berita tvMu merupakan sajian informasi yang cerdas dan mencerahkan baik berita nasional maupun persyarikatan Muhammadiyah </desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="TV MU.maxstream">
+    <title>Sign Off</title>
+    <desc>Sign Off</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="TV MU.maxstream">
+    <title>Sign Off</title>
+    <desc>Sign Off</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="TV MU.maxstream">
     <title>Sign Off</title>
@@ -18196,34 +18240,6 @@
     <title>Sign Off</title>
     <desc>Sign Off</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="TV MU.maxstream">
-    <title>Belajar Tahsin Metode Azka</title>
-    <desc>Belajar Tahsin Metode Azka adalah program yang memandu mempelajari cara membaca Al - Qur&#039;an dengan baik dan benar menggunakan metode Azka</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="TV MU.maxstream">
-    <title>Podcast TV Show</title>
-    <desc>Podcast TV Show, obrolan ringan berfaedah seputar bisnis, lifestyle, hiburan, sosial, budaya dan dunia kreatif</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="TV MU.maxstream">
-    <title>Netizen Bertanya Ustadz Menjawab</title>
-    <desc>Netizen Bertanya Ustadz Menjawab adalah program kajian tematik berdasarkan pertanyaan - pertanyaan dari para netizen</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="TV MU.maxstream">
-    <title>Refleksi Haedar Nashir</title>
-    <desc>Refleksi dari Ketua Umum Pimpinan Pusat Muhammadiyah Prof. Dr. KH. Haedar Nashir, M. Si</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="TV MU.maxstream">
-    <title>Berita tvMu</title>
-    <desc>Berita tvMu merupakan sajian informasi yang cerdas dan mencerahkan baik berita nasional maupun persyarikatan Muhammadiyah </desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="TV MU.maxstream">
-    <title>Sign Off</title>
-    <desc>Sign Off</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="TV MU.maxstream">
-    <title>Sign Off</title>
-    <desc>Sign Off</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173021 +0000" channel="Euronews.maxstream">
     <title>News</title>
     <desc>Berita-berita teratas saat ini.</desc>
@@ -18525,6 +18541,86 @@
     <desc>Berita-berita teratas saat ini.</desc>
   </programme>
   <programme start="20261104111921 +0000" stop="20261104113021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104113021 +0000" stop="20261104120021 +0000" channel="Euronews.maxstream">
+    <title>Euronews Now</title>
+    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104120021 +0000" stop="20261104121221 +0000" channel="Euronews.maxstream">
+    <title>Euronews Now</title>
+    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104121221 +0000" stop="20261104123021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104123021 +0000" stop="20261104124221 +0000" channel="Euronews.maxstream">
+    <title>Euronews Now</title>
+    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104124221 +0000" stop="20261104130021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104130021 +0000" stop="20261104131221 +0000" channel="Euronews.maxstream">
+    <title>Euronews Now</title>
+    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104131221 +0000" stop="20261104133021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104133021 +0000" stop="20261104134221 +0000" channel="Euronews.maxstream">
+    <title>Euronews Now</title>
+    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104134221 +0000" stop="20261104140021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104140021 +0000" stop="20261104141221 +0000" channel="Euronews.maxstream">
+    <title>The European Debrief</title>
+    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
+  </programme>
+  <programme start="20261104141221 +0000" stop="20261104143021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104143021 +0000" stop="20261104144221 +0000" channel="Euronews.maxstream">
+    <title>The European Debrief</title>
+    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
+  </programme>
+  <programme start="20261104144221 +0000" stop="20261104150021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104150021 +0000" stop="20261104151221 +0000" channel="Euronews.maxstream">
+    <title>The European Debrief</title>
+    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
+  </programme>
+  <programme start="20261104151221 +0000" stop="20261104153021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104153021 +0000" stop="20261104154221 +0000" channel="Euronews.maxstream">
+    <title>The European Debrief</title>
+    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
+  </programme>
+  <programme start="20261104154221 +0000" stop="20261104160021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104160021 +0000" stop="20261104163021 +0000" channel="Euronews.maxstream">
+    <title>News</title>
+    <desc>Berita-berita teratas saat ini.</desc>
+  </programme>
+  <programme start="20261104163021 +0000" stop="20261104164221 +0000" channel="Euronews.maxstream">
+    <title>The European Debrief</title>
+    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
+  </programme>
+  <programme start="20261104164221 +0000" stop="20261104170000 +0000" channel="Euronews.maxstream">
     <title>News</title>
     <desc>Berita-berita teratas saat ini.</desc>
   </programme>
@@ -21088,74 +21184,6 @@
     <title>Made In Europe</title>
     <desc>&#039;Made in Europe&#039; mempertanyakan apakah perusahaan-perusahaan Eropa masih memimpin dunia — dengan menelusuri langsung ke dalam pabrik-pabrik untuk mencari tahu.</desc>
   </programme>
-  <programme start="20261027113021 +0000" stop="20261027120021 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027120021 +0000" stop="20261027121521 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027121521 +0000" stop="20261027123021 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027123021 +0000" stop="20261027130021 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027130021 +0000" stop="20261027131521 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027131521 +0000" stop="20261027133021 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027133021 +0000" stop="20261027134521 +0000" channel="Euronews.maxstream">
-    <title>Euronews Now</title>
-    <desc>Berita Terkini. Analisis mendalam mengenai berita-berita utama yang sedang ramai dibicarakan di Eropa dan seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027134521 +0000" stop="20261027140021 +0000" channel="Euronews.maxstream">
-    <title>Made In Europe</title>
-    <desc>&#039;Made in Europe&#039; mempertanyakan apakah perusahaan-perusahaan Eropa masih memimpin dunia — dengan menelusuri langsung ke dalam pabrik-pabrik untuk mencari tahu.</desc>
-  </programme>
-  <programme start="20261027140021 +0000" stop="20261027141821 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027141821 +0000" stop="20261027143021 +0000" channel="Euronews.maxstream">
-    <title>News</title>
-    <desc>Berita-berita teratas saat ini.</desc>
-  </programme>
-  <programme start="20261027143021 +0000" stop="20261027150021 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027150021 +0000" stop="20261027151521 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027151521 +0000" stop="20261027153021 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027153021 +0000" stop="20261027160021 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027160021 +0000" stop="20261027161521 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027161521 +0000" stop="20261027163021 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
-  <programme start="20261027163021 +0000" stop="20261027170000 +0000" channel="Euronews.maxstream">
-    <title>The European Debrief</title>
-    <desc>Berita terkini, berita mendesak, analisis, dan wawancara langsung dari Pusat Berita Eropa.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103171500 +0000" channel="DW TV.maxstream">
     <title>DW News</title>
     <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
@@ -21395,6 +21423,62 @@
   <programme start="20261104110200 +0000" stop="20261104113000 +0000" channel="DW TV.maxstream">
     <title>Close up</title>
     <desc>Program mingguan berdurasi setengah jam ini menyajikan liputan mendalam tentang isu-isu politik topikal dan peristiwa-peristiwa yang layak diberitakan. Mengungkap kisah di balik cerita</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="DW TV.maxstream">
+    <title>Made in Germany</title>
+    <desc>Banyak perusahaan Jerman berjuang dengan tingginya biaya energi dan birokrasi. Namun tetap menciptakan penemuan yang sukses. Dan di Spanyol, menyelesaikan perselisihan mengenai irigasi ilegal stroberi.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104120200 +0000" channel="DW TV.maxstream">
+    <title>DW News</title>
+    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
+  </programme>
+  <programme start="20261104120200 +0000" stop="20261104121500 +0000" channel="DW TV.maxstream">
+    <title>DW News Focus</title>
+    <desc>Format liputan mendalam kami menjelaskan kisah-kisah yang penting – dengan kejelasan, konteks, dan ketelitian jurnalistik.</desc>
+  </programme>
+  <programme start="20261104121500 +0000" stop="20261104130000 +0000" channel="DW TV.maxstream">
+    <title>DocFilm</title>
+    <desc>Acara spesial yang meberikan sajian dokumenter yang serat akan informasi yang menghibur.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104130200 +0000" channel="DW TV.maxstream">
+    <title>DW News</title>
+    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
+  </programme>
+  <programme start="20261104130200 +0000" stop="20261104131500 +0000" channel="DW TV.maxstream">
+    <title>DW News Focus</title>
+    <desc>Format liputan mendalam kami menjelaskan kisah-kisah yang penting – dengan kejelasan, konteks, dan ketelitian jurnalistik.</desc>
+  </programme>
+  <programme start="20261104131500 +0000" stop="20261104133000 +0000" channel="DW TV.maxstream">
+    <title>REV</title>
+    <desc>India adalah pasar mobil dengan pertumbuhan tercepat di dunia. Bisakah produsen mobil Jerman mengambil bagian dari hal ini? Kendaraan roda tiga bertenaga surya mulai lepas landas di Tunisia. </desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="DW TV.maxstream">
+    <title>Eco Africa</title>
+    <desc>Budidaya ikan berkelanjutan di Danau Victoria, dan daur ulang limbah rumah tangga yang ramah lingkungan. Seorang rapper asal Gambia menanam sejuta pohon, dan kelakuan babun mendorong warga Cape Town </desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104140300 +0000" channel="DW TV.maxstream">
+    <title>DW News</title>
+    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
+  </programme>
+  <programme start="20261104140300 +0000" stop="20261104150000 +0000" channel="DW TV.maxstream">
+    <title>DocFilm</title>
+    <desc>Acara spesial yang meberikan sajian dokumenter yang serat akan informasi yang menghibur.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="DW TV.maxstream">
+    <title>DW News</title>
+    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="DW TV.maxstream">
+    <title>Eco India</title>
+    <desc>Mulai dari menyelamatkan burung di perkotaan dan mengubah lahan kosong perkotaan hingga mendaur ulang fosfor untuk pupuk dan menjaga dari kenaikan permukaan laut bagaimana kita dapat menjaga lingkungan, sumber daya, dan kota kita</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="DW TV.maxstream">
+    <title>DW News</title>
+    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="DW TV.maxstream">
+    <title>Made in Germany</title>
+    <desc>Banyak perusahaan Jerman berjuang dengan tingginya biaya energi dan birokrasi. Namun tetap menciptakan penemuan yang sukses. Dan di Spanyol, menyelesaikan perselisihan mengenai irigasi ilegal stroberi.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102171500 +0000" channel="DW TV.maxstream">
     <title>DW News</title>
@@ -23502,75 +23586,6 @@
     <title>Made in Germany</title>
     <desc>Banyak perusahaan Jerman berjuang dengan tingginya biaya energi dan birokrasi. Namun tetap menciptakan penemuan yang sukses. Dan di Spanyol, menyelesaikan perselisihan mengenai irigasi ilegal stroberi.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="DW TV.maxstream">
-    <title>In Good Shape</title>
-    <desc>Stres, kecemasan, dan depresi dapat berdampak buruk - baik dalam kondisi normal maupun situasi khusus seperti ujian. Bagaimana penderita bisa menemukan jalan keluar dan mendapatkan kembali keseimbangan mentalnya? </desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027120200 +0000" channel="DW TV.maxstream">
-    <title>DW News</title>
-    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
-  </programme>
-  <programme start="20261027120200 +0000" stop="20261027121500 +0000" channel="DW TV.maxstream">
-    <title>DW News Focus</title>
-    <desc>Format liputan mendalam kami menjelaskan kisah-kisah yang penting – dengan kejelasan, konteks, dan ketelitian jurnalistik.</desc>
-  </programme>
-  <programme start="20261027121500 +0000" stop="20261027124500 +0000" channel="DW TV.maxstream">
-    <title>Close up</title>
-    <desc>Program mingguan berdurasi setengah jam ini menyajikan liputan mendalam tentang isu-isu politik topikal dan peristiwa-peristiwa yang layak diberitakan. Mengungkap kisah di balik cerita</desc>
-  </programme>
-  <programme start="20261027124500 +0000" stop="20261027130000 +0000" channel="DW TV.maxstream">
-    <title>Shift</title>
-    <desc>ChatGPT menulis teks dan kode komputer. Realitas virtual dapat membuat topik kompleks menjadi hidup. Aplikasi pembelajaran menyampaikan pengetahuan dengan cara yang menyenangkan.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027130200 +0000" channel="DW TV.maxstream">
-    <title>DW News</title>
-    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
-  </programme>
-  <programme start="20261027130200 +0000" stop="20261027131500 +0000" channel="DW TV.maxstream">
-    <title>DW News Focus</title>
-    <desc>Format liputan mendalam kami menjelaskan kisah-kisah yang penting – dengan kejelasan, konteks, dan ketelitian jurnalistik.</desc>
-  </programme>
-  <programme start="20261027131500 +0000" stop="20261027133000 +0000" channel="DW TV.maxstream">
-    <title>Best of DW-online Content</title>
-    <desc>Acara spesial yang disiarkan dengan tampilan yang menarik bagi para pemirsa.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="DW TV.maxstream">
-    <title>Eco India</title>
-    <desc>Mulai dari menyelamatkan burung di perkotaan dan mengubah lahan kosong perkotaan hingga mendaur ulang fosfor untuk pupuk dan menjaga dari kenaikan permukaan laut bagaimana kita dapat menjaga lingkungan, sumber daya, dan kota kita</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027140200 +0000" channel="DW TV.maxstream">
-    <title>DW News</title>
-    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
-  </programme>
-  <programme start="20261027140200 +0000" stop="20261027141500 +0000" channel="DW TV.maxstream">
-    <title>DW News Focus</title>
-    <desc>Format liputan mendalam kami menjelaskan kisah-kisah yang penting – dengan kejelasan, konteks, dan ketelitian jurnalistik.</desc>
-  </programme>
-  <programme start="20261027141500 +0000" stop="20261027144500 +0000" channel="DW TV.maxstream">
-    <title>Close up</title>
-    <desc>Program mingguan berdurasi setengah jam ini menyajikan liputan mendalam tentang isu-isu politik topikal dan peristiwa-peristiwa yang layak diberitakan. Mengungkap kisah di balik cerita</desc>
-  </programme>
-  <programme start="20261027144500 +0000" stop="20261027150000 +0000" channel="DW TV.maxstream">
-    <title>Reporter</title>
-    <desc>Permusuhan, serangan, antisemitisme secara terbuka: Orang-orang Yahudi di Jerman menghadapi peningkatan tingkat kebencian.
-</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="DW TV.maxstream">
-    <title>DW News</title>
-    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="DW TV.maxstream">
-    <title>The Dip</title>
-    <desc>Jika Anda menganggap ekonomi itu membosankan, Anda salah mendengarkan acara. Dalam podcast mingguan kami, The Dip, kami akan membantu Anda menghubungkan berbagai fakta.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="DW TV.maxstream">
-    <title>DW News</title>
-    <desc>Program ini menyuguhkan latar belakang dan analisis mengenai berbagai topik di Asia . Fokus acara ini adalah hubungan internasional dan isu - isu yang terkait dengan demokrasi serta HAM</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="DW TV.maxstream">
-    <title>Global Us</title>
-    <desc>Rio de Janeiro mengatasi krisis sampahnya. &#039;Care Blocks&#039; di Bogota membantu perawat perempuan yang terbebani. Ratu Global kita di Kenya menjalankan industri perikanan yang didominasi laki-laki. </desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="DMI TV.maxstream">
     <title>Belajar Mengaji</title>
     <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
@@ -23697,6 +23712,42 @@
   </programme>
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="DMI TV.maxstream">
     <title>Majelis Ilmu</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="DMI TV.maxstream">
+    <title>Icip-Icip Halal</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="DMI TV.maxstream">
+    <title>Belajar Mengaji</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="DMI TV.maxstream">
+    <title>Ziswaf Lifestyle</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104143000 +0000" channel="DMI TV.maxstream">
+    <title>Majelis Ilmu</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="DMI TV.maxstream">
+    <title>Jelajah Surau</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="DMI TV.maxstream">
+    <title>Syiar Peradaban Bersama Syafruddin</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="DMI TV.maxstream">
+    <title>Hikayat</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="DMI TV.maxstream">
+    <title>Obrolan Seputar Masjid</title>
+    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="DMI TV.maxstream">
+    <title>Jelajah Surau</title>
     <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="DMI TV.maxstream">
@@ -24847,42 +24898,6 @@
     <title>Jelajah Surau</title>
     <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="DMI TV.maxstream">
-    <title>Icip-Icip Halal</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="DMI TV.maxstream">
-    <title>Belajar Mengaji</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="DMI TV.maxstream">
-    <title>Ziswaf Lifestyle</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027143000 +0000" channel="DMI TV.maxstream">
-    <title>Majelis Ilmu</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="DMI TV.maxstream">
-    <title>Jelajah Surau</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="DMI TV.maxstream">
-    <title>Syiar Peradaban Bersama Syafruddin</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="DMI TV.maxstream">
-    <title>Hikayat</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="DMI TV.maxstream">
-    <title>Obrolan Seputar Masjid</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="DMI TV.maxstream">
-    <title>Jelajah Surau</title>
-    <desc>Tawaf TV adalah stasiun berita dunia Islam pertama di Indonesia dan merupakan program religi yang menghadirkan berbagai tayangan dan informasi bagi umat islam.</desc>
-  </programme>
   <programme start="20261103223000 +0000" stop="20261103230000 +0000" channel="DAAI TV.maxstream">
     <title>Music Video &amp; Galeri Hijau</title>
     <desc>Mari saksikan program musik pilihan bertajuk Music Video Galeri Hijau.</desc>
@@ -24982,6 +24997,42 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="DAAI TV.maxstream">
     <title>Dr. Panda</title>
     <desc>Dr. Panda adalah pengembang aplikasi edukasi anak yang mendorong anak-anak untuk berimajinasi dan berpikir kreatif sambil menemukan kegembiraan belajar melalui bermain.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="DAAI TV.maxstream">
+    <title>Cerita dan Rasa</title>
+    <desc>Program yang memberikan referensi tempat kuliner nikmat dan sehat sekaligus menggali tentang sejarah juga perjuangan dan kisah inspiratif dibaliknya.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="DAAI TV.maxstream">
+    <title>The Hero</title>
+    <desc>Program televisi inspiratif di DAAI TV yang menampilkan kisah perjuangan sosok-sosok heroik dengan aksi nyata bagi sesama, makhluk hidup, dan lingkungan.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="DAAI TV.maxstream">
+    <title>Pelindung Alam</title>
+    <desc>Kisah perjuangan para sosok yang berdedikasi menjaga kelestarian lingkungan dan melindungi ekosistem dari kerusakan.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="DAAI TV.maxstream">
+    <title>Drama Kisah Nyata: Istriku Bidadariku</title>
+    <desc>Kisah inspiratif yang penuh dengan nilai cinta kasih, kesabaran, serta perjuangan dalam membina rumah tangga dan menghadapi tabiat buruk pasangan.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="DAAI TV.maxstream">
+    <title>Drama Kisah Nyata: Cinta Sepanjang Jalan</title>
+    <desc>Program serial yang menampilkan cerita inspiratif berdasarkan pengalaman hidup yang nyata.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104151500 +0000" channel="DAAI TV.maxstream">
+    <title>Lentera Kehidupan</title>
+    <desc>Program motivasi yang memberikan solusi dan inspirasi bagi kehidupan kita.</desc>
+  </programme>
+  <programme start="20261104151500 +0000" stop="20261104153000 +0000" channel="DAAI TV.maxstream">
+    <title>DAAI Inspirasi</title>
+    <desc>DAAI Inspirasi menyajikan kisah keteladanan hidup yang dapat meraih kebijaksanaan dan kedamaian hati untuk diterapkan sehari - hari melalui kepedulian terhadap sesama dan lingkungan.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="DAAI TV.maxstream">
+    <title>Pelindung Alam</title>
+    <desc>Kisah perjuangan para sosok yang berdedikasi menjaga kelestarian lingkungan dan melindungi ekosistem dari kerusakan.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104223000 +0000" channel="DAAI TV.maxstream">
+    <title>Halo Indonesia</title>
+    <desc>Program yang menyajikan beragam berita juga informasi menarik khas redaksi dan bincang santai bersama narasumber disajikan dalam Halo Indonesia.</desc>
   </programme>
   <programme start="20261102223000 +0000" stop="20261102230000 +0000" channel="DAAI TV.maxstream">
     <title>Music Video &amp; Galeri Hijau</title>
@@ -25991,42 +26042,6 @@
     <title>Halo Indonesia</title>
     <desc>Program yang menyajikan beragam berita juga informasi menarik khas redaksi dan bincang santai bersama narasumber disajikan dalam Halo Indonesia.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="DAAI TV.maxstream">
-    <title>Cerita dan Rasa</title>
-    <desc>Program yang memberikan referensi tempat kuliner nikmat dan sehat sekaligus menggali tentang sejarah juga perjuangan dan kisah inspiratif dibaliknya.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="DAAI TV.maxstream">
-    <title>Citraloka</title>
-    <desc>Program yang bertujuan menumbuhkan kepedulian kaum muda terhadap seni budaya dan lingkungan sekitar.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="DAAI TV.maxstream">
-    <title>Refleksi</title>
-    <desc>Program dokumenter yang menyajikan kisah orang - orang yang memiliki keteguhan hati dan selalu melihat sisi positif dari kehidupan agar dapat menjadi cermin berpikir dalam memperkaya rasa kemanusiaan.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="DAAI TV.maxstream">
-    <title>Drama Kisah Nyata: Sejuta Cahaya</title>
-    <desc>Program serial yang menampilkan cerita inspiratif berdasarkan pengalaman hidup yang nyata.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="DAAI TV.maxstream">
-    <title>Drama Kisah Nyata: Cinta Sepanjang Jalan</title>
-    <desc>Program serial yang menampilkan cerita inspiratif berdasarkan pengalaman hidup yang nyata.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027151500 +0000" channel="DAAI TV.maxstream">
-    <title>Lentera Kehidupan</title>
-    <desc>Program motivasi yang memberikan solusi dan inspirasi bagi kehidupan kita.</desc>
-  </programme>
-  <programme start="20261027151500 +0000" stop="20261027153000 +0000" channel="DAAI TV.maxstream">
-    <title>DAAI Inspirasi</title>
-    <desc>DAAI Inspirasi menyajikan kisah keteladanan hidup yang dapat meraih kebijaksanaan dan kedamaian hati untuk diterapkan sehari - hari melalui kepedulian terhadap sesama dan lingkungan.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="DAAI TV.maxstream">
-    <title>Refleksi</title>
-    <desc>Program dokumenter yang menyajikan kisah orang - orang yang memiliki keteguhan hati dan selalu melihat sisi positif dari kehidupan agar dapat menjadi cermin berpikir dalam memperkaya rasa kemanusiaan.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027223000 +0000" channel="DAAI TV.maxstream">
-    <title>Halo Indonesia</title>
-    <desc>Program yang menyajikan beragam berita juga informasi menarik khas redaksi dan bincang santai bersama narasumber disajikan dalam Halo Indonesia.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="TVRI.maxstream">
     <title>Indonesian Legacy</title>
     <desc>Highlighting inspiring stories from various figures and important events that represent the identity and heritage of the nation in Indonesian history.</desc>
@@ -26146,6 +26161,38 @@
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="TVRI.maxstream">
     <title>Klik Indonesia Petang</title>
     <desc>Program berita petang yang menghadirkan informasi aktual, peristiwa nasional, dan kabar penting lainnya.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="TVRI.maxstream">
+    <title>Indonesia Bicara</title>
+    <desc>Program INDONESIA BICARA yang menghadirkan informasi, hiburan, dan cerita menarik untuk menemani pemirsa.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="TVRI.maxstream">
+    <title>Pesona Indonesia Terbaik Gatra</title>
+    <desc>Program yang mengangkat potensi, keragaman, budaya, dan kisah inspiratif dari berbagai daerah di Indonesia.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="TVRI.maxstream">
+    <title>Inspirasi Indonesia Terbaik Gatra</title>
+    <desc>Program yang mengangkat potensi, keragaman, budaya, dan kisah inspiratif dari berbagai daerah di Indonesia.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="TVRI.maxstream">
+    <title>Dunia Dalam Berita</title>
+    <desc>Program Dunia Dalam Berita berisikan berita internasional yang membahas kejadian di seluruh dunia termasuk olahraga dengan durasi 30 menit dan di akhiri acara prakiraan cuaca di beberapa kota besar di dunia.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="TVRI.maxstream">
+    <title>Jelajah Kopi</title>
+    <desc>Program acara mengajak kita berkunjung ke tempat-tempat yang sangat dekat dengan kehidupan &#039;ngopi&#039;. Baik itu dengan datang ke daerah penghasil kopi, maupun ke warung kopi atau cafe-cafe penyaji kopi yang menarik untuk dicicipi.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="TVRI.maxstream">
+    <title>Monitor Olahraga Malam</title>
+    <desc>Informasi dan perkembangan terbaru seputar pertandingan serta aktivitas olahraga yang sedang berlangsung.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104163000 +0000" channel="TVRI.maxstream">
+    <title>Canda Of The Day</title>
+    <desc>Program hiburan yang menghadirkan cerita ringan, karakter unik, dan momen menarik untuk dinikmati pemirsa.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="TVRI.maxstream">
+    <title>Klik Indonesia Malam</title>
+    <desc>Program berita malam yang menghadirkan informasi aktual, peristiwa nasional, dan kabar penting lainnya.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="TVRI.maxstream">
     <title>Indonesian Legacy</title>
@@ -27187,38 +27234,6 @@
     <title>Klik Indonesia Malam</title>
     <desc>Program berita malam yang menghadirkan informasi aktual, peristiwa nasional, dan kabar penting lainnya.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="TVRI.maxstream">
-    <title>Indonesia Bicara</title>
-    <desc>Program INDONESIA BICARA yang menghadirkan informasi, hiburan, dan cerita menarik untuk menemani pemirsa.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="TVRI.maxstream">
-    <title>Pesona Indonesia Terbaik Gatra</title>
-    <desc>Program yang mengangkat potensi, keragaman, budaya, dan kisah inspiratif dari berbagai daerah di Indonesia.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="TVRI.maxstream">
-    <title>Inspirasi Indonesia Terbaik Gatra</title>
-    <desc>Program yang mengangkat potensi, keragaman, budaya, dan kisah inspiratif dari berbagai daerah di Indonesia.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="TVRI.maxstream">
-    <title>Dunia Dalam Berita</title>
-    <desc>Program Dunia Dalam Berita berisikan berita internasional yang membahas kejadian di seluruh dunia termasuk olahraga dengan durasi 30 menit dan di akhiri acara prakiraan cuaca di beberapa kota besar di dunia.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="TVRI.maxstream">
-    <title>Jelajah Kopi</title>
-    <desc>Program acara mengajak kita berkunjung ke tempat-tempat yang sangat dekat dengan kehidupan &#039;ngopi&#039;. Baik itu dengan datang ke daerah penghasil kopi, maupun ke warung kopi atau cafe-cafe penyaji kopi yang menarik untuk dicicipi.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="TVRI.maxstream">
-    <title>Monitor Olahraga Malam</title>
-    <desc>Informasi dan perkembangan terbaru seputar pertandingan serta aktivitas olahraga yang sedang berlangsung.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027163000 +0000" channel="TVRI.maxstream">
-    <title>Canda Of The Day</title>
-    <desc>Program hiburan yang menghadirkan cerita ringan, karakter unik, dan momen menarik untuk dinikmati pemirsa.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="TVRI.maxstream">
-    <title>Klik Indonesia Malam</title>
-    <desc>Program berita malam yang menghadirkan informasi aktual, peristiwa nasional, dan kabar penting lainnya.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="Channel News Asia.maxstream">
     <title>Inside Out Asia: Taiwan’s Pigeon Kings</title>
     <desc>Perlombaan merpati laut lepas di Taiwan adalah tradisi kompetitif yang sengit. Di tengah ancaman dunia modern, komunitas peternak dan pawang berjuang keras mempertahankan warisan ini.</desc>
@@ -27282,6 +27297,34 @@
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="Channel News Asia.maxstream">
     <title>Tech To Save The World: Eps. 3 - Blockchain For Cities</title>
     <desc>Pemanfaatan teknologi AI, sensor pintar untuk memperbaiki dan memulihkan lahan yang terdegradasi secara lebih efektif, contohnya melalui penanaman benih otomatis dengan drone di Australia dan pemantauan kesehatan tanah di India.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="Channel News Asia.maxstream">
+    <title>Asia Tonight</title>
+    <desc>Koresponden CNA membawakan Anda cerita teratas hari ini dengan laporan dan wawancara &#039;langsung&#039; untuk membuat Anda tetap up-to-date tentang peristiwa hari itu.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="Channel News Asia.maxstream">
+    <title>Money Mind - Eps. 28</title>
+    <desc>Money Mind adalah tentang cara menabung, cara berinvestasi, dan bagaimana membelanjakan uang Anda dengan lebih baik. Memberikan tips keuangan pribadi untuk membantu Anda membuat semua pergerakan uang yang tepat.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="Channel News Asia.maxstream">
+    <title>CNA Correspondent - Eps. 27</title>
+    <desc>Tahun 2026 datang dengan peringatan: planet ini memanas lebih cepat daripada yang dapat ditanggapi oleh kebijakan, dengan kekeringan yang membunuh tanaman pangan, naiknya air laut menenggelamkan desa, ekonomi dalam bahaya.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="Channel News Asia.maxstream">
+    <title>Singapore Tonight</title>
+    <desc>Dari bisnis hingga politik, kesehatan hingga teknologi, berita terbaru dari Singapura dan analisis dampaknya.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="Channel News Asia.maxstream">
+    <title>The Decade that Changed Singapore’s Political Landscape</title>
+    <desc>Melalui sudut pandang S Jayakumar, film dokumenter ini meninjau kembali satu dekade krusial reformasi politik, serta mengungkap perdebatan dan pilihan di balik jabatan Presiden yang dipilih (Elected Presidency).</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104160300 +0000" channel="Channel News Asia.maxstream">
+    <title>Headline News</title>
+    <desc>Membawa informasi teratas dan terbaru saat ini.</desc>
+  </programme>
+  <programme start="20261104160300 +0000" stop="20261104170000 +0000" channel="Channel News Asia.maxstream">
+    <title>East Asia Tonight</title>
+    <desc>Sorotan pada Asia Timur, wilayah yang kaya akan sejarah dan sekarang membantu menulis masa depan dunia kita. Kami akan menguraikan cerita kunci dan menjelaskan mengapa itu penting.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="Channel News Asia.maxstream">
     <title>Singapore Hour</title>
@@ -28127,30 +28170,6 @@
     <title>East Asia Tonight</title>
     <desc>Sorotan pada Asia Timur, wilayah yang kaya akan sejarah dan sekarang membantu menulis masa depan dunia kita. Kami akan menguraikan cerita kunci dan menjelaskan mengapa itu penting.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Channel News Asia.maxstream">
-    <title>Asia Tonight</title>
-    <desc>Koresponden CNA membawakan Anda cerita teratas hari ini dengan laporan dan wawancara &#039;langsung&#039; untuk membuat Anda tetap up-to-date tentang peristiwa hari itu.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="Channel News Asia.maxstream">
-    <title>When Titans Clash S14: The Coming China Euro Trade War</title>
-    <desc>Gelombang investasi dan persaingan dari perusahaan China memicu &quot;Guncangan China&quot; di Eropa. Film dokumenter ini mengkaji posisi China sebagai ancaman, peluang, atau ketergantungan tak terhindarkan bagi benua tersebut.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="Channel News Asia.maxstream">
-    <title>Singapore Tonight</title>
-    <desc>Dari bisnis hingga politik, kesehatan hingga teknologi, berita terbaru dari Singapura dan analisis dampaknya.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="Channel News Asia.maxstream">
-    <title>Tech To Save The World: Eps. 2 - Rooted Resilience</title>
-    <desc>Pemanfaatan teknologi AI, sensor pintar untuk memperbaiki dan memulihkan lahan yang terdegradasi secara lebih efektif, contohnya melalui penanaman benih otomatis dengan drone di Australia dan pemantauan kesehatan tanah di India.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027160300 +0000" channel="Channel News Asia.maxstream">
-    <title>Headline News</title>
-    <desc>Membawa informasi teratas dan terbaru saat ini.</desc>
-  </programme>
-  <programme start="20261027160300 +0000" stop="20261027170000 +0000" channel="Channel News Asia.maxstream">
-    <title>East Asia Tonight</title>
-    <desc>Sorotan pada Asia Timur, wilayah yang kaya akan sejarah dan sekarang membantu menulis masa depan dunia kita. Kami akan menguraikan cerita kunci dan menjelaskan mengapa itu penting.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="Sinpo TV.maxstream">
     <title>Ruang Redaksi</title>
     <desc>Menyajikan dan membahas informasi berbagai topik peristiwa seperti kebijakan politik, kondisi ekonomi dan bisnis, kasus dan penegakan hukum, situasi keamanan, isu-isu sosial dan budaya masyarakat.</desc>
@@ -28218,6 +28237,18 @@
   <programme start="20261104103000 +0000" stop="20261104120000 +0000" channel="Sinpo TV.maxstream">
     <title>Menyapa Indonesia Petang</title>
     <desc>Menghadirkan beragam informasi terkini seputar politik, ekonomi, bisnis, sosial, budaya, informasi umum hingga dunia hiburan dan olahraga.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104140000 +0000" channel="Sinpo TV.maxstream">
+    <title>Menyapa Indonesia Malam</title>
+    <desc>Menghadirkan beragam informasi terkini seputar politik, ekonomi, bisnis, sosial, budaya, informasi umum hingga dunia hiburan dan olahraga.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104160000 +0000" channel="Sinpo TV.maxstream">
+    <title>Pegadaian Championship 2025/26</title>
+    <desc>Pegadaian Championship (sebelumnya Liga 2), kompetisi kasta kedua liga sepak bola profesional di Indonesia.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="Sinpo TV.maxstream">
+    <title>Ruang Redaksi</title>
+    <desc>Menyajikan dan membahas informasi berbagai topik peristiwa seperti kebijakan politik, kondisi ekonomi dan bisnis, kasus dan penegakan hukum, situasi keamanan, isu-isu sosial dan budaya masyarakat.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="Sinpo TV.maxstream">
     <title>Ruang Redaksi</title>
@@ -28811,18 +28842,6 @@
     <title>Ruang Redaksi</title>
     <desc>Menyajikan dan membahas informasi berbagai topik peristiwa seperti kebijakan politik, kondisi ekonomi dan bisnis, kasus dan penegakan hukum, situasi keamanan, isu-isu sosial dan budaya masyarakat.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027140000 +0000" channel="Sinpo TV.maxstream">
-    <title>Menyapa Indonesia Malam</title>
-    <desc>Menghadirkan beragam informasi terkini seputar politik, ekonomi, bisnis, sosial, budaya, informasi umum hingga dunia hiburan dan olahraga.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027160000 +0000" channel="Sinpo TV.maxstream">
-    <title>Pegadaian Championship 2025/26</title>
-    <desc>Pegadaian Championship (sebelumnya Liga 2), kompetisi kasta kedua liga sepak bola profesional di Indonesia.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="Sinpo TV.maxstream">
-    <title>Ruang Redaksi</title>
-    <desc>Menyajikan dan membahas informasi berbagai topik peristiwa seperti kebijakan politik, kondisi ekonomi dan bisnis, kasus dan penegakan hukum, situasi keamanan, isu-isu sosial dan budaya masyarakat.</desc>
-  </programme>
   <programme start="20261103173000 +0000" stop="20261103180000 +0000" channel="Sindo News.maxstream">
     <title>OMG</title>
     <desc>Tayangan ringan berisi berita hiburan, tren media sosial, gosip selebritas, hingga fenomena unik yang menarik perhatian masyarakat.</desc>
@@ -28897,6 +28916,22 @@
   </programme>
   <programme start="20261104103000 +0000" stop="20261104120000 +0000" channel="Sindo News.maxstream">
     <title>Sindo Sore</title>
+    <desc>Siaran berita harian dari Sindo News, menghadirkan liputan aktual, analisis, dan opini terkait isu nasional yang sedang hangat diperbincangkan.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="Sindo News.maxstream">
+    <title>Sindo Files</title>
+    <desc>Tayangan investigasi dan dokumenter yang mendalam, mengungkap isu penting, fakta tersembunyi, hingga peristiwa besar dengan penyajian eksklusif.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104143000 +0000" channel="Sindo News.maxstream">
+    <title>Sindo Prime</title>
+    <desc>Talkshow berita premium dengan pembahasan mendalam soal politik, bisnis, dan isu strategis bersama narasumber kredibel.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104163000 +0000" channel="Sindo News.maxstream">
+    <title>Rakyat Bersuara</title>
+    <desc>Forum interaktif yang memberi ruang bagi masyarakat menyampaikan aspirasi, kritik, dan pandangan terhadap isu-isu terkini.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104173000 +0000" channel="Sindo News.maxstream">
+    <title>Sindo Malam</title>
     <desc>Siaran berita harian dari Sindo News, menghadirkan liputan aktual, analisis, dan opini terkait isu nasional yang sedang hangat diperbincangkan.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="Sindo News.maxstream">
@@ -29575,26 +29610,6 @@
     <title>Sindo Malam</title>
     <desc>Siaran berita harian dari Sindo News, menghadirkan liputan aktual, analisis, dan opini terkait isu nasional yang sedang hangat diperbincangkan.</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Sindo News.maxstream">
-    <title>Sindo Files</title>
-    <desc>Tayangan investigasi dan dokumenter yang mendalam, mengungkap isu penting, fakta tersembunyi, hingga peristiwa besar dengan penyajian eksklusif.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027143000 +0000" channel="Sindo News.maxstream">
-    <title>Sindo Prime</title>
-    <desc>Talkshow berita premium dengan pembahasan mendalam soal politik, bisnis, dan isu strategis bersama narasumber kredibel.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027153000 +0000" channel="Sindo News.maxstream">
-    <title>Sindo Malam</title>
-    <desc>Siaran berita harian dari Sindo News, menghadirkan liputan aktual, analisis, dan opini terkait isu nasional yang sedang hangat diperbincangkan.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027163000 +0000" channel="Sindo News.maxstream">
-    <title>Inside Story</title>
-    <desc>Program dokumenter investigatif yang menyingkap kisah di balik suatu peristiwa, menghadirkan fakta tersembunyi dan analisis tajam.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027173000 +0000" channel="Sindo News.maxstream">
-    <title>Sindo Files</title>
-    <desc>Tayangan investigasi dan dokumenter yang mendalam, mengungkap isu penting, fakta tersembunyi, hingga peristiwa besar dengan penyajian eksklusif.</desc>
-  </programme>
   <programme start="20261103183000 +0000" stop="20261103203000 +0000" channel="Rodja TV.maxstream">
     <title>Sign Off</title>
     <desc>Sign Off</desc>
@@ -29654,6 +29669,30 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="Rodja TV.maxstream">
     <title>Tilawah Al Quran terjemah</title>
     <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104123000 +0000" channel="Rodja TV.maxstream">
+    <title>Kajian Ilmiah</title>
+    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="Rodja TV.maxstream">
+    <title>Qola Rasul</title>
+    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104143000 +0000" channel="Rodja TV.maxstream">
+    <title>Kacamata Islam</title>
+    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="Rodja TV.maxstream">
+    <title>Untaian Mutiara Nasihat</title>
+    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104163000 +0000" channel="Rodja TV.maxstream">
+    <title>Kajian Ilmiah</title>
+    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104183000 +0000" channel="Rodja TV.maxstream">
+    <title>Sign Off</title>
+    <desc>Sign Off</desc>
   </programme>
   <programme start="20261102183000 +0000" stop="20261102203000 +0000" channel="Rodja TV.maxstream">
     <title>Sign Off</title>
@@ -30211,26 +30250,6 @@
     <title>Sign Off</title>
     <desc>Sign Off</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027123000 +0000" channel="Rodja TV.maxstream">
-    <title>Kajian Ilmiah</title>
-    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="Rodja TV.maxstream">
-    <title>Qola Rasul</title>
-    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027150000 +0000" channel="Rodja TV.maxstream">
-    <title>Kajian Ilmiah Tabligh Akbar</title>
-    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027163000 +0000" channel="Rodja TV.maxstream">
-    <title>Kajian Ilmiah </title>
-    <desc>Rodja TV hadir sebagai saluran tilawah Al-Qur’an dan kajian Islam ilmiah, berfokus pada penyajian ceramah, tilawah (bacaan Al-Qur’an), kajian agama, dan pembahasan seputar aqidah, fiqh, hadits, serta aspek kehidupan Islami.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027183000 +0000" channel="Rodja TV.maxstream">
-    <title>Sign Off</title>
-    <desc>Sign Off</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="CGTN Documentary.maxstream">
     <title>Journeys and Discoveries: Solar Terms: Symphony of Seasons 3</title>
     <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
@@ -30342,6 +30361,38 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="CGTN Documentary.maxstream">
     <title>Journeys and Discoveries: Solar Terms: Symphony of Seasons 4</title>
     <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="CGTN Documentary.maxstream">
+    <title>History in the Frame: Land Remembers and Time Resounds</title>
+    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Best Eats: A Legacy of Flavor · A Culinary Life 3/4</title>
+    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Youthful China: New Frontiers in Chinese Sci-Fi 3</title>
+    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Pixel Collage: Quyang Stone Carving</title>
+    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Today’s Top Pick: Potala Palace 3</title>
+    <desc>Film dokumenter di slot ini adalah tayangan ulang dari kisah-kisah yang paling banyak ditonton dan paling populer di musim ini. Film-film ini menampilkan isu-isu sosial, ekonomi, lingkungan, atau isu-isu.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Humanities and Geography: Guardians of the Wild 3</title>
+    <desc>Sebuah rubrik yang dikhususkan untuk alam dan satwa liar Tiongkok, masyarakat yang hidup berdampingan dengan mereka, dan bentang alam yang luas dan beragam yang menjadi tantangan bagi mereka semua.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Living China: Macao: From Yearning to Fulfilment 3</title>
+    <desc>Kisah nyata yang diceritakan dari sudut pandang pribadi. Mengharukan, dramatis, kesedihan dan kegembiraan, diungkapkan secara tegas dan tenang. Saksikan dengan saksama untuk melihat .</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="CGTN Documentary.maxstream">
+    <title>Special Edition: The Legend of Silk Manuscripts 2 / East Meets West 2</title>
+    <desc>Produksi film dokumenter Tiongkok bergengsi, yang mengangkat tema-tema serius dengan sinematografi, penyuntingan, dan nilai produksi menyeluruh terbaik serta perspektif Tiongkok yang unik.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="CGTN Documentary.maxstream">
     <title>Journeys and Discoveries: Solar Terms: Symphony of Seasons 2</title>
@@ -31307,38 +31358,6 @@
     <title>Special Edition - Yangshi Lei 1</title>
     <desc>Produksi film dokumenter Tiongkok bergengsi, yang mengangkat tema-tema serius dengan sinematografi, penyuntingan, dan nilai produksi menyeluruh terbaik serta perspektif Tiongkok yang unik.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="CGTN Documentary.maxstream">
-    <title>History in the Frame - In Search of Ancient China: Exploring Sanxingdui 2</title>
-    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Best Eats - Breaking Through 5</title>
-    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Youthful China - Blooming Flowers 2</title>
-    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Pixel Collage - Joyous Occasions 2</title>
-    <desc>Sebuah serial dokumenter yang menampilkan sejarah Tiongkok dan rakyatnya.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Today&#039;s Top Pick - In the Footsteps of Marco Polo 2</title>
-    <desc>Film dokumenter di slot ini adalah tayangan ulang dari kisah-kisah yang paling banyak ditonton dan paling populer di musim ini. Film-film ini menampilkan isu-isu sosial, ekonomi, lingkungan, atau isu-isu.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Humanities and Geography - Me and My Brain 1</title>
-    <desc>Sebuah rubrik yang dikhususkan untuk alam dan satwa liar Tiongkok, masyarakat yang hidup berdampingan dengan mereka, dan bentang alam yang luas dan beragam yang menjadi tantangan bagi mereka semua.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Living China - The Stolen Sleep 2</title>
-    <desc>Kisah nyata yang diceritakan dari sudut pandang pribadi. Mengharukan, dramatis, kesedihan dan kegembiraan, diungkapkan secara tegas dan tenang. Saksikan dengan saksama untuk melihat .</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="CGTN Documentary.maxstream">
-    <title>Special Edition - China Season III 1</title>
-    <desc>Produksi film dokumenter Tiongkok bergengsi, yang mengangkat tema-tema serius dengan sinematografi, penyuntingan, dan nilai produksi menyeluruh terbaik serta perspektif Tiongkok yang unik.</desc>
-  </programme>
   <programme start="20261103173000 +0000" stop="20261103180000 +0000" channel="CCTV 4.maxstream">
     <title>China Showbiz </title>
     <desc>China Showbiz mengumpulkan berbagai karya artistik TV yang luar biasa dan mengarahkan pemirsa ke dunia seni yang luar biasa melalui apresiasi dan ulasan karya.</desc>
@@ -31466,6 +31485,46 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="CCTV 4.maxstream">
     <title>China News</title>
     <desc>Ini berkonsentrasi pada berita terbaru dan perubahan sosial yang terjadi di Cina dan di seluruh dunia</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="CCTV 4.maxstream">
+    <title>Asia Today</title>
+    <desc>Laporan berita wilayah Asia dalam pandangan Asia</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="CCTV 4.maxstream">
+    <title>Nostalgia</title>
+    <desc>Merepresentasikan budaya tradisional Tiongkok dengan mengungkapkan kehidupan di desa dengan cara bercerita. Penonton dapat menikmati latar belakang alam dan budaya desa-desa tradisional Tiongkok.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="CCTV 4.maxstream">
+    <title>Across the Strait </title>
+    <desc>The Across the Strait menelusuri isu-isu yang banyak dibahas di seberang Selat, mencerminkan kehendak warga di dua sisi Selat dan merinci kebijakan Pemerintah Tiongkok tentang &quot;satu negara, dua sistem&quot; Taiwan dan Tiongkok Daratan</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="CCTV 4.maxstream">
+    <title>China News</title>
+    <desc>Ini berkonsentrasi pada berita terbaru dan perubahan sosial yang terjadi di Cina dan di seluruh dunia</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="CCTV 4.maxstream">
+    <title>Focus Today</title>
+    <desc>Menelusuri peristiwa terkini dari Tiongkok dan dunia</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="CCTV 4.maxstream">
+    <title>Around China</title>
+    <desc>Dari perspektif inspiratif yang menyentuh budaya manusia melalui eksplorasi berbagai macam budaya dengan ciri khas lokal.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="CCTV 4.maxstream">
+    <title>Network News </title>
+    <desc>Network News adalah berita berdurasi 30 menit, berita tentang Tiongkok dan dunia.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104155000 +0000" channel="CCTV 4.maxstream">
+    <title>TV Drama</title>
+    <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
+  </programme>
+  <programme start="20261104155000 +0000" stop="20261104164000 +0000" channel="CCTV 4.maxstream">
+    <title>TV Drama</title>
+    <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
+  </programme>
+  <programme start="20261104164000 +0000" stop="20261104173000 +0000" channel="CCTV 4.maxstream">
+    <title>TV Drama</title>
+    <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
   </programme>
   <programme start="20261102173000 +0000" stop="20261102180000 +0000" channel="CCTV 4.maxstream">
     <title>China Showbiz </title>
@@ -32595,46 +32654,6 @@
     <title>TV Drama</title>
     <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="CCTV 4.maxstream">
-    <title>Asia Today</title>
-    <desc>Laporan berita wilayah Asia dalam pandangan Asia</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="CCTV 4.maxstream">
-    <title>Nostalgia</title>
-    <desc>Merepresentasikan budaya tradisional Tiongkok dengan mengungkapkan kehidupan di desa dengan cara bercerita. Penonton dapat menikmati latar belakang alam dan budaya desa-desa tradisional Tiongkok.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="CCTV 4.maxstream">
-    <title>Across the Strait </title>
-    <desc>The Across the Strait menelusuri isu-isu yang banyak dibahas di seberang Selat, mencerminkan kehendak warga di dua sisi Selat dan merinci kebijakan Pemerintah Tiongkok tentang &quot;satu negara, dua sistem&quot; Taiwan dan Tiongkok Daratan</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="CCTV 4.maxstream">
-    <title>China News</title>
-    <desc>Ini berkonsentrasi pada berita terbaru dan perubahan sosial yang terjadi di Cina dan di seluruh dunia</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="CCTV 4.maxstream">
-    <title>Focus Today</title>
-    <desc>Menelusuri peristiwa terkini dari Tiongkok dan dunia</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="CCTV 4.maxstream">
-    <title>Around China</title>
-    <desc>Dari perspektif inspiratif yang menyentuh budaya manusia melalui eksplorasi berbagai macam budaya dengan ciri khas lokal.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="CCTV 4.maxstream">
-    <title>Network News </title>
-    <desc>Network News adalah berita berdurasi 30 menit, berita tentang Tiongkok dan dunia.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027155000 +0000" channel="CCTV 4.maxstream">
-    <title>TV Drama</title>
-    <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
-  </programme>
-  <programme start="20261027155000 +0000" stop="20261027164000 +0000" channel="CCTV 4.maxstream">
-    <title>TV Drama</title>
-    <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
-  </programme>
-  <programme start="20261027164000 +0000" stop="20261027173000 +0000" channel="CCTV 4.maxstream">
-    <title>TV Drama</title>
-    <desc>Drama televisi produksi Tiongkok yang ditayangkan di channel CCTV4</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103182700 +0000" channel="BTV.maxstream">
     <title>One Vault</title>
     <desc>Program Sport Match (Fighting) yang menampilkan beberapa fighter dalam memperebutkan gelar.</desc>
@@ -32770,6 +32789,26 @@
   <programme start="20261104103000 +0000" stop="20261104120000 +0000" channel="BTV.maxstream">
     <title>Berita Satu Utama</title>
     <desc>Program berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="BTV.maxstream">
+    <title>Berita Satu Malam</title>
+    <desc>Program berita di malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="BTV.maxstream">
+    <title>Jendela Dunia</title>
+    <desc>Program informasi yang menyajikan berbagai hal menarik dari seluruh penjuru dunia</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="BTV.maxstream">
+    <title>Berita Satu Utama</title>
+    <desc>Program berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="BTV.maxstream">
+    <title>Berita Satu Malam</title>
+    <desc>Program berita di malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="BTV.maxstream">
+    <title>Mitos Tengah Malam</title>
+    <desc>Program misteri yang menguak rahasia tersembunyi dari sebuah mitos </desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102182700 +0000" channel="BTV.maxstream">
     <title>One Vault</title>
@@ -33863,22 +33902,6 @@
     <title>Mitos Tengah Malam</title>
     <desc>Program misteri yang menguak rahasia tersembunyi dari sebuah mitos </desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027143000 +0000" channel="BTV.maxstream">
-    <title>Berita Satu Malam</title>
-    <desc>Program berita di malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="BTV.maxstream">
-    <title>Berita Satu Utama</title>
-    <desc>Program berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="BTV.maxstream">
-    <title>Berita Satu Malam</title>
-    <desc>Program berita di malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="BTV.maxstream">
-    <title>Mitos Tengah Malam</title>
-    <desc>Program misteri yang menguak rahasia tersembunyi dari sebuah mitos </desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103182700 +0000" channel="Berita Satu.maxstream">
     <title>One Vault </title>
     <desc>Program Sport Match (Fighting) yang menampilkan beberapa fighter dalam memperebutkan gelar </desc>
@@ -34014,6 +34037,34 @@
   <programme start="20261104103000 +0000" stop="20261104120000 +0000" channel="Berita Satu.maxstream">
     <title>Berita Satu Utama</title>
     <desc>Program Berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="Berita Satu.maxstream">
+    <title>Berita Satu Malam</title>
+    <desc>Program Berita di Malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Berita Satu.maxstream">
+    <title>Jendela Dunia</title>
+    <desc>Program informasi yang menyajikan berbagai hal menarik dari seluruh penjuru dunia</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104143000 +0000" channel="Berita Satu.maxstream">
+    <title>Investor Daily Summit 2026</title>
+    <desc>Program diskusi yang membahas isu-isu terkait ekonomi global yang merupakan rangkaian dari kegiatan Investor Daily Summit </desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="Berita Satu.maxstream">
+    <title>Berita Satu Utama</title>
+    <desc>Program Berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="Berita Satu.maxstream">
+    <title>Berita Satu Utama</title>
+    <desc>Program Berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="Berita Satu.maxstream">
+    <title>Berita Satu Malam</title>
+    <desc>Program Berita di Malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="Berita Satu.maxstream">
+    <title>Mitos Tengah Malam</title>
+    <desc>Program misteri yang menguak rahasia tersembunyi dari sebuah mitos </desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102182700 +0000" channel="Berita Satu.maxstream">
     <title>One Vault </title>
@@ -35107,22 +35158,6 @@
     <title>Mitos Tengah Malam</title>
     <desc>Program misteri yang menguak rahasia tersembunyi dari sebuah mitos </desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027143000 +0000" channel="Berita Satu.maxstream">
-    <title>Berita Satu Malam</title>
-    <desc>Program Berita di Malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="Berita Satu.maxstream">
-    <title>Berita Satu Utama</title>
-    <desc>Program Berita yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027160000 +0000" channel="Berita Satu.maxstream">
-    <title>Berita Satu Malam</title>
-    <desc>Program Berita di Malam hari yang akan menyajikan berita ter-update dan terkini di setiap malamnya dan dikemas secara menarik </desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="Berita Satu.maxstream">
-    <title>Mitos Tengah Malam</title>
-    <desc>Program misteri yang menguak rahasia tersembunyi dari sebuah mitos </desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103171000 +0000" channel="NHK World Japan.maxstream">
     <title>NHK Newsline</title>
     <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
@@ -35366,6 +35401,62 @@
   <programme start="20261104110000 +0000" stop="20261104112800 +0000" channel="NHK World Japan.maxstream">
     <title>Newsroom Tokyo</title>
     <desc>Menampilkan program-program unggulan mulai dari pertunjukan hiburan variety hingga film dokumenter.</desc>
+  </programme>
+  <programme start="20261104112800 +0000" stop="20261104114300 +0000" channel="NHK World Japan.maxstream">
+    <title>Direct Talk</title>
+    <desc>Shimizu Eisuke telah mengembangkan perangkat pemeriksaan mata yang dapat dipasang pada ponsel pintar, sehingga memungkinkan untuk melakukan pemeriksaan mata di mana saja.</desc>
+  </programme>
+  <programme start="20261104114300 +0000" stop="20261104115500 +0000" channel="NHK World Japan.maxstream">
+    <title>Nun&#039;s Seasonal Calendar</title>
+    <desc>Kita belajar tentang tanggal-tanggal awal musim semi di Risshun dan Usui. Para biarawati menunjukkan kepada kita cara membuat makanan khas musiman seperti kue beras neko-mochi dan kerupuk Hari Anak Perempuan.</desc>
+  </programme>
+  <programme start="20261104115500 +0000" stop="20261104120000 +0000" channel="NHK World Japan.maxstream">
+    <title>Ukiyoe Edo-Life: On A Snowy Night</title>
+    <desc>Kami menjumpai pemandangan kota Edo yang tenang dan tertutup salju. Namun ada sesuatu di udara: aroma makanan manis dan gurih yang membantu penduduk kota tetap hangat di musim dingin.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="NHK World Japan.maxstream">
+    <title>Newsroom Tokyo</title>
+    <desc>Menampilkan program-program unggulan mulai dari pertunjukan hiburan variety hingga film dokumenter.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104124500 +0000" channel="NHK World Japan.maxstream">
+    <title>Direct Talk</title>
+    <desc>Shimizu Eisuke telah mengembangkan perangkat pemeriksaan mata yang dapat dipasang pada ponsel pintar, sehingga memungkinkan untuk melakukan pemeriksaan mata di mana saja.</desc>
+  </programme>
+  <programme start="20261104124500 +0000" stop="20261104130000 +0000" channel="NHK World Japan.maxstream">
+    <title>Japan&#039;s Top Inventions</title>
+    <desc>Temukan kisah di balik produk-produk Jepang yang terkenal bersama reporter kami. Kali ini: mesin penjual otomatis makanan beku.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="NHK World Japan.maxstream">
+    <title>NHK Newsline</title>
+    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="NHK World Japan.maxstream">
+    <title>Frontrunners</title>
+    <desc>Menyoroti para profesional yang berada di garis terdepan dalam bidangnya. Kami menampilkan karya mereka yang luar biasa, menemukan motivasi mereka, dan mempelajari tantangan yang mereka hadapi.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="NHK World Japan.maxstream">
+    <title>NHK Newsline</title>
+    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="NHK World Japan.maxstream">
+    <title>Trails To Oishii Tokyo</title>
+    <desc>Kawanan ikan nishin, atau ikan herring Pasifik, memasuki perairan utara Jepang. Dahulu merupakan bagian yang menguntungkan dari perekonomian lokal, ikan ini tetap menjadi bahan pokok dalam berbagai masakan Jepang.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="NHK World Japan.maxstream">
+    <title>NHK Newsline</title>
+    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="NHK World Japan.maxstream">
+    <title>Dive In Tokyo</title>
+    <desc>Bergabunglah dengan kami saat kami menjelajahi distrik Haneda, yang terkenal dengan bandaranya. Saat kami menelusuri sejarahnya, kami belajar tentang masa lalunya sebagai komunitas nelayan dan tujuan wisata yang terkenal</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="NHK World Japan.maxstream">
+    <title>NHK Newsline</title>
+    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="NHK World Japan.maxstream">
+    <title>Across The Divide</title>
+    <desc>Seorang sutradara NHK menelusuri kerenggangan hubungan dengan ayahnya sendiri. Melalui dialog, ia berupaya memahami bagaimana dan mengapa jarak antara orang-orang terkasih dapat dijembatani.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="NHK World Japan.maxstream">
     <title>NHK Newsline</title>
@@ -37367,66 +37458,6 @@
     <title>NHK World Selection</title>
     <desc>Pilihan program-program terkenal dari saluran domestik NHK yang disulih suara ke dalam bahasa Inggris.</desc>
   </programme>
-  <programme start="20261027112800 +0000" stop="20261027114300 +0000" channel="NHK World Japan.maxstream">
-    <title>Direct Talk</title>
-    <desc>Shimizu Eisuke telah mengembangkan perangkat pemeriksaan mata yang dapat dipasang pada ponsel pintar, sehingga memungkinkan untuk melakukan pemeriksaan mata di mana saja.</desc>
-  </programme>
-  <programme start="20261027114300 +0000" stop="20261027115500 +0000" channel="NHK World Japan.maxstream">
-    <title>Magical Japanese</title>
-    <desc>Bahasa Jepang kaya akan kata dan ungkapan yang dipengaruhi oleh alam, sejarah, dan budaya. Episode ini membahas kata-kata yang berkaitan dengan gunung. Jelajahi budaya unik di baliknya.</desc>
-  </programme>
-  <programme start="20261027115500 +0000" stop="20261027120000 +0000" channel="NHK World Japan.maxstream">
-    <title>Easy Japanese</title>
-    <desc>#13 Aku ingin melihat salju. Untuk menyatakan apa yang ingin Anda lakukan, ganti akhiran &quot;masu&quot; pada kata kerja dengan &quot;tai desu.&quot; Misalnya, &quot;mimasu&quot; (melihat) menjadi &quot;mitai desu&quot; (ingin melihat).</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="NHK World Japan.maxstream">
-    <title>Newsroom Tokyo</title>
-    <desc>Menampilkan program-program unggulan mulai dari pertunjukan hiburan variety hingga film dokumenter.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="NHK World Japan.maxstream">
-    <title>Dining With The Chef</title>
-    <desc>Kita akan mengunjungi Rebun, sebuah pulau terpencil di Hokkaido yang terkenal dengan kombu-nya—rumput laut yang sangat penting untuk dashi Jepang. Kita akan bertemu dengan seorang pemanen yang bersemangat</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="NHK World Japan.maxstream">
-    <title>NHK Newsline</title>
-    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="NHK World Japan.maxstream">
-    <title>Document 72 Hours</title>
-    <desc>Program memberikan jendela unik ke dalam realitas masyarakat Jepang modern, menunjukkan bahwa setiap orang yang kita temui di jalan memiliki cerita unik yang layak untuk didengar.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="NHK World Japan.maxstream">
-    <title>NHK Newsline</title>
-    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="NHK World Japan.maxstream">
-    <title>Science View</title>
-    <desc>Dari pelayaran laut hingga perjalanan luar angkasa, umat manusia selalu menghadapi satu masalah umum: mabuk perjalanan. Temukan bagaimana para ilmuwan mengungkap mekanismenya.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="NHK World Japan.maxstream">
-    <title>NHK Newsline</title>
-    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="NHK World Japan.maxstream">
-    <title>Journeys In Japan</title>
-    <desc>Melalui lagu-lagu yang berakar pada komunitas lokal, Alfie Goodrich mengeksplorasi sejarah, budaya, dan tradisi Hokkaido.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="NHK World Japan.maxstream">
-    <title>NHK Newsline</title>
-    <desc>NHK Newsline menyajikan berita terbaru dari Jepang, Asia, dan seluruh dunia. Tim kami meliput berita-berita terkini dan perkembangan besar, dengan pembawa acara tepercaya untuk menyatukan semuanya.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027164500 +0000" channel="NHK World Japan.maxstream">
-    <title>Activate Your Japanese!</title>
-    <desc>Pelajari cara memaksimalkan kemampuan bahasa Jepang Anda. Tonton drama kami yang menampilkan strategi komunikasi yang bermanfaat, video singkat kami tentang onomatopoeia, dan film dokumenter kami tentang &quot;senpai&quot; di Jepang.</desc>
-  </programme>
-  <programme start="20261027164500 +0000" stop="20261027165500 +0000" channel="NHK World Japan.maxstream">
-    <title>Dig More Japan</title>
-    <desc>Orang-orang mengatasi rintangan dengan dukungan dari individu, bisnis, dan masyarakat. Mari kita telusuri lebih dalam dunia tanpa batas!</desc>
-  </programme>
-  <programme start="20261027165500 +0000" stop="20261027170000 +0000" channel="NHK World Japan.maxstream">
-    <title>Dining With The Chef Mini</title>
-    <desc>Kita akan mengunjungi Rebun, sebuah pulau terpencil di Hokkaido yang terkenal dengan kombu-nya—rumput laut yang sangat penting untuk dashi Jepang. Kita akan bertemu dengan seorang pemanen yang bersemangat</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103190000 +0000" channel="MTA TV.maxstream">
     <title>Murotal</title>
     <desc>Pembacaan Ayat-ayat suci Alqur&#039;an</desc>
@@ -37506,6 +37537,18 @@
   <programme start="20261104110000 +0000" stop="20261104130000 +0000" channel="MTA TV.maxstream">
     <title>Tahsin</title>
     <desc>Pendidikan dan pelatihan baca Al-qur&#039;an secara interaktif</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104131000 +0000" channel="MTA TV.maxstream">
+    <title>Kilas Info Terpilih (KIT)</title>
+    <desc>Program acara yang menyajikan berita dan informasi terkini </desc>
+  </programme>
+  <programme start="20261104131000 +0000" stop="20261104160000 +0000" channel="MTA TV.maxstream">
+    <title>Rekaman Jihad Pagi 3</title>
+    <desc>Rekaman Pengajian Ahad Pagi</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="MTA TV.maxstream">
+    <title>Tabligh</title>
+    <desc>Tausyiah Pengajian Akbar oleh Al-ustadz Nur Kholid Syaifulloh, Lc., M.Hum </desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="MTA TV.maxstream">
     <title>Murotal</title>
@@ -38139,18 +38182,6 @@
     <title>Tabligh</title>
     <desc>Tausyiah Pengajian Akbar oleh Al-ustadz Nur Kholid Syaifulloh, Lc., M.Hum </desc>
   </programme>
-  <programme start="20261027130000 +0000" stop="20261027131000 +0000" channel="MTA TV.maxstream">
-    <title>Kilas Info Terpilih (KIT)</title>
-    <desc>Program acara yang menyajikan berita dan informasi terkini </desc>
-  </programme>
-  <programme start="20261027131000 +0000" stop="20261027160000 +0000" channel="MTA TV.maxstream">
-    <title>Rekaman Jihad Pagi 3</title>
-    <desc>Rekaman Pengajian Ahad Pagi</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="MTA TV.maxstream">
-    <title>Tabligh</title>
-    <desc>Tausyiah Pengajian Akbar oleh Al-ustadz Nur Kholid Syaifulloh, Lc., M.Hum </desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="MQTV.maxstream">
     <title>Kajian Tauhiid</title>
     <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
@@ -38242,6 +38273,30 @@
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="MQTV.maxstream">
     <title>Adzan Maghrib: Maghrib Mengaji</title>
     <desc>Kumandang adzan dan murrotal Al Quran</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="MQTV.maxstream">
+    <title>Adzan Isya: Power Of Soul</title>
+    <desc>Kumandang adzan dan murrotal Al Quran</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="MQTV.maxstream">
+    <title>Kajian Alhikam Buya Yahya</title>
+    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="MQTV.maxstream">
+    <title>Kajian Tauhiid (Assatidz Daarut Tauhiid)</title>
+    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="MQTV.maxstream">
+    <title>Murottal Al Quran</title>
+    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104163000 +0000" channel="MQTV.maxstream">
+    <title>Menggapai Cinta Allah Aa Gym</title>
+    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="MQTV.maxstream">
+    <title>Murottal Al Quran</title>
+    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="MQTV.maxstream">
     <title>Kajian Tauhiid</title>
@@ -39071,30 +39126,6 @@
     <title>Murottal Al Quran</title>
     <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="MQTV.maxstream">
-    <title>Adzan Isya: Power Of Soul</title>
-    <desc>Kumandang adzan dan murrotal Al Quran</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="MQTV.maxstream">
-    <title>Ustadz Jaga Ustadz Sapria</title>
-    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="MQTV.maxstream">
-    <title>Kajian Tauhiid (Assatidz Daarut Tauhiid)</title>
-    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="MQTV.maxstream">
-    <title>Murottal Al Quran</title>
-    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027163000 +0000" channel="MQTV.maxstream">
-    <title>Menggapai Cinta Allah Aa Gym</title>
-    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="MQTV.maxstream">
-    <title>Murottal Al Quran</title>
-    <desc>MQTV berfokus utama pada konten-konten dengan nuansa dan sudut pandang ke-Islaman, -dakwah, kajian, pendidikan, pengajaran Al-Quran, sosial, kesehatan dan hiburan- tetapi tetap dikemas secara menarik</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103171500 +0000" channel="France 24.maxstream">
     <title>News</title>
     <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
@@ -39450,6 +39481,126 @@
   <programme start="20261104111100 +0000" stop="20261104112600 +0000" channel="France 24.maxstream">
     <title>Paris Des Arts</title>
     <desc>Perjalanan budaya keliling Paris ditemani seorang tamu. Valerie Fayolle membangun jembatan dari satu bentuk seni ke bentuk seni lainnya, dari satu seniman ke seniman lainnya, dari Prancis ke seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104112600 +0000" stop="20261104113000 +0000" channel="France 24.maxstream">
+    <title>Short Cuts</title>
+    <desc>Topik-topik inspiratif dan inisiatif positif yang mengubah dunia.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104114000 +0000" channel="France 24.maxstream">
+    <title>Bulletin</title>
+    <desc>Sebuah program bulletin France24</desc>
+  </programme>
+  <programme start="20261104114000 +0000" stop="20261104114100 +0000" channel="France 24.maxstream">
+    <title>Introduction</title>
+    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
+  </programme>
+  <programme start="20261104114100 +0000" stop="20261104115800 +0000" channel="France 24.maxstream">
+    <title>Revisited</title>
+    <desc>Program france24 bertajuk revisited palomares</desc>
+  </programme>
+  <programme start="20261104115800 +0000" stop="20261104120000 +0000" channel="France 24.maxstream">
+    <title>Fermeture De Tranche</title>
+    <desc>Rangkaian informasi tertentu berita dan peristiwa.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104121500 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104121500 +0000" stop="20261104121600 +0000" channel="France 24.maxstream">
+    <title>Introduction</title>
+    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
+  </programme>
+  <programme start="20261104121600 +0000" stop="20261104123000 +0000" channel="France 24.maxstream">
+    <title>Arts24</title>
+    <desc>Berita budaya dari ibu kota seni, kuliner, dan mode dunia, Paris.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104124500 +0000" channel="France 24.maxstream">
+    <title>Bulletin</title>
+    <desc>Sebuah program bulletin France24</desc>
+  </programme>
+  <programme start="20261104124500 +0000" stop="20261104124600 +0000" channel="France 24.maxstream">
+    <title>Introduction</title>
+    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
+  </programme>
+  <programme start="20261104124600 +0000" stop="20261104125100 +0000" channel="France 24.maxstream">
+    <title>Focus</title>
+    <desc>Program Focus kami menghadirkan laporan eksklusif dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104125100 +0000" stop="20261104130000 +0000" channel="France 24.maxstream">
+    <title>Sports Matin</title>
+    <desc>Ulasan lengkap pertandingan olahraga pagi hari dengan sorotan atlet unggulan, hasil pertandingan, dan berita terbaru dari dunia olahraga.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104132200 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104132200 +0000" stop="20261104133000 +0000" channel="France 24.maxstream">
+    <title>Business</title>
+    <desc>Update harian tentang berita bisnis dan ekonomi terkini.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104134000 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104134000 +0000" stop="20261104134500 +0000" channel="France 24.maxstream">
+    <title>Focus</title>
+    <desc>Program Focus kami menghadirkan laporan eksklusif dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104134500 +0000" stop="20261104135100 +0000" channel="France 24.maxstream">
+    <title>Entre Nous</title>
+    <desc>Program diskusi ringan yang membahas isu sehari-hari dan fenomena sosial dari perspektif personal dan profesional.</desc>
+  </programme>
+  <programme start="20261104135100 +0000" stop="20261104135200 +0000" channel="France 24.maxstream">
+    <title>Introduction</title>
+    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
+  </programme>
+  <programme start="20261104135200 +0000" stop="20261104140000 +0000" channel="France 24.maxstream">
+    <title>Sports Matin</title>
+    <desc>Ulasan lengkap pertandingan olahraga pagi hari dengan sorotan atlet unggulan, hasil pertandingan, dan berita terbaru dari dunia olahraga.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104141500 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104141500 +0000" stop="20261104143000 +0000" channel="France 24.maxstream">
+    <title>Chronique Culture</title>
+    <desc>Saksikan berita seni harian atau mingguan. Segmen ini mencakup film, musik, sastra, dan seni visual dari perspektif internasional.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104144500 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104144500 +0000" stop="20261104145700 +0000" channel="France 24.maxstream">
+    <title>The 51%</title>
+    <desc>Pembawa acara menganalisis berbagai cara perempuan masa kini mendefinisikan ulang kebijakan pemerintah di seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104145700 +0000" stop="20261104150000 +0000" channel="France 24.maxstream">
+    <title>Fermeture De Tranche</title>
+    <desc>Rangkaian informasi tertentu berita dan peristiwa.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104154200 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104154200 +0000" stop="20261104155400 +0000" channel="France 24.maxstream">
+    <title>Talking Europe Part 2</title>
+    <desc>Para politisi, aktivis, dan peneliti memperdebatkan isu-isu yang dihadapi Uni Eropa, dan seorang &#039;tamu minggu ini&#039; menawarkan wawasan mereka dalam wawancara format panjang yang mengupas inti permasalahan.</desc>
+  </programme>
+  <programme start="20261104155400 +0000" stop="20261104160000 +0000" channel="France 24.maxstream">
+    <title>Short Cuts</title>
+    <desc>Topik-topik inspiratif dan inisiatif positif yang mengubah dunia.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104164500 +0000" channel="France 24.maxstream">
+    <title>News</title>
+    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
+  </programme>
+  <programme start="20261104164500 +0000" stop="20261104170000 +0000" channel="France 24.maxstream">
+    <title>France In Focus</title>
+    <desc>France In Focus adalah program yang menampilkan laporan berita khusus dari Perancis. Pandangan mendalam tentang peristiwa politik dan sosial yang membentuk Prancis.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102171500 +0000" channel="France 24.maxstream">
     <title>News</title>
@@ -42795,126 +42946,6 @@
     <title>France In Focus</title>
     <desc>France In Focus adalah program yang menampilkan laporan berita khusus dari Perancis. Pandangan mendalam tentang peristiwa politik dan sosial yang membentuk Prancis.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027114500 +0000" channel="France 24.maxstream">
-    <title>Bulletin</title>
-    <desc>Sebuah program bulletin France24</desc>
-  </programme>
-  <programme start="20261027114500 +0000" stop="20261027114600 +0000" channel="France 24.maxstream">
-    <title>Introduction</title>
-    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
-  </programme>
-  <programme start="20261027114600 +0000" stop="20261027115200 +0000" channel="France 24.maxstream">
-    <title>The Observers</title>
-    <desc>The Observers adalah acara berita mingguan diproduksi dengan foto, video dan akun pribadi dari France 24 dan pengamat di seluruh dunia  -  semua diperiksa oleh staf kami yang berada di Paris.</desc>
-  </programme>
-  <programme start="20261027115200 +0000" stop="20261027115700 +0000" channel="France 24.maxstream">
-    <title>Focus</title>
-    <desc>Program Focus kami menghadirkan laporan eksklusif dari seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027115700 +0000" stop="20261027120000 +0000" channel="France 24.maxstream">
-    <title>Fermeture De Tranche</title>
-    <desc>Rangkaian informasi tertentu berita dan peristiwa.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027121500 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027121500 +0000" stop="20261027121600 +0000" channel="France 24.maxstream">
-    <title>Introduction</title>
-    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
-  </programme>
-  <programme start="20261027121600 +0000" stop="20261027123000 +0000" channel="France 24.maxstream">
-    <title>Arts24</title>
-    <desc>Berita budaya dari ibu kota seni, kuliner, dan mode dunia, Paris.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027124500 +0000" channel="France 24.maxstream">
-    <title>Bulletin</title>
-    <desc>Sebuah program bulletin France24</desc>
-  </programme>
-  <programme start="20261027124500 +0000" stop="20261027124600 +0000" channel="France 24.maxstream">
-    <title>Introduction</title>
-    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
-  </programme>
-  <programme start="20261027124600 +0000" stop="20261027125100 +0000" channel="France 24.maxstream">
-    <title>Focus</title>
-    <desc>Program Focus kami menghadirkan laporan eksklusif dari seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027125100 +0000" stop="20261027130000 +0000" channel="France 24.maxstream">
-    <title>Sports Matin</title>
-    <desc>Ulasan lengkap pertandingan olahraga pagi hari dengan sorotan atlet unggulan, hasil pertandingan, dan berita terbaru dari dunia olahraga.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027132200 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027132200 +0000" stop="20261027133000 +0000" channel="France 24.maxstream">
-    <title>Business</title>
-    <desc>Update harian tentang berita bisnis dan ekonomi terkini.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027134000 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027134000 +0000" stop="20261027134500 +0000" channel="France 24.maxstream">
-    <title>Focus</title>
-    <desc>Program Focus kami menghadirkan laporan eksklusif dari seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027134500 +0000" stop="20261027135100 +0000" channel="France 24.maxstream">
-    <title>Entre Nous</title>
-    <desc>Program diskusi ringan yang membahas isu sehari-hari dan fenomena sosial dari perspektif personal dan profesional.</desc>
-  </programme>
-  <programme start="20261027135100 +0000" stop="20261027135200 +0000" channel="France 24.maxstream">
-    <title>Introduction</title>
-    <desc>Saksikan berbagai informasi dan berita internasional terupdate hanya di France24!</desc>
-  </programme>
-  <programme start="20261027135200 +0000" stop="20261027140000 +0000" channel="France 24.maxstream">
-    <title>Sports Matin</title>
-    <desc>Ulasan lengkap pertandingan olahraga pagi hari dengan sorotan atlet unggulan, hasil pertandingan, dan berita terbaru dari dunia olahraga.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027141500 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027141500 +0000" stop="20261027143000 +0000" channel="France 24.maxstream">
-    <title>Chronique Culture</title>
-    <desc>Saksikan berita seni harian atau mingguan. Segmen ini mencakup film, musik, sastra, dan seni visual dari perspektif internasional.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027144500 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027144500 +0000" stop="20261027145700 +0000" channel="France 24.maxstream">
-    <title>France In Focus</title>
-    <desc>France In Focus adalah program yang menampilkan laporan berita khusus dari Perancis. Pandangan mendalam tentang peristiwa politik dan sosial yang membentuk Prancis.</desc>
-  </programme>
-  <programme start="20261027145700 +0000" stop="20261027150000 +0000" channel="France 24.maxstream">
-    <title>Fermeture De Tranche</title>
-    <desc>Rangkaian informasi tertentu berita dan peristiwa.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027154200 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027154200 +0000" stop="20261027155400 +0000" channel="France 24.maxstream">
-    <title>Talking Europe</title>
-    <desc>Para politisi, aktivis, dan peneliti memperdebatkan isu-isu yang dihadapi Uni Eropa, dan memberikan wawasan mereka dalam wawancara format panjang yang mengupas inti permasalahan.</desc>
-  </programme>
-  <programme start="20261027155400 +0000" stop="20261027160000 +0000" channel="France 24.maxstream">
-    <title>Short Cuts</title>
-    <desc>Topik-topik inspiratif dan inisiatif positif yang mengubah dunia.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027164500 +0000" channel="France 24.maxstream">
-    <title>News</title>
-    <desc>Buletin berita internasional, disajikan langsung dari ruang redaksi.</desc>
-  </programme>
-  <programme start="20261027164500 +0000" stop="20261027170000 +0000" channel="France 24.maxstream">
-    <title>Reporters</title>
-    <desc>Laporan mendalam internasional dari tim Prancis 24 dan reporter senior kami di seluruh dunia.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="Arirang.maxstream">
     <title>Gugak The Music Of Korea - Eps. 146</title>
     <desc>Acara musik ikonik Arirang yang menampilkan penampilan panggung dari grup idol K-Pop populer dan pendatang baru paling bersinar tahun ini. Program ini memberikan pengalaman konser yang interaktif bagi penggemar global.</desc>
@@ -43074,6 +43105,62 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="Arirang.maxstream">
     <title>Newscenter - Eps. 1</title>
     <desc>Program berita utama Arirang TV yang menyajikan laporan mendalam mengenai peristiwa terkini di Korea Selatan dan berita internasional.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="Arirang.maxstream">
+    <title>Within The Frame - Eps. 1</title>
+    <desc>Mulai dari politik, ekonomi, kebijakan luar negeri, dan budaya, &quot;Within The Frame&quot; adalah program analisis mendalam harian yang membahas berbagai topik setiap harinya.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="Arirang.maxstream">
+    <title>K-Culture Dive - Eps. 3</title>
+    <desc>K-Culture Dive, kita akan menyelami lebih dalam inti budaya Korea, hiburan Korea sehari-hari dan berita budaya AI.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104125000 +0000" channel="Arirang.maxstream">
+    <title>K-Culture Minutes: K-Market - Eps. 1</title>
+    <desc>Rangkaian program budaya harian yang dirancang untuk mendekatkan pemirsa dengan budaya sehari-hari Korea.</desc>
+  </programme>
+  <programme start="20261104125000 +0000" stop="20261104130000 +0000" channel="Arirang.maxstream">
+    <title>Smartbiz Accelerators 2 - Eps. 491</title>
+    <desc>Serial dokumenter bisnis di Arirang TV yang menyoroti perusahaan kecil dan menengah. Serial ini menampilkan transformasi pabrik pintar, inovasi produksi, dan peningkatan digital.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104132000 +0000" channel="Arirang.maxstream">
+    <title>Arirang Special - Eps. 199</title>
+    <desc>Arirang Special menyajikan berita terkini tentang Nasional/Politik, Korea Utara, Ekonomi, IT-Sains, Kebijakan Luar Negeri, Dunia, Kehidupan-Budaya Korea.</desc>
+  </programme>
+  <programme start="20261104132000 +0000" stop="20261104133000 +0000" channel="Arirang.maxstream">
+    <title>Fishing In The Museum - Eps. 8</title>
+    <desc>Melihat museum dari sudut pandang berbeda. Menelusuri jejak sejarah dan seni melalui benda-benda antik yang menyimpan cerita unik, seolah memancing keluar fakta tersembunyi di balik koleksi museum ternama.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="Arirang.maxstream">
+    <title>Arirang Special - Eps. 240</title>
+    <desc>Arirang Special menyajikan berita terkini tentang Nasional/Politik, Korea Utara, Ekonomi, IT-Sains, Kebijakan Luar Negeri, Dunia, Kehidupan-Budaya Korea.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="Arirang.maxstream">
+    <title>Press Perspective - Eps. 3</title>
+    <desc>Press Perspective adalah sesi panel harian dengan anggota pers serta pakar yang membahas isu-isu menarik yang sebagian besar berkaitan dengan Afrika Selatan</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104145000 +0000" channel="Arirang.maxstream">
+    <title>The Grand Heritage Asmr - Eps. 15</title>
+    <desc>Seri dokumenter pendek yang dirancang untuk memperkenalkan kekayaan warisan budaya Korea Selatan kepada penonton global.</desc>
+  </programme>
+  <programme start="20261104145000 +0000" stop="20261104150000 +0000" channel="Arirang.maxstream">
+    <title>The Grand Heritage K-Asmr(10) - Eps. 1</title>
+    <desc>Seri dokumenter pendek yang dirancang untuk memperkenalkan kekayaan warisan budaya Korea Selatan kepada penonton global.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="Arirang.maxstream">
+    <title>News Generation - Eps. 3</title>
+    <desc>News Generation adalah program berita harian Arirang TV yang membahas tren terbaru dan isu-isu terkini yang memengaruhi masyarakat usia dua puluhan dan tiga puluhan.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="Arirang.maxstream">
+    <title>Trip In Korea - Eps. 13</title>
+    <desc>Melihat para host mencoba berbagai aktivitas seru, Mulai dari memanen bahan makanan, ikut festival lokal, sampai mengobrol dengan warga setempat. Ini memberikan gambaran nyata tentang gaya hidup orang Korea di luar kota besar.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="Arirang.maxstream">
+    <title>Premium Collection - Eps. 96</title>
+    <desc>Program kurasi yang menyajikan konten-konten berkualitas tinggi dari arsip Arirang.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="Arirang.maxstream">
+    <title>Arirang Special - Eps. 160</title>
+    <desc>Arirang Special menyajikan berita terkini tentang Nasional/Politik, Korea Utara, Ekonomi, IT-Sains, Kebijakan Luar Negeri, Dunia, Kehidupan-Budaya Korea.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102180000 +0000" channel="Arirang.maxstream">
     <title>Performarts Reload - Eps. 15</title>
@@ -44519,66 +44606,6 @@
     <title>Arirang Special - Eps. 157</title>
     <desc>Arirang Special menyajikan berita terkini tentang Nasional/Politik, Korea Utara, Ekonomi, IT-Sains, Kebijakan Luar Negeri, Dunia, Kehidupan-Budaya Korea.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="Arirang.maxstream">
-    <title>Within The Frame - Eps. 2</title>
-    <desc>Mulai dari politik, ekonomi, kebijakan luar negeri, dan budaya, &quot;Within The Frame&quot; adalah program analisis mendalam harian yang membahas berbagai topik setiap harinya.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="Arirang.maxstream">
-    <title>K-Culture Dive - Eps. 2</title>
-    <desc>K-Culture Dive, kita akan menyelami lebih dalam inti budaya Korea, hiburan Korea sehari-hari dan berita budaya AI.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027125000 +0000" channel="Arirang.maxstream">
-    <title>K-Culture Minutes: K-People - Eps. 43</title>
-    <desc>Rangkaian program budaya harian yang dirancang untuk mendekatkan pemirsa dengan budaya sehari-hari Korea.</desc>
-  </programme>
-  <programme start="20261027125000 +0000" stop="20261027130000 +0000" channel="Arirang.maxstream">
-    <title>Smartbiz Accelerators 2 - Eps. 485</title>
-    <desc>Serial dokumenter bisnis di Arirang TV yang menyoroti perusahaan kecil dan menengah. Serial ini menampilkan transformasi pabrik pintar, inovasi produksi, dan peningkatan digital.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027132000 +0000" channel="Arirang.maxstream">
-    <title>Arirang Special - Eps. 195</title>
-    <desc>Arirang Special menyajikan berita terkini tentang Nasional/Politik, Korea Utara, Ekonomi, IT-Sains, Kebijakan Luar Negeri, Dunia, Kehidupan-Budaya Korea.</desc>
-  </programme>
-  <programme start="20261027132000 +0000" stop="20261027133000 +0000" channel="Arirang.maxstream">
-    <title>Fishing In The Museum - Eps. 2</title>
-    <desc>Melihat museum dari sudut pandang berbeda. Menelusuri jejak sejarah dan seni melalui benda-benda antik yang menyimpan cerita unik, seolah memancing keluar fakta tersembunyi di balik koleksi museum ternama.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="Arirang.maxstream">
-    <title>Diplomat&#039;s Archive: Hidden Stories - Eps. 67</title>
-    <desc>Spesial program yang ditayangkan oleh Arirang TV Korea</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="Arirang.maxstream">
-    <title>Press Perspective - Eps. 2</title>
-    <desc>Press Perspective adalah sesi panel harian dengan anggota pers serta pakar yang membahas isu-isu menarik yang sebagian besar berkaitan dengan Afrika Selatan</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027145000 +0000" channel="Arirang.maxstream">
-    <title>The Grand Heritage Asmr - Eps. 10</title>
-    <desc>Seri dokumenter pendek yang dirancang untuk memperkenalkan kekayaan warisan budaya Korea Selatan kepada penonton global.</desc>
-  </programme>
-  <programme start="20261027145000 +0000" stop="20261027150000 +0000" channel="Arirang.maxstream">
-    <title>The Grand Heritage Four Seasons - Eps. 3</title>
-    <desc>Program ini menyajikan nilai sejarah dan kisah-kisah tersembunyi dari warisan budaya Korea yang mendunia dalam format yang estetis.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="Arirang.maxstream">
-    <title>News Generation - Eps. 2</title>
-    <desc>News Generation adalah program berita harian Arirang TV yang membahas tren terbaru dan isu-isu terkini yang memengaruhi masyarakat usia dua puluhan dan tiga puluhan.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="Arirang.maxstream">
-    <title>Trip In Korea - Eps. 7</title>
-    <desc>Melihat para host mencoba berbagai aktivitas seru, Mulai dari memanen bahan makanan, ikut festival lokal, sampai mengobrol dengan warga setempat. Ini memberikan gambaran nyata tentang gaya hidup orang Korea di luar kota besar.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027162000 +0000" channel="Arirang.maxstream">
-    <title>K-Culture Minutes: K-People - Eps. 39</title>
-    <desc>Rangkaian program budaya harian yang dirancang untuk mendekatkan pemirsa dengan budaya sehari-hari Korea.</desc>
-  </programme>
-  <programme start="20261027162000 +0000" stop="20261027163000 +0000" channel="Arirang.maxstream">
-    <title>Exploring Korean Literature B - Eps. 5</title>
-    <desc>Program edukasi budaya yang memperkenalkan kekayaan sastra Korea kepada pembaca global. Seri ini membahas perjalanan karya literatur Korea dari era klasik hingga modern.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="Arirang.maxstream">
-    <title>Regional Tastes: Chungcheong - Eps. 5</title>
-    <desc>Seri dokumenter yang didedikasikan untuk mencatat dan melestarikan kekayaan kuliner tradisional Korea dari berbagai provinsi.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="ANTARA TV.maxstream">
     <title>Jeda Kopi</title>
     <desc>Program yang berisi sajian musik, kuliner dan serba - serbi hiburan.</desc>
@@ -44726,6 +44753,50 @@
   <programme start="20261104110000 +0000" stop="20261104113000 +0000" channel="ANTARA TV.maxstream">
     <title>30 Menit</title>
     <desc>Talkshow ANTARA dengan menghadirkan narasumber membahas isu - isu penting.</desc>
+  </programme>
+  <programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="ANTARA TV.maxstream">
+    <title>Warung KPK</title>
+    <desc>Komedi situasi yang memotret tindakan korupsi dan pencegahannya.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104123000 +0000" channel="ANTARA TV.maxstream">
+    <title>Podcast ANTARA</title>
+    <desc>Podcast yang menyajikan obrolan santai dan ringan.</desc>
+  </programme>
+  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="ANTARA TV.maxstream">
+    <title>Hoaks atau Benar</title>
+    <desc>Acara sajian redaksi ANTARA yang menguji keakuratan isu - isu simpang siur di tengah masyarakat.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104133000 +0000" channel="ANTARA TV.maxstream">
+    <title>Jeda Kopi</title>
+    <desc>Program yang berisi sajian musik, kuliner dan serba - serbi hiburan.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="ANTARA TV.maxstream">
+    <title>Feature ANTARA</title>
+    <desc>Sajian karya dokumenter khas ANTARA yang menyajikan berbagai hal terkait Indonesia.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="ANTARA TV.maxstream">
+    <title>Layar Antirasuah</title>
+    <desc>Film - film independen karya sineas negeri yang berisi tentang isu - isu sosial kemasyarakatan.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="ANTARA TV.maxstream">
+    <title>Siar Kabar</title>
+    <desc>Berita ANTARA baik hardnews maupun softnews.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="ANTARA TV.maxstream">
+    <title>30 Menit</title>
+    <desc>Talkshow ANTARA dengan menghadirkan narasumber membahas isu - isu penting.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="ANTARA TV.maxstream">
+    <title>Warung KPK</title>
+    <desc>Komedi situasi yang memotret tindakan korupsi dan pencegahannya.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="ANTARA TV.maxstream">
+    <title>Podcast ANTARA</title>
+    <desc>Podcast yang menyajikan obrolan santai dan ringan.</desc>
+  </programme>
+  <programme start="20261104163000 +0000" stop="20261104170000 +0000" channel="ANTARA TV.maxstream">
+    <title>Hoaks atau Benar</title>
+    <desc>Acara sajian redaksi ANTARA yang menguji keakuratan isu - isu simpang siur di tengah masyarakat.</desc>
   </programme>
   <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="ANTARA TV.maxstream">
     <title>Jeda Kopi</title>
@@ -46071,50 +46142,6 @@
     <title>Hoaks atau Benar</title>
     <desc>Acara sajian redaksi ANTARA yang menguji keakuratan isu - isu simpang siur di tengah masyarakat.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="ANTARA TV.maxstream">
-    <title>Warung KPK</title>
-    <desc>Komedi situasi yang memotret tindakan korupsi dan pencegahannya.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="ANTARA TV.maxstream">
-    <title>Podcast ANTARA</title>
-    <desc>Podcast yang menyajikan obrolan santai dan ringan.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="ANTARA TV.maxstream">
-    <title>Hoaks atau Benar</title>
-    <desc>Acara sajian redaksi ANTARA yang menguji keakuratan isu - isu simpang siur di tengah masyarakat.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027133000 +0000" channel="ANTARA TV.maxstream">
-    <title>Jeda Kopi</title>
-    <desc>Program yang berisi sajian musik, kuliner dan serba - serbi hiburan.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="ANTARA TV.maxstream">
-    <title>Feature ANTARA</title>
-    <desc>Sajian karya dokumenter khas ANTARA yang menyajikan berbagai hal terkait Indonesia.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="ANTARA TV.maxstream">
-    <title>Layar Antirasuah</title>
-    <desc>Film - film independen karya sineas negeri yang berisi tentang isu - isu sosial kemasyarakatan.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="ANTARA TV.maxstream">
-    <title>Siar Kabar</title>
-    <desc>Berita ANTARA baik hardnews maupun softnews.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="ANTARA TV.maxstream">
-    <title>30 Menit</title>
-    <desc>Talkshow ANTARA dengan menghadirkan narasumber membahas isu - isu penting.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="ANTARA TV.maxstream">
-    <title>Warung KPK</title>
-    <desc>Komedi situasi yang memotret tindakan korupsi dan pencegahannya.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="ANTARA TV.maxstream">
-    <title>Podcast ANTARA</title>
-    <desc>Podcast yang menyajikan obrolan santai dan ringan.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027170000 +0000" channel="ANTARA TV.maxstream">
-    <title>Hoaks atau Benar</title>
-    <desc>Acara sajian redaksi ANTARA yang menguji keakuratan isu - isu simpang siur di tengah masyarakat.</desc>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="Al Jazeera.maxstream">
     <title>Silenced: The War On Journalism</title>
     <desc>Sebuah gambaran yang menggetarkan tentang pengorbanan tertinggi dalam dunia jurnalisme, yang diceritakan melalui kisah-kisah tentang keberanian, kehilangan, dan keyakinan yang tak tergoyahkan.</desc>
@@ -46224,6 +46251,34 @@
     <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
   </programme>
   <programme start="20261104110000 +0000" stop="20261104120000 +0000" channel="Al Jazeera.maxstream">
+    <title>Newshour</title>
+    <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="Al Jazeera.maxstream">
+    <title>Witness</title>
+    <desc>Setelah tiga gadis meninggal karena kanker di Meksiko, para ibu setempat bergabung dengan seorang ilmuwan untuk mencari tahu apakah pasokan air mereka bersifat radioaktif.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Al Jazeera.maxstream">
+    <title>Newshour</title>
+    <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="Al Jazeera.maxstream">
+    <title>News Live</title>
+    <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="Al Jazeera.maxstream">
+    <title>Fault Lines</title>
+    <desc>Seiring meningkatnya angka kematian di pusat penahanan imigrasi AS, Fault Lines menyelidiki kasus seorang pria yang meninggal dunia setelah berulang kali meminta perawatan medis.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="Al Jazeera.maxstream">
+    <title>News Live</title>
+    <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
+  </programme>
+  <programme start="20261104153000 +0000" stop="20261104160000 +0000" channel="Al Jazeera.maxstream">
+    <title>Inside Story</title>
+    <desc>Di balik berita utama, Al Jazeera mengupas inti berita hari ini. Al Jazeera mendapatkan kisah dari dalam dari beberapa pemikir terbaik di Timur Tengah dan sekitarnya.</desc>
+  </programme>
+  <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="Al Jazeera.maxstream">
     <title>Newshour</title>
     <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
   </programme>
@@ -47235,38 +47290,6 @@
     <title>Newshour</title>
     <desc>Berita terkini dan analisis mendalam dari seluruh dunia.</desc>
   </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="Al Jazeera.maxstream">
-    <title>Counting The Cost</title>
-    <desc>Negara-negara di seluruh dunia tenggelam dalam utang, mungkinkah itu memicu krisis keuangan global berikutnya?</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027130000 +0000" channel="Al Jazeera.maxstream">
-    <title>Al Jazeera World</title>
-    <desc>Al Jazeera merupakan sumber berita tepercaya di dunia Arab dan Muslim serta saluran utama untuk liputan konflik di Timur Tengah.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="Al Jazeera.maxstream">
-    <title>Newshour</title>
-    <desc>Berita terkini dan analisis mendalam dari seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="Al Jazeera.maxstream">
-    <title>News Live</title>
-    <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027150000 +0000" channel="Al Jazeera.maxstream">
-    <title>Making Peace</title>
-    <desc>Di Rwanda pasca-genosida, pertemuan-pertemuan yang penuh ketegangan ini membuat para penyintas dan pelaku berhadapan dengan masa lalu guna membuka kembali jalan menuju hidup berdampingan.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="Al Jazeera.maxstream">
-    <title>News Live</title>
-    <desc>Berita dan analisis terkini dari seluruh dunia.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="Al Jazeera.maxstream">
-    <title>Inside Story</title>
-    <desc>Di balik berita utama, Al Jazeera mengupas inti berita hari ini. Al Jazeera mendapatkan kisah dari dalam dari beberapa pemikir terbaik di Timur Tengah dan sekitarnya.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027170000 +0000" channel="Al Jazeera.maxstream">
-    <title>Newshour</title>
-    <desc>Berita terkini dan analisis mendalam dari seluruh dunia.</desc>
-  </programme>
   <programme start="20261103173500 +0000" stop="20261103180000 +0000" channel="ABC Australia.maxstream">
     <title>Extraordinary Animals - Eps. 2</title>
     <desc>Menelusuri kecerdasan dan kemampuan luar biasa satwa di seluruh dunia yang terus mengejutkan para peneliti dan pencinta alam.</desc>
@@ -47348,6 +47371,42 @@
     <desc>Berita internasional dari berbagai benua, menampilkan laporan terkini, wawancara tokoh penting, dan analisis isu global yang memengaruhi hubungan antarnegara.</desc>
   </programme>
   <programme start="20261104105500 +0000" stop="20261104114500 +0000" channel="ABC Australia.maxstream">
+    <title>Four Corners - Eps. 36</title>
+    <desc>Christian Brothers, ordo Katolik dengan tuduhan kekerasan terbanyak di Australia, menyatakan diri bangkrut di tengah investigasi program Four Corners mengenai krisis keuangan yang melanda lembaga tersebut.</desc>
+  </programme>
+  <programme start="20261104114500 +0000" stop="20261104120000 +0000" channel="ABC Australia.maxstream">
+    <title>Media Watch - Eps. 39</title>
+    <desc>Acara kritik media yang menilai akurasi pemberitaan, etika jurnalistik, dan bias, membantu pemirsa memahami kualitas informasi.</desc>
+  </programme>
+  <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="ABC Australia.maxstream">
+    <title>Landline - Eps. 38</title>
+    <desc>Penyerbu antar negara bagian yang merugikan jutaan dolar di wilayah Riverland, Australia Selatan; dan dampak lingkungan dari rumput buffel.</desc>
+  </programme>
+  <programme start="20261104130000 +0000" stop="20261104131500 +0000" channel="ABC Australia.maxstream">
+    <title>ABC Late News - Eps. 220</title>
+    <desc>Berita malam hari yang merangkum peristiwa terkini, laporan langsung, dan ringkasan penting dari perkembangan sepanjang hari di Australia dan dunia.</desc>
+  </programme>
+  <programme start="20261104131500 +0000" stop="20261104133000 +0000" channel="ABC Australia.maxstream">
+    <title>The Business - Eps. 159</title>
+    <desc>Program ekonomi yang membahas pasar, kebijakan, dan tren keuangan, membantu pemirsa memahami dampak keputusan bisnis terhadap kehidupan sehari-hari.</desc>
+  </programme>
+  <programme start="20261104133000 +0000" stop="20261104140000 +0000" channel="ABC Australia.maxstream">
+    <title>7.30 - Eps. 175</title>
+    <desc>Program investigasi dan analisis berita malam, menghadirkan laporan eksklusif, wawancara tajam, serta liputan isu politik dan sosial yang memengaruhi publik Australia.</desc>
+  </programme>
+  <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="ABC Australia.maxstream">
+    <title>The World - Eps. 175</title>
+    <desc>Berita internasional dari berbagai benua, menampilkan laporan terkini, wawancara tokoh penting, dan analisis isu global yang memengaruhi hubungan antarnegara.</desc>
+  </programme>
+  <programme start="20261104150000 +0000" stop="20261104155500 +0000" channel="ABC Australia.maxstream">
+    <title>Grand Designs Australia - Blue Mountains Tardis</title>
+    <desc>Nick, seorang tukang bangunan, berharap dapat membangun rumah impian bagi istrinya, Rachel, di Pegunungan Biru yang indah; sebuah tempat yang untuk pertama kalinya dalam hidupnya, akhirnya dapat ia sebut sebagai rumah.</desc>
+  </programme>
+  <programme start="20261104155500 +0000" stop="20261104162500 +0000" channel="ABC Australia.maxstream">
+    <title>That Pacific Sports Show - IRL Rugby League World Cup Special</title>
+    <desc>Sam Wykes dan Tinirau Arona menghadirkan kisah-kisah tentang persaingan antar negara-negara rugby league terbaik di dunia, menampilkan wawancara eksklusif dengan beberapa pemain, pelatih, dan tokoh terkemuka di dunia rugby.</desc>
+  </programme>
+  <programme start="20261104162500 +0000" stop="20261104171500 +0000" channel="ABC Australia.maxstream">
     <title>Four Corners - Eps. 36</title>
     <desc>Christian Brothers, ordo Katolik dengan tuduhan kekerasan terbanyak di Australia, menyatakan diri bangkrut di tengah investigasi program Four Corners mengenai krisis keuangan yang melanda lembaga tersebut.</desc>
   </programme>
@@ -48134,49 +48193,5 @@
   <programme start="20261028162500 +0000" stop="20261028171500 +0000" channel="ABC Australia.maxstream">
     <title>Four Corners - Eps. 35</title>
     <desc>Christian Brothers, ordo Katolik dengan tuduhan kekerasan terbanyak di Australia, menyatakan diri bangkrut di tengah investigasi program Four Corners mengenai krisis keuangan yang melanda lembaga tersebut.</desc>
-  </programme>
-  <programme start="20261027113000 +0000" stop="20261027120000 +0000" channel="ABC Australia.maxstream">
-    <title>Stuff The British Stole - Shadow Boxer</title>
-    <desc>Marc Fennell membongkar kebenaran kelam di balik minuman paling digemari di dunia. Diminum oleh jutaan orang setiap hari, kisah teh adalah kisah tentang mata-mata, spionase, dan kartel narkoba terbesar di dunia.</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261027123000 +0000" channel="ABC Australia.maxstream">
-    <title>Roads Unknown India - Eps. 4</title>
-    <desc>Serial ini mengeksplorasi beragam budaya, masyarakat pedesaan, situs bersejarah kuno, tradisi lokal, dan medan yang menantang, serta menyoroti ikatan antarmanusia dan ketangguhan yang ditemukan di seluruh anak benua India.</desc>
-  </programme>
-  <programme start="20261027123000 +0000" stop="20261027130000 +0000" channel="ABC Australia.maxstream">
-    <title>Extraordinary Animals - Eps. 1</title>
-    <desc>Menelusuri kecerdasan dan kemampuan luar biasa satwa di seluruh dunia yang terus mengejutkan para peneliti dan pencinta alam.</desc>
-  </programme>
-  <programme start="20261027130000 +0000" stop="20261027131500 +0000" channel="ABC Australia.maxstream">
-    <title>ABC Late News - Eps. 214</title>
-    <desc>Berita malam hari yang merangkum peristiwa terkini, laporan langsung, dan ringkasan penting dari perkembangan sepanjang hari di Australia dan dunia.</desc>
-  </programme>
-  <programme start="20261027131500 +0000" stop="20261027133000 +0000" channel="ABC Australia.maxstream">
-    <title>The Business - Eps. 154</title>
-    <desc>Program ekonomi yang membahas pasar, kebijakan, dan tren keuangan, membantu pemirsa memahami dampak keputusan bisnis terhadap kehidupan sehari-hari.</desc>
-  </programme>
-  <programme start="20261027133000 +0000" stop="20261027140000 +0000" channel="ABC Australia.maxstream">
-    <title>7.30 - Eps. 170</title>
-    <desc>Program investigasi dan analisis berita malam, menghadirkan laporan eksklusif, wawancara tajam, serta liputan isu politik dan sosial yang memengaruhi publik Australia.</desc>
-  </programme>
-  <programme start="20261027140000 +0000" stop="20261027150000 +0000" channel="ABC Australia.maxstream">
-    <title>The World - Eps. 170</title>
-    <desc>Berita internasional dari berbagai benua, menampilkan laporan terkini, wawancara tokoh penting, dan analisis isu global yang memengaruhi hubungan antarnegara.</desc>
-  </programme>
-  <programme start="20261027150000 +0000" stop="20261027153000 +0000" channel="ABC Australia.maxstream">
-    <title>Landline  - Eps. 36</title>
-    <desc>Penyerbu antar negara bagian yang merugikan jutaan dolar di wilayah Riverland, Australia Selatan; dan dampak lingkungan dari rumput buffel.</desc>
-  </programme>
-  <programme start="20261027153000 +0000" stop="20261027160000 +0000" channel="ABC Australia.maxstream">
-    <title>Back Roads - Bordertown, SA</title>
-    <desc>Heather Ewart mengunjungi wilayah pedalaman Australia untuk bertemu komunitas yang inspiratif. Menampilkan keindahan alam desa serta ketangguhan warga lokal yang menjaga tradisi dan semangat gotong royong.</desc>
-  </programme>
-  <programme start="20261027160000 +0000" stop="20261027163000 +0000" channel="ABC Australia.maxstream">
-    <title>Australian Story - Eps. 34</title>
-    <desc>Play School merayakan 60 tahun penayangannya, apa rahasianya bisa bertahan? Australian Story menelusuri proses kreatifnya dengan menyajikan wawasan dari para pemeran serta kru, baik yang terdahulu maupun saat ini.</desc>
-  </programme>
-  <programme start="20261027163000 +0000" stop="20261027173500 +0000" channel="ABC Australia.maxstream">
-    <title>Gardening Australia - Eps. 10</title>
-    <desc>Cara memaksimalkan balkon dan ruang kecil. Costa dan Sophie membantu pasangan mengubah balkon mereka, Tammy membuat taman vertikal, Costa menanam bahan-bahan untuk spanakopita, dan kami mengunjunginya.</desc>
   </programme>
 </tv>

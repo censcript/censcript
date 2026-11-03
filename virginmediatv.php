@@ -3748,7 +3748,7 @@
 <programme start="20261103050000 +0000" stop="20261103070000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261103120000 +0000" stop="20261103193000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261103120000 +0000" stop="20261103180000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live Tennis: ATP Paris Masters 2026 - Day 2</title>
 </programme>
 <programme start="20261103000000 +0000" stop="20261103003000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
@@ -4219,7 +4219,7 @@
 <programme start="20261103050000 +0000" stop="20261103060000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - WTA Final</title>
 </programme>
-<programme start="20261103120000 +0000" stop="20261103220000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
+<programme start="20261103120000 +0000" stop="20261103180000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Live Tennis: ATP Paris Masters 2026 - Day 2</title>
 </programme>
 <programme start="20261102233000 +0000" stop="20261103070000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
@@ -4615,7 +4615,7 @@
 <programme start="20261103050000 +0000" stop="20261103070000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261103120000 +0000" stop="20261103193000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261103120000 +0000" stop="20261103180000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live Tennis: ATP Paris Masters 2026 - Day 2</title>
 </programme>
 <programme start="20261103000000 +0000" stop="20261103003000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
@@ -5086,7 +5086,7 @@
 <programme start="20261103050000 +0000" stop="20261103060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Italian Open 2026 - WTA Final</title>
 </programme>
-<programme start="20261103120000 +0000" stop="20261103220000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20261103120000 +0000" stop="20261103180000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: ATP Paris Masters 2026 - Day 2</title>
 </programme>
 <programme start="20261103000000 +0000" stop="20261103010000 +0000" channel="Sky_Sports_F1.virginmediatv">
@@ -6124,7 +6124,7 @@
 <programme start="20261102185800 +0000" stop="20261103025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261103025800 +0000" stop="20261103070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261103025800 +0000" stop="20261103060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261103115000 +0000" stop="20261103121000 +0000" channel="CBBC.virginmediatv">

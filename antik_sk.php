@@ -2986,10 +2986,10 @@
   <programme start="20261105045900 +0000" stop="20261105080000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Studio 6</title>
   </programme>
-  <programme start="20261105080000 +0000" stop="20261105085100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261105080000 +0000" stop="20261105085000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na krok od nebe VII (1)</title>
   </programme>
-  <programme start="20261105085100 +0000" stop="20261105092500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261105085000 +0000" stop="20261105092500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kluci v akci</title>
   </programme>
   <programme start="20261105092500 +0000" stop="20261105102500 +0000" channel="ČT1.webtv.sk">
@@ -3013,17 +3013,17 @@
   <programme start="20261105130000 +0000" stop="20261105135000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (10)</title>
   </programme>
-  <programme start="20261105135000 +0000" stop="20261105140300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261105135000 +0000" stop="20261105140000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Chvíle pro písničku</title>
   </programme>
-  <programme start="20261105140300 +0000" stop="20261105145000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261105140000 +0000" stop="20261105145000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výborná SHOW</title>
   </programme>
   <programme start="20261105145000 +0000" stop="20261105154500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na krok od nebe VII (2)</title>
   </programme>
   <programme start="20261105154500 +0000" stop="20261105161500 +0000" channel="ČT1.webtv.sk">
-    <title lang="id">Rozpleteno</title>
+    <title lang="id">Toulavá kamera</title>
   </programme>
   <programme start="20261105161500 +0000" stop="20261105164000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
@@ -5360,7 +5360,7 @@
     <title lang="id">Rození obchodníci vyrážejí do světa III: Italy III (3)</title>
   </programme>
   <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="Discovery.webtv.sk">
-    <title lang="id">Ant Anstead: Rozený mechanik II: Austin 7 (7) I (7)</title>
+    <title lang="id">Ant Anstead: Rozený mechanik II: Austin 7 (7) II (7)</title>
   </programme>
   <programme start="20261105030000 +0000" stop="20261105040000 +0000" channel="Discovery.webtv.sk">
     <title lang="id">Rychle a hlasitě VI (10)</title>

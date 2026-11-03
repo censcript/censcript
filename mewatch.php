@@ -751,3 +751,15 @@
     <programme start="20261104160000 +0000" stop="20261105160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 8th November, Sunday 4.30pm. Tour de France EFGH Singapore Criterium 2026</title>
     </programme>
+    <programme start="20261103160000 +0000" stop="20261104160000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th November, Thursday 05.50pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs Adelaide United FC</title>
+    </programme>
+    <programme start="20261104160000 +0000" stop="20261105095000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th November, Thursday 05.50pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs Adelaide United FC</title>
+    </programme>
+    <programme start="20261103160000 +0000" stop="20261104160000 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th November, Thursday 8.05pm. AFC Champions League Two 2026/27: Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC</title>
+    </programme>
+    <programme start="20261104160000 +0000" stop="20261105120500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 5th November, Thursday 8.05pm. AFC Champions League Two 2026/27: Preah Khan Reach Svay Rieng FC vs Tampines Rovers FC</title>
+    </programme>
