@@ -188,10 +188,10 @@
     <title>The Listening Post</title>
 </programme>
 <programme start="20261103150000 +0000" stop="20261103160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
+    <title>U.S. Midterms 2026</title>
 </programme>
 <programme start="20261103160000 +0000" stop="20261103163000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
+    <title>U.S. Midterms 2026</title>
 </programme>
 <programme start="20261102170000 +0000" stop="20261102190000 +0000" channel="Al Quran Al Kareem.mncvision">
     <title>Live From Mekkah</title>
