@@ -634,14 +634,8 @@
 <programme start="20261103093000 +0000" stop="20261103104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261103104500 +0000" stop="20261103131500 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari 2</title>
-</programme>
 <programme start="20261103131500 +0000" stop="20261103143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261103143000 +0000" stop="20261103163000 +0000" channel="ANTV.vision">
-<title>Dongkrak Antik</title>
 </programme>
 <programme start="20261103163000 +0000" stop="20261103181500 +0000" channel="ANTV.vision">
 <title>Faithfully Yours</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261103090300 +0000" stop="20261103093000 +0000" channel="TVRI.vision">
 <title>Ragam Kain Nusantara</title>
+</programme>
+<programme start="20261103093000 +0000" stop="20261103100000 +0000" channel="TVRI.vision">
+<title>Ngulik Negeri</title>
+</programme>
+<programme start="20261103100000 +0000" stop="20261103100300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
 </programme>

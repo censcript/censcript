@@ -250,40 +250,19 @@
   <programme start="20261105003000 +0000" stop="20261105003500 +0000" channel=":24.webtv.sk">
     <title lang="id">Počasie</title>
   </programme>
-  <programme start="20261105003500 +0000" stop="20261105010500 +0000" channel=":24.webtv.sk">
+  <programme start="20261105003500 +0000" stop="20261105010000 +0000" channel=":24.webtv.sk">
     <title lang="id">Ekonomika 24</title>
   </programme>
-  <programme start="20261105010500 +0000" stop="20261105013000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Svet 24</title>
+  <programme start="20261105010000 +0000" stop="20261105033000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Záznam z rokovania NR SR</title>
   </programme>
-  <programme start="20261105013000 +0000" stop="20261105020000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Z prvej ruky</title>
-  </programme>
-  <programme start="20261105020000 +0000" stop="20261105022500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20261105022500 +0000" stop="20261105025000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy 24</title>
-  </programme>
-  <programme start="20261105025000 +0000" stop="20261105031000 +0000" channel=":24.webtv.sk">
-    <title lang="id">Góly - body - sekundy</title>
-  </programme>
-  <programme start="20261105031000 +0000" stop="20261105031500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Počasie</title>
-  </programme>
-  <programme start="20261105031500 +0000" stop="20261105034500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Správy z regiónov</title>
-  </programme>
-  <programme start="20261105034500 +0000" stop="20261105042500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Komentáre dňa</title>
-  </programme>
-  <programme start="20261105042500 +0000" stop="20261105045500 +0000" channel=":24.webtv.sk">
-    <title lang="id">Interview 24</title>
-  </programme>
-  <programme start="20261105045500 +0000" stop="20261105052000 +0000" channel=":24.webtv.sk">
+  <programme start="20261105040000 +0000" stop="20261105042500 +0000" channel=":24.webtv.sk">
     <title lang="id">Ekonomika 24</title>
   </programme>
-  <programme start="20261105052000 +0000" stop="20261105060000 +0000" channel=":24.webtv.sk">
+  <programme start="20261105042500 +0000" stop="20261105045000 +0000" channel=":24.webtv.sk">
+    <title lang="id">Interview 24</title>
+  </programme>
+  <programme start="20261105045000 +0000" stop="20261105060000 +0000" channel=":24.webtv.sk">
     <title lang="id">Svet 24</title>
   </programme>
   <programme start="20261105060000 +0000" stop="20261105073000 +0000" channel=":24.webtv.sk">
@@ -2609,7 +2588,7 @@
     <title lang="id">Šlágr mišmaš</title>
   </programme>
   <programme start="20261105050000 +0000" stop="20261105060000 +0000" channel="Šláger Originál.webtv.sk">
-    <title lang="id">Vstáváme s dechovkou</title>
+    <title lang="id">Ranní budíček</title>
   </programme>
   <programme start="20261105060000 +0000" stop="20261105080000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Ráno s námi</title>
@@ -2632,20 +2611,38 @@
   <programme start="20261105160000 +0000" stop="20261105170000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Zábava na Šlágru</title>
   </programme>
-  <programme start="20261105170000 +0000" stop="20261105192000 +0000" channel="Šláger Originál.webtv.sk">
+  <programme start="20261105170000 +0000" stop="20261105185000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Poklady našeho archivu</title>
+  </programme>
+  <programme start="20261105185000 +0000" stop="20261105192000 +0000" channel="Šláger Originál.webtv.sk">
+    <title lang="id">Sázka na hit iii</title>
   </programme>
   <programme start="20261105192000 +0000" stop="20261105230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Večerní pořad</title>
   </programme>
-  <programme start="20261104230000 +0000" stop="20261105070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261104230000 +0000" stop="20261105050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
   </programme>
-  <programme start="20261105070000 +0000" stop="20261105113000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261105050000 +0000" stop="20261105060000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
+  </programme>
+  <programme start="20261105060000 +0000" stop="20261105070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Harmoniky</title>
+  </programme>
+  <programme start="20261105070000 +0000" stop="20261105110000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
-  <programme start="20261105113000 +0000" stop="20261105133000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261105110000 +0000" stop="20261105111500 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Poledne</title>
+  </programme>
+  <programme start="20261105111500 +0000" stop="20261105113000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Staropražské melodie</title>
+  </programme>
+  <programme start="20261105113000 +0000" stop="20261105123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
+  </programme>
+  <programme start="20261105123000 +0000" stop="20261105133000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20261105133000 +0000" stop="20261105183000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
@@ -4156,31 +4153,31 @@
   <programme start="20261105050000 +0000" stop="20261105052500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Ve dvou se to lépe vaří (recepty) (6, 7)</title>
   </programme>
-  <programme start="20261105052500 +0000" stop="20261105062000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105052500 +0000" stop="20261105061500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla V (18)</title>
   </programme>
-  <programme start="20261105062000 +0000" stop="20261105071500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105061500 +0000" stop="20261105071000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zahradní proměny IX (34)</title>
   </programme>
-  <programme start="20261105071500 +0000" stop="20261105080500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105071000 +0000" stop="20261105080500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly IX (3)</title>
   </programme>
   <programme start="20261105080500 +0000" stop="20261105090000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly IX (4)</title>
   </programme>
-  <programme start="20261105090000 +0000" stop="20261105100000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105090000 +0000" stop="20261105095500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG VIII (3)</title>
   </programme>
-  <programme start="20261105100000 +0000" stop="20261105110000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105095500 +0000" stop="20261105105500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">JAG VIII (4)</title>
   </programme>
-  <programme start="20261105110000 +0000" stop="20261105132500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105105500 +0000" stop="20261105132000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Mé jméno je Nikdo</title>
   </programme>
-  <programme start="20261105132500 +0000" stop="20261105142000 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105132000 +0000" stop="20261105141500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Vražedná čísla V (19)</title>
   </programme>
-  <programme start="20261105142000 +0000" stop="20261105151500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105141500 +0000" stop="20261105151500 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly IX (5)</title>
   </programme>
   <programme start="20261105151500 +0000" stop="20261105161500 +0000" channel="Seznam.cz TV.webtv.sk">
@@ -4204,7 +4201,7 @@
   <programme start="20261105213000 +0000" stop="20261105224000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">7 pádů Honzy Dědka (9)</title>
   </programme>
-  <programme start="20261105224000 +0000" stop="20261105233500 +0000" channel="Seznam.cz TV.webtv.sk">
+  <programme start="20261105224000 +0000" stop="20261105234000 +0000" channel="Seznam.cz TV.webtv.sk">
     <title lang="id">Zákon a pořádek: Zločinné úmysly IX (5)</title>
   </programme>
   <programme start="20261104221000 +0000" stop="20261104231500 +0000" channel="Barrandov.webtv.sk">
@@ -16789,8 +16786,65 @@
   <programme start="20261105143000 +0000" stop="20261105145000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">The Grand Heritage Asmr</title>
   </programme>
-  <programme start="20261105145000 +0000" stop="20261105175000 +0000" channel="Arirang TV.webtv.sk">
+  <programme start="20261105145000 +0000" stop="20261105150000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">The Grand Heritage K-asmr</title>
+  </programme>
+  <programme start="20261105150000 +0000" stop="20261105153000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">News Generation</title>
+  </programme>
+  <programme start="20261105153000 +0000" stop="20261105160000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Trip In Korea</title>
+  </programme>
+  <programme start="20261105160000 +0000" stop="20261105163000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Discover World</title>
+  </programme>
+  <programme start="20261105163000 +0000" stop="20261105165000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-sports Beyond</title>
+  </programme>
+  <programme start="20261105165000 +0000" stop="20261105170000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Heritage Walks With Little Friend</title>
+  </programme>
+  <programme start="20261105170000 +0000" stop="20261105180000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Simply K-pop</title>
+  </programme>
+  <programme start="20261105180000 +0000" stop="20261105183000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Dive</title>
+  </programme>
+  <programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Beauty On And Off</title>
+  </programme>
+  <programme start="20261105190000 +0000" stop="20261105193000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Within The Frame</title>
+  </programme>
+  <programme start="20261105193000 +0000" stop="20261105195000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-stage</title>
+  </programme>
+  <programme start="20261105195000 +0000" stop="20261105200000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Living Sea Of Jeju</title>
+  </programme>
+  <programme start="20261105200000 +0000" stop="20261105203000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Moo No Plan</title>
+  </programme>
+  <programme start="20261105203000 +0000" stop="20261105205000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage Asmr</title>
+  </programme>
+  <programme start="20261105205000 +0000" stop="20261105210000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">The Grand Heritage K-asmr</title>
+  </programme>
+  <programme start="20261105210000 +0000" stop="20261105220000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Simply K-pop</title>
+  </programme>
+  <programme start="20261105220000 +0000" stop="20261105221500 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-people</title>
+  </programme>
+  <programme start="20261105221500 +0000" stop="20261105223000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-culture Minutes: K-people</title>
+  </programme>
+  <programme start="20261105223000 +0000" stop="20261105225000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">K-sports Beyond</title>
+  </programme>
+  <programme start="20261105225000 +0000" stop="20261105230000 +0000" channel="Arirang TV.webtv.sk">
+    <title lang="id">Heritage Walks With Little Friend</title>
   </programme>
   <programme start="20261104230000 +0000" stop="20261104233000 +0000" channel="TRT World.webtv.sk">
     <title lang="id">News</title>

@@ -232,67 +232,67 @@
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
   </programme>
-  <programme channel="204" start="20261103160000 +0000" stop="20261103174500 +0000">
+  <programme channel="204" start="20261103160000 +0000" stop="20261103172600 +0000">
     <title lang="id">FTV Primetime: Manten Dikejar Mantan</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261103160000 +0000" stop="20261103174500 +0000">
+  <programme channel="204" start="20261103160000 +0000" stop="20261103172600 +0000">
     <title lang="id">FTV Primetime: Manten Dikejar Mantan</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261103174500 +0000" stop="20261103200000 +0000">
+  <programme channel="204" start="20261103172600 +0000" stop="20261103200000 +0000">
     <title lang="id">Galatasaray Vs Stuttgart - Uefa Champions League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261103200000 +0000" stop="20261103220000 +0000">
+  <programme channel="204" start="20261103200000 +0000" stop="20261103215400 +0000">
     <title lang="id">Barcelona Vs Aston Villa - Uefa Champions League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261103220000 +0000" stop="20261103230000 +0000">
+  <programme channel="204" start="20261103215400 +0000" stop="20261103230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/aEb791fSYLvgk4425GDkSJUw-GY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419599/2619fe.png"/>
   </programme>
-  <programme channel="204" start="20261103230000 +0000" stop="20261104000000 +0000">
+  <programme channel="204" start="20261103230000 +0000" stop="20261104001300 +0000">
     <title lang="id">Hot Shot</title>
     <icon src="https://thumbor.prod.vidiocdn.com/GYmeH7x3PXYQQVxHKcqc4u2C_4k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382433/e64ad9.jpg"/>
   </programme>
-  <programme channel="204" start="20261104000000 +0000" stop="20261104010000 +0000">
+  <programme channel="204" start="20261104001300 +0000" stop="20261104011800 +0000">
     <title lang="id">Tiba Tiba Kuis</title>
     <desc lang="id">Kuis kejutan dimana Para pembawa acara akan datang secara tiba-tiba ke lokasi pemirsa tanpa pemberitahuan untuk memberikan tantangan games yang lucu dan menyentuh. Dipandu oleh Baim Wong, Asri Welas, dan Anna Jobling. Saksikan, hanya di saluran televisi SCTV Satu Untuk Semua.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1EUeMSUt82iskEKXnfT9rieiAqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/407932/7e1a8b.jpg"/>
   </programme>
-  <programme channel="204" start="20261104010000 +0000" stop="20261104030000 +0000">
+  <programme channel="204" start="20261104011800 +0000" stop="20261104025600 +0000">
     <title lang="id">FTV Pagi Spesial: Ratu Tutut Si Miss Halu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ubAmCDsZEqR4vlH6ULd0ANlDYdM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419670/d4bd24.jpg"/>
   </programme>
-  <programme channel="204" start="20261104030000 +0000" stop="20261104050000 +0000">
+  <programme channel="204" start="20261104025600 +0000" stop="20261104044700 +0000">
     <title lang="id">FTV Pagi: Karena Cinta Butuh Sandaran Hati</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/wRP3UyeG1fj9NSzf0_POIDP_kAE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419671/d8ba09.jpg"/>
   </programme>
-  <programme channel="204" start="20261104050000 +0000" stop="20261104053000 +0000">
+  <programme channel="204" start="20261104044700 +0000" stop="20261104052300 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/ZronzhjrheANeGJMdCrJi0DVCM8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419617/90cc10.png"/>
   </programme>
-  <programme channel="204" start="20261104053000 +0000" stop="20261104100000 +0000">
+  <programme channel="204" start="20261104052300 +0000" stop="20261104100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/K78c9btINodshXV0IaTeFpxD4VE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419624/bc0aba.jpg"/>
   </programme>
-  <programme channel="204" start="20261104100000 +0000" stop="20261104111500 +0000">
+  <programme channel="204" start="20261104100000 +0000" stop="20261104112200 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261104111500 +0000" stop="20261104130000 +0000">
+  <programme channel="204" start="20261104112200 +0000" stop="20261104125500 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261104130000 +0000" stop="20261104143000 +0000">
+  <programme channel="204" start="20261104125500 +0000" stop="20261104143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
@@ -350,7 +350,7 @@
   <programme channel="204" start="20261105053000 +0000" stop="20261105100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
   </programme>
   <programme channel="204" start="20261105100000 +0000" stop="20261105111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -2993,22 +2993,22 @@
     <desc lang="id">Mega Bollywood : Koi Mil Gaya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/zGii1oEK4ETsTtSw6MdQ7C69FV8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415226/35b86f.png"/>
   </programme>
-  <programme channel="782" start="20261103060000 +0000" stop="20261103073000 +0000">
+  <programme channel="782" start="20261103060000 +0000" stop="20261103073400 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2w9dufWtBzg19wM7L2XE02INq90=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415195/143833.jpg"/>
   </programme>
-  <programme channel="782" start="20261103073000 +0000" stop="20261103093000 +0000">
+  <programme channel="782" start="20261103073400 +0000" stop="20261103093400 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/o7mX5BTTKBj7POp94bInbEOdWRY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415202/86e368.jpg"/>
   </programme>
-  <programme channel="782" start="20261103093000 +0000" stop="20261103104500 +0000">
+  <programme channel="782" start="20261103093400 +0000" stop="20261103110700 +0000">
     <title lang="id">Naagin 1</title>
     <desc lang="id">Naagin 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261103104500 +0000" stop="20261103131500 +0000">
+  <programme channel="782" start="20261103110700 +0000" stop="20261103131500 +0000">
     <title lang="id">Sinema Spesial Rhoma Irama : Menggapai Matahari 2</title>
     <desc lang="id">Sinema Spesial Rhoma Irama : Menggapai Matahari 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -5517,6 +5517,98 @@
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
   <programme channel="6441" start="20261103163000 +0000" stop="20261103170000 +0000">
+    <title lang="id">Klik Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261103170000 +0000" stop="20261103210000 +0000">
+    <title lang="id">TVRI Program</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261103210000 +0000" stop="20261103213000 +0000">
+    <title lang="id">Jejak Islam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261103213000 +0000" stop="20261103230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261103230000 +0000" stop="20261104000000 +0000">
+    <title lang="id">Klik Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104000000 +0000" stop="20261104010000 +0000">
+    <title lang="id">Jendela Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104010000 +0000" stop="20261104020000 +0000">
+    <title lang="id">Bersama Perempuan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104020000 +0000" stop="20261104023000 +0000">
+    <title lang="id">Sepiring Rasa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104023000 +0000" stop="20261104030000 +0000">
+    <title lang="id">Mimbar Agama Hindu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104030000 +0000" stop="20261104033000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104033000 +0000" stop="20261104040000 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104040000 +0000" stop="20261104050000 +0000">
+    <title lang="id">Seblak Show</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104050000 +0000" stop="20261104063000 +0000">
+    <title lang="id">Berita Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104063000 +0000" stop="20261104090000 +0000">
+    <title lang="id">AMI Awards 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104090000 +0000" stop="20261104093000 +0000">
+    <title lang="id">Masakan Khas Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104093000 +0000" stop="20261104100000 +0000">
+    <title lang="id">Bumi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104100000 +0000" stop="20261104103000 +0000">
+    <title lang="id">Inspirasi Tani</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104103000 +0000" stop="20261104110000 +0000">
+    <title lang="id">Jejak Pembangunan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104110000 +0000" stop="20261104123000 +0000">
+    <title lang="id">Klik Indonesia Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104123000 +0000" stop="20261104150000 +0000">
+    <title lang="id">AMI Awards 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104150000 +0000" stop="20261104153000 +0000">
+    <title lang="id">Monitor Olahraga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104153000 +0000" stop="20261104163000 +0000">
+    <title lang="id">COD - Canda of the Day</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104163000 +0000" stop="20261104173000 +0000">
+    <title lang="id">Klik Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261104163000 +0000" stop="20261104173000 +0000">
     <title lang="id">Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -14620,17 +14712,22 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261103011500 +0000" stop="20261103044500 +0000">
+  <programme channel="6786" start="20261103010500 +0000" stop="20261103044500 +0000">
     <title lang="id">Chicago Bears vs Seattle Seahawks - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Chicago Bears vs Seattle Seahawks - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/7ad-hIsYjz0SraaYabkeBT90YWw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5421081/4d1cc3.jpg"/>
   </programme>
-  <programme channel="6786" start="20261103063000 +0000" stop="20261103083000 +0000">
+  <programme channel="6786" start="20261103044500 +0000" stop="20261103064300 +0000">
+    <title lang="id">SASSUOLO vs FIORENTINA : Serie A 2026/27</title>
+    <desc lang="id">SASSUOLO vs FIORENTINA</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261103064300 +0000" stop="20261103084800 +0000">
     <title lang="id">ATALANTA vs PARMA : Serie A 2026/27</title>
     <desc lang="id">ATALANTA vs PARMA</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261103083000 +0000" stop="20261103090000 +0000">
+  <programme channel="6786" start="20261103084800 +0000" stop="20261103090000 +0000">
     <title lang="id">Show 7 : NFL Extra 2026/27</title>
     <desc lang="id">Show 7</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
