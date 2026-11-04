@@ -146,10 +146,10 @@
 <title>GTV</title>
 </programme>
 <programme start="20261104094500 +0000" stop="20261104120000 +0000" channel="GTV.vision">
-<title>Simba &amp; Petualangan Hutan Api</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20261104120000 +0000" stop="20261104133000 +0000" channel="GTV.vision">
-<title>Woli, Serigala Yang Takut Gelap</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20261104133000 +0000" stop="20261104153000 +0000" channel="GTV.vision">
 <title>GTV</title>
@@ -185,7 +185,7 @@
 <title>Entong (GTV)</title>
 </programme>
 <programme start="20261105103000 +0000" stop="20261105120000 +0000" channel="GTV.vision">
-<title>Petualangan Si Belang</title>
+<title>Film Keluarga</title>
 </programme>
 <programme start="20261103234500 +0000" stop="20261104001500 +0000" channel="iNews.vision">
 <title>Morning Update</title>
@@ -640,9 +640,6 @@
 <programme start="20261104010000 +0000" stop="20261104023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261104023000 +0000" stop="20261104060000 +0000" channel="ANTV.vision">
-<title>Kal Ho Naa Ho</title>
-</programme>
 <programme start="20261104060000 +0000" stop="20261104073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -651,9 +648,6 @@
 </programme>
 <programme start="20261104093000 +0000" stop="20261104104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
-</programme>
-<programme start="20261104104500 +0000" stop="20261104131500 +0000" channel="ANTV.vision">
-<title>Gitar Tua</title>
 </programme>
 <programme start="20261104131500 +0000" stop="20261104143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261104060000 +0000" stop="20261104070000 +0000" channel="TVRI.vision">
 <title>Marbot Ali</title>
+</programme>
+<programme start="20261104070000 +0000" stop="20261104070300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261104070300 +0000" stop="20261104080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn S3</title>
 </programme>

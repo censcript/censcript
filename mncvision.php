@@ -4034,10 +4034,10 @@
     <title>AFC Champions League Two (L)</title>
 </programme>
 <programme start="20261104094500 +0000" stop="20261104120000 +0000" channel="GTV.mncvision">
-    <title>Simba &amp; Petualangan Hutan Api</title>
+    <title>Film Keluarga</title>
 </programme>
 <programme start="20261104120000 +0000" stop="20261104133000 +0000" channel="GTV.mncvision">
-    <title>Woli, Serigala Yang Takut Gelap</title>
+    <title>Film Keluarga</title>
 </programme>
 <programme start="20261104133000 +0000" stop="20261104153000 +0000" channel="GTV.mncvision">
     <title>AFC Champions League Elite</title>
@@ -4073,10 +4073,10 @@
     <title>AFC Champions League Two (L)</title>
 </programme>
 <programme start="20261104094500 +0000" stop="20261104120000 +0000" channel="GTV HD.mncvision">
-    <title>Simba &amp; Petualangan Hutan Api</title>
+    <title>Film Keluarga</title>
 </programme>
 <programme start="20261104120000 +0000" stop="20261104133000 +0000" channel="GTV HD.mncvision">
-    <title>Woli, Serigala Yang Takut Gelap</title>
+    <title>Film Keluarga</title>
 </programme>
 <programme start="20261104133000 +0000" stop="20261104153000 +0000" channel="GTV HD.mncvision">
     <title>AFC Champions League Elite</title>

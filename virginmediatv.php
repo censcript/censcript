@@ -194,7 +194,7 @@
     <title>Nuacht TG4 - Episode 307</title>
 </programme>
 <programme start="20261104023000 +0000" stop="20261104032500 +0000" channel="TG4_HD.virginmediatv">
-    <title>CRÁ - Episode 1</title>
+    <title>CRÁ - Series 2: Episode 1</title>
 </programme>
 <programme start="20261104032500 +0000" stop="20261104035500 +0000" channel="TG4_HD.virginmediatv">
     <title>Comhrá - Fr. Seán Ó Conaola</title>
@@ -407,7 +407,7 @@
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261104111500 +0000" stop="20261104130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live - 04/11/2026</title>
+    <title>Politics Live - President Trump and Midterm Elections</title>
 </programme>
 <programme start="20261104130000 +0000" stop="20261104134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 3</title>
@@ -641,7 +641,7 @@
     <title>Road Wars - Episode 9</title>
 </programme>
 <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="SKY_One_HD.virginmediatv">
-    <title>Rob &amp; Romesh Vs... - Rob &amp; Romesh Vs Bowling USA</title>
+    <title>Rob &amp; Romesh Vs... - Bowling USA</title>
 </programme>
 <programme start="20261104030000 +0000" stop="20261104040000 +0000" channel="SKY_One_HD.virginmediatv">
     <title>Hawaii Five-0 - Ka Iwi Kapu</title>
@@ -1994,10 +1994,10 @@
     <title>Salvage Hunters - Episode 4</title>
 </programme>
 <programme start="20261104120000 +0000" stop="20261104130000 +0000" channel="Really.virginmediatv">
-    <title>Celebrity Yorkshire Auction House - Susannah Constantine &amp; Leslie Ash</title>
+    <title>Antiques Road Trip - Episode 10</title>
 </programme>
 <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Really.virginmediatv">
-    <title>Celebrity Yorkshire Auction House - Samantha Womack Alan Johnson</title>
+    <title>Antiques Road Trip - Episode 16</title>
 </programme>
 <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="Really.virginmediatv">
     <title>The Repair Shop - Elijah&#039;s Painting, Ana&#039;s Doll and Parisian Plate</title>
@@ -2009,7 +2009,7 @@
     <title>Salvage Hunters - The Sculpture Garden</title>
 </programme>
 <programme start="20261104170000 +0000" stop="20261104180000 +0000" channel="Really.virginmediatv">
-    <title>Long Lost Family - Episode 5</title>
+    <title>A Place in the Sun - Dordogne</title>
 </programme>
 <programme start="20261104000000 +0000" stop="20261104003000 +0000" channel="Fashion_TV.virginmediatv">
     <title>Fan Favorites</title>
@@ -2288,7 +2288,7 @@
     <title>US Midterm Elections - Part 2</title>
 </programme>
 <programme start="20261104115500 +0000" stop="20261104130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Politics Live - 04/11/2026</title>
+    <title>Politics Live - President Trump and Midterm Elections</title>
 </programme>
 <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
@@ -3860,7 +3860,7 @@
     <title>The Insiders - Episode 202</title>
 </programme>
 <programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Houston Texans at Jacksonville Jaguars</title>
+    <title>Chris Simms Unbuttoned - Episode 4</title>
 </programme>
 <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Baltimore Ravens at Buffalo Bills</title>
@@ -4043,7 +4043,7 @@
     <title>Tennis: ATP Swiss Indoors 2026 - Review</title>
 </programme>
 <programme start="20261104003000 +0000" stop="20261104010000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 108</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Pan Pacific Open 2026 - Final</title>
@@ -4661,7 +4661,7 @@
     <title>The Insiders - Episode 202</title>
 </programme>
 <programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Houston Texans at Jacksonville Jaguars</title>
+    <title>Chris Simms Unbuttoned - Episode 4</title>
 </programme>
 <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Baltimore Ravens at Buffalo Bills</title>
@@ -4844,7 +4844,7 @@
     <title>Tennis: ATP Swiss Indoors 2026 - Review</title>
 </programme>
 <programme start="20261104003000 +0000" stop="20261104010000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 108</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261104010000 +0000" stop="20261104020000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Pan Pacific Open 2026 - Final</title>
@@ -4937,7 +4937,7 @@
     <title>Nuacht TG4 - Episode 307</title>
 </programme>
 <programme start="20261104033000 +0000" stop="20261104042500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>CRÁ - Episode 1</title>
+    <title>CRÁ - Series 2: Episode 1</title>
 </programme>
 <programme start="20261104042500 +0000" stop="20261104045500 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Comhrá - Fr. Seán Ó Conaola</title>
@@ -6902,7 +6902,7 @@
     <title>Road Wars - Episode 9</title>
 </programme>
 <programme start="20261104020000 +0000" stop="20261104030000 +0000" channel="SKY_One.virginmediatv">
-    <title>Rob &amp; Romesh Vs... - Rob &amp; Romesh Vs Bowling USA</title>
+    <title>Rob &amp; Romesh Vs... - Bowling USA</title>
 </programme>
 <programme start="20261104030000 +0000" stop="20261104040000 +0000" channel="SKY_One.virginmediatv">
     <title>Hawaii Five-0 - Ka Iwi Kapu</title>

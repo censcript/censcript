@@ -15871,14 +15871,26 @@
   <programme start="20261106040000 +0000" stop="20261106041500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
   </programme>
-  <programme start="20261106041500 +0000" stop="20261106050000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20261106041500 +0000" stop="20261106044000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Luigi Mangione: Avenging a Sick America?</title>
+  </programme>
+  <programme start="20261106044000 +0000" stop="20261106044400 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
+  </programme>
+  <programme start="20261106044400 +0000" stop="20261106050000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World Talks (1974)</title>
   </programme>
   <programme start="20261106050000 +0000" stop="20261106053000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>
   </programme>
-  <programme start="20261106053000 +0000" stop="20261106060000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20261106053000 +0000" stop="20261106055000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Casual Wizards: Young Polish Jazz (5)</title>
+  </programme>
+  <programme start="20261106055000 +0000" stop="20261106055200 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
+  </programme>
+  <programme start="20261106055200 +0000" stop="20261106060000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Online</title>
   </programme>
   <programme start="20261106060000 +0000" stop="20261106061000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -16027,8 +16039,14 @@
   <programme start="20261106151500 +0000" stop="20261106153000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World Talks (1975)</title>
   </programme>
-  <programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">Document</title>
+  <programme start="20261106153000 +0000" stop="20261106155000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Casual Wizards: Young Polish Jazz (5)</title>
+  </programme>
+  <programme start="20261106155000 +0000" stop="20261106155200 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">Weather</title>
+  </programme>
+  <programme start="20261106155200 +0000" stop="20261106160000 +0000" channel="TVP World.webtv.sk">
+    <title lang="id">World News Online</title>
   </programme>
   <programme start="20261106160000 +0000" stop="20261106161000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News</title>

@@ -13807,21 +13807,21 @@
   <channel id="abcaustralia.unifitv">
     <display-name>ABC Australia</display-name>
   </channel>
-  <programme start="20261103153500 +0000" stop="20261103160500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261103154500 +0000" stop="20261103161500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Back Roads - Huon Valley, TAS</title>
     <desc lang="en">Lisa Millar travels to the stunning Huon Valley in Tasmania, meeting locals who have reinvented their lives to follow their dreams.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">11.22.</episode-num>
     <episode-num system="onscreen">S12E23</episode-num>
   </programme>
-  <programme start="20261103160500 +0000" stop="20261103163500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Australian Story</title>
-    <desc lang="en">In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+  <programme start="20261103161500 +0000" stop="20261103165000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Australian Story - Unbeaten - Usman Khawaja</title>
+    <desc lang="en">Usman Khawaja retired as one of the greats of Australian cricket but the Pakistan-born batsman struggled throughout his career to belong. Now he's determined to change that for the next generation of migrant kids.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.34.</episode-num>
     <episode-num system="onscreen">S2026E35</episode-num>
   </programme>
-  <programme start="20261103163500 +0000" stop="20261103174000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261103165000 +0000" stop="20261103174000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Gardening Australia - Gardening for Wildlife and Biodiversity</title>
     <desc lang="en">How to attract wildlife and boost biodiversity in the garden. Jerry visits a habitat-rich suburban backyard, Sophie explores a rewilded swimming pool, Josh installs a microbat box and Millie learns about controlling gazanias.</desc>
     <category lang="en">Factual</category>
@@ -13837,14 +13837,14 @@
   </programme>
   <programme start="20261103180500 +0000" stop="20261103190500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Americans prepare to vote in the US midterm elections, with polls about to open in early states. Girish Sawlani brings you the latest news from around the globe including the Commonwealth Heads of Government meeting (CHOGM).</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.173.</episode-num>
     <episode-num system="onscreen">S2026E174</episode-num>
   </programme>
   <programme start="20261103190500 +0000" stop="20261103200500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">News Breakfast</title>
-    <desc lang="en">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+    <desc lang="en">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport with Catherine Murphy and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.219.</episode-num>
     <episode-num system="onscreen">S2026E220</episode-num>
@@ -13865,7 +13865,7 @@
   </programme>
   <programme start="20261103230500 +0000" stop="20261104010500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">USA Votes: Midterm Elections</title>
-    <desc lang="en">John Barron presents special coverage of the US Midterm Elections, with ABC Elections Analyst Casey Briggs, Chas Licciardello, Jade Macmillan and correspondents across the US. Plus the latest news with Gemma Veness.</desc>
+    <desc lang="en">John Barron and Chas Licciardello present live special coverage of USA Votes, joined by Lorna Dunkley, Chief Elections Analyst Casey Briggs, Jade Macmillan and John Lyons, plus guests from Australia across the US.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.0.</episode-num>
     <episode-num system="onscreen">S2026E1</episode-num>
@@ -13879,52 +13879,58 @@
   </programme>
   <programme start="20261104013500 +0000" stop="20261104020500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc lang="en">The fight to save Australia's peanut industry; and finding forever homes for caged hens past their egg-laying peak.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.36.</episode-num>
     <episode-num system="onscreen">S2026E37</episode-num>
   </programme>
-  <programme start="20261104020500 +0000" stop="20261104025000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Four Corners</title>
-    <desc lang="en">The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+  <programme start="20261104020500 +0000" stop="20261104025500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Four Corners - Endgame</title>
+    <desc lang="en">Americans head to the polls in what could be one of the most consequential elections in modern US history. Mark Willacy investigates whether the greatest threat to the elections comes from within the Trump administration.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.35.</episode-num>
     <episode-num system="onscreen">S2026E36</episode-num>
   </programme>
-  <programme start="20261104025000 +0000" stop="20261104031000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261104025500 +0000" stop="20261104031500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">The ABC is accused of hiring a Hamas terrorist and ignoring evidence of his guilt. The ABC's The Business becomes yet another casualty in the deterioration of business reporting. Plus news of Virgin's new menu item takes off.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="onscreen">S2026E39</episode-num>
   </programme>
-  <programme start="20261104031000 +0000" stop="20261104033500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261104031500 +0000" stop="20261104034000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Roads Unknown India</title>
     <desc lang="en">After a crash leaves Zombie injured, the crew scrambles to stay on schedule for Ridermania. Jess arrives at the festival, participate in events and is met with overwhelming support from fans and fellow riders.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
-  <programme start="20261104033500 +0000" stop="20261104043500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261104034000 +0000" stop="20261104044000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Alone Australia</title>
     <desc lang="en">The survivalists compete to catch a wallaby for vital protein.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">2.4.</episode-num>
     <episode-num system="onscreen">S3E5</episode-num>
   </programme>
-  <programme start="20261104043500 +0000" stop="20261104060500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261104044000 +0000" stop="20261104060500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Araatika: Rise Up (2023)</title>
     <desc lang="en">A group of NRL greats invent a new pre-game ceremony, a response to the Maori Haka, but also a ceremony to celebrate Aboriginal cultures and counter racism in rugby league.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261104060500 +0000" stop="20261104070500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261104060500 +0000" stop="20261104065000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Maitri Lecture 2026</title>
     <desc lang="en">The inaugural Maitri Lecture delivered by Dr Rolf Gomes, a Queensland-based cardiologist who designed and launched Australia's mobile Heart Trucks taking cardiac care to remote communities.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261104065000 +0000" stop="20261104070500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Culture By Design Shorts - India, Baro - Furniture Design</title>
+    <desc lang="en">Culture By Design is a creative, cultural journey across Asia to meet the visionaries shaping the future of design, hosted by Professor of Architecture, Anthony Burke.</desc>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261104070500 +0000" stop="20261104073500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Cook Up With Adam Liaw - Doorstep Deliveries</title>
@@ -13935,21 +13941,21 @@
   </programme>
   <programme start="20261104073500 +0000" stop="20261104080500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="en">Sam Wykes and Tinirau Arona bring you stories as the world's best rugby league nations go head-to-head, featuring exclusive interviews with some of the game's biggest current and former players, coaches and personalities.</desc>
+    <desc lang="en">Sam Wykes and Tinirau Arona welcome former Samoa international Frank Puletua and former Fiji Bulikula captain Josephine Maejiirs to unpack the weekend's games. We hear from Samoan Wheelaroo Cory Cannane after their opener.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="onscreen">S2026E39</episode-num>
   </programme>
   <programme start="20261104080500 +0000" stop="20261104083500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">ABC National News</title>
-    <desc lang="en">There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Melissa Mackay.</desc>
+    <title lang="en">ABC News</title>
+    <desc lang="en">News from where we live. ABC News NSW brings you the day's top stories, exclusive investigations and original reporting on issues that matter to you. Presented by Jeremy Fernandez, and weather with Tom Saunders.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.307.</episode-num>
     <episode-num system="onscreen">S2026E308</episode-num>
   </programme>
   <programme start="20261104083500 +0000" stop="20261104090500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">7.30</title>
-    <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <desc lang="en">On the day of the US Midterm elections, Sarah Ferguson presents 7.30 live from Capitol Hill in Washington DC, with in depth interviews, analysis and special reports from across the US by 7.30 correspondent Adam Harvey.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.174.</episode-num>
     <episode-num system="onscreen">S2026E175</episode-num>
@@ -13963,28 +13969,28 @@
   </programme>
   <programme start="20261104100500 +0000" stop="20261104110000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani brings you the top news stories from around the globe including the latest after the US Midterms, Iran, Ukraine, the Commonwealth Heads of Government meeting (CHOGM) and the countdown to New Zealand's Election.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.174.</episode-num>
     <episode-num system="onscreen">S2026E175</episode-num>
   </programme>
   <programme start="20261104110000 +0000" stop="20261104115000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Four Corners</title>
-    <desc lang="en">The multi-award winning Four Corners returns for another year of powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years.</desc>
+    <title lang="en">Four Corners - Endgame</title>
+    <desc lang="en">Americans head to the polls in what could be one of the most consequential elections in modern US history. Mark Willacy investigates whether the greatest threat to the elections comes from within the Trump administration.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.35.</episode-num>
     <episode-num system="onscreen">S2026E36</episode-num>
   </programme>
   <programme start="20261104115000 +0000" stop="20261104120500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">The ABC is accused of hiring a Hamas terrorist and ignoring evidence of his guilt. The ABC's The Business becomes yet another casualty in the deterioration of business reporting. Plus news of Virgin's new menu item takes off.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="onscreen">S2026E39</episode-num>
   </programme>
   <programme start="20261104120500 +0000" stop="20261104130500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <desc lang="en">A genetic insurance policy for cattle producers; Getting more value from plantation timber; The 'bee drover' sharing the highs and lows of the bee business; plus the monthly weather outlook.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.37.</episode-num>
     <episode-num system="onscreen">S2026E38</episode-num>
@@ -13998,21 +14004,21 @@
   </programme>
   <programme start="20261104132000 +0000" stop="20261104133500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The Business</title>
-    <desc lang="en">Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+    <desc lang="en">Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.158.</episode-num>
     <episode-num system="onscreen">S2026E159</episode-num>
   </programme>
   <programme start="20261104133500 +0000" stop="20261104140500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">7.30</title>
-    <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
+    <desc lang="en">On the day of the US Midterm elections, Sarah Ferguson presents 7.30 live from Capitol Hill in Washington DC, with in depth interviews, analysis and special reports from across the US by 7.30 correspondent Adam Harvey.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.174.</episode-num>
     <episode-num system="onscreen">S2026E175</episode-num>
   </programme>
   <programme start="20261104140500 +0000" stop="20261104150500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani brings you the top news stories from around the globe including the latest after the US Midterms, Iran, Ukraine, the Commonwealth Heads of Government meeting (CHOGM) and the countdown to New Zealand's Election.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.174.</episode-num>
     <episode-num system="onscreen">S2026E175</episode-num>
@@ -14024,9 +14030,9 @@
     <episode-num system="xmltv_ns">11.4.</episode-num>
     <episode-num system="onscreen">S12E5</episode-num>
   </programme>
-  <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261104160000 +0000" stop="20261104163500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="en">Sam Wykes and Tinirau Arona bring you stories as the world's best rugby league nations go head-to-head, featuring exclusive interviews with some of the game's biggest current and former players, coaches and personalities.</desc>
+    <desc lang="en">Sam Wykes and Tinirau Arona welcome former Samoa international Frank Puletua and former Fiji Bulikula captain Josephine Maejiirs to unpack the weekend's games. We hear from Samoan Wheelaroo Cory Cannane after their opener.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="onscreen">S2026E39</episode-num>
