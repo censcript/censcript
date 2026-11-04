@@ -268,17 +268,14 @@
     <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="Channel 8.mewatch">
         <title>Keep It Down - EP 13</title>
     </programme>
-    <programme start="20261104140000 +0000" stop="20261104143000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261104140000 +0000" stop="20261104144500 +0000" channel="Channel 8.mewatch">
         <title>(Live) News Tonight</title>
     </programme>
-    <programme start="20261104143000 +0000" stop="20261104150000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261104144500 +0000" stop="20261104151500 +0000" channel="Channel 8.mewatch">
         <title>Taste of Canton S9 - EP 14</title>
     </programme>
-    <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="Channel 8.mewatch">
+    <programme start="20261104151500 +0000" stop="20261104161500 +0000" channel="Channel 8.mewatch">
         <title>The Glory - EP 17</title>
-    </programme>
-    <programme start="20261104160000 +0000" stop="20261104170000 +0000" channel="Channel 8.mewatch">
-        <title>Love of Nirvana - EP 35</title>
     </programme>
     <programme start="20261103154500 +0000" stop="20261103164000 +0000" channel="Channel U.mewatch">
         <title>Brothers on the Camino - EP 12</title>
@@ -388,10 +385,10 @@
     <programme start="20261104140000 +0000" stop="20261104150000 +0000" channel="Channel U.mewatch">
         <title>Undercover High School - EP 14</title>
     </programme>
-    <programme start="20261104150000 +0000" stop="20261104153000 +0000" channel="Channel U.mewatch">
+    <programme start="20261104150000 +0000" stop="20261104154500 +0000" channel="Channel U.mewatch">
         <title>News Tonight</title>
     </programme>
-    <programme start="20261104153000 +0000" stop="20261104163000 +0000" channel="Channel U.mewatch">
+    <programme start="20261104154500 +0000" stop="20261104164000 +0000" channel="Channel U.mewatch">
         <title>Destination China - EP 7</title>
     </programme>
     <programme start="20261103160000 +0000" stop="20261104010000 +0000" channel="Suria.mewatch">

@@ -2893,35 +2893,8 @@
 <programme start="20261104003000 +0000" stop="20261104010000 +0000" channel="DW English.mncvision">
     <title>Made In Germany: Business</title>
 </programme>
-<programme start="20261104010000 +0000" stop="20261104010200 +0000" channel="DW English.mncvision">
+<programme start="20261104010000 +0000" stop="20261104040000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
-</programme>
-<programme start="20261104010200 +0000" stop="20261104011500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus</title>
-</programme>
-<programme start="20261104011500 +0000" stop="20261104020000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
-</programme>
-<programme start="20261104020000 +0000" stop="20261104020200 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
-</programme>
-<programme start="20261104020200 +0000" stop="20261104023000 +0000" channel="DW English.mncvision">
-    <title>The Day: News In Review</title>
-</programme>
-<programme start="20261104023000 +0000" stop="20261104030000 +0000" channel="DW English.mncvision">
-    <title>Global Us: What Connects Us All</title>
-</programme>
-<programme start="20261104030000 +0000" stop="20261104030200 +0000" channel="DW English.mncvision">
-    <title>DW News</title>
-</programme>
-<programme start="20261104030200 +0000" stop="20261104031500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus</title>
-</programme>
-<programme start="20261104031500 +0000" stop="20261104033000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
-</programme>
-<programme start="20261104033000 +0000" stop="20261104040000 +0000" channel="DW English.mncvision">
-    <title>Eco Africa: The Environment</title>
 </programme>
 <programme start="20261104040000 +0000" stop="20261104040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2932,26 +2905,14 @@
 <programme start="20261104041500 +0000" stop="20261104050000 +0000" channel="DW English.mncvision">
     <title>DocFilm</title>
 </programme>
-<programme start="20261104050000 +0000" stop="20261104050200 +0000" channel="DW English.mncvision">
+<programme start="20261104050000 +0000" stop="20261104050300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
 </programme>
-<programme start="20261104050200 +0000" stop="20261104053000 +0000" channel="DW English.mncvision">
-    <title>The Day: News In Review</title>
+<programme start="20261104050300 +0000" stop="20261104060000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
 </programme>
-<programme start="20261104053000 +0000" stop="20261104060000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
-</programme>
-<programme start="20261104060000 +0000" stop="20261104060200 +0000" channel="DW English.mncvision">
+<programme start="20261104060000 +0000" stop="20261104070000 +0000" channel="DW English.mncvision">
     <title>DW News</title>
-</programme>
-<programme start="20261104060200 +0000" stop="20261104061500 +0000" channel="DW English.mncvision">
-    <title>DW News Focus</title>
-</programme>
-<programme start="20261104061500 +0000" stop="20261104063000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW-Online Content</title>
-</programme>
-<programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="DW English.mncvision">
-    <title>In Good Shape: The Health Show</title>
 </programme>
 <programme start="20261104070000 +0000" stop="20261104070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2959,14 +2920,53 @@
 <programme start="20261104070200 +0000" stop="20261104071500 +0000" channel="DW English.mncvision">
     <title>DW News Focus</title>
 </programme>
-<programme start="20261104071500 +0000" stop="20261104074500 +0000" channel="DW English.mncvision">
-    <title>Close Up: The Current Affairs</title>
+<programme start="20261104071500 +0000" stop="20261104080000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
 </programme>
-<programme start="20261104074500 +0000" stop="20261104080000 +0000" channel="DW English.mncvision">
-    <title>Shift: Living In Digital Age</title>
-</programme>
-<programme start="20261104080000 +0000" stop="20261104083000 +0000" channel="DW English.mncvision">
+<programme start="20261104080000 +0000" stop="20261104084500 +0000" channel="DW English.mncvision">
     <title>DW News</title>
+</programme>
+<programme start="20261104084500 +0000" stop="20261104090000 +0000" channel="DW English.mncvision">
+    <title>Reporter: German Fighting Force</title>
+</programme>
+<programme start="20261104090000 +0000" stop="20261104090300 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261104090300 +0000" stop="20261104100000 +0000" channel="DW English.mncvision">
+    <title>DocFilm</title>
+</programme>
+<programme start="20261104100000 +0000" stop="20261104100200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261104100200 +0000" stop="20261104101500 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
+</programme>
+<programme start="20261104101500 +0000" stop="20261104104500 +0000" channel="DW English.mncvision">
+    <title>Close Up: Decoding Conflicts</title>
+</programme>
+<programme start="20261104104500 +0000" stop="20261104110000 +0000" channel="DW English.mncvision">
+    <title>Shift: What Is AI Doing...</title>
+</programme>
+<programme start="20261104110000 +0000" stop="20261104110200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261104110200 +0000" stop="20261104113000 +0000" channel="DW English.mncvision">
+    <title>Close Up: Trump&#039;s Deportations</title>
+</programme>
+<programme start="20261104113000 +0000" stop="20261104120000 +0000" channel="DW English.mncvision">
+    <title>Made In Germany: El Nino Impact</title>
+</programme>
+<programme start="20261104120000 +0000" stop="20261104124500 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261104124500 +0000" stop="20261104130000 +0000" channel="DW English.mncvision">
+    <title>Reporter: German Fighting Force</title>
+</programme>
+<programme start="20261104130000 +0000" stop="20261104130200 +0000" channel="DW English.mncvision">
+    <title>DW News</title>
+</programme>
+<programme start="20261104130200 +0000" stop="20261104133200 +0000" channel="DW English.mncvision">
+    <title>DW News Focus</title>
 </programme>
 <programme start="20261103173000 +0000" stop="20261103180000 +0000" channel="Entertainment.mncvision">
     <title>Kopaja (Kosan Pak Jarwo)</title>
@@ -5033,7 +5033,7 @@
     <title>Dunia Laluna Spc. Halloween</title>
 </programme>
 <programme start="20261104053000 +0000" stop="20261104060000 +0000" channel="Kids TV.mncvision">
-    <title>Bima S</title>
+    <title>Bima S S2</title>
 </programme>
 <programme start="20261104060000 +0000" stop="20261104062000 +0000" channel="Kids TV.mncvision">
     <title>Barbie Dreamtopia</title>
@@ -5171,7 +5171,7 @@
     <title>Dunia Laluna Spc. Halloween</title>
 </programme>
 <programme start="20261104053000 +0000" stop="20261104060000 +0000" channel="Kids TV HD.mncvision">
-    <title>Bima S</title>
+    <title>Bima S S2</title>
 </programme>
 <programme start="20261104060000 +0000" stop="20261104062000 +0000" channel="Kids TV HD.mncvision">
     <title>Barbie Dreamtopia</title>
@@ -8551,29 +8551,23 @@
 <programme start="20261103230000 +0000" stop="20261104020000 +0000" channel="SPOTV.mncvision">
     <title>Wistron Ladies Open 2026</title>
 </programme>
-<programme start="20261104020000 +0000" stop="20261104040000 +0000" channel="SPOTV.mncvision">
+<programme start="20261104020000 +0000" stop="20261104035500 +0000" channel="SPOTV.mncvision">
     <title>A-League Men: MCY Vs SYD</title>
 </programme>
-<programme start="20261104040000 +0000" stop="20261104053000 +0000" channel="SPOTV.mncvision">
-    <title>CelcomDigi STL 2026 GP Penang</title>
+<programme start="20261104035500 +0000" stop="20261104045500 +0000" channel="SPOTV.mncvision">
+    <title>2026 GT World Challenge Asia</title>
 </programme>
-<programme start="20261104053000 +0000" stop="20261104070000 +0000" channel="SPOTV.mncvision">
-    <title>CelcomDigi STL 2026 GP Penang</title>
+<programme start="20261104045500 +0000" stop="20261104065500 +0000" channel="SPOTV.mncvision">
+    <title>2026 GT World Challenge Asia</title>
 </programme>
-<programme start="20261104070000 +0000" stop="20261104090000 +0000" channel="SPOTV.mncvision">
-    <title>A-League Men: MAC Vs WSW</title>
+<programme start="20261104065500 +0000" stop="20261104090000 +0000" channel="SPOTV.mncvision">
+    <title>2026 GT World Challenge Asia</title>
 </programme>
-<programme start="20261104090000 +0000" stop="20261104103000 +0000" channel="SPOTV.mncvision">
+<programme start="20261104090000 +0000" stop="20261104110000 +0000" channel="SPOTV.mncvision">
     <title>2026 PYCL Philippines (L)</title>
 </programme>
-<programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="SPOTV.mncvision">
-    <title>ALM Mini Match: BRI Vs AKL</title>
-</programme>
-<programme start="20261104110000 +0000" stop="20261104123000 +0000" channel="SPOTV.mncvision">
+<programme start="20261104110000 +0000" stop="20261104130000 +0000" channel="SPOTV.mncvision">
     <title>2026 PYCL Philippines (L)</title>
-</programme>
-<programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="SPOTV.mncvision">
-    <title>ALM Mini Match: NEW Vs WEL</title>
 </programme>
 <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="SPOTV.mncvision">
     <title>CelcomDigi STL GP Penang HL</title>
@@ -8653,29 +8647,23 @@
 <programme start="20261103230000 +0000" stop="20261104020000 +0000" channel="SPOTV HD.mncvision">
     <title>Wistron Ladies Open 2026</title>
 </programme>
-<programme start="20261104020000 +0000" stop="20261104040000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20261104020000 +0000" stop="20261104035500 +0000" channel="SPOTV HD.mncvision">
     <title>A-League Men: MCY Vs SYD</title>
 </programme>
-<programme start="20261104040000 +0000" stop="20261104053000 +0000" channel="SPOTV HD.mncvision">
-    <title>CelcomDigi STL 2026 GP Penang</title>
+<programme start="20261104035500 +0000" stop="20261104045500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 GT World Challenge Asia</title>
 </programme>
-<programme start="20261104053000 +0000" stop="20261104070000 +0000" channel="SPOTV HD.mncvision">
-    <title>CelcomDigi STL 2026 GP Penang</title>
+<programme start="20261104045500 +0000" stop="20261104065500 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 GT World Challenge Asia</title>
 </programme>
-<programme start="20261104070000 +0000" stop="20261104090000 +0000" channel="SPOTV HD.mncvision">
-    <title>A-League Men: MAC Vs WSW</title>
+<programme start="20261104065500 +0000" stop="20261104090000 +0000" channel="SPOTV HD.mncvision">
+    <title>2026 GT World Challenge Asia</title>
 </programme>
-<programme start="20261104090000 +0000" stop="20261104103000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20261104090000 +0000" stop="20261104110000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 PYCL Philippines (L)</title>
 </programme>
-<programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="SPOTV HD.mncvision">
-    <title>ALM Mini Match: BRI Vs AKL</title>
-</programme>
-<programme start="20261104110000 +0000" stop="20261104123000 +0000" channel="SPOTV HD.mncvision">
+<programme start="20261104110000 +0000" stop="20261104130000 +0000" channel="SPOTV HD.mncvision">
     <title>2026 PYCL Philippines (L)</title>
-</programme>
-<programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="SPOTV HD.mncvision">
-    <title>ALM Mini Match: NEW Vs WEL</title>
 </programme>
 <programme start="20261104130000 +0000" stop="20261104140000 +0000" channel="SPOTV HD.mncvision">
     <title>CelcomDigi STL GP Penang HL</title>

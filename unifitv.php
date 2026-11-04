@@ -5229,15 +5229,15 @@
     <title lang="en">Zee Flix</title>
     <desc lang="en">Tune into Zee Flix for a lineup of blockbuster movies, unforgettable characters and nonstop entertainment across action, romance, comedy and drama genres.</desc>
     <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.369.</episode-num>
-    <episode-num system="onscreen">S1E370</episode-num>
+    <episode-num system="xmltv_ns">0.364.</episode-num>
+    <episode-num system="onscreen">S1E365</episode-num>
   </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="unknown.unifitv">
     <title lang="en">Zee Flix</title>
     <desc lang="en">Tune into Zee Flix for a lineup of blockbuster movies, unforgettable characters and nonstop entertainment across action, romance, comedy and drama genres.</desc>
     <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.369.</episode-num>
-    <episode-num system="onscreen">S1E370</episode-num>
+    <episode-num system="xmltv_ns">0.364.</episode-num>
+    <episode-num system="onscreen">S1E365</episode-num>
   </programme>
   <programme start="20261103173000 +0000" stop="20261103180000 +0000" channel="unknown.unifitv">
     <title lang="en">Free Ticket</title>
@@ -5249,7 +5249,12 @@
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20261103183000 +0000" stop="20261103200000 +0000" channel="unknown.unifitv">
+  <programme start="20261103183000 +0000" stop="20261103193000 +0000" channel="unknown.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261103193000 +0000" stop="20261103200000 +0000" channel="unknown.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
@@ -5396,8 +5401,8 @@
     <title lang="en">Zee Flix</title>
     <desc lang="en">Tune into Zee Flix for a lineup of blockbuster movies, unforgettable characters and nonstop entertainment across action, romance, comedy and drama genres.</desc>
     <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">0.370.</episode-num>
-    <episode-num system="onscreen">S1E371</episode-num>
+    <episode-num system="xmltv_ns">0.365.</episode-num>
+    <episode-num system="onscreen">S1E366</episode-num>
   </programme>
   <programme start="20261104093000 +0000" stop="20261104100000 +0000" channel="unknown.unifitv">
     <title lang="en">Samanthi</title>
@@ -6109,7 +6114,7 @@
     <category lang="en">Action</category>
   </programme>
   <programme start="20261104021000 +0000" stop="20261104033000 +0000" channel="cinemax.unifitv">
-    <title lang="en">EUROTRIP</title>
+    <title lang="en">Elephant</title>
     <desc lang="en">A hard-hitting HBO Original docu-drama by director Gus Van Sant that delves into the reality of high-school life.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -15060,12 +15065,17 @@
     <desc lang="en">The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261103180000 +0000" stop="20261103193000 +0000" channel="spotv.unifitv">
+  <programme start="20261103180000 +0000" stop="20261103190500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 PYCL, Philippines S2 - Rd 1 Konjac Zero Phoenix Force vs Cartivo Movers</title>
     <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261103193000 +0000" stop="20261103210000 +0000" channel="spotv.unifitv">
+  <programme start="20261103190500 +0000" stop="20261103193500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026/27 ALM Mini Match MW 3 - Brisbane Roar FC vs Auckland FC</title>
+    <desc lang="en">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20261103193500 +0000" stop="20261103210000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 PYCL, Philippines S2 - Rd 1 Dentacare Pearly Whites vs Thrifty Drivers</title>
     <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <category lang="en">Sports</category>
@@ -15090,55 +15100,40 @@
     <desc lang="en">The stars of the Ladies European Tour gather in Taiwan to compete for the Wistron Ladies Open title, delivering world-class golf and thrilling championship action.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20261104020000 +0000" stop="20261104040000 +0000" channel="spotv.unifitv">
+  <programme start="20261104020000 +0000" stop="20261104035500 +0000" channel="spotv.unifitv">
     <title lang="en">A-League Men 26/27 MW 3 - Melbourne City FC vs Sydney FC</title>
     <desc lang="en">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261104040000 +0000" stop="20261104053000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 PYCL, Philippines S2 - Rd 1 Konjac Zero Phoenix Force vs Cartivo Movers</title>
-    <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20261104035500 +0000" stop="20261104045500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 GT World Challenge Asia, Shanghai - Qualifying</title>
+    <desc lang="en">Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261104053000 +0000" stop="20261104070000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026 PYCL, Philippines S2 - Rd 1 Dentacare Pearly Whites vs Thrifty Drivers</title>
-    <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
-    <category lang="en">Sports</category>
+  <programme start="20261104045500 +0000" stop="20261104065500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 GT World Challenge Asia, Shanghai - Race 1</title>
+    <desc lang="en">Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261104070000 +0000" stop="20261104090000 +0000" channel="spotv.unifitv">
-    <title lang="en">A-League Men 26/27 MW 3 - Macarthur FC vs Western Sydney Wanderers FC</title>
-    <desc lang="en">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
-    <category lang="en">Football</category>
+  <programme start="20261104065500 +0000" stop="20261104090000 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 GT World Challenge Asia, Shanghai - Race 2</title>
+    <desc lang="en">Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
+    <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261104090000 +0000" stop="20261104103000 +0000" channel="spotv.unifitv">
+  <programme start="20261104090000 +0000" stop="20261104110000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 PYCL, Philippines S2 - Rd 1 Konjac Zero Phoenix Force vs Dentacare Pearly Whites</title>
     <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261104103000 +0000" stop="20261104110000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026/27 ALM Mini Match MW 3 - Brisbane Roar FC vs Auckland FC</title>
-    <desc lang="en">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261104110000 +0000" stop="20261104123000 +0000" channel="spotv.unifitv">
+  <programme start="20261104110000 +0000" stop="20261104130000 +0000" channel="spotv.unifitv">
     <title lang="en">(L) 2026 PYCL, Philippines S2 - Rd 1 Gfoxx Paragon vs Cartivo Movers</title>
     <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261104123000 +0000" stop="20261104130000 +0000" channel="spotv.unifitv">
-    <title lang="en">2026/27 ALM Mini Match MW 3 - Newcastle Jets vs Wellington Phoenix</title>
-    <desc lang="en">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
-    <category lang="en">Football</category>
-  </programme>
-  <programme start="20261104130000 +0000" stop="20261104160000 +0000" channel="spotv.unifitv">
+  <programme start="20261104130000 +0000" stop="20261104160500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Asia-Pacific Amateur Championship - Day 1</title>
     <desc lang="en">Top amateur golfers from across the Asia-Pacific region battle for championship honours, showcasing elite talent and earning opportunities to compete on golf's biggest stages.</desc>
     <category lang="en">Golf</category>
-  </programme>
-  <programme start="20261104160000 +0000" stop="20261104180000 +0000" channel="spotv.unifitv">
-    <title lang="en">Roshn Saudi League 26/27 - MD 12 Al Shabab vs Al Ahli</title>
-    <desc lang="en">The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
-    <category lang="en">Football</category>
   </programme>
   <channel id="spotv2.unifitv">
     <display-name>SPOTV2</display-name>
