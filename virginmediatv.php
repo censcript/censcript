@@ -286,10 +286,10 @@
 <programme start="20261103230500 +0000" stop="20261104000500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Snowpiercer - Our Answer for Everything</title>
 </programme>
-<programme start="20261104000500 +0000" stop="20261104022200 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20261104000500 +0000" stop="20261104022800 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>This Morning - Episode 216</title>
 </programme>
-<programme start="20261104022200 +0000" stop="20261104065500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20261104022800 +0000" stop="20261104065500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261104095500 +0000" stop="20261104120500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
@@ -5917,7 +5917,7 @@
 <programme start="20261103185800 +0000" stop="20261104025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261104025800 +0000" stop="20261104070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261104025800 +0000" stop="20261104060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261104115000 +0000" stop="20261104121000 +0000" channel="CBBC.virginmediatv">

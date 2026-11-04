@@ -15230,19 +15230,19 @@
     <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20261106080000 +0000" stop="20261106094000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Prvá pomoc Marcela</title>
+    <title lang="id">Live</title>
   </programme>
   <programme start="20261106094000 +0000" stop="20261106100000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20261106100000 +0000" stop="20261106114000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Prvá pomoc Marcela</title>
+    <title lang="id">Live</title>
   </programme>
   <programme start="20261106114000 +0000" stop="20261106120000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20261106120000 +0000" stop="20261106134000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Prvá pomoc Marcela</title>
+    <title lang="id">Live</title>
   </programme>
   <programme start="20261106134000 +0000" stop="20261106135500 +0000" channel="TV8.webtv.sk">
     <title lang="id">Teleshopping</title>
@@ -15251,16 +15251,13 @@
     <title lang="id">Horoskopy</title>
   </programme>
   <programme start="20261106140000 +0000" stop="20261106154000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poraňa Synthia</title>
+    <title lang="id">Live</title>
   </programme>
   <programme start="20261106154000 +0000" stop="20261106160000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Teleshopping</title>
   </programme>
-  <programme start="20261106160000 +0000" stop="20261106174000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Ezoterická poraňa Synthia</title>
-  </programme>
-  <programme start="20261106174000 +0000" stop="20261106174500 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Teleshopping</title>
+  <programme start="20261106160000 +0000" stop="20261106174500 +0000" channel="TV8.webtv.sk">
+    <title lang="id">Tvoj Anjel Rudy</title>
   </programme>
   <programme start="20261106174500 +0000" stop="20261106180000 +0000" channel="TV8.webtv.sk">
     <title lang="id">Horoskopy</title>
@@ -15269,10 +15266,10 @@
     <title lang="id">Teleshopping</title>
   </programme>
   <programme start="20261106190000 +0000" stop="20261106220000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Televeštiareň Štefan</title>
+    <title lang="id">Tvoj Anjel Rudy</title>
   </programme>
   <programme start="20261106220000 +0000" stop="20261106230000 +0000" channel="TV8.webtv.sk">
-    <title lang="id">Televeštiareň Štefan</title>
+    <title lang="id">Tvoj Anjel Rudy</title>
   </programme>
   <programme start="20261105230000 +0000" stop="20261105231000 +0000" channel="Polar TV.webtv.sk">
     <title lang="id">Regionální zprávy POLAR</title>
