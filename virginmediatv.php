@@ -449,7 +449,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261105121500 +0000" stop="20261105130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - 05/11/2026</title>
 </programme>
 <programme start="20261105130000 +0000" stop="20261105134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 4</title>
@@ -2387,7 +2387,7 @@
     <title>Verified Live</title>
 </programme>
 <programme start="20261105153000 +0000" stop="20261105160000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Verified Live</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20261105160000 +0000" stop="20261105163000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -3893,7 +3893,7 @@
     <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
 </programme>
 <programme start="20261105041500 +0000" stop="20261105043500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+    <title>Women&#039;s ICC World T20 - Final 2017: England v India</title>
 </programme>
 <programme start="20261105043500 +0000" stop="20261105074000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Women&#039;s Big Bash - Adelaide Strikers v Brisbane Heat</title>
@@ -3944,7 +3944,7 @@
     <title>NFL Football - Kansas City Chiefs at Denver Broncos</title>
 </programme>
 <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>NFL Football - Dallas Cowboys at Philadelphia Eagles</title>
+    <title>NFL Football - Philadelphia Eagles at Washington Commanders</title>
 </programme>
 <programme start="20261105030000 +0000" stop="20261105040000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Houston Texans at Jacksonville Jaguars</title>
@@ -4193,7 +4193,7 @@
     <title>Match Day Review - UEFA Champions League: Manchester United v AS Roma</title>
 </programme>
 <programme start="20261105023000 +0000" stop="20261105030000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Youth League Football - Highlights: United U19s v Roma U19s</title>
+    <title>UEFA Youth League Football - Highlights: Manchester United U19 v AS Roma U19</title>
 </programme>
 <programme start="20261105030000 +0000" stop="20261105033000 +0000" channel="MUTV.virginmediatv">
     <title>Under 18 Premier League - Highlights: Burnley U18 v Manchester United U18</title>
@@ -4694,7 +4694,7 @@
     <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
 </programme>
 <programme start="20261105041500 +0000" stop="20261105043500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+    <title>Women&#039;s ICC World T20 - Final 2017: England v India</title>
 </programme>
 <programme start="20261105043500 +0000" stop="20261105074000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Women&#039;s Big Bash - Adelaide Strikers v Brisbane Heat</title>
@@ -4745,7 +4745,7 @@
     <title>NFL Football - Kansas City Chiefs at Denver Broncos</title>
 </programme>
 <programme start="20261105020000 +0000" stop="20261105030000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>NFL Football - Dallas Cowboys at Philadelphia Eagles</title>
+    <title>NFL Football - Philadelphia Eagles at Washington Commanders</title>
 </programme>
 <programme start="20261105030000 +0000" stop="20261105040000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Houston Texans at Jacksonville Jaguars</title>
@@ -7502,7 +7502,7 @@
     <title>Vasudha - Episode 720</title>
 </programme>
 <programme start="20261105033000 +0000" stop="20261105040000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 478</title>
+    <title>Tum Se Tum Tak - Episode 482</title>
 </programme>
 <programme start="20261105040000 +0000" stop="20261105043000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 403</title>
@@ -7511,7 +7511,7 @@
     <title>Lakshmi Nivas - Episode 293</title>
 </programme>
 <programme start="20261105053000 +0000" stop="20261105060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 478</title>
+    <title>Tum Se Tum Tak - Episode 482</title>
 </programme>
 <programme start="20261105120000 +0000" stop="20261105123000 +0000" channel="Zee_TV.virginmediatv">
     <title>Dilo Ki Ram Leela - Episode 59</title>
@@ -7526,7 +7526,7 @@
     <title>Hamari Radha - Episode 78</title>
 </programme>
 <programme start="20261105140000 +0000" stop="20261105143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 478</title>
+    <title>Tum Se Tum Tak - Episode 482</title>
 </programme>
 <programme start="20261105143000 +0000" stop="20261105150000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 403</title>

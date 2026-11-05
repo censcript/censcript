@@ -640,17 +640,8 @@
 <programme start="20261105093000 +0000" stop="20261105104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261105104500 +0000" stop="20261105131500 +0000" channel="ANTV.vision">
-<title>Begadang</title>
-</programme>
 <programme start="20261105131500 +0000" stop="20261105143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261105143000 +0000" stop="20261105163000 +0000" channel="ANTV.vision">
-<title>Tahu Diri Dong</title>
-</programme>
-<programme start="20261105163000 +0000" stop="20261105181500 +0000" channel="ANTV.vision">
-<title>Aces Go Places 2</title>
 </programme>
 <programme start="20261105181500 +0000" stop="20261105193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261105080300 +0000" stop="20261105090000 +0000" channel="TVRI.vision">
 <title>Rest Area</title>
+</programme>
+<programme start="20261105090000 +0000" stop="20261105090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261105090300 +0000" stop="20261105093000 +0000" channel="TVRI.vision">
+<title>Masakan Khas Indonesia</title>
+</programme>
+<programme start="20261105093000 +0000" stop="20261105100000 +0000" channel="TVRI.vision">
+<title>Jelajah Negeri</title>
 </programme>
