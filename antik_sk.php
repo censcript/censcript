@@ -2944,25 +2944,25 @@
   <programme start="20261107222000 +0000" stop="20261107235000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Jak potkávat svět</title>
   </programme>
-  <programme start="20261106225000 +0000" stop="20261106233800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261106225000 +0000" stop="20261106233700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Patience II (1)</title>
   </programme>
-  <programme start="20261106233800 +0000" stop="20261107000500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261106233700 +0000" stop="20261107000500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261107000500 +0000" stop="20261107002700 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107000500 +0000" stop="20261107002800 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Přes nový práh</title>
   </programme>
-  <programme start="20261107002700 +0000" stop="20261107005100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107002800 +0000" stop="20261107005300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobře dotovaná slepice</title>
   </programme>
-  <programme start="20261107005100 +0000" stop="20261107012000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107005300 +0000" stop="20261107012000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Když v kuchyni hoří</title>
   </programme>
-  <programme start="20261107012000 +0000" stop="20261107035000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107012000 +0000" stop="20261107035100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Dobré ráno</title>
   </programme>
-  <programme start="20261107035000 +0000" stop="20261107043000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107035100 +0000" stop="20261107043000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Banánové rybičky</title>
   </programme>
   <programme start="20261107043000 +0000" stop="20261107050000 +0000" channel="ČT1.webtv.sk">
@@ -2980,16 +2980,16 @@
   <programme start="20261107063400 +0000" stop="20261107071500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hádavá pohádka</title>
   </programme>
-  <programme start="20261107071500 +0000" stop="20261107080100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107071500 +0000" stop="20261107080000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Létající Čestmír I (1/6)</title>
   </programme>
-  <programme start="20261107080100 +0000" stop="20261107084200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107080000 +0000" stop="20261107084200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Úsměvy Růženy Šlemrové</title>
   </programme>
-  <programme start="20261107084200 +0000" stop="20261107091000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107084200 +0000" stop="20261107091100 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulky Českem budoucnosti VI</title>
   </programme>
-  <programme start="20261107091000 +0000" stop="20261107100000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107091100 +0000" stop="20261107100000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Všechny velké a malé bytosti VI (2)</title>
   </programme>
   <programme start="20261107100000 +0000" stop="20261107105200 +0000" channel="ČT1.webtv.sk">
@@ -3010,19 +3010,19 @@
   <programme start="20261107120000 +0000" stop="20261107120500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zprávy</title>
   </programme>
-  <programme start="20261107120500 +0000" stop="20261107132200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107120500 +0000" stop="20261107132000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Plaváček</title>
   </programme>
-  <programme start="20261107132200 +0000" stop="20261107143000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107132000 +0000" stop="20261107143000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Princezna Duše</title>
   </programme>
   <programme start="20261107143000 +0000" stop="20261107155500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ideál septimy</title>
   </programme>
-  <programme start="20261107155500 +0000" stop="20261107165600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107155500 +0000" stop="20261107165500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Nemocnice na kraji města (20/20)</title>
   </programme>
-  <programme start="20261107165600 +0000" stop="20261107172500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261107165500 +0000" stop="20261107172500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Zpátky do přírody 2</title>
   </programme>
   <programme start="20261107172500 +0000" stop="20261107175500 +0000" channel="ČT1.webtv.sk">
@@ -3310,13 +3310,13 @@
   <programme start="20261107020500 +0000" stop="20261107023500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Neslyším a hraju divadlo</title>
   </programme>
-  <programme start="20261107023500 +0000" stop="20261107031100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107023500 +0000" stop="20261107031000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Okolo Strážnice... 60 let Mezinárodního folklorního festivalu</title>
   </programme>
-  <programme start="20261107031100 +0000" stop="20261107040400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107031000 +0000" stop="20261107040300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">ArtZóna</title>
   </programme>
-  <programme start="20261107040400 +0000" stop="20261107041000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107040300 +0000" stop="20261107041000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ukrajinská čítanka</title>
   </programme>
   <programme start="20261107041000 +0000" stop="20261107050000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3346,16 +3346,16 @@
   <programme start="20261107061000 +0000" stop="20261107063200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Rubble a jeho parta II</title>
   </programme>
-  <programme start="20261107063200 +0000" stop="20261107080300 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107063200 +0000" stop="20261107080200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Studio Kamarád</title>
   </programme>
-  <programme start="20261107080300 +0000" stop="20261107082500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107080200 +0000" stop="20261107082500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Tamtam</title>
   </programme>
-  <programme start="20261107082500 +0000" stop="20261107093100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107082500 +0000" stop="20261107093000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Websterovi ve filmu</title>
   </programme>
-  <programme start="20261107093100 +0000" stop="20261107094000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107093000 +0000" stop="20261107094000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Pat a Mat kutí X (4)</title>
   </programme>
   <programme start="20261107094000 +0000" stop="20261107095700 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3364,10 +3364,10 @@
   <programme start="20261107095700 +0000" stop="20261107100700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zvoní!</title>
   </programme>
-  <programme start="20261107100700 +0000" stop="20261107103600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107100700 +0000" stop="20261107103700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Lvíčata</title>
   </programme>
-  <programme start="20261107103600 +0000" stop="20261107105000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107103700 +0000" stop="20261107105000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Moucha Loyd</title>
   </programme>
   <programme start="20261107105000 +0000" stop="20261107112000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3391,25 +3391,25 @@
   <programme start="20261107140500 +0000" stop="20261107142900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Nová dobrodružství medvídka Pú (39/50)</title>
   </programme>
-  <programme start="20261107142900 +0000" stop="20261107145000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107142900 +0000" stop="20261107145100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Lví hlídka (28/28)</title>
   </programme>
-  <programme start="20261107145000 +0000" stop="20261107151500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107145100 +0000" stop="20261107151500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kung Fu Panda: Dračí rytíř II</title>
   </programme>
-  <programme start="20261107151500 +0000" stop="20261107152200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107151500 +0000" stop="20261107152300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zvědavci</title>
   </programme>
-  <programme start="20261107152200 +0000" stop="20261107153400 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107152300 +0000" stop="20261107153400 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">City: Dobrodružství IV</title>
   </programme>
   <programme start="20261107153400 +0000" stop="20261107154500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">City: Dobrodružství IV</title>
   </programme>
-  <programme start="20261107154500 +0000" stop="20261107161200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107154500 +0000" stop="20261107161300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ranč U Zelené sedmy (37/42)</title>
   </programme>
-  <programme start="20261107161200 +0000" stop="20261107162000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107161300 +0000" stop="20261107162000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Ovečka Shaun VII</title>
   </programme>
   <programme start="20261107162000 +0000" stop="20261107163300 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3418,10 +3418,10 @@
   <programme start="20261107163300 +0000" stop="20261107165200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kámoši v kuchyni</title>
   </programme>
-  <programme start="20261107165200 +0000" stop="20261107171600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107165200 +0000" stop="20261107171500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Kung Fu Panda: Dračí rytíř II</title>
   </programme>
-  <programme start="20261107171600 +0000" stop="20261107174000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107171500 +0000" stop="20261107174000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Plamínek a čtyřkoláci IV</title>
   </programme>
   <programme start="20261107174000 +0000" stop="20261107174500 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3433,10 +3433,10 @@
   <programme start="20261107175500 +0000" stop="20261107181700 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Nová dobrodružství medvídka Pú (41/50)</title>
   </programme>
-  <programme start="20261107181700 +0000" stop="20261107184100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107181700 +0000" stop="20261107184000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Belfort a Lupin (3/26)</title>
   </programme>
-  <programme start="20261107184100 +0000" stop="20261107184500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261107184000 +0000" stop="20261107184500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zvířáci</title>
   </programme>
   <programme start="20261107184500 +0000" stop="20261107190000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -8656,16 +8656,16 @@
   <programme start="20261107222500 +0000" stop="20261108002000 +0000" channel="FilmBox Extra.webtv.sk">
     <title lang="id">Lee: Fotografka v první linii</title>
   </programme>
-  <programme start="20261106223500 +0000" stop="20261107001500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261106224500 +0000" stop="20261107001500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Pochybná sebranka</title>
   </programme>
-  <programme start="20261107001500 +0000" stop="20261107015000 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261107002500 +0000" stop="20261107020000 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Chceš mě, chci tě</title>
   </programme>
-  <programme start="20261107015000 +0000" stop="20261107032500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261107020000 +0000" stop="20261107033500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Nepoučitelní</title>
   </programme>
-  <programme start="20261107032500 +0000" stop="20261107045500 +0000" channel="FilmBox Premium.webtv.sk">
+  <programme start="20261107033500 +0000" stop="20261107045500 +0000" channel="FilmBox Premium.webtv.sk">
     <title lang="id">Noční tabule</title>
   </programme>
   <programme start="20261107045500 +0000" stop="20261107054000 +0000" channel="FilmBox Premium.webtv.sk">
@@ -14578,32 +14578,26 @@
   <programme start="20261107220000 +0000" stop="20261108041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20261106224900 +0000" stop="20261106234000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Miroslav Vidovenec</title>
+  <programme start="20261106223900 +0000" stop="20261107000200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
   </programme>
-  <programme start="20261106234000 +0000" stop="20261107005600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107000200 +0000" stop="20261107010100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
   </programme>
-  <programme start="20261107005600 +0000" stop="20261107014000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107010100 +0000" stop="20261107021500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Marián Porvažník</title>
+  </programme>
+  <programme start="20261107021500 +0000" stop="20261107025900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
   </programme>
-  <programme start="20261107014000 +0000" stop="20261107015400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Poruba pod Vihorlatom</title>
-  </programme>
-  <programme start="20261107015400 +0000" stop="20261107021300 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Jenkovce</title>
-  </programme>
-  <programme start="20261107021300 +0000" stop="20261107022800 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Priekopa</title>
-  </programme>
-  <programme start="20261107022800 +0000" stop="20261107024800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107025900 +0000" stop="20261107031400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Ruská Bystrá</title>
   </programme>
-  <programme start="20261107024800 +0000" stop="20261107030800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107031400 +0000" stop="20261107033500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Hutorime i bisidujeme - Lekárovce</title>
   </programme>
-  <programme start="20261107030800 +0000" stop="20261107040500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 31.8.2026</title>
+  <programme start="20261107033500 +0000" stop="20261107040500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam z rokovania zastupiteľstva PSK - 12.10.2026</title>
   </programme>
   <programme start="20261107040500 +0000" stop="20261107052500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">FOLKLÓR NA VÝCHODE - FS Hrunok</title>
@@ -14650,14 +14644,17 @@
   <programme start="20261107103500 +0000" stop="20261107105000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín - 592</title>
   </programme>
-  <programme start="20261107105000 +0000" stop="20261107122000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Marián Porvažník</title>
+  <programme start="20261107105000 +0000" stop="20261107111000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">MFK ZEMPLÍN MICHALOVCE - Adam Jakubech</title>
   </programme>
-  <programme start="20261107122000 +0000" stop="20261107130400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107111000 +0000" stop="20261107122000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA ŠÍRAVE - Ako dopadla letná sezóna 2026?</title>
+  </programme>
+  <programme start="20261107122000 +0000" stop="20261107130300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Tovarňanka</title>
   </programme>
-  <programme start="20261107130400 +0000" stop="20261107134600 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">FOLKLÓR NA VÝCHODE - FS Hrunok</title>
+  <programme start="20261107130300 +0000" stop="20261107134600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Ján Sklár po voľbách</title>
   </programme>
   <programme start="20261107134600 +0000" stop="20261107140000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Slovo - Ako zbaviť dom od zlých duchov</title>
@@ -14672,7 +14669,7 @@
     <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
   </programme>
   <programme start="20261107144600 +0000" stop="20261107154500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
+    <title lang="id">NA VÝCHODE: Vavrinec Žeňuch - História colníctva</title>
   </programme>
   <programme start="20261107154500 +0000" stop="20261107160000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín - 592</title>
@@ -14686,20 +14683,26 @@
   <programme start="20261107173500 +0000" stop="20261107180000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - 336</title>
   </programme>
-  <programme start="20261107180000 +0000" stop="20261107190000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107180000 +0000" stop="20261107185900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Trebišovská Orgoňina</title>
   </programme>
-  <programme start="20261107190000 +0000" stop="20261107191800 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107185900 +0000" stop="20261107190700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín - 592</title>
   </programme>
-  <programme start="20261107191800 +0000" stop="20261107200300 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261107190700 +0000" stop="20261107194600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">FOLKLÓR NA VÝCHODE - FS Hrunok</title>
   </programme>
-  <programme start="20261107200300 +0000" stop="20261107220100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
+  <programme start="20261107194600 +0000" stop="20261107203200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Miroslav Vidovenec</title>
   </programme>
-  <programme start="20261107220100 +0000" stop="20261107231000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
+  <programme start="20261107203200 +0000" stop="20261107212200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Marián Porvažník</title>
+  </programme>
+  <programme start="20261107212200 +0000" stop="20261107214200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">MFK ZEMPLÍN MICHALOVCE - Adam Jakubech</title>
+  </programme>
+  <programme start="20261107214200 +0000" stop="20261107230500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
   </programme>
   <programme start="20261106230000 +0000" stop="20261107000000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">TV Poprad</title>
@@ -15964,19 +15967,19 @@
   <programme start="20261107014000 +0000" stop="20261107015500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20261107015500 +0000" stop="20261107021200 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261107015500 +0000" stop="20261107022000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20261107021200 +0000" stop="20261107024500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261107022000 +0000" stop="20261107025000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polacy w kosmosie</title>
   </programme>
-  <programme start="20261107024500 +0000" stop="20261107031500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261107025000 +0000" stop="20261107032000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polacy w kosmosie</title>
   </programme>
-  <programme start="20261107031500 +0000" stop="20261107040800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261107032000 +0000" stop="20261107041100 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Po drugiej stronie (1)</title>
   </programme>
-  <programme start="20261107040800 +0000" stop="20261107045800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261107041100 +0000" stop="20261107045800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Kwiatki polskie (549)</title>
   </programme>
   <programme start="20261107045800 +0000" stop="20261107050000 +0000" channel="TVP Info.webtv.sk">

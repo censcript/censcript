@@ -2324,7 +2324,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261105003000 +0000" stop="20261105010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast - 05/11/2026</title>
+    <title>Tech Now</title>
 </programme>
 <programme start="20261105010000 +0000" stop="20261105013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -3802,20 +3802,26 @@
 <programme start="20261105170000 +0000" stop="20261105180000 +0000" channel="Sky_Sports_Premier_League_HD.virginmediatv">
     <title>The Premier League Show - Episode 148</title>
 </programme>
-<programme start="20261105000000 +0000" stop="20261105020000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+<programme start="20261104235500 +0000" stop="20261105001000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Championship - West Bromwich Albion v Southampton</title>
+</programme>
+<programme start="20261105001000 +0000" stop="20261105021000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Retro League One - 2015 Play-Off Semi-Final, 2nd Leg: Swindon v Sheffield United</title>
 </programme>
-<programme start="20261105020000 +0000" stop="20261105023000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+<programme start="20261105021000 +0000" stop="20261105024000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Rivalries - East Midlands Derby</title>
 </programme>
-<programme start="20261105023000 +0000" stop="20261105030000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+<programme start="20261105024000 +0000" stop="20261105031000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Rivalries - Second City Derby</title>
 </programme>
-<programme start="20261105030000 +0000" stop="20261105033000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+<programme start="20261105031000 +0000" stop="20261105033000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>Scottish Premiership Football - Celtic v Rangers</title>
 </programme>
-<programme start="20261105033000 +0000" stop="20261105034500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+<programme start="20261105033000 +0000" stop="20261105034000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Greatest - 2008/09: Millwall v Scunthorpe United</title>
+</programme>
+<programme start="20261105034000 +0000" stop="20261105034500 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
+    <title>EFL Greatest</title>
 </programme>
 <programme start="20261105034500 +0000" stop="20261105040000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>EFL Greatest - 2009/10: Sheffield United v Sheffield Wednesday</title>
@@ -3898,14 +3904,8 @@
 <programme start="20261105130000 +0000" stop="20261105140000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Women&#039;s Big Bash - Adelaide Strikers v Brisbane Heat</title>
 </programme>
-<programme start="20261105140000 +0000" stop="20261105170000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+<programme start="20261105140000 +0000" stop="20261105173000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Women&#039;s Big Bash - Hobart Hurricanes v Melbourne Renegades</title>
-</programme>
-<programme start="20261105170000 +0000" stop="20261105171500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
-</programme>
-<programme start="20261105171500 +0000" stop="20261105173000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
 </programme>
 <programme start="20261105173000 +0000" stop="20261105174500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2009: New Zealand v England</title>
@@ -4603,20 +4603,26 @@
 <programme start="20261105170000 +0000" stop="20261105180000 +0000" channel="Sky_Sports_Premier_League.virginmediatv">
     <title>The Premier League Show - Episode 148</title>
 </programme>
-<programme start="20261105000000 +0000" stop="20261105020000 +0000" channel="Sky_Sports_Football.virginmediatv">
+<programme start="20261104235500 +0000" stop="20261105001000 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Championship - West Bromwich Albion v Southampton</title>
+</programme>
+<programme start="20261105001000 +0000" stop="20261105021000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Retro League One - 2015 Play-Off Semi-Final, 2nd Leg: Swindon v Sheffield United</title>
 </programme>
-<programme start="20261105020000 +0000" stop="20261105023000 +0000" channel="Sky_Sports_Football.virginmediatv">
+<programme start="20261105021000 +0000" stop="20261105024000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Rivalries - East Midlands Derby</title>
 </programme>
-<programme start="20261105023000 +0000" stop="20261105030000 +0000" channel="Sky_Sports_Football.virginmediatv">
+<programme start="20261105024000 +0000" stop="20261105031000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Rivalries - Second City Derby</title>
 </programme>
-<programme start="20261105030000 +0000" stop="20261105033000 +0000" channel="Sky_Sports_Football.virginmediatv">
+<programme start="20261105031000 +0000" stop="20261105033000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>Scottish Premiership Football - Celtic v Rangers</title>
 </programme>
-<programme start="20261105033000 +0000" stop="20261105034500 +0000" channel="Sky_Sports_Football.virginmediatv">
+<programme start="20261105033000 +0000" stop="20261105034000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Greatest - 2008/09: Millwall v Scunthorpe United</title>
+</programme>
+<programme start="20261105034000 +0000" stop="20261105034500 +0000" channel="Sky_Sports_Football.virginmediatv">
+    <title>EFL Greatest</title>
 </programme>
 <programme start="20261105034500 +0000" stop="20261105040000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>EFL Greatest - 2009/10: Sheffield United v Sheffield Wednesday</title>
@@ -4699,14 +4705,8 @@
 <programme start="20261105130000 +0000" stop="20261105140000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Women&#039;s Big Bash - Adelaide Strikers v Brisbane Heat</title>
 </programme>
-<programme start="20261105140000 +0000" stop="20261105170000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+<programme start="20261105140000 +0000" stop="20261105173000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Women&#039;s Big Bash - Hobart Hurricanes v Melbourne Renegades</title>
-</programme>
-<programme start="20261105170000 +0000" stop="20261105171500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
-</programme>
-<programme start="20261105171500 +0000" stop="20261105173000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
 </programme>
 <programme start="20261105173000 +0000" stop="20261105174500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2009: New Zealand v England</title>

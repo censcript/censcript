@@ -49,19 +49,19 @@
     <programme start="20261105084500 +0000" stop="20261105090000 +0000" channel="VTV1 HD.mytv">
         <title> Khát vọng sống </title>
     </programme>
-    <programme start="20261105090000 +0000" stop="20261105091500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261105090000 +0000" stop="20261105091600 +0000" channel="VTV1 HD.mytv">
         <title> Mạch nguồn bất tận: Hoa thi đua dâng Người </title>
     </programme>
-    <programme start="20261105091500 +0000" stop="20261105094500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261105091600 +0000" stop="20261105094500 +0000" channel="VTV1 HD.mytv">
         <title> Phụ nữ và cuộc sống: Nghị lực sống </title>
     </programme>
     <programme start="20261105094500 +0000" stop="20261105100000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20261105100000 +0000" stop="20261105101500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261105100000 +0000" stop="20261105101300 +0000" channel="VTV1 HD.mytv">
         <title> Quốc hội với cử tri: Để đất đai là nguồn lực cho tăng trưởng </title>
     </programme>
-    <programme start="20261105101500 +0000" stop="20261105103000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261105101300 +0000" stop="20261105103000 +0000" channel="VTV1 HD.mytv">
         <title> Tương lai xanh: Nơi an cư cho người dân vùng lũ </title>
     </programme>
     <programme start="20261105103000 +0000" stop="20261105110000 +0000" channel="VTV1 HD.mytv">

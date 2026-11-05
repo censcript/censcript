@@ -8168,7 +8168,7 @@
     <title>Sports Today</title>
 </programme>
 <programme start="20261105100000 +0000" stop="20261105120000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2026-2027: Men (L)</title>
 </programme>
 <programme start="20261105120000 +0000" stop="20261105121500 +0000" channel="Sportstars.mncvision">
     <title>iNews Sport</title>
@@ -8495,7 +8495,7 @@
     <title>Sports Today</title>
 </programme>
 <programme start="20261105100000 +0000" stop="20261105120000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League 2026-2027: Men (L)</title>
 </programme>
 <programme start="20261105120000 +0000" stop="20261105121500 +0000" channel="Sportstars HD.mncvision">
     <title>iNews Sport</title>

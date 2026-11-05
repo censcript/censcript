@@ -638,8 +638,6 @@
     <title lang="en">Innovation Nation (Ulangan)</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261104160000 +0000" stop="20261104163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -650,50 +648,36 @@
     <title lang="en">Kasih Malisa (Ulangan)</title>
     <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261104173000 +0000" stop="20261104180000 +0000" channel="tv1.unifitv">
     <title lang="en">Diaspora Melayu (Ulangan)</title>
     <desc lang="en">Rancangan yang memaparkan kehidupan individu berbangsa melayu yang mempunyai karier di serata dunia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20261104180000 +0000" stop="20261104190000 +0000" channel="tv1.unifitv">
     <title lang="en">Isteri Untuk Diiktiraf (Ulangan)</title>
     <desc lang="en">Safiyya dan Tengku Wildan yang disatukan atas pilihan keluarga walaupun pernah mempunyai konflik sebelum berkahwin. Perkahwinan mereka dipenuhi pertelingkahan, cemburu dan salah faham sehingga Tengku Wildan mula menyedari perasaannya terhadap Safiyya. Namun, tuduhan serius terhadap Wildan serta campur tangan keluarga terus menguji hubungan dan peluang mereka untuk mengecapi kebahagiaan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261104190000 +0000" stop="20261104193000 +0000" channel="tv1.unifitv">
     <title lang="en">Sekoci (Ulangan)</title>
     <desc lang="en">Program majalah warisan dan budaya yang mengupas tentang baju tradisional dan menemui tukang-tukang mahir tradisional dalam kemahiran masing-masing.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261104193000 +0000" stop="20261104203000 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <programme start="20261104203000 +0000" stop="20261104210000 +0000" channel="tv1.unifitv">
     <title lang="en">Sembang Jarak Jauh (Ulangan)</title>
     <desc lang="en">Gelagat Tipah dan Kak Ziah, dua jiran di kawasan rumah flat yang gemar bersembang kuat dari pintu rumah masing-masing.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20261104210000 +0000" stop="20261104213500 +0000" channel="tv1.unifitv">
     <title lang="en">Warna-Warni Asia (Ulangan)</title>
     <desc lang="en">Sebuah rancangan yang membawa anda menerokai keindahan dan keunikan tempat-tempat menarik di Asia</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261104213500 +0000" stop="20261104220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al-Waqiah (2026)</title>
@@ -701,7 +685,7 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261104220200 +0000" stop="20261104230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fikrah 2026</title>
+    <title lang="en">Fikrah 2026 (Ulangan)</title>
     <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -720,18 +704,15 @@
     <desc lang="en">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261105020000 +0000" stop="20261105040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Langsung Dari Parlimen</title>
+  <programme start="20261105020000 +0000" stop="20261105040500 +0000" channel="tv1.unifitv">
+    <title lang="en">LANGSUNG DARI PARLIMEN</title>
     <desc lang="en">Ikuti Mesyuarat Ketiga, Penggal Kelima, Parlimen Malaysia ke-15. Siaran Langsung Dewan Rakyat pada 05 Oktober 2026 hingga 08 Disember 2026 dan Dewan Negara pada 30 November 2026 hingga 22 Disember 2026.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261105040000 +0000" stop="20261105050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Help! We Bought A Village</title>
-    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hamper runtuh, sambil meniup nafas baharu ke dalam perkampungan
-terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
+  <programme start="20261105040500 +0000" stop="20261105050000 +0000" channel="tv1.unifitv">
+    <title lang="en">Help! We Bought A Village (Ulangan)</title>
+    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261105050000 +0000" stop="20261105053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -739,22 +720,14 @@ terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105053000 +0000" stop="20261105063000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kasih Malisa</title>
-    <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.
-
-Pelakon : Zara Zya, Fizz Fairuz, Qazem Nor, Zarina Zainoordin, Shakilla Khoriri, Zachery Francis, Roy Azman, Watie Sadali, Lydiawati dan Ridzuan Hashim.</desc>
+    <title lang="en">Kasih Malisa (Ulangan)</title>
+    <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20261105063000 +0000" stop="20261105070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Sembang Jarak Jauh</title>
-    <desc lang="en">Gelagat Tipah dan Kak Ziah, dua jiran di kawasan rumah flat yang gemar bersembang kuat dari pintu rumah masing-masing.
-
-Pelakon : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, dan Zalif Sidek</desc>
+    <title lang="en">Sembang Jarak Jauh (Ulangan)</title>
+    <desc lang="en">Gelagat Tipah dan Kak Ziah, dua jiran di kawasan rumah flat yang gemar bersembang kuat dari pintu rumah masing-masing.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20261105070000 +0000" stop="20261105070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -762,7 +735,7 @@ Pelakon : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, dan Zalif Sidek</
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105070500 +0000" stop="20261105080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Diari Rawat 2026</title>
+    <title lang="en">Diari Rawat 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -772,14 +745,12 @@ Pelakon : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, dan Zalif Sidek</
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105080500 +0000" stop="20261105083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Ringgit &amp; Anda</title>
+    <title lang="en">Ringgit &amp; Anda (Ulangan)</title>
     <desc lang="en">Sebuah dokumentari yang memaparkan tips-tips pengurusan kewangan dalam kehidupan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261105083000 +0000" stop="20261105090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Biz Malaysia 2026</title>
+    <title lang="en">Biz Malaysia 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -789,18 +760,14 @@ Pelakon : Didie Alias, Amyza Aznan, Didi Astillah, Nafiz Muaz, dan Zalif Sidek</
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105100000 +0000" stop="20261105104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dengarlah Dulu......</title>
+    <title lang="en">Dengarlah Dulu.. (Ulangan)</title>
     <desc lang="en">Dengarlah Dulu... ialah program bual bicara yang mengupas pelbagai isu kehidupan, kekeluargaan dan kemasyarakatan dari perspektif Islam. Dengan pendekatan santai dan penuh hikmah, program ini mengajak penonton memahami sesuatu perkara sebelum membuat penilaian atau keputusan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105104500 +0000" stop="20261105114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Demi</title>
-    <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.
-
-Pelakon : Puteri Aishah, Ashraf Muslim, Keith Foo, Ika Nabella, Puteri Rayyana Rayaa, Dato’ Jalaluddin Hassan, Safura Ya’cob, Riz Amin dan Hasnul Rahmat</desc>
+    <title lang="en">Demi (Ulangan)</title>
+    <desc lang="en">Suraya, seorang gadis cekal yang melalui pelbagai liku kehidupan dan kisah cinta yang tidak kesampaian. Tanpa disedari, Arman mencintainya, sementara Suraya pula menaruh harapan kepada sahabatnya, Rashid. Takdir menemukan Suraya dengan Dr. Fairul di Scotland, membawa kisah penuh ketulusan, pengorbanan, perjuangan dan cinta kepada-Nya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.22.</episode-num>
-    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20261105114400 +0000" stop="20261105120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -818,34 +785,29 @@ Pelakon : Puteri Aishah, Ashraf Muslim, Keith Foo, Ika Nabella, Puteri Rayyana R
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105130000 +0000" stop="20261105140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Forum Perdana Ehwal Islam</title>
+    <title lang="en">LIVE : FORUM PERDANA EHWAL ISLAM</title>
     <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105140000 +0000" stop="20261105141500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Dunia 10</desc>
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105141500 +0000" stop="20261105143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Promo/ PSA/ Kapsul</title>
-    <desc lang="en">Promo/ PSA/ Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261105143000 +0000" stop="20261105153000 +0000" channel="tv1.unifitv">
     <title lang="en">Skuad JPJ 2.0</title>
-    <desc lang="en">Mengisahkan sebuah drama bersiri yang memaparkan operasi Jabatan Pengangkutan Jalan (JPJ) dalam menjaga keamanan serta membanteras pelbagai bentuk jenayah.
-Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shahira dan Rashdan Baba.</desc>
+    <desc lang="en">Mengisahkan sebuah drama bersiri yang memaparkan operasi Jabatan Pengangkutan Jalan (JPJ) dalam menjaga keamanan serta membanteras pelbagai bentuk jenayah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261105153000 +0000" stop="20261105160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Innovation Nations</title>
-    <desc lang="en">Saksikan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan professional dan komersil.</desc>
+    <title lang="en">Innovation Nation (Ulangan)</title>
+    <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261105160000 +0000" stop="20261105163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -3334,11 +3296,11 @@ Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shah
     <episode-num system="onscreen">S1E2258</episode-num>
   </programme>
   <programme start="20261104163500 +0000" stop="20261104173500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">Game of Deceit</title>
-    <desc lang="en">The tricky CHING (CHEUNG KA FAI) and the loafer, JIAN, (CHIN KA LOK) always cheat to earn a living. Unexpectedly, they incur, JIAN`s teacher, SUN (LIU KAI CHI) to death. They even make the banker, HUNG (LAW LOK LAU)`s business bankrupted and HUNG`s daughter, PO, (CHEUNG YUK SHAN) has become a courtesan. CHING has disclosed LUN (HSUAN JESSICA HESTER)`s female identity who is the owner of a famous adjusting agent `The First Tooth`. LUN forces CHING to marry her so as to protect her adjusting agent`s reputation. To CHING it is a great torture as he has to change from a tricky swindler to an impartial adjuster. CHING has then become the person in-charge of the adjusting agent. With CHING`s talent together with JIAN and LUN`s assistance, they manage to clear up many swindling cases such as `The Virgin Courtesan`, `The Twins` and `The Nice Weather` etc. Though CHING and LUN, JIAN and PO are enemies at the beginning, they gradually become lovers.</desc>
+    <title lang="en">Mystic Nine</title>
+    <desc lang="en">" Mystic Nine" tells the story of Zhang Qishan (William Chan) and Wu Laogou (Joseph Zeng) joining forces with Huo Xiangu (Chen Yao) and the other members of the Nine Gates to embark on an adventure amidst renewed turmoil in Changsha. A mysterious disappearance of Unit 401 uncovers a shocking secret buried for a century. Life-or-death choices, brotherhood, sectarian duty, and national righteousness intertwine. The members of the Nine Gates use their blood and sacrifice to protect their homeland and overcome difficulties together.</desc>
     <category lang="en">Drama Series</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
+    <episode-num system="xmltv_ns">0.20.</episode-num>
+    <episode-num system="onscreen">S1E21</episode-num>
   </programme>
   <programme start="20261104173500 +0000" stop="20261104183500 +0000" channel="tvbjade.unifitv">
     <title lang="en">This City Never Sleeps &amp; What's On Today</title>
@@ -12744,8 +12706,10 @@ Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shah
   </programme>
   <programme start="20261105043300 +0000" stop="20261105050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">UpFront</title>
-    <desc lang="en">Frank, blunt and UpFront, Marc Lamont Hill cuts through the headlines to get to the heart of the matter with influential guests and newsmakers.</desc>
+    <desc lang="en">Marc Lamont Hill discusses the divisions within the Democratic Party ahead of the midterms with former Congressman Jamaal Bowman.</desc>
     <category lang="en">News</category>
+    <episode-num system="xmltv_ns">0.22.</episode-num>
+    <episode-num system="onscreen">S1E23</episode-num>
   </programme>
   <programme start="20261105050300 +0000" stop="20261105053300 +0000" channel="aljazeera.unifitv">
     <title lang="en">News Live</title>
@@ -12781,7 +12745,7 @@ Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shah
   </programme>
   <programme start="20261105083300 +0000" stop="20261105090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">Israeli member of parliament Ofer Cassif discusses the possible outcomes of Israel's election.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.43.</episode-num>
     <episode-num system="onscreen">S1E44</episode-num>

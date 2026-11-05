@@ -1,4 +1,4 @@
-<programme start="20261105000000 +0000" stop="20261105031500 +0000" channel="RCTI.vision">
+<programme start="20261104224500 +0000" stop="20261105031500 +0000" channel="RCTI.vision">
 <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20261105031500 +0000" stop="20261105034500 +0000" channel="RCTI.vision">
@@ -20,16 +20,13 @@
 <title>Terbaik Itu Kamu (RCTI)</title>
 </programme>
 <programme start="20261105150000 +0000" stop="20261105171500 +0000" channel="RCTI.vision">
-<title>Catatan Hati Seorang Istri</title>
+<title>Terbelenggu Rindu Amira</title>
 </programme>
 <programme start="20261105171500 +0000" stop="20261105183000 +0000" channel="RCTI.vision">
 <title>Cenat-Cenut Hati Badut Imut</title>
 </programme>
-<programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="RCTI.vision">
+<programme start="20261105183000 +0000" stop="20261105200000 +0000" channel="RCTI.vision">
 <title>Cinta Gak Pake Buta Huruf</title>
-</programme>
-<programme start="20261105190000 +0000" stop="20261105200000 +0000" channel="RCTI.vision">
-<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20261105200000 +0000" stop="20261105221500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -37,10 +34,7 @@
 <programme start="20261105221500 +0000" stop="20261105224500 +0000" channel="RCTI.vision">
 <title>Seputar iNews</title>
 </programme>
-<programme start="20261105224500 +0000" stop="20261106000000 +0000" channel="RCTI.vision">
-<title>Preman Pensiun Deui</title>
-</programme>
-<programme start="20261106000000 +0000" stop="20261106031500 +0000" channel="RCTI.vision">
+<programme start="20261105224500 +0000" stop="20261106031500 +0000" channel="RCTI.vision">
 <title>Mencintaimu Sekali Lagi Arini</title>
 </programme>
 <programme start="20261106031500 +0000" stop="20261106034500 +0000" channel="RCTI.vision">
@@ -636,9 +630,6 @@
 </programme>
 <programme start="20261105010000 +0000" stop="20261105023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261105023000 +0000" stop="20261105060000 +0000" channel="ANTV.vision">
-<title>Kya Kehna</title>
 </programme>
 <programme start="20261105060000 +0000" stop="20261105073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261105070000 +0000" stop="20261105070300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261105070300 +0000" stop="20261105080000 +0000" channel="TVRI.vision">
+<title>Losmen Reborn S3</title>
+</programme>
+<programme start="20261105080000 +0000" stop="20261105080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261105080300 +0000" stop="20261105090000 +0000" channel="TVRI.vision">
+<title>Rest Area</title>
 </programme>
