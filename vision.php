@@ -631,12 +631,6 @@
 <programme start="20261106131500 +0000" stop="20261106143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261106143000 +0000" stop="20261106163000 +0000" channel="ANTV.vision">
-<title>Gantian Dong</title>
-</programme>
-<programme start="20261106163000 +0000" stop="20261106181500 +0000" channel="ANTV.vision">
-<title>Aces Go Places 3</title>
-</programme>
 <programme start="20261106181500 +0000" stop="20261106193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -807,9 +801,6 @@
 </programme>
 <programme start="20261106130000 +0000" stop="20261106140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261106140000 +0000" stop="20261106160000 +0000" channel="TVOne.vision">
-<title>Indonesia Lawyers Club</title>
 </programme>
 <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="TVOne.vision">
 <title>Kabar Arena Malam</title>
@@ -1496,5 +1487,14 @@
 <title>Bali TV</title>
 </programme>
 <programme start="20261107010000 +0000" stop="20261107050000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261107050000 +0000" stop="20261107080000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261107080000 +0000" stop="20261107103000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261107103000 +0000" stop="20261107113000 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
 </programme>

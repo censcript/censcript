@@ -359,7 +359,7 @@
     <title>Question Time - 2026:05/11/2026</title>
 </programme>
 <programme start="20261106002000 +0000" stop="20261106005000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Newscast - Episode 15</title>
+    <title>Newscast - Series 7: 19. The Week: What American Politics Means For The UK</title>
 </programme>
 <programme start="20261106005000 +0000" stop="20261106013500 +0000" channel="BBC1_HD.virginmediatv">
     <title>The Celebrity Inner Circle - Episode 8</title>
@@ -2302,8 +2302,11 @@
 <programme start="20261106133000 +0000" stop="20261106140000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>Latest News and Weather</title>
 </programme>
-<programme start="20261106140000 +0000" stop="20261106150000 +0000" channel="RTE_News_Now.virginmediatv">
+<programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>Latest News and Weather</title>
+</programme>
+<programme start="20261106143000 +0000" stop="20261106150000 +0000" channel="RTE_News_Now.virginmediatv">
+    <title>Mass</title>
 </programme>
 <programme start="20261106150000 +0000" stop="20261106160000 +0000" channel="RTE_News_Now.virginmediatv">
     <title>Latest News and Weather</title>
@@ -2672,13 +2675,13 @@
     <title>Connect the World</title>
 </programme>
 <programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="CNN_HD.virginmediatv">
-    <title>One World With Zain Asher and Bianna Golodryga</title>
+    <title>One World With Zain Asher</title>
 </programme>
 <programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="CNN_HD.virginmediatv">
     <title>CNN Creators</title>
 </programme>
 <programme start="20261106170000 +0000" stop="20261106180000 +0000" channel="CNN_HD.virginmediatv">
-    <title>One World With Zain Asher and Bianna Golodryga</title>
+    <title>One World With Zain Asher</title>
 </programme>
 <programme start="20261106000000 +0000" stop="20261106003000 +0000" channel="BBC_News.virginmediatv">
     <title>BBC News</title>
@@ -4549,7 +4552,7 @@
 <programme start="20261106045500 +0000" stop="20261106055500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
     <title>European Rugby Champions Cup - Highlights: Round 1</title>
 </programme>
-<programme start="20261106055500 +0000" stop="20261106080000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
+<programme start="20261106055500 +0000" stop="20261106060000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
     <title>Live: Wheelchair Rugby League World Cup - Pool A: England v Ireland</title>
 </programme>
 <programme start="20261106113000 +0000" stop="20261106133000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
