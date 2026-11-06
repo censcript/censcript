@@ -2674,20 +2674,35 @@
   <programme start="20261107192000 +0000" stop="20261107230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Večerní pořad</title>
   </programme>
-  <programme start="20261106230000 +0000" stop="20261107070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261106230000 +0000" stop="20261107050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
+  </programme>
+  <programme start="20261107050000 +0000" stop="20261107060000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
+  </programme>
+  <programme start="20261107060000 +0000" stop="20261107070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Ráno s muzikou</title>
   </programme>
   <programme start="20261107070000 +0000" stop="20261107113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
-  <programme start="20261107113000 +0000" stop="20261107133000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261107113000 +0000" stop="20261107123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
   </programme>
-  <programme start="20261107133000 +0000" stop="20261107173000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261107123000 +0000" stop="20261107133000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
+  </programme>
+  <programme start="20261107133000 +0000" stop="20261107162000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
-  <programme start="20261107173000 +0000" stop="20261107210000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261107162000 +0000" stop="20261107173000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Samá sleva zprava zleva</title>
+  </programme>
+  <programme start="20261107173000 +0000" stop="20261107183000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
+  </programme>
+  <programme start="20261107183000 +0000" stop="20261107210000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Setkání u Osičků</title>
   </programme>
   <programme start="20261107210000 +0000" stop="20261107230000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Z dechovky do dechovky</title>
@@ -18620,7 +18635,7 @@
     <title lang="id">Affari tuoi</title>
   </programme>
   <programme start="20261107203000 +0000" stop="20261107225500 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Ballando con le Stelle</title>
+    <title lang="id">Ballando con le Stelle (6)</title>
   </programme>
   <programme start="20261107225500 +0000" stop="20261107230000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
