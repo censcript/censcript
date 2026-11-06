@@ -2330,7 +2330,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261106003000 +0000" stop="20261106010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast - 06/11/2026</title>
+    <title>Talking Movies - London And New York Film Festivals</title>
 </programme>
 <programme start="20261106010000 +0000" stop="20261106013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>

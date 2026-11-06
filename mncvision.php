@@ -1195,8 +1195,11 @@
 <programme start="20261106083000 +0000" stop="20261106093000 +0000" channel="beIN Sports 2.mncvision">
     <title>UCI World Tour Highlights 2026</title>
 </programme>
-<programme start="20261106093000 +0000" stop="20261106110000 +0000" channel="beIN Sports 2.mncvision">
+<programme start="20261106093000 +0000" stop="20261106105000 +0000" channel="beIN Sports 2.mncvision">
     <title>FIP World Cup 2026: Day 4</title>
+</programme>
+<programme start="20261106105000 +0000" stop="20261106110000 +0000" channel="beIN Sports 2.mncvision">
+    <title>Premier Padel Match HL 2026</title>
 </programme>
 <programme start="20261106110000 +0000" stop="20261106123000 +0000" channel="beIN Sports 2.mncvision">
     <title>FIP World Cup 2026: Day 5 (L)</title>
@@ -1249,8 +1252,11 @@
 <programme start="20261106083000 +0000" stop="20261106093000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>UCI World Tour Highlights 2026</title>
 </programme>
-<programme start="20261106093000 +0000" stop="20261106110000 +0000" channel="beIN Sports 2 HD.mncvision">
+<programme start="20261106093000 +0000" stop="20261106105000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>FIP World Cup 2026: Day 4</title>
+</programme>
+<programme start="20261106105000 +0000" stop="20261106110000 +0000" channel="beIN Sports 2 HD.mncvision">
+    <title>Premier Padel Match HL 2026</title>
 </programme>
 <programme start="20261106110000 +0000" stop="20261106123000 +0000" channel="beIN Sports 2 HD.mncvision">
     <title>FIP World Cup 2026: Day 5 (L)</title>
@@ -2972,7 +2978,7 @@
     <title>ENTR</title>
 </programme>
 <programme start="20261106063000 +0000" stop="20261106070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Focus On Europe: People</title>
 </programme>
 <programme start="20261106070000 +0000" stop="20261106070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2991,60 +2997,6 @@
 </programme>
 <programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="DW English.mncvision">
     <title>DW News Africa</title>
-</programme>
-<programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="Entertainment.mncvision">
-    <title>Kopaja (Kosan Pak Jarwo)</title>
-</programme>
-<programme start="20261105180000 +0000" stop="20261105190000 +0000" channel="Entertainment.mncvision">
-    <title>Konon Katanya</title>
-</programme>
-<programme start="20261105190000 +0000" stop="20261105203000 +0000" channel="Entertainment.mncvision">
-    <title>The Singing Bee Indonesia</title>
-</programme>
-<programme start="20261105203000 +0000" stop="20261105213000 +0000" channel="Entertainment.mncvision">
-    <title>I Love Indonesia</title>
-</programme>
-<programme start="20261105213000 +0000" stop="20261105220000 +0000" channel="Entertainment.mncvision">
-    <title>Kopaja (Kosan Pak Jarwo)</title>
-</programme>
-<programme start="20261105220000 +0000" stop="20261105230000 +0000" channel="Entertainment.mncvision">
-    <title>Konon Katanya</title>
-</programme>
-<programme start="20261105230000 +0000" stop="20261106010000 +0000" channel="Entertainment.mncvision">
-    <title>Road To Kilau Raya: Purworejo</title>
-</programme>
-<programme start="20261106010000 +0000" stop="20261106023000 +0000" channel="Entertainment.mncvision">
-    <title>Family 100</title>
-</programme>
-<programme start="20261106023000 +0000" stop="20261106050000 +0000" channel="Entertainment.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20261106050000 +0000" stop="20261106063000 +0000" channel="Entertainment.mncvision">
-    <title>The Singing Bee Indonesia</title>
-</programme>
-<programme start="20261106063000 +0000" stop="20261106083000 +0000" channel="Entertainment.mncvision">
-    <title>Road To Kilau Raya: Karawang</title>
-</programme>
-<programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="Entertainment.mncvision">
-    <title>Kopaja (Kosan Pak Jarwo)</title>
-</programme>
-<programme start="20261106090000 +0000" stop="20261106100000 +0000" channel="Entertainment.mncvision">
-    <title>Konon Katanya</title>
-</programme>
-<programme start="20261106100000 +0000" stop="20261106103000 +0000" channel="Entertainment.mncvision">
-    <title>I Love Indonesia</title>
-</programme>
-<programme start="20261106103000 +0000" stop="20261106130000 +0000" channel="Entertainment.mncvision">
-    <title>DMD Panggung Rezeki</title>
-</programme>
-<programme start="20261106130000 +0000" stop="20261106143000 +0000" channel="Entertainment.mncvision">
-    <title>Family 100</title>
-</programme>
-<programme start="20261106143000 +0000" stop="20261106153000 +0000" channel="Entertainment.mncvision">
-    <title>Dibalik Kisah Misteri</title>
-</programme>
-<programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="Entertainment.mncvision">
-    <title>Road To Kilau Raya: Karawang</title>
 </programme>
 <programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="EURONEWS.mncvision">
     <title>Europe Today</title>
@@ -4136,7 +4088,7 @@
     <title>Ludruk Humor Kirun</title>
 </programme>
 <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Wayang Kulit: Magetan</title>
+    <title>Wayang Kulit Semalam Suntuk</title>
 </programme>
 <programme start="20261105173500 +0000" stop="20261105183000 +0000" channel="History.mncvision">
     <title>Greatest Warriors, Ep 1</title>
@@ -4742,7 +4694,7 @@
     <title>iNews Siang (L)</title>
 </programme>
 <programme start="20261106060000 +0000" stop="20261106063000 +0000" channel="iNews.mncvision">
-    <title>Pemimpin Rakyat (L)</title>
+    <title>iNews On Point</title>
 </programme>
 <programme start="20261106063000 +0000" stop="20261106074500 +0000" channel="iNews.mncvision">
     <title>Breaking News (L)</title>
@@ -4832,7 +4784,7 @@
     <title>iNews Siang (L)</title>
 </programme>
 <programme start="20261106060000 +0000" stop="20261106063000 +0000" channel="iNews HD.mncvision">
-    <title>Pemimpin Rakyat (L)</title>
+    <title>iNews On Point</title>
 </programme>
 <programme start="20261106063000 +0000" stop="20261106074500 +0000" channel="iNews HD.mncvision">
     <title>Breaking News (L)</title>

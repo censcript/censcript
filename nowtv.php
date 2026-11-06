@@ -1,21 +1,3 @@
-<programme start="20261106000000 +0000" stop="20261106010000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106010000 +0000" stop="20261106020000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106020000 +0000" stop="20261106030000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106030000 +0000" stop="20261106040000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106040000 +0000" stop="20261106050000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106050000 +0000" stop="20261106060000 +0000" channel="Now Sports 4K 1.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261106060000 +0000" stop="20261106070000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -49,15 +31,6 @@
 <programme start="20261106160000 +0000" stop="20261106170000 +0000" channel="Now Sports 4K 1.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261106000000 +0000" stop="20261106020000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106020000 +0000" stop="20261106040000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106040000 +0000" stop="20261106060000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261106060000 +0000" stop="20261106080000 +0000" channel="Now Sports 4K 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -74,15 +47,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261106160000 +0000" stop="20261106180000 +0000" channel="Now Sports 4K 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106000000 +0000" stop="20261106020000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106020000 +0000" stop="20261106040000 +0000" channel="Now Sports 4K 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106040000 +0000" stop="20261106060000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261106060000 +0000" stop="20261106080000 +0000" channel="Now Sports 4K 3.nowtv">
@@ -102,24 +66,6 @@
 </programme>
 <programme start="20261106160000 +0000" stop="20261106180000 +0000" channel="Now Sports 4K 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106000000 +0000" stop="20261106003000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Stories 26/27 -ASTON VILLA 92-93 - BEHIND THE FIRST SEASON</title>
-</programme>
-<programme start="20261106003000 +0000" stop="20261106004500 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 8</title>
-</programme>
-<programme start="20261106004500 +0000" stop="20261106010000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>PL Goals 26/27 -Week 9</title>
-</programme>
-<programme start="20261106010000 +0000" stop="20261106030000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Bournemouth vs Leeds United</title>
-</programme>
-<programme start="20261106030000 +0000" stop="20261106050000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League 26/27 -Aston Villa vs Fulham</title>
-</programme>
-<programme start="20261106050000 +0000" stop="20261106060000 +0000" channel="Now Sports Premier League 1.nowtv">
-    <title>Premier League Highlights 26/27 -Week 9</title>
 </programme>
 <programme start="20261106060000 +0000" stop="20261106080000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Newcastle United vs Everton</title>
@@ -148,9 +94,6 @@
 <programme start="20261106160000 +0000" stop="20261106180000 +0000" channel="Now Sports Premier League 1.nowtv">
     <title>Premier League 26/27 -Hull City vs Ipswich Town</title>
 </programme>
-<programme start="20261106000000 +0000" stop="20261106040000 +0000" channel="Now Sports Premier League 2.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261106040000 +0000" stop="20261106080000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -163,9 +106,6 @@
 <programme start="20261106160000 +0000" stop="20261106200000 +0000" channel="Now Sports Premier League 2.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
-<programme start="20261106000000 +0000" stop="20261106040000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
 <programme start="20261106040000 +0000" stop="20261106080000 +0000" channel="Now Sports Premier League 3.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
@@ -176,9 +116,6 @@
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261106160000 +0000" stop="20261106200000 +0000" channel="Now Sports Premier League 3.nowtv">
-    <title>Stay tuned for the next broadcast</title>
-</programme>
-<programme start="20261106000000 +0000" stop="20261106040000 +0000" channel="Now Sports Premier League 4.nowtv">
     <title>Stay tuned for the next broadcast</title>
 </programme>
 <programme start="20261106040000 +0000" stop="20261106080000 +0000" channel="Now Sports Premier League 4.nowtv">

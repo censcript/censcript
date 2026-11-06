@@ -619,9 +619,6 @@
 <programme start="20261106010000 +0000" stop="20261106023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261106023000 +0000" stop="20261106060000 +0000" channel="ANTV.vision">
-<title>Jab Tak Hai Jaan</title>
-</programme>
 <programme start="20261106060000 +0000" stop="20261106073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261106070000 +0000" stop="20261106070300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261106070300 +0000" stop="20261106080000 +0000" channel="TVRI.vision">
+<title>Jejak Langkah</title>
 </programme>

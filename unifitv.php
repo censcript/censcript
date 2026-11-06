@@ -14116,7 +14116,7 @@
   </channel>
   <programme start="20261105153300 +0000" stop="20261105160300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Ayurveda from India, hydrotherapy from Germany, saffron from the Middle East—what role do traditional therapies play in modern medicine? In Good Shape explores some interesting findings.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14130,7 +14130,7 @@
   </programme>
   <programme start="20261105163300 +0000" stop="20261105170300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Human trafficking: How foreign workers are exploited in Serbia. +++ Italy: Why a major steel plant has to shut down.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14143,8 +14143,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261105171800 +0000" stop="20261105173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14165,7 +14165,7 @@
   </programme>
   <programme start="20261105183300 +0000" stop="20261105190300 +0000" channel="dw.unifitv">
     <title lang="en">Global Us</title>
-    <desc lang="en">Global Us</desc>
+    <desc lang="en">China's tourism is surging—yet crisis and control are slowing growth. Kruger National Park celebrates 100 years of safari. Florida sees fewer international tourists—are politics playing a role?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14185,15 +14185,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261105191800 +0000" stop="20261105193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261105193300 +0000" stop="20261105200300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Human trafficking: How foreign workers are exploited in Serbia. +++ Italy: Why a major steel plant has to shut down.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14249,7 +14249,7 @@
   </programme>
   <programme start="20261105223300 +0000" stop="20261105230300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Ayurveda from India, hydrotherapy from Germany, saffron from the Middle East—what role do traditional therapies play in modern medicine? In Good Shape explores some interesting findings.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14269,8 +14269,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261105231800 +0000" stop="20261105233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14340,7 +14340,7 @@
   </programme>
   <programme start="20261106023300 +0000" stop="20261106030300 +0000" channel="dw.unifitv">
     <title lang="en">Focus on Europe</title>
-    <desc lang="en">Focus on Europe</desc>
+    <desc lang="en">Human trafficking: How foreign workers are exploited in Serbia. +++ Italy: Why a major steel plant has to shut down.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14360,15 +14360,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261106031800 +0000" stop="20261106033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261106033300 +0000" stop="20261106040300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">A severe El Niño could reduce harvests, disrupt shipping routes, and increase government spending across multiple regions at once.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14430,8 +14430,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261106061800 +0000" stop="20261106063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">ENTR</title>
+    <desc lang="en">Andrej is 20 years old. For the past two years, he has devoted his free time to one goal: Serbia's student movement win.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14473,7 +14473,7 @@
   </programme>
   <programme start="20261106080500 +0000" stop="20261106083300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">US carmakers pivot back to combustion engines under Donald Trump, while China pulls ahead in electric mobility. A strategic misstep? And: Electric ferries in Lagos, transport woes in Karachi and German firms in Serbia.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14522,7 +14522,7 @@
   </programme>
   <programme start="20261106101800 +0000" stop="20261106110300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">Dreamy mountain villages, fine wines and a capital city steeped in culture and history. From the Alps to Lake Maggiore, northwestern Italy's Piedmont region is where diverse landscapes meet delicious cuisine.</desc>
+    <desc lang="en">The Russian Civil War was one of the 20th century's bloodiest chapters. The fight for Russia between Lenin's Red Army and the White Army was ruthless. Its legacy can be felt in Europe to this day.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14536,7 +14536,7 @@
   </programme>
   <programme start="20261106110500 +0000" stop="20261106113300 +0000" channel="dw.unifitv">
     <title lang="en">Made in Germany</title>
-    <desc lang="en">Made in Germany</desc>
+    <desc lang="en">A severe El Niño could reduce harvests, disrupt shipping routes, and increase government spending across multiple regions at once.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14584,15 +14584,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261106131800 +0000" stop="20261106133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Travel</title>
+    <desc lang="en">London is one of the world's most exciting cities, but with so much to see, where do you begin? We've got some travel tips from a true Londoner that will make your trip to London truly special.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261106133300 +0000" stop="20261106140300 +0000" channel="dw.unifitv">
     <title lang="en">In Good Shape</title>
-    <desc lang="en">In Good Shape</desc>
+    <desc lang="en">Falling from a height can cause hearing loss and vertigo. We meet a sufferer who has learned to walk and run again. Plus: ear cleaning, earplugs and tinnitus.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
