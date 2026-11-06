@@ -4,10 +4,10 @@
 <programme start="20261106003500 +0000" stop="20261106013500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>The Regency: 10 Years On</title>
 </programme>
-<programme start="20261106013500 +0000" stop="20261106022500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20261106013500 +0000" stop="20261106022800 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Beat the Chasers - Episode 1</title>
 </programme>
-<programme start="20261106022500 +0000" stop="20261106061500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
+<programme start="20261106022800 +0000" stop="20261106061500 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261106100000 +0000" stop="20261106123000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
@@ -475,10 +475,10 @@
 <programme start="20261106013500 +0000" stop="20261106023500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>The Regency: 10 Years On</title>
 </programme>
-<programme start="20261106023500 +0000" stop="20261106032500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20261106023500 +0000" stop="20261106032800 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Beat the Chasers - Episode 1</title>
 </programme>
-<programme start="20261106032500 +0000" stop="20261106071500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
+<programme start="20261106032800 +0000" stop="20261106071500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261106110000 +0000" stop="20261106133000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
@@ -502,19 +502,19 @@
 <programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="Virgin_Media_One_+1.virginmediatv">
     <title>Judge Judy - You Are a Lousy Nanny!; Fence Frenzy!</title>
 </programme>
-<programme start="20261105231000 +0000" stop="20261106001000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Gogglebox - Episode 9</title>
-</programme>
-<programme start="20261106001000 +0000" stop="20261106010000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Angler&#039;s Lodge</title>
+<programme start="20261105234000 +0000" stop="20261106010000 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>Dispatches - Russell Brand: In Plain Sight</title>
 </programme>
 <programme start="20261106010000 +0000" stop="20261106014000 +0000" channel="Channel_4_HD.virginmediatv">
-    <title>The Great British Bake Off: Second Helpings - Episode 7</title>
+    <title>Ramsay&#039;s Hotel Hell - Angler&#039;s Lodge</title>
 </programme>
-<programme start="20261106014000 +0000" stop="20261106023000 +0000" channel="Channel_4_HD.virginmediatv">
+<programme start="20261106014000 +0000" stop="20261106015500 +0000" channel="Channel_4_HD.virginmediatv">
     <title>Pierre - Episode 5</title>
 </programme>
-<programme start="20261106023000 +0000" stop="20261106042000 +0000" channel="Channel_4_HD.virginmediatv">
+<programme start="20261106015500 +0000" stop="20261106023500 +0000" channel="Channel_4_HD.virginmediatv">
+    <title>The Great British Bake Off: Second Helpings - Episode 7</title>
+</programme>
+<programme start="20261106023500 +0000" stop="20261106042000 +0000" channel="Channel_4_HD.virginmediatv">
     <title>Swan Song</title>
 </programme>
 <programme start="20261106042000 +0000" stop="20261106044500 +0000" channel="Channel_4_HD.virginmediatv">
@@ -2650,7 +2650,7 @@
 <programme start="20261106040000 +0000" stop="20261106050000 +0000" channel="CNN_HD.virginmediatv">
     <title>Laura Coates Live</title>
 </programme>
-<programme start="20261106050000 +0000" stop="20261106070000 +0000" channel="CNN_HD.virginmediatv">
+<programme start="20261106050000 +0000" stop="20261106060000 +0000" channel="CNN_HD.virginmediatv">
     <title>CNN Newsroom</title>
 </programme>
 <programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="CNN_HD.virginmediatv">
@@ -4213,17 +4213,20 @@
 <programme start="20261106050000 +0000" stop="20261106070000 +0000" channel="MUTV.virginmediatv">
     <title>The Impossible Dream</title>
 </programme>
-<programme start="20261106110000 +0000" stop="20261106130000 +0000" channel="MUTV.virginmediatv">
-    <title>The Impossible Dream</title>
+<programme start="20261106110000 +0000" stop="20261106123000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Sir Alex Anniversary</title>
 </programme>
-<programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: League Phase - Manchester United v AS Roma</title>
 </programme>
-<programme start="20261106133000 +0000" stop="20261106134500 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference - Uncut: Press Conference: Aston Villa (H)</title>
+<programme start="20261106130000 +0000" stop="20261106131500 +0000" channel="MUTV.virginmediatv">
+    <title>Sir Alex Ferguson: Games of My Life</title>
+</programme>
+<programme start="20261106131500 +0000" stop="20261106134500 +0000" channel="MUTV.virginmediatv">
+    <title>Live: Manager&#039;s Press Conference</title>
 </programme>
 <programme start="20261106134500 +0000" stop="20261106140000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Phallon Tullis-Joyce: New York v Manchester</title>
+    <title>The United Archives - 2022/23: Manchester United v Aston Villa</title>
 </programme>
 <programme start="20261106140000 +0000" stop="20261106143000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2001/02 FA Cup: Aston Villa v Manchester United</title>
@@ -4235,25 +4238,22 @@
     <title>Manager&#039;s Press Conference - Uncut: Press Conference: Aston Villa (H)</title>
 </programme>
 <programme start="20261106151500 +0000" stop="20261106153000 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2022/23: Manchester United v Aston Villa</title>
+    <title>A Day in the Life: Monica Jusu Bah</title>
 </programme>
-<programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2007/08: Manchester United v Aston Villa</title>
-</programme>
-<programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2008/09: Manchester United v Aston Villa</title>
-</programme>
-<programme start="20261106163000 +0000" stop="20261106170000 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2009/10 League Cup Final: Manchester United v Aston Villa</title>
+<programme start="20261106153000 +0000" stop="20261106170000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Sir Alex Anniversary</title>
 </programme>
 <programme start="20261106170000 +0000" stop="20261106171500 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference - Uncut: Press Conference: Aston Villa (H)</title>
 </programme>
 <programme start="20261106171500 +0000" stop="20261106173000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Phallon Tullis-Joyce: New York v Manchester</title>
+    <title>A Day in the Life: Monica Jusu Bah</title>
 </programme>
-<programme start="20261106173000 +0000" stop="20261106180000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: League Phase - Manchester United v AS Roma</title>
+<programme start="20261106173000 +0000" stop="20261106174000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Harry Maguire - 40 Years of Fergie</title>
+</programme>
+<programme start="20261106174000 +0000" stop="20261106180000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Tom Heaton - 40 Years of Fergie</title>
 </programme>
 <programme start="20261105234500 +0000" stop="20261106001500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Sao Paulo Grand Prix: Paddock Uncut</title>
@@ -5044,19 +5044,22 @@
 <programme start="20261105233500 +0000" stop="20261106001000 +0000" channel="Channel_4_+1.virginmediatv">
     <title>It Gets Worse - People Team</title>
 </programme>
-<programme start="20261106001000 +0000" stop="20261106011000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Gogglebox - Episode 9</title>
+<programme start="20261106001000 +0000" stop="20261106004000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Gogglebox</title>
 </programme>
-<programme start="20261106011000 +0000" stop="20261106020000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>Ramsay&#039;s Hotel Hell - Angler&#039;s Lodge</title>
+<programme start="20261106004000 +0000" stop="20261106020000 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>Dispatches - Russell Brand: In Plain Sight</title>
 </programme>
 <programme start="20261106020000 +0000" stop="20261106024000 +0000" channel="Channel_4_+1.virginmediatv">
-    <title>The Great British Bake Off: Second Helpings - Episode 7</title>
+    <title>Ramsay&#039;s Hotel Hell - Angler&#039;s Lodge</title>
 </programme>
-<programme start="20261106024000 +0000" stop="20261106033000 +0000" channel="Channel_4_+1.virginmediatv">
+<programme start="20261106024000 +0000" stop="20261106025500 +0000" channel="Channel_4_+1.virginmediatv">
     <title>Pierre - Episode 5</title>
 </programme>
-<programme start="20261106033000 +0000" stop="20261106052000 +0000" channel="Channel_4_+1.virginmediatv">
+<programme start="20261106025500 +0000" stop="20261106033500 +0000" channel="Channel_4_+1.virginmediatv">
+    <title>The Great British Bake Off: Second Helpings - Episode 7</title>
+</programme>
+<programme start="20261106033500 +0000" stop="20261106052000 +0000" channel="Channel_4_+1.virginmediatv">
     <title>Swan Song</title>
 </programme>
 <programme start="20261106052000 +0000" stop="20261106054500 +0000" channel="Channel_4_+1.virginmediatv">
@@ -7391,7 +7394,7 @@
     <title>Catholic Sphere - Condition Critical! Why Catholics need to be concerned about Critical Theory!</title>
 </programme>
 <programme start="20261106030000 +0000" stop="20261106040000 +0000" channel="EWTN.virginmediatv">
-    <title>Father Spitzer&#039;s Universe - Science, Reason, And Faith Catholic Study Bible</title>
+    <title>Father Spitzer&#039;s Universe - Science, Reason, And Faith Catholic Study Bible, Pt. 11</title>
 </programme>
 <programme start="20261106040000 +0000" stop="20261106043000 +0000" channel="EWTN.virginmediatv">
     <title>The Church and the Poor - The Penitential Rite</title>

@@ -2998,6 +2998,60 @@
 <programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="DW English.mncvision">
     <title>DW News Africa</title>
 </programme>
+<programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="Entertainment.mncvision">
+    <title>Kopaja (Kosan Pak Jarwo)</title>
+</programme>
+<programme start="20261105180000 +0000" stop="20261105190000 +0000" channel="Entertainment.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20261105190000 +0000" stop="20261105203000 +0000" channel="Entertainment.mncvision">
+    <title>The Singing Bee Indonesia</title>
+</programme>
+<programme start="20261105203000 +0000" stop="20261105213000 +0000" channel="Entertainment.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20261105213000 +0000" stop="20261105220000 +0000" channel="Entertainment.mncvision">
+    <title>Kopaja (Kosan Pak Jarwo)</title>
+</programme>
+<programme start="20261105220000 +0000" stop="20261105230000 +0000" channel="Entertainment.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20261105230000 +0000" stop="20261106010000 +0000" channel="Entertainment.mncvision">
+    <title>Road To Kilau Raya: Purworejo</title>
+</programme>
+<programme start="20261106010000 +0000" stop="20261106023000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20261106023000 +0000" stop="20261106050000 +0000" channel="Entertainment.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20261106050000 +0000" stop="20261106063000 +0000" channel="Entertainment.mncvision">
+    <title>The Singing Bee Indonesia</title>
+</programme>
+<programme start="20261106063000 +0000" stop="20261106083000 +0000" channel="Entertainment.mncvision">
+    <title>Road To Kilau Raya: Karawang</title>
+</programme>
+<programme start="20261106083000 +0000" stop="20261106090000 +0000" channel="Entertainment.mncvision">
+    <title>Kopaja (Kosan Pak Jarwo)</title>
+</programme>
+<programme start="20261106090000 +0000" stop="20261106100000 +0000" channel="Entertainment.mncvision">
+    <title>Konon Katanya</title>
+</programme>
+<programme start="20261106100000 +0000" stop="20261106103000 +0000" channel="Entertainment.mncvision">
+    <title>I Love Indonesia</title>
+</programme>
+<programme start="20261106103000 +0000" stop="20261106130000 +0000" channel="Entertainment.mncvision">
+    <title>DMD Panggung Rezeki</title>
+</programme>
+<programme start="20261106130000 +0000" stop="20261106143000 +0000" channel="Entertainment.mncvision">
+    <title>Family 100</title>
+</programme>
+<programme start="20261106143000 +0000" stop="20261106153000 +0000" channel="Entertainment.mncvision">
+    <title>Dibalik Kisah Misteri</title>
+</programme>
+<programme start="20261106153000 +0000" stop="20261106160000 +0000" channel="Entertainment.mncvision">
+    <title>Road To Kilau Raya: Karawang</title>
+</programme>
 <programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="EURONEWS.mncvision">
     <title>Europe Today</title>
 </programme>
@@ -3955,11 +4009,8 @@
 <programme start="20261106010000 +0000" stop="20261106050000 +0000" channel="GTV.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261106050000 +0000" stop="20261106090000 +0000" channel="GTV.mncvision">
+<programme start="20261106050000 +0000" stop="20261106103000 +0000" channel="GTV.mncvision">
     <title>Kiko</title>
-</programme>
-<programme start="20261106090000 +0000" stop="20261106103000 +0000" channel="GTV.mncvision">
-    <title>Entong</title>
 </programme>
 <programme start="20261106103000 +0000" stop="20261106120000 +0000" channel="GTV.mncvision">
     <title>Film Keluarga</title>
@@ -3994,11 +4045,8 @@
 <programme start="20261106010000 +0000" stop="20261106050000 +0000" channel="GTV HD.mncvision">
     <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261106050000 +0000" stop="20261106090000 +0000" channel="GTV HD.mncvision">
+<programme start="20261106050000 +0000" stop="20261106103000 +0000" channel="GTV HD.mncvision">
     <title>Kiko</title>
-</programme>
-<programme start="20261106090000 +0000" stop="20261106103000 +0000" channel="GTV HD.mncvision">
-    <title>Entong</title>
 </programme>
 <programme start="20261106103000 +0000" stop="20261106120000 +0000" channel="GTV HD.mncvision">
     <title>Film Keluarga</title>
@@ -4984,8 +5032,11 @@
 <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="Kids TV.mncvision">
     <title>Morphle</title>
 </programme>
-<programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="Kids TV.mncvision">
+<programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="Kids TV.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261106130000 +0000" stop="20261106132000 +0000" channel="Kids TV.mncvision">
     <title>Thomas &amp; Friends S27</title>
@@ -5119,8 +5170,11 @@
 <programme start="20261106113000 +0000" stop="20261106120000 +0000" channel="Kids TV HD.mncvision">
     <title>Morphle</title>
 </programme>
-<programme start="20261106120000 +0000" stop="20261106130000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Bermula</title>
+</programme>
+<programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="Kids TV HD.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261106130000 +0000" stop="20261106132000 +0000" channel="Kids TV HD.mncvision">
     <title>Thomas &amp; Friends S27</title>
@@ -8233,8 +8287,17 @@
 <programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>V-League Men</title>
 </programme>
-<programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261105170000 +0000" stop="20261105173000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
+</programme>
+<programme start="20261105173000 +0000" stop="20261105180000 +0000" channel="Sportstars 4.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20261105180000 +0000" stop="20261105183000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20261105183000 +0000" stop="20261105190000 +0000" channel="Sportstars 4.mncvision">
+    <title>iNews Sport</title>
 </programme>
 <programme start="20261105190000 +0000" stop="20261105210000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Two</title>
@@ -8242,32 +8305,71 @@
 <programme start="20261105210000 +0000" stop="20261105230000 +0000" channel="Sportstars 4.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20261105230000 +0000" stop="20261106010000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261105230000 +0000" stop="20261105233000 +0000" channel="Sportstars 4.mncvision">
     <title>V-League Men</title>
 </programme>
-<programme start="20261106010000 +0000" stop="20261106030000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261105233000 +0000" stop="20261106000000 +0000" channel="Sportstars 4.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20261106000000 +0000" stop="20261106003000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sportrivia</title>
+</programme>
+<programme start="20261106003000 +0000" stop="20261106010000 +0000" channel="Sportstars 4.mncvision">
+    <title>Pro Futsal League</title>
+</programme>
+<programme start="20261106010000 +0000" stop="20261106023000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Two</title>
 </programme>
-<programme start="20261106030000 +0000" stop="20261106050000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106023000 +0000" stop="20261106030000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League 2025-2026: Men</title>
+</programme>
+<programme start="20261106030000 +0000" stop="20261106043000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20261106050000 +0000" stop="20261106070000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106043000 +0000" stop="20261106050000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20261106050000 +0000" stop="20261106053000 +0000" channel="Sportstars 4.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20261106070000 +0000" stop="20261106090000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106053000 +0000" stop="20261106070000 +0000" channel="Sportstars 4.mncvision">
+    <title>Best Of Badminton</title>
+</programme>
+<programme start="20261106070000 +0000" stop="20261106073000 +0000" channel="Sportstars 4.mncvision">
     <title>V-League Men</title>
 </programme>
-<programme start="20261106090000 +0000" stop="20261106110000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106073000 +0000" stop="20261106090000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League 2025-2026: Women</title>
+</programme>
+<programme start="20261106090000 +0000" stop="20261106093000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20261106110000 +0000" stop="20261106130000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106093000 +0000" stop="20261106100000 +0000" channel="Sportstars 4.mncvision">
+    <title>Sports Today</title>
+</programme>
+<programme start="20261106100000 +0000" stop="20261106110000 +0000" channel="Sportstars 4.mncvision">
+    <title>V-League 2026-2027: Men (L)</title>
+</programme>
+<programme start="20261106110000 +0000" stop="20261106120000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Two</title>
 </programme>
-<programme start="20261106130000 +0000" stop="20261106150000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106120000 +0000" stop="20261106123000 +0000" channel="Sportstars 4.mncvision">
+    <title>iNews Sport</title>
+</programme>
+<programme start="20261106123000 +0000" stop="20261106130000 +0000" channel="Sportstars 4.mncvision">
+    <title>30 Minutes Extreme</title>
+</programme>
+<programme start="20261106130000 +0000" stop="20261106133000 +0000" channel="Sportstars 4.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261106133000 +0000" stop="20261106150000 +0000" channel="Sportstars 4.mncvision">
+    <title>The Championship Wimbledon</title>
+</programme>
+<programme start="20261106150000 +0000" stop="20261106163000 +0000" channel="Sportstars 4.mncvision">
     <title>V-League Men</title>
+</programme>
+<programme start="20261106163000 +0000" stop="20261105170000 +0000" channel="Sportstars 4.mncvision">
+    <title>Pro Futsal League</title>
 </programme>
 <programme start="20261105170000 +0000" stop="20261105190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Timnas Special</title>
@@ -9163,10 +9265,10 @@
 <programme start="20261105200000 +0000" stop="20261105203000 +0000" channel="tvOne.mncvision">
     <title>Kabar Merah Putih</title>
 </programme>
-<programme start="20261105203000 +0000" stop="20261105211500 +0000" channel="tvOne.mncvision">
+<programme start="20261105203000 +0000" stop="20261105210000 +0000" channel="tvOne.mncvision">
     <title>Kabar Arena Pagi 2</title>
 </programme>
-<programme start="20261105211500 +0000" stop="20261105230000 +0000" channel="tvOne.mncvision">
+<programme start="20261105210000 +0000" stop="20261105230000 +0000" channel="tvOne.mncvision">
     <title>Kabar Pagi</title>
 </programme>
 <programme start="20261105230000 +0000" stop="20261105233000 +0000" channel="tvOne.mncvision">
@@ -9179,7 +9281,7 @@
     <title>Hidup Sehat</title>
 </programme>
 <programme start="20261106023000 +0000" stop="20261106030000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Pagi 2</title>
+    <title>Inspirasi Pagi</title>
 </programme>
 <programme start="20261106030000 +0000" stop="20261106040000 +0000" channel="tvOne.mncvision">
     <title>Kabar Utama 2</title>
@@ -9208,14 +9310,11 @@
 <programme start="20261106130000 +0000" stop="20261106140000 +0000" channel="tvOne.mncvision">
     <title>Kabar Utama 2</title>
 </programme>
-<programme start="20261106140000 +0000" stop="20261106150000 +0000" channel="tvOne.mncvision">
-    <title>One On One</title>
+<programme start="20261106140000 +0000" stop="20261106160000 +0000" channel="tvOne.mncvision">
+    <title>Indonesia Lawyers Club</title>
 </programme>
-<programme start="20261106150000 +0000" stop="20261106153000 +0000" channel="tvOne.mncvision">
+<programme start="20261106160000 +0000" stop="20261106163000 +0000" channel="tvOne.mncvision">
     <title>Kabar Arena Malam</title>
-</programme>
-<programme start="20261106153000 +0000" stop="20261106163000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261106163000 +0000" stop="20261105170000 +0000" channel="tvOne.mncvision">
     <title>Kabar Petang</title>

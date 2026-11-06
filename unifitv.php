@@ -15406,9 +15406,14 @@
     <desc lang="en">Highlights of the premier men's elite road cycling tour.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261106093000 +0000" stop="20261106110000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">FIP World Cup - Day 4 QF Match 6</title>
+  <programme start="20261106093000 +0000" stop="20261106105000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">FIP World Cup - Spain vs Brazil Day 4 QF Match 4</title>
     <desc lang="en">The most prestigious international competition for national teams; Padel's World Championships held in Doha, Qatar</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261106105000 +0000" stop="20261106110000 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - Kuwait Major Men</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261106110000 +0000" stop="20261106123000 +0000" channel="beinsports2.unifitv">
