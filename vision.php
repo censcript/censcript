@@ -553,9 +553,6 @@
 <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
-<programme start="20261107170000 +0000" stop="20261107190000 +0000" channel="Trans 7.vision">
-<title>MotoGP Sprint Race</title>
-</programme>
 <programme start="20261107190000 +0000" stop="20261107193000 +0000" channel="Trans 7.vision">
 <title>Dracin</title>
 </programme>
@@ -625,9 +622,6 @@
 <programme start="20261107010000 +0000" stop="20261107023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261107023000 +0000" stop="20261107060000 +0000" channel="ANTV.vision">
-<title>Chal Mere Bhai</title>
-</programme>
 <programme start="20261107060000 +0000" stop="20261107073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -637,26 +631,14 @@
 <programme start="20261107093000 +0000" stop="20261107104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261107104500 +0000" stop="20261107131500 +0000" channel="ANTV.vision">
-<title>Melodi Cinta</title>
-</programme>
 <programme start="20261107131500 +0000" stop="20261107143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261107143000 +0000" stop="20261107163000 +0000" channel="ANTV.vision">
-<title>Pokoknya Beres</title>
-</programme>
-<programme start="20261107163000 +0000" stop="20261107181500 +0000" channel="ANTV.vision">
-<title>Aces Go Places 4</title>
 </programme>
 <programme start="20261107181500 +0000" stop="20261107191500 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
 <programme start="20261107191500 +0000" stop="20261107211500 +0000" channel="ANTV.vision">
 <title>Serie A Liga Italia</title>
-</programme>
-<programme start="20261107211500 +0000" stop="20261107220000 +0000" channel="ANTV.vision">
-<title>Total Football: Highlight</title>
 </programme>
 <programme start="20261107220000 +0000" stop="20261107230000 +0000" channel="ANTV.vision">
 <title>Bikin Mewek</title>
@@ -802,12 +784,6 @@
 <programme start="20261107013000 +0000" stop="20261107030000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
-<programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
-</programme>
 <programme start="20261107040000 +0000" stop="20261107053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
@@ -829,14 +805,8 @@
 <programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
 </programme>
-<programme start="20261107140000 +0000" stop="20261107150000 +0000" channel="TVOne.vision">
-<title>Khazanah Qur&#039;an</title>
-</programme>
 <programme start="20261107150000 +0000" stop="20261107160000 +0000" channel="TVOne.vision">
 <title>One Pride MMA: The Best</title>
-</programme>
-<programme start="20261107160000 +0000" stop="20261107170000 +0000" channel="TVOne.vision">
-<title>Kabar Utama</title>
 </programme>
 <programme start="20261107170000 +0000" stop="20261107183000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
@@ -1497,4 +1467,34 @@
 </programme>
 <programme start="20261107061000 +0000" stop="20261107073000 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20261107073000 +0000" stop="20261107090500 +0000" channel="MDTV.vision">
+<title>Laper Mata</title>
+</programme>
+<programme start="20261107090500 +0000" stop="20261107103000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20261107103000 +0000" stop="20261107115000 +0000" channel="MDTV.vision">
+<title>Marisol</title>
+</programme>
+<programme start="20261107115000 +0000" stop="20261107130000 +0000" channel="MDTV.vision">
+<title>Cinta Paulina</title>
+</programme>
+<programme start="20261107130000 +0000" stop="20261107140000 +0000" channel="MDTV.vision">
+<title>Suara Hati</title>
+</programme>
+<programme start="20261107140000 +0000" stop="20261107150500 +0000" channel="MDTV.vision">
+<title>Istri Paruh Waktu</title>
+</programme>
+<programme start="20261107150500 +0000" stop="20261107160500 +0000" channel="MDTV.vision">
+<title>The Return Of The Condor Heroes</title>
+</programme>
+<programme start="20261107160500 +0000" stop="20261107165000 +0000" channel="MDTV.vision">
+<title>Garuda</title>
+</programme>
+<programme start="20261107165000 +0000" stop="20261107173500 +0000" channel="MDTV.vision">
+<title>Customs Protection</title>
+</programme>
+<programme start="20261107173500 +0000" stop="20261107190000 +0000" channel="MDTV.vision">
+<title>86</title>
 </programme>

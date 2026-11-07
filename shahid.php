@@ -181,9 +181,6 @@
     <programme start="20261109233007 +0000" stop="20261109235959 +0000" channel="988045.shahid">
         <title>Hakaya Season 3 Episode 1</title>
     </programme>
-    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="388567.shahid">
-        <title>TV guide is not available</title>
-    </programme>
     <programme start="20261108000000 +0000" stop="20261108001526 +0000" channel="992538.shahid">
         <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 19</title>
     </programme>
@@ -356,6 +353,9 @@
         <title>El Le&#039;ba: Level El Wahsh Season 2 Episode 30</title>
     </programme>
     <programme start="20261109121827 +0000" stop="20261109235959 +0000" channel="992538.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="388567.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="946942.shahid">
@@ -1828,6 +1828,9 @@
     <programme start="20261110000000 +0000" stop="20261109235959 +0000" channel="387286.shahid">
         <title>Al Arabiya News</title>
     </programme>
+    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="946946.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261108000000 +0000" stop="20261108000927 +0000" channel="969745.shahid">
         <title>Makhraj 7 Season 1 Episode 2</title>
     </programme>
@@ -2191,10 +2194,10 @@
     <programme start="20261109122145 +0000" stop="20261109235959 +0000" channel="975435.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="946946.shahid">
+    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="1005232.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="1005232.shahid">
+    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20261108000000 +0000" stop="20261108060000 +0000" channel="1003218.shahid">
@@ -2288,9 +2291,6 @@
         <title>Al Arabiya News</title>
     </programme>
     <programme start="20261109160500 +0000" stop="20261109235959 +0000" channel="1003218.shahid">
-        <title>TV guide is not available</title>
-    </programme>
-    <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="986346.shahid">
         <title>TV guide is not available</title>
     </programme>
     <programme start="20261108000000 +0000" stop="20261109235959 +0000" channel="49922904934759.shahid">

@@ -397,7 +397,7 @@
 <programme start="20261107161500 +0000" stop="20261107171500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Celebrity Race Across the World - Episode 2</title>
 </programme>
-<programme start="20261107171500 +0000" stop="20261107194500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261107171500 +0000" stop="20261107202000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Match of the Day - FA Cup, First Round: Altrincham v Notts County</title>
 </programme>
 <programme start="20261106234500 +0000" stop="20261107004500 +0000" channel="Virgin_Media_One_+1.virginmediatv">
@@ -2288,7 +2288,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Political Thinking with Nick Robinson - Nick Timothy</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20261107170000 +0000" stop="20261107180000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -5641,7 +5641,7 @@
 <programme start="20261106185800 +0000" stop="20261107025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261107025800 +0000" stop="20261107070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261107025800 +0000" stop="20261107060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261107120000 +0000" stop="20261107122500 +0000" channel="CBBC.virginmediatv">
