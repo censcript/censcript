@@ -4237,7 +4237,7 @@
 <programme start="20261107004500 +0000" stop="20261107014500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>One-Day International Cricket - 1st ODI: New Zealand v India</title>
 </programme>
-<programme start="20261107014500 +0000" stop="20261107103000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
+<programme start="20261107014500 +0000" stop="20261107102500 +0000" channel="TNT_Sports_4_HD.virginmediatv">
     <title>Live: One-Day International Cricket - 2nd ODI: New Zealand v India</title>
 </programme>
 <programme start="20261107104500 +0000" stop="20261107124500 +0000" channel="TNT_Sports_4_HD.virginmediatv">

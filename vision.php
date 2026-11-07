@@ -625,9 +625,6 @@
 <programme start="20261107010000 +0000" stop="20261107023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261107023000 +0000" stop="20261107060000 +0000" channel="ANTV.vision">
-<title>Chal Mere Bhai</title>
-</programme>
 <programme start="20261107060000 +0000" stop="20261107073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -801,12 +798,6 @@
 </programme>
 <programme start="20261107013000 +0000" stop="20261107030000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
-</programme>
-<programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="TVOne.vision">
-<title>Pesona Nusantara</title>
-</programme>
-<programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="TVOne.vision">
-<title>Bukan Jalan-Jalan Biasa</title>
 </programme>
 <programme start="20261107040000 +0000" stop="20261107053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261107061000 +0000" stop="20261107073000 +0000" channel="MDTV.vision">
 <title>Makan Enak</title>
+</programme>
+<programme start="20261107073000 +0000" stop="20261107090500 +0000" channel="MDTV.vision">
+<title>Laper Mata</title>
+</programme>
+<programme start="20261107090500 +0000" stop="20261107103000 +0000" channel="MDTV.vision">
+<title>Masak Gesss!!!</title>
+</programme>
+<programme start="20261107103000 +0000" stop="20261107115000 +0000" channel="MDTV.vision">
+<title>Marisol</title>
 </programme>

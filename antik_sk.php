@@ -2923,10 +2923,10 @@
   <programme start="20261108235800 +0000" stop="20261109002500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hobby naší doby</title>
   </programme>
-  <programme start="20261109002500 +0000" stop="20261109005200 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109002500 +0000" stop="20261109005300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Po stopách hvězd</title>
   </programme>
-  <programme start="20261109005200 +0000" stop="20261109020500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109005300 +0000" stop="20261109020500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
   <programme start="20261109020500 +0000" stop="20261109034000 +0000" channel="ČT1.webtv.sk">
@@ -2953,10 +2953,10 @@
   <programme start="20261109092500 +0000" stop="20261109102500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Z Divadélka pod věží</title>
   </programme>
-  <programme start="20261109102500 +0000" stop="20261109105100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109102500 +0000" stop="20261109105200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261109105100 +0000" stop="20261109110000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109105200 +0000" stop="20261109110000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">StarDance XIV... kolem dokola</title>
   </programme>
   <programme start="20261109110000 +0000" stop="20261109112000 +0000" channel="ČT1.webtv.sk">
@@ -2971,19 +2971,19 @@
   <programme start="20261109130000 +0000" stop="20261109133000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Herbář</title>
   </programme>
-  <programme start="20261109133000 +0000" stop="20261109145300 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109133000 +0000" stop="20261109145400 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Horolezci</title>
   </programme>
-  <programme start="20261109145300 +0000" stop="20261109154500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109145400 +0000" stop="20261109154500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na krok od nebe VII (2)</title>
   </programme>
   <programme start="20261109154500 +0000" stop="20261109161500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Toulavá kamera</title>
   </programme>
-  <programme start="20261109161500 +0000" stop="20261109164100 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109161500 +0000" stop="20261109164200 +0000" channel="ČT1.webtv.sk">
     <title lang="id">AZ-kvíz</title>
   </programme>
-  <programme start="20261109164100 +0000" stop="20261109170000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109164200 +0000" stop="20261109170000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Černé ovce</title>
   </programme>
   <programme start="20261109170000 +0000" stop="20261109172500 +0000" channel="ČT1.webtv.sk">
@@ -3013,19 +3013,19 @@
   <programme start="20261109211500 +0000" stop="20261109214300 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Bilance: Na prahu AI apokalypsy</title>
   </programme>
-  <programme start="20261109214300 +0000" stop="20261109214400 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109214300 +0000" stop="20261109214700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Výsledky losování Šťastných 10 a Extra Renty</title>
   </programme>
-  <programme start="20261109214400 +0000" stop="20261109224500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109214700 +0000" stop="20261109224600 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Ve výkonu služby II (5/6)</title>
   </programme>
-  <programme start="20261109224500 +0000" stop="20261109233500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261109224600 +0000" stop="20261109233700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Hercule Poirot (10)</title>
   </programme>
-  <programme start="20261108223400 +0000" stop="20261109000400 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261108223200 +0000" stop="20261109000300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Aféra Watergate</title>
   </programme>
-  <programme start="20261109000400 +0000" stop="20261109010000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109000300 +0000" stop="20261109010000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Svět podle Kim Čong-una</title>
   </programme>
   <programme start="20261109010000 +0000" stop="20261109011500 +0000" channel="ČT2.webtv.sk">
@@ -3064,10 +3064,10 @@
   <programme start="20261109073000 +0000" stop="20261109081500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Kamera na cestách: Itálie z výšky</title>
   </programme>
-  <programme start="20261109081500 +0000" stop="20261109090500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109081500 +0000" stop="20261109090600 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divoká říše (1/3)</title>
   </programme>
-  <programme start="20261109090500 +0000" stop="20261109100500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109090600 +0000" stop="20261109100500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ztracené svitky z Herculanea</title>
   </programme>
   <programme start="20261109100500 +0000" stop="20261109102000 +0000" channel="ČT2.webtv.sk">
@@ -3088,10 +3088,10 @@
   <programme start="20261109122100 +0000" stop="20261109125000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Cesty víry</title>
   </programme>
-  <programme start="20261109125000 +0000" stop="20261109134700 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109125000 +0000" stop="20261109134500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ozvěny Křišťálové noci: Listopadové pogromy roku 1938 (1/2)</title>
   </programme>
-  <programme start="20261109134700 +0000" stop="20261109143500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109134500 +0000" stop="20261109143500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Inženýři budoucnosti</title>
   </programme>
   <programme start="20261109143500 +0000" stop="20261109150500 +0000" channel="ČT2.webtv.sk">
@@ -3118,10 +3118,10 @@
   <programme start="20261109185000 +0000" stop="20261109190000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Útěk do Berlína</title>
   </programme>
-  <programme start="20261109190000 +0000" stop="20261109205000 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109190000 +0000" stop="20261109204500 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Zprávy v českém znakovém jazyce</title>
   </programme>
-  <programme start="20261109205000 +0000" stop="20261109230500 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261109204500 +0000" stop="20261109230000 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Přirozený talent</title>
   </programme>
   <programme start="20261108230000 +0000" stop="20261108231000 +0000" channel="ČT24.webtv.sk">
@@ -3550,7 +3550,7 @@
   <programme start="20261109223500 +0000" stop="20261110002100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Obávaný</title>
   </programme>
-  <programme start="20261108221500 +0000" stop="20261108230500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20261108221000 +0000" stop="20261108230500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Specialisté (180)</title>
   </programme>
   <programme start="20261108230500 +0000" stop="20261109001000 +0000" channel="Nova International.webtv.sk">
@@ -3559,10 +3559,10 @@
   <programme start="20261109001000 +0000" stop="20261109011500 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (590)</title>
   </programme>
-  <programme start="20261109011500 +0000" stop="20261109022500 +0000" channel="Nova International.webtv.sk">
+  <programme start="20261109011500 +0000" stop="20261109022000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Ordinace v růžové zahradě II (591)</title>
   </programme>
-  <programme start="20261109022500 +0000" stop="20261109030000 +0000" channel="Nova International.webtv.sk">
+  <programme start="20261109022000 +0000" stop="20261109030000 +0000" channel="Nova International.webtv.sk">
     <title lang="id">Mr.GS II (40)</title>
   </programme>
   <programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="Nova International.webtv.sk">
@@ -4741,10 +4741,10 @@
   <programme start="20261109140000 +0000" stop="20261109170000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">New England Patriots - Green Bay Packers</title>
   </programme>
-  <programme start="20261109170000 +0000" stop="20261109190000 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20261109170000 +0000" stop="20261109185500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Stafford Rangers - Grimsby Town</title>
   </programme>
-  <programme start="20261109190000 +0000" stop="20261109192500 +0000" channel="Nova Sport 2.webtv.sk">
+  <programme start="20261109185500 +0000" stop="20261109192500 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">Ligue 1 Highlights (10)</title>
   </programme>
   <programme start="20261109192500 +0000" stop="20261109220000 +0000" channel="Nova Sport 2.webtv.sk">
@@ -18260,7 +18260,7 @@
     <title lang="id">Fuori orario. Cose (mai) viste</title>
   </programme>
   <programme start="20261109021000 +0000" stop="20261109050000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Parliamo tanto di me</title>
+    <title lang="id">Fuori orario. Cose (mai) viste</title>
   </programme>
   <programme start="20261109050000 +0000" stop="20261109060000 +0000" channel="Rai Tre.webtv.sk">
     <title lang="id">RaiNews</title>

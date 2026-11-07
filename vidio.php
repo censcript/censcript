@@ -179,165 +179,165 @@
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg"/>
   </programme>
-  <programme channel="204" start="20261106230000 +0000" stop="20261107000000 +0000">
+  <programme channel="204" start="20261106230000 +0000" stop="20261107001300 +0000">
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107000000 +0000" stop="20261107010000 +0000">
+  <programme channel="204" start="20261107001300 +0000" stop="20261107011400 +0000">
     <title lang="id">Tiba Tiba Kuis</title>
     <desc lang="id">Kuis kejutan dimana Para pembawa acara akan datang secara tiba-tiba ke lokasi pemirsa tanpa pemberitahuan untuk memberikan tantangan games yang lucu dan menyentuh. Dipandu oleh Baim Wong, Asri Welas, dan Anna Jobling. Saksikan, hanya di saluran televisi SCTV Satu Untuk Semua.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1EUeMSUt82iskEKXnfT9rieiAqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/407932/7e1a8b.jpg"/>
   </programme>
-  <programme channel="204" start="20261107010000 +0000" stop="20261107030000 +0000">
+  <programme channel="204" start="20261107011400 +0000" stop="20261107024900 +0000">
     <title lang="id">FTV Pagi Spesial: Cewek Selendang Mayang Kabupaten Emang Paten</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xoI-VYWeCVCte8zH3rgBlP0vwdk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419693/0c77f6.jpg"/>
   </programme>
-  <programme channel="204" start="20261107030000 +0000" stop="20261107050000 +0000">
+  <programme channel="204" start="20261107024900 +0000" stop="20261107043900 +0000">
     <title lang="id">FTV Pagi: Kirain Sayang Ternyata Iseng Doank</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/noduWZwsiSD7NatOWb8H1ySCCUE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5419686/70aad8.jpg"/>
   </programme>
-  <programme channel="204" start="20261107050000 +0000" stop="20261107053000 +0000">
+  <programme channel="204" start="20261107044000 +0000" stop="20261107051400 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
   </programme>
-  <programme channel="204" start="20261107053000 +0000" stop="20261107071500 +0000">
+  <programme channel="204" start="20261107051400 +0000" stop="20261107070600 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
   </programme>
-  <programme channel="204" start="20261107071500 +0000" stop="20261107100000 +0000">
+  <programme channel="204" start="20261107070600 +0000" stop="20261107100000 +0000">
     <title lang="id">Karnaval Sctv - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107100000 +0000" stop="20261107111500 +0000">
+  <programme channel="204" start="20261107100000 +0000" stop="20261107112700 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261107111500 +0000" stop="20261107130000 +0000">
+  <programme channel="204" start="20261107112700 +0000" stop="20261107125200 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261107130000 +0000" stop="20261107143000 +0000">
+  <programme channel="204" start="20261107125200 +0000" stop="20261107143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261107143000 +0000" stop="20261107160000 +0000">
+  <programme channel="204" start="20261107143000 +0000" stop="20261107155000 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
   </programme>
-  <programme channel="204" start="20261107160000 +0000" stop="20261107173000 +0000">
+  <programme channel="204" start="20261107155000 +0000" stop="20261107170200 +0000">
     <title lang="id">FTV Primetime</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107160000 +0000" stop="20261107173000 +0000">
+  <programme channel="204" start="20261107155000 +0000" stop="20261107170200 +0000">
     <title lang="id">FTV Primetime</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107173000 +0000" stop="20261107191000 +0000">
+  <programme channel="204" start="20261107170200 +0000" stop="20261107192800 +0000">
     <title lang="id">Nott'Em Forest Vs Man City - Premier League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107191000 +0000" stop="20261107201000 +0000">
-    <title lang="id">Drama Turki: Arafta : Terbelenggu Takdir</title>
-    <desc lang="id">Bahwa sebuah misi balas dendam tidak pernah berjalan sesederhana yang direncanakan. Serial ini bukan sekadar romansa biasa, melainkan sebuah studi karakter tentang seorang pria yang harus memilih antara menghancurkan musuhnya atau menyelamatkan hatinya sendiri.</desc>
+  <programme channel="204" start="20261107192800 +0000" stop="20261107201800 +0000">
+    <title lang="id">Sinema Malam: Susahnya Jadi Romantis</title>
+    <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107201000 +0000" stop="20261107210000 +0000">
+  <programme channel="204" start="20261107201800 +0000" stop="20261107210600 +0000">
     <title lang="id">Sinema Dini Hari: Supir Andong Belahan Jiwaku</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107210000 +0000" stop="20261107213000 +0000">
+  <programme channel="204" start="20261107210600 +0000" stop="20261107213300 +0000">
     <title lang="id">Barakallah</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107213000 +0000" stop="20261107220000 +0000">
+  <programme channel="204" start="20261107213300 +0000" stop="20261107215600 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107220000 +0000" stop="20261107230000 +0000">
+  <programme channel="204" start="20261107215600 +0000" stop="20261107230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/vm0sHhM_kmwG8hrjPA9lj8T0JcM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433402/e10f7a.png"/>
   </programme>
-  <programme channel="204" start="20261107230000 +0000" stop="20261107233000 +0000">
+  <programme channel="204" start="20261107230000 +0000" stop="20261107233200 +0000">
     <title lang="id">Point Of View</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107233000 +0000" stop="20261108000000 +0000">
+  <programme channel="204" start="20261107233200 +0000" stop="20261108000500 +0000">
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261108000000 +0000" stop="20261108030000 +0000">
+  <programme channel="204" start="20261108000500 +0000" stop="20261108025800 +0000">
     <title lang="id">Karnaval Sctv - Live</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/1SqKvRdPXWJa3T9BM4yqkzSfJtw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433405/d89ca2.jpg"/>
   </programme>
-  <programme channel="204" start="20261108030000 +0000" stop="20261108050000 +0000">
+  <programme channel="204" start="20261108025800 +0000" stop="20261108045300 +0000">
     <title lang="id">FTV Pagi: Tabrak Masa Lalu Demi Sambung Masa Depan</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/0N5T0L1nwdXDoLLFAOZbIL04W7o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433407/0b0fef.jpg"/>
   </programme>
-  <programme channel="204" start="20261108050000 +0000" stop="20261108053000 +0000">
+  <programme channel="204" start="20261108045300 +0000" stop="20261108052900 +0000">
     <title lang="id">Liputan 6 Siang</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/mpTNVfT1bpplzvO7H0j-TjgWJR8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433408/605715.png"/>
   </programme>
-  <programme channel="204" start="20261108053000 +0000" stop="20261108071500 +0000">
+  <programme channel="204" start="20261108052900 +0000" stop="20261108070600 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/pXz4XWd3PJCou5bt_syb-s_-sDw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433409/77e118.jpg"/>
   </programme>
-  <programme channel="204" start="20261108071500 +0000" stop="20261108100000 +0000">
+  <programme channel="204" start="20261108070600 +0000" stop="20261108100000 +0000">
     <title lang="id">Karnaval Sctv - Live</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/QoqbIm-TnU8n_kEIrrrzkoRurqE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433406/8c86e4.jpg"/>
   </programme>
-  <programme channel="204" start="20261108100000 +0000" stop="20261108111500 +0000">
+  <programme channel="204" start="20261108100000 +0000" stop="20261108112600 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron biarkan hati bicara</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/I_ZOwk-ODRmDLFarS_XLN6lqNGA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433410/622a50.png"/>
   </programme>
-  <programme channel="204" start="20261108111500 +0000" stop="20261108130000 +0000">
+  <programme channel="204" start="20261108112600 +0000" stop="20261108125300 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Ibx7PhJUJtQNfCCqQsw24TmVv1U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433411/cdfb24.jpg"/>
   </programme>
-  <programme channel="204" start="20261108130000 +0000" stop="20261108143000 +0000">
+  <programme channel="204" start="20261108125300 +0000" stop="20261108143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/MaRTI0WxLhmtmFOiP3xD5-n3d4Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433412/c059be.jpg"/>
   </programme>
-  <programme channel="204" start="20261108143000 +0000" stop="20261108160000 +0000">
+  <programme channel="204" start="20261108143000 +0000" stop="20261108155100 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/5Vh9lXI3pWV2CpnXlKD-TivUlgI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433413/878eb1.jpg"/>
   </programme>
-  <programme channel="204" start="20261108160000 +0000" stop="20261108173000 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20261108155100 +0000" stop="20261108172800 +0000">
+    <title lang="id">FTV Primetime: Naga Cinta Neng Geulis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261108160000 +0000" stop="20261108173000 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20261108155100 +0000" stop="20261108172800 +0000">
+    <title lang="id">FTV Primetime: Naga Cinta Neng Geulis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261108173000 +0000" stop="20261108184500 +0000">
-    <title lang="id">FTV Utama</title>
+  <programme channel="204" start="20261108172800 +0000" stop="20261108184300 +0000">
+    <title lang="id">FTV Utama: 25 Juta Buat Cintamu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261108184500 +0000" stop="20261108200000 +0000">
-    <title lang="id">Sinema Malam</title>
+  <programme channel="204" start="20261108184300 +0000" stop="20261108195300 +0000">
+    <title lang="id">Sinema Malam: Saat Cinta Itu Ada</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261108200000 +0000" stop="20261108210000 +0000">
+  <programme channel="204" start="20261108195300 +0000" stop="20261108210300 +0000">
     <title lang="id">Sinema Dini Hari: Saatnya Ucapkan Cinta</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -397,12 +397,12 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup. Saksikan Setiap Hari Pukul 13.30 Wib, Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261107063000 +0000" stop="20261107080000 +0000">
+  <programme channel="205" start="20261107063000 +0000" stop="20261107075800 +0000">
     <title lang="id">Kisah Nyata: Salahkah Aku Menikahi Sahabat Kekasihku Karena Terpaksa</title>
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261107080000 +0000" stop="20261107103000 +0000">
+  <programme channel="205" start="20261107075800 +0000" stop="20261107103000 +0000">
     <title lang="id">Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -1929,7 +1929,7 @@
   </programme>
   <programme channel="733" start="20261107233000 +0000" stop="20261108003000 +0000">
     <title lang="id">Insert Pagi</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/LSql61kXic5blvZVXV7p0QBjOD4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/549/92eb68.png"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/dK4ap9x9X-X-vlep5Dtf_LVL1qs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5411789/4fba4b.png"/>
   </programme>
   <programme channel="733" start="20261108003000 +0000" stop="20261108020000 +0000">
     <title lang="id">Kajian Hati</title>
@@ -1977,7 +1977,7 @@
   </programme>
   <programme channel="733" start="20261108120000 +0000" stop="20261108130000 +0000">
     <title lang="id">Kejora Show</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/AQXRGqolSx8I5iHVSSDuA6iLY2M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416444/17f029.jpg"/>
   </programme>
   <programme channel="733" start="20261108130000 +0000" stop="20261108150000 +0000">
     <title lang="id">Bioskop Trans TV</title>
@@ -3084,17 +3084,17 @@
   <programme channel="782" start="20261108023000 +0000" stop="20261108060000 +0000">
     <title lang="id">Mega Bollywood : Koyla</title>
     <desc lang="id">Mega Bollywood : Koyla</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-nlFqGrpGhtp1XM2O976q4rTNMI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415256/83bbac.png"/>
   </programme>
   <programme channel="782" start="20261108060000 +0000" stop="20261108073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/7Ts5RZgFSsfJN6jnABLCOJo2Ur0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415200/706cf9.jpg"/>
   </programme>
   <programme channel="782" start="20261108073000 +0000" stop="20261108093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/n3PpN3SC-G57p2v6z-L63H6tC34=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5415207/e54063.jpg"/>
   </programme>
   <programme channel="782" start="20261108093000 +0000" stop="20261108104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -7381,23 +7381,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261107103000 +0000" stop="20261107115000 +0000">
-    <title lang="id">Md Teledrama: Marisol</title>
+    <title lang="id">MD Teledrama: Marisol</title>
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261107115000 +0000" stop="20261107130000 +0000">
-    <title lang="id">Md Teledrama: Cinta Paulina</title>
+    <title lang="id">MD Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261107130000 +0000" stop="20261107140000 +0000">
-    <title lang="id">Md Series: Suara Hati</title>
+    <title lang="id">MD Series: Suara Hati</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261107140000 +0000" stop="20261107150500 +0000">
-    <title lang="id">Md Series: Istri Paruh Waktu</title>
+    <title lang="id">MD Series: Istri Paruh Waktu</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261107150500 +0000" stop="20261107160500 +0000">
-    <title lang="id">Md C-Drama: The Return Of The Condor Heroes</title>
+    <title lang="id">MD C-Drama: The Return Of The Condor Heroes</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261107160500 +0000" stop="20261107165000 +0000">
@@ -7469,23 +7469,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261108103000 +0000" stop="20261108115000 +0000">
-    <title lang="id">Md Teledrama: Marisol</title>
+    <title lang="id">MD Teledrama: Marisol</title>
     <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
   </programme>
   <programme channel="875" start="20261108115000 +0000" stop="20261108130000 +0000">
-    <title lang="id">Md Teledrama: Cinta Paulina</title>
+    <title lang="id">MD Teledrama: Cinta Paulina</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261108130000 +0000" stop="20261108140000 +0000">
-    <title lang="id">Md Series: Suara Hati</title>
+    <title lang="id">MD Series: Suara Hati</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261108140000 +0000" stop="20261108150500 +0000">
-    <title lang="id">Md Series: Istri Paruh Waktu</title>
+    <title lang="id">MD Series: Istri Paruh Waktu</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261108150500 +0000" stop="20261108160500 +0000">
-    <title lang="id">Md C-Drama: The Return Of The Condor Heroes</title>
+    <title lang="id">MD C-Drama: The Return Of The Condor Heroes</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
   <programme channel="875" start="20261108160500 +0000" stop="20261108165000 +0000">
@@ -13140,7 +13140,7 @@
   </programme>
   <programme channel="6299" start="20261108125500 +0000" stop="20261108150000 +0000">
     <title lang="id">Elche vs Real Betis - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Elche vs Real Betis - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Real Betis membidik tiga poin di markas Elche demi mengokohkan posisi di zona empat besar klasemen LaLiga</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/lOFRaTn-5pC0dmYbrPp34IjZCaU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5428914/6713ec.jpg"/>
   </programme>
   <programme channel="6299" start="20261108150000 +0000" stop="20261108153000 +0000">
@@ -13782,9 +13782,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20261107122500 +0000" stop="20261107143000 +0000">
-    <title lang="id">Wrexham vs Wolves - EFL Championship</title>
-    <desc lang="id">Mampukah Wolves mengatasi tekanan tinggi dan mencuri hasil positif dari kandang lawan?</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/Kfb6-wJQN7JXph4cExh_M4z7ql8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426437/31006e.jpg"/>
+    <title lang="id">WTA 250</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20261107143000 +0000" stop="20261107145500 +0000">
     <title lang="id">Filler</title>
@@ -14011,7 +14010,7 @@
   </programme>
   <programme channel="9182" start="20261107200500 +0000" stop="20261107220500 +0000">
     <title lang="id">Paris Saint-Germain vs ESTAC Troyes - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Paris Saint-Germain vs ESTAC Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Memburu rekor kemenangan ke-11 secara beruntun di semua kompetisi, Paris Saint-Germain bersiap menjamu ESTAC Troyes di Parc des Princes</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Ps4AdfaDtiKK9XFr8dmnvOfGHng=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432267/ee8f55.jpg"/>
   </programme>
   <programme channel="9182" start="20261107223000 +0000" stop="20261107230000 +0000">
@@ -14251,7 +14250,7 @@
   </programme>
   <programme channel="6317" start="20261108125500 +0000" stop="20261108150000 +0000">
     <title lang="id">Corum vs Fenerbahce - Trendyol Super Lig</title>
-    <desc lang="id">Nonton streaming pertandingan seru Corum vs Fenerbahce - Trendyol Super Lig. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mengantongi modal kemenangan di laga terakhir, Corum FK bersiap memberikan kejutan saat menjamu raksasa Istanbul</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XOfbbYpbLcKhzaQIYeP6RlM3tpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429408/6dcb6e.jpg"/>
   </programme>
   <programme channel="6317" start="20261108150000 +0000" stop="20261108151000 +0000">
@@ -14261,12 +14260,12 @@
   </programme>
   <programme channel="6317" start="20261108151000 +0000" stop="20261108172500 +0000">
     <title lang="id">Real Sociedad vs Rayo Vallecano - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Real Sociedad vs Rayo Vallecano - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Berbekal rekor clean sheet perdana musim ini, Rayo Vallecano menghadapi ujian ketat lini serang tuan rumah</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ozxEmxh2UqYVMCewWJt2w7s3GuQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429407/f5e8b2.jpg"/>
   </programme>
   <programme channel="6317" start="20261108151000 +0000" stop="20261108172500 +0000">
     <title lang="id">Real Sociedad vs Rayo Vallecano - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Real Sociedad vs Rayo Vallecano - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Berbekal rekor clean sheet perdana musim ini, Rayo Vallecano menghadapi ujian ketat lini serang tuan rumah</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ozxEmxh2UqYVMCewWJt2w7s3GuQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429407/f5e8b2.jpg"/>
   </programme>
   <programme channel="6317" start="20261108172500 +0000" stop="20261108193000 +0000">
@@ -14768,20 +14767,15 @@
     <desc lang="id">VENEZIA vs UDINESE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261107060000 +0000" stop="20261107100000 +0000">
+  <programme channel="6786" start="20261107060000 +0000" stop="20261107082500 +0000">
     <title lang="id">Semifinals - WTA 250: Prudential Hong Kong Tennis Open 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Semifinal - WTA 250: Prudential Hong Kong Tennis Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/R17AhGhoCqraM3UltlqL25JkiHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426561/402755.png"/>
   </programme>
-  <programme channel="6786" start="20261107100000 +0000" stop="20261107103000 +0000">
-    <title lang="id">Eps 8 : Sport Woman</title>
-    <desc lang="id">Eps 8</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20261107103000 +0000" stop="20261107110000 +0000">
-    <title lang="id">Full Impact - Round 10 : Serie A 2026/27 - Highlight</title>
-    <desc lang="id">Full Impact - Round 10</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  <programme channel="6786" start="20261107082500 +0000" stop="20261107110000 +0000">
+    <title lang="id">Maria Sakkari vs Alexandra Eala - Semifinal | WTA 250: Prudential Hong Kong Tennis Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Maria Sakkari vs Alexandra Eala - WTA 250: Prudential Hong Kong Tennis Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ZviBqXI3959BGXBpsSAM-9ekt18=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433386/5f0b6d.png"/>
   </programme>
   <programme channel="6786" start="20261107110000 +0000" stop="20261107130000 +0000">
     <title lang="id">VENEZIA vs UDINESE : Serie A 2026/27</title>
@@ -15664,35 +15658,26 @@
     <desc lang="id">Nonton streaming pertandingan seru Cagliari vs Frosinone Calcio - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/lDbcgJf7DiYrZl8U5D5CFhlJReY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426924/ff0a77.jpg"/>
   </programme>
-  <programme channel="6686" start="20261107160000 +0000" stop="20261107161000 +0000">
-    <title lang="id">Filler Ligue 1</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261107161000 +0000" stop="20261107170000 +0000">
-    <title lang="id">Auxerre vs Paris Fc : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">AUXERRE vs PARIS FC</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261107161000 +0000" stop="20261107170000 +0000">
-    <title lang="id">Auxerre vs Paris Fc : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">AUXERRE vs PARIS FC</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261107170000 +0000" stop="20261107182000 +0000">
-    <title lang="id">Auxerre vs Paris Fc : Continue</title>
-    <desc lang="id">AUXERRE vs PARIS FC</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261107182000 +0000" stop="20261107183000 +0000">
-    <title lang="id">Filler Ligue 1</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
-  </programme>
-  <programme channel="6686" start="20261107183000 +0000" stop="20261107193500 +0000">
+  <programme channel="6686" start="20261107160000 +0000" stop="20261107171500 +0000">
     <title lang="id">Table Tennis : 20Th Asian Games Aichi-Nagoya 2026</title>
     <desc lang="id">TABLE TENNIS</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261107193500 +0000" stop="20261107214500 +0000">
+  <programme channel="6686" start="20261107160000 +0000" stop="20261107171500 +0000">
+    <title lang="id">Table Tennis : 20Th Asian Games Aichi-Nagoya 2026</title>
+    <desc lang="id">TABLE TENNIS</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261107171500 +0000" stop="20261107175500 +0000">
+    <title lang="id">Filler Ligue 1</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261107175500 +0000" stop="20261107201500 +0000">
+    <title lang="id">AJ Auxerre vs Paris FC - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru AJ Auxerre vs Paris FC - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bp5kvRjV-8BuRPpoPAGmxTpo1oA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433396/ae5f98.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261107201500 +0000" stop="20261107214500 +0000">
     <title lang="id">Cray Wanderers vs Stockport County : [LIVE] FA Cup 2026/27</title>
     <desc lang="id">CRAY WANDERERS vs STOCKPORT COUNTY</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
@@ -15747,7 +15732,7 @@
   </programme>
   <programme channel="6686" start="20261108134500 +0000" stop="20261108160000 +0000">
     <title lang="id">Stade Rennais FC vs LOSC Lille - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Stade Rennais FC vs LOSC Lille - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">LOSC Lille bertekad menjaga rekor selalu mencetak gol dalam sembilan kunjungan terakhir mereka ke markas Stade Rennais FC</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/u3f66PGs6N-tq3pHLIu48T_pxD0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5430361/221d9b.jpg"/>
   </programme>
   <programme channel="6686" start="20261108160000 +0000" stop="20261108170000 +0000">
@@ -15923,12 +15908,12 @@
   </programme>
   <programme channel="9183" start="20261108161000 +0000" stop="20261108181500 +0000">
     <title lang="id">Le Mans FC vs AS Monaco - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Le Mans FC vs AS Monaco - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">AS Monaco membidik tiga poin penuh di markas Le Mans demi menembus papan atas Ligue 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/K2djeaxV4dFhAV0EUTT7LDV4EYM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5430360/1dfb4d.jpg"/>
   </programme>
   <programme channel="9183" start="20261108161000 +0000" stop="20261108181500 +0000">
     <title lang="id">Le Mans FC vs AS Monaco - Ligue 1</title>
-    <desc lang="id">Nonton streaming pertandingan seru Le Mans FC vs AS Monaco - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">AS Monaco membidik tiga poin penuh di markas Le Mans demi menembus papan atas Ligue 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/K2djeaxV4dFhAV0EUTT7LDV4EYM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5430360/1dfb4d.jpg"/>
   </programme>
   <programme channel="9353" start="20261106163000 +0000" stop="20261106170000 +0000">
@@ -15997,8 +15982,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107030000 +0000" stop="20261107033000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Aston Villa 92-93 - Behind The First Season : PL Stories</title>
+    <desc lang="id">Aston Villa's 1992/93 season had all the ingredients of a defining football story. Through special behind-the-scenes footage, PL Stories takes viewers inside Ron Atkinson's Villa, revealing the characters, camaraderie and mounting pressure of a gripping title challenge. From the dressing room to the drama on the pitch, this is the inside story of Villa's pursuit of the first Premier League crown.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107033000 +0000" stop="20261107040000 +0000">
@@ -16008,7 +15993,7 @@
   </programme>
   <programme channel="9353" start="20261107040000 +0000" stop="20261107043000 +0000">
     <title lang="id">Fri 06 Nov (Update) : Preview</title>
-    <desc lang="id">A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
+    <desc lang="id">We preview Manchester United's clash with Aston Villa, Liverpool's trip to Crystal Palace and Leeds hosting Spurs.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107043000 +0000" stop="20261107050000 +0000">
@@ -16018,7 +16003,7 @@
   </programme>
   <programme channel="9353" start="20261107050000 +0000" stop="20261107060000 +0000">
     <title lang="id">Ashley Young : PL Moments</title>
-    <desc lang="id">PL Moments combines archive and first-person testimony to revisit the very best games, goals, players and performances from the Premier League era.</desc>
+    <desc lang="id">After more than two decades at the top, Ashley Young looks back on an incredible Premier League career. From breaking through at Watford and starring for Aston Villa to becoming a champion with Manchester United and playing on until the age of 40, Ashley counts down the 10 moments that defined his time at the very top of English football.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107060000 +0000" stop="20261107070000 +0000">
@@ -16033,17 +16018,17 @@
   </programme>
   <programme channel="9353" start="20261107073000 +0000" stop="20261107080000 +0000">
     <title lang="id">Fri 06 Nov (Update) : Preview</title>
-    <desc lang="id">A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
+    <desc lang="id">We preview Manchester United's clash with Aston Villa, Liverpool's trip to Crystal Palace and Leeds hosting Spurs.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107080000 +0000" stop="20261107083000 +0000">
     <title lang="id">Owen Hargreaves: Man Utd 07/08 : Rewind</title>
-    <desc lang="id">An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
+    <desc lang="id">2007/08 saw Manchester United crowned both Premier League and European champions. Owen Hargreaves played a pivotal role in that success, in his debut season at Old Trafford. He recalls the drama and glory of an unforgettable campaign.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107083000 +0000" stop="20261107090000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Marc Guehi : The Big Interview</title>
+    <desc lang="id">Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107090000 +0000" stop="20261107093000 +0000">
@@ -16063,17 +16048,22 @@
   </programme>
   <programme channel="9353" start="20261107110000 +0000" stop="20261107113000 +0000">
     <title lang="id">Fri 06 Nov (Update) : Preview</title>
-    <desc lang="id">A tightly packed look-ahead to the forthcoming match round with a mix of player interviews and special features.</desc>
+    <desc lang="id">We preview Manchester United's clash with Aston Villa, Liverpool's trip to Crystal Palace and Leeds hosting Spurs.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261107113000 +0000" stop="20261107200000 +0000">
-    <title lang="id">Leeds United V Tottenham Hotspur / Arsenal V Hull City / Nottingham Forest V Manchester City : Premier League LIVE</title>
-    <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
+  <programme channel="9353" start="20261107113000 +0000" stop="20261107122500 +0000">
+    <title lang="id">Leeds United V Tottenham Hotspur : Premier League Live Preview</title>
+    <desc lang="id">Leeds United against Tottenham Hotspur kicks off the action before Arsenal take on Hull City. The late game sees Nottingham Forest host Manchester City.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261107113000 +0000" stop="20261107200000 +0000">
+  <programme channel="9353" start="20261107122500 +0000" stop="20261107200000 +0000">
     <title lang="id">Leeds United V Tottenham Hotspur / Arsenal V Hull City / Nottingham Forest V Manchester City : Premier League LIVE</title>
-    <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
+    <desc lang="id">Leeds United against Tottenham Hotspur kicks off the action before Arsenal take on Hull City. The late game sees Nottingham Forest host Manchester City.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
+  </programme>
+  <programme channel="9353" start="20261107122500 +0000" stop="20261107200000 +0000">
+    <title lang="id">Leeds United V Tottenham Hotspur / Arsenal V Hull City / Nottingham Forest V Manchester City : Premier League LIVE</title>
+    <desc lang="id">Leeds United against Tottenham Hotspur kicks off the action before Arsenal take on Hull City. The late game sees Nottingham Forest host Manchester City.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261107200000 +0000" stop="20261107210000 +0000">
@@ -16212,18 +16202,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108123000 +0000" stop="20261108130000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Marc Guehi : The Big Interview</title>
+    <desc lang="id">Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108130000 +0000" stop="20261108190000 +0000">
     <title lang="id">Crystal Palace V Liverpool (Goal Rush) / Manchester United V Aston Villa : Premier League LIVE</title>
-    <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
+    <desc lang="id">Crystal Palace versus Liverpool headlines a 4-game Sunday Goal Rush before Manchester United take on Aston Villa at Old Trafford.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108130000 +0000" stop="20261108190000 +0000">
     <title lang="id">Crystal Palace V Liverpool (Goal Rush) / Manchester United V Aston Villa : Premier League LIVE</title>
-    <desc lang="id">Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
+    <desc lang="id">Crystal Palace versus Liverpool headlines a 4-game Sunday Goal Rush before Manchester United take on Aston Villa at Old Trafford.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108190000 +0000" stop="20261108200000 +0000">
@@ -16232,18 +16222,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108200000 +0000" stop="20261108203000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Marc Guehi : The Big Interview</title>
+    <desc lang="id">Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108203000 +0000" stop="20261108210000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Aston Villa 92-93 - Behind The First Season : PL Stories</title>
+    <desc lang="id">Aston Villa's 1992/93 season had all the ingredients of a defining football story. Through special behind-the-scenes footage, PL Stories takes viewers inside Ron Atkinson's Villa, revealing the characters, camaraderie and mounting pressure of a gripping title challenge. From the dressing room to the drama on the pitch, this is the inside story of Villa's pursuit of the first Premier League crown.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108210000 +0000" stop="20261108220000 +0000">
     <title lang="id">Ashley Young : PL Moments</title>
-    <desc lang="id">PL Moments combines archive and first-person testimony to revisit the very best games, goals, players and performances from the Premier League era.</desc>
+    <desc lang="id">After more than two decades at the top, Ashley Young looks back on an incredible Premier League career. From breaking through at Watford and starring for Aston Villa to becoming a champion with Manchester United and playing on until the age of 40, Ashley counts down the 10 moments that defined his time at the very top of English football.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261108220000 +0000" stop="20261108230000 +0000">
@@ -16566,14 +16556,19 @@
     <desc lang="id">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261110163000 +0000" stop="20261110173000 +0000">
-    <title lang="id">Sun 08 Nov : The Weekend Wrap</title>
-    <desc lang="id">The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
+  <programme channel="9353" start="20261110163000 +0000" stop="20261110170000 +0000">
+    <title lang="id">Mw10: Lee V Tot : Match Highlights 26/27</title>
+    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261110163000 +0000" stop="20261110173000 +0000">
-    <title lang="id">Sun 08 Nov : The Weekend Wrap</title>
-    <desc lang="id">The Weekend Wrap features insightful debate and expert analysis from the Premier League Live pundits around the weekend's fixtures.</desc>
+  <programme channel="9353" start="20261110163000 +0000" stop="20261110170000 +0000">
+    <title lang="id">Mw10: Lee V Tot : Match Highlights 26/27</title>
+    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
+  </programme>
+  <programme channel="9353" start="20261110170000 +0000" stop="20261110173000 +0000">
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261110173000 +0000" stop="20261110180000 +0000">
@@ -16612,8 +16607,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261110230000 +0000" stop="20261110233000 +0000">
-    <title lang="id">Mw10: Sun V Che : Match Highlights 26/27</title>
-    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261110233000 +0000" stop="20261111003000 +0000">
@@ -16652,8 +16647,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111043000 +0000" stop="20261111050000 +0000">
-    <title lang="id">Mw10: Ful V New : Match Highlights 26/27</title>
-    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111050000 +0000" stop="20261111053000 +0000">
@@ -16692,18 +16687,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111100000 +0000" stop="20261111103000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Marc Guehi : The Big Interview</title>
+    <desc lang="id">Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111103000 +0000" stop="20261111110000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Aston Villa 92-93 - Behind The First Season : PL Stories</title>
+    <desc lang="id">Aston Villa's 1992/93 season had all the ingredients of a defining football story. Through special behind-the-scenes footage, PL Stories takes viewers inside Ron Atkinson's Villa, revealing the characters, camaraderie and mounting pressure of a gripping title challenge. From the dressing room to the drama on the pitch, this is the inside story of Villa's pursuit of the first Premier League crown.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111110000 +0000" stop="20261111113000 +0000">
-    <title lang="id">Mw10: Ars V Hul : Match Highlights 26/27</title>
-    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111113000 +0000" stop="20261111120000 +0000">
@@ -16747,13 +16742,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111180000 +0000" stop="20261111183000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111183000 +0000" stop="20261111190000 +0000">
-    <title lang="id">Mw10 : Netbusters</title>
-    <desc lang="id">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111190000 +0000" stop="20261111200000 +0000">
@@ -16767,13 +16762,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111210000 +0000" stop="20261111213000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Aston Villa 92-93 - Behind The First Season : PL Stories</title>
+    <desc lang="id">Aston Villa's 1992/93 season had all the ingredients of a defining football story. Through special behind-the-scenes footage, PL Stories takes viewers inside Ron Atkinson's Villa, revealing the characters, camaraderie and mounting pressure of a gripping title challenge. From the dressing room to the drama on the pitch, this is the inside story of Villa's pursuit of the first Premier League crown.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111213000 +0000" stop="20261111220000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Marc Guehi : The Big Interview</title>
+    <desc lang="id">Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111220000 +0000" stop="20261111223000 +0000">
@@ -16782,17 +16777,17 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111223000 +0000" stop="20261111230000 +0000">
-    <title lang="id">Mw10 : Netbusters</title>
-    <desc lang="id">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111230000 +0000" stop="20261111233000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261111233000 +0000" stop="20261112000000 +0000">
-    <title lang="id">Mw10: Cry V Liv : Match Highlights 26/27</title>
+    <title lang="id">Mw10: Ars V Hul : Match Highlights 26/27</title>
     <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
@@ -16822,8 +16817,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112040000 +0000" stop="20261112043000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112043000 +0000" stop="20261112050000 +0000">
@@ -16842,13 +16837,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112073000 +0000" stop="20261112080000 +0000">
-    <title lang="id">John Stones : PL Stories</title>
-    <desc lang="id">John Stones has experienced almost everything the game can offer; from the pressure of the biggest stage to the injuries and setbacks that have tested him along the way. After more than a decade at the heart of the Premier League, winning its biggest honours and helping redefine the role of a modern defender, he now takes his career in a new direction.?As Stones begins a new life in Italy, we look back at the defining moments, relationships and challenges behind one of England's most decorated players.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112080000 +0000" stop="20261112083000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112083000 +0000" stop="20261112093000 +0000">
@@ -16857,8 +16852,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112093000 +0000" stop="20261112100000 +0000">
-    <title lang="id">Mw10: Ips V Bou : Match Highlights 26/27</title>
-    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <title lang="id">Mw10 : Netbusters</title>
+    <desc lang="id">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112100000 +0000" stop="20261112110000 +0000">
@@ -16877,18 +16872,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112130000 +0000" stop="20261112133000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112133000 +0000" stop="20261112140000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Alan Shearer : The Big Interview</title>
+    <desc lang="id">Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112140000 +0000" stop="20261112143000 +0000">
-    <title lang="id">Mw10 : Netbusters</title>
-    <desc lang="id">A fast-paced music and commentary driven ISO angle highlights show featuring every game and every goal from each match round.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112143000 +0000" stop="20261112153000 +0000">
@@ -16922,13 +16917,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112190000 +0000" stop="20261112193000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Alan Shearer : The Big Interview</title>
+    <desc lang="id">Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112193000 +0000" stop="20261112200000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261112200000 +0000" stop="20261112210000 +0000">
@@ -16967,13 +16962,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113010000 +0000" stop="20261113013000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Alan Shearer : The Big Interview</title>
+    <desc lang="id">Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113013000 +0000" stop="20261113020000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113020000 +0000" stop="20261113030000 +0000">
@@ -16993,7 +16988,7 @@
   </programme>
   <programme channel="9353" start="20261113043000 +0000" stop="20261113050000 +0000">
     <title lang="id">Owen Hargreaves: Man Utd 07/08 : Rewind</title>
-    <desc lang="id">An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
+    <desc lang="id">2007/08 saw Manchester United crowned both Premier League and European champions. Owen Hargreaves played a pivotal role in that success, in his debut season at Old Trafford. He recalls the drama and glory of an unforgettable campaign.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113050000 +0000" stop="20261113053000 +0000">
@@ -17002,13 +16997,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113053000 +0000" stop="20261113060000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Alan Shearer : The Big Interview</title>
+    <desc lang="id">Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113060000 +0000" stop="20261113063000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Marc Guehi : The Big Interview</title>
+    <desc lang="id">Marc Guehi arrived at Manchester City as an FA Cup winner with Crystal Palace before winning the same trophy with his new club 12 months later. The centre-back sits down with The Big Interview to talk about becoming a key figure in Enzo Maresca's team, as well as how a love for music has formed a key part of his life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113063000 +0000" stop="20261113073000 +0000">
@@ -17027,13 +17022,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113090000 +0000" stop="20261113093000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113093000 +0000" stop="20261113100000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Alan Shearer : The Big Interview</title>
+    <desc lang="id">Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113100000 +0000" stop="20261113110000 +0000">
@@ -17062,13 +17057,13 @@
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113143000 +0000" stop="20261113150000 +0000">
-    <title lang="id">The Big Interview</title>
-    <desc lang="id">Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+    <title lang="id">Alan Shearer : The Big Interview</title>
+    <desc lang="id">Alan Shearer reflects on a childhood where his eye for goal came naturally, and led to a career that ended with him setting a Premier League goalscoring record that remains unchallenged. The former Southampton, Blackburn and Newcastle man explains what makes a great striker, and reveals a piece of advice that he's passed on to a Premier League star of today</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113150000 +0000" stop="20261113153000 +0000">
-    <title lang="id">PL Stories</title>
-    <desc lang="id">The centrepiece of the Premier League Originals strand, PL Stories showcases the personalities who have shaped the Premier League era, and tells their stories with location interviews and high-end filming styles.</desc>
+    <title lang="id">Mikel Arteta : PL Stories</title>
+    <desc lang="id">We explore Mikel Arteta's impact at Arsenal and the managerial approach behind his success, reflecting on how his upbringing and football education in the Basque region shaped his thinking. We examine his tactics, how he develops players and the standards he sets throughout the club. We look at the key decisions that have turned Arsenal into Premier League champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113153000 +0000" stop="20261113160000 +0000">
@@ -17078,12 +17073,12 @@
   </programme>
   <programme channel="9353" start="20261113160000 +0000" stop="20261113163000 +0000">
     <title lang="id">Owen Hargreaves: Man Utd 07/08 : Rewind</title>
-    <desc lang="id">An evergreen archive strand that relives classic matches, season and moments in the company of those who starred in them.</desc>
+    <desc lang="id">2007/08 saw Manchester United crowned both Premier League and European champions. Owen Hargreaves played a pivotal role in that success, in his debut season at Old Trafford. He recalls the drama and glory of an unforgettable campaign.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="9353" start="20261113163000 +0000" stop="20261113170000 +0000">
-    <title lang="id">Mw10: Mun V Avl : Match Highlights 26/27</title>
-    <desc lang="id">Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
+    <title lang="id">Tue 10 Nov : Match Officials Mic'D Up</title>
+    <desc lang="id">Pro Ref Chief Refereeing Officer Howard Webb joins Michael Owen to provide context and explanation behind refereeing decisions, using match footage and previously unreleased audio between the on-field officials and VAR teams.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
   <programme channel="17139" start="20261106150000 +0000" stop="20261106170000 +0000">
