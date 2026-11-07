@@ -205,7 +205,7 @@
   <programme channel="204" start="20261107051400 +0000" stop="20261107070600 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
   </programme>
   <programme channel="204" start="20261107070600 +0000" stop="20261107100000 +0000">
     <title lang="id">Karnaval Sctv - Live</title>
@@ -231,18 +231,18 @@
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
   </programme>
-  <programme channel="204" start="20261107155000 +0000" stop="20261107170200 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20261107155000 +0000" stop="20261107170600 +0000">
+    <title lang="id">FTV Primetime : Lamaran Cinta Terindah</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107155000 +0000" stop="20261107170200 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20261107155000 +0000" stop="20261107170600 +0000">
+    <title lang="id">FTV Primetime : Lamaran Cinta Terindah</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261107170200 +0000" stop="20261107192800 +0000">
-    <title lang="id">Nott'Em Forest Vs Man City - Premier League - Live</title>
+  <programme channel="204" start="20261107170600 +0000" stop="20261107192800 +0000">
+    <title lang="id">Nottingham Forest vs Manchester City : Premier League 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
   <programme channel="204" start="20261107192800 +0000" stop="20261107201800 +0000">
@@ -381,7 +381,7 @@
   <programme channel="204" start="20261109052400 +0000" stop="20261109100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
   </programme>
   <programme channel="204" start="20261109100000 +0000" stop="20261109112800 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -830,17 +830,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261107113600 +0000" stop="20261107140000 +0000">
+  <programme channel="205" start="20261107113600 +0000" stop="20261107140900 +0000">
     <title lang="id">Bri Super League 2026/27</title>
     <desc lang="id">Bri Super League 2026/27</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261107140000 +0000" stop="20261107180000 +0000">
+  <programme channel="205" start="20261107140900 +0000" stop="20261107180000 +0000">
     <title lang="id">D'Academy 8: BEST OF TOP 11 RESULT MALAM PERTAMA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
-  <programme channel="205" start="20261107140000 +0000" stop="20261107180000 +0000">
+  <programme channel="205" start="20261107140900 +0000" stop="20261107180000 +0000">
     <title lang="id">D'Academy 8: BEST OF TOP 11 RESULT MALAM PERTAMA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
@@ -999,17 +999,17 @@
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261107143000 +0000" stop="20261107170000 +0000">
+  <programme channel="206" start="20261107143000 +0000" stop="20261107170300 +0000">
     <title lang="id">Premier League (LIVE) Fulham vs Newcastle United</title>
     <desc lang="id">PREMIER LEAGUE (LIVE) FULHAM VS NEWCASTLE UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261107143000 +0000" stop="20261107170000 +0000">
+  <programme channel="206" start="20261107143000 +0000" stop="20261107170300 +0000">
     <title lang="id">Premier League (LIVE) Fulham vs Newcastle United</title>
     <desc lang="id">PREMIER LEAGUE (LIVE) FULHAM VS NEWCASTLE UNITED</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261107170000 +0000" stop="20261107181900 +0000">
+  <programme channel="206" start="20261107170300 +0000" stop="20261107181900 +0000">
     <title lang="id">ONE Fight Night 49</title>
     <desc lang="id">ONE FIGHT NIGHT 49</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -3449,12 +3449,12 @@
     <desc lang="id">Sinema Spesial Rhoma Irama : Melodi Cinta</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261107131500 +0000" stop="20261107143000 +0000">
+  <programme channel="782" start="20261107131500 +0000" stop="20261107144400 +0000">
     <title lang="id">Alas Roban The Series</title>
     <desc lang="id">Alas Roban The Series</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261107143000 +0000" stop="20261107163000 +0000">
+  <programme channel="782" start="20261107144400 +0000" stop="20261107163000 +0000">
     <title lang="id">Sinema Spesial Warkop : Pokoknya Beres</title>
     <desc lang="id">Sinema Spesial Warkop : Pokoknya Beres</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -6350,11 +6350,123 @@
     <title lang="id">Musik Hub</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261107163000 +0000" stop="20261107173000 +0000">
+  <programme channel="6441" start="20261107170000 +0000" stop="20261107210000 +0000">
+    <title lang="id">TVRI Program</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261107210000 +0000" stop="20261107213000 +0000">
+    <title lang="id">Jejak Islam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261107213000 +0000" stop="20261107230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261107230000 +0000" stop="20261108000000 +0000">
+    <title lang="id">Klik Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108000000 +0000" stop="20261108010000 +0000">
+    <title lang="id">Jendela Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108010000 +0000" stop="20261108013000 +0000">
+    <title lang="id">Feature LKBN Antara</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108013000 +0000" stop="20261108030300 +0000">
+    <title lang="id">Misa Minggu</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108030300 +0000" stop="20261108033000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108033000 +0000" stop="20261108040300 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108040300 +0000" stop="20261108043000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108043000 +0000" stop="20261108050000 +0000">
+    <title lang="id">Belajar Bersama</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108050000 +0000" stop="20261108060000 +0000">
+    <title lang="id">Berita Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108060000 +0000" stop="20261108070300 +0000">
+    <title lang="id">Paten</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108070300 +0000" stop="20261108073000 +0000">
+    <title lang="id">Sentuhan Kasih</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108073000 +0000" stop="20261108080300 +0000">
+    <title lang="id">Awas Sleding Tekel</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108080300 +0000" stop="20261108090300 +0000">
+    <title lang="id">Kabayan Milenial</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108090300 +0000" stop="20261108093000 +0000">
+    <title lang="id">Spot Check</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108093000 +0000" stop="20261108100300 +0000">
+    <title lang="id">Buah Hatiku Sayang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108100300 +0000" stop="20261108103000 +0000">
+    <title lang="id">Buah Hatiku Sayang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108103000 +0000" stop="20261108110000 +0000">
+    <title lang="id">Desaku Yang Ku Cinta</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108110000 +0000" stop="20261108120000 +0000">
+    <title lang="id">Klik Indonesia Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108120000 +0000" stop="20261108123000 +0000">
+    <title lang="id">Sobat Milenial</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108123000 +0000" stop="20261108130000 +0000">
+    <title lang="id">Playlist</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108130000 +0000" stop="20261108140000 +0000">
+    <title lang="id">TVRI Klasik: Pondokan</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108140000 +0000" stop="20261108143000 +0000">
+    <title lang="id">Dunia Dalam Berita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108143000 +0000" stop="20261108150000 +0000">
+    <title lang="id">Film Pendek</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108150000 +0000" stop="20261108153000 +0000">
+    <title lang="id">Monitor Olahraga Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108153000 +0000" stop="20261108163000 +0000">
+    <title lang="id">Taman Buaya Music Corner.</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261108163000 +0000" stop="20261108173000 +0000">
     <title lang="id">Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261107163000 +0000" stop="20261107173000 +0000">
+  <programme channel="6441" start="20261108163000 +0000" stop="20261108173000 +0000">
     <title lang="id">Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -13431,14 +13543,13 @@
     <desc lang="id">Yassir Zabiri</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261107142500 +0000" stop="20261107153000 +0000">
+  <programme channel="6299" start="20261107142500 +0000" stop="20261107153800 +0000">
     <title lang="id">Practice 3 - Formula 1 MSC Cruises Grande Premio de Sao Paulo 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Practice 3 - Formula 1 MSC Cruises Grande Premio de Sao Paulo 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cKaLYtgfuqI4ni88PLsTuTlxpiA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5428903/1cb426.jpg"/>
   </programme>
-  <programme channel="6299" start="20261107153000 +0000" stop="20261107160000 +0000">
-    <title lang="id">November : Gearing Up 2026</title>
-    <desc lang="id">November</desc>
+  <programme channel="6299" start="20261107153800 +0000" stop="20261107160000 +0000">
+    <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261107160000 +0000" stop="20261107163000 +0000">
@@ -14207,17 +14318,17 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261107145500 +0000" stop="20261107170000 +0000">
+  <programme channel="6685" start="20261107145500 +0000" stop="20261107170700 +0000">
     <title lang="id">Birmingham vs Swansea City - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Birmingham vs Swansea City - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uOfTe0cFKVrwBQ5eLptHpr49Anc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429397/481313.jpg"/>
   </programme>
-  <programme channel="6685" start="20261107145500 +0000" stop="20261107170000 +0000">
+  <programme channel="6685" start="20261107145500 +0000" stop="20261107170700 +0000">
     <title lang="id">Birmingham vs Swansea City - EFL Championship</title>
     <desc lang="id">Nonton streaming pertandingan seru Birmingham vs Swansea City - EFL Championship. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uOfTe0cFKVrwBQ5eLptHpr49Anc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5429397/481313.jpg"/>
   </programme>
-  <programme channel="6685" start="20261107170000 +0000" stop="20261107173000 +0000">
+  <programme channel="6685" start="20261107170700 +0000" stop="20261107173000 +0000">
     <title lang="id">Full Impact - Round 10 : Serie A 2026/27 - Highlight</title>
     <desc lang="id">Full Impact - Round 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
@@ -14402,22 +14513,22 @@
     <desc lang="id">SHOW 09 - MATCHWEEK 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261107120000 +0000" stop="20261107144700 +0000">
+  <programme channel="9182" start="20261107120000 +0000" stop="20261107143600 +0000">
     <title lang="id">Leeds United vs Tottenham Hotspur : [LIVE] Premier League 2026/27</title>
     <desc lang="id">LEEDS UNITED vs TOTTENHAM HOTSPUR</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261107144700 +0000" stop="20261107170000 +0000">
+  <programme channel="9182" start="20261107143600 +0000" stop="20261107170500 +0000">
     <title lang="id">Arsenal vs Hull City - Premier League</title>
     <desc lang="id">Bisakah pasukan Hull City membendung gelombang serangan demi serangan dari Arsenal?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5VKwuIhkMGegODdNepgfJAyB1As=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426440/27793b.jpg"/>
   </programme>
-  <programme channel="9182" start="20261107144700 +0000" stop="20261107170000 +0000">
+  <programme channel="9182" start="20261107143600 +0000" stop="20261107170500 +0000">
     <title lang="id">Arsenal vs Hull City - Premier League</title>
     <desc lang="id">Bisakah pasukan Hull City membendung gelombang serangan demi serangan dari Arsenal?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5VKwuIhkMGegODdNepgfJAyB1As=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426440/27793b.jpg"/>
   </programme>
-  <programme channel="9182" start="20261107170000 +0000" stop="20261107193000 +0000">
+  <programme channel="9182" start="20261107170500 +0000" stop="20261107193000 +0000">
     <title lang="id">Nottingham Forest vs Manchester City : [LIVE] Premier League 2026/27</title>
     <desc lang="id">NOTTINGHAM FOREST vs MANCHESTER CITY</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
@@ -15218,12 +15329,12 @@
     <desc lang="id">11</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261107134500 +0000" stop="20261107160000 +0000">
+  <programme channel="6786" start="20261107134500 +0000" stop="20261107161200 +0000">
     <title lang="id">Torino vs Lecce - Serie A</title>
     <desc lang="id">Nonton streaming pertandingan seru Torino vs Lecce - Serie A. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/DiU1RzmzjmD7ENC9tiJtPMSjndA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426439/f7ab7f.jpg"/>
   </programme>
-  <programme channel="6786" start="20261107160000 +0000" stop="20261107163000 +0000">
+  <programme channel="6786" start="20261107161200 +0000" stop="20261107163000 +0000">
     <title lang="id">Full Impact - Round 10 : Serie A 2026/27 - Highlight</title>
     <desc lang="id">Full Impact - Round 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15293,9 +15404,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261108080000 +0000" stop="20261108100000 +0000">
-    <title lang="id">Final - WTA 250: Prudential Hong Kong Tennis Open 2026</title>
-    <desc lang="id">Nonton streaming pertandingan seru Final - WTA 250: Prudential Hong Kong Tennis Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/XhY64wD7xvaeiQllf27iSLyCq-o=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426982/e71bc3.png"/>
+    <title lang="id">Claire Liu vs Alexandra Eala - Final | WTA 250: Prudential Hong Kong Tennis Open 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Claire Liu vs Alexandra Eala - Final | WTA 250: Prudential Hong Kong Tennis Open 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Zra3xUZ6FPRdhg4_aaTR28ZB9qg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433550/436f48.png"/>
   </programme>
   <programme channel="6786" start="20261108100000 +0000" stop="20261108103000 +0000">
     <title lang="id">Eps 7 : Sport Woman</title>
@@ -15407,15 +15518,10 @@
     <desc lang="id">2025 Men's Singles QF Djokovic v Alcaraz</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261107110000 +0000" stop="20261107123000 +0000">
+  <programme channel="17875" start="20261107110000 +0000" stop="20261107130000 +0000">
     <title lang="id">FIP World Cup 2026 - Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru FIP World Cup 2026 - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/uzka9D19kEWXmjEOGXvi5lXMOCk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426562/468fa7.png"/>
-  </programme>
-  <programme channel="17875" start="20261107123000 +0000" stop="20261107130000 +0000">
-    <title lang="id">Malaga P1 : Premier Padel Highlights 2026</title>
-    <desc lang="id">Malaga P1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261107130000 +0000" stop="20261107131000 +0000">
     <title lang="id">Milan P1 Men : Premier Padel Match Highlights 2026</title>
@@ -15432,15 +15538,19 @@
     <desc lang="id">New Zealand vs Australia - Cup Final, Bordeaux - Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261107151000 +0000" stop="20261107172500 +0000">
+  <programme channel="17875" start="20261107151000 +0000" stop="20261107171600 +0000">
     <title lang="id">Espanyol vs RC Deportivo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Espanyol vs RC Deportivo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TRWppSwZwaejUevFmXqKVYFKuuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426578/1e4690.jpg"/>
   </programme>
-  <programme channel="17875" start="20261107151000 +0000" stop="20261107172500 +0000">
+  <programme channel="17875" start="20261107151000 +0000" stop="20261107171600 +0000">
     <title lang="id">Espanyol vs RC Deportivo - LaLiga</title>
     <desc lang="id">Nonton streaming pertandingan seru Espanyol vs RC Deportivo - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/TRWppSwZwaejUevFmXqKVYFKuuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426578/1e4690.jpg"/>
+  </programme>
+  <programme channel="17875" start="20261107171600 +0000" stop="20261107172500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261107172500 +0000" stop="20261107194000 +0000">
     <title lang="id">Osasuna vs Athletic Club - LaLiga</title>
@@ -15519,7 +15629,7 @@
   </programme>
   <programme channel="17875" start="20261108172500 +0000" stop="20261108194000 +0000">
     <title lang="id">Villarreal vs Getafe - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Villarreal vs Getafe - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">El Submarino Amarillo siap jamu ketangguhan Los Azulones di LaCeramica!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ESHoahYvrqaS3Q1mJo4ic3jM1ZA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5430139/23ced5.jpg"/>
   </programme>
   <programme channel="17875" start="20261108194000 +0000" stop="20261108195500 +0000">
@@ -15529,7 +15639,7 @@
   </programme>
   <programme channel="17875" start="20261108195500 +0000" stop="20261108220000 +0000">
     <title lang="id">Atletico Madrid vs Barcelona - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Atletico Madrid vs Barcelona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Los Colchoneros siap jamu Blaugrana di Riyadh Air Metropolitano!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QyQn43HjApmM8_oWDR8kNKmt75I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5430140/a083c0.jpg"/>
   </programme>
   <programme channel="17875" start="20261108220000 +0000" stop="20261108223000 +0000">
@@ -16249,17 +16359,17 @@
     <desc lang="id">SHOW 09 - MATCHWEEK 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261107143000 +0000" stop="20261107170800 +0000">
+  <programme channel="9183" start="20261107143000 +0000" stop="20261107170200 +0000">
     <title lang="id">Fulham vs Newcastle - Premier League</title>
     <desc lang="id">Kedua tim masih terseok-seok dan inkonsisten, siapakah yang bakal raih kemenangan di Craven Cottage?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/U5sP6TLBsU1KeMrUXJgvjxWmo_U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426885/74dad1.jpg"/>
   </programme>
-  <programme channel="9183" start="20261107143000 +0000" stop="20261107170800 +0000">
+  <programme channel="9183" start="20261107143000 +0000" stop="20261107170200 +0000">
     <title lang="id">Fulham vs Newcastle - Premier League</title>
     <desc lang="id">Kedua tim masih terseok-seok dan inkonsisten, siapakah yang bakal raih kemenangan di Craven Cottage?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/U5sP6TLBsU1KeMrUXJgvjxWmo_U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426885/74dad1.jpg"/>
   </programme>
-  <programme channel="9183" start="20261107170800 +0000" stop="20261107190000 +0000">
+  <programme channel="9183" start="20261107170200 +0000" stop="20261107190000 +0000">
     <title lang="id">Toulose vs Strasbourg : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">Toulose vs Strasbourg</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
@@ -18145,22 +18255,22 @@
     <desc lang="id">Nonton streaming pertandingan seru Moto3 Qualifying: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/rMOYszbdFsdp2WSC_al8sXSSwUE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426586/37da31.png"/>
   </programme>
-  <programme channel="17140" start="20261107144000 +0000" stop="20261107153000 +0000">
+  <programme channel="17140" start="20261107144000 +0000" stop="20261107153100 +0000">
     <title lang="id">Moto2 Qualifying: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20</title>
     <desc lang="id">Nonton streaming pertandingan seru Moto2 Qualifying: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NBKKZf4lmWd42Pxv7OZhIRQae5w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426587/cd5d55.png"/>
   </programme>
-  <programme channel="17140" start="20261107153000 +0000" stop="20261107170000 +0000">
+  <programme channel="17140" start="20261107153100 +0000" stop="20261107170100 +0000">
     <title lang="id">MotoGP Tissot SPRINT: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Tissot SPRINT: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cHhf5ISvg7IKBAiBlWcvvP0tcM0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426588/e6e04f.png"/>
   </programme>
-  <programme channel="17140" start="20261107153000 +0000" stop="20261107170000 +0000">
+  <programme channel="17140" start="20261107153100 +0000" stop="20261107170100 +0000">
     <title lang="id">MotoGP Tissot SPRINT: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20</title>
     <desc lang="id">Nonton streaming pertandingan seru MotoGP Tissot SPRINT: Qatar Airways Grand Prix of Qatar - MotoGP 2026 Round 20. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cHhf5ISvg7IKBAiBlWcvvP0tcM0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426588/e6e04f.png"/>
   </programme>
-  <programme channel="17140" start="20261107170000 +0000" stop="20261107173000 +0000">
+  <programme channel="17140" start="20261107170100 +0000" stop="20261107173000 +0000">
     <title lang="id">Grand Prix of Malaysia : 2026 MotoGP Rewind</title>
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
