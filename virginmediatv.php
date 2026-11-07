@@ -19,19 +19,19 @@
 <programme start="20261107161500 +0000" stop="20261107184000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Live: Nations Championship - Northern Series: Wales v Japan</title>
 </programme>
-<programme start="20261106231500 +0000" stop="20261107010000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261106233000 +0000" stop="20261107011000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Suit Hung. Tied Tongue</title>
 </programme>
-<programme start="20261107010000 +0000" stop="20261107013000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261107011000 +0000" stop="20261107014000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nationwide - Episode 125</title>
 </programme>
-<programme start="20261107013000 +0000" stop="20261107022000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261107014000 +0000" stop="20261107023000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 45</title>
 </programme>
-<programme start="20261107022000 +0000" stop="20261107030000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261107023000 +0000" stop="20261107031000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 87</title>
 </programme>
-<programme start="20261107030000 +0000" stop="20261107060000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261107031000 +0000" stop="20261107060000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261107115500 +0000" stop="20261107130000 +0000" channel="RTE_One_HD.virginmediatv">
@@ -259,19 +259,22 @@
 <programme start="20261106223500 +0000" stop="20261107001500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Late Late Show - Episode 23</title>
 </programme>
-<programme start="20261107001500 +0000" stop="20261107020000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261107001500 +0000" stop="20261107003000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Weather</title>
+</programme>
+<programme start="20261107003000 +0000" stop="20261107021000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Suit Hung. Tied Tongue</title>
 </programme>
-<programme start="20261107020000 +0000" stop="20261107023000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261107021000 +0000" stop="20261107024000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Nationwide - Episode 125</title>
 </programme>
-<programme start="20261107023000 +0000" stop="20261107032000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261107024000 +0000" stop="20261107033000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 45</title>
 </programme>
-<programme start="20261107032000 +0000" stop="20261107040000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261107033000 +0000" stop="20261107041000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 87</title>
 </programme>
-<programme start="20261107040000 +0000" stop="20261107070000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261107041000 +0000" stop="20261107070000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261107115000 +0000" stop="20261107125500 +0000" channel="RTE_One_+1.virginmediatv">

@@ -634,9 +634,6 @@
 <programme start="20261107093000 +0000" stop="20261107104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261107104500 +0000" stop="20261107131500 +0000" channel="ANTV.vision">
-<title>Melodi Cinta</title>
-</programme>
 <programme start="20261107131500 +0000" stop="20261107143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261107103000 +0000" stop="20261107115000 +0000" channel="MDTV.vision">
 <title>Marisol</title>
+</programme>
+<programme start="20261107115000 +0000" stop="20261107130000 +0000" channel="MDTV.vision">
+<title>Cinta Paulina</title>
 </programme>
