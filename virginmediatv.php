@@ -361,7 +361,7 @@
 <programme start="20261108174000 +0000" stop="20261108184000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Countryfile - County Antrim Dairy</title>
 </programme>
-<programme start="20261107235500 +0000" stop="20261108020500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261108000000 +0000" stop="20261108020500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Taste of Things</title>
 </programme>
 <programme start="20261108020500 +0000" stop="20261108030500 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -4081,10 +4081,10 @@
 <programme start="20261108051500 +0000" stop="20261108060000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
 </programme>
-<programme start="20261108114500 +0000" stop="20261108130000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261108113500 +0000" stop="20261108125000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Sao Paulo Grand Prix: 3rd Practice</title>
 </programme>
-<programme start="20261108130000 +0000" stop="20261108150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
+<programme start="20261108125000 +0000" stop="20261108150000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Sao Paulo Grand Prix: Qualifying</title>
 </programme>
 <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
@@ -4621,10 +4621,10 @@
 <programme start="20261108051500 +0000" stop="20261108060000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - The Best of Miami 2026</title>
 </programme>
-<programme start="20261108114500 +0000" stop="20261108130000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261108113500 +0000" stop="20261108125000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Sao Paulo Grand Prix: 3rd Practice</title>
 </programme>
-<programme start="20261108130000 +0000" stop="20261108150000 +0000" channel="Sky_Sports_F1.virginmediatv">
+<programme start="20261108125000 +0000" stop="20261108150000 +0000" channel="Sky_Sports_F1.virginmediatv">
     <title>Formula 1 - Sao Paulo Grand Prix: Qualifying</title>
 </programme>
 <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="Sky_Sports_F1.virginmediatv">

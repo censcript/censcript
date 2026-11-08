@@ -616,9 +616,6 @@
 <programme start="20261108010000 +0000" stop="20261108023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261108023000 +0000" stop="20261108060000 +0000" channel="ANTV.vision">
-<title>Koyla</title>
-</programme>
 <programme start="20261108060000 +0000" stop="20261108073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -775,23 +772,11 @@
 <programme start="20261108023000 +0000" stop="20261108030000 +0000" channel="TVOne.vision">
 <title>Indonesia Plus</title>
 </programme>
-<programme start="20261108030000 +0000" stop="20261108033000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
-</programme>
-<programme start="20261108033000 +0000" stop="20261108040000 +0000" channel="TVOne.vision">
-<title>Selalu Ada Hikmah</title>
-</programme>
 <programme start="20261108040000 +0000" stop="20261108053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
 </programme>
-<programme start="20261108053000 +0000" stop="20261108070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku</title>
-</programme>
 <programme start="20261108070000 +0000" stop="20261108080000 +0000" channel="TVOne.vision">
 <title>Dua Sisi</title>
-</programme>
-<programme start="20261108080000 +0000" stop="20261108090000 +0000" channel="TVOne.vision">
-<title>Apa Kabar Indonesia Akhir Pekan</title>
 </programme>
 <programme start="20261108090000 +0000" stop="20261108110000 +0000" channel="TVOne.vision">
 <title>Kabar Petang</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20261108100000 +0000" stop="20261108100300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
+</programme>
+<programme start="20261108100300 +0000" stop="20261108103000 +0000" channel="TVRI.vision">
+<title>Buah Hatiku Sayang</title>
+</programme>
+<programme start="20261108103000 +0000" stop="20261108110000 +0000" channel="TVRI.vision">
+<title>Desaku Yang Ku Cinta</title>
+</programme>
+<programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Petang</title>
+</programme>
+<programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="TVRI.vision">
+<title>Sobat Milenial</title>
+</programme>
+<programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="TVRI.vision">
+<title>Playlist</title>
 </programme>
