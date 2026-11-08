@@ -325,29 +325,29 @@
 <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Talking Business - 06/11/2026</title>
 </programme>
-<programme start="20261108101500 +0000" stop="20261108124000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108101500 +0000" stop="20261108124500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Remembrance Sunday: The Cenotaph - 2026</title>
 </programme>
-<programme start="20261108124000 +0000" stop="20261108125500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108124500 +0000" stop="20261108130000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Points of View - Episode 18</title>
 </programme>
-<programme start="20261108125500 +0000" stop="20261108130500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108130000 +0000" stop="20261108131000 +0000" channel="BBC1_HD.virginmediatv">
     <title>BBC Weekend News</title>
 </programme>
-<programme start="20261108130500 +0000" stop="20261108131000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108131000 +0000" stop="20261108131500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Weather for the Week Ahead</title>
 </programme>
-<programme start="20261108131000 +0000" stop="20261108134000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108131500 +0000" stop="20261108134500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Sunday Politics Northern Ireland</title>
 </programme>
-<programme start="20261108134000 +0000" stop="20261108141500 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108134500 +0000" stop="20261108142000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Songs of Praise - Remembrance Sunday</title>
 </programme>
-<programme start="20261108141500 +0000" stop="20261108163000 +0000" channel="BBC1_HD.virginmediatv">
+<programme start="20261108142000 +0000" stop="20261108163500 +0000" channel="BBC1_HD.virginmediatv">
     <title>War Horse</title>
 </programme>
-<programme start="20261108163000 +0000" stop="20261108164500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Planet Earth Live - A Tale of Three Bears</title>
+<programme start="20261108163500 +0000" stop="20261108164500 +0000" channel="BBC1_HD.virginmediatv">
+    <title>Blue Planet II - One Ocean</title>
 </programme>
 <programme start="20261108164500 +0000" stop="20261108171500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Oul Treasures - Episode 1</title>
