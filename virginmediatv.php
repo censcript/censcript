@@ -382,11 +382,8 @@
 <programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Homes Under the Hammer - Episode 72</title>
 </programme>
-<programme start="20261108140000 +0000" stop="20261108163000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261108140000 +0000" stop="20261108171000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Live: Match of the Day - FA Cup, First Round: Cray Wanderers v Stockport County</title>
-</programme>
-<programme start="20261108163000 +0000" stop="20261108171000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Eva Longoria: Searching for France - Paris Pastry</title>
 </programme>
 <programme start="20261108171000 +0000" stop="20261108184000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Match of the Day - FA Cup: First Round</title>
@@ -4108,10 +4105,10 @@
 <programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>World Sambo Championships - Day 2</title>
 </programme>
-<programme start="20261108113000 +0000" stop="20261108143000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20261108113000 +0000" stop="20261108144500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: FA Cup Football - First Round: Stafford Rangers v Grimsby Town</title>
 </programme>
-<programme start="20261108143000 +0000" stop="20261108171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20261108144500 +0000" stop="20261108171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: FA Cup Football - First Round: Wimborne Town v Crawley Town</title>
 </programme>
 <programme start="20261108171500 +0000" stop="20261108194500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
@@ -4168,10 +4165,10 @@
 <programme start="20261108120000 +0000" stop="20261108140000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>International Championship Snooker - Highlights</title>
 </programme>
-<programme start="20261108140000 +0000" stop="20261108163000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261108140000 +0000" stop="20261108170000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: FA Cup Football - First Round: Cray Wanderers v Stockport County</title>
 </programme>
-<programme start="20261108163000 +0000" stop="20261108194500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261108170000 +0000" stop="20261108194500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: FA Cup Football - First Round: Oldham Athletic v Sheffield Wednesday</title>
 </programme>
 <programme start="20261107233000 +0000" stop="20261108003000 +0000" channel="TNT_Sports_4_HD.virginmediatv">
@@ -5515,7 +5512,7 @@
 <programme start="20261107185800 +0000" stop="20261108025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261108025800 +0000" stop="20261108070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261108025800 +0000" stop="20261108060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="CBBC.virginmediatv">

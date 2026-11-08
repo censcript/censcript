@@ -430,12 +430,6 @@
 <programme start="20261108110000 +0000" stop="20261108120000 +0000" channel="Trans TV.vision">
 <title>Insert Story</title>
 </programme>
-<programme start="20261108120000 +0000" stop="20261108130000 +0000" channel="Trans TV.vision">
-<title>Kejora Show</title>
-</programme>
-<programme start="20261108130000 +0000" stop="20261108150000 +0000" channel="Trans TV.vision">
-<title>Trans TV Festival</title>
-</programme>
 <programme start="20261108150000 +0000" stop="20261108170000 +0000" channel="Trans TV.vision">
 <title>Bioskop Trans TV</title>
 </programme>
@@ -529,20 +523,11 @@
 <programme start="20261108121500 +0000" stop="20261108130000 +0000" channel="Trans 7.vision">
 <title>POV (Pasti Obrolan Viral)</title>
 </programme>
-<programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Qatar GP</title>
-</programme>
 <programme start="20261108140000 +0000" stop="20261108153000 +0000" channel="Trans 7.vision">
 <title>Arisan</title>
 </programme>
 <programme start="20261108153000 +0000" stop="20261108154500 +0000" channel="Trans 7.vision">
 <title>The Police</title>
-</programme>
-<programme start="20261108154500 +0000" stop="20261108170000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Qatar GP</title>
-</programme>
-<programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="Trans 7.vision">
-<title>Moto2 2026 Qatar GP</title>
 </programme>
 <programme start="20261108180000 +0000" stop="20261108193000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
@@ -622,20 +607,8 @@
 <programme start="20261108073000 +0000" stop="20261108093000 +0000" channel="ANTV.vision">
 <title>Sayali</title>
 </programme>
-<programme start="20261108093000 +0000" stop="20261108104500 +0000" channel="ANTV.vision">
-<title>Naagin</title>
-</programme>
-<programme start="20261108104500 +0000" stop="20261108131500 +0000" channel="ANTV.vision">
-<title>Camelia</title>
-</programme>
 <programme start="20261108131500 +0000" stop="20261108143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261108143000 +0000" stop="20261108163000 +0000" channel="ANTV.vision">
-<title>Pintar-Pintar Bodoh</title>
-</programme>
-<programme start="20261108163000 +0000" stop="20261108181500 +0000" channel="ANTV.vision">
-<title>Aces Go Places</title>
 </programme>
 <programme start="20261108181500 +0000" stop="20261108193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -786,12 +759,6 @@
 </programme>
 <programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261108140000 +0000" stop="20261108150000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
-</programme>
-<programme start="20261108150000 +0000" stop="20261108160000 +0000" channel="TVOne.vision">
-<title>One Pride MMA: The Best</title>
 </programme>
 <programme start="20261108160000 +0000" stop="20261108170000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
@@ -1497,4 +1464,37 @@
 </programme>
 <programme start="20261108123000 +0000" stop="20261108130000 +0000" channel="TVRI.vision">
 <title>Playlist</title>
+</programme>
+<programme start="20261108130000 +0000" stop="20261108140000 +0000" channel="TVRI.vision">
+<title>TVRI Klasik: Pondokan</title>
+</programme>
+<programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="TVRI.vision">
+<title>Dunia Dalam Berita (L)</title>
+</programme>
+<programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="TVRI.vision">
+<title>Film Pendek</title>
+</programme>
+<programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="TVRI.vision">
+<title>Monitor Olahraga Malam</title>
+</programme>
+<programme start="20261108153000 +0000" stop="20261108163000 +0000" channel="TVRI.vision">
+<title>Taman Buaya Music Corner</title>
+</programme>
+<programme start="20261108163000 +0000" stop="20261108170000 +0000" channel="TVRI.vision">
+<title>Klik Indonesia Malam</title>
+</programme>
+<programme start="20261108170000 +0000" stop="20261108213000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261108213000 +0000" stop="20261108230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261108230000 +0000" stop="20261109000000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261109010000 +0000" stop="20261109020000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
 </programme>
