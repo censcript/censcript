@@ -440,7 +440,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261109121500 +0000" stop="20261109130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - Government&#039;s Electric Car Targets</title>
 </programme>
 <programme start="20261109130000 +0000" stop="20261109134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 6</title>
@@ -1573,22 +1573,22 @@
 <programme start="20261109023000 +0000" stop="20261109025500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>South Park - A Nightmare on FaceTime</title>
 </programme>
-<programme start="20261109025500 +0000" stop="20261109032000 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20261109025500 +0000" stop="20261109030000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>South Park - A Scause for Applause</title>
 </programme>
-<programme start="20261109032000 +0000" stop="20261109040000 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20261109030000 +0000" stop="20261109035500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Jon Stewart: Michael Lewis</title>
 </programme>
-<programme start="20261109040000 +0000" stop="20261109042500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20261109035500 +0000" stop="20261109042000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Episode 124</title>
 </programme>
-<programme start="20261109042500 +0000" stop="20261109045000 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20261109042000 +0000" stop="20261109044500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Episode 125</title>
 </programme>
-<programme start="20261109045000 +0000" stop="20261109051500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20261109044500 +0000" stop="20261109051000 +0000" channel="Comedy_Extra.virginmediatv">
     <title>The Daily Show - Teddy Schleifer</title>
 </programme>
-<programme start="20261109051500 +0000" stop="20261109053500 +0000" channel="Comedy_Extra.virginmediatv">
+<programme start="20261109051000 +0000" stop="20261109053500 +0000" channel="Comedy_Extra.virginmediatv">
     <title>Everybody Loves Raymond - The Author</title>
 </programme>
 <programme start="20261109053500 +0000" stop="20261109060000 +0000" channel="Comedy_Extra.virginmediatv">
@@ -2323,16 +2323,16 @@
 <programme start="20261109123000 +0000" stop="20261109130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261109130000 +0000" stop="20261109134500 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
+</programme>
+<programme start="20261109134500 +0000" stop="20261109140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261109140000 +0000" stop="20261109143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20261109143000 +0000" stop="20261109144500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20261109144500 +0000" stop="20261109150000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
 <programme start="20261109150000 +0000" stop="20261109153000 +0000" channel="BBC_News_24.virginmediatv">
@@ -2809,8 +2809,8 @@
 <programme start="20261109043000 +0000" stop="20261109081500 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Irish Association of Former Parliamentarians</title>
 </programme>
-<programme start="20261109110000 +0000" stop="20261109123000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Oireachtas Replay</title>
+<programme start="20261109120000 +0000" stop="20261109123000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>OWL Graduation Ceremony 2026</title>
 </programme>
 <programme start="20261109123000 +0000" stop="20261109131000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Leaders&#039; Questions Tuesday</title>
@@ -2821,10 +2821,10 @@
 <programme start="20261109140000 +0000" stop="20261109150000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Leaders&#039; Questions Thursday</title>
 </programme>
-<programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261109150000 +0000" stop="20261109171000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Private Members&#039; Business</title>
 </programme>
-<programme start="20261109170000 +0000" stop="20261109190000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261109171000 +0000" stop="20261109190000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Private Members&#039; Business</title>
 </programme>
 <programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="Discovery_HD.virginmediatv">
@@ -3772,7 +3772,7 @@
 <programme start="20261109044500 +0000" stop="20261109050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261109050000 +0000" stop="20261109070000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261109050000 +0000" stop="20261109060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3866,7 +3866,7 @@
     <title>The Premier League Show - Episode 150</title>
 </programme>
 <programme start="20261108180000 +0000" stop="20261109003000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
-    <title>NFL RedZone - Episode 18</title>
+    <title>NFL RedZone - Episode 9</title>
 </programme>
 <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="Sky_Sports_Football_HD.virginmediatv">
     <title>WSL - Liverpool v Arsenal</title>
@@ -4027,7 +4027,7 @@
 <programme start="20261109090000 +0000" stop="20261109150000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Abu Dhabi Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20261109150000 +0000" stop="20261109180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20261109150000 +0000" stop="20261109183000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>WWT Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20261108211500 +0000" stop="20261109003000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
@@ -4154,7 +4154,7 @@
     <title>The Premier League Show - Episode 150</title>
 </programme>
 <programme start="20261108180000 +0000" stop="20261109003000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
-    <title>NFL RedZone - Episode 18</title>
+    <title>NFL RedZone - Episode 9</title>
 </programme>
 <programme start="20261109003000 +0000" stop="20261109004500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Darts Gold - 1994/95 WDC: Dennis Priestley v Jockie Wilson</title>
@@ -4663,7 +4663,7 @@
 <programme start="20261109044500 +0000" stop="20261109050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261109050000 +0000" stop="20261109070000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261109050000 +0000" stop="20261109060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4757,7 +4757,7 @@
     <title>The Premier League Show - Episode 150</title>
 </programme>
 <programme start="20261108180000 +0000" stop="20261109003000 +0000" channel="Sky_Sports_Football.virginmediatv">
-    <title>NFL RedZone - Episode 18</title>
+    <title>NFL RedZone - Episode 9</title>
 </programme>
 <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="Sky_Sports_Football.virginmediatv">
     <title>WSL - Liverpool v Arsenal</title>
@@ -4918,7 +4918,7 @@
 <programme start="20261109090000 +0000" stop="20261109150000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Abu Dhabi Championship, DP World Tour Golf - Day 4</title>
 </programme>
-<programme start="20261109150000 +0000" stop="20261109180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20261109150000 +0000" stop="20261109183000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>WWT Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20261108211500 +0000" stop="20261109003000 +0000" channel="Sky_Sports_Action.virginmediatv">
@@ -5045,7 +5045,7 @@
     <title>The Premier League Show - Episode 150</title>
 </programme>
 <programme start="20261108180000 +0000" stop="20261109003000 +0000" channel="Sky_Sports_Mix.virginmediatv">
-    <title>NFL RedZone - Episode 18</title>
+    <title>NFL RedZone - Episode 9</title>
 </programme>
 <programme start="20261109003000 +0000" stop="20261109004500 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Darts Gold - 1994/95 WDC: Dennis Priestley v Jockie Wilson</title>
@@ -5108,7 +5108,7 @@
     <title>Live Tennis: WTA Finals 2026 - Day 1: Doubles</title>
 </programme>
 <programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>To Be Announced</title>
+    <title>WTA All Access - Episode 7</title>
 </programme>
 <programme start="20261109033000 +0000" stop="20261109053000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Hong Kong Open 2026 - Final</title>
@@ -6088,7 +6088,7 @@
 <programme start="20261108185800 +0000" stop="20261109025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261109025800 +0000" stop="20261109070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261109025800 +0000" stop="20261109060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261109115000 +0000" stop="20261109121500 +0000" channel="CBBC.virginmediatv">
@@ -7456,11 +7456,8 @@
 <programme start="20261109140000 +0000" stop="20261109180000 +0000" channel="CCTv.virginmediatv">
     <title>Cork Community TV</title>
 </programme>
-<programme start="20261108230000 +0000" stop="20261109002000 +0000" channel="EWTN.virginmediatv">
-    <title>Sunday Mass</title>
-</programme>
-<programme start="20261109002000 +0000" stop="20261109003000 +0000" channel="EWTN.virginmediatv">
-    <title>The Litany of the Sacred Heart of Jesus</title>
+<programme start="20261108230000 +0000" stop="20261109003000 +0000" channel="EWTN.virginmediatv">
+    <title>Pope Leo in Uruguay - Holy Mass</title>
 </programme>
 <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="EWTN.virginmediatv">
     <title>Savoring Our Faith - Cebu: Marian Devotion</title>
@@ -7633,14 +7630,8 @@
 <programme start="20261109053000 +0000" stop="20261109060000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tum Se Tum Tak - Episode 486</title>
 </programme>
-<programme start="20261109120000 +0000" stop="20261109140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Sa Re Ga Ma Pa 2026 - Episode 16</title>
-</programme>
-<programme start="20261109140000 +0000" stop="20261109143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 486</title>
-</programme>
-<programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Ganga Mai Ki Betiyaan - Episode 407</title>
+<programme start="20261109120000 +0000" stop="20261109150000 +0000" channel="Zee_TV.virginmediatv">
+    <title>Zee Rishton Ka Mela Diwali Special</title>
 </programme>
 <programme start="20261109150000 +0000" stop="20261109153000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Episode 145</title>

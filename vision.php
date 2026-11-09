@@ -23,13 +23,16 @@
 <title>Terbelenggu Rindu Amira</title>
 </programme>
 <programme start="20261109163000 +0000" stop="20261109170000 +0000" channel="RCTI.vision">
-<title>Bhootu</title>
+<title>Terikat Takdir</title>
 </programme>
 <programme start="20261109170000 +0000" stop="20261109183000 +0000" channel="RCTI.vision">
 <title>Asisten Cantik Naik Pangkat</title>
 </programme>
-<programme start="20261109183000 +0000" stop="20261109200000 +0000" channel="RCTI.vision">
+<programme start="20261109183000 +0000" stop="20261109190000 +0000" channel="RCTI.vision">
 <title>Something About Stella</title>
+</programme>
+<programme start="20261109190000 +0000" stop="20261109200000 +0000" channel="RCTI.vision">
+<title>Mega Film TV Malam</title>
 </programme>
 <programme start="20261109200000 +0000" stop="20261109221500 +0000" channel="RCTI.vision">
 <title>Preman Pensiun Deui</title>
@@ -38,7 +41,7 @@
 <title>Seputar iNews</title>
 </programme>
 <programme start="20261109224500 +0000" stop="20261110031500 +0000" channel="RCTI.vision">
-<title>Cinta Berakhir Bahagia</title>
+<title>Cinta Berakhir Bahagia Adisty</title>
 </programme>
 <programme start="20261110031500 +0000" stop="20261110034500 +0000" channel="RCTI.vision">
 <title>Go Spot Ekslusif (RCTI)</title>
@@ -434,7 +437,7 @@
 <title>CNN Indonesia News Update</title>
 </programme>
 <programme start="20261109093000 +0000" stop="20261109103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
+<title>Monitor Ketua</title>
 </programme>
 <programme start="20261109103000 +0000" stop="20261109114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
@@ -479,7 +482,7 @@
 <title>CNN Indonesia News Update</title>
 </programme>
 <programme start="20261110093000 +0000" stop="20261110103000 +0000" channel="Trans TV.vision">
-<title>Dream Box Indonesia</title>
+<title>Monitor Ketua</title>
 </programme>
 <programme start="20261110103000 +0000" stop="20261110114500 +0000" channel="Trans TV.vision">
 <title>Bikin Laper</title>
@@ -623,67 +626,58 @@
 <title>Secret Story</title>
 </programme>
 <programme start="20261108230000 +0000" stop="20261109010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Radha Mohan</title>
 </programme>
 <programme start="20261109010000 +0000" stop="20261109023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jaane Anjaane</title>
 </programme>
 <programme start="20261109023000 +0000" stop="20261109060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Commando: A One Man Army</title>
 </programme>
 <programme start="20261109060000 +0000" stop="20261109073000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jhanak</title>
 </programme>
 <programme start="20261109073000 +0000" stop="20261109093000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Sayali</title>
 </programme>
 <programme start="20261109093000 +0000" stop="20261109104500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Naagin</title>
 </programme>
-<programme start="20261109104500 +0000" stop="20261109131500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20261109131500 +0000" stop="20261109150000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20261109150000 +0000" stop="20261109170000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
-</programme>
-<programme start="20261109170000 +0000" stop="20261109183000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20261109131500 +0000" stop="20261109143000 +0000" channel="ANTV.vision">
+<title>Alas Roban The Series</title>
 </programme>
 <programme start="20261109183000 +0000" stop="20261109193000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Garis Tangan</title>
 </programme>
-<programme start="20261109193000 +0000" stop="20261109210000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20261109193000 +0000" stop="20261109203000 +0000" channel="ANTV.vision">
+<title>Karma</title>
 </programme>
-<programme start="20261109210000 +0000" stop="20261109220000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20261109203000 +0000" stop="20261109213000 +0000" channel="ANTV.vision">
+<title>Bikin Mewek</title>
 </programme>
-<programme start="20261109220000 +0000" stop="20261109230000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<programme start="20261109213000 +0000" stop="20261109230000 +0000" channel="ANTV.vision">
+<title>Hati Ke Hati Bersama Mamah...</title>
 </programme>
 <programme start="20261109230000 +0000" stop="20261110010000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Radha Mohan</title>
 </programme>
 <programme start="20261110010000 +0000" stop="20261110023000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jaane Anjaane</title>
 </programme>
 <programme start="20261110023000 +0000" stop="20261110060000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Commando 2: Black Money Trail</title>
 </programme>
 <programme start="20261110060000 +0000" stop="20261110073000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Jhanak</title>
 </programme>
 <programme start="20261110073000 +0000" stop="20261110093000 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Sayali</title>
 </programme>
 <programme start="20261110093000 +0000" stop="20261110104500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Naagin</title>
 </programme>
 <programme start="20261110104500 +0000" stop="20261110131500 +0000" channel="ANTV.vision">
-<title>ANTV</title>
+<title>Berkelana</title>
 </programme>
 <programme start="20261108220000 +0000" stop="20261109023000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1313,7 +1307,7 @@
 <title>Berita Kriminal</title>
 </programme>
 <programme start="20261109083000 +0000" stop="20261109090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
+<title>Berita Satu Sore</title>
 </programme>
 <programme start="20261109090000 +0000" stop="20261109090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1402,11 +1396,8 @@
 <programme start="20261110023000 +0000" stop="20261110030000 +0000" channel="BTV.vision">
 <title>Investor Market Today</title>
 </programme>
-<programme start="20261110030000 +0000" stop="20261110033000 +0000" channel="BTV.vision">
-<title>Jendela Nusantara</title>
-</programme>
-<programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="BTV.vision">
-<title>Indonesia Update Cerita IDN</title>
+<programme start="20261110030000 +0000" stop="20261110040000 +0000" channel="BTV.vision">
+<title>Persona</title>
 </programme>
 <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
@@ -1424,13 +1415,13 @@
 <title>Pecah Telur</title>
 </programme>
 <programme start="20261110073000 +0000" stop="20261110080000 +0000" channel="BTV.vision">
-<title>Jendela Dunia</title>
+<title>Persona</title>
 </programme>
 <programme start="20261110080000 +0000" stop="20261110083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
 </programme>
 <programme start="20261110083000 +0000" stop="20261110090000 +0000" channel="BTV.vision">
-<title>Berita Satu Sore (L)</title>
+<title>Berita Satu Sore</title>
 </programme>
 <programme start="20261110090000 +0000" stop="20261110090500 +0000" channel="BTV.vision">
 <title>Berita Satu Terkini</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261109090000 +0000" stop="20261109090300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261109090300 +0000" stop="20261109093000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261109093000 +0000" stop="20261109100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261109100000 +0000" stop="20261109100300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
