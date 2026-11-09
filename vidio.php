@@ -282,12 +282,12 @@
   <programme channel="204" start="20261110010000 +0000" stop="20261110030000 +0000">
     <title lang="id">FTV Pagi Spesial: Calon Pengantin Berduka Di Hari Bahagia</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/d4XUDgkyJizbmDPujrKLWHGSBmU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433499/c4ff66.jpg"/>
   </programme>
   <programme channel="204" start="20261110030000 +0000" stop="20261110050000 +0000">
     <title lang="id">FTV Pagi: Senin Berubah Jadi Minggu Setelah Bucin Mencintaimu</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/4LpYJCJGJkIAt1FTWOjn6yA9vzE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433500/464439.jpg"/>
   </programme>
   <programme channel="204" start="20261110050000 +0000" stop="20261110053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -296,7 +296,7 @@
   <programme channel="204" start="20261110053000 +0000" stop="20261110100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/BOcoZI9KdJ8RiNL4XJQqPCzb6zM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/image/source/63860/33d7cc.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
   <programme channel="204" start="20261110100000 +0000" stop="20261110111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -382,7 +382,7 @@
   <programme channel="204" start="20261111053000 +0000" stop="20261111083000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
   <programme channel="204" start="20261111083000 +0000" stop="20261111103000 +0000">
     <title lang="id">Philipines Vs Indonesia - Afc U17 Asian Cup Uzbekistan 2027 Qualifiers - Live</title>
@@ -472,7 +472,7 @@
   <programme channel="204" start="20261112053000 +0000" stop="20261112100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
   <programme channel="204" start="20261112100000 +0000" stop="20261112111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -558,7 +558,7 @@
   <programme channel="204" start="20261113053000 +0000" stop="20261113100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
   <programme channel="204" start="20261113100000 +0000" stop="20261113111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -644,7 +644,7 @@
   <programme channel="204" start="20261114053000 +0000" stop="20261114083000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
   <programme channel="204" start="20261114083000 +0000" stop="20261114103000 +0000">
     <title lang="id">Indonesia Vs Cambodia - Afc U17 Asian Cup Uzbekistan 2027 Qualifiers - Live</title>
@@ -738,7 +738,7 @@
   <programme channel="204" start="20261115053000 +0000" stop="20261115100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/HTBvj2P_IoQPL3k0uTRzkchgDVw=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-film/uploads/film/image_landscape/781/samudra-cinta-15c0d5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
   <programme channel="204" start="20261115100000 +0000" stop="20261115111500 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
@@ -853,12 +853,12 @@
   <programme channel="205" start="20261109183000 +0000" stop="20261109200000 +0000">
     <title lang="id">Mega Film Asia: The Wild Blade Of Strangers</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/tPc0LANiXqA2Kvt-ruyffP0K9m4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434581/11dca7.png"/>
   </programme>
   <programme channel="205" start="20261109200000 +0000" stop="20261109213000 +0000">
     <title lang="id">Mega Film Asia: Bodyguard</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/z2KVMlCIv1m95HoJOQCcz9RHF-Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434582/61f0f0.png"/>
   </programme>
   <programme channel="205" start="20261109213000 +0000" stop="20261109230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -911,19 +911,19 @@
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
   <programme channel="205" start="20261110120000 +0000" stop="20261110160000 +0000">
-    <title lang="id">D'Academy 8</title>
+    <title lang="id">D' Academy 8 Top 10 Show Malam Pertama</title>
     <desc lang="id">D'Academy 8</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/do309B4rsPR8RP3T4u72wUs4bLw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434575/67e74b.jpg"/>
   </programme>
   <programme channel="205" start="20261110160000 +0000" stop="20261110183000 +0000">
     <title lang="id">Mega Film Asia: Rob-B-Hood</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/pMH4CSf20I-dLskib1sqOx5aIzU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434587/33c8c6.png"/>
   </programme>
   <programme channel="205" start="20261110160000 +0000" stop="20261110183000 +0000">
     <title lang="id">Mega Film Asia: Rob-B-Hood</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/pMH4CSf20I-dLskib1sqOx5aIzU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434587/33c8c6.png"/>
   </programme>
   <programme channel="205" start="20261110183000 +0000" stop="20261110210000 +0000">
     <title lang="id">Mega Film Asia: Detective Chen</title>
@@ -3469,27 +3469,27 @@
     <desc lang="id">Bikin Mewek</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261108230000 +0000" stop="20261109010000 +0000">
+  <programme channel="782" start="20261108230000 +0000" stop="20261109005000 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261109010000 +0000" stop="20261109023000 +0000">
+  <programme channel="782" start="20261109005500 +0000" stop="20261109024400 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nZusZeY0FRhV2q1mWSkwRT8hOuM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432184/0cb248.jpg"/>
   </programme>
-  <programme channel="782" start="20261109023000 +0000" stop="20261109060000 +0000">
+  <programme channel="782" start="20261109024400 +0000" stop="20261109054500 +0000">
     <title lang="id">Mega Bollywood : Commando A ONE Man Army</title>
     <desc lang="id">Mega Bollywood : Commando A ONE Man Army</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Z_to3IrJG5nTrocfxcMjxPCnMck=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432191/3c5836.png"/>
   </programme>
-  <programme channel="782" start="20261109060000 +0000" stop="20261109073000 +0000">
+  <programme channel="782" start="20261109054500 +0000" stop="20261109073100 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/z1r1TipIspoduym3VbU391CWFug=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432192/bb1e69.jpg"/>
   </programme>
-  <programme channel="782" start="20261109073000 +0000" stop="20261109093000 +0000">
+  <programme channel="782" start="20261109073100 +0000" stop="20261109093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/vY_EIzqzG_h837HJJMAlrisjc2E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432199/08a147.jpg"/>
@@ -3552,22 +3552,22 @@
   <programme channel="782" start="20261110010000 +0000" stop="20261110023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/T-xB6Q_7N31hwqlcT0Q8-p2wXJY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432185/530043.jpg"/>
   </programme>
   <programme channel="782" start="20261110023000 +0000" stop="20261110060000 +0000">
     <title lang="id">Mega Bollywood : Commando 2: The Black Money Trail</title>
     <desc lang="id">Mega Bollywood : Commando 2: The Black Money Trail</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-OIjFo9xplejeI2J_gfk4lkoSQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432242/3e6fb3.png"/>
   </programme>
   <programme channel="782" start="20261110060000 +0000" stop="20261110073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/doRcORBql5VBD_8x9xPpmUg_Lh0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432193/d571ef.jpg"/>
   </programme>
   <programme channel="782" start="20261110073000 +0000" stop="20261110093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CYnbQUYWSA0j1AJkzpV0td0KiNc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432200/9ed0f3.jpg"/>
   </programme>
   <programme channel="782" start="20261110093000 +0000" stop="20261110104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -15917,18 +15917,19 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261109011000 +0000" stop="20261109042000 +0000">
+  <programme channel="6786" start="20261109011000 +0000" stop="20261109044300 +0000">
     <title lang="id">Tampa Bay Buccaneers vs Chicago Bears - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Tampa Bay Buccaneers vs Chicago Bears - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2CVKSa_SWYi_ZuqWGr0ZhEIG4iQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433609/76952a.jpg"/>
   </programme>
-  <programme channel="6786" start="20261109042000 +0000" stop="20261109043000 +0000">
-    <title lang="id">Filler NFL</title>
+  <programme channel="6786" start="20261109044300 +0000" stop="20261109053000 +0000">
+    <title lang="id">NFL Game Day 2026/27 - Cincinnati Bengals at Atlanta Falcons</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261109043000 +0000" stop="20261109073000 +0000">
-    <title lang="id">Cincinnati Bengals at Atlanta Falcons : NFL 2026/27</title>
-    <desc lang="id">Cincinnati Bengals at Atlanta Falcons</desc>
+  <programme channel="6786" start="20261109053000 +0000" stop="20261109073000 +0000">
+    <title lang="id">WTA 250 Chennai Open</title>
+    <desc lang="id">&#13;
+</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261109073000 +0000" stop="20261109103000 +0000">
@@ -16000,12 +16001,12 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261110011500 +0000" stop="20261110044500 +0000">
+  <programme channel="6786" start="20261110010500 +0000" stop="20261110044500 +0000">
     <title lang="id">Buffalo Bills vs Minnesota Vikings - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Buffalo Bills vs Minnesota Vikings - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/lHCE3yNUIKw4Odz1xnahOqaaNOE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434367/d85ffa.jpg"/>
   </programme>
-  <programme channel="6786" start="20261110050000 +0000" stop="20261110080000 +0000">
+  <programme channel="6786" start="20261110044500 +0000" stop="20261110080000 +0000">
     <title lang="id">Tampa Bay Buccaneers at Chicago Bears : NFL 2026/27</title>
     <desc lang="id">Tampa Bay Buccaneers at Chicago Bears</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -16061,24 +16062,24 @@
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261110200000 +0000" stop="20261110220000 +0000">
-    <title lang="id">Match 9 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 9</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Marta Kostyuk vs Jessica Pegula - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Marta Kostyuk vs Jessica Pegula - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/PPFJOJbSE1tRCLbx04aYEmEnboY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435037/eb1039.png"/>
   </programme>
   <programme channel="6786" start="20261110220000 +0000" stop="20261111000000 +0000">
-    <title lang="id">Match 10 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 10</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Coco Gauff vs Linda Noskova - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Coco Gauff vs Linda Noskova - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/bQSKSO6_7x6eBIle_95_IjuoCsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435038/c05781.png"/>
   </programme>
   <programme channel="6786" start="20261111000000 +0000" stop="20261111020000 +0000">
-    <title lang="id">Match 11 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 11</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Katerina Siniakova/Taylor Townsend vs Ellen Perez/Demi Schuurs - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Katerina Siniakova/Taylor Townsend vs Ellen Perez/Demi Schuurs - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/QO0QQGF4Tkl4r71Ey2ze7suwxbk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435039/45a332.png"/>
   </programme>
   <programme channel="6786" start="20261111020000 +0000" stop="20261111040000 +0000">
-    <title lang="id">Match 12 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 12</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Cristina Bucsa/Nicole Melichar-Martinez vs Sara Errani/Jasmine Paolini - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Cristina Bucsa/Nicole Melichar-Martinez vs Sara Errani/Jasmine Paolini - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/93HZ6IRN3tqvzENTn3OfBGrDS4A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435040/871fac.png"/>
   </programme>
   <programme channel="6786" start="20261111040000 +0000" stop="20261111043000 +0000">
     <title lang="id">Eps 6 : sport Woman</title>
@@ -16752,25 +16753,10 @@
     <desc lang="id">Alanyaspor vs Trabzonspor</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261112080000 +0000" stop="20261112093000 +0000">
-    <title lang="id">Dubai P1 Day 3 Match 1 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 3 Match 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261112093000 +0000" stop="20261112110000 +0000">
-    <title lang="id">Dubai P1 Day 3 Match 2 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 3 Match 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261112110000 +0000" stop="20261112123000 +0000">
-    <title lang="id">Dubai P1 Day 3 Match 3 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 3 Match 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261112123000 +0000" stop="20261112140000 +0000">
-    <title lang="id">Dubai P1 Day 3 Match 4 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 3 Match 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261112080000 +0000" stop="20261112140000 +0000">
+    <title lang="id">Dubai P1 Premier Padel - Day 3</title>
+    <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Day 3. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4gxsm7iYmiRb7L1wqGe3dT0OXjQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434981/05bfd8.png"/>
   </programme>
   <programme channel="17875" start="20261112140000 +0000" stop="20261112143000 +0000">
     <title lang="id">Rotterdam P2 : Premier Padel Highlights 2026</title>
@@ -16862,20 +16848,10 @@
     <desc lang="id">Dubai P1 Day 3 Match 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261113080000 +0000" stop="20261113093000 +0000">
-    <title lang="id">Dubai P1 Day 4 QF Match 1 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 4 QF Match 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261113093000 +0000" stop="20261113110000 +0000">
-    <title lang="id">Dubai P1 Day 4 QF Match 2 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 4 QF Match 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261113110000 +0000" stop="20261113123000 +0000">
-    <title lang="id">Dubai P1 Day 4 QF Match 3 : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 4 QF Match 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261113080000 +0000" stop="20261113123000 +0000">
+    <title lang="id">Dubai P1 Premier Padel - Quarterfinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Quarterfinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ahb7O2FEgoya5580RDeA_Q2Jo0E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434982/250ea0.png"/>
   </programme>
   <programme channel="17875" start="20261113123000 +0000" stop="20261113124500 +0000">
     <title lang="id">Miami P1 Women : Premier Padel Match Highlights 2026</title>
@@ -16977,30 +16953,15 @@
     <desc lang="id">Dubai P1 Day 4 QF Match 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261114120000 +0000" stop="20261114133000 +0000">
-    <title lang="id">Dubai P1 Day 5 SF1 - Women : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 5 SF1 - Women</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261114120000 +0000" stop="20261114180000 +0000">
+    <title lang="id">Dubai P1 Premier Padel - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VaBI5DPLVUNGe68q666Hx-eQAOU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434984/348167.png"/>
   </programme>
-  <programme channel="17875" start="20261114133000 +0000" stop="20261114150000 +0000">
-    <title lang="id">Dubai P1 Day 5 SF2 - Women : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 5 SF2 - Women</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261114150000 +0000" stop="20261114163000 +0000">
-    <title lang="id">Dubai P1 Day 5 SF1 - Men : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 5 SF1 - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261114163000 +0000" stop="20261114180000 +0000">
-    <title lang="id">Dubai P1 Day 5 SF2 - Men : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 5 SF2 - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261114163000 +0000" stop="20261114180000 +0000">
-    <title lang="id">Dubai P1 Day 5 SF2 - Men : Premier Padel 2026</title>
-    <desc lang="id">Dubai P1 Day 5 SF2 - Men</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+  <programme channel="17875" start="20261114120000 +0000" stop="20261114180000 +0000">
+    <title lang="id">Dubai P1 Premier Padel - Semifinals</title>
+    <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VaBI5DPLVUNGe68q666Hx-eQAOU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434984/348167.png"/>
   </programme>
   <programme channel="17875" start="20261114180000 +0000" stop="20261114182000 +0000">
     <title lang="id">Australia vs New Zealand - Singapore Day 2, Women : HSBC SVNS Series 2026</title>
@@ -20763,12 +20724,12 @@
   <programme channel="6362" start="20261110131000 +0000" stop="20261110143000 +0000">
     <title lang="id">My Bias, My Boss Ep9</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_nohHXw0C3DSV9Va_HWB96Eie-E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5407059/cf862c.jpg"/>
   </programme>
   <programme channel="6362" start="20261110143000 +0000" stop="20261110155000 +0000">
     <title lang="id">Sixth Sense: B-side</title>
     <desc lang="id">Each journey exploring trending SNS destinations hides a fake place created by the production team! Join the 'Sixth Sensers' for a brand new season and distinguish the fake from the real.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Hu7SVViNdNOA4BOls9yb16d4joI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5406669/d71722.png"/>
   </programme>
   <programme channel="6362" start="20261110155000 +0000" stop="20261110173000 +0000">
     <title lang="id">GBRB: Joy Pops Laugh Pops</title>
@@ -20863,7 +20824,7 @@
   <programme channel="6362" start="20261111131000 +0000" stop="20261111143000 +0000">
     <title lang="id">My Bias, My Boss Ep10</title>
     <desc lang="id">Joining fashion firm Appello to meet her ultimate idol Lee Chan, new employee Nam Da-reum ends up working under workaholic CEO Kang Ha-gi, leading to a tangled workplace love triangle.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/uNXCR0zE6ukSMha5M1jA6yfiE5I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5407068/5ea1d8.jpg"/>
   </programme>
   <programme channel="6362" start="20261111143000 +0000" stop="20261111163000 +0000">
     <title lang="id">Undercover Chef: Friends from Afar</title>
@@ -20963,7 +20924,7 @@
   <programme channel="6362" start="20261112143000 +0000" stop="20261112164000 +0000">
     <title lang="id">World Dice Tour 4</title>
     <desc lang="id">Three travel creators roll dice to travel the world, filming cinematic travelogues across genres to compete for the prestigious Golden Cloud Award.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/nHTAmsPgdTF_CuM9LJ6MH3cz68c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5426676/cfa755.jpg"/>
   </programme>
   <programme channel="6362" start="20261112164000 +0000" stop="20261112175500 +0000">
     <title lang="id">My Bias, My Boss Ep9</title>

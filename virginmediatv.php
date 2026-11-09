@@ -5107,16 +5107,13 @@
 <programme start="20261109000000 +0000" stop="20261109030000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Live Tennis: WTA Finals 2026 - Day 1: Doubles</title>
 </programme>
-<programme start="20261109030000 +0000" stop="20261109031500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Indian Wells Memories</title>
+<programme start="20261109030000 +0000" stop="20261109033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20261109031500 +0000" stop="20261109033000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Miami Memories</title>
+<programme start="20261109033000 +0000" stop="20261109053000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+    <title>Tennis: WTA Hong Kong Open 2026 - Final</title>
 </programme>
-<programme start="20261109033000 +0000" stop="20261109040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 110</title>
-</programme>
-<programme start="20261109040000 +0000" stop="20261109060000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
+<programme start="20261109053000 +0000" stop="20261109073000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Chennai Open 2026 - Final</title>
 </programme>
 <programme start="20261109120000 +0000" stop="20261109160000 +0000" channel="Sky_Sports_Tennis.virginmediatv">

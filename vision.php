@@ -52,13 +52,13 @@
 <programme start="20261110103000 +0000" stop="20261110120000 +0000" channel="RCTI.vision">
 <title>Ternyata Ini Cinta (RCTI)</title>
 </programme>
-<programme start="20261109000000 +0000" stop="20261109010000 +0000" channel="MNCTV.vision">
+<programme start="20261108234500 +0000" stop="20261109010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261109010000 +0000" stop="20261109040000 +0000" channel="MNCTV.vision">
+<programme start="20261109010000 +0000" stop="20261109033000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20261109040000 +0000" stop="20261109051500 +0000" channel="MNCTV.vision">
+<programme start="20261109033000 +0000" stop="20261109051500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20261109051500 +0000" stop="20261109054500 +0000" channel="MNCTV.vision">
@@ -73,16 +73,16 @@
 <programme start="20261109073000 +0000" stop="20261109090000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20261109090000 +0000" stop="20261109110000 +0000" channel="MNCTV.vision">
+<programme start="20261109090000 +0000" stop="20261109103000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20261109110000 +0000" stop="20261109120000 +0000" channel="MNCTV.vision">
+<programme start="20261109103000 +0000" stop="20261109113000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
-<programme start="20261109120000 +0000" stop="20261109130000 +0000" channel="MNCTV.vision">
+<programme start="20261109113000 +0000" stop="20261109123000 +0000" channel="MNCTV.vision">
 <title>Upin &amp; Ipin</title>
 </programme>
-<programme start="20261109130000 +0000" stop="20261109160000 +0000" channel="MNCTV.vision">
+<programme start="20261109123000 +0000" stop="20261109160000 +0000" channel="MNCTV.vision">
 <title>DMD Panggung Rezeki (MNCTV)</title>
 </programme>
 <programme start="20261109160000 +0000" stop="20261109170000 +0000" channel="MNCTV.vision">
@@ -97,16 +97,16 @@
 <programme start="20261109230000 +0000" stop="20261109231500 +0000" channel="MNCTV.vision">
 <title>CoComelon</title>
 </programme>
-<programme start="20261109231500 +0000" stop="20261110000000 +0000" channel="MNCTV.vision">
-<title>Upin &amp; Ipin</title>
+<programme start="20261109231500 +0000" stop="20261109234500 +0000" channel="MNCTV.vision">
+<title>Kiko</title>
 </programme>
-<programme start="20261110000000 +0000" stop="20261110010000 +0000" channel="MNCTV.vision">
+<programme start="20261109234500 +0000" stop="20261110010000 +0000" channel="MNCTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261110010000 +0000" stop="20261110040000 +0000" channel="MNCTV.vision">
+<programme start="20261110010000 +0000" stop="20261110033000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20261110040000 +0000" stop="20261110051500 +0000" channel="MNCTV.vision">
+<programme start="20261110033000 +0000" stop="20261110051500 +0000" channel="MNCTV.vision">
 <title>Kiko</title>
 </programme>
 <programme start="20261110051500 +0000" stop="20261110054500 +0000" channel="MNCTV.vision">
@@ -121,23 +121,23 @@
 <programme start="20261110073000 +0000" stop="20261110090000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20261110090000 +0000" stop="20261110110000 +0000" channel="MNCTV.vision">
+<programme start="20261110090000 +0000" stop="20261110103000 +0000" channel="MNCTV.vision">
 <title>Upin dan Ipin (MNCTV)</title>
 </programme>
-<programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="MNCTV.vision">
+<programme start="20261110103000 +0000" stop="20261110113000 +0000" channel="MNCTV.vision">
 <title>Entong</title>
 </programme>
+<programme start="20261110113000 +0000" stop="20261110123000 +0000" channel="MNCTV.vision">
+<title>Upin &amp; Ipin</title>
+</programme>
 <programme start="20261108233000 +0000" stop="20261109010000 +0000" channel="GTV.vision">
-<title>Kiko</title>
+<title>Entong (GTV)</title>
 </programme>
 <programme start="20261109010000 +0000" stop="20261109050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261109050000 +0000" stop="20261109090000 +0000" channel="GTV.vision">
+<programme start="20261109050000 +0000" stop="20261109103000 +0000" channel="GTV.vision">
 <title>Kiko</title>
-</programme>
-<programme start="20261109090000 +0000" stop="20261109103000 +0000" channel="GTV.vision">
-<title>Entong (GTV)</title>
 </programme>
 <programme start="20261109103000 +0000" stop="20261109120000 +0000" channel="GTV.vision">
 <title>Film Keluarga</title>
@@ -170,16 +170,13 @@
 <title>Buletin iNews Pagi</title>
 </programme>
 <programme start="20261109233000 +0000" stop="20261110010000 +0000" channel="GTV.vision">
-<title>Kiko</title>
+<title>Entong (GTV)</title>
 </programme>
 <programme start="20261110010000 +0000" stop="20261110050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261110050000 +0000" stop="20261110090000 +0000" channel="GTV.vision">
+<programme start="20261110050000 +0000" stop="20261110103000 +0000" channel="GTV.vision">
 <title>Kiko</title>
-</programme>
-<programme start="20261110090000 +0000" stop="20261110103000 +0000" channel="GTV.vision">
-<title>Entong (GTV)</title>
 </programme>
 <programme start="20261110103000 +0000" stop="20261110120000 +0000" channel="GTV.vision">
 <title>Film Keluarga</title>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261109080300 +0000" stop="20261109090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261109090000 +0000" stop="20261109090300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
