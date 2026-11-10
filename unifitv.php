@@ -14815,13 +14815,17 @@
   </channel>
   <programme start="20261109153500 +0000" stop="20261109160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">The team explores a factory in Saitama making globes for educational use and much more besides. See the skill it takes to turn flat maps into spherical globes - and what in the world is an "AR globe"?</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5142.</episode-num>
+    <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20261109160000 +0000" stop="20261109160500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-Lapse Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <title lang="en">Gateway to the Land of the Death</title>
+    <desc lang="en">Shugendo, a unique spiritual tradition, dates back 1,300 years. Through beautiful time-lapse footage, we show its practitioners and Kumano's sacred forests, long associated with death and rebirth.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5161.</episode-num>
+    <episode-num system="onscreen">S1E5162</episode-num>
   </programme>
   <programme start="20261109160500 +0000" stop="20261109163500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14832,13 +14836,17 @@
   </programme>
   <programme start="20261109163500 +0000" stop="20261109170200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">A sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 9, Day 2 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261109170200 +0000" stop="20261109170500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
     <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5113.</episode-num>
+    <episode-num system="onscreen">S1E5114</episode-num>
   </programme>
   <programme start="20261109170500 +0000" stop="20261109173500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14849,23 +14857,31 @@
   </programme>
   <programme start="20261109173500 +0000" stop="20261109174500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature and culture. This episode looks at words related to morning. Explore the unique words and the culture behind them.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5125.</episode-num>
+    <episode-num system="onscreen">S1E5126</episode-num>
   </programme>
   <programme start="20261109174500 +0000" stop="20261109175000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Easy Japanese</title>
-    <desc lang="en">A new version of Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying; tune in and start speaking.</desc>
+    <desc lang="en">#46 It's small but beautiful. / Connect 2 opposing adjectives by using 'kedo' (but) followed by 'desu ne.'</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5144.</episode-num>
+    <episode-num system="onscreen">S1E5145</episode-num>
   </programme>
   <programme start="20261109175000 +0000" stop="20261109180000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">A Sri Lankan student participates in the Mie Prefecture "Youth Police Supporters" volunteer program that works with communities to build a safer society by preventing crimes before they occur.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5121.</episode-num>
+    <episode-num system="onscreen">S1E5122</episode-num>
   </programme>
   <programme start="20261109180000 +0000" stop="20261109180500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">With live reporting and meteorologists' commentary, NHK WORLD-JAPAN provides English coverage of the summer typhoons and ensuing torrential rain, contributing to the safety of residents and visitors.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5133.</episode-num>
+    <episode-num system="onscreen">S1E5134</episode-num>
   </programme>
   <programme start="20261109180500 +0000" stop="20261109183300 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Newsroom Tokyo</title>
@@ -14876,28 +14892,38 @@
   </programme>
   <programme start="20261109183300 +0000" stop="20261109184800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">Okuizumi Kazuya heads Yamagata Prefecture's Tsuruoka City Kamo Aquarium, which has the world's largest number of jellyfish species on display. He talks about his work and passion for jellyfish.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5111.</episode-num>
+    <episode-num system="onscreen">S1E5112</episode-num>
   </programme>
   <programme start="20261109184800 +0000" stop="20261109190000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Impacts: Climates Change the World</title>
+    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5182.</episode-num>
+    <episode-num system="onscreen">S1E5183</episode-num>
   </programme>
   <programme start="20261109190000 +0000" stop="20261109190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">Centuries ago, Tokyo was known as Edo - more than a million people enjoyed life in this city, and they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore old Tokyo's soul.</desc>
+    <desc lang="en">It's late at night, when all are fast asleep. A young man and woman huddle together along the veranda outside of a house, attending to a ... rooster. What could the pair be up to?</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5148.</episode-num>
+    <episode-num system="onscreen">S1E5149</episode-num>
   </programme>
   <programme start="20261109190500 +0000" stop="20261109193500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Today's Close-Up</title>
-    <desc lang="en">Dig deeper into current affairs with cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <desc lang="en">US sanctions pose an existential threat to the International Criminal Court. NHK investigates why the Trump administration is targeting the ICC, and what it means for the global rules-based order.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5135.</episode-num>
+    <episode-num system="onscreen">S1E5136</episode-num>
   </programme>
   <programme start="20261109193500 +0000" stop="20261109200500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Seasoning the Seasons</title>
-    <desc lang="en">This programme visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+    <desc lang="en">This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5104.</episode-num>
+    <episode-num system="onscreen">S1E5105</episode-num>
   </programme>
   <programme start="20261109200500 +0000" stop="20261109203500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14908,8 +14934,10 @@
   </programme>
   <programme start="20261109203500 +0000" stop="20261109210500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure, the groundbreaking world of Japanese medical technology and healthcare! This programme offers tips for superfoods and easy exercises for a healthy lifestyle.</desc>
+    <desc lang="en">Chronic obstructive pulmonary disease, or COPD, not only leads to breathing difficulties but also affects the lungs, heart and brain. We explore countermeasures based on a large-scale study in Japan.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5109.</episode-num>
+    <episode-num system="onscreen">S1E5110</episode-num>
   </programme>
   <programme start="20261109210500 +0000" stop="20261109213500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14920,18 +14948,24 @@
   </programme>
   <programme start="20261109213500 +0000" stop="20261109215000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - 'Bosai' explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">From protecting valuable ceramics to reinforcing World Heritage structures, we'll see how the latest disaster preparedness technology is safeguarding Japan's irreplaceable cultural properties.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5123.</episode-num>
+    <episode-num system="onscreen">S1E5124</episode-num>
   </programme>
   <programme start="20261109215000 +0000" stop="20261109220000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Impacts</title>
-    <desc lang="en">Impacts</desc>
+    <title lang="en">Impacts: Climates Change the World</title>
+    <desc lang="en">Water researchers have established the term "water bankruptcy," an irreversible condition approached by many regions in which social and environmental factors exhaust the water supply.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5182.</episode-num>
+    <episode-num system="onscreen">S1E5183</episode-num>
   </programme>
   <programme start="20261109220000 +0000" stop="20261109220500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-Lapse Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <title lang="en">Kumano</title>
+    <desc lang="en">The Kii Mountains are home to dynamic landscapes formed by a volcanic eruption 14 million years ago. Through beautiful time-lapse footage, we show the area's rock formations and rich ecosystem.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5161.</episode-num>
+    <episode-num system="onscreen">S1E5162</episode-num>
   </programme>
   <programme start="20261109220500 +0000" stop="20261109223500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14942,23 +14976,31 @@
   </programme>
   <programme start="20261109223500 +0000" stop="20261109224500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature and culture. This episode looks at words related to morning. Explore the unique words and the culture behind them.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5125.</episode-num>
+    <episode-num system="onscreen">S1E5126</episode-num>
   </programme>
   <programme start="20261109224500 +0000" stop="20261109225000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Easy Japanese</title>
-    <desc lang="en">A new version of Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying; tune in and start speaking.</desc>
+    <desc lang="en">#46 It's small but beautiful. / Connect 2 opposing adjectives by using 'kedo' (but) followed by 'desu ne.'</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5144.</episode-num>
+    <episode-num system="onscreen">S1E5145</episode-num>
   </programme>
   <programme start="20261109225000 +0000" stop="20261109230000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">A Sri Lankan student participates in the Mie Prefecture "Youth Police Supporters" volunteer program that works with communities to build a safer society by preventing crimes before they occur.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5121.</episode-num>
+    <episode-num system="onscreen">S1E5122</episode-num>
   </programme>
   <programme start="20261109230000 +0000" stop="20261109230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">With live reporting and meteorologists' commentary, NHK WORLD-JAPAN provides English coverage of the summer typhoons and ensuing torrential rain, contributing to the safety of residents and visitors.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5133.</episode-num>
+    <episode-num system="onscreen">S1E5134</episode-num>
   </programme>
   <programme start="20261109230500 +0000" stop="20261109233500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -14969,13 +15011,17 @@
   </programme>
   <programme start="20261109233500 +0000" stop="20261110000200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">A sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 9, Day 2 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261110000200 +0000" stop="20261110000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
     <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5113.</episode-num>
+    <episode-num system="onscreen">S1E5114</episode-num>
   </programme>
   <programme start="20261110000500 +0000" stop="20261110003500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15000,8 +15046,10 @@
   </programme>
   <programme start="20261110013500 +0000" stop="20261110020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dining with the Chef</title>
-    <desc lang="en">Traditional techniques and resourceful recipes as Chefs Saito and Rika present their unique approaches to cooking delicious Japanese food!</desc>
+    <desc lang="en">Cook miso soup with Chef Saito! Follow his instructions to master three styles of miso soup, featuring three different kinds of miso: inaka miso, red miso and white miso.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5102.</episode-num>
+    <episode-num system="onscreen">S1E5103</episode-num>
   </programme>
   <programme start="20261110020500 +0000" stop="20261110023500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15012,8 +15060,10 @@
   </programme>
   <programme start="20261110023500 +0000" stop="20261110030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Document 72 Hours</title>
-    <desc lang="en">This is an unusual series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+    <desc lang="en">Despite its inconvenient location, a condo complex near Yokohama's port is home to popular restaurants and shops. For three days, we asked them about life in this neighbourhood.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5138.</episode-num>
+    <episode-num system="onscreen">S1E5139</episode-num>
   </programme>
   <programme start="20261110030500 +0000" stop="20261110033500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15024,8 +15074,10 @@
   </programme>
   <programme start="20261110033500 +0000" stop="20261110040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure, the groundbreaking world of Japanese medical technology and healthcare! This programme offers tips for superfoods and easy exercises for a healthy lifestyle.</desc>
+    <desc lang="en">Chronic obstructive pulmonary disease, or COPD, not only leads to breathing difficulties but also affects the lungs, heart and brain. We explore countermeasures based on a large-scale study in Japan.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5109.</episode-num>
+    <episode-num system="onscreen">S1E5110</episode-num>
   </programme>
   <programme start="20261110040500 +0000" stop="20261110043500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15036,13 +15088,17 @@
   </programme>
   <programme start="20261110043500 +0000" stop="20261110050200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">A sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 9, Day 2 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261110050200 +0000" stop="20261110050500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
     <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5113.</episode-num>
+    <episode-num system="onscreen">S1E5114</episode-num>
   </programme>
   <programme start="20261110050500 +0000" stop="20261110053500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15067,8 +15123,10 @@
   </programme>
   <programme start="20261110063500 +0000" stop="20261110070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dining with the Chef</title>
-    <desc lang="en">Traditional techniques and resourceful recipes as Chefs Saito and Rika present their unique approaches to cooking delicious Japanese food!</desc>
+    <desc lang="en">Cook miso soup with Chef Saito! Follow his instructions to master three styles of miso soup, featuring three different kinds of miso: inaka miso, red miso and white miso.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5102.</episode-num>
+    <episode-num system="onscreen">S1E5103</episode-num>
   </programme>
   <programme start="20261110070500 +0000" stop="20261110073500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Newsline Asia 24</title>
@@ -15079,8 +15137,10 @@
   </programme>
   <programme start="20261110073500 +0000" stop="20261110080500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Document 72 Hours</title>
-    <desc lang="en">This is an unusual series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+    <desc lang="en">Despite its inconvenient location, a condo complex near Yokohama's port is home to popular restaurants and shops. For three days, we asked them about life in this neighbourhood.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5138.</episode-num>
+    <episode-num system="onscreen">S1E5139</episode-num>
   </programme>
   <programme start="20261110080500 +0000" stop="20261110083500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15091,13 +15151,17 @@
   </programme>
   <programme start="20261110083500 +0000" stop="20261110090200 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">A sumo highlights program for fans around the globe. Today the show features all top-division bouts from November 9, Day 2 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261110090200 +0000" stop="20261110090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Sumopedia</title>
     <desc lang="en">Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5113.</episode-num>
+    <episode-num system="onscreen">S1E5114</episode-num>
   </programme>
   <programme start="20261110090500 +0000" stop="20261110093500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15108,8 +15172,10 @@
   </programme>
   <programme start="20261110093500 +0000" stop="20261110100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
-    <desc lang="en">From prevention to cure, the groundbreaking world of Japanese medical technology and healthcare! This programme offers tips for superfoods and easy exercises for a healthy lifestyle.</desc>
+    <desc lang="en">Chronic obstructive pulmonary disease, or COPD, not only leads to breathing difficulties but also affects the lungs, heart and brain. We explore countermeasures based on a large-scale study in Japan.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5109.</episode-num>
+    <episode-num system="onscreen">S1E5110</episode-num>
   </programme>
   <programme start="20261110100500 +0000" stop="20261110103500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK News 7</title>
@@ -15120,8 +15186,10 @@
   </programme>
   <programme start="20261110103500 +0000" stop="20261110110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Darwin's Amazing Animals</title>
-    <desc lang="en">A natural history show that's a huge hit with families in Japan has gone global! This series explores the amazing and delightful stories of animals from all around the world, including Japan.</desc>
+    <desc lang="en">Bird watchers everywhere flock to Cuba to see the world's smallest flier, the Bee hummingbird. It also builds the smallest nest and lays eggs the size of coffee beans. But don't let its size fool you!</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5139.</episode-num>
+    <episode-num system="onscreen">S1E5140</episode-num>
   </programme>
   <programme start="20261110110000 +0000" stop="20261110110500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Time-Lapse Journey</title>
@@ -15139,18 +15207,24 @@
   </programme>
   <programme start="20261110113300 +0000" stop="20261110114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">Matsufuji Yasushi has been promoting the Fukuoka Method of waste disposal in developing countries dealing with population growth and urbanisation. He talks about the low-cost, eco-friendly approach.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5111.</episode-num>
+    <episode-num system="onscreen">S1E5112</episode-num>
   </programme>
   <programme start="20261110114800 +0000" stop="20261110120000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <title lang="en">Impacts: Climates Change the World</title>
+    <desc lang="en">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5182.</episode-num>
+    <episode-num system="onscreen">S1E5183</episode-num>
   </programme>
   <programme start="20261110120000 +0000" stop="20261110120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Easy Japanese</title>
-    <desc lang="en">A new version of Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying; tune in and start speaking.</desc>
+    <desc lang="en">#46 It's small but beautiful. / Connect 2 opposing adjectives by using 'kedo' (but) followed by 'desu ne.'</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5144.</episode-num>
+    <episode-num system="onscreen">S1E5145</episode-num>
   </programme>
   <programme start="20261110120500 +0000" stop="20261110123500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Newsroom Tokyo</title>
@@ -15161,8 +15235,10 @@
   </programme>
   <programme start="20261110123500 +0000" stop="20261110130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Dining with the Chef</title>
-    <desc lang="en">Traditional techniques and resourceful recipes as Chefs Saito and Rika present their unique approaches to cooking delicious Japanese food!</desc>
+    <desc lang="en">Cook miso soup with Chef Saito! Follow his instructions to master three styles of miso soup, featuring three different kinds of miso: inaka miso, red miso and white miso.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5102.</episode-num>
+    <episode-num system="onscreen">S1E5103</episode-num>
   </programme>
   <programme start="20261110130500 +0000" stop="20261110133500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15173,8 +15249,10 @@
   </programme>
   <programme start="20261110133500 +0000" stop="20261110140500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Document 72 Hours</title>
-    <desc lang="en">This is an unusual series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
+    <desc lang="en">Despite its inconvenient location, a condo complex near Yokohama's port is home to popular restaurants and shops. For three days, we asked them about life in this neighbourhood.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5138.</episode-num>
+    <episode-num system="onscreen">S1E5139</episode-num>
   </programme>
   <programme start="20261110140500 +0000" stop="20261110143500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15185,8 +15263,10 @@
   </programme>
   <programme start="20261110143500 +0000" stop="20261110150500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Science View</title>
-    <desc lang="en">Science for our future - we look at the cutting-edge research, innovations and technology being created by Japanese scientists and engineers.</desc>
+    <desc lang="en">Science for our future. Cutting edge research, innovation and technology being created by Japanese scientists and engineers.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5101.</episode-num>
+    <episode-num system="onscreen">S1E5102</episode-num>
   </programme>
   <programme start="20261110150500 +0000" stop="20261110153500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>

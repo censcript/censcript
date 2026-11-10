@@ -7978,11 +7978,14 @@
 <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Soccer Channel.mncvision">
     <title>Sikat Tipis</title>
 </programme>
-<programme start="20261110110000 +0000" stop="20261110124500 +0000" channel="Soccer Channel.mncvision">
+<programme start="20261110110000 +0000" stop="20261110130000 +0000" channel="Soccer Channel.mncvision">
     <title>Shopee Cup 26/27: POR Vs PSB</title>
 </programme>
-<programme start="20261110124500 +0000" stop="20261110143000 +0000" channel="Soccer Channel.mncvision">
-    <title>Pro Futsal League IDN 2026/27</title>
+<programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="Soccer Channel.mncvision">
+    <title>Magazine UEFA Nations League</title>
+</programme>
+<programme start="20261110133000 +0000" stop="20261110143000 +0000" channel="Soccer Channel.mncvision">
+    <title>Sikat Tipis</title>
 </programme>
 <programme start="20261110143000 +0000" stop="20261110163000 +0000" channel="Soccer Channel.mncvision">
     <title>Timnas Spesial: IDN Vs LAO</title>
@@ -8023,11 +8026,14 @@
 <programme start="20261110100000 +0000" stop="20261110110000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Sikat Tipis</title>
 </programme>
-<programme start="20261110110000 +0000" stop="20261110124500 +0000" channel="Soccer Channel HD.mncvision">
+<programme start="20261110110000 +0000" stop="20261110130000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Shopee Cup 26/27: POR Vs PSB</title>
 </programme>
-<programme start="20261110124500 +0000" stop="20261110143000 +0000" channel="Soccer Channel HD.mncvision">
-    <title>Pro Futsal League IDN 2026/27</title>
+<programme start="20261110130000 +0000" stop="20261110133000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Magazine UEFA Nations League</title>
+</programme>
+<programme start="20261110133000 +0000" stop="20261110143000 +0000" channel="Soccer Channel HD.mncvision">
+    <title>Sikat Tipis</title>
 </programme>
 <programme start="20261110143000 +0000" stop="20261110163000 +0000" channel="Soccer Channel HD.mncvision">
     <title>Timnas Spesial: IDN Vs LAO</title>
