@@ -2600,9 +2600,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261110000500 +0000" stop="20261110001500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
+    <title lang="en">Momentum</title>
+    <desc lang="en">Filem dokumentari MOMENTUM menelusuri inisiatif berterusan kerajaan dalam memperkasa pembangunan infrastruktur, jaringan jalan raya, sistem saliran dan tebatan banjir, kemudahan perumahan serta kesejahteraan komuniti di kawasan Dewan Undangan Negeri (DUN) Sarawak untuk tempoh tahun 2021 hingga 2026.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20261110001500 +0000" stop="20261110003000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo Wildlife &amp; Nature</title>
@@ -2684,9 +2684,9 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261110041500 +0000" stop="20261110043000 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
+    <title lang="en">Momentum</title>
+    <desc lang="en">Filem dokumentari MOMENTUM menelusuri inisiatif berterusan kerajaan dalam memperkasa pembangunan infrastruktur, jaringan jalan raya, sistem saliran dan tebatan banjir, kemudahan perumahan serta kesejahteraan komuniti di kawasan Dewan Undangan Negeri (DUN) Sarawak untuk tempoh tahun 2021 hingga 2026.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="tvs.unifitv">
     <title lang="en">Rihlah - Islam Di Borneo</title>
@@ -14476,7 +14476,7 @@
   </programme>
   <programme start="20261110003300 +0000" stop="20261110010300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Growing bamboo is paying off economically and environmentally in Kenya's communities. In Uganda, young and old are learning how to farm organically in a community garden. Also: a Namibian city that can teach us about water management.</desc>
+    <desc lang="en">Eco Africa</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14623,7 +14623,7 @@
   </programme>
   <programme start="20261110071800 +0000" stop="20261110080300 +0000" channel="dw.unifitv">
     <title lang="en">DocFilm</title>
-    <desc lang="en">North Korea: A small country often at the center of global attention for geopolitical reasons. The Kim dynasty has ruled through oppression and isolation since 1948. Yet the regime is striving to project a new image.</desc>
+    <desc lang="en">Dreamy mountain villages, fine wines and a capital city steeped in culture and history. From the Alps to Lake Maggiore, northwestern Italy's Piedmont region is where diverse landscapes meet delicious cuisine.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14644,7 +14644,7 @@
   </programme>
   <programme start="20261110083300 +0000" stop="20261110090300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Growing bamboo is paying off economically and environmentally in Kenya's communities. In Uganda, young and old are learning how to farm organically in a community garden. Also: a Namibian city that can teach us about water management.</desc>
+    <desc lang="en">Eco Africa</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>

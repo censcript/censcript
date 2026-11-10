@@ -4687,31 +4687,16 @@
   <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Výběrová auta</title>
   </programme>
-  <programme start="20261112123000 +0000" stop="20261112131500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
+  <programme start="20261112123000 +0000" stop="20261112143000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Co&apos;met Orleans Open</title>
   </programme>
-  <programme start="20261112131500 +0000" stop="20261112134500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
+  <programme start="20261112143000 +0000" stop="20261112163000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Co&apos;met Orleans Open</title>
   </programme>
-  <programme start="20261112134500 +0000" stop="20261112140000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Švihák testuje</title>
+  <programme start="20261112163000 +0000" stop="20261112164500 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">ENDURO magazín</title>
   </programme>
-  <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20261112143000 +0000" stop="20261112144500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Cargo Magazín</title>
-  </programme>
-  <programme start="20261112144500 +0000" stop="20261112151500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Piok Cars</title>
-  </programme>
-  <programme start="20261112151500 +0000" stop="20261112160000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
-  </programme>
-  <programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Topspeed</title>
-  </programme>
-  <programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="Arena Sport 2.webtv.sk">
+  <programme start="20261112164500 +0000" stop="20261112170000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">MM Automotive</title>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="Arena Sport 2.webtv.sk">
@@ -4720,26 +4705,11 @@
   <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">Martin z Martina</title>
   </programme>
-  <programme start="20261112180000 +0000" stop="20261112183000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Naša Garáž</title>
+  <programme start="20261112180000 +0000" stop="20261112200000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Co&apos;met Orleans Open</title>
   </programme>
-  <programme start="20261112183000 +0000" stop="20261112190000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Výběrová auta</title>
-  </programme>
-  <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DominicCars</title>
-  </programme>
-  <programme start="20261112200000 +0000" stop="20261112204500 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">Téma s Petrom Bielikom</title>
-  </programme>
-  <programme start="20261112204500 +0000" stop="20261112210000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">AutoGRATIS</title>
-  </programme>
-  <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">MM Automotive</title>
-  </programme>
-  <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="Arena Sport 2.webtv.sk">
-    <title lang="id">DRIVE IT - Ondrej Macko</title>
+  <programme start="20261112200000 +0000" stop="20261112220000 +0000" channel="Arena Sport 2.webtv.sk">
+    <title lang="id">Co&apos;met Orleans Open</title>
   </programme>
   <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="Arena Sport 2.webtv.sk">
     <title lang="id">AutoGRATIS</title>

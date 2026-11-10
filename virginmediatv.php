@@ -269,7 +269,7 @@
     <title>Emmerdale - Episode 216</title>
 </programme>
 <programme start="20261110162500 +0000" stop="20261110165500 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
-    <title>Coronation Street</title>
+    <title>Coronation Street - Coronation Street - Mon, 09 Nov</title>
 </programme>
 <programme start="20261110165500 +0000" stop="20261110175000 +0000" channel="Virgin_Media_Three_HD.virginmediatv">
     <title>The Royal - Everybody Needs Somebody</title>
@@ -427,10 +427,7 @@
 <programme start="20261110010500 +0000" stop="20261110020000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Countryfile - Forest Green Rovers</title>
 </programme>
-<programme start="20261110020000 +0000" stop="20261110030000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Saving Lives at Sea - Young Surf Hero</title>
-</programme>
-<programme start="20261110030000 +0000" stop="20261110063000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261110020000 +0000" stop="20261110063000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261110090000 +0000" stop="20261110121500 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -4361,7 +4358,7 @@
     <title>A Day in the Life: Celin Bizet Donnum</title>
 </programme>
 <programme start="20261110124500 +0000" stop="20261110130000 +0000" channel="MUTV.virginmediatv">
-    <title>A Day in the Life: Andrea Medina</title>
+    <title>A Day in the Life: Monica Jusu Bah</title>
 </programme>
 <programme start="20261110130000 +0000" stop="20261110150000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League - Manchester United v Aston Villa</title>
@@ -4369,8 +4366,11 @@
 <programme start="20261110150000 +0000" stop="20261110153000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: League Phase - Manchester United v AS Roma</title>
 </programme>
-<programme start="20261110153000 +0000" stop="20261110160000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - When Mainoo met Seedorf</title>
+<programme start="20261110153000 +0000" stop="20261110154000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Harry Maguire - 40 Years of Fergie</title>
+</programme>
+<programme start="20261110154000 +0000" stop="20261110160000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Monica Jusu Bah</title>
 </programme>
 <programme start="20261110160000 +0000" stop="20261110174500 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 1994/95: Manchester United v Manchester City</title>

@@ -767,7 +767,7 @@
   <programme channel="205" start="20261110183000 +0000" stop="20261110210000 +0000">
     <title lang="id">Mega Film Asia: Detective Chen</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/CBCDHeASbKCfNtDAgb9k_uP9kA0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434588/61bf53.png"/>
   </programme>
   <programme channel="205" start="20261110210000 +0000" stop="20261110213000 +0000">
     <title lang="id">Mukjizat Masih Ada</title>
@@ -815,7 +815,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
   <programme channel="205" start="20261111073000 +0000" stop="20261111103000 +0000">
-    <title lang="id">Afc U17 Asian Cup Qualifiers</title>
+    <title lang="id">Philippines vs Indonesia - AFC U17 Asian Cup Qualifiers</title>
     <desc lang="id">Afc U17 Asian Cup Qualifiers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
@@ -825,12 +825,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
   <programme channel="205" start="20261111130000 +0000" stop="20261111170000 +0000">
-    <title lang="id">D'Academy 8</title>
+    <title lang="id">D'Academy 8: BEST OF TOP 11 RESULT MALAM KETIGA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
   <programme channel="205" start="20261111130000 +0000" stop="20261111170000 +0000">
-    <title lang="id">D'Academy 8</title>
+    <title lang="id">D'Academy 8: BEST OF TOP 11 RESULT MALAM KETIGA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
@@ -3001,37 +3001,37 @@
     <desc lang="id">Hati Ke Hati Bersama Mamah Dedeh</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261109230000 +0000" stop="20261110010000 +0000">
+  <programme channel="782" start="20261109230200 +0000" stop="20261110010000 +0000">
     <title lang="id">Radha Mohan</title>
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261110010000 +0000" stop="20261110023000 +0000">
+  <programme channel="782" start="20261110010000 +0000" stop="20261110024300 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/T-xB6Q_7N31hwqlcT0Q8-p2wXJY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432185/530043.jpg"/>
   </programme>
-  <programme channel="782" start="20261110023000 +0000" stop="20261110060000 +0000">
+  <programme channel="782" start="20261110025000 +0000" stop="20261110053500 +0000">
     <title lang="id">Mega Bollywood : Commando 2: The Black Money Trail</title>
     <desc lang="id">Mega Bollywood : Commando 2: The Black Money Trail</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/-OIjFo9xplejeI2J_gfk4lkoSQw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432242/3e6fb3.png"/>
   </programme>
-  <programme channel="782" start="20261110060000 +0000" stop="20261110073000 +0000">
+  <programme channel="782" start="20261110053500 +0000" stop="20261110072500 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/doRcORBql5VBD_8x9xPpmUg_Lh0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432193/d571ef.jpg"/>
   </programme>
-  <programme channel="782" start="20261110073000 +0000" stop="20261110093000 +0000">
+  <programme channel="782" start="20261110072500 +0000" stop="20261110092700 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/CYnbQUYWSA0j1AJkzpV0td0KiNc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432200/9ed0f3.jpg"/>
   </programme>
-  <programme channel="782" start="20261110093000 +0000" stop="20261110104500 +0000">
+  <programme channel="782" start="20261110092700 +0000" stop="20261110110300 +0000">
     <title lang="id">Naagin 1</title>
     <desc lang="id">Naagin 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261110104500 +0000" stop="20261110131500 +0000">
+  <programme channel="782" start="20261110110300 +0000" stop="20261110131500 +0000">
     <title lang="id">Sinema Spesial Rhoma Irama : Berkelana</title>
     <desc lang="id">Sinema Spesial Rhoma Irama : Berkelana</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -3084,22 +3084,22 @@
   <programme channel="782" start="20261111010000 +0000" stop="20261111023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/nWx942br9buJEV67el6jCM9B4so=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432186/f0dd13.jpg"/>
   </programme>
   <programme channel="782" start="20261111023000 +0000" stop="20261111060000 +0000">
     <title lang="id">Mega Bollywood : Saiyaara</title>
     <desc lang="id">Mega Bollywood : Saiyaara</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/J3r8FcHMZ0dEgiSJRlm_7wzAhlM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432246/5146d2.png"/>
   </programme>
   <programme channel="782" start="20261111060000 +0000" stop="20261111073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/bpTq_zKN1WJ5CuDiHHPiv3-GiKs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432194/e88202.jpg"/>
   </programme>
   <programme channel="782" start="20261111073000 +0000" stop="20261111093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/UnEOFgdE6J7sQ5vO9mVhque27jU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432201/2ef790.jpg"/>
   </programme>
   <programme channel="782" start="20261111093000 +0000" stop="20261111104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -11940,14 +11940,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261110174000 +0000" stop="20261110195500 +0000">
-    <title lang="id">Hacken vs Chelsea - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Hacken vs Chelsea - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">BK Hacken vs Chelsea - UEFA Women's Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru BK Hacken vs Chelsea - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ET7RAYHSQKPkH0om5VsvZjMlMKc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435368/5d379b.jpg"/>
   </programme>
   <programme channel="6299" start="20261110195500 +0000" stop="20261110220000 +0000">
-    <title lang="id">PSG vs Bayern - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">PSG vs Bayern - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">Paris Saint-Germain vs Bayern Munich - UEFA Women's Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Paris Saint-Germain vs Bayern Munich - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/urAXfXiUaQr97dGqjGDEFw6kok0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435369/730910.jpg"/>
   </programme>
   <programme channel="6299" start="20261110220000 +0000" stop="20261110223500 +0000">
     <title lang="id">Matchday 12 : LaLiga Highlights 2026/27</title>
@@ -12059,10 +12059,10 @@
     <desc lang="id">Matias Dituro</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261111195500 +0000" stop="20261111220000 +0000">
-    <title lang="id">Juventus vs OL Lyonnes - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Juventus vs OL Lyonnes - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  <programme channel="6299" start="20261111200000 +0000" stop="20261111220000 +0000">
+    <title lang="id">Juventus vs OL Lyonnes - UEFA Women's Champions League</title>
+    <desc lang="id">Mampukah Juventus mengatasi perlawanan OL Lyonnes?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/6PzHw3ubYCvI-bszBrLA4GU3UGE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435511/b19d78.jpg"/>
   </programme>
   <programme channel="6299" start="20261111220000 +0000" stop="20261111223500 +0000">
     <title lang="id">FORMULA 1 MSC CRUISES GRANDE PREMIO DE SAO PAULO 2026 : Formula 1 Highlights 2026</title>
@@ -13928,14 +13928,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261110174000 +0000" stop="20261110195500 +0000">
-    <title lang="id">Real Madrid vs Paris - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Real Madrid vs Paris - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Real Madrid vs Paris FC - UEFA Women's Champions League</title>
+    <desc lang="id">Las Blancas uji ketangguhan demi redam kejutan Paris FC!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/4y3dF4pmlVTVUOPMeW2Qp-lLNkg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435370/5569b2.jpg"/>
   </programme>
   <programme channel="6317" start="20261110195500 +0000" stop="20261110220000 +0000">
-    <title lang="id">Roma vs Servette - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Roma vs Servette - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Roma vs Servette - UEFA Women's Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Roma vs Servette - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/T-FcIz3qJIT6b87QuQ41c7_5YxE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435371/0f6230.jpg"/>
   </programme>
   <programme channel="6317" start="20261110220000 +0000" stop="20261110235000 +0000">
     <title lang="id">Hacken vs Chelsea - MD4 : UEFA Women's Champions League 2026/27</title>
@@ -14012,15 +14012,15 @@
     <desc lang="id">Bremen vs Valencia (2009/10)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261111174000 +0000" stop="20261111195500 +0000">
-    <title lang="id">OH Leuven vs HB Koge - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">OH Leuven vs HB Koge - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20261111174500 +0000" stop="20261111194500 +0000">
+    <title lang="id">OH Leuven vs HB Koge - UEFA Women's Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru OH Leuven vs HB Koge - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/C0T02ZtsXjJji-1nRUO29C-4NJI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435509/88091b.jpg"/>
   </programme>
-  <programme channel="6317" start="20261111195500 +0000" stop="20261111220000 +0000">
-    <title lang="id">Benfica vs Austria Wien - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Benfica vs Austria Wien - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  <programme channel="6317" start="20261111200000 +0000" stop="20261111220000 +0000">
+    <title lang="id">Benfica vs Austria Wien - UEFA Women's Champions League</title>
+    <desc lang="id">Nonton streaming pertandingan seru Benfica vs Austria Wien - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/VqKsmHwIKiRrwT0J6c81HEEVmnM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435510/55cf7e.jpg"/>
   </programme>
   <programme channel="6317" start="20261111220000 +0000" stop="20261111235000 +0000">
     <title lang="id">Roma vs Servette - MD4 : UEFA Women's Champions League 2026/27</title>
@@ -14657,24 +14657,24 @@
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261111200000 +0000" stop="20261111220000 +0000">
-    <title lang="id">Match 13 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 13</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Elina Svitolina vs Karolina Muchova - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Elina Svitolina vs Karolina Muchova - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/EY7MH-axEJLApe8WXYJcucsOYSc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435800/6a65f3.png"/>
   </programme>
   <programme channel="6786" start="20261111220000 +0000" stop="20261112000000 +0000">
-    <title lang="id">Match 14 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 14</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Aryna Sabalenka vs Mirra Andreeva - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Aryna Sabalenka vs Mirra Andreeva - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/e3RDnsvkOgWmlWNhoBDUYXnNDP0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435801/6ebd5c.png"/>
   </programme>
   <programme channel="6786" start="20261112000000 +0000" stop="20261112020000 +0000">
-    <title lang="id">Match 15 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 15</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Gabriela Dabrowski/Luisa Stefani vs Hanyu Guo/Kristina Mladenovic - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Gabriela Dabrowski/Luisa Stefani vs Hanyu Guo/Kristina Mladenovic - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/kBLEBGp7_5ZU-4CGe0Sd-DB0SVI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435802/d2a0ca.png"/>
   </programme>
   <programme channel="6786" start="20261112020000 +0000" stop="20261112040000 +0000">
-    <title lang="id">Match 16 : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 16</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Su-Wei Hsieh/Jelena Ostapenko vs Elise Mertens/Shuhai Zhang - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Su-Wei Hsieh/Jelena Ostapenko vs Elise Mertens/Shuhai Zhang - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/iRpvCcqaA8lGQU7mLATP9ySxXj4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435803/306896.png"/>
   </programme>
   <programme channel="6786" start="20261112040000 +0000" stop="20261112043000 +0000">
     <title lang="id">Eps 5 : sport Woman</title>
@@ -15069,9 +15069,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261110195500 +0000" stop="20261110220000 +0000">
-    <title lang="id">Inter vs Man City - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Inter vs Man City - MD4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Inter Milan vs Man City - UEFA Women's Champions League</title>
+    <desc lang="id">Inter Milan adu ketangguhan strategi pertahanan demi redam gempuran Man City!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-kGFDio1ahLUyqiFh8CLXGPKCUY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435372/ead9fa.jpg"/>
   </programme>
   <programme channel="17875" start="20261110220000 +0000" stop="20261110221000 +0000">
     <title lang="id">Germany P2 Men : Premier Padel Match Highlights 2026</title>
@@ -17993,14 +17993,19 @@
     <desc lang="id">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261110180000 +0000" stop="20261110200000 +0000">
+  <programme channel="17139" start="20261110180000 +0000" stop="20261110191500 +0000">
     <title lang="id">Game 4: Hanoi DaMau Bulls vs Philippine Aces : 2026 The Asian Tournament, Iloilo</title>
     <desc lang="id">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
+  <programme channel="17139" start="20261110191500 +0000" stop="20261110200000 +0000">
+    <title lang="id">The Open Official Film 2026</title>
+    <desc lang="id">Relive the defining moments of The Open Championship, featuring the best action, memorable performances and exclusive behind-the-scenes footage from golf's oldest major championship.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
   <programme channel="17139" start="20261110200000 +0000" stop="20261110220000 +0000">
-    <title lang="id">Game 5: Macau Black Knights vs Guangzhou Loong Lions : 2026 The Asian Tournament, Iloilo</title>
-    <desc lang="id">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
+    <title lang="id">Race 1 : 2026 GT World Challenge Asia, Shanghai</title>
+    <desc lang="id">Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261110220000 +0000" stop="20261110223000 +0000">
@@ -18008,9 +18013,14 @@
     <desc lang="id">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261110223000 +0000" stop="20261111003000 +0000">
+  <programme channel="17139" start="20261110223000 +0000" stop="20261111000000 +0000">
     <title lang="id">Game 6: Toronto JC Trans vs Hong Kong Vanta Black Dragon : 2026 The Asian Tournament, Iloilo</title>
     <desc lang="id">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20261111000000 +0000" stop="20261111003000 +0000">
+    <title lang="id">Highlights : 2026 Asia-Pacific Amateur Championship</title>
+    <desc lang="id">Top amateur golfers from across the Asia-Pacific region battle for championship honours, showcasing elite talent and earning opportunities to compete on golf's biggest stages.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111003000 +0000" stop="20261111010000 +0000">
@@ -18044,18 +18054,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111070000 +0000" stop="20261111083000 +0000">
-    <title lang="id">Match 1 Group A : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 1 Group D Kedah Eagles vs Kelantan Warriors : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111083000 +0000" stop="20261111100000 +0000">
-    <title lang="id">Match 2 Group D : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 2 Group B PDRM Defenders vs Negeri Sembilan Antlers : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261111100000 +0000" stop="20261111110000 +0000">
+  <programme channel="17139" start="20261111100000 +0000" stop="20261111103000 +0000">
     <title lang="id">Highlights : 2026 Asia-Pacific Amateur Championship</title>
     <desc lang="id">Top amateur golfers from across the Asia-Pacific region battle for championship honours, showcasing elite talent and earning opportunities to compete on golf's biggest stages.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20261111103000 +0000" stop="20261111110000 +0000">
+    <title lang="id">Macarthur FC vs Brisbane Roar FC : 2026/27 ALM Mini Match MW 4</title>
+    <desc lang="id">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111110000 +0000" stop="20261111120000 +0000">
@@ -18064,26 +18079,26 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111120000 +0000" stop="20261111133000 +0000">
-    <title lang="id">Match 3 Group C : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 3 Group C Kuala Lumpur Thunder vs Johor Tigris : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111133000 +0000" stop="20261111150000 +0000">
-    <title lang="id">Match 4 Group B : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 4 Group A Melaka Titans vs Penang Black Panthers : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261111150000 +0000" stop="20261111170000 +0000">
+  <programme channel="17139" start="20261111150000 +0000" stop="20261111171000 +0000">
     <title lang="id">Adelaide United vs Melbourne Victory : A-League Men 26/27 MW 4</title>
     <desc lang="id">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261111150000 +0000" stop="20261111170000 +0000">
+  <programme channel="17139" start="20261111150000 +0000" stop="20261111171000 +0000">
     <title lang="id">Adelaide United vs Melbourne Victory : A-League Men 26/27 MW 4</title>
     <desc lang="id">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261111170000 +0000" stop="20261111180000 +0000">
+  <programme channel="17139" start="20261111171000 +0000" stop="20261111180000 +0000">
     <title lang="id">Highlights Day 1 : CelcomDigi STL 2026 GP Penang</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Penang, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
@@ -18094,8 +18109,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111200000 +0000" stop="20261111220000 +0000">
-    <title lang="id">Game 8: Philippine Aces vs Macau Black Knights : 2026 The Asian Tournament, Iloilo</title>
-    <desc lang="id">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
+    <title lang="id">Race 2 : 2026 GT World Challenge Asia, Shanghai</title>
+    <desc lang="id">Top GT teams and drivers compete across Asia's premier circuits, delivering high-speed action, intense rivalries, and world-class sports car racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261111220000 +0000" stop="20261111223000 +0000">
@@ -18129,12 +18144,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261112070000 +0000" stop="20261112083000 +0000">
-    <title lang="id">Match 5 Group C : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 5 Group C Selangor Pistons vs Kuala Lumpur Thunder : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261112083000 +0000" stop="20261112100000 +0000">
-    <title lang="id">Match 6 Group B : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 6 Group D ATM Guardians vs Kedah Eagles : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -18154,12 +18169,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261112120000 +0000" stop="20261112133000 +0000">
-    <title lang="id">Match 7 Group D : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 7 Group B Bomba Fighters vs PDRM Defenders : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261112133000 +0000" stop="20261112150000 +0000">
-    <title lang="id">Match 8 Group A : CelcomDigi STL 2026 GP Melaka</title>
+    <title lang="id">Match 8 Group A Perak Bison vs Melaka Titans : CelcomDigi STL 2026 GP Melaka</title>
     <desc lang="id">Malaysia's top sepak takraw teams compete in the CelcomDigi STL Grand Prix Melaka, battling for victory with powerful serves, spectacular spikes and outstanding athletic skill.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -19006,7 +19021,7 @@
   <programme channel="6362" start="20261111143000 +0000" stop="20261111163000 +0000">
     <title lang="id">Undercover Chef: Friends from Afar</title>
     <desc lang="id">Overseas veteran chefs from Italy and China visit South Korea, reuniting with Korean star chefs to cross borders and culture through food, shared laughter, and new culinary adventures.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/PT0LQo0qQ7O_RDowPb8Uvz6Dtdg=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/LhFnd6wgZEEhRp32fdMM6VpqF9w=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5406991/6d0c87.jpg"/>
   </programme>
   <programme channel="6362" start="20261111163000 +0000" stop="20261111174500 +0000">
     <title lang="id">The Judge Returns Ep11</title>
@@ -25617,12 +25632,12 @@
   </programme>
   <programme channel="7150" start="20261110180000 +0000" stop="20261110190000 +0000">
     <title lang="id">The World - Episode 178</title>
-    <desc lang="id">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="id">Girish Sawlani brings you the latest news from around the globe. Tonight: US Defence Secretary Pete Hegseth faces an impeachment attempt, peace talks between Russia and Ukraine begin, and COP31 kicks off in Turkiye.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261110190000 +0000" stop="20261110200000 +0000">
     <title lang="id">News Breakfast - Episode 225</title>
-    <desc lang="id">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport with Catherine Murphy and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
+    <desc lang="id">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest on today's top stories, sport with Catherine Murphy and weather with Lillian Rangiah. Start your day informed and in front.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261110200000 +0000" stop="20261110220000 +0000">
@@ -25632,17 +25647,17 @@
   </programme>
   <programme channel="7150" start="20261110220000 +0000" stop="20261110234500 +0000">
     <title lang="id">ABC News Mornings - Episode 225</title>
-    <desc lang="id">Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <desc lang="id">Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261110234500 +0000" stop="20261111004500 +0000">
     <title lang="id">Remembrance Day National Memorial Service 2026</title>
-    <desc lang="id">At 11am on the 11th day of the 11th month, we pause to reflect and remember all those who have served our nation. The National Remembrance Day Service from the Australian War Memorial in Canberra.</desc>
+    <desc lang="id">At 11am on the 11th day of the 11th month, we pause to reflect and remember all those who have served our nation. The National Remembrance Day Ceremony from the Australian War Memorial in Canberra.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111004500 +0000" stop="20261111010000 +0000">
     <title lang="id">ABC News Mornings - Episode 225</title>
-    <desc lang="id">Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <desc lang="id">Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111010000 +0000" stop="20261111013000 +0000">
@@ -25652,17 +25667,17 @@
   </programme>
   <programme channel="7150" start="20261111013000 +0000" stop="20261111020000 +0000">
     <title lang="id">Landline - Episode 38</title>
-    <desc lang="id">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc lang="id">A genetic insurance policy for cattle producers; plus the 'bee drover' sharing the highs and lows of the business of bees.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111020000 +0000" stop="20261111024500 +0000">
-    <title lang="id">Four Corners - Episode 37</title>
-    <desc lang="id">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="id">Four Corners - Unprofessional</title>
+    <desc lang="id">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111024500 +0000" stop="20261111030500 +0000">
     <title lang="id">Media Watch - Episode 40</title>
-    <desc lang="id">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="id">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111030500 +0000" stop="20261111033000 +0000">
@@ -25692,7 +25707,7 @@
   </programme>
   <programme channel="7150" start="20261111073000 +0000" stop="20261111080000 +0000">
     <title lang="id">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="id">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="id">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111080000 +0000" stop="20261111083000 +0000">
@@ -25716,18 +25731,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111105500 +0000" stop="20261111114500 +0000">
-    <title lang="id">Four Corners - Episode 37</title>
-    <desc lang="id">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="id">Four Corners - Unprofessional</title>
+    <desc lang="id">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111114500 +0000" stop="20261111120000 +0000">
     <title lang="id">Media Watch - Episode 40</title>
-    <desc lang="id">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="id">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111120000 +0000" stop="20261111130000 +0000">
     <title lang="id">Landline - Episode 39</title>
-    <desc lang="id">Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <desc lang="id">Reimagining the age-old industry of rendering; Fears that working holiday visa changes will unfairly impact farming and rural Australia; plus fruit and vegetable growers doing their bit to protect the Great Barrier Reef.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111130000 +0000" stop="20261111131500 +0000">
@@ -25757,22 +25772,22 @@
   </programme>
   <programme channel="7150" start="20261111155500 +0000" stop="20261111162500 +0000">
     <title lang="id">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="id">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="id">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111162500 +0000" stop="20261111171500 +0000">
-    <title lang="id">Four Corners - Episode 37</title>
-    <desc lang="id">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="id">Four Corners - Unprofessional</title>
+    <desc lang="id">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111162500 +0000" stop="20261111171500 +0000">
-    <title lang="id">Four Corners - Episode 37</title>
-    <desc lang="id">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="id">Four Corners - Unprofessional</title>
+    <desc lang="id">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111171500 +0000" stop="20261111173000 +0000">
     <title lang="id">Media Watch - Episode 40</title>
-    <desc lang="id">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="id">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111173000 +0000" stop="20261111180000 +0000">
@@ -25787,7 +25802,7 @@
   </programme>
   <programme channel="7150" start="20261111190000 +0000" stop="20261111200000 +0000">
     <title lang="id">News Breakfast - Episode 226</title>
-    <desc lang="id">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport with Catherine Murphy and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
+    <desc lang="id">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest on today's top stories, sport with Catherine Murphy and weather with Lillian Rangiah. Start your day informed and in front.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261111200000 +0000" stop="20261111220000 +0000">
@@ -25810,19 +25825,24 @@
     <desc lang="id">Follow the lives of seven Indigenous students who spend a year boarding at one of the oldest and most elite boarding schools in the country, Geelong Grammar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261112022500 +0000" stop="20261112033500 +0000">
+  <programme channel="7150" start="20261112022500 +0000" stop="20261112032500 +0000">
     <title lang="id">A Brief History Of Cricket Down Und - Evolution</title>
     <desc lang="id">The arrival of pay TV changes cricket. Innovate ideas in player development, the commercialisation of the game and the arrival of a group of once in a generation players level-ups the sport like never before.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
+  <programme channel="7150" start="20261112032500 +0000" stop="20261112033500 +0000">
+    <title lang="id">Culture By Design Shorts - India, Ice Factory</title>
+    <desc lang="id">Culture By Design is a creative, cultural journey across Asia to meet the visionaries shaping the future of design, hosted by Professor of Architecture, Anthony Burke.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
   <programme channel="7150" start="20261112033500 +0000" stop="20261112041000 +0000">
     <title lang="id">Planet America - Midterms Roundup</title>
-    <desc lang="id">The winners and the losers of the midterm elections. Chas and John unpack all the results, the key undecided races, and the shape of the Senate and the House with control of Congress on the line.</desc>
+    <desc lang="id">What caused the catastrophic Republican midterms election results? We break down how Americans voted and the historic wins and losses. As the fight over the GOP's future begins is this the end for Trumpism? We ask Jeff Flake.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261112041000 +0000" stop="20261112042500 +0000">
     <title lang="id">Media Watch - Episode 40</title>
-    <desc lang="id">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="id">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261112042500 +0000" stop="20261112045000 +0000">
@@ -25840,9 +25860,14 @@
     <desc lang="id">Fauziah Ibrahim brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261112070000 +0000" stop="20261112073000 +0000">
+  <programme channel="7150" start="20261112070000 +0000" stop="20261112072500 +0000">
     <title lang="id">The Cook Up With Adam Liaw - Eco Eats</title>
     <desc lang="id">Nothing beats eco eats! Astrid Jorgensen, founder of Pub and Couch Choir, and Paul Iskov, owner of roaming restaurant Fervor, join Adam to make sustainable and attainable recipes!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261112072500 +0000" stop="20261112073000 +0000">
+    <title lang="id">Heywire - Lane from Ulverstone, TAS</title>
+    <desc lang="id">Young rodeo rider Lane dreams of becoming a world-class competitor. Last year he got injured in the finals, but that hasn't stopped him pursuing his dream of competing in the USA.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261112073000 +0000" stop="20261112080000 +0000">
@@ -25907,15 +25932,22 @@
   </programme>
   <programme channel="7150" start="20261112155500 +0000" stop="20261112161000 +0000">
     <title lang="id">Media Watch - Episode 40</title>
-    <desc lang="id">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="id">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261112161000 +0000" stop="20261112173000 +0000">
-    <title lang="id">Doco-TBC</title>
+  <programme channel="7150" start="20261112161000 +0000" stop="20261112172000 +0000">
+    <title lang="id">National Press Club Address - Denita Wawn - CEO of Master Builders Australia</title>
+    <desc lang="id">Denita Wawn, CEO of Master Builders Australia, addresses the National Press Club on the topic Built to Last - Ending decades of corruption.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261112161000 +0000" stop="20261112173000 +0000">
-    <title lang="id">Doco-TBC</title>
+  <programme channel="7150" start="20261112161000 +0000" stop="20261112172000 +0000">
+    <title lang="id">National Press Club Address - Denita Wawn - CEO of Master Builders Australia</title>
+    <desc lang="id">Denita Wawn, CEO of Master Builders Australia, addresses the National Press Club on the topic Built to Last - Ending decades of corruption.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261112172000 +0000" stop="20261112173000 +0000">
+    <title lang="id">Way Out Ag - Green And Gold</title>
+    <desc lang="id">In 2019 Landline visited the only Australian farm producing edible pumpkin seeds. A pallet can sell for thirty thousand dollars. And when pressed, the rich green oil is green gold.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261112173000 +0000" stop="20261112180000 +0000">
@@ -25930,7 +25962,7 @@
   </programme>
   <programme channel="7150" start="20261112190000 +0000" stop="20261112200000 +0000">
     <title lang="id">News Breakfast - Episode 227</title>
-    <desc lang="id">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport with Charles Brice and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
+    <desc lang="id">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest on today's top stories, sport with Charles Brice and weather with Lillian Rangiah. Start your day informed and in front.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261112200000 +0000" stop="20261112220000 +0000">
@@ -25948,23 +25980,34 @@
     <desc lang="id">The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113020000 +0000" stop="20261113024500 +0000">
+  <programme channel="7150" start="20261113020000 +0000" stop="20261113025000 +0000">
     <title lang="id">Gardening Australia - South Coast of New South Wales</title>
     <desc lang="id">Costa and Clarence take a trip to the South Coast of NSW. They visit a coastal garden, learn about local bushfood, and explore an alternative to traditional burial. Costa visits a community garden on a disused bowling green.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113024500 +0000" stop="20261113031500 +0000">
+  <programme channel="7150" start="20261113025000 +0000" stop="20261113031500 +0000">
     <title lang="id">The Streets with Dan Hong - Episode 8</title>
     <desc lang="id">Dan Hong sets out to unearth iconic national street food dishes, tracing them back to their roots and then preparing them himself.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113031500 +0000" stop="20261113043000 +0000">
+  <programme channel="7150" start="20261113031500 +0000" stop="20261113032500 +0000">
+    <title lang="id">Common Cause - Coral Gardeners - PNG</title>
+    <desc lang="id">As rising sea temperatures devastate coral reefs, a community in Papua New Guinea teams up with an Australian organisation - and the feisty village chicken - to restore fish stocks in their coastal waters.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261113032500 +0000" stop="20261113042000 +0000">
     <title lang="id">Tomorrow Begins Here</title>
+    <desc lang="id">Explores the challenges and resilience of the people of Kiribati, focusing on their innovative efforts to sustain life amidst environmental challenges.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261113042000 +0000" stop="20261113043000 +0000">
+    <title lang="id">Common Cause - Vanuatu</title>
+    <desc lang="id">Climate activist, Vepaiamele Trief recalls travelling from Vanuatu to the world's highest court in The Hague to help make the case that the world's biggest polluters must be held accountable for the climate crisis.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261113043000 +0000" stop="20261113050000 +0000">
     <title lang="id">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="id">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="id">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261113050000 +0000" stop="20261113060000 +0000">
@@ -25977,9 +26020,14 @@
     <desc lang="id">Fauziah Ibrahim brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113070000 +0000" stop="20261113080000 +0000">
+  <programme channel="7150" start="20261113070000 +0000" stop="20261113075000 +0000">
     <title lang="id">Gardening Australia - South Coast of New South Wales</title>
     <desc lang="id">Costa and Clarence take a trip to the South Coast of NSW. They visit a coastal garden, learn about local bushfood, and explore an alternative to traditional burial. Costa visits a community garden on a disused bowling green.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261113075000 +0000" stop="20261113080000 +0000">
+    <title lang="id">Common Cause - Vanuatu</title>
+    <desc lang="id">Climate activist, Vepaiamele Trief recalls travelling from Vanuatu to the world's highest court in The Hague to help make the case that the world's biggest polluters must be held accountable for the climate crisis.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261113080000 +0000" stop="20261113083000 +0000">
@@ -25987,13 +26035,19 @@
     <desc lang="id">There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Fauziah Ibrahim.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113083000 +0000" stop="20261113093000 +0000">
-    <title lang="id">Doco-TBC</title>
+  <programme channel="7150" start="20261113083000 +0000" stop="20261113092500 +0000">
+    <title lang="id">Tomorrow Begins Here</title>
+    <desc lang="id">Explores the challenges and resilience of the people of Kiribati, focusing on their innovative efforts to sustain life amidst environmental challenges.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113093000 +0000" stop="20261113100000 +0000">
+  <programme channel="7150" start="20261113092500 +0000" stop="20261113095000 +0000">
     <title lang="id">On Country Kitchen - Episode 7</title>
     <desc lang="id">It's season 2 and Derek still can't cook! With locally found ingredients, and a sprinkle of culture and character, Mark and Derek create an Indigenous-inspired feast for the people they visit along their journey.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261113095000 +0000" stop="20261113100000 +0000">
+    <title lang="id">Culture By Design Shorts - Micro Library</title>
+    <desc lang="id">Culture By Design is a creative, cultural journey across Asia to meet the visionaries shaping the future of design, hosted by Professor of Architecture, Anthony Burke.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261113100000 +0000" stop="20261113103000 +0000">
@@ -26006,48 +26060,54 @@
     <desc lang="id">Food is in extraordinary abundance for some survivalists, while others struggle with empty bellies and question their future in the competition.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113113000 +0000" stop="20261113123000 +0000">
+  <programme channel="7150" start="20261113113000 +0000" stop="20261113122500 +0000">
     <title lang="id">The Jury - Episode 5</title>
     <desc lang="id">The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113123000 +0000" stop="20261113133000 +0000">
+  <programme channel="7150" start="20261113122500 +0000" stop="20261113132500 +0000">
     <title lang="id">Tomorrow Begins Here</title>
+    <desc lang="id">Explores the challenges and resilience of the people of Kiribati, focusing on their innovative efforts to sustain life amidst environmental challenges.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113133000 +0000" stop="20261113134500 +0000">
+  <programme channel="7150" start="20261113132500 +0000" stop="20261113134000 +0000">
     <title lang="id">ABC Late News - Episode 227</title>
-    <desc lang="id">End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart.</desc>
+    <desc lang="id">End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113134500 +0000" stop="20261113141500 +0000">
+  <programme channel="7150" start="20261113134000 +0000" stop="20261113141000 +0000">
     <title lang="id">Asia News Week - Episode 43</title>
     <desc lang="id">Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113141500 +0000" stop="20261113144500 +0000">
+  <programme channel="7150" start="20261113141000 +0000" stop="20261113144000 +0000">
     <title lang="id">The World - Episode 45</title>
     <desc lang="id">There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113144500 +0000" stop="20261113153000 +0000">
+  <programme channel="7150" start="20261113144000 +0000" stop="20261113153000 +0000">
     <title lang="id">Gardening Australia - South Coast of New South Wales</title>
     <desc lang="id">Costa and Clarence take a trip to the South Coast of NSW. They visit a coastal garden, learn about local bushfood, and explore an alternative to traditional burial. Costa visits a community garden on a disused bowling green.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113153000 +0000" stop="20261113163000 +0000">
+  <programme channel="7150" start="20261113153000 +0000" stop="20261113162500 +0000">
     <title lang="id">Alone Australia - Episode 6</title>
     <desc lang="id">Food is in extraordinary abundance for some survivalists, while others struggle with empty bellies and question their future in the competition.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113163000 +0000" stop="20261113173000 +0000">
+  <programme channel="7150" start="20261113162500 +0000" stop="20261113172000 +0000">
     <title lang="id">The Jury - Episode 5</title>
     <desc lang="id">The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113163000 +0000" stop="20261113173000 +0000">
+  <programme channel="7150" start="20261113162500 +0000" stop="20261113172000 +0000">
     <title lang="id">The Jury - Episode 5</title>
     <desc lang="id">The gripping true crime event follows a re-enactment of a real manslaughter case, presented word-for-word with actors, before a new jury of 12 everyday Australians. Will they come to the same verdict as the original trial?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261113172000 +0000" stop="20261113173000 +0000">
+    <title lang="id">Common Cause - Vanuatu</title>
+    <desc lang="id">Climate activist, Vepaiamele Trief recalls travelling from Vanuatu to the world's highest court in The Hague to help make the case that the world's biggest polluters must be held accountable for the climate crisis.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261113173000 +0000" stop="20261113180000 +0000">
@@ -26065,14 +26125,19 @@
     <desc lang="id">Olivia Hargroder has spent her life proving people wrong. Born with Down syndrome and a potentially fatal heart condition, she was determined to follow her acting dream and is about to star in a feature film. (Final for 2026)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261113190000 +0000" stop="20261113200000 +0000">
+  <programme channel="7150" start="20261113190000 +0000" stop="20261113193000 +0000">
     <title lang="id">The World This Week - Episode 43</title>
     <desc lang="id">Girish Sawlani brings you a weekly roundup of international news from an Australian perspective as reported by ABC News correspondents covering the Indo Pacific, Europe, North America, the Middle East, India and Indonesia.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
+  <programme channel="7150" start="20261113193000 +0000" stop="20261113200000 +0000">
+    <title lang="id">If You're Listening - Nepal's glacier time bomb</title>
+    <desc lang="id">A glacier collapse in Nepal triggered a flood that still isn't over, with new lakes threatening to burst again at any moment. It's a growing global problem, and a rare one we actually know how to fix, if anyone builds it.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
   <programme channel="7150" start="20261113200000 +0000" stop="20261113210000 +0000">
     <title lang="id">Weekend Breakfast - Episode 91</title>
-    <desc lang="id">All the news you need to start your weekend. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <desc lang="id">All the news you need to start your weekend. Johanna Nicholson and Melissa Mackay bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261113210000 +0000" stop="20261113220000 +0000">
@@ -26100,23 +26165,34 @@
     <desc lang="id">Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114020000 +0000" stop="20261114025000 +0000">
+  <programme channel="7150" start="20261114020000 +0000" stop="20261114020500 +0000">
+    <title lang="id">Heywire - Pat from Ballarat, VIC</title>
+    <desc lang="id">Patrick hosts a weather and events segment for his school's radio program.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261114020500 +0000" stop="20261114025500 +0000">
     <title lang="id">Wildlife ER - Episode 1</title>
     <desc lang="id">Wildlife ER follows a range of dedicated professionals and volunteers as they look after unwell animals and carefully nurse them back to health at the RSPCA Wildlife Hospital in Brisbane, Australia.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114025000 +0000" stop="20261114040000 +0000">
+  <programme channel="7150" start="20261114025500 +0000" stop="20261114032500 +0000">
     <title lang="id">Dr Ann's Secret Lives - Dugongs</title>
     <desc lang="id">In Moreton Bay, Dr Ann gets in the water with a dugong as part of the world's largest dugong health check. A critical mission to help save the species globally. She learns that many dugong secrets can be found in their poo!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114040000 +0000" stop="20261114060000 +0000">
-    <title lang="id">AFLW Second Semi Final</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
-  </programme>
-  <programme channel="7150" start="20261114060000 +0000" stop="20261114073000 +0000">
+  <programme channel="7150" start="20261114032500 +0000" stop="20261114050000 +0000">
     <title lang="id">The Pool</title>
     <desc lang="id">Bondi Icebergs is the most photographed pool in the world. For nearly a century this spectacular 50 metre stretch of sparkling blue at the southern end of Bondi Beach has occupied a special corner in the hearts of millions._x000D_</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261114050000 +0000" stop="20261114070000 +0000">
+    <title lang="id">AFLW - Second Semi Final - Geelong Cats v Sydney Swans</title>
+    <desc lang="id">The AFLW 2026 season spans 12 rounds followed by a four-week finals series and culminates in the Grand Final on the last weekend in November.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261114070000 +0000" stop="20261114073000 +0000">
+    <title lang="id">Dr Ann's Secret Lives - Dugongs</title>
+    <desc lang="id">In Moreton Bay, Dr Ann gets in the water with a dugong as part of the world's largest dugong health check. A critical mission to help save the species globally. She learns that many dugong secrets can be found in their poo!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114073000 +0000" stop="20261114080000 +0000">
@@ -26124,19 +26200,9 @@
     <desc lang="id">The battle for bog roll during the Covid 19 years showed us just how much we Aussies value the stuff. In this episode Dr Karl lifts the lid to discover how recycled toilet paper is made at the Encore toilet paper factory.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114080000 +0000" stop="20261114083000 +0000">
-    <title lang="id">ABC National News - Episode 318</title>
-    <desc lang="id">There's never been a more important time for transparency and trust. ABC News brings you today's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Meredith Sheehan.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
-  </programme>
-  <programme channel="7150" start="20261114083000 +0000" stop="20261114093000 +0000">
-    <title lang="id">Wildlife ER - Episode 1</title>
-    <desc lang="id">Wildlife ER follows a range of dedicated professionals and volunteers as they look after unwell animals and carefully nurse them back to health at the RSPCA Wildlife Hospital in Brisbane, Australia.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
-  </programme>
-  <programme channel="7150" start="20261114093000 +0000" stop="20261114100000 +0000">
-    <title lang="id">Dr Ann's Secret Lives - Dugongs</title>
-    <desc lang="id">In Moreton Bay, Dr Ann gets in the water with a dugong as part of the world's largest dugong health check. A critical mission to help save the species globally. She learns that many dugong secrets can be found in their poo!</desc>
+  <programme channel="7150" start="20261114080000 +0000" stop="20261114100000 +0000">
+    <title lang="id">AFLW - First Semi Final - Carlton v Hawthorn</title>
+    <desc lang="id">The AFLW 2026 season spans 12 rounds followed by a four-week finals series and culminates in the Grand Final on the last weekend in November.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114100000 +0000" stop="20261114103000 +0000">
@@ -26150,8 +26216,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114121000 +0000" stop="20261114130000 +0000">
-    <title lang="id">Four Corners - Episode 37</title>
-    <desc lang="id">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="id">Four Corners - Unprofessional</title>
+    <desc lang="id">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114130000 +0000" stop="20261114131500 +0000">
@@ -26174,19 +26240,24 @@
     <desc lang="id">Yvonne Yong brings you a weekly roundup of the stories making news across the Asia region, plus what's trending on social media and making an impact on the culture and the way people live.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114150500 +0000" stop="20261114153500 +0000">
+  <programme channel="7150" start="20261114150500 +0000" stop="20261114153000 +0000">
     <title lang="id">Stuff The British Stole - The Return</title>
     <desc lang="id">For well over a century the remains of Yagan, an Indigenous Noongar warrior from WA, were missing in the UK. The search for Yagan and the fight to bring him home is one of history's wildest detective stories. (Final)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114153500 +0000" stop="20261114173000 +0000">
+  <programme channel="7150" start="20261114153000 +0000" stop="20261114170500 +0000">
     <title lang="id">The Pool</title>
     <desc lang="id">Bondi Icebergs is the most photographed pool in the world. For nearly a century this spectacular 50 metre stretch of sparkling blue at the southern end of Bondi Beach has occupied a special corner in the hearts of millions._x000D_</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261114153500 +0000" stop="20261114173000 +0000">
+  <programme channel="7150" start="20261114153000 +0000" stop="20261114170500 +0000">
     <title lang="id">The Pool</title>
     <desc lang="id">Bondi Icebergs is the most photographed pool in the world. For nearly a century this spectacular 50 metre stretch of sparkling blue at the southern end of Bondi Beach has occupied a special corner in the hearts of millions._x000D_</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261114170500 +0000" stop="20261114173000 +0000">
+    <title lang="id">If You're Listening - Putin's billion-dollar bet against death</title>
+    <desc lang="id">A hot mic caught Putin tell Xi that organ transplants could bring immortality. It's not just talk and it's not new either: Russian leaders have spent nearly a century chasing eternal life, with some genuinely bizarre results.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114173000 +0000" stop="20261114180000 +0000">
@@ -26201,7 +26272,7 @@
   </programme>
   <programme channel="7150" start="20261114183000 +0000" stop="20261114190000 +0000">
     <title lang="id">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="id">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="id">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114190000 +0000" stop="20261114200000 +0000">
@@ -26211,7 +26282,7 @@
   </programme>
   <programme channel="7150" start="20261114200000 +0000" stop="20261114210000 +0000">
     <title lang="id">Weekend Breakfast - Episode 92</title>
-    <desc lang="id">All the news you need to start your Sunday. Fauziah Ibrahim and Johanna Nicholson bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
+    <desc lang="id">All the news you need to start your Sunday. Johanna Nicholson and Melissa Mackay bring you the latest news, interviews, politics, culture, weather and global affairs. Plus sport with Daniela Intili.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114210000 +0000" stop="20261114220000 +0000">
@@ -26221,17 +26292,17 @@
   </programme>
   <programme channel="7150" start="20261114220000 +0000" stop="20261114230000 +0000">
     <title lang="id">Insiders - Episode 42</title>
-    <desc lang="id">David Speers and the panel discuss the week including climate on the agenda at COP31 in Turkiye, the upcoming APEC Summit, tax changes, aged care, online safety and the final two weeks of the Victorian election campaign.</desc>
+    <desc lang="id">David Speers and the panel discuss the week including climate on the agenda at COP31 in Turkiye, the upcoming APEC Summit, tax changes, aged care, AI, online safety and the final two weeks of the Victorian election campaign.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114230000 +0000" stop="20261114233000 +0000">
     <title lang="id">Offsiders - Episode 41</title>
-    <desc lang="id">Abbey Gelmi and the panel discuss the week including the Rugby League World Cup Finals, the AFLW Semi Finals, Australia v England Men's ODIs, WBBL, NBL, A-Leagues, the Socceroos v Jordan plus Scotland host the Wallabies.</desc>
+    <desc lang="id">The Kangaroos and Jillaroos through to the men's and women's Rugby League World Cup final against New Zealand. Abbey Gelmi and the panel cover the week including AFLW Semi Finals, Australia v England One Day Series and WBBL.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261114233000 +0000" stop="20261115000000 +0000">
     <title lang="id">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="id">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="id">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115000000 +0000" stop="20261115003000 +0000">
@@ -26266,6 +26337,7 @@
   </programme>
   <programme channel="7150" start="20261115032500 +0000" stop="20261115042000 +0000">
     <title lang="id">Tomorrow Begins Here</title>
+    <desc lang="id">Explores the challenges and resilience of the people of Kiribati, focusing on their innovative efforts to sustain life amidst environmental challenges.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115042000 +0000" stop="20261115051000 +0000">
@@ -26273,17 +26345,17 @@
     <desc lang="id">When Afghan refugee Abbas Nazari boards a dilapidated Indonesian fishing vessel with over 400 others in 2001, he has no idea he's about to be at the centre of one of the most dramatic chapters in Australian history.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115051000 +0000" stop="20261115054500 +0000">
+  <programme channel="7150" start="20261115051000 +0000" stop="20261115054000 +0000">
     <title lang="id">I Was Actually There - Port Arthur Massacre</title>
     <desc lang="id">On an autumn morning at Port Arthur's historic convict settlement, a gunman walked into the Broad Arrow Cafe, killing 35 people. We go deep inside the experience, hear from first hand witnesses to understand what happened.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115054500 +0000" stop="20261115064500 +0000">
+  <programme channel="7150" start="20261115054000 +0000" stop="20261115064000 +0000">
     <title lang="id">Landline - Episode 40</title>
     <desc lang="id">Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115064500 +0000" stop="20261115070500 +0000">
+  <programme channel="7150" start="20261115064000 +0000" stop="20261115070500 +0000">
     <title lang="id">Good Tucker - Episode 1</title>
     <desc lang="id">Suren and Matt try Sri Lankan Cuisine in the cricket-themed restaurant, Upali's.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
@@ -26325,7 +26397,7 @@
   </programme>
   <programme channel="7150" start="20261115111500 +0000" stop="20261115115000 +0000">
     <title lang="id">Offsiders - Episode 41</title>
-    <desc lang="id">Abbey Gelmi and the panel discuss the week including the Rugby League World Cup Finals, the AFLW Semi Finals, Australia v England Men's ODIs, WBBL, NBL, A-Leagues, the Socceroos v Jordan plus Scotland host the Wallabies.</desc>
+    <desc lang="id">The Kangaroos and Jillaroos through to the men's and women's Rugby League World Cup final against New Zealand. Abbey Gelmi and the panel cover the week including AFLW Semi Finals, Australia v England One Day Series and WBBL.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115115000 +0000" stop="20261115121000 +0000">
@@ -26338,29 +26410,34 @@
     <desc lang="id">Adam Liaw and Pia Miranda host this heartfelt cooking competition. Under the watchful eye of the iconic Country Women's Association, home cooks from across Australia compete with the recipes that tell their stories.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115130500 +0000" stop="20261115133000 +0000">
-    <title lang="id">ABC News Overnight - Episode 92</title>
-    <desc lang="id">The final word on the day's top stories, with the latest news and updated information from Australia's most trusted source of independent news. Presented by Meredith Sheehan.</desc>
+  <programme channel="7150" start="20261115130500 +0000" stop="20261115133500 +0000">
+    <title lang="id">ABC Late News - Episode 92</title>
+    <desc lang="id">Live across Australia, Meredith Sheehan brings you the latest news and a roundup of the day's top stories from across Australia and around the globe.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115133000 +0000" stop="20261115140000 +0000">
+  <programme channel="7150" start="20261115133500 +0000" stop="20261115140500 +0000">
     <title lang="id">Stuff The British Stole - Parthenon Sculptures</title>
     <desc lang="id">Stephen Fry joins Marc Fennell on a gripping adventure, from the pinnacle of the Acropolis to a secluded robotics lab high in the Tuscan mountains to a shipwreck under the Aegean Sea.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115140000 +0000" stop="20261115143000 +0000">
+  <programme channel="7150" start="20261115140500 +0000" stop="20261115143500 +0000">
     <title lang="id">Our Medicine - Episode 1</title>
     <desc lang="id">Paramedic George and cadet Rob assist a stroke patient; medical student Keisha conducts her first practical medical check; Aboriginal Health Liaison Officer Brett supports a patient through surgery.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115143000 +0000" stop="20261115152000 +0000">
+  <programme channel="7150" start="20261115143500 +0000" stop="20261115152000 +0000">
     <title lang="id">Tampa: The Turning Point - Episode 1</title>
     <desc lang="id">When Afghan refugee Abbas Nazari boards a dilapidated Indonesian fishing vessel with over 400 others in 2001, he has no idea he's about to be at the centre of one of the most dramatic chapters in Australian history.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
-  <programme channel="7150" start="20261115152000 +0000" stop="20261115160500 +0000">
+  <programme channel="7150" start="20261115152000 +0000" stop="20261115155000 +0000">
     <title lang="id">I Was Actually There - Port Arthur Massacre</title>
     <desc lang="id">On an autumn morning at Port Arthur's historic convict settlement, a gunman walked into the Broad Arrow Cafe, killing 35 people. We go deep inside the experience, hear from first hand witnesses to understand what happened.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
+  </programme>
+  <programme channel="7150" start="20261115155000 +0000" stop="20261115160500 +0000">
+    <title lang="id">Culture By Design Shorts - Vietnam, Kilomet 109</title>
+    <desc lang="id">Culture By Design is a creative, cultural journey across Asia to meet the visionaries shaping the future of design, hosted by Professor of Architecture, Anthony Burke.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115160500 +0000" stop="20261115163000 +0000">
@@ -26380,17 +26457,17 @@
   </programme>
   <programme channel="7150" start="20261115173000 +0000" stop="20261115183000 +0000">
     <title lang="id">Insiders - Episode 42</title>
-    <desc lang="id">David Speers and the panel discuss the week including climate on the agenda at COP31 in Turkiye, the upcoming APEC Summit, tax changes, aged care, online safety and the final two weeks of the Victorian election campaign.</desc>
+    <desc lang="id">David Speers and the panel discuss the week including climate on the agenda at COP31 in Turkiye, the upcoming APEC Summit, tax changes, aged care, AI, online safety and the final two weeks of the Victorian election campaign.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115183000 +0000" stop="20261115190000 +0000">
     <title lang="id">Offsiders - Episode 41</title>
-    <desc lang="id">Abbey Gelmi and the panel discuss the week including the Rugby League World Cup Finals, the AFLW Semi Finals, Australia v England Men's ODIs, WBBL, NBL, A-Leagues, the Socceroos v Jordan plus Scotland host the Wallabies.</desc>
+    <desc lang="id">The Kangaroos and Jillaroos through to the men's and women's Rugby League World Cup final against New Zealand. Abbey Gelmi and the panel cover the week including AFLW Semi Finals, Australia v England One Day Series and WBBL.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115190000 +0000" stop="20261115200000 +0000">
     <title lang="id">News Breakfast - Episode 228</title>
-    <desc lang="id">Start your day informed and in front. James Glenday and Bridget Brennan bring you the latest overnight developments and the day's top stories, news with Emma Rebellato, sport with Catherine Murphy and weather with Nate Byrne.</desc>
+    <desc lang="id">Start your day informed and in front. James Glenday and Bridget Brennan bring you the latest overnight developments and the day's top stories, news with Emma Rebellato, sport with Charles Brice and weather with Nate Byrne.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261115200000 +0000" stop="20261115220000 +0000">
@@ -26480,7 +26557,7 @@
   </programme>
   <programme channel="7150" start="20261116114500 +0000" stop="20261116121500 +0000">
     <title lang="id">Planet America - Episode 36</title>
-    <desc lang="id">Chas Licciardello and John Barron unpack all the backflips and backdowns, the threats and thought-bubbles, escalations and ultimatums, the dramas and the disputes, the stumbles and the Truth socials in Trump's America.</desc>
+    <desc lang="id">Will Pete Hegseth survive till Thanksgiving or will the staff shakeup at the White House continue? Chas and John discuss the latest on Iran, affordability, trade, Ukraine, China, AI, data centres, the economy and renovations.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261116121500 +0000" stop="20261116125500 +0000">
@@ -26495,7 +26572,7 @@
   </programme>
   <programme channel="7150" start="20261116131000 +0000" stop="20261116132500 +0000">
     <title lang="id">The Business - Episode 165</title>
-    <desc lang="id">Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by David Taylor.</desc>
+    <desc lang="id">The latest business and finance reporting and interviews, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by David Taylor.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7150" start="20261116132500 +0000" stop="20261116135500 +0000">
@@ -26520,7 +26597,7 @@
   </programme>
   <programme channel="7150" start="20261116163000 +0000" stop="20261116170500 +0000">
     <title lang="id">Planet America - Episode 36</title>
-    <desc lang="id">Chas Licciardello and John Barron unpack all the backflips and backdowns, the threats and thought-bubbles, escalations and ultimatums, the dramas and the disputes, the stumbles and the Truth socials in Trump's America.</desc>
+    <desc lang="id">Will Pete Hegseth survive till Thanksgiving or will the staff shakeup at the White House continue? Chas and John discuss the latest on Iran, affordability, trade, Ukraine, China, AI, data centres, the economy and renovations.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/t9JKuRNi4uoXkvOU-3dP1jBO4SM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-694ecd.jpg"/>
   </programme>
   <programme channel="7968" start="20261109165700 +0000" stop="20261109170000 +0000">
@@ -35930,22 +36007,17 @@
     <desc lang="id">World Wide Technology Championship Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20261112170000 +0000" stop="20261112180000 +0000">
+  <programme channel="18189" start="20261112170000 +0000" stop="20261112190000 +0000">
     <title lang="id">PGA TOUR</title>
     <desc lang="id">World Wide Technology Championship Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20261112180000 +0000" stop="20261112210000 +0000">
-    <title lang="id">PGA TOUR</title>
-    <desc lang="id">Austin Championship presented by Compliance Solutions Round 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20261112190000 +0000" stop="20261112220000 +0000">
+    <title lang="id">Round 1 - Austin Championship presented by Compliance Solutions 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - Austin Championship presented by Compliance Solutions 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/P7LKNURI_dkEdkDRse_oM6u6Zdg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435513/7c37e5.png"/>
   </programme>
-  <programme channel="18189" start="20261112210000 +0000" stop="20261112230000 +0000">
-    <title lang="id">PGA TOUR CHAMPIONS</title>
-    <desc lang="id">Charles Schwab Cup Championship Round 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
-  </programme>
-  <programme channel="18189" start="20261112230000 +0000" stop="20261112233000 +0000">
+  <programme channel="18189" start="20261112220000 +0000" stop="20261112233000 +0000">
     <title lang="id">PGA TOUR CHAMPIONS</title>
     <desc lang="id">Learning Center - 26-026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
@@ -35995,17 +36067,17 @@
     <desc lang="id">Charles Schwab Cup Championship Round 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20261113170000 +0000" stop="20261113180000 +0000">
+  <programme channel="18189" start="20261113170000 +0000" stop="20261113190000 +0000">
     <title lang="id">PGA TOUR</title>
     <desc lang="id">VidantaWorld Mexico Highlight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
-  <programme channel="18189" start="20261113180000 +0000" stop="20261113210000 +0000">
-    <title lang="id">PGA TOUR</title>
-    <desc lang="id">Austin Championship presented by Compliance Solutions Round 2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  <programme channel="18189" start="20261113190000 +0000" stop="20261113220000 +0000">
+    <title lang="id">Round 2 - Austin Championship presented by Compliance Solutions 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 2 - Austin Championship presented by Compliance Solutions 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/HdT3MOAvgrzx0bk2rfaUNz2ae3M=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435797/55bad2.png"/>
   </programme>
-  <programme channel="18189" start="20261113210000 +0000" stop="20261114000000 +0000">
+  <programme channel="18189" start="20261113220000 +0000" stop="20261114000000 +0000">
     <title lang="id">PGA TOUR CHAMPIONS</title>
     <desc lang="id">Charles Schwab Cup Championship Round 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
@@ -36061,9 +36133,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20261114190000 +0000" stop="20261114220000 +0000">
-    <title lang="id">PGA TOUR</title>
-    <desc lang="id">Austin Championship presented by Compliance Solutions Round 3</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">Round 3 - Austin Championship presented by Compliance Solutions 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 3 - Austin Championship presented by Compliance Solutions 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/1tapc9vVNwmXkDXyrbkswUsIbDY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435798/29e239.png"/>
   </programme>
   <programme channel="18189" start="20261114220000 +0000" stop="20261115000000 +0000">
     <title lang="id">PGA TOUR CHAMPIONS</title>
@@ -36256,14 +36328,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20261112160000 +0000" stop="20261112190000 +0000">
-    <title lang="id">LPGA 2026 THE ANNIKA DRIVEN</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 1 - The ANNIKA driven by Gainbridge at Pelican 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - The ANNIKA driven by Gainbridge at Pelican 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/hu_eGF0QqBIaIx_bTTGkOfVQh8Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435804/6e0eca.png"/>
   </programme>
   <programme channel="18190" start="20261112160000 +0000" stop="20261112190000 +0000">
-    <title lang="id">LPGA 2026 THE ANNIKA DRIVEN</title>
-    <desc lang="id">ROUND 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 1 - The ANNIKA driven by Gainbridge at Pelican 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 1 - The ANNIKA driven by Gainbridge at Pelican 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/hu_eGF0QqBIaIx_bTTGkOfVQh8Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435804/6e0eca.png"/>
   </programme>
   <programme channel="18190" start="20261112190000 +0000" stop="20261112233000 +0000">
     <title lang="id">ISPS HANDA WOMEN'S SCOTTISH OPEN</title>

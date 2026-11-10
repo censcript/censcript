@@ -485,7 +485,7 @@
         <title>Scenah Podu!-Maareesan - EP 13</title>
     </programme>
     <programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="Vasantham.mewatch">
-        <title>Deepavali Sangamam 2026 - EP 2</title>
+        <title>Deepavali Sangamam 2026 - EP 1</title>
     </programme>
     <programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="Vasantham.mewatch">
         <title>Comedy Galatta Season 6 - EP 6</title>
