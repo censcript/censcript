@@ -434,7 +434,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261110121500 +0000" stop="20261110130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - Tories Promise to Cut £36bn from the Welfare Bill</title>
 </programme>
 <programme start="20261110130000 +0000" stop="20261110134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 7</title>
@@ -1591,7 +1591,7 @@
 <programme start="20261110124500 +0000" stop="20261110173000 +0000" channel="ITV4_HD.virginmediatv">
     <title>Live: Champion of Champions Snooker - Day 2</title>
 </programme>
-<programme start="20261110173000 +0000" stop="20261110183500 +0000" channel="ITV4_HD.virginmediatv">
+<programme start="20261110173000 +0000" stop="20261110180000 +0000" channel="ITV4_HD.virginmediatv">
     <title>Minder - The Odds Couple</title>
 </programme>
 <programme start="20261110000000 +0000" stop="20261110003000 +0000" channel="Comedy_Extra.virginmediatv">
@@ -1982,10 +1982,10 @@
     <title>The Bill - Beyond the Call</title>
 </programme>
 <programme start="20261110130000 +0000" stop="20261110134000 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Classic EastEnders</title>
+    <title>Classic EastEnders - Episode 162</title>
 </programme>
 <programme start="20261110134000 +0000" stop="20261110141500 +0000" channel="UandDrama_HD.virginmediatv">
-    <title>Classic EastEnders - Episode 168</title>
+    <title>Classic EastEnders - Episode 163</title>
 </programme>
 <programme start="20261110141500 +0000" stop="20261110145000 +0000" channel="UandDrama_HD.virginmediatv">
     <title>Classic Neighbours - Episode 163</title>
@@ -2300,7 +2300,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261110003000 +0000" stop="20261110010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast</title>
+    <title>The Media Show - The Role of Social Media in Gen-Z Protests Across Europe</title>
 </programme>
 <programme start="20261110010000 +0000" stop="20261110013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2348,7 +2348,7 @@
     <title>BBC News Now</title>
 </programme>
 <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+    <title>BBC News</title>
 </programme>
 <programme start="20261110140000 +0000" stop="20261110143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -3787,7 +3787,7 @@
 <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261110050000 +0000" stop="20261110070000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4058,7 +4058,7 @@
     <title>NFL Football - Chicago Bears at Seattle Seahawks</title>
 </programme>
 <programme start="20261110053000 +0000" stop="20261110060000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>The Franchise - Episode 5</title>
+    <title>The Franchise - Familiar Foes</title>
 </programme>
 <programme start="20261110120000 +0000" stop="20261110121500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Tampa Bay Buccaneers at Chicago Bears</title>
@@ -4241,7 +4241,7 @@
     <title>Rome Memories</title>
 </programme>
 <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>WTA All Access</title>
+    <title>WTA All Access - Episode 7</title>
 </programme>
 <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Hong Kong Open 2026 - Final</title>
@@ -4663,7 +4663,7 @@
 <programme start="20261110043000 +0000" stop="20261110050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261110050000 +0000" stop="20261110070000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261110050000 +0000" stop="20261110060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261110120000 +0000" stop="20261110130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4934,7 +4934,7 @@
     <title>NFL Football - Chicago Bears at Seattle Seahawks</title>
 </programme>
 <programme start="20261110053000 +0000" stop="20261110060000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>The Franchise - Episode 5</title>
+    <title>The Franchise - Familiar Foes</title>
 </programme>
 <programme start="20261110120000 +0000" stop="20261110121500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Tampa Bay Buccaneers at Chicago Bears</title>
@@ -5117,7 +5117,7 @@
     <title>Rome Memories</title>
 </programme>
 <programme start="20261110033000 +0000" stop="20261110040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>WTA All Access</title>
+    <title>WTA All Access - Episode 7</title>
 </programme>
 <programme start="20261110040000 +0000" stop="20261110050000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Hong Kong Open 2026 - Final</title>

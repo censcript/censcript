@@ -502,9 +502,6 @@
 <programme start="20261110054500 +0000" stop="20261110063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20261110063000 +0000" stop="20261110071500 +0000" channel="Trans 7.vision">
-<title>Garda Langit</title>
-</programme>
 <programme start="20261110071500 +0000" stop="20261110074500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -619,9 +616,6 @@
 <programme start="20261110010000 +0000" stop="20261110023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261110023000 +0000" stop="20261110060000 +0000" channel="ANTV.vision">
-<title>Commando 2: Black Money Trail</title>
-</programme>
 <programme start="20261110060000 +0000" stop="20261110073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -631,17 +625,8 @@
 <programme start="20261110093000 +0000" stop="20261110104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261110104500 +0000" stop="20261110131500 +0000" channel="ANTV.vision">
-<title>Berkelana</title>
-</programme>
 <programme start="20261110131500 +0000" stop="20261110143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261110143000 +0000" stop="20261110164500 +0000" channel="ANTV.vision">
-<title>Atas Boleh Bawah Boleh</title>
-</programme>
-<programme start="20261110164500 +0000" stop="20261110183000 +0000" channel="ANTV.vision">
-<title>The Raid</title>
 </programme>
 <programme start="20261110183000 +0000" stop="20261110193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -774,9 +759,6 @@
 </programme>
 <programme start="20261110040000 +0000" stop="20261110053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
-</programme>
-<programme start="20261110053000 +0000" stop="20261110070000 +0000" channel="TVOne.vision">
-<title>Damai Indonesiaku Spesial</title>
 </programme>
 <programme start="20261110070000 +0000" stop="20261110080000 +0000" channel="TVOne.vision">
 <title>Apa Kabar Indonesia Siang</title>
@@ -1496,5 +1478,23 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261110093000 +0000" stop="20261110100000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261110100000 +0000" stop="20261110100300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261110100300 +0000" stop="20261110103000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261110103000 +0000" stop="20261110110000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261110110000 +0000" stop="20261110120000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261110120000 +0000" stop="20261110123000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261110123000 +0000" stop="20261110130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
