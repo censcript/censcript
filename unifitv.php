@@ -13946,14 +13946,14 @@
   </programme>
   <programme start="20261110180500 +0000" stop="20261110190500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Girish Sawlani brings you the latest news from around the globe. Tonight: US Defence Secretary Pete Hegseth faces an impeachment attempt, peace talks between Russia and Ukraine begin, and COP31 kicks off in Turkiye.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.177.</episode-num>
     <episode-num system="onscreen">S2026E178</episode-num>
   </programme>
   <programme start="20261110190500 +0000" stop="20261110200500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">News Breakfast</title>
-    <desc lang="en">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport with Catherine Murphy and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
+    <desc lang="en">News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest on today's top stories, sport with Catherine Murphy and weather with Lillian Rangiah. Start your day informed and in front.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.224.</episode-num>
     <episode-num system="onscreen">S2026E225</episode-num>
@@ -13967,21 +13967,21 @@
   </programme>
   <programme start="20261110220500 +0000" stop="20261110235000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News Mornings</title>
-    <desc lang="en">Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <desc lang="en">Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.224.</episode-num>
     <episode-num system="onscreen">S2026E225</episode-num>
   </programme>
   <programme start="20261110235000 +0000" stop="20261111005000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Remembrance Day National Memorial Service 2026</title>
-    <desc lang="en">At 11am on the 11th day of the 11th month, we pause to reflect and remember all those who have served our nation. The National Remembrance Day Service from the Australian War Memorial in Canberra.</desc>
+    <desc lang="en">At 11am on the 11th day of the 11th month, we pause to reflect and remember all those who have served our nation. The National Remembrance Day Ceremony from the Australian War Memorial in Canberra.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261111005000 +0000" stop="20261111010500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News Mornings</title>
-    <desc lang="en">Stay in the know with what's happening this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Gemma Veness.</desc>
+    <desc lang="en">Stay in the know with what's going on this morning. ABC News brings you up-to-the-minute news to fuel your daily conversations so you can stay connected and follow the discussion across the day. Presented by Kathryn Robinson.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.224.</episode-num>
     <episode-num system="onscreen">S2026E225</episode-num>
@@ -13995,21 +13995,21 @@
   </programme>
   <programme start="20261111013500 +0000" stop="20261111020500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc lang="en">A genetic insurance policy for cattle producers; plus the 'bee drover' sharing the highs and lows of the business of bees.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.37.</episode-num>
     <episode-num system="onscreen">S2026E38</episode-num>
   </programme>
   <programme start="20261111020500 +0000" stop="20261111025000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Four Corners</title>
-    <desc lang="en">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="en">Four Corners - Unprofessional</title>
+    <desc lang="en">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.36.</episode-num>
     <episode-num system="onscreen">S2026E37</episode-num>
   </programme>
   <programme start="20261111025000 +0000" stop="20261111031000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.39.</episode-num>
     <episode-num system="onscreen">S2026E40</episode-num>
@@ -14051,7 +14051,7 @@
   </programme>
   <programme start="20261111073500 +0000" stop="20261111080500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="en">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="en">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.39.</episode-num>
     <episode-num system="onscreen">S2026E40</episode-num>
@@ -14085,22 +14085,22 @@
     <episode-num system="onscreen">S2026E179</episode-num>
   </programme>
   <programme start="20261111110000 +0000" stop="20261111115000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Four Corners</title>
-    <desc lang="en">The multi-award winning Four Corners brings you powerhouse investigative journalism - fearless and forensic, exposing scandals, triggering inquiries, leading debate and holding power to account for 65 years. (Final for 2026)</desc>
+    <title lang="en">Four Corners - Unprofessional</title>
+    <desc lang="en">Louise Milligan investigates who's policing the police and reveals what happened when investigators exposed a hidden trail of illegal and unethical conduct. (Final for 2026)_x000D_</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.36.</episode-num>
     <episode-num system="onscreen">S2026E37</episode-num>
   </programme>
   <programme start="20261111115000 +0000" stop="20261111120500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+    <desc lang="en">Trump rails at his media friends as the midterms don't go his way. 2GB fails to check the facts before launching into a red-tape tirade. Plus the media's promotion of Russell Brand called into question after his conviction.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.39.</episode-num>
     <episode-num system="onscreen">S2026E40</episode-num>
   </programme>
   <programme start="20261111120500 +0000" stop="20261111130500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <desc lang="en">Reimagining the age-old industry of rendering; Fears that working holiday visa changes will unfairly impact farming and rural Australia; plus fruit and vegetable growers doing their bit to protect the Great Barrier Reef.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="onscreen">S2026E39</episode-num>
@@ -14142,7 +14142,7 @@
   </programme>
   <programme start="20261111160000 +0000" stop="20261111163000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="en">Sam Wykes and Tinirau Arona bring you interviews and stories as the world's best rugby league nations go head-to-head, taking you inside the action, the rivalries and the stories behind the world's best players and teams.</desc>
+    <desc lang="en">Sam Wykes and Tinirau Arona are joined by Niall Williams-Guthrie and Kevin Naiqama to talk about the Rugby League World Cup Semi Finals. They explore what it means to wear the Samoan jersey and chat with Tonga's Will Hopoate.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.39.</episode-num>
     <episode-num system="onscreen">S2026E40</episode-num>

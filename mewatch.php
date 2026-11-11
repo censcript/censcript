@@ -752,10 +752,10 @@
         <title>No programme available now. Next broadcast on 12th November, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
     <programme start="20261110160000 +0000" stop="20261111160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 13th November, Friday 7.50pm. Mizuho Blue Challenge 2026: Singapore vs Paraguay </title>
+        <title>No Programme available now. Next Broadcast on 13th November, Friday 7.45pm. Mizuho Blue Challenge 2026: Singapore vs Paraguay </title>
     </programme>
     <programme start="20261111160000 +0000" stop="20261112160000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 13th November, Friday 7.50pm. Mizuho Blue Challenge 2026: Singapore vs Paraguay </title>
+        <title>No Programme available now. Next Broadcast on 13th November, Friday 7.45pm. Mizuho Blue Challenge 2026: Singapore vs Paraguay </title>
     </programme>
     <programme start="20261110160000 +0000" stop="20261111160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
