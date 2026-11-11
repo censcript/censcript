@@ -1143,7 +1143,7 @@
   </programme>
   <programme start="20261111110000 +0000" stop="20261111120000 +0000" channel="tv3.unifitv">
     <title lang="en">TERTULIS KITA SAMPAI SYURGA</title>
-    <desc lang="en">Arya dipaksa menerima perkahwinan yang diatur oleh Tuan Zahir sehingga membawa kepada pernikahan mengejutkan dengan Luthfi. Naufal mula hilang kawalan apabila mendapat tahu Arya bakal berkahwin, manakala Syaza terus menjadi batu api secara halus.</desc>
+    <desc lang="en">Selepas Arya menjadi mangsa fitnah, Tuan Zahir mengatur perkahwinannya dengan Luthfi. Arya cuba melarikan diri, namun akhirnya akur dengan keputusan bapanya setelah dipujuk oleh ibunya.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.2.</episode-num>
     <episode-num system="onscreen">S1E3</episode-num>
@@ -7157,19 +7157,12 @@
     <episode-num system="xmltv_ns">4.6.</episode-num>
     <episode-num system="onscreen">S5E7</episode-num>
   </programme>
-  <programme start="20261111104000 +0000" stop="20261111111000 +0000" channel="hits.unifitv">
-    <title lang="en">Frasier</title>
-    <desc lang="en">Roz puts together a space documentary with Senator John Glenn. Niles learns to fly a kite.</desc>
-    <category lang="en">Comedy</category>
-    <episode-num system="xmltv_ns">7.15.</episode-num>
-    <episode-num system="onscreen">S8E16</episode-num>
-  </programme>
-  <programme start="20261111111000 +0000" stop="20261111121000 +0000" channel="hits.unifitv">
-    <title lang="en">Mission: Impossible</title>
-    <desc lang="en">In the fourth season premiere, a new member joins the IMF: Leonard Nimoy as Paris. In his first mission he helps crack a vital code by hijacking a plane so the enemy can capture one of the passengers.</desc>
+  <programme start="20261111104000 +0000" stop="20261111121000 +0000" channel="hits.unifitv">
+    <title lang="en">T. J. Hooker</title>
+    <desc lang="en">A new police program has been formed to fast-track recruits to get them patrolling on the streets, and it's up to tough veteran cop SGT T.J. Hooker to do the job. Only he can train these inexperienced young recruits and bring peace back to the street.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">3.0.</episode-num>
-    <episode-num system="onscreen">S4E1</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261111121000 +0000" stop="20261111124000 +0000" channel="hits.unifitv">
     <title lang="en">I Dream of Jeannie</title>

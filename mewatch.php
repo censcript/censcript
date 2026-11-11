@@ -607,6 +607,12 @@
     <programme start="20261111160000 +0000" stop="20261111160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
+    <programme start="20261110160000 +0000" stop="20261111160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
+    <programme start="20261111160000 +0000" stop="20261112160000 +0000" channel="Oktolidays.mewatch">
+        <title>No programmes streaming LIVE at this moment</title>
+    </programme>
     <programme start="20261110160000 +0000" stop="20261111160000 +0000" channel="spl01.mewatch">
         <title>No Programme available now. Next Broadcast on 20th November, Friday 7.20pm. Singapore Premier League 2026/2027</title>
     </programme>
