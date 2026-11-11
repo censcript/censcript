@@ -3914,7 +3914,7 @@
     <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
 </programme>
 <programme start="20261111041500 +0000" stop="20261111043000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+    <title>Women&#039;s ICC World T20 - Final 2017: England v India</title>
 </programme>
 <programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2009: New Zealand v England</title>
@@ -4736,7 +4736,7 @@
     <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
 </programme>
 <programme start="20261111041500 +0000" stop="20261111043000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+    <title>Women&#039;s ICC World T20 - Final 2017: England v India</title>
 </programme>
 <programme start="20261111043000 +0000" stop="20261111044500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2009: New Zealand v England</title>

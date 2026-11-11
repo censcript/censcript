@@ -208,14 +208,18 @@
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
-  <programme channel="204" start="20261111073000 +0000" stop="20261111103000 +0000">
+  <programme channel="204" start="20261111073000 +0000" stop="20261111103400 +0000">
     <title lang="id">Philipines Vs Indonesia - Afc U17 Asian Cup Uzbekistan 2027 Qualifiers - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261111103000 +0000" stop="20261111131800 +0000">
+  <programme channel="204" start="20261111103400 +0000" stop="20261111130000 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
+  </programme>
+  <programme channel="204" start="20261111130000 +0000" stop="20261111131800 +0000">
+    <title lang="id">Sido Muncul Timeless 75th</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/d0BcCHgM9xJUIecDT5ZfLwSnfnU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436386/3187d8.jpg"/>
   </programme>
   <programme channel="204" start="20261111131800 +0000" stop="20261111143600 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
@@ -257,88 +261,88 @@
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap Selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261111213000 +0000" stop="20261111220000 +0000">
+  <programme channel="204" start="20261111213000 +0000" stop="20261111215500 +0000">
     <title lang="id">Buser</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261111220000 +0000" stop="20261111230000 +0000">
+  <programme channel="204" start="20261111215500 +0000" stop="20261111230000 +0000">
     <title lang="id">Liputan 6 Pagi</title>
     <icon src="https://thumbor.prod.vidiocdn.com/TU0JVjSw8srrF_L7wqEtyaKj63A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382358/3bec7e.jpg"/>
   </programme>
-  <programme channel="204" start="20261111230000 +0000" stop="20261112000000 +0000">
+  <programme channel="204" start="20261111230000 +0000" stop="20261112001300 +0000">
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261112000000 +0000" stop="20261112010000 +0000">
+  <programme channel="204" start="20261112001300 +0000" stop="20261112010800 +0000">
     <title lang="id">Tiba Tiba Kuis</title>
     <desc lang="id">Kuis kejutan dimana Para pembawa acara akan datang secara tiba-tiba ke lokasi pemirsa tanpa pemberitahuan untuk memberikan tantangan games yang lucu dan menyentuh. Dipandu oleh Baim Wong, Asri Welas, dan Anna Jobling. Saksikan, hanya di saluran televisi SCTV Satu Untuk Semua.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/1EUeMSUt82iskEKXnfT9rieiAqw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/407932/7e1a8b.jpg"/>
   </programme>
-  <programme channel="204" start="20261112010000 +0000" stop="20261112030000 +0000">
+  <programme channel="204" start="20261112010800 +0000" stop="20261112025300 +0000">
     <title lang="id">FTV Pagi Spesial: Lukisan Hati Si Paling Cendol</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/GpbZMhyXt65IylSRD9BQMo59Qhc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433524/202a87.jpg"/>
   </programme>
-  <programme channel="204" start="20261112030000 +0000" stop="20261112050000 +0000">
+  <programme channel="204" start="20261112025300 +0000" stop="20261112045000 +0000">
     <title lang="id">FTV Pagi: Cinta Kita Ngeri Ngeri Sedap</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/2Od9T0r-Nx4tDVguB_niKqxRs4g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5433525/7ff393.jpg"/>
   </programme>
-  <programme channel="204" start="20261112050000 +0000" stop="20261112053000 +0000">
+  <programme channel="204" start="20261112045000 +0000" stop="20261112052400 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
   </programme>
-  <programme channel="204" start="20261112053000 +0000" stop="20261112100000 +0000">
+  <programme channel="204" start="20261112052400 +0000" stop="20261112100000 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
-  <programme channel="204" start="20261112100000 +0000" stop="20261112111500 +0000">
+  <programme channel="204" start="20261112100000 +0000" stop="20261112112700 +0000">
     <title lang="id">Biarkan Hati Bicara</title>
     <desc lang="id">Mimpi bahagia Arina (Febby Rastanty) berubah jadi ancaman saat hari pernikahannya bersama Reno (Randy Jhon) dihancurkan oleh Fico (Rangga Azof) yang dikuasai dendam keluarga! saksikan kisahnya dalam sinetron biarkan hati bicara</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/3WK4lyy2DsOW5K9vC_50WSTt8Q4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410797/255b82.png"/>
   </programme>
-  <programme channel="204" start="20261112111500 +0000" stop="20261112130000 +0000">
+  <programme channel="204" start="20261112112700 +0000" stop="20261112125200 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261112130000 +0000" stop="20261112143000 +0000">
+  <programme channel="204" start="20261112125200 +0000" stop="20261112143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261112143000 +0000" stop="20261112160000 +0000">
+  <programme channel="204" start="20261112143000 +0000" stop="20261112155200 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
   </programme>
-  <programme channel="204" start="20261112160000 +0000" stop="20261112173000 +0000">
+  <programme channel="204" start="20261112155200 +0000" stop="20261112173200 +0000">
     <title lang="id">FTV Primetime: Abang Ojek Hampir Macho</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261112160000 +0000" stop="20261112173000 +0000">
+  <programme channel="204" start="20261112155200 +0000" stop="20261112173200 +0000">
     <title lang="id">FTV Primetime: Abang Ojek Hampir Macho</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261112173000 +0000" stop="20261112184500 +0000">
+  <programme channel="204" start="20261112173200 +0000" stop="20261112184700 +0000">
     <title lang="id">FTV Utama: Cinta Bersemi Di Jumat Bersih</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261112184500 +0000" stop="20261112200000 +0000">
+  <programme channel="204" start="20261112184700 +0000" stop="20261112195500 +0000">
     <title lang="id">Sinema Malam</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261112200000 +0000" stop="20261112210000 +0000">
+  <programme channel="204" start="20261112195500 +0000" stop="20261112210300 +0000">
     <title lang="id">Sinema Dini Hari</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261112210000 +0000" stop="20261112213000 +0000">
+  <programme channel="204" start="20261112210300 +0000" stop="20261112213000 +0000">
     <title lang="id">Barakallah</title>
     <desc lang="id">Ceramah islami penuh makna. Tayang setiap Selasa - minggu, mulai pukul 04.00 WIB</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -649,28 +653,32 @@
     <desc lang="id">FTV Yang Diambil Dari Kisah Kehidupan Sehari-Hari Pemirsa Yang Penuh Intrik, Konflik Dan Pengkhianatan Untuk Memberikan Berbagai Pelajaran Hidup.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261111073000 +0000" stop="20261111105000 +0000">
+  <programme channel="205" start="20261111073000 +0000" stop="20261111103400 +0000">
     <title lang="id">Philippines vs Indonesia - AFC U17 Asian Cup Qualifiers</title>
     <desc lang="id">Afc U17 Asian Cup Qualifiers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261111105000 +0000" stop="20261111130000 +0000">
+  <programme channel="205" start="20261111103400 +0000" stop="20261111130000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261111130000 +0000" stop="20261111170000 +0000">
+  <programme channel="205" start="20261111130000 +0000" stop="20261111131800 +0000">
+    <title lang="id">Sido Muncul Timeless 75th</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/73WNXisw6KJVFWXOI-i4X59ElIc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436387/ee6960.jpg"/>
+  </programme>
+  <programme channel="205" start="20261111131800 +0000" stop="20261111170600 +0000">
     <title lang="id">D'Academy 8: BEST OF TOP 11 RESULT MALAM KETIGA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
-  <programme channel="205" start="20261111130000 +0000" stop="20261111170000 +0000">
+  <programme channel="205" start="20261111131800 +0000" stop="20261111170600 +0000">
     <title lang="id">D'Academy 8: BEST OF TOP 11 RESULT MALAM KETIGA</title>
     <desc lang="id">D'Academy 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/_WpWqTqdhHX9e5kMXlV8cR-SpN8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408946/b479f0.jpg"/>
   </programme>
-  <programme channel="205" start="20261111170000 +0000" stop="20261111190000 +0000">
-    <title lang="id">PHILIPPINES vs INDONESIA - Afc U17 Asian Cup Qualifiers</title>
+  <programme channel="205" start="20261111170600 +0000" stop="20261111190000 +0000">
+    <title lang="id">PHILIPPINES vs INDONESIA : AFC U17 Asian Cup Qualifiers 2027</title>
     <desc lang="id">Afc U17 Asian Cup Qualifiers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
@@ -1048,7 +1056,15 @@
     <desc lang="id">SEA V CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261111120000 +0000" stop="20261111140000 +0000">
+  <programme channel="206" start="20261111120000 +0000" stop="20261111130000 +0000">
+    <title lang="id">Rerun VNL 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20261111130000 +0000" stop="20261111131800 +0000">
+    <title lang="id">Sido Muncul Timeless 75th</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/s263rQ0VZGjwSVkk2kskQRQLpTw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436388/0c08b7.jpg"/>
+  </programme>
+  <programme channel="206" start="20261111131800 +0000" stop="20261111140000 +0000">
     <title lang="id">Rerun VNL 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
@@ -2523,27 +2539,27 @@
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/bpTq_zKN1WJ5CuDiHHPiv3-GiKs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432194/e88202.jpg"/>
   </programme>
-  <programme channel="782" start="20261111072600 +0000" stop="20261111093000 +0000">
+  <programme channel="782" start="20261111072600 +0000" stop="20261111092600 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/UnEOFgdE6J7sQ5vO9mVhque27jU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432201/2ef790.jpg"/>
   </programme>
-  <programme channel="782" start="20261111093000 +0000" stop="20261111104500 +0000">
+  <programme channel="782" start="20261111092600 +0000" stop="20261111111300 +0000">
     <title lang="id">Naagin 1</title>
     <desc lang="id">Naagin 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261111104500 +0000" stop="20261111131500 +0000">
+  <programme channel="782" start="20261111111300 +0000" stop="20261111131500 +0000">
     <title lang="id">Sinema Spesial Rhoma Irama : Raja Dangdut</title>
     <desc lang="id">Sinema Spesial Rhoma Irama : Raja Dangdut</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261111131500 +0000" stop="20261111143000 +0000">
+  <programme channel="782" start="20261111131500 +0000" stop="20261111144700 +0000">
     <title lang="id">Alas Roban The Series</title>
     <desc lang="id">Alas Roban The Series</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261111143000 +0000" stop="20261111164500 +0000">
+  <programme channel="782" start="20261111144700 +0000" stop="20261111164500 +0000">
     <title lang="id">Sinema Spesial Warkop : Bebas Aturan Main</title>
     <desc lang="id">Sinema Spesial Warkop : Bebas Aturan Main</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -4609,11 +4625,11 @@
     <title lang="id">COD - Canda Of The Day</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261111163000 +0000" stop="20261111170000 +0000">
+  <programme channel="6441" start="20261111163000 +0000" stop="20261111171000 +0000">
     <title lang="id">Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261111163000 +0000" stop="20261111170000 +0000">
+  <programme channel="6441" start="20261111163000 +0000" stop="20261111171000 +0000">
     <title lang="id">Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -5673,11 +5689,11 @@
     <title lang="id">Md Series: Suara Hati</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261111140000 +0000" stop="20261111150500 +0000">
+  <programme channel="875" start="20261111140000 +0000" stop="20261111145300 +0000">
     <title lang="id">Md Series: Keluarga Yang Tak Dirindukan</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
-  <programme channel="875" start="20261111150500 +0000" stop="20261111160500 +0000">
+  <programme channel="875" start="20261111145300 +0000" stop="20261111160500 +0000">
     <title lang="id">Md C-Drama: The Return Of The Condor Heroes</title>
     <icon src="https://thumbor.prod.vidiocdn.com/4Czw1-Pd6U37CKeatnuB7yB0wm8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/mdtv-ff5756.jpg"/>
   </programme>
@@ -10676,14 +10692,14 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261112154500 +0000" stop="20261112180000 +0000">
-    <title lang="id">DR Congo vs Sierra Leone : TotalEnergies Africa Cup of Nations Qualifiers 2027</title>
-    <desc lang="id">DR Congo vs Sierra Leone</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">DR Congo vs Sierra Leone - TotalEnergies Africa Cup of Nations Qualifiers</title>
+    <desc lang="id">Nonton streaming pertandingan seru DR Congo vs Sierra Leone - TotalEnergies Africa Cup of Nations Qualifiers. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WS0gO50h6lbpqXPHlxXUGDmUE0k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436421/2bb474.jpg"/>
   </programme>
   <programme channel="6299" start="20261112154500 +0000" stop="20261112180000 +0000">
-    <title lang="id">DR Congo vs Sierra Leone : TotalEnergies Africa Cup of Nations Qualifiers 2027</title>
-    <desc lang="id">DR Congo vs Sierra Leone</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+    <title lang="id">DR Congo vs Sierra Leone - TotalEnergies Africa Cup of Nations Qualifiers</title>
+    <desc lang="id">Nonton streaming pertandingan seru DR Congo vs Sierra Leone - TotalEnergies Africa Cup of Nations Qualifiers. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/WS0gO50h6lbpqXPHlxXUGDmUE0k=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436421/2bb474.jpg"/>
   </programme>
   <programme channel="6299" start="20261112180000 +0000" stop="20261112181000 +0000">
     <title lang="id">Javi Puado : LaLiga Goals Galore 2024/25</title>
@@ -10991,8 +11007,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261115043000 +0000" stop="20261115050000 +0000">
-    <title lang="id">Episode Number 31 : Fastzone 2026</title>
-    <desc lang="id">Episode Number 31</desc>
+    <title lang="id">Documentary : Formula 2: Where F1 Stars are made</title>
+    <desc lang="id">Documentary</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261115050000 +0000" stop="20261115080000 +0000">
@@ -11135,14 +11151,14 @@
     <desc lang="id">Celta Vigo vs Real Betis</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261116093000 +0000" stop="20261116094500 +0000">
-    <title lang="id">Julian Alvarez : LaLiga Goals Galore 2024/25</title>
-    <desc lang="id">Julian Alvarez</desc>
+  <programme channel="6299" start="20261116093000 +0000" stop="20261116111000 +0000">
+    <title lang="id">Liverpool vs Man United PL 2022/23 : LFCTV Classic 2026/27</title>
+    <desc lang="id">Liverpool vs Man United PL 2022/23</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261116094500 +0000" stop="20261116114500 +0000">
-    <title lang="id">Episode Number 3 : LFCTV Classic 2026/27</title>
-    <desc lang="id">Episode Number 3</desc>
+  <programme channel="6299" start="20261116111000 +0000" stop="20261116114500 +0000">
+    <title lang="id">Review Show: Crystal Palace : LFCTV Specials 2026/27</title>
+    <desc lang="id">Review Show: Crystal Palace</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261116114500 +0000" stop="20261116124500 +0000">
@@ -11270,24 +11286,24 @@
     <desc lang="id">Sevilla vs Osasuna</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261117090000 +0000" stop="20261117093000 +0000">
-    <title lang="id">Villarreal vs Espanyol : Mini Match - LaLiga 2026/27</title>
-    <desc lang="id">Villarreal vs Espanyol</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
-  </programme>
-  <programme channel="6299" start="20261117093000 +0000" stop="20261117103000 +0000">
+  <programme channel="6299" start="20261117090000 +0000" stop="20261117100000 +0000">
     <title lang="id">Coppa Shell Race 2, Hungaroring : Ferrari Challenge Europe Race 2026</title>
     <desc lang="id">Coppa Shell Race 2, Hungaroring</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261117103000 +0000" stop="20261117113000 +0000">
+  <programme channel="6299" start="20261117100000 +0000" stop="20261117110000 +0000">
     <title lang="id">Portimao Race 1 : Ligier European Series 2026</title>
     <desc lang="id">Portimao Race 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261117113000 +0000" stop="20261117123000 +0000">
+  <programme channel="6299" start="20261117110000 +0000" stop="20261117120000 +0000">
     <title lang="id">Portimao Race 2 : Ligier European Series 2026</title>
     <desc lang="id">Portimao Race 2</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
+  </programme>
+  <programme channel="6299" start="20261117120000 +0000" stop="20261117123000 +0000">
+    <title lang="id">Documentary : Formula 2: Where F1 Stars are made</title>
+    <desc lang="id">Documentary</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
   <programme channel="6299" start="20261117123000 +0000" stop="20261117124500 +0000">
@@ -12392,15 +12408,20 @@
     <desc lang="id">Bremen vs Valencia (2009/10)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261111174000 +0000" stop="20261111195500 +0000">
+  <programme channel="6317" start="20261111174000 +0000" stop="20261111194500 +0000">
     <title lang="id">OH Leuven vs HB Koge - UEFA Women's Champions League</title>
     <desc lang="id">Nonton streaming pertandingan seru OH Leuven vs HB Koge - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/C0T02ZtsXjJji-1nRUO29C-4NJI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435509/88091b.jpg"/>
   </programme>
-  <programme channel="6317" start="20261111195500 +0000" stop="20261111220000 +0000">
-    <title lang="id">Benfica vs Austria Wien - UEFA Women's Champions League</title>
-    <desc lang="id">Nonton streaming pertandingan seru Benfica vs Austria Wien - UEFA Women's Champions League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VqKsmHwIKiRrwT0J6c81HEEVmnM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5435510/55cf7e.jpg"/>
+  <programme channel="6317" start="20261111194500 +0000" stop="20261111200000 +0000">
+    <title lang="id">UWCL - All Goals - Barcelona (Including Final) - 2025/26 : UWCL Specials</title>
+    <desc lang="id">UWCL - All Goals - Barcelona (Including Final) - 2025/26</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  </programme>
+  <programme channel="6317" start="20261111200000 +0000" stop="20261111220000 +0000">
+    <title lang="id">Real Madrid vs Paris - MD4 : UEFA Women's Champions League 2026/27</title>
+    <desc lang="id">Real Madrid vs Paris - MD4</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261111220000 +0000" stop="20261111235000 +0000">
     <title lang="id">Roma vs Servette - MD4 : UEFA Women's Champions League 2026/27</title>
@@ -12418,8 +12439,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261112033000 +0000" stop="20261112052000 +0000">
-    <title lang="id">Benfica vs Austria Wien - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Benfica vs Austria Wien - MD4</desc>
+    <title lang="id">PSG vs Bayern - MD4 : UEFA Women's Champions League 2026/27</title>
+    <desc lang="id">PSG vs Bayern - MD4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261112052000 +0000" stop="20261112071000 +0000">
@@ -12443,8 +12464,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261112100000 +0000" stop="20261112115000 +0000">
-    <title lang="id">Benfica vs Austria Wien - MD4 : UEFA Women's Champions League 2026/27</title>
-    <desc lang="id">Benfica vs Austria Wien - MD4</desc>
+    <title lang="id">OH Leuven vs HB Koge - MD4 : UEFA Women's Champions League 2026/27</title>
+    <desc lang="id">OH Leuven vs HB Koge - MD4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261112115000 +0000" stop="20261112134000 +0000">
@@ -12468,9 +12489,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
   <programme channel="6317" start="20261112144500 +0000" stop="20261112165500 +0000">
-    <title lang="id">Ghana vs Somalia : TotalEnergies Africa Cup of Nations Qualifiers 2027</title>
-    <desc lang="id">Ghana vs Somalia</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+    <title lang="id">Ghana vs Somalia - TotalEnergies Africa Cup of Nations Qualifiers</title>
+    <desc lang="id">Nonton streaming pertandingan seru Ghana vs Somalia - TotalEnergies Africa Cup of Nations Qualifiers. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/jVh4Dayi4r-fCLIHoLJFpfq9lHw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436425/2e6aa1.jpg"/>
   </programme>
   <programme channel="6317" start="20261112165500 +0000" stop="20261112185500 +0000">
     <title lang="id">Guinea vs Eritrea : TotalEnergies Africa Cup of Nations Qualifiers 2027 (Join in Progress)</title>
@@ -13448,25 +13469,15 @@
     <desc lang="id">PSG vs Troyes</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261111080000 +0000" stop="20261111180000 +0000">
+  <programme channel="17875" start="20261111080000 +0000" stop="20261111194500 +0000">
     <title lang="id">Dubai P1 Premier Padel - Day 2</title>
     <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Day 2. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JVsVHzT9qGA4grZMoaeoWrMSDBo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434950/72db5f.png"/>
   </programme>
-  <programme channel="17875" start="20261111080000 +0000" stop="20261111180000 +0000">
+  <programme channel="17875" start="20261111080000 +0000" stop="20261111194500 +0000">
     <title lang="id">Dubai P1 Premier Padel - Day 2</title>
     <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Day 2. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/JVsVHzT9qGA4grZMoaeoWrMSDBo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434950/72db5f.png"/>
-  </programme>
-  <programme channel="17875" start="20261111180000 +0000" stop="20261111182500 +0000">
-    <title lang="id">New Zealand vs Australia - Cape Town Day 2, Women : HSBC SVNS Series 2026</title>
-    <desc lang="id">New Zealand vs Australia - Cape Town Day 2, Women</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261111182500 +0000" stop="20261111194500 +0000">
-    <title lang="id">Pretoria P1 Day 5 QF Match 1 : Premier Padel 2026</title>
-    <desc lang="id">Pretoria P1 Day 5 QF Match 1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261111194500 +0000" stop="20261111211500 +0000">
     <title lang="id">Pretoria P1 Day 5 QF Match 2 : Premier Padel 2026</title>
@@ -13524,24 +13535,22 @@
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261112150000 +0000" stop="20261112153000 +0000">
-    <title lang="id">Milan P1 : Premier Padel Highlights 2026</title>
-    <desc lang="id">Milan P1</desc>
+    <title lang="id">Premier Padel Highlights 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261112153000 +0000" stop="20261112154500 +0000">
-    <title lang="id">Cancun P2 Men : Premier Padel Match Highlights 2026</title>
-    <desc lang="id">Cancun P2 Men</desc>
+    <title lang="id">Premier Padel Match Highlights 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
   <programme channel="17875" start="20261112154500 +0000" stop="20261112180000 +0000">
-    <title lang="id">Equatorial Guinea vs Zimbabwe : TotalEnergies Africa Cup of Nations Qualifiers 2027</title>
-    <desc lang="id">Equatorial Guinea vs Zimbabwe</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Equatorial Guinea vs Zimbabwe - TotalEnergies Africa Cup of Nations Qualifiers</title>
+    <desc lang="id">Nonton streaming pertandingan seru Equatorial Guinea vs Zimbabwe - TotalEnergies Africa Cup of Nations Qualifiers. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/9Ae653ZygbaZTzib0SUhbM9Uorg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436422/c75108.jpg"/>
   </programme>
   <programme channel="17875" start="20261112154500 +0000" stop="20261112180000 +0000">
-    <title lang="id">Equatorial Guinea vs Zimbabwe : TotalEnergies Africa Cup of Nations Qualifiers 2027</title>
-    <desc lang="id">Equatorial Guinea vs Zimbabwe</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
+    <title lang="id">Equatorial Guinea vs Zimbabwe - TotalEnergies Africa Cup of Nations Qualifiers</title>
+    <desc lang="id">Nonton streaming pertandingan seru Equatorial Guinea vs Zimbabwe - TotalEnergies Africa Cup of Nations Qualifiers. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/9Ae653ZygbaZTzib0SUhbM9Uorg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436422/c75108.jpg"/>
   </programme>
   <programme channel="17875" start="20261112180000 +0000" stop="20261112182000 +0000">
     <title lang="id">France vs Fiji - Cape Town Day 2, Men : HSBC SVNS Series 2026</title>
@@ -16369,12 +16378,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261112180000 +0000" stop="20261112200000 +0000">
-    <title lang="id">Rd 1 Black Mamba Aces vs Konjac Zero Phoenix Force : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 1 Cartivo Movers vs Dentacare Pearly Whites : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261112200000 +0000" stop="20261112220000 +0000">
-    <title lang="id">Rd 1 Cebuana Lhuillier Gems vs Thrifty Drivers : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 1 Dentacare Pearly Whites vs Dream Skin Radiants : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -16388,12 +16397,12 @@
     <desc lang="id">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261113020000 +0000" stop="20261113040000 +0000">
+  <programme channel="17139" start="20261113020000 +0000" stop="20261113041000 +0000">
     <title lang="id">Race 34 : 2026 Supercars: Penrite Oil Sandown 500</title>
     <desc lang="id">Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261113040000 +0000" stop="20261113060000 +0000">
+  <programme channel="17139" start="20261113041000 +0000" stop="20261113060000 +0000">
     <title lang="id">Perth Glory vs Newcastle Jets : A-League Men 26/27 MW 4</title>
     <desc lang="id">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
@@ -16423,9 +16432,14 @@
     <desc lang="id">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
-  <programme channel="17139" start="20261113110000 +0000" stop="20261113120000 +0000">
+  <programme channel="17139" start="20261113110000 +0000" stop="20261113113000 +0000">
     <title lang="id">Highlights : 2026 Asia-Pacific Amateur Championship</title>
     <desc lang="id">Top amateur golfers from across the Asia-Pacific region battle for championship honours, showcasing elite talent and earning opportunities to compete on golf's biggest stages.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
+  </programme>
+  <programme channel="17139" start="20261113113000 +0000" stop="20261113120000 +0000">
+    <title lang="id">Sydney FC vs Central Coast Mariners : 2026/27 ALM Mini Match MW 4</title>
+    <desc lang="id">Australia and New Zealand's top clubs battle for A-League Men glory, with star players, fierce rivalries and a season of competitive football culminating in the Finals Series.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261113120000 +0000" stop="20261113133000 +0000">
@@ -16459,12 +16473,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261113180000 +0000" stop="20261113200000 +0000">
-    <title lang="id">Rd 2 Dream Skin Radiants vs Konjac Zero Phoenix Force : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 1 Black Mamba Aces vs Konjac Zero Phoenix Force : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261113200000 +0000" stop="20261113220000 +0000">
-    <title lang="id">Rd 2 Gfoxx Paragon vs Dentacare Pearly Whites : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 1 Cebuana Lhuillier Gems vs Thrifty Drivers : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -16559,12 +16573,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261114180000 +0000" stop="20261114200000 +0000">
-    <title lang="id">Rd 2 Black Mamba Aces vs Thrifty Drivers : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 2 Gfoxx Paragon vs Dentacare Pearly Whites : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261114200000 +0000" stop="20261114220000 +0000">
-    <title lang="id">Rd 2 Cebuana Lhuillier Gems vs Cartivo Movers : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 2 Dream Skin Radiants vs Konjac Zero Phoenix Force : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -16644,12 +16658,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261115180000 +0000" stop="20261115200000 +0000">
-    <title lang="id">Rd 2 Black Mamba Aces vs Gfoxx Paragon : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 2 Cebuana Lhuillier Gems vs Cartivo Movers : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261115200000 +0000" stop="20261115220000 +0000">
-    <title lang="id">Rd 2 Thrifty Drivers vs Konjac Zero Phoenix Force : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 2 Black Mamba Aces vs Thrifty Drivers : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -16729,12 +16743,12 @@
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261116180000 +0000" stop="20261116200000 +0000">
-    <title lang="id">Rd 2 Cartivo Movers vs Dream Skin Radiants : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 2 Cebuana Lhuillier Gems vs Dentacare Pearly Whites : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
   <programme channel="17139" start="20261116200000 +0000" stop="20261116220000 +0000">
-    <title lang="id">Rd 2 Cebuana Lhuillier Gems vs Dentacare Pearly Whites : 2026 PYCL, Philippines S2</title>
+    <title lang="id">Rd 2 Cartivo Movers vs Dream Skin Radiants : 2026 PYCL, Philippines S2</title>
     <desc lang="id">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/YBK8XRc1cWJx0JfM3CWo6PnTfFY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17139/spotv-c18c69.jpg"/>
   </programme>
@@ -16863,7 +16877,12 @@
     <desc lang="id">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261111223000 +0000" stop="20261112020000 +0000">
+  <programme channel="17140" start="20261111223000 +0000" stop="20261111230000 +0000">
+    <title lang="id">Ep 6 : SailGP: Racing on the Edge S6</title>
+    <desc lang="id">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261111230000 +0000" stop="20261112020000 +0000">
     <title lang="id">Day 3 Session 2 : WTT Champions Frankfurt 2026</title>
     <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -16883,17 +16902,17 @@
     <desc lang="id">Asia's rising young riders battle it out on track in this exciting development series, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261112080000 +0000" stop="20261112111500 +0000">
+  <programme channel="17140" start="20261112080000 +0000" stop="20261112112000 +0000">
     <title lang="id">Free Practice 2/Qualifying : 2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261112111500 +0000" stop="20261112143000 +0000">
+  <programme channel="17140" start="20261112112000 +0000" stop="20261112144500 +0000">
     <title lang="id">Qualifying/Sprint : 2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261112143000 +0000" stop="20261112163000 +0000">
+  <programme channel="17140" start="20261112144500 +0000" stop="20261112163000 +0000">
     <title lang="id">Lexus Melbourne Cup 2026</title>
     <desc lang="id">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -16918,22 +16937,22 @@
     <desc lang="id">Launched in 2022, The International Series is a set of 10 elevated events that form an Asian Tour-sanctioned pathway onto the lucrative LIV Golf League.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261112210000 +0000" stop="20261112213000 +0000">
+  <programme channel="17140" start="20261112210000 +0000" stop="20261112213500 +0000">
     <title lang="id">Highlights : 2026 Global Champions League, Rabat</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261112213000 +0000" stop="20261112233000 +0000">
+  <programme channel="17140" start="20261112213500 +0000" stop="20261112232000 +0000">
     <title lang="id">Lexus Melbourne Cup 2026</title>
     <desc lang="id">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261112233000 +0000" stop="20261113030000 +0000">
+  <programme channel="17140" start="20261112232000 +0000" stop="20261113025500 +0000">
     <title lang="id">Day 4 Session 2 : WTT Champions Frankfurt 2026</title>
     <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261113030000 +0000" stop="20261113070000 +0000">
+  <programme channel="17140" start="20261113025500 +0000" stop="20261113070000 +0000">
     <title lang="id">Day 5 Session 1 : WTT Champions Frankfurt 2026</title>
     <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
@@ -16993,39 +17012,44 @@
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261113193000 +0000" stop="20261113233000 +0000">
+  <programme channel="17140" start="20261113193000 +0000" stop="20261113201500 +0000">
+    <title lang="id">Highlights : 2026 Global Champions League, Rabat</title>
+    <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261113201500 +0000" stop="20261113211500 +0000">
+    <title lang="id">Highlights : 2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
+    <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261113211500 +0000" stop="20261114013000 +0000">
     <title lang="id">Day 5 Session 2 : WTT Champions Frankfurt 2026</title>
     <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261113233000 +0000" stop="20261114033000 +0000">
+  <programme channel="17140" start="20261114013000 +0000" stop="20261114060000 +0000">
     <title lang="id">Day 6 Session 1 : WTT Champions Frankfurt 2026</title>
     <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261114033000 +0000" stop="20261114061500 +0000">
+  <programme channel="17140" start="20261114060000 +0000" stop="20261114100000 +0000">
+    <title lang="id">Elite Men's &amp; Women's Race : 2026 Dubai T100</title>
+    <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261114100000 +0000" stop="20261114103000 +0000">
+    <title lang="id">EP1 : MotoGP 2026 Inside the Fluo VR46</title>
+    <desc lang="id">Inside the Fluo pulls back the visor on the high-octane world of MotoGP, giving fans an unrestricted look into the inner workings of Valentino Rossi's racing team.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261114103000 +0000" stop="20261114111500 +0000">
+    <title lang="id">EP2 : MotoGP 2026 Inside the Fluo VR46</title>
+    <desc lang="id">Inside the Fluo pulls back the visor on the high-octane world of MotoGP, giving fans an unrestricted look into the inner workings of Valentino Rossi's racing team.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261114111500 +0000" stop="20261114140000 +0000">
     <title lang="id">Day 6 Session 2 Finals : WTT Champions Frankfurt 2026</title>
     <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261114061500 +0000" stop="20261114064500 +0000">
-    <title lang="id">Ep 6 : SailGP: Racing on the Edge S6</title>
-    <desc lang="id">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261114064500 +0000" stop="20261114075000 +0000">
-    <title lang="id">Qualifying : 2026/27 ALMC, Le Castellet</title>
-    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261114075000 +0000" stop="20261114104500 +0000">
-    <title lang="id">Race 1 : 2026/27 ALMC, Le Castellet</title>
-    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261114104500 +0000" stop="20261114140000 +0000">
-    <title lang="id">Elite Women's Race : 2026 Dubai T100</title>
-    <desc lang="id">40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261114140000 +0000" stop="20261114160000 +0000">
@@ -17049,7 +17073,7 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261114170000 +0000" stop="20261114173000 +0000">
-    <title lang="id">Highlights : 2026 Global Champions League, Rabat</title>
+    <title lang="id">Highlights : 2026 Longines Global Champions Tour, Rabat</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
@@ -17068,49 +17092,184 @@
     <desc lang="id">The 2026 52 SUPER SERIES delivers elite grand prix sailing. 14 international teams battle on identical, high-speed TP52 yachts across 5 European venues, where world-class victories are decided by inches</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261114213000 +0000" stop="20261114230000 +0000">
-    <title lang="id">Qualifying : 2026/27 ALMS, 4 Hours of Le Castellet</title>
-    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+  <programme channel="17140" start="20261114213000 +0000" stop="20261114223000 +0000">
+    <title lang="id">Race 1 : 2026 Idemitsu Moto4 Asia Cup, Rd 6 Qatar</title>
+    <desc lang="id">Asia's rising young riders battle it out on track in this exciting development series, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261114230000 +0000" stop="20261115040000 +0000">
-    <title lang="id">Race 1 : 2026/27 ALMS, 4 Hours of Le Castellet</title>
-    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+  <programme channel="17140" start="20261114223000 +0000" stop="20261114233000 +0000">
+    <title lang="id">Race 2 : 2026 Idemitsu Moto4 Asia Cup, Rd 6 Qatar</title>
+    <desc lang="id">Asia's rising young riders battle it out on track in this exciting development series, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115040000 +0000" stop="20261115080000 +0000">
+  <programme channel="17140" start="20261114233000 +0000" stop="20261115033000 +0000">
     <title lang="id">Western European League, Verona (ITA) : 2026/27 Longines FEI Jumping World Cup</title>
     <desc lang="id">Top European show jumpers compete in the Longines FEI Jumping World Cup Western European League, battling for points and a place in the World Cup Final.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115080000 +0000" stop="20261115110000 +0000">
-    <title lang="id">Race 2 : 2026/27 ALMS, 4 Hours of Le Castellet</title>
-    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+  <programme channel="17140" start="20261115033000 +0000" stop="20261115040000 +0000">
+    <title lang="id">Ep 6 : SailGP: Racing on the Edge S6</title>
+    <desc lang="id">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115110000 +0000" stop="20261115131500 +0000">
+  <programme channel="17140" start="20261115040000 +0000" stop="20261115050000 +0000">
+    <title lang="id">Qualifying : 2026/27 ALMC, Le Castellet</title>
+    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261115050000 +0000" stop="20261115080000 +0000">
+    <title lang="id">Race 1 : 2026/27 ALMC, Le Castellet</title>
+    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261115080000 +0000" stop="20261115110000 +0000">
+    <title lang="id">Race 2 : 2026/27 ALMC, Le Castellet</title>
+    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261115110000 +0000" stop="20261115130000 +0000">
     <title lang="id">Game 27: 1st &amp; 2nd Place : 2026 The Asian Tournament, Iloilo</title>
     <desc lang="id">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115131500 +0000" stop="20261115163000 +0000">
+  <programme channel="17140" start="20261115130000 +0000" stop="20261115135500 +0000">
+    <title lang="id">Rd 4 Bol d'Or, France : 2026 FIM EWC Highlights</title>
+    <desc lang="id">Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261115135500 +0000" stop="20261115170000 +0000">
     <title lang="id">Western European League, Stuttgart (GER) : 2026/27 Longines FEI Jumping World Cup</title>
     <desc lang="id">Top European show jumpers compete in the Longines FEI Jumping World Cup Western European League, battling for points and a place in the World Cup Final.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115163000 +0000" stop="20261115173000 +0000">
+  <programme channel="17140" start="20261115135500 +0000" stop="20261115170000 +0000">
+    <title lang="id">Western European League, Stuttgart (GER) : 2026/27 Longines FEI Jumping World Cup</title>
+    <desc lang="id">Top European show jumpers compete in the Longines FEI Jumping World Cup Western European League, battling for points and a place in the World Cup Final.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261115170000 +0000" stop="20261115180000 +0000">
     <title lang="id">Highlights : 2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
     <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115163000 +0000" stop="20261115173000 +0000">
-    <title lang="id">Highlights : 2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
-    <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+  <programme channel="17140" start="20261115180000 +0000" stop="20261115183500 +0000">
+    <title lang="id">Highlights : 2026 Global Champions League, Rabat</title>
+    <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261115173000 +0000" stop="20261115180000 +0000">
+  <programme channel="17140" start="20261115183500 +0000" stop="20261115211500 +0000">
+    <title lang="id">Day 6 Session 2 Finals : WTT Champions Frankfurt 2026</title>
+    <desc lang="id">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261115211500 +0000" stop="20261116000000 +0000">
+    <title lang="id">Milwaukee Brewers vs Tampa Bay Rays : MLB 2026 Postseason: World Series Game 1</title>
+    <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116000000 +0000" stop="20261116033000 +0000">
+    <title lang="id">Milwaukee Brewers vs Tampa Bay Rays : MLB 2026 Postseason: World Series Game 2</title>
+    <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116033000 +0000" stop="20261116050000 +0000">
+    <title lang="id">Qualifying : 2026/27 ALMS, 4 Hours of Le Castellet</title>
+    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116050000 +0000" stop="20261116100000 +0000">
+    <title lang="id">Race 1 : 2026/27 ALMS, 4 Hours of Le Castellet</title>
+    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116100000 +0000" stop="20261116150000 +0000">
+    <title lang="id">Race 2 : 2026/27 ALMS, 4 Hours of Le Castellet</title>
+    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116150000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Q1 : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116150000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Q1 : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116170000 +0000" stop="20261116173000 +0000">
     <title lang="id">Highlights : 2026 Longines Global Champions Tour, Rabat</title>
     <desc lang="id">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116173000 +0000" stop="20261116180000 +0000">
+    <title lang="id">Ep6 : 2026 MotoGP Factory Floor: the Red Bull KTM vlog</title>
+    <desc lang="id">Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116180000 +0000" stop="20261116210000 +0000">
+    <title lang="id">Western European League, Stuttgart (GER) : 2026/27 Longines FEI Jumping World Cup</title>
+    <desc lang="id">Top European show jumpers compete in the Longines FEI Jumping World Cup Western European League, battling for points and a place in the World Cup Final.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116210000 +0000" stop="20261116234500 +0000">
+    <title lang="id">Tampa Bay Rays vs Milwaukee Brewers : MLB 2026 Postseason: World Series Game 3</title>
+    <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116234500 +0000" stop="20261117033000 +0000">
+    <title lang="id">Tampa Bay Rays vs Milwaukee Brewers : MLB 2026 Postseason: World Series Game 4</title>
+    <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117033000 +0000" stop="20261117050000 +0000">
+    <title lang="id">Q2 &amp; Q3 : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117050000 +0000" stop="20261117070000 +0000">
+    <title lang="id">Group Stages : 2026 E1 World Championship Rd 6 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117070000 +0000" stop="20261117073000 +0000">
+    <title lang="id">Race Off : 2026 E1 World Championship Rd 6 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117073000 +0000" stop="20261117090000 +0000">
+    <title lang="id">Finals : 2026 E1 World Championship Rd 6 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117090000 +0000" stop="20261117110000 +0000">
+    <title lang="id">Group Stages : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117110000 +0000" stop="20261117113000 +0000">
+    <title lang="id">Rolex Middle Sea : 2026 Rolex Spirit of Yachting</title>
+    <desc lang="id">From the fast-paced SailGP Grand Prix events to offshore classics such as the Rolex Sydney Hobart Yacht Race, Rolex Spirit of Yachting showcases the foremost sailing competitions around the world.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117113000 +0000" stop="20261117120000 +0000">
+    <title lang="id">Race Off : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117120000 +0000" stop="20261117133000 +0000">
+    <title lang="id">Finals : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117133000 +0000" stop="20261117163000 +0000">
+    <title lang="id">Race 1 : 2026/27 ALMC, Le Castellet</title>
+    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261117163000 +0000" stop="20261117193000 +0000">
+    <title lang="id">Race 2 : 2026/27 ALMC, Le Castellet</title>
+    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="6362" start="20261110155000 +0000" stop="20261110173000 +0000">

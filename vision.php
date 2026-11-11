@@ -169,10 +169,13 @@
 <programme start="20261111230000 +0000" stop="20261111233000 +0000" channel="GTV.vision">
 <title>Buletin iNews Pagi</title>
 </programme>
-<programme start="20261111233000 +0000" stop="20261112010000 +0000" channel="GTV.vision">
+<programme start="20261111233000 +0000" stop="20261111234500 +0000" channel="GTV.vision">
+<title>The Helping Heroes</title>
+</programme>
+<programme start="20261111234500 +0000" stop="20261112011500 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
-<programme start="20261112010000 +0000" stop="20261112050000 +0000" channel="GTV.vision">
+<programme start="20261112011500 +0000" stop="20261112050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
 <programme start="20261112050000 +0000" stop="20261112103000 +0000" channel="GTV.vision">
@@ -631,9 +634,6 @@
 <programme start="20261111010000 +0000" stop="20261111023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
 </programme>
-<programme start="20261111023000 +0000" stop="20261111060000 +0000" channel="ANTV.vision">
-<title>Saiyaara</title>
-</programme>
 <programme start="20261111060000 +0000" stop="20261111073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -643,14 +643,8 @@
 <programme start="20261111093000 +0000" stop="20261111104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261111104500 +0000" stop="20261111131500 +0000" channel="ANTV.vision">
-<title>Raja Dangdut</title>
-</programme>
 <programme start="20261111131500 +0000" stop="20261111143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261111143000 +0000" stop="20261111164500 +0000" channel="ANTV.vision">
-<title>Bebas Aturan Main</title>
 </programme>
 <programme start="20261111164500 +0000" stop="20261111183000 +0000" channel="ANTV.vision">
 <title>Legend Of The Dragon</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261111080000 +0000" stop="20261111080300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261111080300 +0000" stop="20261111090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261111090000 +0000" stop="20261111090300 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
