@@ -3811,13 +3811,7 @@
 <programme start="20261112070000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: DP World Tour Championship, DP World Tour Golf - Day 1</title>
 </programme>
-<programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Lunchtime Live</title>
-</programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>The World Football Show</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261112130000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Austin Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112190000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -3965,7 +3959,7 @@
     <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
 </programme>
 <programme start="20261112041500 +0000" stop="20261112043500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+    <title>Women&#039;s ICC World T20 - Final 2017: England v India</title>
 </programme>
 <programme start="20261112043500 +0000" stop="20261112074000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Women&#039;s Big Bash - Melbourne Stars v Brisbane Heat</title>
@@ -4018,13 +4012,7 @@
 <programme start="20261112070000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: DP World Tour Championship, DP World Tour Golf - Day 1</title>
 </programme>
-<programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>On The Bubble</title>
-</programme>
-<programme start="20261112133000 +0000" stop="20261112143000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Simmons Bank Championship, Champions Tour Golf - Highlights</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+<programme start="20261112130000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>Live: Austin Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
@@ -4121,22 +4109,19 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Lunchtime Live</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Lunchtime Live</title>
+    <title>To Be Announced</title>
 </programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>The World Football Show</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>The World Football Show</title>
+<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sports Desk</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>Sports Desk</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>The Premier League Show - Episode 153</title>
@@ -4235,7 +4220,7 @@
     <title>Tennis: ATP Paris Masters 2026 - Final</title>
 </programme>
 <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>ATP Tour: This Week - Episode 112</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: WTA Canadian Open 2026 - Review</title>
@@ -4684,13 +4669,7 @@
 <programme start="20261112070000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: DP World Tour Championship, DP World Tour Golf - Day 1</title>
 </programme>
-<programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Lunchtime Live</title>
-</programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>The World Football Show</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261112130000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Austin Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112190000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4838,7 +4817,7 @@
     <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
 </programme>
 <programme start="20261112041500 +0000" stop="20261112043500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+    <title>Women&#039;s ICC World T20 - Final 2017: England v India</title>
 </programme>
 <programme start="20261112043500 +0000" stop="20261112074000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Women&#039;s Big Bash - Melbourne Stars v Brisbane Heat</title>
@@ -4891,13 +4870,7 @@
 <programme start="20261112070000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: DP World Tour Championship, DP World Tour Golf - Day 1</title>
 </programme>
-<programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>On The Bubble</title>
-</programme>
-<programme start="20261112133000 +0000" stop="20261112143000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Simmons Bank Championship, Champions Tour Golf - Highlights</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+<programme start="20261112130000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>Live: Austin Championship, PGA Tour Golf - Day 1: Featured Groups</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
@@ -4994,22 +4967,19 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Lunchtime Live</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Lunchtime Live</title>
+    <title>To Be Announced</title>
 </programme>
-<programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>The World Football Show</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>The World Football Show</title>
+<programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="Sky_Sports_News.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sports Desk</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>Sports Desk</title>
+    <title>To Be Announced</title>
 </programme>
 <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>The Premier League Show - Episode 153</title>
@@ -5108,7 +5078,7 @@
     <title>Tennis: ATP Paris Masters 2026 - Final</title>
 </programme>
 <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>ATP Tour: This Week - Episode 112</title>
+    <title>ATP Tour: This Week - Episode 4</title>
 </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: WTA Canadian Open 2026 - Review</title>
@@ -7604,31 +7574,22 @@
     <title>Stumbling Blocks and Stepping Stones - Sin, Temptation and Integrity</title>
 </programme>
 <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="EWTN.virginmediatv">
-    <title>Speaking of Saints - Love</title>
+    <title>Pope Leo in Peru - Meeting With The Bishops Of Peru</title>
 </programme>
-<programme start="20261112150000 +0000" stop="20261112152000 +0000" channel="EWTN.virginmediatv">
-    <title>The Chaplet of Divine Mercy</title>
+<programme start="20261112150000 +0000" stop="20261112151500 +0000" channel="EWTN.virginmediatv">
+    <title>Art of Faith With Fr. Patrick Van Der Vorst - A Painting That Shocked Victorian England - Christ In The House Of His Parents</title>
 </programme>
-<programme start="20261112152000 +0000" stop="20261112153000 +0000" channel="EWTN.virginmediatv">
-    <title>Live Adoration From EWTN Chapel - Devotion Special</title>
+<programme start="20261112151500 +0000" stop="20261112161500 +0000" channel="EWTN.virginmediatv">
+    <title>Pope Leo in Peru - Celebration Of Mid-morning Prayer</title>
 </programme>
-<programme start="20261112153000 +0000" stop="20261112154500 +0000" channel="EWTN.virginmediatv">
-    <title>Hi Lucy - Prayer</title>
+<programme start="20261112161500 +0000" stop="20261112163000 +0000" channel="EWTN.virginmediatv">
+    <title>Art of Faith With Fr. Patrick Van Der Vorst - Westminster Cathedral&#039;s Great Cross: Two Sides, One Story</title>
 </programme>
-<programme start="20261112154500 +0000" stop="20261112160000 +0000" channel="EWTN.virginmediatv">
-    <title>Adventure Catechism - WHAT ARE ANGELS? WHAT IS THE COMMUNION OF SAINTS?</title>
-</programme>
-<programme start="20261112160000 +0000" stop="20261112163000 +0000" channel="EWTN.virginmediatv">
-    <title>My Time With Jesus - Baptism</title>
-</programme>
-<programme start="20261112163000 +0000" stop="20261112170000 +0000" channel="EWTN.virginmediatv">
-    <title>Children&#039;s Rosary - Luminous Mysteries</title>
-</programme>
-<programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="EWTN.virginmediatv">
-    <title>At Home With Jim and Joy - Cassie Everts Pt. 1</title>
+<programme start="20261112163000 +0000" stop="20261112173000 +0000" channel="EWTN.virginmediatv">
+    <title>Pope Leo in Peru - Meeting On The Challenges And Hopes For The Future Of The Peruvian People</title>
 </programme>
 <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="EWTN.virginmediatv">
-    <title>Catholic Scotland - Episode 2</title>
+    <title>At Home With Jim and Joy - Cassie Everts Pt. 1</title>
 </programme>
 <programme start="20261112000000 +0000" stop="20261112003000 +0000" channel="The_God_Channel.virginmediatv">
     <title>The Guy Stein Gospel Show</title>
@@ -7709,7 +7670,7 @@
     <title>Dilo Ki Ram Leela - Episode 64</title>
 </programme>
 <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Hamari Radha - Episode 83</title>
+    <title>Humari Radha - Episode 83</title>
 </programme>
 <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Tu Hi Re Dil Mein</title>
@@ -7721,7 +7682,7 @@
     <title>Vasudha - Episode 725</title>
 </programme>
 <programme start="20261112033000 +0000" stop="20261112040000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Tum Se Tum Tak</title>
+    <title>Tumm Se Tumm Tak - Tum Se Tum Tak</title>
 </programme>
 <programme start="20261112040000 +0000" stop="20261112043000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 410</title>
@@ -7730,7 +7691,7 @@
     <title>Lakshmi Nivas - Lakshmi Nivas</title>
 </programme>
 <programme start="20261112053000 +0000" stop="20261112060000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Tum Se Tum Tak</title>
+    <title>Tumm Se Tumm Tak - Tum Se Tum Tak</title>
 </programme>
 <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Zee_TV.virginmediatv">
     <title>Ganga Mai Ki Betiyaan - Episode 404</title>
@@ -7739,16 +7700,16 @@
     <title>Ganga Mai Ki Betiyaan - Episode 405</title>
 </programme>
 <programme start="20261112130000 +0000" stop="20261112133000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 481</title>
+    <title>Tumm Se Tumm Tak - Episode 481</title>
 </programme>
 <programme start="20261112133000 +0000" stop="20261112140000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 482</title>
+    <title>Tumm Se Tumm Tak - Episode 482</title>
 </programme>
 <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 483</title>
+    <title>Tumm Se Tumm Tak - Episode 483</title>
 </programme>
 <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Tum Se Tum Tak - Episode 484</title>
+    <title>Tumm Se Tumm Tak - Episode 484</title>
 </programme>
 <programme start="20261112150000 +0000" stop="20261112153000 +0000" channel="Zee_TV.virginmediatv">
     <title>Tu Hi Re Dil Mein - Tu Hi Re Dil Mein</title>
@@ -7763,7 +7724,7 @@
     <title>Tu Hi Re Dil Mein - Episode 149</title>
 </programme>
 <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="Zee_TV.virginmediatv">
-    <title>Hamari Radha - Episode 84</title>
+    <title>Humari Radha - Episode 84</title>
 </programme>
 <programme start="20261111221700 +0000" stop="20261112001100 +0000" channel="TV5.virginmediatv">
     <title>La (très) grande évasion</title>

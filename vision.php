@@ -640,14 +640,8 @@
 <programme start="20261112093000 +0000" stop="20261112104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261112104500 +0000" stop="20261112131500 +0000" channel="ANTV.vision">
-<title>Darah Muda</title>
-</programme>
 <programme start="20261112131500 +0000" stop="20261112143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261112143000 +0000" stop="20261112164500 +0000" channel="ANTV.vision">
-<title>Bisa Naik Bisa Turun</title>
 </programme>
 <programme start="20261112164500 +0000" stop="20261112183000 +0000" channel="ANTV.vision">
 <title>Star Abyss</title>
@@ -1496,5 +1490,11 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261113050000 +0000" stop="20261113070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
