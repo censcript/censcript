@@ -1612,8 +1612,14 @@
 <programme start="20261112123000 +0000" stop="20261112124500 +0000" channel="ITV4_HD.virginmediatv">
     <title>The Best of the 70s</title>
 </programme>
-<programme start="20261112124500 +0000" stop="20261112173000 +0000" channel="ITV4_HD.virginmediatv">
+<programme start="20261112124500 +0000" stop="20261112170000 +0000" channel="ITV4_HD.virginmediatv">
     <title>Live: Champion of Champions Snooker - Day 4</title>
+</programme>
+<programme start="20261112170000 +0000" stop="20261112171500 +0000" channel="ITV4_HD.virginmediatv">
+    <title>Football League Legends</title>
+</programme>
+<programme start="20261112171500 +0000" stop="20261112173000 +0000" channel="ITV4_HD.virginmediatv">
+    <title>The Best of the 80s</title>
 </programme>
 <programme start="20261112173000 +0000" stop="20261112183500 +0000" channel="ITV4_HD.virginmediatv">
     <title>Minder - Cruel Canal</title>
@@ -3805,7 +3811,7 @@
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261112070000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4109,19 +4115,19 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="Sky_Sports_News_HD.virginmediatv">
     <title>The Premier League Show - Episode 153</title>
@@ -4258,8 +4264,8 @@
 <programme start="20261112170000 +0000" stop="20261112221500 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Stateside</title>
 </programme>
-<programme start="20261111120000 +0000" stop="20261112003000 +0000" channel="Racing_UK.virginmediatv">
-    <title>Irish Racing Replay</title>
+<programme start="20261111224500 +0000" stop="20261112003000 +0000" channel="Racing_UK.virginmediatv">
+    <title>Racing Replay</title>
 </programme>
 <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
@@ -4291,8 +4297,8 @@
 <programme start="20261112173000 +0000" stop="20261112183000 +0000" channel="Racing_UK.virginmediatv">
     <title>Irish Racing Replay</title>
 </programme>
-<programme start="20261111120000 +0000" stop="20261112003000 +0000" channel="Racing_TV_HD.virginmediatv">
-    <title>Irish Racing Replay</title>
+<programme start="20261111224500 +0000" stop="20261112003000 +0000" channel="Racing_TV_HD.virginmediatv">
+    <title>Racing Replay</title>
 </programme>
 <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="Racing_TV_HD.virginmediatv">
     <title>Irish Racing Replay</title>
@@ -4663,7 +4669,7 @@
 <programme start="20261112040000 +0000" stop="20261112050000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
-<programme start="20261112050000 +0000" stop="20261112070000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261112070000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -4967,19 +4973,19 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261112120000 +0000" stop="20261112130000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112130000 +0000" stop="20261112140000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112140000 +0000" stop="20261112150000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112150000 +0000" stop="20261112160000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112160000 +0000" stop="20261112170000 +0000" channel="Sky_Sports_News.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Manchester United sack Carrick</title>
 </programme>
 <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="Sky_Sports_News.virginmediatv">
     <title>The Premier League Show - Episode 153</title>
@@ -6581,7 +6587,7 @@
     <title>The Amazing World of Gumball - The Skull; Christmas; The Watch</title>
 </programme>
 <programme start="20261112050000 +0000" stop="20261112060000 +0000" channel="Cartoon_Network.virginmediatv">
-    <title>Prince Ivandoe - The Prince and The Valiant Quest; The Prince and The Chicken Of Doom; The Prince and The Sing-Songy Stag; The Prince and The Tears Of Triumph; The Pri</title>
+    <title>Prince Ivandoe - The Prince and The Valiant Quest; The Prince and The Chicken Of Doom; The Prince and The Sing-Songy Stag; The Prince and The Tears Of Triumph</title>
 </programme>
 <programme start="20261112120000 +0000" stop="20261112123000 +0000" channel="Cartoon_Network.virginmediatv">
     <title>Regular Show - Death Bear; Prankless</title>
@@ -6617,10 +6623,10 @@
     <title>Regular Show: The Lost Tapes - Clean the Living Room; Artist&#039;s Block</title>
 </programme>
 <programme start="20261112000000 +0000" stop="20261112010000 +0000" channel="Cartoonito.virginmediatv">
-    <title>Grizzy and the Lemmings - Make Peace Not War; Disguised Reality; Folds and Folds Again; Cartoon Bear; XXL Bear; Never Judge a Bear by Its Cover; Bear Glasses; Bear Under Close </title>
+    <title>Grizzy and the Lemmings - Make Peace Not War; Disguised Reality; Folds and Folds Again; Cartoon Bear; XXL Bear; Never Judge a Bear by Its Cover; Bear Glasses</title>
 </programme>
 <programme start="20261112010000 +0000" stop="20261112020500 +0000" channel="Cartoonito.virginmediatv">
-    <title>Masha and the Bear - No Trespassing!; Hide and Seek Is Not for the Weak; Watch Out!; Little Cousin; Get Well Soon!; Recipe for Disaster; Laundry Day; The Grand Piano Lesso</title>
+    <title>Masha and the Bear - No Trespassing!; Hide and Seek Is Not for the Weak; Watch Out!; Little Cousin; Get Well Soon!; Recipe for Disaster; Laundry Day; Grand Piano Lesson</title>
 </programme>
 <programme start="20261112020500 +0000" stop="20261112030000 +0000" channel="Cartoonito.virginmediatv">
     <title>Fireman Sam - Keep Calm and Upwards Octopus; Go-Cart Challenge; Mystery of the Pontypandy Werefox; Steele&#039;s Big Day; Hot Potato; Boar Breakout</title>
