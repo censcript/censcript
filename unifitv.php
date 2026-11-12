@@ -4210,10 +4210,17 @@
     <episode-num system="xmltv_ns">3.20261111.</episode-num>
     <episode-num system="onscreen">S4E20261112</episode-num>
   </programme>
-  <programme start="20261112020300 +0000" stop="20261112023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA INSIGHT</title>
-    <desc lang="en">The newly launched observation documentary program. Each issue takes a foreigner as the protagonist, travels all over China and observes China's social conditions and Chinese people's life from a close perspective.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261112020300 +0000" stop="20261112022800 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">APPROACHING APEC SPECIAL</title>
+    <desc lang="en">Approaching APEC Special is a current affairs and economic special covering the 2026 Asia-Pacific Economic Cooperation (APEC) summit hosted in Shenzhen, China. The program explores regional trade dynamics, Asia-Pacific economic integration, technological cooperation, and diplomatic developments among member economies leading up to and during the summit.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.20261111.</episode-num>
+    <episode-num system="onscreen">S1E20261112</episode-num>
+  </programme>
+  <programme start="20261112022800 +0000" stop="20261112023300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">PHOENIX WEATHER FORECAST</title>
+    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
+    <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20261111.</episode-num>
     <episode-num system="onscreen">S1E20261112</episode-num>
   </programme>
@@ -4280,10 +4287,17 @@
     <episode-num system="xmltv_ns">3.20261111.</episode-num>
     <episode-num system="onscreen">S4E20261112</episode-num>
   </programme>
-  <programme start="20261112070300 +0000" stop="20261112073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">CHINA INSIGHT</title>
-    <desc lang="en">The newly launched observation documentary program. Each issue takes a foreigner as the protagonist, travels all over China and observes China's social conditions and Chinese people's life from a close perspective.</desc>
-    <category lang="en">Documentary</category>
+  <programme start="20261112070300 +0000" stop="20261112072800 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">APPROACHING APEC SPECIAL</title>
+    <desc lang="en">Approaching APEC Special is a current affairs and economic special covering the 2026 Asia-Pacific Economic Cooperation (APEC) summit hosted in Shenzhen, China. The program explores regional trade dynamics, Asia-Pacific economic integration, technological cooperation, and diplomatic developments among member economies leading up to and during the summit.</desc>
+    <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.20261111.</episode-num>
+    <episode-num system="onscreen">S1E20261112</episode-num>
+  </programme>
+  <programme start="20261112072800 +0000" stop="20261112073300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">PHOENIX WEATHER FORECAST</title>
+    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
+    <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20261111.</episode-num>
     <episode-num system="onscreen">S1E20261112</episode-num>
   </programme>
@@ -15159,9 +15173,49 @@
     <desc lang="en">Some of the best goals from Miguel de las Cuevas during his time at Sporting Gijon.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261112060000 +0000" stop="20261112153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261112060000 +0000" stop="20261112083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 311: Makhachev vs Moicano</title>
     <desc lang="en">Champion Islam Makhachev looks to break the record for the most consecutive UFC Lightweight title defenses as he faces fan favorite Renato Moicano in the main event of UFC 311, while Bantamweight Champion Merab Dvalishvili defends his belt for the first time against undefeated Umar Nurmagomedov in the co-main. Plus much more action on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112083000 +0000" stop="20261112090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 3</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 3</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - Usman vs. Edwards 2</title>
+    <desc lang="en">UFC 278 was headlined by a rematch between long reigning middleweight king Kamaru “The Nigerian Nightmare” Usman and UFC vet Leon “Rocky” Edwards. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112100000 +0000" stop="20261112123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 312: Du Plessis vs Strickland</title>
+    <desc lang="en">UFC returns down under to Sydney, Austalia, where Middleweight champion Dricus Du Plessis defends his crown against Sean Strickland, the man he took it from, and undefeated TUF 23 winner Tatiana Suarez aims to unseat 2-time champion Zhang Weili for the Women's Strawweight title. Plus more on UFC Reloaded!</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112123000 +0000" stop="20261112130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - Dana White's Contender Series Alum</title>
+    <desc lang="en">UFC Ultimate Knockouts delivers jaw-dropping finishes from fighters who earned their spots through Dana White's Contender Series. See rising stars and future champions like Jack Della Maddalena, Carlos Prates, Sean O'Malley, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112130000 +0000" stop="20261112135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 320: Ankalaev vs Pereira</title>
+    <desc lang="en">UFC 320 Countdown previews two title fights. In the main event, Magomed Ankalaev battles Alex Pereira in a rematch for the light heavyweight crown. In the co-main event, Merab Dvalishvili puts his bantamweight belt on the line against Cory Sandhagen</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112135500 +0000" stop="20261112140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA TOP GOALS - GUAYRE BETANCOR</title>
+    <desc lang="en">A selection of top goals from Guayre, a leading light for Villarreal in their push to become one of LaLiga's elite.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261112140000 +0000" stop="20261112195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Cortes Acosta vs. Walker - Main</title>
+    <desc lang="en">Waldo Cortes-Acosta faces Johnny Walker in the heavyweight main event at UFC Fight Night: Cortes Acosta vs. Walker (also known as UFC Vegas 124) on Saturday, November 8, 2026, at the Meta APEX in Las Vegas, Nevada.</desc>
     <category lang="en">Sports</category>
   </programme>
   <channel id="spotv.unifitv">
@@ -15265,7 +15319,12 @@
     <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
     <category lang="en">Extreme Sports</category>
   </programme>
-  <programme start="20261111223000 +0000" stop="20261112020000 +0000" channel="spotv2.unifitv">
+  <programme start="20261111223000 +0000" stop="20261111230000 +0000" channel="spotv2.unifitv">
+    <title lang="en">SailGP: Racing on the Edge S6 - Ep 6</title>
+    <desc lang="en">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
+    <category lang="en">Sailing</category>
+  </programme>
+  <programme start="20261111230000 +0000" stop="20261112020000 +0000" channel="spotv2.unifitv">
     <title lang="en">WTT Champions Frankfurt 2026 - Day 3 Session 2</title>
     <desc lang="en">The world's top table tennis players compete for WTT Champions glory, showcasing elite skill, fierce rivalries, and world-class action in the race for valuable ranking points.</desc>
     <category lang="en">Table Tennis</category>
@@ -15285,17 +15344,17 @@
     <desc lang="en">Asia's rising young riders battle it out on track in this exciting development series, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261112080000 +0000" stop="20261112111500 +0000" channel="spotv2.unifitv">
+  <programme start="20261112080000 +0000" stop="20261112112000 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar - Free Practice 2/Qualifying</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261112111500 +0000" stop="20261112143000 +0000" channel="spotv2.unifitv">
+  <programme start="20261112112000 +0000" stop="20261112144500 +0000" channel="spotv2.unifitv">
     <title lang="en">2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar - Qualifying/Sprint</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <category lang="en">Motorsports</category>
   </programme>
-  <programme start="20261112143000 +0000" stop="20261112163000 +0000" channel="spotv2.unifitv">
+  <programme start="20261112144500 +0000" stop="20261112163000 +0000" channel="spotv2.unifitv">
     <title lang="en">Lexus Melbourne Cup 2026</title>
     <desc lang="en">A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
     <category lang="en">Extreme Sports</category>
@@ -15304,7 +15363,7 @@
     <display-name>beIN SPORTS 1</display-name>
   </channel>
   <programme start="20261111145000 +0000" stop="20261111170000 +0000" channel="beinsports.unifitv">
-    <title lang="en">CAF WCL - SF2 (L)</title>
+    <title lang="en">CAF WCL - Sundowns Ladies vs Kawempe Muslim Ladies - SF2 (L)</title>
     <desc lang="en">Watch the 6th edition of CAF Women's Champions League hosted in Egypt</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15507,12 +15566,12 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Madrid P1</title>
+    <title lang="en">Premier Padel Highlights - Rotterdam P2</title>
     <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112143000 +0000" stop="20261112150000 +0000" channel="beinsports2.unifitv">
-    <title lang="en">Premier Padel Highlights - Paris Major</title>
+    <title lang="en">Premier Padel Highlights - Germany P2</title>
     <desc lang="en">Highlights of the Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15549,13 +15608,18 @@
     <desc lang="en">Take a walk back in time and relive some of the most dramatic and remarkable moments in the UEFA Europa League</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261111174000 +0000" stop="20261111195500 +0000" channel="beinsports3.unifitv">
+  <programme start="20261111174000 +0000" stop="20261111194500 +0000" channel="beinsports3.unifitv">
     <title lang="en">UEFA Women's Champions League - OH Leuven vs HB Koge - MD4 (L)</title>
     <desc lang="en">Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261111195500 +0000" stop="20261111220000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Women's Champions League - Benfica vs Austria Wien - MD4 (L)</title>
+  <programme start="20261111194500 +0000" stop="20261111200000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UWCL Specials - UWCL - All Goals - Barcelona (Including Final) - 2025/26</title>
+    <desc lang="en">UWCL Specials - UWCL - All Goals - Barcelona (Including Final) - 2025/26</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261111200000 +0000" stop="20261111220000 +0000" channel="beinsports3.unifitv">
+    <title lang="en">UEFA Women's Champions League - Real Madrid vs Paris - MD4</title>
     <desc lang="en">Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15575,7 +15639,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112033000 +0000" stop="20261112052000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Women's Champions League - Benfica vs Austria Wien - MD4</title>
+    <title lang="en">UEFA Women's Champions League - PSG vs Bayern - MD4</title>
     <desc lang="en">Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15590,8 +15654,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Women's Champions League Highlights - MD4</title>
-    <desc lang="en">Don't miss any of the action with the official UEFA Women's Champions League highlights show.</desc>
+    <title lang="en">MUTV: Treble Twenty - Aston Villa vs Man Utd</title>
+    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="beinsports3.unifitv">
@@ -15600,7 +15664,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112100000 +0000" stop="20261112115000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Women's Champions League - Benfica vs Austria Wien - MD4</title>
+    <title lang="en">UEFA Women's Champions League - OH Leuven vs HB Koge - MD4</title>
     <desc lang="en">Catch all the exhilarating and high quality action involving the best clubs in Europe's most prestigious women's football competition.</desc>
     <category lang="en">Sports</category>
   </programme>
@@ -15615,8 +15679,8 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">UEFA Women's Champions League Highlights - MD4</title>
-    <desc lang="en">Don't miss any of the action with the official UEFA Women's Champions League highlights show.</desc>
+    <title lang="en">MUTV: Treble Twenty - Aston Villa vs Man Utd</title>
+    <desc lang="en">Enjoy every Manchester United match from the Premier League, FA Cup and Carabao Cup and friendlies, from MUTV on beIN SPORTS</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261112143000 +0000" stop="20261112144500 +0000" channel="beinsports3.unifitv">

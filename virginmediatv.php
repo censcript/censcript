@@ -2324,7 +2324,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261112003000 +0000" stop="20261112010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast</title>
+    <title>Tech Now - Wildfires: Fighting Hidden Hotspots</title>
 </programme>
 <programme start="20261112010000 +0000" stop="20261112013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -4355,7 +4355,7 @@
     <title>The Official United Podcast - Inside Carrington - Youri Tielemans</title>
 </programme>
 <programme start="20261112050000 +0000" stop="20261112054500 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Kings of the World</title>
+    <title>Channel Off Air</title>
 </programme>
 <programme start="20261112054500 +0000" stop="20261112063000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Breaking Barriers</title>

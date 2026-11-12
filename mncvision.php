@@ -1325,7 +1325,7 @@
     <title>UCL 2026/27: PSV Vs CLU</title>
 </programme>
 <programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UWCL Highlights 2026/27</title>
+    <title>MUTV Treble 20: AVL Vs MUN</title>
 </programme>
 <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV Treble 20: TOT Vs MUN</title>
@@ -1340,7 +1340,7 @@
     <title>MUTV Specials: Reds In Europe</title>
 </programme>
 <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="beIN Sports 3.mncvision">
-    <title>UWCL Highlights 2026/27</title>
+    <title>MUTV Treble 20: AVL Vs MUN</title>
 </programme>
 <programme start="20261112143000 +0000" stop="20261112144500 +0000" channel="beIN Sports 3.mncvision">
     <title>MUTV Top Ten: Dimitar Berbatov</title>
@@ -1382,7 +1382,7 @@
     <title>UCL 2026/27: PSV Vs CLU</title>
 </programme>
 <programme start="20261112090000 +0000" stop="20261112093000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UWCL Highlights 2026/27</title>
+    <title>MUTV Treble 20: AVL Vs MUN</title>
 </programme>
 <programme start="20261112093000 +0000" stop="20261112100000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV Treble 20: TOT Vs MUN</title>
@@ -1397,7 +1397,7 @@
     <title>MUTV Specials: Reds In Europe</title>
 </programme>
 <programme start="20261112140000 +0000" stop="20261112143000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>UWCL Highlights 2026/27</title>
+    <title>MUTV Treble 20: AVL Vs MUN</title>
 </programme>
 <programme start="20261112143000 +0000" stop="20261112144500 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>MUTV Top Ten: Dimitar Berbatov</title>

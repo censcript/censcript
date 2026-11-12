@@ -1,4 +1,7 @@
-<programme start="20261111224500 +0000" stop="20261112031500 +0000" channel="RCTI.vision">
+<programme start="20261111224500 +0000" stop="20261112010000 +0000" channel="RCTI.vision">
+<title>Putri Untuk Pangeran</title>
+</programme>
+<programme start="20261112010000 +0000" stop="20261112031500 +0000" channel="RCTI.vision">
 <title>Cinta Berakhir Bahagia Adisty</title>
 </programme>
 <programme start="20261112031500 +0000" stop="20261112034500 +0000" channel="RCTI.vision">
@@ -37,7 +40,10 @@
 <programme start="20261112221500 +0000" stop="20261112224500 +0000" channel="RCTI.vision">
 <title>Seputar iNews</title>
 </programme>
-<programme start="20261112224500 +0000" stop="20261113031500 +0000" channel="RCTI.vision">
+<programme start="20261112224500 +0000" stop="20261113010000 +0000" channel="RCTI.vision">
+<title>Putri Untuk Pangeran</title>
+</programme>
+<programme start="20261113010000 +0000" stop="20261113031500 +0000" channel="RCTI.vision">
 <title>Cinta Berakhir Bahagia Adisty</title>
 </programme>
 <programme start="20261113031500 +0000" stop="20261113034500 +0000" channel="RCTI.vision">
@@ -624,9 +630,6 @@
 </programme>
 <programme start="20261112010000 +0000" stop="20261112023000 +0000" channel="ANTV.vision">
 <title>Jaane Anjaane</title>
-</programme>
-<programme start="20261112023000 +0000" stop="20261112060000 +0000" channel="ANTV.vision">
-<title>Bang Bang</title>
 </programme>
 <programme start="20261112060000 +0000" stop="20261112073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1493,8 +1496,5 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261113050000 +0000" stop="20261113070000 +0000" channel="TVRI.vision">
-<title>TVRI</title>
-</programme>
-<programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

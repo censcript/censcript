@@ -34,22 +34,22 @@
     <programme start="20261112061100 +0000" stop="20261112063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20261112063000 +0000" stop="20261112080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261112063000 +0000" stop="20261112080200 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20261112080000 +0000" stop="20261112082500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261112080200 +0000" stop="20261112082300 +0000" channel="VTV1 HD.mytv">
         <title> Việt Nam đa sắc </title>
     </programme>
-    <programme start="20261112082500 +0000" stop="20261112083000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261112082300 +0000" stop="20261112082800 +0000" channel="VTV1 HD.mytv">
         <title> Nẻo về nguồn cội: Tranh sơn mài - Tinh hoa nghệ thuật Việt </title>
     </programme>
-    <programme start="20261112083000 +0000" stop="20261112084500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261112082800 +0000" stop="20261112084100 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Người giữ tiếng khèn Mông </title>
     </programme>
-    <programme start="20261112084500 +0000" stop="20261112090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261112084100 +0000" stop="20261112090500 +0000" channel="VTV1 HD.mytv">
         <title> Truyền hình trực tiếp: Phiên chất vấn và trả lời chất vấn tại kỳ họp thứ Hai, Quốc hội khóa XVI </title>
     </programme>
-    <programme start="20261112090000 +0000" stop="20261112103000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261112090500 +0000" stop="20261112103000 +0000" channel="VTV1 HD.mytv">
         <title> Bản tin </title>
     </programme>
     <programme start="20261112103000 +0000" stop="20261112104500 +0000" channel="VTV1 HD.mytv">
