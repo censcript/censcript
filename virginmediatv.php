@@ -335,7 +335,7 @@
     <title>Question Time - 2026:12/11/2026</title>
 </programme>
 <programme start="20261113002000 +0000" stop="20261113005000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Newscast - Episode 16</title>
+    <title>Newscast - Are Under-25s About to Lose Sickness Benefits?</title>
 </programme>
 <programme start="20261113005000 +0000" stop="20261113013500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Wisdom of the Crowd - Episode 8</title>
@@ -1876,14 +1876,20 @@
 <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="Discovery_Turbo.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20261113073000 +0000" stop="20261113140000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>How Do They Do It? - Liferafts; Mind Control; Stamps</title>
+<programme start="20261113120000 +0000" stop="20261113130000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Richard Hammond&#039;s Big! - World Biggest Car Factory</title>
+</programme>
+<programme start="20261113130000 +0000" stop="20261113140000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Junkyard Empire - The Big Red Build</title>
 </programme>
 <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Massive Engineering Mistakes - Kansas City Skywalk Disaster</title>
+    <title>Doing Da Vinci - Springald Cannon</title>
 </programme>
-<programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="Discovery_Turbo.virginmediatv">
-    <title>Massive Engineering Mistakes - Pennsylvania Ice Flood</title>
+<programme start="20261113150000 +0000" stop="20261113160000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Massive Engineering Mistakes - Episode 9</title>
+</programme>
+<programme start="20261113160000 +0000" stop="20261113170000 +0000" channel="Discovery_Turbo.virginmediatv">
+    <title>Ant Anstead: Born Mechanic - Land Rover</title>
 </programme>
 <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="Discovery_Turbo.virginmediatv">
     <title>Francis Bourgeois and Chris Harris: We Saved a Train - Power Play</title>
@@ -2321,7 +2327,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast - Episode 16</title>
+    <title>Newscast - Are Under-25s About to Lose Sickness Benefits?</title>
 </programme>
 <programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -3757,7 +3763,7 @@
 <programme start="20261113000000 +0000" stop="20261113051500 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: NFL Football - Washington Commanders at New York Giants</title>
 </programme>
-<programme start="20261113051500 +0000" stop="20261113070000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
+<programme start="20261113051500 +0000" stop="20261113060000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261113070000 +0000" stop="20261113130000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
@@ -4579,7 +4585,7 @@
 <programme start="20261113000000 +0000" stop="20261113051500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: NFL Football - Washington Commanders at New York Giants</title>
 </programme>
-<programme start="20261113051500 +0000" stop="20261113070000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
+<programme start="20261113051500 +0000" stop="20261113060000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261113070000 +0000" stop="20261113130000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
@@ -6031,7 +6037,7 @@
 <programme start="20261112185800 +0000" stop="20261113025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261113025800 +0000" stop="20261113070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261113025800 +0000" stop="20261113060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261113115000 +0000" stop="20261113121500 +0000" channel="CBBC.virginmediatv">

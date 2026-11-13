@@ -637,12 +637,6 @@
 <programme start="20261113131500 +0000" stop="20261113143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261113143000 +0000" stop="20261113164500 +0000" channel="ANTV.vision">
-<title>Makin Lama Makin Asik</title>
-</programme>
-<programme start="20261113164500 +0000" stop="20261113183000 +0000" channel="ANTV.vision">
-<title>Lop Nor Tomb</title>
-</programme>
 <programme start="20261113183000 +0000" stop="20261113193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261114024900 +0000" stop="20261114025400 +0000" channel="Originals.vision">
 <title>4 Celebrities: Serial Cheaters</title>
+</programme>
+<programme start="20261114025400 +0000" stop="20261114043300 +0000" channel="Originals.vision">
+<title>Borrego</title>
+</programme>
+<programme start="20261114043300 +0000" stop="20261114044200 +0000" channel="Originals.vision">
+<title>73 Questions With Emma Stone</title>
 </programme>
