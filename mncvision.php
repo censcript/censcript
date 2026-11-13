@@ -2936,7 +2936,7 @@
     <title>The Day: News In Review</title>
 </programme>
 <programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: People</title>
+    <title>Focus On Europe: Closer To EU</title>
 </programme>
 <programme start="20261113030000 +0000" stop="20261113030200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -2945,7 +2945,7 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20261113031500 +0000" stop="20261113033000 +0000" channel="DW English.mncvision">
-    <title>Mapped Out: Turkey Energy</title>
+    <title>Mapped Out: Turkey&#039;s Big Bet</title>
 </programme>
 <programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="DW English.mncvision">
     <title>Made In Germany</title>
@@ -2975,10 +2975,10 @@
     <title>DW News Focus</title>
 </programme>
 <programme start="20261113061500 +0000" stop="20261113063000 +0000" channel="DW English.mncvision">
-    <title>Mapped Out: Turkey Energy</title>
+    <title>Mapped Out: Turkey&#039;s Big Bet</title>
 </programme>
 <programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="DW English.mncvision">
-    <title>Best Of DW Podcasts</title>
+    <title>Berlin Briefing: Democracy Won</title>
 </programme>
 <programme start="20261113070000 +0000" stop="20261113070200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -8150,7 +8150,7 @@
     <title>The Championship Wimbledon</title>
 </programme>
 <programme start="20261113163000 +0000" stop="20261112170000 +0000" channel="Sportstars.mncvision">
-    <title>Triton One Poker (L)</title>
+    <title>Triton One Poker</title>
 </programme>
 <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="Sportstars 2.mncvision">
     <title>Top Goals</title>
@@ -8495,7 +8495,7 @@
     <title>The Championship Wimbledon</title>
 </programme>
 <programme start="20261113163000 +0000" stop="20261112170000 +0000" channel="Sportstars HD.mncvision">
-    <title>Triton One Poker (L)</title>
+    <title>Triton One Poker</title>
 </programme>
 <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="SPOTV.mncvision">
     <title>ALM Mini Match: MAC Vs BRI</title>

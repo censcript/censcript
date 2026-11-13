@@ -1312,9 +1312,6 @@
 <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="BTV.vision">
 <title>Jendela Nusantara</title>
 </programme>
-<programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="BTV.vision">
-<title>Money Lab</title>
-</programme>
 <programme start="20261113040000 +0000" stop="20261113050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
@@ -1496,5 +1493,8 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261114010000 +0000" stop="20261114030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261114030000 +0000" stop="20261114050000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

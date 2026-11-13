@@ -12648,14 +12648,12 @@
   </programme>
   <programme start="20261112193300 +0000" stop="20261112200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">The founder of India's Cockroach movement says the government must be held to account and stop ignoring the youth.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.505.</episode-num>
-    <episode-num system="onscreen">S1E506</episode-num>
   </programme>
   <programme start="20261112200300 +0000" stop="20261112210300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera English:</title>
-    <desc lang="en">After 20 years of AJE on the air we reflect on the channel's development as an important media pillar and how it has proven to be the voice of the voiceless.</desc>
+    <title lang="en">The Campaign Against</title>
+    <desc lang="en">The shocking exposure of the million dollar, 30-year climate change denial campaign that undermined science and cast doubt on the dangers of climate change.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261112210300 +0000" stop="20261112220300 +0000" channel="aljazeera.unifitv">
@@ -12754,7 +12752,7 @@
   </programme>
   <programme start="20261113083300 +0000" stop="20261113090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc lang="en">From France's student protests to Spain's housing crisis, can Europe deliver the future young people are demanding?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
@@ -12787,8 +12785,8 @@
     <episode-num system="onscreen">S1E1499</episode-num>
   </programme>
   <programme start="20261113120300 +0000" stop="20261113130300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">Al Jazeera English:</title>
-    <desc lang="en">After 20 years of AJE on the air we reflect on the channel's development as an important media pillar and how it has proven to be the voice of the voiceless.</desc>
+    <title lang="en">The Campaign Against</title>
+    <desc lang="en">The shocking exposure of the million dollar, 30-year climate change denial campaign that undermined science and cast doubt on the dangers of climate change.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261113130300 +0000" stop="20261113140300 +0000" channel="aljazeera.unifitv">
