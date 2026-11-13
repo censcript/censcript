@@ -4178,7 +4178,7 @@
     <title>Shandi Kala Spc. Bancakan</title>
 </programme>
 <programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="Hanacaraka TV.mncvision">
-    <title>Wayang Kulit Semalam Suntuk (L)</title>
+    <title>Wayang Kulit: Sukoharjo (L)</title>
 </programme>
 <programme start="20261112173500 +0000" stop="20261112183000 +0000" channel="History.mncvision">
     <title>Greatest Warriors, Ep 2</title>
@@ -4783,11 +4783,8 @@
 <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="iNews.mncvision">
     <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20261113063000 +0000" stop="20261113074500 +0000" channel="iNews.mncvision">
+<programme start="20261113063000 +0000" stop="20261113091500 +0000" channel="iNews.mncvision">
     <title>Breaking News (L)</title>
-</programme>
-<programme start="20261113074500 +0000" stop="20261113091500 +0000" channel="iNews.mncvision">
-    <title>Realita (L)</title>
 </programme>
 <programme start="20261113091500 +0000" stop="20261113120000 +0000" channel="iNews.mncvision">
     <title>iNews Sore (L)</title>
@@ -4867,11 +4864,8 @@
 <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="iNews HD.mncvision">
     <title>Pemimpin Rakyat (L)</title>
 </programme>
-<programme start="20261113063000 +0000" stop="20261113074500 +0000" channel="iNews HD.mncvision">
+<programme start="20261113063000 +0000" stop="20261113091500 +0000" channel="iNews HD.mncvision">
     <title>Breaking News (L)</title>
-</programme>
-<programme start="20261113074500 +0000" stop="20261113091500 +0000" channel="iNews HD.mncvision">
-    <title>Realita (L)</title>
 </programme>
 <programme start="20261113091500 +0000" stop="20261113120000 +0000" channel="iNews HD.mncvision">
     <title>iNews Sore (L)</title>
@@ -5053,17 +5047,20 @@
 <programme start="20261113073000 +0000" stop="20261113090000 +0000" channel="Kids TV.mncvision">
     <title>Upin &amp; Ipin Geng Durian Runtuh</title>
 </programme>
-<programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="Kids TV.mncvision">
+<programme start="20261113090000 +0000" stop="20261113103000 +0000" channel="Kids TV.mncvision">
     <title>Petualangan Upin &amp; Ipin</title>
+</programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="Kids TV.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="Kids TV.mncvision">
     <title>Gecko&#039;s Garage</title>
 </programme>
 <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Kids TV.mncvision">
-    <title>Morphle</title>
+    <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="Kids TV.mncvision">
-    <title>Upin &amp; Ipin Bermula</title>
+    <title>Morphle</title>
 </programme>
 <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Kids TV.mncvision">
     <title>Thomas &amp; Friends S27</title>
@@ -5185,17 +5182,20 @@
 <programme start="20261113073000 +0000" stop="20261113090000 +0000" channel="Kids TV HD.mncvision">
     <title>Upin &amp; Ipin Geng Durian Runtuh</title>
 </programme>
-<programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20261113090000 +0000" stop="20261113103000 +0000" channel="Kids TV HD.mncvision">
     <title>Petualangan Upin &amp; Ipin</title>
+</programme>
+<programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="Kids TV HD.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="Kids TV HD.mncvision">
     <title>Gecko&#039;s Garage</title>
 </programme>
 <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="Kids TV HD.mncvision">
-    <title>Morphle</title>
+    <title>Upin &amp; Ipin Bermula</title>
 </programme>
 <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="Kids TV HD.mncvision">
-    <title>Upin &amp; Ipin Bermula</title>
+    <title>Morphle</title>
 </programme>
 <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="Kids TV HD.mncvision">
     <title>Thomas &amp; Friends S27</title>
@@ -7754,103 +7754,103 @@
     <title>Cinta Bersemi Di Jumat Bersih</title>
 </programme>
 <programme start="20261112184500 +0000" stop="20261112200000 +0000" channel="SCTV.mncvision">
-    <title>Sinema Malam</title>
+    <title>Hati-Hati Memilih Hati</title>
 </programme>
-<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="SCTV.mncvision">
-    <title>Sinema Dini Hari</title>
+<programme start="20261112200000 +0000" stop="20261112210600 +0000" channel="SCTV.mncvision">
+    <title>Cinta Putri Keraton</title>
 </programme>
-<programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="SCTV.mncvision">
+<programme start="20261112210600 +0000" stop="20261112213300 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="SCTV.mncvision">
+<programme start="20261112213300 +0000" stop="20261112215500 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="SCTV.mncvision">
+<programme start="20261112215500 +0000" stop="20261112230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="SCTV.mncvision">
+<programme start="20261112230000 +0000" stop="20261113001400 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="SCTV.mncvision">
+<programme start="20261113001400 +0000" stop="20261113012200 +0000" channel="SCTV.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="SCTV.mncvision">
+<programme start="20261113012200 +0000" stop="20261113025600 +0000" channel="SCTV.mncvision">
     <title>Bidadari Kok Bisa Jadi Prok...</title>
 </programme>
-<programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="SCTV.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20261113025600 +0000" stop="20261113045400 +0000" channel="SCTV.mncvision">
+    <title>Bidadari Sepatu Roda</title>
 </programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="SCTV.mncvision">
+<programme start="20261113045400 +0000" stop="20261113052900 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261113053000 +0000" stop="20261113100000 +0000" channel="SCTV.mncvision">
+<programme start="20261113052900 +0000" stop="20261113100000 +0000" channel="SCTV.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20261113100000 +0000" stop="20261113111500 +0000" channel="SCTV.mncvision">
+<programme start="20261113100000 +0000" stop="20261113112700 +0000" channel="SCTV.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261113111500 +0000" stop="20261113130000 +0000" channel="SCTV.mncvision">
+<programme start="20261113112700 +0000" stop="20261113125200 +0000" channel="SCTV.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261113130000 +0000" stop="20261113143000 +0000" channel="SCTV.mncvision">
+<programme start="20261113125200 +0000" stop="20261113143000 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261113143000 +0000" stop="20261113160000 +0000" channel="SCTV.mncvision">
+<programme start="20261113143000 +0000" stop="20261113155200 +0000" channel="SCTV.mncvision">
     <title>Kesetiaan</title>
 </programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="SCTV.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20261113155200 +0000" stop="20261113162200 +0000" channel="SCTV.mncvision">
+    <title>Bidadari Em(p)ang Terbaik</title>
 </programme>
 <programme start="20261112173000 +0000" stop="20261112184500 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Bersemi Di Jumat Bersih</title>
 </programme>
 <programme start="20261112184500 +0000" stop="20261112200000 +0000" channel="SCTV HD.mncvision">
-    <title>Sinema Malam</title>
+    <title>Hati-Hati Memilih Hati</title>
 </programme>
-<programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="SCTV HD.mncvision">
-    <title>Sinema Dini Hari</title>
+<programme start="20261112200000 +0000" stop="20261112210600 +0000" channel="SCTV HD.mncvision">
+    <title>Cinta Putri Keraton</title>
 </programme>
-<programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261112210600 +0000" stop="20261112213300 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261112213300 +0000" stop="20261112215500 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20261112220000 +0000" stop="20261112230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261112215500 +0000" stop="20261112230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
-<programme start="20261112230000 +0000" stop="20261113000000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261112230000 +0000" stop="20261113001400 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113001400 +0000" stop="20261113012200 +0000" channel="SCTV HD.mncvision">
     <title>Tiba-Tiba Kuis</title>
 </programme>
-<programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113012200 +0000" stop="20261113025600 +0000" channel="SCTV HD.mncvision">
     <title>Bidadari Kok Bisa Jadi Prok...</title>
 </programme>
-<programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="SCTV HD.mncvision">
-    <title>SCTV FTV Pagi</title>
+<programme start="20261113025600 +0000" stop="20261113045400 +0000" channel="SCTV HD.mncvision">
+    <title>Bidadari Sepatu Roda</title>
 </programme>
-<programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113045400 +0000" stop="20261113052900 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261113053000 +0000" stop="20261113100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113052900 +0000" stop="20261113100000 +0000" channel="SCTV HD.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20261113100000 +0000" stop="20261113111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113100000 +0000" stop="20261113112700 +0000" channel="SCTV HD.mncvision">
     <title>Biarkan Hati Bicara</title>
 </programme>
-<programme start="20261113111500 +0000" stop="20261113130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113112700 +0000" stop="20261113125200 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261113130000 +0000" stop="20261113143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113125200 +0000" stop="20261113143000 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261113143000 +0000" stop="20261113160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261113143000 +0000" stop="20261113155200 +0000" channel="SCTV HD.mncvision">
     <title>Kesetiaan</title>
 </programme>
-<programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="SCTV HD.mncvision">
-    <title>FTV Primetime</title>
+<programme start="20261113155200 +0000" stop="20261113162200 +0000" channel="SCTV HD.mncvision">
+    <title>Bidadari Em(p)ang Terbaik</title>
 </programme>
 <programme start="20261112173000 +0000" stop="20261112180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
@@ -9319,14 +9319,14 @@
 <programme start="20261113154500 +0000" stop="20261113161500 +0000" channel="tvN Movies HD.mncvision">
     <title>The Childe</title>
 </programme>
-<programme start="20261112180000 +0000" stop="20261112193000 +0000" channel="tvOne.mncvision">
+<programme start="20261112173000 +0000" stop="20261112190000 +0000" channel="tvOne.mncvision">
+    <title>Kabar Petang</title>
+</programme>
+<programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="tvOne.mncvision">
     <title>Apa Kabar Indonesia Malam</title>
 </programme>
-<programme start="20261112193000 +0000" stop="20261112200000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Utama 2</title>
-</programme>
 <programme start="20261112200000 +0000" stop="20261112203000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Merah Putih</title>
+    <title>Kabar Utama 2</title>
 </programme>
 <programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="tvOne.mncvision">
     <title>Kabar Arena Pagi 2</title>
@@ -9344,7 +9344,7 @@
     <title>Hidup Sehat</title>
 </programme>
 <programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="tvOne.mncvision">
-    <title>Kabar Arena Pagi 2</title>
+    <title>Inspirasi Pagi</title>
 </programme>
 <programme start="20261113030000 +0000" stop="20261113040000 +0000" channel="tvOne.mncvision">
     <title>Kabar Utama 2</title>
