@@ -4231,10 +4231,10 @@
 <programme start="20261114141500 +0000" stop="20261114143000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>TNT Sports Reload - Episode 45</title>
 </programme>
-<programme start="20261114143000 +0000" stop="20261114171500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20261114143000 +0000" stop="20261114173000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Women&#039;s FA Cup - Second Round: Dulwich Hamlet FC v Portishead Town</title>
 </programme>
-<programme start="20261114171500 +0000" stop="20261114191500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20261114173000 +0000" stop="20261114191500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: NWSL - Semi-Final: Washington Spirit v Utah Royals</title>
 </programme>
 <programme start="20261113233000 +0000" stop="20261114003000 +0000" channel="TNT_Sports_2_HD.virginmediatv">

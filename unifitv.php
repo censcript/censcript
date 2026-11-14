@@ -5,101 +5,45 @@
   <channel id="unknown.unifitv">
     <display-name>UFC PPV</display-name>
   </channel>
-  <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261114160000 +0000" stop="20261114230000 +0000" channel="unknown.unifitv">
+    <title lang="en">Your UFC PPV channel will start at 7:00 AM</title>
+    <desc lang="en">Your UFC PPV channel will start at 7:00 AM</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261114230000 +0000" stop="20261114233000 +0000" channel="unknown.unifitv">
+    <title lang="en">UFC Connected "Origins: Themba Gorimbo, Unbreakable: Njokuani Brothers, Warrior Code: Dricus du Plessis</title>
+    <desc lang="en">UFC welterweight Themba Gorimbo reveals how he overcame a life of hardship and adversity, from the trenches of the African gold mines to the biggest stage in MMA.  Chidi Njokuani details his life-long journey to the octagon under the guidance and mentorship of his brother Anthony Njokuani, former UFC lightweight contender.  UFC Middleweight Champion Dricus du Plessis reveals his keys to success in the octagon.</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="unknown.unifitv">
+    <title lang="en">Unifi TV Promo</title>
+    <desc lang="en">Catch all the latest promotion, movies and series only on Unifi TV 2.0</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261115000000 +0000" stop="20261115060000 +0000" channel="unknown.unifitv">
+    <title lang="en">(L) UFC 334: Gane vs. Hokit Pass</title>
+    <desc lang="en">As UFC touches down at Accor Arena in Paris for the fifth consecutive year on Saturday, September 5, the main event features a fascinating lightweight pairing between Dan “The Hangman” Hooker and promotional newcomer Salahdine Parnasse. An all-action staple in the division for the last decade, New Zealand’s Hooker headlines for the fourth time in his UFC career, looking to add to a win total that includes victories over Mateusz Gamrot and Jalin Turner. Hailing from Aubervilliers, France, the 28-yearold Parnasse was a two-division champion under the KSW banner, amassing seven successful title defenses while standing as one of the top talents competing outside of UFC</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="unknown.unifitv">
+    <title lang="en">Unifi TV Promo</title>
+    <desc lang="en">Catch all the latest promotion, movies and series only on Unifi TV 2.0</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114210000 +0000" stop="20261114220000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261115063000 +0000" stop="20261115123000 +0000" channel="unknown.unifitv">
+    <title lang="en">(R) UFC 334: Gane vs. Hokit Pass</title>
+    <desc lang="en">As UFC touches down at Accor Arena in Paris for the fifth consecutive year on Saturday, September 5, the main event features a fascinating lightweight pairing between Dan “The Hangman” Hooker and promotional newcomer Salahdine Parnasse. An all-action staple in the division for the last decade, New Zealand’s Hooker headlines for the fourth time in his UFC career, looking to add to a win total that includes victories over Mateusz Gamrot and Jalin Turner. Hailing from Aubervilliers, France, the 28-yearold Parnasse was a two-division champion under the KSW banner, amassing seven successful title defenses while standing as one of the top talents competing outside of UFC</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114220000 +0000" stop="20261114230000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261115123000 +0000" stop="20261115130000 +0000" channel="unknown.unifitv">
+    <title lang="en">Unifi TV Promo</title>
+    <desc lang="en">Catch all the latest promotion, movies and series only on Unifi TV 2.0</desc>
+    <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114230000 +0000" stop="20261115000000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115010000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115020000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115020000 +0000" stop="20261115030000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115040000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115040000 +0000" stop="20261115050000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115060000 +0000" stop="20261115070000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115070000 +0000" stop="20261115080000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115080000 +0000" stop="20261115090000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115120000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115120000 +0000" stop="20261115130000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
-  </programme>
-  <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC PPV</title>
-    <desc lang="en">Don’t Miss the Action! Catch Every Epic UFC Moment Live with UFC PPV for Only RM1!</desc>
+  <programme start="20261115130000 +0000" stop="20261115190000 +0000" channel="unknown.unifitv">
+    <title lang="en">(R) UFC 334: Gane vs. Hokit Pass</title>
+    <desc lang="en">As UFC touches down at Accor Arena in Paris for the fifth consecutive year on Saturday, September 5, the main event features a fascinating lightweight pairing between Dan “The Hangman” Hooker and promotional newcomer Salahdine Parnasse. An all-action staple in the division for the last decade, New Zealand’s Hooker headlines for the fourth time in his UFC career, looking to add to a win total that includes victories over Mateusz Gamrot and Jalin Turner. Hailing from Aubervilliers, France, the 28-yearold Parnasse was a two-division champion under the KSW banner, amassing seven successful title defenses while standing as one of the top talents competing outside of UFC</desc>
+    <category lang="en">Sports</category>
   </programme>
   <channel id="inspirasi.unifitv">
     <display-name>Inspirasi</display-name>

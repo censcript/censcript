@@ -401,17 +401,17 @@
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
   </programme>
-  <programme channel="205" start="20261114120000 +0000" stop="20261114160000 +0000">
+  <programme channel="205" start="20261114120000 +0000" stop="20261114160400 +0000">
     <title lang="id">Bintang Pantura 2026</title>
     <desc lang="id">Bintang Pantura 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xKWC5u6zam1Hj1FWGHID2UmDQOk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434620/397870.jpg"/>
   </programme>
-  <programme channel="205" start="20261114160000 +0000" stop="20261114180000 +0000">
+  <programme channel="205" start="20261114160400 +0000" stop="20261114180000 +0000">
     <title lang="id">Afc U17 Asian Cup Qualifiers</title>
     <desc lang="id">Afc U17 Asian Cup Qualifiers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
   </programme>
-  <programme channel="205" start="20261114160000 +0000" stop="20261114180000 +0000">
+  <programme channel="205" start="20261114160400 +0000" stop="20261114180000 +0000">
     <title lang="id">Afc U17 Asian Cup Qualifiers</title>
     <desc lang="id">Afc U17 Asian Cup Qualifiers</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
@@ -583,17 +583,17 @@
     <desc lang="id">Nonton streaming pertandingan seru Final Putri. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/O1SLz53zbqmOeSY10zu6tVoD0O4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436693/39d9fe.jpg"/>
   </programme>
-  <programme channel="206" start="20261114153300 +0000" stop="20261114172800 +0000">
+  <programme channel="206" start="20261114153300 +0000" stop="20261114173800 +0000">
     <title lang="id">Final Putra: Volkom vs Tigalima - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putra. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XNpl-AeXuxsmNJ5fdm_amCtgYDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436694/558146.jpg"/>
   </programme>
-  <programme channel="206" start="20261114153300 +0000" stop="20261114172800 +0000">
+  <programme channel="206" start="20261114153300 +0000" stop="20261114173800 +0000">
     <title lang="id">Final Putra: Volkom vs Tigalima - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putra. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XNpl-AeXuxsmNJ5fdm_amCtgYDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436694/558146.jpg"/>
   </programme>
-  <programme channel="206" start="20261114172800 +0000" stop="20261114193900 +0000">
+  <programme channel="206" start="20261114173800 +0000" stop="20261114193900 +0000">
     <title lang="id">AVC Nation Cup 2026</title>
     <desc lang="id">AVC NATION CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -5993,6 +5993,126 @@
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
   <programme channel="6441" start="20261114163000 +0000" stop="20261114170000 +0000">
+    <title lang="id">Klik Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261114170000 +0000" stop="20261114210000 +0000">
+    <title lang="id">TVRI Program</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261114210000 +0000" stop="20261114213000 +0000">
+    <title lang="id">Jejak Islam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261114213000 +0000" stop="20261114230000 +0000">
+    <title lang="id">Serambi Islami</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261114230000 +0000" stop="20261115000000 +0000">
+    <title lang="id">Klik Indonesia Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115000000 +0000" stop="20261115010000 +0000">
+    <title lang="id">Jendela Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115010000 +0000" stop="20261115020000 +0000">
+    <title lang="id">Bikin Asik Aja</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115020000 +0000" stop="20261115023000 +0000">
+    <title lang="id">Bermain Matematika</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115023000 +0000" stop="20261115030000 +0000">
+    <title lang="id">Mari Menggambar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115030000 +0000" stop="20261115033000 +0000">
+    <title lang="id">Pesona Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115033000 +0000" stop="20261115040000 +0000">
+    <title lang="id">Inspirasi Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115040000 +0000" stop="20261115043000 +0000">
+    <title lang="id">Anak Indonesia</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115043000 +0000" stop="20261115050000 +0000">
+    <title lang="id">Belajar Bersama</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115050000 +0000" stop="20261115060000 +0000">
+    <title lang="id">Berita Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115060000 +0000" stop="20261115070000 +0000">
+    <title lang="id">Paten</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115070000 +0000" stop="20261115073000 +0000">
+    <title lang="id">Lukisan Sejarah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115073000 +0000" stop="20261115080000 +0000">
+    <title lang="id">Awas Sleding Tekel!</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115080000 +0000" stop="20261115090000 +0000">
+    <title lang="id">VAR - Visual, Aksi, Reaksi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115090000 +0000" stop="20261115093000 +0000">
+    <title lang="id">Jajan Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115093000 +0000" stop="20261115103000 +0000">
+    <title lang="id">Buah Hatiku Sayang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115103000 +0000" stop="20261115110000 +0000">
+    <title lang="id">Terima Kost Pria Baik-Baik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115110000 +0000" stop="20261115120000 +0000">
+    <title lang="id">Klik Indonesia Petang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115120000 +0000" stop="20261115123000 +0000">
+    <title lang="id">Wajah Negeri</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115123000 +0000" stop="20261115130000 +0000">
+    <title lang="id">Rumah Cahaya</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115130000 +0000" stop="20261115140000 +0000">
+    <title lang="id">TVRI Klasik</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115140000 +0000" stop="20261115143000 +0000">
+    <title lang="id">Dunia Dalam Berita</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115143000 +0000" stop="20261115150000 +0000">
+    <title lang="id">Film Pendek</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115150000 +0000" stop="20261115153000 +0000">
+    <title lang="id">Monitor Olahraga</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115153000 +0000" stop="20261115163000 +0000">
+    <title lang="id">Music Hub</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115163000 +0000" stop="20261115170000 +0000">
+    <title lang="id">Klik Indonesia Malam</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
+  </programme>
+  <programme channel="6441" start="20261115163000 +0000" stop="20261115170000 +0000">
     <title lang="id">Klik Indonesia Malam</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -14170,6 +14290,84 @@
     <desc lang="id">Viaggio Nel Calcio - Venezia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
+  <programme channel="6685" start="20261115170000 +0000" stop="20261115173000 +0000">
+    <title lang="id">Highlight - Matchday 9 : Ligue 1 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261115173000 +0000" stop="20261115175000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261115175000 +0000" stop="20261115210000 +0000">
+    <title lang="id">Minnesota Vikings vs Green Bay Packers - NFL</title>
+    <desc lang="id">Nonton streaming pertandingan seru Minnesota Vikings vs Green Bay Packers - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/qm_D0MArla8KH-hUJFjdtjWmcHo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440479/b73478.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261115210000 +0000" stop="20261115211500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261115211500 +0000" stop="20261116005500 +0000">
+    <title lang="id">San Francisco 49ers vs Dallas Cowboys - NFL</title>
+    <desc lang="id">Nonton streaming pertandingan seru San Francisco 49ers vs Dallas Cowboys - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/HzKcsxAoQxnSbRCnMnAhkY7lY7Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440481/2091d3.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116005500 +0000" stop="20261116010000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116010000 +0000" stop="20261116030000 +0000">
+    <title lang="id">SC Cambuur vs PSV Eindhoven : Dutch League Eredivisie 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116030000 +0000" stop="20261116050000 +0000">
+    <title lang="id">sc Heerenveen vs Feyenoord : Dutch League Eredivisie 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116050000 +0000" stop="20261116053000 +0000">
+    <title lang="id">Eps 6 : Racing On The Edge S6</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116053000 +0000" stop="20261116060000 +0000">
+    <title lang="id">Show - Matchday 9 : Ligue 1 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116060000 +0000" stop="20261116063000 +0000">
+    <title lang="id">Highlight - Show 14 : EFL 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116063000 +0000" stop="20261116083000 +0000">
+    <title lang="id">NAPOLI vs LAZIO : Serie A 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116083000 +0000" stop="20261116103000 +0000">
+    <title lang="id">ROMA vs SASSUOLO : Serie A 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116103000 +0000" stop="20261116113000 +0000">
+    <title lang="id">Highlight - Round 10 : Dutch League Eredivisie 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116113000 +0000" stop="20261116120000 +0000">
+    <title lang="id">Eps 6 : Racing On The Edge - S6</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116120000 +0000" stop="20261116140000 +0000">
+    <title lang="id">LOSC vs Lens : Ligue 1 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116140000 +0000" stop="20261116160000 +0000">
+    <title lang="id">BADMINTON - MEN DOUBLE : Asian Games 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116160000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Highlight - Round 12 : Dutch League Eredivisie 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261116160000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Highlight - Round 12 : Dutch League Eredivisie 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
   <programme channel="9182" start="20261113150000 +0000" stop="20261113170000 +0000">
     <title lang="id">Toulouse vs Strasbourg : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">TOULOUSE vs STRASBOURG</desc>
@@ -14358,6 +14556,70 @@
   <programme channel="9182" start="20261115150000 +0000" stop="20261115170000 +0000">
     <title lang="id">Le Havre vs Lorient : Ligue 1 Prancis 2026/27</title>
     <desc lang="id">LE HAVRE vs LORIENT</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261115170000 +0000" stop="20261115200000 +0000">
+    <title lang="id">Emirates Fa Cup 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261115200000 +0000" stop="20261115220000 +0000">
+    <title lang="id">Ligue 1 Prancis 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261115220000 +0000" stop="20261115223000 +0000">
+    <title lang="id">Pl Rewind 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261115223000 +0000" stop="20261115230000 +0000">
+    <title lang="id">Pl Stories 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261115230000 +0000" stop="20261116010000 +0000">
+    <title lang="id">Premier League 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116010000 +0000" stop="20261116040000 +0000">
+    <title lang="id">Emirates Fa Cup 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116040000 +0000" stop="20261116060000 +0000">
+    <title lang="id">Ligue 1 Prancis 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116060000 +0000" stop="20261116063000 +0000">
+    <title lang="id">Pl Rewind 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116063000 +0000" stop="20261116070000 +0000">
+    <title lang="id">Pl Stories 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116070000 +0000" stop="20261116090000 +0000">
+    <title lang="id">Premier League 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116090000 +0000" stop="20261116120000 +0000">
+    <title lang="id">Emirates Fa Cup 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116120000 +0000" stop="20261116140000 +0000">
+    <title lang="id">Ligue 1 Prancis 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116140000 +0000" stop="20261116143000 +0000">
+    <title lang="id">Netbusters 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116143000 +0000" stop="20261116150000 +0000">
+    <title lang="id">The Big Interview 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116150000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Premier League 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  </programme>
+  <programme channel="9182" start="20261116150000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Premier League 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
   <programme channel="6317" start="20261113160000 +0000" stop="20261113180000 +0000">
@@ -15197,15 +15459,87 @@
     <title lang="id">Filler NFL</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261115142000 +0000" stop="20261115183000 +0000">
+  <programme channel="6786" start="20261115142000 +0000" stop="20261115180000 +0000">
     <title lang="id">2026 NFL Munich Games: New England Patriots vs Detroit Lions - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru 2026 NFL Munich Games: New England Patriots vs Detroit Lions. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/503rAnNpD3KhoddbnkgH4IapRn4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436512/cdf518.jpg"/>
   </programme>
-  <programme channel="6786" start="20261115142000 +0000" stop="20261115183000 +0000">
+  <programme channel="6786" start="20261115142000 +0000" stop="20261115180000 +0000">
     <title lang="id">2026 NFL Munich Games: New England Patriots vs Detroit Lions - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru 2026 NFL Munich Games: New England Patriots vs Detroit Lions. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/503rAnNpD3KhoddbnkgH4IapRn4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436512/cdf518.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261115180000 +0000" stop="20261115183000 +0000">
+    <title lang="id">Show 9 : NFL Game Day 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261115183000 +0000" stop="20261115190000 +0000">
+    <title lang="id">Show 7 : NFL Extra 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261115190000 +0000" stop="20261115193000 +0000">
+    <title lang="id">Show 8 : NFL Extra 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261115193000 +0000" stop="20261115200000 +0000">
+    <title lang="id">Eps 5 : WTA 2026 - WTA ALL ACCESS 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261115200000 +0000" stop="20261115220000 +0000">
+    <title lang="id">WTA Finals Indian Wells : WTA Finals</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261115220000 +0000" stop="20261116000000 +0000">
+    <title lang="id">WTA Finals Indian Wells : WTA Finals</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116000000 +0000" stop="20261116003000 +0000">
+    <title lang="id">Sport Woman Eps 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116003000 +0000" stop="20261116010000 +0000">
+    <title lang="id">Show 9 : NFL Extra 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116010000 +0000" stop="20261116011000 +0000">
+    <title lang="id">Filler NFL</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116011000 +0000" stop="20261116042000 +0000">
+    <title lang="id">Pittsburgh Steelers vs Cincinnati Bengals : NFL 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116042000 +0000" stop="20261116043000 +0000">
+    <title lang="id">Filler NFL</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116043000 +0000" stop="20261116073000 +0000">
+    <title lang="id">Minnesota Vikings vs Green Bay Packers : NFL 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116073000 +0000" stop="20261116093000 +0000">
+    <title lang="id">Single Final : WTA Finals Indian Wells</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116093000 +0000" stop="20261116113000 +0000">
+    <title lang="id">Doubles Final : WTA Finals Indian Wells</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116113000 +0000" stop="20261116120000 +0000">
+    <title lang="id">Sport Woman Eps 8</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116120000 +0000" stop="20261116150000 +0000">
+    <title lang="id">San Francisco 49ers vs Dallas Cowboys : NFL 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116150000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Pittsburgh Steelers vs Cincinnati Bengals : NFL 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261116150000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Pittsburgh Steelers vs Cincinnati Bengals : NFL 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="17875" start="20261113154500 +0000" stop="20261113180000 +0000">
     <title lang="id">South Africa vs Kenya - TotalEnergies Africa Cup of Nations Qualifiers</title>
@@ -15282,22 +15616,17 @@
     <desc lang="id">Dubai P1 Day 4 QF Match 6</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261114120000 +0000" stop="20261114180000 +0000">
+  <programme channel="17875" start="20261114120000 +0000" stop="20261114183200 +0000">
     <title lang="id">Dubai P1 Premier Padel - Semifinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VaBI5DPLVUNGe68q666Hx-eQAOU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434984/348167.png"/>
   </programme>
-  <programme channel="17875" start="20261114120000 +0000" stop="20261114180000 +0000">
+  <programme channel="17875" start="20261114120000 +0000" stop="20261114183200 +0000">
     <title lang="id">Dubai P1 Premier Padel - Semifinals</title>
     <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Semifinals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VaBI5DPLVUNGe68q666Hx-eQAOU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434984/348167.png"/>
   </programme>
-  <programme channel="17875" start="20261114180000 +0000" stop="20261114182000 +0000">
-    <title lang="id">Australia vs New Zealand - Singapore Day 2, Women : HSBC SVNS Series 2026</title>
-    <desc lang="id">Australia vs New Zealand - Singapore Day 2, Women</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261114182000 +0000" stop="20261114184500 +0000">
+  <programme channel="17875" start="20261114183200 +0000" stop="20261114184500 +0000">
     <title lang="id">Fiji vs France - Singapore Day 2, Men : HSBC SVNS Series 2026</title>
     <desc lang="id">Fiji vs France - Singapore Day 2, Men</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -16087,6 +16416,94 @@
     <desc lang="id">BREST vs PSG</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
+  <programme channel="6686" start="20261115170000 +0000" stop="20261115190000 +0000">
+    <title lang="id">EFL 2026/27 - CHAMPIONSHIP</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261115190000 +0000" stop="20261115210000 +0000">
+    <title lang="id">IWF: Weightlifting World Championships</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261115210000 +0000" stop="20261115220000 +0000">
+    <title lang="id">20th Asian Games Aichi-Nagoya 2026: Table Tennis</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261115220000 +0000" stop="20261115230000 +0000">
+    <title lang="id">20th Asian Games Aichi-Nagoya 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261115230000 +0000" stop="20261116000000 +0000">
+    <title lang="id">Dutch League Eredivisie 2026/27 - Highlight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116000000 +0000" stop="20261116003000 +0000">
+    <title lang="id">Serie A 2026/27 Preview</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116003000 +0000" stop="20261116010000 +0000">
+    <title lang="id">Serie A 2026/27 Highlight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116010000 +0000" stop="20261116030000 +0000">
+    <title lang="id">EFL 2026/27 - Championship</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116030000 +0000" stop="20261116050000 +0000">
+    <title lang="id">IWF: Weightlifting World Championships</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116050000 +0000" stop="20261116060000 +0000">
+    <title lang="id">20th Asian Games Aichi-Nagoya 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116060000 +0000" stop="20261116070000 +0000">
+    <title lang="id">20th Asian Games Aichi-Nagoya 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116070000 +0000" stop="20261116080000 +0000">
+    <title lang="id">Dutch League Eredivisie 2026/27 - Highlight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116080000 +0000" stop="20261116083000 +0000">
+    <title lang="id">Serie A 2026/27 Preview</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116083000 +0000" stop="20261116090000 +0000">
+    <title lang="id">Serie A 2026/27 Highlight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116090000 +0000" stop="20261116110000 +0000">
+    <title lang="id">EFL 2026/27 - Championship</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116110000 +0000" stop="20261116130000 +0000">
+    <title lang="id">IWF: Weightlifting World Championships</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116130000 +0000" stop="20261116140000 +0000">
+    <title lang="id">20th Asian Games Aichi-Nagoya 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116140000 +0000" stop="20261116150000 +0000">
+    <title lang="id">20th Asian Games Aichi-Nagoya 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116150000 +0000" stop="20261116160000 +0000">
+    <title lang="id">Dutch League Eredivisie 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116160000 +0000" stop="20261116163000 +0000">
+    <title lang="id">Serie A 2026/27 Preview</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116163000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Serie A 2026/27 Highlight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261116163000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Serie A 2026/27 Highlight</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
   <programme channel="9183" start="20261113160000 +0000" stop="20261113170000 +0000">
     <title lang="id">Matchweek 09 : Generation xG 2026/27</title>
     <desc lang="id">MATCHWEEK 09</desc>
@@ -16255,6 +16672,70 @@
   <programme channel="9183" start="20261115160000 +0000" stop="20261115170000 +0000">
     <title lang="id">Eps 18 : Fanzone 2026/27</title>
     <desc lang="id">EPS 18</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261115170000 +0000" stop="20261115190000 +0000">
+    <title lang="id">Premier League 2026/27 - Sunderland vs Chelsea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261115190000 +0000" stop="20261115200000 +0000">
+    <title lang="id">PL MOMENTS 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261115200000 +0000" stop="20261115220000 +0000">
+    <title lang="id">Premier League 2026/27 - Manchester United vs Aston Villa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261115220000 +0000" stop="20261116000000 +0000">
+    <title lang="id">Premier League 2026/27 - Crystal Palace vs Liverpool</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116000000 +0000" stop="20261116023000 +0000">
+    <title lang="id">Premier League 2026/27 - Arsenal vs Hull City</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116023000 +0000" stop="20261116030000 +0000">
+    <title lang="id">PL STORIES 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116030000 +0000" stop="20261116050000 +0000">
+    <title lang="id">Premier League 2026/27 - Manchester United vs Aston Villa</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116050000 +0000" stop="20261116070000 +0000">
+    <title lang="id">Premier League 2026/27 - Sunderland vs Chelsea</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116070000 +0000" stop="20261116090000 +0000">
+    <title lang="id">Premier League 2026/27 - Ipswich Town vs Bournemouth</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116090000 +0000" stop="20261116100000 +0000">
+    <title lang="id">FANZONE 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116100000 +0000" stop="20261116120000 +0000">
+    <title lang="id">Premier League 2026/27 - Crystal Palace vs Liverpool</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116120000 +0000" stop="20261116140000 +0000">
+    <title lang="id">Premier League 2026/27 - Brighton and Hove Albion vs Brentford</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116140000 +0000" stop="20261116160000 +0000">
+    <title lang="id">Premier League 2026/27 - Nottingham Forest vs Manchester City</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116160000 +0000" stop="20261116163000 +0000">
+    <title lang="id">Ligue 1 Prancis 2026/27 - Highlight Matchday 9</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116163000 +0000" stop="20261116170000 +0000">
+    <title lang="id">PL STORIES 2026/27</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  </programme>
+  <programme channel="9183" start="20261116163000 +0000" stop="20261116170000 +0000">
+    <title lang="id">PL STORIES 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
   <programme channel="9353" start="20261113163000 +0000" stop="20261113170000 +0000">
@@ -35731,6 +36212,59 @@
     <desc lang="id">Charles Schwab Cup Championship Round 3</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
+  <programme channel="18189" start="20261115170000 +0000" stop="20261115183000 +0000">
+    <title lang="id">Eps 4 : On The Range 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261115183000 +0000" stop="20261115190000 +0000">
+    <title lang="id">Learning Center - Road to the Schwab Cup : PGA TOUR CHAMPIONS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261115190000 +0000" stop="20261115220000 +0000">
+    <title lang="id">Round 4 - Austin Championship presented by Compliance Solutions 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - Austin Championship presented by Compliance Solutions 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/HeN2aOdTwz_7AXeKcY5g93D19a0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440566/3ce0bb.png"/>
+  </programme>
+  <programme channel="18189" start="20261115220000 +0000" stop="20261116000000 +0000">
+    <title lang="id">Charles Schwab Cup Championship Round 4 : PGA TOUR CHAMPIONS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116000000 +0000" stop="20261116013000 +0000">
+    <title lang="id">Eps 7 : On The Range 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116013000 +0000" stop="20261116020000 +0000">
+    <title lang="id">PGA TOUR CHAMPIONS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116020000 +0000" stop="20261116050000 +0000">
+    <title lang="id">Austin Championship presented by Compliance Solutions Round 4 : PGA TOUR</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116080000 +0000" stop="20261116093000 +0000">
+    <title lang="id">Eps 5 : On The Range 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116093000 +0000" stop="20261116100000 +0000">
+    <title lang="id">Eps 20 : The CUT 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116100000 +0000" stop="20261116130000 +0000">
+    <title lang="id">Austin Championship presented by Compliance Solutions Round 4 : PGA TOUR</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116130000 +0000" stop="20261116160000 +0000">
+    <title lang="id">Charles Schwab Cup Championship Round : PGA TOUR CHAMPIONS</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116160000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Austin Championship Highlight : PGA TOUR</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
+  <programme channel="18189" start="20261116160000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Austin Championship Highlight : PGA TOUR</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+  </programme>
   <programme channel="18190" start="20261113160000 +0000" stop="20261113190500 +0000">
     <title lang="id">Round 2 - The ANNIKA driven by Gainbridge at Pelican 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Round 2 - The ANNIKA driven by Gainbridge at Pelican 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
@@ -35847,9 +36381,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
   </programme>
   <programme channel="18190" start="20261115183000 +0000" stop="20261115213000 +0000">
-    <title lang="id">LPGA 2026 THE ANNIKA DRIVEN</title>
-    <desc lang="id">FINAL ROUND</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+    <title lang="id">Round 4 - The ANNIKA driven by Gainbridge at Pelican 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - The ANNIKA driven by Gainbridge at Pelican 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/OnbC2Vfa-ddF_peEVCFZ7jivvo4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440557/4eff8e.png"/>
   </programme>
   <programme channel="18190" start="20261115213000 +0000" stop="20261116013000 +0000">
     <title lang="id">ISPS HANDA WOMEN'S SCOTTISH OPEN</title>
