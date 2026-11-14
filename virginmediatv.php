@@ -3823,7 +3823,7 @@
 <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>The Franchise - Familiar Foes</title>
 </programme>
-<programme start="20261114173000 +0000" stop="20261114193000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
+<programme start="20261114173000 +0000" stop="20261114191500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Washington Commanders at New York Giants</title>
 </programme>
 <programme start="20261114000000 +0000" stop="20261114033500 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
@@ -4636,7 +4636,7 @@
 <programme start="20261114170000 +0000" stop="20261114173000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>The Franchise - Familiar Foes</title>
 </programme>
-<programme start="20261114173000 +0000" stop="20261114193000 +0000" channel="Sky_Sports_Action.virginmediatv">
+<programme start="20261114173000 +0000" stop="20261114191500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Washington Commanders at New York Giants</title>
 </programme>
 <programme start="20261114000000 +0000" stop="20261114033500 +0000" channel="Sky_Sports_Plus.virginmediatv">

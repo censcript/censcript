@@ -614,9 +614,11 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261113220200 +0000" stop="20261113230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Podcase Syariah</title>
+    <title lang="en">Podcase Syariah (Ulangan)</title>
     <desc lang="en">Podcase Syariah mengupas isu-isu semasa berkaitan hukum Islam secara santai dan ilmiah. Menampilkan pakar untuk memberi penjelasan jelas, relevan dan mudah difahami oleh semua lapisan masyakarat.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
   </programme>
   <programme start="20261113230000 +0000" stop="20261113234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -628,34 +630,43 @@
     <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa dalam negara serta peristiwa yang berlaku di seluruh dunia.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261114000000 +0000" stop="20261114030000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Grandstand Hari Mengundi</title>
-    <desc lang="en">Siaran Langsung : Grandstand Hari Mengundi</desc>
+  <programme start="20261114000000 +0000" stop="20261114020000 +0000" channel="tv1.unifitv">
+    <title lang="en">SIARAN LANGSUNG GRANDSTAND HARI MENGUNDI</title>
+    <desc lang="en">Saksikan Siaran Langsung Grandstand Hari Mengundi.</desc>
+    <category lang="en">Drama</category>
+  </programme>
+  <programme start="20261114020000 +0000" stop="20261114030000 +0000" channel="tv1.unifitv">
+    <title lang="en">SIARAN LANGSUNG UCAPAN PERDANA MENTERI SEMPENA HARI DEEPAVALI 2026</title>
+    <desc lang="en">Saksikan Siaran Langsung Ucapan Perdana Menteri Sempena Hari Deepavali 2026.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="tv1.unifitv">
-    <title lang="en">Jejak Seribu Kaki</title>
+    <title lang="en">Jejak Seribu Kaki (Ulangan)</title>
     <desc lang="en">Bersama Krew Jejak Seribu Kaki akan membantu pelbagai jenis keluarga untuk merealisasikan impian mereka untuk mempunyai halaman rumah yang cantik dan kemas. Dihoskan oleh Yana Samsudin.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.10.</episode-num>
     <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Rona Sabah</title>
+    <title lang="en">Rona Sabah (Sr.17) 2026 (Ulangan)</title>
     <desc lang="en">Rancangan yang membawa penonton melihat kehidupan di sekitar Sabah yang menyimpan pelbagai rahsia alam, serta cara hidup penduduk dan ekonomi setempat.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="tv1.unifitv">
-    <title lang="en">Ikonita</title>
+    <title lang="en">Ikonita (Ulangan)</title>
     <desc lang="en">Paparan kejayaan wanita hebat dalam bidang yang diceburi.</desc>
     <category lang="en">Drama</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Panorama 2026</title>
+    <title lang="en">Panorama 2025 (Ulangan)</title>
     <desc lang="en">Rancangan berbentuk kemasyarakatan.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -663,9 +674,8 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261114053000 +0000" stop="20261114070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Tetangga</title>
-    <desc lang="en">Kehidupan berjiran antara Kassim Komando dan Mon yang sering bertelagah dalam pelbagai perkara remeh sehingga mencetuskan gelagat komedi di pangsapuri. Haji Samad sering menjadi orang tengah untuk mendamaikan mereka. Namun, apabila Kassim Komando tiba-tiba menghilang, Mon mula merasakan kesunyian dan tertanya-tanya tentang kehilangan jiran yang sering menjadi musuhnya itu.
-Pelakon : Kazaruddin Saisi, Khatijah Tan, Razak Ahmad, Illya Buang, Nazeera Sardi, Talha Harith.</desc>
+    <title lang="en">Tetangga (Ulangan)</title>
+    <desc lang="en">Kehidupan berjiran antara Kassim Komando dan Mon yang sering bertelagah dalam pelbagai perkara remeh sehingga mencetuskan gelagat komedi di pangsapuri. Haji Samad sering menjadi orang tengah untuk mendamaikan mereka. Namun, apabila Kassim Komando tiba-tiba menghilang, Mon mula merasakan kesunyian dan tertanya-tanya tentang kehilangan jiran yang sering menjadi musuhnya itu.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261114070000 +0000" stop="20261114070500 +0000" channel="tv1.unifitv">
@@ -674,27 +684,22 @@ Pelakon : Kazaruddin Saisi, Khatijah Tan, Razak Ahmad, Illya Buang, Nazeera Sard
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261114070500 +0000" stop="20261114073000 +0000" channel="tv1.unifitv">
-    <title lang="en">Rahsia Usia</title>
+    <title lang="en">Rahsia Usia (Ulangan)</title>
     <desc lang="en">Program majalah kesihatan yang menyajikan informasi terkini mengenai penjagaan kesihatan melalui kisah benar masyarakat. Setiap episod turut menampilkan pandangan doktor pakar serta lawatan kepada pesakit bagi memberi pendidikan dan kesedaran kepada penonton.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Innovation Nation S17</title>
+    <title lang="en">Innovation Nation S17 (Ulangan)</title>
     <desc lang="en">Program majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
-  <programme start="20261114080000 +0000" stop="20261114080500 +0000" channel="tv1.unifitv">
-    <title lang="en">LIVE : BERITA SEMASA</title>
-    <desc lang="en">Berita Semasa dalam dan luar negara</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261114080500 +0000" stop="20261114090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Grandstand Hari Mengundi</title>
-    <desc lang="en">Saksikan Siaran Langsung Grandstand Hari Mengundi</desc>
+  <programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="tv1.unifitv">
+    <title lang="en">SIARAN LANGSUNG GRANDSTAND HARI MENGUNDI</title>
+    <desc lang="en">Saksikan Siaran Langsung Grandstand Hari Mengundi.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="tv1.unifitv">
@@ -702,20 +707,10 @@ Pelakon : Kazaruddin Saisi, Khatijah Tan, Razak Ahmad, Illya Buang, Nazeera Sard
     <desc lang="en">Saksikan laporan perkembangan terkini dari wilayah-wilayah seluruh Malaysia dalam rangkuman berita terkini.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261114100000 +0000" stop="20261114114000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Grandstand Keputusan Awal</title>
-    <desc lang="en">Saksikan Siaran Langsung Grandstand Keputusan Awal</desc>
+  <programme start="20261114100000 +0000" stop="20261114114400 +0000" channel="tv1.unifitv">
+    <title lang="en">SIARAN LANGSUNG GRANDSTAND HARI MENGUNDI</title>
+    <desc lang="en">Saksikan Siaran Langsung Grandstand Hari Mengundi.</desc>
     <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261114114000 +0000" stop="20261114114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Zuriat Dari Penjara</title>
-    <desc lang="en">Shara, gadis kampung yang terjebak dalam kegiatan pengedaran dadah selepas menerima tawaran kerja mudah demi mendapatkan wang. Selepas dipenjarakan, dia melahirkan Rizky dan meninggal dunia akibat sakit, tanpa diketahui Zaman tentang
-kehamilannya. Kehidupan Zaman dan Rizky kemudian diuji apabila Erina mengetahui penipuan Zaman lalu menghalau mereka.
-
-Pelakon : Wafariena Roslan, Josiah Hogan, Rasya Dean, Syed Aiman, Linda Rafar, Danny Anwa dan Mubarak Majid.</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.5.</episode-num>
-    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261114114400 +0000" stop="20261114120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -727,14 +722,9 @@ Pelakon : Wafariena Roslan, Josiah Hogan, Rasya Dean, Syed Aiman, Linda Rafar, D
     <desc lang="en">Membawakan perkembangan terkini dari seluruh negara.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="tv1.unifitv">
-    <title lang="en">BERITA INGGERIS (MALAYSIA TONIGHT)</title>
-    <desc lang="en">Bringing the latest updates from across the globe.</desc>
-    <category lang="en">Drama</category>
-  </programme>
-  <programme start="20261114130000 +0000" stop="20261114160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Malam Keputusan PRN Melaka</title>
-    <desc lang="en">Saksikan Siaran Langsung Malam Keputusan PRN Melaka</desc>
+  <programme start="20261114123000 +0000" stop="20261114160000 +0000" channel="tv1.unifitv">
+    <title lang="en">SIARAN LANGSUNG: GRANDSTAND MALAM KEPUTUSAN</title>
+    <desc lang="en">Saksikan Siaraan Langsung Grandstand Malam Keputusan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="tv1.unifitv">
@@ -4132,10 +4122,17 @@ Pelakon : Wafariena Roslan, Josiah Hogan, Rasya Dean, Syed Aiman, Linda Rafar, D
     <episode-num system="xmltv_ns">2.20261113.</episode-num>
     <episode-num system="onscreen">S3E20261114</episode-num>
   </programme>
-  <programme start="20261114020300 +0000" stop="20261114023300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TOP VIEW</title>
-    <desc lang="en">High precision observation of space security and insight into the changes of the global situation. Travel through time and space and perceive the dimension of geography.</desc>
+  <programme start="20261114020300 +0000" stop="20261114022800 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">APPROACHING APEC SPECIAL</title>
+    <desc lang="en">Approaching APEC Special is a current affairs and economic special covering the 2026 Asia-Pacific Economic Cooperation (APEC) summit hosted in Shenzhen, China. The program explores regional trade dynamics, Asia-Pacific economic integration, technological cooperation, and diplomatic developments among member economies leading up to and during the summit.</desc>
     <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.20261113.</episode-num>
+    <episode-num system="onscreen">S1E20261114</episode-num>
+  </programme>
+  <programme start="20261114022800 +0000" stop="20261114023300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">PHOENIX WEATHER FORECAST</title>
+    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
+    <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20261113.</episode-num>
     <episode-num system="onscreen">S1E20261114</episode-num>
   </programme>
@@ -4202,10 +4199,17 @@ Pelakon : Wafariena Roslan, Josiah Hogan, Rasya Dean, Syed Aiman, Linda Rafar, D
     <episode-num system="xmltv_ns">2.20261113.</episode-num>
     <episode-num system="onscreen">S3E20261114</episode-num>
   </programme>
-  <programme start="20261114070300 +0000" stop="20261114073300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">TOP VIEW</title>
-    <desc lang="en">High precision observation of space security and insight into the changes of the global situation. Travel through time and space and perceive the dimension of geography.</desc>
+  <programme start="20261114070300 +0000" stop="20261114072800 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">APPROACHING APEC SPECIAL</title>
+    <desc lang="en">Approaching APEC Special is a current affairs and economic special covering the 2026 Asia-Pacific Economic Cooperation (APEC) summit hosted in Shenzhen, China. The program explores regional trade dynamics, Asia-Pacific economic integration, technological cooperation, and diplomatic developments among member economies leading up to and during the summit.</desc>
     <category lang="en">Current Affairs</category>
+    <episode-num system="xmltv_ns">0.20261113.</episode-num>
+    <episode-num system="onscreen">S1E20261114</episode-num>
+  </programme>
+  <programme start="20261114072800 +0000" stop="20261114073300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">PHOENIX WEATHER FORECAST</title>
+    <desc lang="en">Phoenix's engaging young presenter tracks weather movements and forecasts upcoming conditions in her upbeat, lively presentation coupled with music, folklore and traditional wisdom pertaining to different weather conditions in various times of the year, making Weather Forecast a true delight regardless of rain or shine.</desc>
+    <category lang="en">Environment</category>
     <episode-num system="xmltv_ns">0.20261113.</episode-num>
     <episode-num system="onscreen">S1E20261114</episode-num>
   </programme>
@@ -4314,12 +4318,15 @@ Pelakon : Wafariena Roslan, Josiah Hogan, Rasya Dean, Syed Aiman, Linda Rafar, D
     <episode-num system="xmltv_ns">0.20261113.</episode-num>
     <episode-num system="onscreen">S1E20261114</episode-num>
   </programme>
-  <programme start="20261114150300 +0000" stop="20261114160300 +0000" channel="phoenixhongkong.unifitv">
-    <title lang="en">PREMIUM SPECTACULAR</title>
+  <programme start="20261114150300 +0000" stop="20261114153300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE CARBON PURSUIT OF HAPPINESS</title>
     <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
     <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.20261113.</episode-num>
-    <episode-num system="onscreen">S1E20261114</episode-num>
+  </programme>
+  <programme start="20261114153300 +0000" stop="20261114160300 +0000" channel="phoenixhongkong.unifitv">
+    <title lang="en">THE CARBON PURSUIT OF HAPPINESS</title>
+    <desc lang="en">Premium Spectacular offers Phoenix's finest documentaries in our weekend prime time slot. Each episode comes relevant to the latest news that hits the headlines. Themes range from hot current affair issues at home and abroad, to diverse topics of social, historical and cultural interests.</desc>
+    <category lang="en">Documentary</category>
   </programme>
   <channel id="seti.unifitv">
     <display-name>SETI</display-name>
@@ -15344,24 +15351,9 @@ Pelakon : Wafariena Roslan, Josiah Hogan, Rasya Dean, Syed Aiman, Linda Rafar, D
     <desc lang="en">Exclusive coverage from the Spanish LaLiga, Spain's top division of football, with the world's biggest teams and best players.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261114020000 +0000" stop="20261114023500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga FC Futures - Athletic Bilbao vs Atletico Madrid</title>
-    <desc lang="en">The U12 category tournament with the best professional youth clubs from the LaLiga EA Sports competition and international soccer leagues.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261114023500 +0000" stop="20261114031000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga FC Futures - Real Madrid vs Villarreal</title>
-    <desc lang="en">The U12 category tournament with the best professional youth clubs from the LaLiga EA Sports competition and international soccer leagues.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261114031000 +0000" stop="20261114034500 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga FC Futures - Sevilla vs Espanyol</title>
-    <desc lang="en">The U12 category tournament with the best professional youth clubs from the LaLiga EA Sports competition and international soccer leagues.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261114034500 +0000" stop="20261114040000 +0000" channel="beinsports.unifitv">
-    <title lang="en">LaLiga Goals Galore - Julian Alvarez</title>
-    <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
+  <programme start="20261114020000 +0000" stop="20261114040000 +0000" channel="beinsports.unifitv">
+    <title lang="en">AFCON Qualifiers - Morocco vs Niger</title>
+    <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261114040000 +0000" stop="20261114060000 +0000" channel="beinsports.unifitv">

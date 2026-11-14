@@ -280,12 +280,12 @@
   <programme channel="204" start="20261115012500 +0000" stop="20261115030100 +0000">
     <title lang="id">FTV Pagi Spesial: Jangan Gitu Ya Lain Kali Wah Bebek Girl</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/iDbBcpOvw57nxXQTg7X77nunVlM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440384/758769.webp"/>
   </programme>
   <programme channel="204" start="20261115030100 +0000" stop="20261115045700 +0000">
     <title lang="id">FTV Pagi: Babysitter Ganteng Mine Gue</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Z-htpMjpVCn5PTLwpUDXm0HF_iA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440385/7d03fe.webp"/>
   </programme>
   <programme channel="204" start="20261115045700 +0000" stop="20261115053100 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -299,17 +299,17 @@
   <programme channel="204" start="20261115103000 +0000" stop="20261115124900 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/HGb07DmeLDmNFndE0_caypY3ric=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440388/e0efdc.jpg"/>
   </programme>
   <programme channel="204" start="20261115124900 +0000" stop="20261115143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/y7_QKr8Egwu3Px1E2Py7xX_4b9E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440389/81ceac.jpg"/>
   </programme>
   <programme channel="204" start="20261115143000 +0000" stop="20261115155300 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/5LRCHPtnUb2U5cVhIYNb4nJuUuo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440390/3d3ae8.jpg"/>
   </programme>
   <programme channel="204" start="20261115155300 +0000" stop="20261115172600 +0000">
     <title lang="id">FTV Primetime: Foodtruckmu Mengalihkan Duniaku</title>
@@ -583,12 +583,12 @@
     <desc lang="id">Nonton streaming pertandingan seru Final Putri. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/O1SLz53zbqmOeSY10zu6tVoD0O4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436693/39d9fe.jpg"/>
   </programme>
-  <programme channel="206" start="20261114153000 +0000" stop="20261114170000 +0000">
+  <programme channel="206" start="20261114153000 +0000" stop="20261114172800 +0000">
     <title lang="id">Final Putra: Volkom vs Tigalima - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putra. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XNpl-AeXuxsmNJ5fdm_amCtgYDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436694/558146.jpg"/>
   </programme>
-  <programme channel="206" start="20261114153000 +0000" stop="20261114170000 +0000">
+  <programme channel="206" start="20261114153000 +0000" stop="20261114172800 +0000">
     <title lang="id">Final Putra: Volkom vs Tigalima - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putra. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XNpl-AeXuxsmNJ5fdm_amCtgYDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436694/558146.jpg"/>
@@ -3090,22 +3090,22 @@
   <programme channel="782" start="20261115010000 +0000" stop="20261115023000 +0000">
     <title lang="id">Jaane Anjaane</title>
     <desc lang="id">Jaane Anjaane</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/-GVP9QLL4tKNsMEzPr0AFDwf_HQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432190/3a2764.jpg"/>
   </programme>
   <programme channel="782" start="20261115023000 +0000" stop="20261115060000 +0000">
     <title lang="id">Mega Bollywood : Waqt - The Race Againts Time</title>
     <desc lang="id">Mega Bollywood : Waqt - The Race Againts Time</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/kDg-yRRKN17Z3vBWXSNfDJieHBg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432262/5082eb.png"/>
   </programme>
   <programme channel="782" start="20261115060000 +0000" stop="20261115073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Rl8lXE0ydK9p2cT3CVphkUlC-08=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432198/5d0653.jpg"/>
   </programme>
   <programme channel="782" start="20261115073000 +0000" stop="20261115093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/wde-p_V6dbdONhQez2IQE-tbdaw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432205/781ff8.jpg"/>
   </programme>
   <programme channel="782" start="20261115093000 +0000" stop="20261115104500 +0000">
     <title lang="id">Naagin 1</title>
@@ -14455,17 +14455,17 @@
     <desc lang="id">Roma vs Servette - MD4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261114123500 +0000" stop="20261114145000 +0000">
+  <programme channel="6317" start="20261114123500 +0000" stop="20261114150000 +0000">
     <title lang="id">Man Utd vs Crystal Palace - Women's Super League</title>
     <desc lang="id">Akankah Man United kembali melanjutkan tren positifnya saat berjumpa Crystal Palace?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/W1H-LLR68y0TB_L6DAGmXrY5m0A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436506/536d3e.jpg"/>
   </programme>
-  <programme channel="6317" start="20261114145000 +0000" stop="20261114170500 +0000">
+  <programme channel="6317" start="20261114150000 +0000" stop="20261114170500 +0000">
     <title lang="id">Tottenham vs Everton - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Everton - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8dG7TPQfbkQRXNYhv4dVvLpOTpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436507/da44da.jpg"/>
   </programme>
-  <programme channel="6317" start="20261114145000 +0000" stop="20261114170500 +0000">
+  <programme channel="6317" start="20261114150000 +0000" stop="20261114170500 +0000">
     <title lang="id">Tottenham vs Everton - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Everton - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8dG7TPQfbkQRXNYhv4dVvLpOTpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436507/da44da.jpg"/>
@@ -15065,19 +15065,13 @@
     <desc lang="id">Nonton streaming pertandingan seru Gabriela Dabrowski/Luisa Stefani vs Su-Wei Hsieh/Jelena Ostapenko - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/P-3fala_i0VPlGPTujyyTwr5xew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436687/b3e068.png"/>
   </programme>
-  <programme channel="6786" start="20261114015700 +0000" stop="20261114040000 +0000">
+  <programme channel="6786" start="20261114015700 +0000" stop="20261114041900 +0000">
     <title lang="id">Hanyu Guo/Kristina Mladenovic vs Elise Mertens/Shuai Zhang - FAGE WTA Finals Indian Wells 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Hanyu Guo/Kristina Mladenovic vs Elise Mertens/Shuai Zhang - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/9sOe9Uc_TcU-QCg8qaFDfHIemJY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436688/ce4670.png"/>
   </programme>
-  <programme channel="6786" start="20261114040000 +0000" stop="20261114043000 +0000">
-    <title lang="id">Eps 4 : Sport Woman</title>
-    <desc lang="id">Eps 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20261114043000 +0000" stop="20261114050000 +0000">
-    <title lang="id">Full Impact - Round 10 : Serie A 2026/27 - Highlight</title>
-    <desc lang="id">Full Impact - Round 10</desc>
+  <programme channel="6786" start="20261114041900 +0000" stop="20261114050000 +0000">
+    <title lang="id">filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261114050000 +0000" stop="20261114080000 +0000">
@@ -15136,24 +15130,24 @@
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261114200000 +0000" stop="20261114220000 +0000">
-    <title lang="id">Match 25 - Single Semifinal : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 25 - Single Semifinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Jessica Pegula vs Mirra Andreeva - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Jessica Pegula vs Mirra Andreeva - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/vA6pfYkDxUR_XER2q5LbLOI6M30=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440418/585060.png"/>
   </programme>
   <programme channel="6786" start="20261114220000 +0000" stop="20261115000000 +0000">
-    <title lang="id">Match 26 - Single Semifinal : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 26 - Single Semifinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+    <title lang="id">Linda Noskova vs Elina Svitolina - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Linda Noskova vs Elina Svitolina - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/LmamPFZNjhKn9e-KwrCkYjxyFW4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440419/aa31fc.png"/>
   </programme>
-  <programme channel="6786" start="20261115000000 +0000" stop="20261115020000 +0000">
-    <title lang="id">Match 27- Doubles Semifinal : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 27- Doubles Semifinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  <programme channel="6786" start="20261115000000 +0000" stop="20261115013000 +0000">
+    <title lang="id">Gabriela Dabrowski/Luisa Stefani vs Katerina Siniakova/Taylor Townsend - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Gabriela Dabrowski/Luisa Stefani vs Katerina Siniakova/Taylor Townsend - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/99A2G9CHTsZnPfywvz9UANaNsks=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440420/035779.png"/>
   </programme>
-  <programme channel="6786" start="20261115020000 +0000" stop="20261115040000 +0000">
-    <title lang="id">Match 28- Doubles Semifinal : [LIVE] WTA Finals</title>
-    <desc lang="id">Match 28- Doubles Semifinal</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
+  <programme channel="6786" start="20261115013000 +0000" stop="20261115030000 +0000">
+    <title lang="id">Hanyu Guo/Kristina Mladenovic vs Sara Errani/Jasmine Paolini - FAGE WTA Finals Indian Wells 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Hanyu Guo/Kristina Mladenovic vs Sara Errani/Jasmine Paolini - FAGE WTA Finals Indian Wells 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rV1jb5mFqtD7u_v6f4hLoJG1wq8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440421/e0bf4a.png"/>
   </programme>
   <programme channel="6786" start="20261115040000 +0000" stop="20261115043000 +0000">
     <title lang="id">Eps 3 : Sport Woman</title>
@@ -18140,8 +18134,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261115040000 +0000" stop="20261115050000 +0000">
-    <title lang="id">Qualifying : 2026/27 ALMC, Le Castellet</title>
-    <desc lang="id">Teams and drivers compete in the 2026/27 Asian Le Mans Cup, showcasing close endurance racing, strategic pit stops and fierce battles for class honours.</desc>
+    <title lang="id">Highlights : 2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar</title>
+    <desc lang="id">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261115050000 +0000" stop="20261115080000 +0000">
@@ -18199,28 +18193,28 @@
     <desc lang="id">The road to the World Series begins! Watch baseball's top teams battle it out in the ultimate test of skill, strategy, and endurance. Every pitch, every swing, every moment counts.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261116033000 +0000" stop="20261116050000 +0000">
-    <title lang="id">Qualifying : 2026/27 ALMS, 4 Hours of Le Castellet</title>
-    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
-  </programme>
-  <programme channel="17140" start="20261116050000 +0000" stop="20261116100000 +0000">
+  <programme channel="17140" start="20261116033000 +0000" stop="20261116083000 +0000">
     <title lang="id">Race 1 : 2026/27 ALMS, 4 Hours of Le Castellet</title>
     <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261116100000 +0000" stop="20261116150000 +0000">
+  <programme channel="17140" start="20261116083000 +0000" stop="20261116133000 +0000">
     <title lang="id">Race 2 : 2026/27 ALMS, 4 Hours of Le Castellet</title>
     <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261116150000 +0000" stop="20261116170000 +0000">
+  <programme channel="17140" start="20261116133000 +0000" stop="20261116153000 +0000">
     <title lang="id">Q1 : 2026 E1 World Championship Rd 7 Miami GP</title>
     <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
-  <programme channel="17140" start="20261116150000 +0000" stop="20261116170000 +0000">
-    <title lang="id">Q1 : 2026 E1 World Championship Rd 7 Miami GP</title>
+  <programme channel="17140" start="20261116153000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Q2 &amp; Q3 : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
+  </programme>
+  <programme channel="17140" start="20261116153000 +0000" stop="20261116170000 +0000">
+    <title lang="id">Q2 &amp; Q3 : 2026 E1 World Championship Rd 7 Miami GP</title>
     <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
@@ -18470,8 +18464,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261119214500 +0000" stop="20261119231500 +0000">
-    <title lang="id">Qualifying : 2026/27 ALMS, 4 Hours of Le Castellet</title>
-    <desc lang="id">Top international teams and drivers compete in the 2026/27 Asian Le Mans Series, battling for endurance racing honours in a test of speed, strategy and teamwork.</desc>
+    <title lang="id">Finals : 2026 E1 World Championship Rd 7 Miami GP</title>
+    <desc lang="id">Immerse in the UIM E1 World Championship presented by PIF, a realm where relentless innovation, marine preservation, and exhilarating races converge, unveiling a new chapter in water sports.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tojestAwAO68csFmWUKKu_cqa84=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg"/>
   </programme>
   <programme channel="17140" start="20261119231500 +0000" stop="20261120041500 +0000">

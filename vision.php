@@ -610,12 +610,6 @@
 <programme start="20261115113000 +0000" stop="20261115121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20261113230000 +0000" stop="20261114023000 +0000" channel="ANTV.vision">
-<title>Anjaam</title>
-</programme>
-<programme start="20261114023000 +0000" stop="20261114060000 +0000" channel="ANTV.vision">
-<title>Ra.One</title>
-</programme>
 <programme start="20261114060000 +0000" stop="20261114073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -787,9 +781,6 @@
 <programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="TVOne.vision">
 <title>Inspirasi Pagi</title>
 </programme>
-<programme start="20261114013000 +0000" stop="20261114030000 +0000" channel="TVOne.vision">
-<title>Oase Indonesia</title>
-</programme>
 <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="TVOne.vision">
 <title>Pesona Nusantara</title>
 </programme>
@@ -880,12 +871,6 @@
 <programme start="20261114000000 +0000" stop="20261114020000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
 </programme>
-<programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="Kompas TV.vision">
-<title>Sustenesia</title>
-</programme>
-<programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="Kompas TV.vision">
-<title>Bincang Kita</title>
-</programme>
 <programme start="20261114030000 +0000" stop="20261114040000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama</title>
 </programme>
@@ -903,9 +888,6 @@
 </programme>
 <programme start="20261114070000 +0000" stop="20261114080000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama</title>
-</programme>
-<programme start="20261114080000 +0000" stop="20261114090000 +0000" channel="Kompas TV.vision">
-<title>Cerita Militer</title>
 </programme>
 <programme start="20261114090000 +0000" stop="20261114110000 +0000" channel="Kompas TV.vision">
 <title>Kompas Petang</title>
@@ -1375,9 +1357,6 @@
 <programme start="20261114011300 +0000" stop="20261114012300 +0000" channel="Originals.vision">
 <title>24 Hours With Sofia Carson</title>
 </programme>
-<programme start="20261114012300 +0000" stop="20261114024200 +0000" channel="Originals.vision">
-<title>Cecil</title>
-</programme>
 <programme start="20261114024200 +0000" stop="20261114024900 +0000" channel="Originals.vision">
 <title>73 Questions With Hailey Bieber</title>
 </programme>
@@ -1392,9 +1371,6 @@
 </programme>
 <programme start="20261114044200 +0000" stop="20261114044600 +0000" channel="Originals.vision">
 <title>24 Hours With Katy Perry</title>
-</programme>
-<programme start="20261114044600 +0000" stop="20261114061100 +0000" channel="Originals.vision">
-<title>Alien Predator</title>
 </programme>
 <programme start="20261114061100 +0000" stop="20261114062200 +0000" channel="Originals.vision">
 <title>7 Riverdale Fans Explain Why...</title>
@@ -1497,4 +1473,28 @@
 </programme>
 <programme start="20261115023300 +0000" stop="20261115024000 +0000" channel="Originals.vision">
 <title>73 Questions With G. Rodriguez</title>
+</programme>
+<programme start="20261115024000 +0000" stop="20261115024800 +0000" channel="Originals.vision">
+<title>73 Questions With D. Zoolander</title>
+</programme>
+<programme start="20261115024800 +0000" stop="20261115043500 +0000" channel="Originals.vision">
+<title>Nightmare Alley: Possession</title>
+</programme>
+<programme start="20261115043500 +0000" stop="20261115043900 +0000" channel="Originals.vision">
+<title>24 Hours With A$Ap Ferg</title>
+</programme>
+<programme start="20261115043900 +0000" stop="20261115045000 +0000" channel="Originals.vision">
+<title>7 Riverdale Fans Explain Why...</title>
+</programme>
+<programme start="20261115045000 +0000" stop="20261115060900 +0000" channel="Originals.vision">
+<title>Auggie</title>
+</programme>
+<programme start="20261115060900 +0000" stop="20261115061800 +0000" channel="Originals.vision">
+<title>73 Questions With Emma Stone</title>
+</programme>
+<programme start="20261115061800 +0000" stop="20261115062900 +0000" channel="Originals.vision">
+<title>24 Hours With Sofia Carson</title>
+</programme>
+<programme start="20261115062900 +0000" stop="20261115080100 +0000" channel="Originals.vision">
+<title>Mary 4 Mayor</title>
 </programme>
