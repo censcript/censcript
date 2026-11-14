@@ -115,13 +115,10 @@
     <programme start="20261114085500 +0000" stop="20261114100000 +0000" channel="Channel 5.mewatch">
         <title>Tour de France EFGH Singapore Criterium 2026 - Highlights</title>
     </programme>
-    <programme start="20261114100000 +0000" stop="20261114121500 +0000" channel="Channel 5.mewatch">
+    <programme start="20261114100000 +0000" stop="20261114122500 +0000" channel="Channel 5.mewatch">
         <title>(Live) Mizuho Blue Challenge – The Kallang Football Series Singapore - EP 2</title>
     </programme>
-    <programme start="20261114121500 +0000" stop="20261114123000 +0000" channel="Channel 5.mewatch">
-        <title>Long Weekends - EP 6</title>
-    </programme>
-    <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="Channel 5.mewatch">
+    <programme start="20261114122500 +0000" stop="20261114130000 +0000" channel="Channel 5.mewatch">
         <title>Double Yummy - EP 4</title>
     </programme>
     <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="Channel 5.mewatch">

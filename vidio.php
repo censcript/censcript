@@ -564,11 +564,11 @@
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261114080000 +0000" stop="20261114103000 +0000">
+  <programme channel="206" start="20261114080000 +0000" stop="20261114103600 +0000">
     <title lang="id">MYANMAR vs PHILIPPINES - AFC U17 ASIAN CUP 2027 QUALIFIERS</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261114103000 +0000" stop="20261114120000 +0000">
+  <programme channel="206" start="20261114103600 +0000" stop="20261114120000 +0000">
     <title lang="id">SEA V Cup 2026</title>
     <desc lang="id">SEA V CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -578,17 +578,17 @@
     <desc lang="id">VNL 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261114134500 +0000" stop="20261114153000 +0000">
+  <programme channel="206" start="20261114134500 +0000" stop="20261114153300 +0000">
     <title lang="id">Putri Selo vs AVC Prambanan - Perebutan Juara 3 Putri - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putri. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/O1SLz53zbqmOeSY10zu6tVoD0O4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436693/39d9fe.jpg"/>
   </programme>
-  <programme channel="206" start="20261114153000 +0000" stop="20261114172800 +0000">
+  <programme channel="206" start="20261114153300 +0000" stop="20261114172800 +0000">
     <title lang="id">Final Putra: Volkom vs Tigalima - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putra. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XNpl-AeXuxsmNJ5fdm_amCtgYDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436694/558146.jpg"/>
   </programme>
-  <programme channel="206" start="20261114153000 +0000" stop="20261114172800 +0000">
+  <programme channel="206" start="20261114153300 +0000" stop="20261114172800 +0000">
     <title lang="id">Final Putra: Volkom vs Tigalima - Gondanglegi Cup 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru Final Putra. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/XNpl-AeXuxsmNJ5fdm_amCtgYDI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436694/558146.jpg"/>
@@ -3017,27 +3017,27 @@
     <desc lang="id">Jaane Anjaane</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/eTuDsqLt0tW-3b_3VB1MGemm5Ss=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432189/5da986.jpg"/>
   </programme>
-  <programme channel="782" start="20261114023000 +0000" stop="20261114060000 +0000">
+  <programme channel="782" start="20261114023000 +0000" stop="20261114054500 +0000">
     <title lang="id">Mega Bollywood : Ra - ONE</title>
     <desc lang="id">Mega Bollywood : Ra - ONE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/BVAs4uxUgVY1shg7727vW-_1QFY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432258/441ca7.png"/>
   </programme>
-  <programme channel="782" start="20261114060000 +0000" stop="20261114073000 +0000">
+  <programme channel="782" start="20261114054700 +0000" stop="20261114073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/QyVcapTwtgvl4i1EsM43dwQorGE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432197/82402a.jpg"/>
   </programme>
-  <programme channel="782" start="20261114073000 +0000" stop="20261114093000 +0000">
+  <programme channel="782" start="20261114073000 +0000" stop="20261114093200 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KDXAAD19_0NbSBJ_NY0MHn2SF2Y=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5432204/2de431.jpg"/>
   </programme>
-  <programme channel="782" start="20261114093000 +0000" stop="20261114104500 +0000">
+  <programme channel="782" start="20261114093200 +0000" stop="20261114105000 +0000">
     <title lang="id">Naagin 1</title>
     <desc lang="id">Naagin 1</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
   </programme>
-  <programme channel="782" start="20261114104500 +0000" stop="20261114131500 +0000">
+  <programme channel="782" start="20261114105000 +0000" stop="20261114131500 +0000">
     <title lang="id">Sinema Spesial Rhoma Irama : Badai Di Awal Bahagia</title>
     <desc lang="id">Sinema Spesial Rhoma Irama : Badai Di Awal Bahagia</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
@@ -14455,17 +14455,21 @@
     <desc lang="id">Roma vs Servette - MD4</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
   </programme>
-  <programme channel="6317" start="20261114123500 +0000" stop="20261114150000 +0000">
+  <programme channel="6317" start="20261114123500 +0000" stop="20261114144100 +0000">
     <title lang="id">Man Utd vs Crystal Palace - Women's Super League</title>
     <desc lang="id">Akankah Man United kembali melanjutkan tren positifnya saat berjumpa Crystal Palace?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/W1H-LLR68y0TB_L6DAGmXrY5m0A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436506/536d3e.jpg"/>
   </programme>
-  <programme channel="6317" start="20261114150000 +0000" stop="20261114170500 +0000">
+  <programme channel="6317" start="20261114144100 +0000" stop="20261114145000 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xiN-u5MIG7jgOVE2tB_TUIynz7k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-616b1c.jpg"/>
+  </programme>
+  <programme channel="6317" start="20261114145000 +0000" stop="20261114170500 +0000">
     <title lang="id">Tottenham vs Everton - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Everton - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8dG7TPQfbkQRXNYhv4dVvLpOTpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436507/da44da.jpg"/>
   </programme>
-  <programme channel="6317" start="20261114150000 +0000" stop="20261114170500 +0000">
+  <programme channel="6317" start="20261114145000 +0000" stop="20261114170500 +0000">
     <title lang="id">Tottenham vs Everton - Women's Super League</title>
     <desc lang="id">Nonton streaming pertandingan seru Tottenham vs Everton - Women's Super League. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8dG7TPQfbkQRXNYhv4dVvLpOTpM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5436507/da44da.jpg"/>

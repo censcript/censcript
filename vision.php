@@ -619,9 +619,6 @@
 <programme start="20261114093000 +0000" stop="20261114104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261114104500 +0000" stop="20261114131500 +0000" channel="ANTV.vision">
-<title>Badai Di Awal Bahagia</title>
-</programme>
 <programme start="20261114131500 +0000" stop="20261114143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
@@ -1396,9 +1393,6 @@
 <programme start="20261114100000 +0000" stop="20261114100500 +0000" channel="Originals.vision">
 <title>24 Hours With Cole Sprouse</title>
 </programme>
-<programme start="20261114100500 +0000" stop="20261114113600 +0000" channel="Originals.vision">
-<title>The Contract</title>
-</programme>
 <programme start="20261114113600 +0000" stop="20261114114200 +0000" channel="Originals.vision">
 <title>73 Questions With D. Radcliffe</title>
 </programme>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261115062900 +0000" stop="20261115080100 +0000" channel="Originals.vision">
 <title>Mary 4 Mayor</title>
+</programme>
+<programme start="20261115080100 +0000" stop="20261115080600 +0000" channel="Originals.vision">
+<title>24 Hours With A$Ap Ferg</title>
+</programme>
+<programme start="20261115080600 +0000" stop="20261115081400 +0000" channel="Originals.vision">
+<title>73 Questions With Daisy Ridley</title>
 </programme>

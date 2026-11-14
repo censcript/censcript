@@ -4054,10 +4054,10 @@
   <programme start="20261115230000 +0000" stop="20261115234000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (18)</title>
   </programme>
-  <programme start="20261115234000 +0000" stop="20261116002000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261115234000 +0000" stop="20261116002500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (19)</title>
   </programme>
-  <programme start="20261116002000 +0000" stop="20261116010500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261116002500 +0000" stop="20261116010500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (16)</title>
   </programme>
   <programme start="20261116010500 +0000" stop="20261116015000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -4075,10 +4075,10 @@
   <programme start="20261116035500 +0000" stop="20261116043500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20261116043500 +0000" stop="20261116044500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261116043500 +0000" stop="20261116044600 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
-  <programme start="20261116044500 +0000" stop="20261116050000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261116044600 +0000" stop="20261116050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="Prima Krimi SK.webtv.sk">
@@ -17573,7 +17573,7 @@
     <title lang="id">Counting the Cost</title>
   </programme>
   <programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="Al Jazeera English.webtv.sk">
-    <title lang="id">NEWSHOUR: The Wider Story</title>
+    <title lang="id">Newshour</title>
   </programme>
   <programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="Al Jazeera English.webtv.sk">
     <title lang="id">News Live</title>

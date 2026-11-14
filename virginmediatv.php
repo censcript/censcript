@@ -19,16 +19,16 @@
 <programme start="20261114161500 +0000" stop="20261114184000 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Live: Nations Championship - Northern Series: England v Japan</title>
 </programme>
-<programme start="20261113231500 +0000" stop="20261114011500 +0000" channel="RTE_One_HD.virginmediatv">
-    <title>Witness</title>
+<programme start="20261113231800 +0000" stop="20261114012000 +0000" channel="RTE_One_HD.virginmediatv">
+    <title>Weather</title>
 </programme>
-<programme start="20261114011500 +0000" stop="20261114015000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261114012000 +0000" stop="20261114015000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nationwide - Episode 127</title>
 </programme>
-<programme start="20261114015000 +0000" stop="20261114023500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261114015000 +0000" stop="20261114024000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 49</title>
 </programme>
-<programme start="20261114023500 +0000" stop="20261114060000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261114024000 +0000" stop="20261114060000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261114114000 +0000" stop="20261114125000 +0000" channel="RTE_One_HD.virginmediatv">
@@ -235,16 +235,19 @@
 <programme start="20261113223500 +0000" stop="20261114001500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Late Late Show - Episode 24</title>
 </programme>
-<programme start="20261114001500 +0000" stop="20261114021500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261114001500 +0000" stop="20261114001800 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Witness</title>
 </programme>
-<programme start="20261114021500 +0000" stop="20261114025000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261114001800 +0000" stop="20261114022000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Weather</title>
+</programme>
+<programme start="20261114022000 +0000" stop="20261114025000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Nationwide - Episode 127</title>
 </programme>
-<programme start="20261114025000 +0000" stop="20261114033500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261114025000 +0000" stop="20261114034000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 49</title>
 </programme>
-<programme start="20261114033500 +0000" stop="20261114070000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261114034000 +0000" stop="20261114070000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261114113500 +0000" stop="20261114124000 +0000" channel="RTE_One_+1.virginmediatv">
@@ -299,7 +302,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>AI Decoded</title>
+    <title>AI Decoded - Is the AI Party Over?</title>
 </programme>
 <programme start="20261114104500 +0000" stop="20261114120500 +0000" channel="BBC1_HD.virginmediatv">
     <title>The Lord Mayor&#039;s Show - 2026</title>
@@ -2176,11 +2179,8 @@
 <programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Tech Now</title>
 </programme>
-<programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261114010000 +0000" stop="20261114020000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Clive Myrie&#039;s African Adventure - Abeokuta</title>
 </programme>
 <programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2200,11 +2200,8 @@
 <programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The Travel Show - Brazil Part 1</title>
 </programme>
-<programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
 </programme>
 <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2216,7 +2213,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
+    <title>AI Decoded - Is the AI Party Over?</title>
 </programme>
 <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
