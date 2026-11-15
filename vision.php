@@ -610,12 +610,6 @@
 <programme start="20261116114500 +0000" stop="20261116121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20261114230000 +0000" stop="20261115023000 +0000" channel="ANTV.vision">
-<title>Chak De! India</title>
-</programme>
-<programme start="20261115023000 +0000" stop="20261115060000 +0000" channel="ANTV.vision">
-<title>Waqt: The Race Againts Time</title>
-</programme>
 <programme start="20261115060000 +0000" stop="20261115073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -690,9 +684,6 @@
 </programme>
 <programme start="20261115053000 +0000" stop="20261115073000 +0000" channel="RTV.vision">
 <title>SUPER WINGS</title>
-</programme>
-<programme start="20261115073000 +0000" stop="20261115083000 +0000" channel="RTV.vision">
-<title>Miniforce</title>
 </programme>
 <programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="RTV.vision">
 <title>Riko The Series</title>
@@ -774,9 +765,6 @@
 </programme>
 <programme start="20261115030000 +0000" stop="20261115033000 +0000" channel="TVOne.vision">
 <title>Indonesia Plus</title>
-</programme>
-<programme start="20261115033000 +0000" stop="20261115040000 +0000" channel="TVOne.vision">
-<title>Dunia Dalam Kamera</title>
 </programme>
 <programme start="20261115040000 +0000" stop="20261115053000 +0000" channel="TVOne.vision">
 <title>Kabar Siang (L)</title>
@@ -1496,5 +1484,17 @@
 <title>Bali TV</title>
 </programme>
 <programme start="20261115233000 +0000" stop="20261116010000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261116010000 +0000" stop="20261116050000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261116050000 +0000" stop="20261116070000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261116070000 +0000" stop="20261116103000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261116103000 +0000" stop="20261116120000 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
 </programme>
