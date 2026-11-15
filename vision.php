@@ -619,14 +619,8 @@
 <programme start="20261115093000 +0000" stop="20261115104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261115104500 +0000" stop="20261115131500 +0000" channel="ANTV.vision">
-<title>Cinta Segitiga</title>
-</programme>
 <programme start="20261115131500 +0000" stop="20261115143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261115143000 +0000" stop="20261115164500 +0000" channel="ANTV.vision">
-<title>Sudah Pasti Tahan</title>
 </programme>
 <programme start="20261115164500 +0000" stop="20261115183000 +0000" channel="ANTV.vision">
 <title>Ever Victorious</title>
@@ -684,9 +678,6 @@
 </programme>
 <programme start="20261115053000 +0000" stop="20261115073000 +0000" channel="RTV.vision">
 <title>SUPER WINGS</title>
-</programme>
-<programme start="20261115083000 +0000" stop="20261115090000 +0000" channel="RTV.vision">
-<title>Riko The Series</title>
 </programme>
 <programme start="20261115090000 +0000" stop="20261115103000 +0000" channel="RTV.vision">
 <title>Robocar Poli</title>
@@ -786,9 +777,6 @@
 </programme>
 <programme start="20261115130000 +0000" stop="20261115140000 +0000" channel="TVOne.vision">
 <title>Kabar Utama 2</title>
-</programme>
-<programme start="20261115140000 +0000" stop="20261115150000 +0000" channel="TVOne.vision">
-<title>Renungan Jiwa</title>
 </programme>
 <programme start="20261115150000 +0000" stop="20261115160000 +0000" channel="TVOne.vision">
 <title>One Pride MMA: The Best</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20261116103000 +0000" stop="20261116120000 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
+</programme>
+<programme start="20261114230200 +0000" stop="20261115005400 +0000" channel="Originals.vision">
+<title>Legendary Voyages</title>
+</programme>
+<programme start="20261115005400 +0000" stop="20261115005800 +0000" channel="Originals.vision">
+<title>24 Hours With Katy Perry</title>
+</programme>
+<programme start="20261115005800 +0000" stop="20261115010500 +0000" channel="Originals.vision">
+<title>24 Hours With A$Ap Ferg</title>
+</programme>
+<programme start="20261115010500 +0000" stop="20261115023300 +0000" channel="Originals.vision">
+<title>The Moment</title>
 </programme>

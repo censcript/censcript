@@ -3757,8 +3757,8 @@
 <programme start="20261115163000 +0000" stop="20261115173000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>DP World Tour Championship, DP World Tour Golf - Day 4: Highlights</title>
 </programme>
-<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>Scotland&#039;s Greatest Golf Holes</title>
+<programme start="20261115173000 +0000" stop="20261115203000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: Austin Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20261115000000 +0000" stop="20261115001500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Green Bay Packers at New England Patriots</title>
@@ -4444,8 +4444,8 @@
 <programme start="20261115163000 +0000" stop="20261115173000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>DP World Tour Championship, DP World Tour Golf - Day 4: Highlights</title>
 </programme>
-<programme start="20261115173000 +0000" stop="20261115180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>Scotland&#039;s Greatest Golf Holes</title>
+<programme start="20261115173000 +0000" stop="20261115203000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: Austin Championship, PGA Tour Golf - Day 4</title>
 </programme>
 <programme start="20261115000000 +0000" stop="20261115001500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Green Bay Packers at New England Patriots</title>
