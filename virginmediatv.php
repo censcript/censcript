@@ -1423,8 +1423,14 @@
 <programme start="20261115122000 +0000" stop="20261115124500 +0000" channel="ITV4_HD.virginmediatv">
     <title>ITV Racing - The Derby Through the Years</title>
 </programme>
-<programme start="20261115124500 +0000" stop="20261115163000 +0000" channel="ITV4_HD.virginmediatv">
+<programme start="20261115124500 +0000" stop="20261115160000 +0000" channel="ITV4_HD.virginmediatv">
     <title>Live: Champion of Champions Snooker - Final</title>
+</programme>
+<programme start="20261115160000 +0000" stop="20261115161500 +0000" channel="ITV4_HD.virginmediatv">
+    <title>The Best of the 70s</title>
+</programme>
+<programme start="20261115161500 +0000" stop="20261115163000 +0000" channel="ITV4_HD.virginmediatv">
+    <title>The Best of the 90s</title>
 </programme>
 <programme start="20261115163000 +0000" stop="20261115173500 +0000" channel="ITV4_HD.virginmediatv">
     <title>Minder - I&#039;ll Never Forget Whatsername</title>

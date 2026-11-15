@@ -622,9 +622,6 @@
 <programme start="20261115131500 +0000" stop="20261115143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261115164500 +0000" stop="20261115183000 +0000" channel="ANTV.vision">
-<title>Ever Victorious</title>
-</programme>
 <programme start="20261115183000 +0000" stop="20261115193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
 </programme>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261115010500 +0000" stop="20261115023300 +0000" channel="Originals.vision">
 <title>The Moment</title>
+</programme>
+<programme start="20261115023300 +0000" stop="20261115024000 +0000" channel="Originals.vision">
+<title>73 Questions With G. Rodriguez</title>
 </programme>

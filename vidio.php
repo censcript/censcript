@@ -829,12 +829,12 @@
   <programme channel="205" start="20261115180000 +0000" stop="20261115200000 +0000">
     <title lang="id">Mega Film Asia: Ip Man: The Awakening Master</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/MuLUKb0_CEyichBsVIUH-24dDEE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434629/c4787b.png"/>
   </programme>
   <programme channel="205" start="20261115200000 +0000" stop="20261115213000 +0000">
     <title lang="id">Mega Film Asia: Island Of Fire</title>
     <desc lang="id">Mega Film Asia Adalah Program Yang Memutarkan Film-Film Asia Yang Ditayangkan Di Indosiar. Acara Ini Ditayangkan Perdana Pada Tahun 1996 Silam.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/cBZL7ITaJCof6cqtayFee2uJCX8=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/woSnY0pJfI99Vp5laaJAb7Av6e4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5434630/9bcfd4.png"/>
   </programme>
   <programme channel="205" start="20261115213000 +0000" stop="20261115230000 +0000">
     <title lang="id">Fokus Pagi</title>
@@ -884,7 +884,7 @@
   <programme channel="205" start="20261116100000 +0000" stop="20261116120000 +0000">
     <title lang="id">Merangkai Kisah Indah</title>
     <desc lang="id">Mega Series Terbaru Raden Rakha Dan Basmalah Gralind Di Indosiar Merangkai Kisah Indah Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 Wib. Kisah Derita Mutiara Yang Mencari Orangtua Kandungnya Karena Sewaktu Bayi Ditukar Oleh Ibu Angkatnya. Nasib Membawa Dirinya Bertemu Dengan Keluarga Yang Tanpa Dia Ketahui Adalah Orangtua Kandungnya Dan Juga Bertemu Kenzo. Apakah Kenzo Dan Mutiara Akan Berjodoh? Dibintangi Raden Rakha, Basmalah Gralind, Panji Saputra, Tsania Marwa, Gita Sinaga, Vayala Maulidina, Washifa, Haura Lathifa, Dan Emiliano Cortizo. Saksikan Mega Series Terbaru Indosiar : Merangkai Kisah Indah, Tayang Setiap Hari, Mulai Senin, 14 Juli 2025 Pukul 17:00 WIB Hanya Di Indosiar.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/WIl2jiaTLEzHnNAo61AGzfdEXh8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/389747/fc3ce1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/txbD7ooFP443oJOzxnrFFMlJe6Q=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5441250/61b4c6.jpg"/>
   </programme>
   <programme channel="205" start="20261116120000 +0000" stop="20261116160000 +0000">
     <title lang="id">D'Academy 8</title>
@@ -14614,12 +14614,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261115175000 +0000" stop="20261115210000 +0000">
+  <programme channel="6685" start="20261115175000 +0000" stop="20261115210100 +0000">
     <title lang="id">Minnesota Vikings vs Green Bay Packers - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru Minnesota Vikings vs Green Bay Packers - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/qm_D0MArla8KH-hUJFjdtjWmcHo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5440479/b73478.jpg"/>
   </programme>
-  <programme channel="6685" start="20261115210000 +0000" stop="20261115211500 +0000">
+  <programme channel="6685" start="20261115210100 +0000" stop="20261115211500 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
@@ -16649,22 +16649,17 @@
     <desc lang="id">Game 4 Ricky - Team Hitman vs Team Hatton</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
   </programme>
-  <programme channel="17875" start="20261115163000 +0000" stop="20261115180000 +0000">
+  <programme channel="17875" start="20261115163000 +0000" stop="20261115192500 +0000">
     <title lang="id">Dubai P1 Premier Padel - Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VYRGKckbYf_9m308m_KX00CnXbg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5437152/22a83f.png"/>
   </programme>
-  <programme channel="17875" start="20261115163000 +0000" stop="20261115180000 +0000">
+  <programme channel="17875" start="20261115163000 +0000" stop="20261115192500 +0000">
     <title lang="id">Dubai P1 Premier Padel - Finals</title>
     <desc lang="id">Nonton streaming pertandingan seru Dubai P1 Premier Padel - Finals. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VYRGKckbYf_9m308m_KX00CnXbg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5437152/22a83f.png"/>
   </programme>
-  <programme channel="17875" start="20261115180000 +0000" stop="20261115183000 +0000">
-    <title lang="id">Milan P1 : Premier Padel Highlights 2026</title>
-    <desc lang="id">Milan P1</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
-  </programme>
-  <programme channel="17875" start="20261115183000 +0000" stop="20261115200000 +0000">
+  <programme channel="17875" start="20261115192500 +0000" stop="20261115200000 +0000">
     <title lang="id">Pretoria P1 Day 6 SF2 - Women : Premier Padel 2026</title>
     <desc lang="id">Pretoria P1 Day 6 SF2 - Women</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/VmoYokSeKr_3SubUXC-rMC-EtQM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17875/bein-2-25a5f9.jpg"/>
@@ -37719,9 +37714,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20261115190000 +0000" stop="20261115220000 +0000">
-    <title lang="id">PGA TOUR</title>
-    <desc lang="id">Austin Championship presented by Compliance Solutions Round 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">Round 4 - Austin Championship presented by Compliance Solutions 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - Austin Championship presented by Compliance Solutions 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/3bx-Cvfs1k1iz50OcdAAtjKStmI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5441536/115a5b.png"/>
   </programme>
   <programme channel="18189" start="20261115220000 +0000" stop="20261116000000 +0000">
     <title lang="id">PGA TOUR CHAMPIONS</title>
