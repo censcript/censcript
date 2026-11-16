@@ -822,12 +822,12 @@
   <channel id="tv2.unifitv">
     <display-name>TV2</display-name>
   </channel>
-  <programme start="20261115154000 +0000" stop="20261115163000 +0000" channel="tv2.unifitv">
-    <title lang="en">Ella &amp; Friends</title>
-    <desc lang="en">Saksikan kembali persembahan artis-artis popular tanah air dalam rancangan hiburan terbitan Unit Hiburan TV, RTM.</desc>
+  <programme start="20261115130000 +0000" stop="20261115164000 +0000" channel="tv2.unifitv">
+    <title lang="en">Nayakan</title>
+    <desc lang="en">Kisah kehidupan Velu Naicker, seorang lelaki biasa yang menjadi figura berpengaruh di dunia jenayah di kawasan miskin Bombay. Selepas kematian ayahnya yang dibunuh secara kejam oleh pihak polis korup, Velu melarikan diri ke Bombay dan akhirnya bangkit menjadi pelindung kepada komuniti Tamil di sana. Didorong oleh rasa keadilan dan pengalaman peribadi, Velu menggunakan kuasanya untuk membantu golongan tertindas, namun terperangkap dalam dilema moral antara undang-undang dan keadilan.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261115163000 +0000" stop="20261115173000 +0000" channel="tv2.unifitv">
+  <programme start="20261115164000 +0000" stop="20261115173000 +0000" channel="tv2.unifitv">
     <title lang="en">Bukan Yang Pertama</title>
     <desc lang="en">Drama kemasyarakatan yang memaparkan hubungan kekeluargaan, persahabatan dan percintaan.</desc>
     <category lang="en">Drama</category>
