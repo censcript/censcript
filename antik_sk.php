@@ -14848,29 +14848,128 @@
   <programme start="20261118005500 +0000" stop="20261118015300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
   </programme>
-  <programme start="20261118015300 +0000" stop="20261118053000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261118015300 +0000" stop="20261118025800 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Marián Porvažník</title>
+  </programme>
+  <programme start="20261118025800 +0000" stop="20261118034500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
+  </programme>
+  <programme start="20261118034500 +0000" stop="20261118040600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Záznam zo zastupiteľstva KSK - 24.8.2026</title>
+  </programme>
+  <programme start="20261118040600 +0000" stop="20261118044700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Ján Sklár po voľbách</title>
+  </programme>
+  <programme start="20261118044700 +0000" stop="20261118045000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
+  </programme>
+  <programme start="20261118045000 +0000" stop="20261118051800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261118051800 +0000" stop="20261118052000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261118052000 +0000" stop="20261118053000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - 336</title>
   </programme>
   <programme start="20261118053000 +0000" stop="20261118063000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Katedrála Košice - Sv. liturgia</title>
   </programme>
-  <programme start="20261118063000 +0000" stop="20261118090000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261118063000 +0000" stop="20261118073000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Katedrála Košice - Utiereň</title>
+  </programme>
+  <programme start="20261118073000 +0000" stop="20261118074100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261118074100 +0000" stop="20261118074400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
+  </programme>
+  <programme start="20261118074400 +0000" stop="20261118085300 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zvyky od Martina do Vianoc - sv. Martin</title>
+  </programme>
+  <programme start="20261118085300 +0000" stop="20261118090000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
   </programme>
   <programme start="20261118090000 +0000" stop="20261118093000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Modlitba sv. ruženca</title>
   </programme>
-  <programme start="20261118093000 +0000" stop="20261118123000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261118093000 +0000" stop="20261118110500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Sv. liturgia</title>
   </programme>
-  <programme start="20261118123000 +0000" stop="20261118140000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261118110500 +0000" stop="20261118111600 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261118111600 +0000" stop="20261118111900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Aká je moja obľúbená modlitba?</title>
+  </programme>
+  <programme start="20261118111900 +0000" stop="20261118112900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - 336</title>
+  </programme>
+  <programme start="20261118112900 +0000" stop="20261118113900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Varovanie Slovensku: Ľudia nechcú byť, chcú mať</title>
+  </programme>
+  <programme start="20261118113900 +0000" stop="20261118115200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zvyky od Martina do Vianoc - sv. Martin</title>
+  </programme>
+  <programme start="20261118115200 +0000" stop="20261118123000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA ŠÍRAVE - Ako dopadla letná sezóna 2026?</title>
+  </programme>
+  <programme start="20261118123000 +0000" stop="20261118125000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Kňazský seminár Prešov - 6. čas</title>
   </programme>
-  <programme start="20261118140000 +0000" stop="20261118153000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261118125000 +0000" stop="20261118130000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
+  </programme>
+  <programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Bežovčanky</title>
+  </programme>
+  <programme start="20261118140000 +0000" stop="20261118142300 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Litmanová - Korunka k Božiemu milosrdenstvu</title>
   </programme>
-  <programme start="20261118153000 +0000" stop="20261118183000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261118142300 +0000" stop="20261118142500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261118142500 +0000" stop="20261118143400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - 336</title>
+  </programme>
+  <programme start="20261118143400 +0000" stop="20261118151500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zvyky od Martina do Vianoc - sv. Martin</title>
+  </programme>
+  <programme start="20261118151500 +0000" stop="20261118152500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Evanjelium na dnes</title>
+  </programme>
+  <programme start="20261118152500 +0000" stop="20261118153000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261118153000 +0000" stop="20261118175000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
+  </programme>
+  <programme start="20261118175000 +0000" stop="20261118175900 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Gréckokatolícky magazín - 336</title>
+  </programme>
+  <programme start="20261118175900 +0000" stop="20261118180100 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Litmanovská Vizionárka Iveta: Slovami sa nedá vyjadriť, aká je Panna Mária</title>
+  </programme>
+  <programme start="20261118180100 +0000" stop="20261118183400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Zvyky od Martina do Vianoc - sv. Martin</title>
+  </programme>
+  <programme start="20261118183400 +0000" stop="20261118191200 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">FOLKLÓR NA VÝCHODE - FS Hrunok</title>
+  </programme>
+  <programme start="20261118191200 +0000" stop="20261118191500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Charakterové minútky - Iniciatíva vs. Ľahostajnosť</title>
+  </programme>
+  <programme start="20261118191500 +0000" stop="20261118200400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Binatinski chlopci</title>
+  </programme>
+  <programme start="20261118200400 +0000" stop="20261118210000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA VÝCHODE: Vavrinec Žeňuch - História colníctva</title>
+  </programme>
+  <programme start="20261118210000 +0000" stop="20261118220400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Ján Sklár po voľbách</title>
+  </programme>
+  <programme start="20261118220400 +0000" stop="20261118232800 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
   </programme>
   <programme start="20261117230000 +0000" stop="20261118000000 +0000" channel="TV Poprad.webtv.sk">
     <title lang="id">TV Poprad</title>

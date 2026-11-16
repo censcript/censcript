@@ -179,7 +179,7 @@
     <title>Nuacht TG4 - Episode 319</title>
 </programme>
 <programme start="20261116021500 +0000" stop="20261116031500 +0000" channel="TG4_HD.virginmediatv">
-    <title>Curfá - Episode 3</title>
+    <title>Curfá - Curfá</title>
 </programme>
 <programme start="20261116031500 +0000" stop="20261116041000 +0000" channel="TG4_HD.virginmediatv">
     <title>Ceol ón Earagail - Episode 6</title>
@@ -2621,7 +2621,7 @@
     <title>Access Middle East</title>
 </programme>
 <programme start="20261116050000 +0000" stop="20261116053000 +0000" channel="CNBC_HD.virginmediatv">
-    <title>Managing Middle East - Riyadh Air</title>
+    <title>Managing Middle East - Fertiglobe</title>
 </programme>
 <programme start="20261116053000 +0000" stop="20261116060000 +0000" channel="CNBC_HD.virginmediatv">
     <title>The CNBC Conversation - Antonio Filosa, CEO, Stellantis</title>
@@ -2662,8 +2662,11 @@
 <programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="CNBC_HD.virginmediatv">
     <title>Fast Money Halftime Report</title>
 </programme>
-<programme start="20261116000000 +0000" stop="20261116020000 +0000" channel="CNN_HD.virginmediatv">
+<programme start="20261116000000 +0000" stop="20261116010000 +0000" channel="CNN_HD.virginmediatv">
     <title>CNN Newsroom Sunday</title>
+</programme>
+<programme start="20261116010000 +0000" stop="20261116020000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Iran and the Bomb: A Fareed Zakaria Special</title>
 </programme>
 <programme start="20261116020000 +0000" stop="20261116030000 +0000" channel="CNN_HD.virginmediatv">
     <title>Fareed Zakaria GPS - Episode 48</title>
@@ -5171,7 +5174,7 @@
     <title>Nuacht TG4 - Episode 319</title>
 </programme>
 <programme start="20261116031500 +0000" stop="20261116041500 +0000" channel="TG4+1_HD.virginmediatv">
-    <title>Curfá - Episode 3</title>
+    <title>Curfá - Curfá</title>
 </programme>
 <programme start="20261116041500 +0000" stop="20261116051000 +0000" channel="TG4+1_HD.virginmediatv">
     <title>Ceol ón Earagail - Episode 6</title>
@@ -6055,7 +6058,7 @@
 <programme start="20261115185800 +0000" stop="20261116025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261116025800 +0000" stop="20261116060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261116025800 +0000" stop="20261116070000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261116115500 +0000" stop="20261116122000 +0000" channel="CBBC.virginmediatv">
