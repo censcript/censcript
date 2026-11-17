@@ -449,7 +449,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261117121500 +0000" stop="20261117130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - Milburn report into youth unemployment</title>
 </programme>
 <programme start="20261117130000 +0000" stop="20261117134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 12</title>
@@ -2380,11 +2380,8 @@
 <programme start="20261117053000 +0000" stop="20261117060000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today</title>
 </programme>
-<programme start="20261117120000 +0000" stop="20261117123000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20261117123000 +0000" stop="20261117130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261117110000 +0000" stop="20261117130000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261117130000 +0000" stop="20261117140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
@@ -3782,7 +3779,7 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261117120000 +0000" stop="20261117150000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
-    <title>Live Tennis: ATP Finals 2026 - Day 3: Singles</title>
+    <title>Live Tennis: ATP Finals 2026 - Day 3, Singles: Arthur Fils v Rafael Jodar</title>
 </programme>
 <programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="Sky_Sports_Main_Event_HD.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 3: South Africa v Bangladesh</title>
@@ -4262,7 +4259,7 @@
     <title>Tennis: ATP Canadian Open 2026 - Review</title>
 </programme>
 <programme start="20261117120000 +0000" stop="20261117150000 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
-    <title>Live Tennis: ATP Finals 2026 - Day 3: Singles</title>
+    <title>Live Tennis: ATP Finals 2026 - Day 3, Singles: Arthur Fils v Rafael Jodar</title>
 </programme>
 <programme start="20261117150000 +0000" stop="20261117151500 +0000" channel="Sky_Sports_Tennis_HD.virginmediatv">
     <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Final</title>
@@ -4688,7 +4685,7 @@
     <title>Sky Sports News</title>
 </programme>
 <programme start="20261117120000 +0000" stop="20261117150000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
-    <title>Live Tennis: ATP Finals 2026 - Day 3: Singles</title>
+    <title>Live Tennis: ATP Finals 2026 - Day 3, Singles: Arthur Fils v Rafael Jodar</title>
 </programme>
 <programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Test Cricket - 1st Test, Day 3: South Africa v Bangladesh</title>
@@ -5168,7 +5165,7 @@
     <title>Tennis: ATP Canadian Open 2026 - Review</title>
 </programme>
 <programme start="20261117120000 +0000" stop="20261117150000 +0000" channel="Sky_Sports_Tennis.virginmediatv">
-    <title>Live Tennis: ATP Finals 2026 - Day 3: Singles</title>
+    <title>Live Tennis: ATP Finals 2026 - Day 3, Singles: Arthur Fils v Rafael Jodar</title>
 </programme>
 <programme start="20261117150000 +0000" stop="20261117151500 +0000" channel="Sky_Sports_Tennis.virginmediatv">
     <title>Tennis: ATP &amp; WTA Cincinnati Open 2026 - WTA Final</title>
@@ -6110,7 +6107,7 @@
     <title>The Adventures of Paddington - Paddington and the Solar Eclipse; Paddington and the Mysterious Inventor</title>
 </programme>
 <programme start="20261117120000 +0000" stop="20261117130000 +0000" channel="Nick_Junior.virginmediatv">
-    <title>PAW Patrol - A Zuma Pirate Adventure</title>
+    <title>A Zuma Pirate Adventure</title>
 </programme>
 <programme start="20261117130000 +0000" stop="20261117133000 +0000" channel="Nick_Junior.virginmediatv">
     <title>The Marsupilamis - Jade the Juggler; Parcel Chase</title>
@@ -6172,7 +6169,7 @@
 <programme start="20261116185800 +0000" stop="20261117025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261117025800 +0000" stop="20261117070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261117025800 +0000" stop="20261117060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261117115500 +0000" stop="20261117121500 +0000" channel="CBBC.virginmediatv">

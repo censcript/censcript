@@ -643,17 +643,8 @@
 <programme start="20261117093000 +0000" stop="20261117104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261117104500 +0000" stop="20261117131500 +0000" channel="ANTV.vision">
-<title>Kemilau Cinta Di Langit Jingga</title>
-</programme>
 <programme start="20261117131500 +0000" stop="20261117143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261117143000 +0000" stop="20261117164500 +0000" channel="ANTV.vision">
-<title>Gengsi Dong</title>
-</programme>
-<programme start="20261117164500 +0000" stop="20261117183000 +0000" channel="ANTV.vision">
-<title>Royal Warriors</title>
 </programme>
 <programme start="20261117183000 +0000" stop="20261117193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261117230000 +0000" stop="20261118010000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261118010000 +0000" stop="20261118030000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261118030000 +0000" stop="20261118050000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261118050000 +0000" stop="20261118070000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
