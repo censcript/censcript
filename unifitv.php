@@ -1,34 +1,7 @@
 <!-- Fetching EPG from 2026-11-17 00:00:00 to 2026-11-18 00:00:00 MYT -->
-<!-- Total programs: 72, Total pages: 8 -->
+<!-- Total programs: 71, Total pages: 8 -->
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="UnifiTV EPG Parser" generator-info-url="https://unifitv.com.my/">
-  <channel id="unknown.unifitv">
-    <display-name>UFC PPV</display-name>
-  </channel>
-  <programme start="20261116150000 +0000" stop="20261116210000 +0000" channel="unknown.unifitv">
-    <title lang="en">(R) UFC 334: Gane vs. Hokit Pass</title>
-    <desc lang="en">As UFC touches down at Accor Arena in Paris for the fifth consecutive year on Saturday, September 5, the main event features a fascinating lightweight pairing between Dan “The Hangman” Hooker and promotional newcomer Salahdine Parnasse. An all-action staple in the division for the last decade, New Zealand’s Hooker headlines for the fourth time in his UFC career, looking to add to a win total that includes victories over Mateusz Gamrot and Jalin Turner. Hailing from Aubervilliers, France, the 28-yearold Parnasse was a two-division champion under the KSW banner, amassing seven successful title defenses while standing as one of the top talents competing outside of UFC</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261116210000 +0000" stop="20261116213000 +0000" channel="unknown.unifitv">
-    <title lang="en">Unifi TV Promo</title>
-    <desc lang="en">Catch all the latest promotion, movies and series only on Unifi TV 2.0</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261116213000 +0000" stop="20261116220000 +0000" channel="unknown.unifitv">
-    <title lang="en">UFC Connected "Origins: Themba Gorimbo, Unbreakable: Njokuani Brothers, Warrior Code: Dricus du Plessis</title>
-    <desc lang="en">UFC welterweight Themba Gorimbo reveals how he overcame a life of hardship and adversity, from the trenches of the African gold mines to the biggest stage in MMA.  Chidi Njokuani details his life-long journey to the octagon under the guidance and mentorship of his brother Anthony Njokuani, former UFC lightweight contender.  UFC Middleweight Champion Dricus du Plessis reveals his keys to success in the octagon.</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261116220000 +0000" stop="20261116223000 +0000" channel="unknown.unifitv">
-    <title lang="en">Unifi TV Promo</title>
-    <desc lang="en">Catch all the latest promotion, movies and series only on Unifi TV 2.0</desc>
-    <category lang="en">Sports</category>
-  </programme>
-  <programme start="20261116223000 +0000" stop="20261116225900 +0000" channel="unknown.unifitv">
-    <title lang="en">Slide Next PPV Event</title>
-    <category lang="en">Sports</category>
-  </programme>
   <channel id="inspirasi.unifitv">
     <display-name>Inspirasi</display-name>
   </channel>
@@ -637,8 +610,6 @@
     <title lang="en">Refleksi Aktif (Ulangan)</title>
     <desc lang="en">Bersama hos Fariha Razak menyelami latihan-latihan yang dilaksanakan oleh atlet-atlet berprestasi tinggi dalam meningkatkan prestasi mereka.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.10.</episode-num>
-    <episode-num system="onscreen">S1E11</episode-num>
   </programme>
   <programme start="20261116160000 +0000" stop="20261116163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -649,50 +620,36 @@
     <title lang="en">Peduli Tukun (Ulangan)</title>
     <desc lang="en">Program ini memaparkan usaha pemuliharaan laut, khususnya terumbu karang, serta peranan agensi berkaitan dalam memelihara ekosistem dan sumber marin negara.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261116173000 +0000" stop="20261116180000 +0000" channel="tv1.unifitv">
     <title lang="en">Legasi Maritim Melayu (Ulangan)</title>
     <desc lang="en">Sebuah program dokumentari yang memaparkan warisan ilmu laut dan membongkar rahsia kehebatan dunia maritim rumpun Melayu sejak zaman silam. Temuramah bersama individu berkaitan juga turut dilakukan bagi mendapatkan lebih informasi.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261116180000 +0000" stop="20261116190000 +0000" channel="tv1.unifitv">
     <title lang="en">Isteri Untuk Diiktiraf (Ulangan)</title>
     <desc lang="en">Sebuah drama bersiri berkisar kekeluargaan lakonan Elvina Mohamad, Redza Rosli, Dayana Roza, Janna Nick, Shiela Rusly, Shah Jazle.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261116190000 +0000" stop="20261116193000 +0000" channel="tv1.unifitv">
     <title lang="en">Cerita Samudera (Ulangan)</title>
     <desc lang="en">Sebuah program dokumentari yang memaparkan topik-topik berkaitan dengan dunia marin dan pesisiran pantai di negara kita.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261116193000 +0000" stop="20261116203000 +0000" channel="tv1.unifitv">
     <title lang="en">Demi (Ulangan)</title>
     <desc lang="en">Sumayyah dan Hamzah berkahwin dan tinggal bersama ibubapa Sumayyah. Sumayyah adalah anak tiri pada Dato' Nasir. Arwah ayah Sumayyah telah mewasiatkan padanya mencari pakcik Amiruddin. Sumayyah cuba mencari pakcik Amiruddin walaupun mendapat bantahan dari ibu dan suaminya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261116203000 +0000" stop="20261116210000 +0000" channel="tv1.unifitv">
     <title lang="en">Sembang Jarak Jauh (Ulangan)</title>
     <desc lang="en">Saksikan drama lakonan Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Eunos Madeonos, Yana Alyahya, Shera Aiyob, Azhan Rani, Azizah Mahzan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20261116210000 +0000" stop="20261116213500 +0000" channel="tv1.unifitv">
     <title lang="en">Projek Hias (Ulangan)</title>
     <desc lang="en">Sebuah majalah yang memaparkan dekorasi hiasan dalaman rumah oleh dua pasangan keluarga yang akan bertanding mengikut konsep yand ditetapkan oleh Pakar Perunding Hiasan Dalaman yang juga merangkap sebagai ketua juri iaitu Puan Dinny.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261116213500 +0000" stop="20261116220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al-Waqiah (2026)</title>
@@ -703,8 +660,6 @@
     <title lang="en">Anda Musykil 2026 (Ulangan)</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa dalam Anda Musykil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261116230000 +0000" stop="20261116234400 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA PAGI</title>
@@ -730,8 +685,6 @@
     <title lang="en">Help! We Bought A Village (Ulangan)</title>
     <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261117050000 +0000" stop="20261117053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -742,15 +695,11 @@
     <title lang="en">Kasih Malisa (Ulangan)</title>
     <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.14.</episode-num>
-    <episode-num system="onscreen">S1E15</episode-num>
   </programme>
   <programme start="20261117063000 +0000" stop="20261117070000 +0000" channel="tv1.unifitv">
     <title lang="en">Kronologi Si Penjual Roti (Ulangan)</title>
     <desc lang="en">Saksikan drama lakonan Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Eunos Madeonos, Yana Alyahya, Shera Aiyob, Azhan Rani, Azizah Mahzan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.3.</episode-num>
-    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261117070000 +0000" stop="20261117070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -761,8 +710,6 @@
     <title lang="en">Kuppa Kopi 2026</title>
     <desc lang="en">Saksikan program bual bicara bersama tetamu istimewa.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.35.</episode-num>
-    <episode-num system="onscreen">S1E36</episode-num>
   </programme>
   <programme start="20261117080000 +0000" stop="20261117080500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -773,15 +720,11 @@
     <title lang="en">Ringgit &amp; Anda (Ulangan)</title>
     <desc lang="en">Sebuah dokumentari yang memaparkan tips-tips pengurusan kewangan dalam kehidupan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261117083000 +0000" stop="20261117090000 +0000" channel="tv1.unifitv">
     <title lang="en">Biz Malaysia 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.82.</episode-num>
-    <episode-num system="onscreen">S1E83</episode-num>
   </programme>
   <programme start="20261117090000 +0000" stop="20261117100000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA WILAYAH</title>
@@ -792,15 +735,11 @@
     <title lang="en">Bismillah 2026 (Ulangan)</title>
     <desc lang="en">Saksikan Bismillah menghayati Tilawah &amp; Tadabbur surah al-fatihah yang menceritakan tentang kebesaran Allah dan pedoman hidup manusia dalam damaikan jiwamu dengan bismillah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.11.</episode-num>
-    <episode-num system="onscreen">S1E12</episode-num>
   </programme>
   <programme start="20261117104500 +0000" stop="20261117114400 +0000" channel="tv1.unifitv">
     <title lang="en">Amanat Wasiat Sumayyah (Ulangan)</title>
     <desc lang="en">Sumayyah dan Hamzah berkahwin dan tinggal bersama ibubapa Sumayyah. Sumayyah adalah anak tiri pada Dato' Nasir. Arwah ayah Sumayyah telah mewasiatkan padanya mencari pakcik Amiruddin. Sumayyah cuba mencari pakcik Amiruddin walaupun mendapat bantahan dari ibu dan suaminya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20261117114400 +0000" stop="20261117120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -836,15 +775,11 @@
     <title lang="en">Isteri Untuk Diiktiraf (Ulangan)</title>
     <desc lang="en">Sebuah drama bersiri berkisar kekeluargaan lakonan Elvina Mohamad, Redza Rosli, Dayana Roza, Janna Nick, Shiela Rusly, Shah Jazle.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.12.</episode-num>
-    <episode-num system="onscreen">S1E13</episode-num>
   </programme>
   <programme start="20261117153000 +0000" stop="20261117160000 +0000" channel="tv1.unifitv">
     <title lang="en">Innovation Nation (Ulangan)</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.13.</episode-num>
-    <episode-num system="onscreen">S1E14</episode-num>
   </programme>
   <programme start="20261117160000 +0000" stop="20261117163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -1928,6 +1863,9 @@
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
+  <channel id="unknown.unifitv">
+    <display-name>Sukan+</display-name>
+  </channel>
   <programme start="20261116150000 +0000" stop="20261116160000 +0000" channel="unknown.unifitv">
     <title lang="en">RACE TO GLORY</title>
     <desc lang="en">Megentengahkan pelbagai cabaran ekstrem, ketahanan mental, dan strategi taktikal yang dilalui oleh pasukan serta peserta dalam acara perlumbaan berprestij tinggi.</desc>
@@ -5786,17 +5724,17 @@
     <desc lang="en">Shobha is abducted by a bandit, Azaad. When she returns home, she tells her family about her decision to marry Azaad. Will they agree?</desc>
     <category lang="en">Action</category>
   </programme>
-  <programme start="20261116190000 +0000" stop="20261116230000 +0000" channel="zeecinemahd.unifitv">
+  <programme start="20261116190000 +0000" stop="20261116220000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">Shamitabh</title>
     <desc lang="en">A mute, aspiring actor joins forces with a man who has a powerful voice. Together they take the film industry by storm, but will their egos get in the way?</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261116230000 +0000" stop="20261117030000 +0000" channel="zeecinemahd.unifitv">
+  <programme start="20261116220000 +0000" stop="20261117010000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">Om Jai Jagdish</title>
     <desc lang="en">Three brothers, struggling with personal issues, must unite to save their ancestral home from auction. Their journey brings laughter, tears, and the rediscovery of family bonds.</desc>
     <category lang="en">Musical</category>
   </programme>
-  <programme start="20261117030000 +0000" stop="20261117040000 +0000" channel="zeecinemahd.unifitv">
+  <programme start="20261117010000 +0000" stop="20261117040000 +0000" channel="zeecinemahd.unifitv">
     <title lang="en">Sirf Tum</title>
     <desc lang="en">Deepak and Aarti's love blossoms through heartfelt letters. But will they finally meet in bustling Delhi, or will their romance remain a beautiful mystery?</desc>
     <category lang="en">Romance</category>
@@ -15595,27 +15533,32 @@
     <desc lang="en">The world's top LPGA stars compete in WTGL, a new indoor team golf league combining virtual and physical play in a technology-driven format, where strategy and teamwork are key to victory.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20261117030000 +0000" stop="20261117073000 +0000" channel="spotv.unifitv">
+  <programme start="20261117030000 +0000" stop="20261117061500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 WTCS, Abu Dhabi - Women's and Men's Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
     <category lang="en">Triathlon</category>
   </programme>
-  <programme start="20261117073000 +0000" stop="20261117080000 +0000" channel="spotv.unifitv">
+  <programme start="20261117061500 +0000" stop="20261117071500 +0000" channel="spotv.unifitv">
+    <title lang="en">2026 World Surf League Replay - WRP0512 Philippines Pro Finals Day</title>
+    <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+    <category lang="en">Surfing</category>
+  </programme>
+  <programme start="20261117071500 +0000" stop="20261117075000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Asia-Pacific Amateur Championship - Highlights</title>
     <desc lang="en">Top amateur golfers from across the Asia-Pacific region battle for championship honours, showcasing elite talent and earning opportunities to compete on golf's biggest stages.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20261117080000 +0000" stop="20261117093000 +0000" channel="spotv.unifitv">
+  <programme start="20261117075000 +0000" stop="20261117090500 +0000" channel="spotv.unifitv">
     <title lang="en">2026 The Asian Tournament, Iloilo - Game 19: QF Rd 2</title>
     <desc lang="en">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261117093000 +0000" stop="20261117110000 +0000" channel="spotv.unifitv">
+  <programme start="20261117090500 +0000" stop="20261117104000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 The Asian Tournament, Iloilo - Game 20: QF Rd 2</title>
     <desc lang="en">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
     <category lang="en">Basketball</category>
   </programme>
-  <programme start="20261117110000 +0000" stop="20261117123000 +0000" channel="spotv.unifitv">
+  <programme start="20261117104000 +0000" stop="20261117123000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 The Asian Tournament, Iloilo - Game 21: QF Rd 2</title>
     <desc lang="en">Basketball teams from across Asia compete in The Asian Tournament's regular season in Iloilo, Philippines, showcasing regional talent and competitive team matchups.</desc>
     <category lang="en">Basketball</category>
