@@ -4069,37 +4069,34 @@
   <programme start="20261119221500 +0000" stop="20261119232000 +0000" channel="Prima Love SK.webtv.sk">
     <title lang="id">Velmi křehké vztahy II (63)</title>
   </programme>
-  <programme start="20261118220500 +0000" stop="20261118230500 +0000" channel="Prima Krimi SK.webtv.sk">
-    <title lang="id">Vraždy v Kitzbühelu IX (12)</title>
-  </programme>
-  <programme start="20261118230500 +0000" stop="20261118234500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261118224500 +0000" stop="20261118232500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (24)</title>
   </programme>
-  <programme start="20261118234500 +0000" stop="20261119002500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261118232500 +0000" stop="20261119000500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (25)</title>
   </programme>
-  <programme start="20261119002500 +0000" stop="20261119011000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119000500 +0000" stop="20261119005000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (22)</title>
   </programme>
-  <programme start="20261119011000 +0000" stop="20261119015000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119005000 +0000" stop="20261119013000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (23)</title>
   </programme>
-  <programme start="20261119015000 +0000" stop="20261119023000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119013000 +0000" stop="20261119021000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (12)</title>
   </programme>
-  <programme start="20261119023000 +0000" stop="20261119031500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119021000 +0000" stop="20261119031500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vraždy, které šokovaly XXIII (13)</title>
   </programme>
   <programme start="20261119031500 +0000" stop="20261119035500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20261119035500 +0000" stop="20261119043500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119035500 +0000" stop="20261119041500 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Policie v akci</title>
   </programme>
-  <programme start="20261119043500 +0000" stop="20261119044500 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119041500 +0000" stop="20261119044600 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Noční Praha</title>
   </programme>
-  <programme start="20261119044500 +0000" stop="20261119050000 +0000" channel="Prima Krimi SK.webtv.sk">
+  <programme start="20261119044600 +0000" stop="20261119050000 +0000" channel="Prima Krimi SK.webtv.sk">
     <title lang="id">Vysielacia prestávka</title>
   </programme>
   <programme start="20261119050000 +0000" stop="20261119052500 +0000" channel="Prima Krimi SK.webtv.sk">

@@ -206,7 +206,7 @@
     <title>The Listening Post</title>
 </programme>
 <programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
+    <title>NewsHour: The Wider Story</title>
 </programme>
 <programme start="20261117160000 +0000" stop="20261117163000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -1458,42 +1458,6 @@
 </programme>
 <programme start="20261117150000 +0000" stop="20261117153000 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
-</programme>
-<programme start="20261116170000 +0000" stop="20261116190000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261116190000 +0000" stop="20261116210000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261116210000 +0000" stop="20261116230000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261116230000 +0000" stop="20261117010000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117010000 +0000" stop="20261117030000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117030000 +0000" stop="20261117050000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117050000 +0000" stop="20261117070000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117070000 +0000" stop="20261117090000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117090000 +0000" stop="20261117110000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117110000 +0000" stop="20261117130000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117130000 +0000" stop="20261117150000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
-</programme>
-<programme start="20261117150000 +0000" stop="20261117153000 +0000" channel="beIN SPORTS 5.mncvision">
-    <title>beIN Sports 5</title>
 </programme>
 <programme start="20261116170000 +0000" stop="20261116180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg ETF IQ</title>
@@ -3632,7 +3596,7 @@
     <title>Gutfeld!</title>
 </programme>
 <programme start="20261117090000 +0000" stop="20261117100000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>Fox &amp; Friends First</title>
 </programme>
 <programme start="20261117100000 +0000" stop="20261117110000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>

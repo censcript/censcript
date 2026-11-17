@@ -427,19 +427,22 @@
 <programme start="20261117171500 +0000" stop="20261117180000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Pointless - Episode 51</title>
 </programme>
-<programme start="20261117000000 +0000" stop="20261117015500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261116230500 +0000" stop="20261117000500 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Eye Investigations - The Model Trap: Exposing Jeffrey Epstein&#039;s Network</title>
+</programme>
+<programme start="20261117000500 +0000" stop="20261117020000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Harriet</title>
 </programme>
-<programme start="20261117015500 +0000" stop="20261117022500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261117020000 +0000" stop="20261117023000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>See Hear - The Future of Deaf Education</title>
 </programme>
-<programme start="20261117022500 +0000" stop="20261117032000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261117023000 +0000" stop="20261117032500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Countryfile - County Antrim Dairy</title>
 </programme>
-<programme start="20261117032000 +0000" stop="20261117042000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261117032500 +0000" stop="20261117042500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Rise of the Rockstar Chef - Episode 2</title>
 </programme>
-<programme start="20261117042000 +0000" stop="20261117064500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261117042500 +0000" stop="20261117064500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261117090000 +0000" stop="20261117121500 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -2357,7 +2360,7 @@
     <title>Newsday</title>
 </programme>
 <programme start="20261117033000 +0000" stop="20261117034500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today</title>
+    <title>Tech Now</title>
 </programme>
 <programme start="20261117034500 +0000" stop="20261117040000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC Sport</title>
@@ -4288,10 +4291,10 @@
 <programme start="20261117020000 +0000" stop="20261117070000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Australian Racing</title>
 </programme>
-<programme start="20261117084500 +0000" stop="20261117163000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+<programme start="20261117093000 +0000" stop="20261117160000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: International Raceday</title>
 </programme>
-<programme start="20261117163000 +0000" stop="20261117210000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
+<programme start="20261117160000 +0000" stop="20261117210000 +0000" channel="Sky_Sports_Racing_HD.virginmediatv">
     <title>Live: Raceday</title>
 </programme>
 <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="Racing_UK.virginmediatv">

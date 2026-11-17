@@ -202,8 +202,8 @@
 <programme start="20261118113000 +0000" stop="20261118140000 +0000" channel="GTV.vision">
 <title>GTV</title>
 </programme>
-<programme start="20261116234500 +0000" stop="20261117001500 +0000" channel="iNews.vision">
-<title>Morning Update</title>
+<programme start="20261117000000 +0000" stop="20261117001500 +0000" channel="iNews.vision">
+<title>Special Report</title>
 </programme>
 <programme start="20261117001500 +0000" stop="20261117011500 +0000" channel="iNews.vision">
 <title>iNews Room Pagi (L)</title>
@@ -238,10 +238,10 @@
 <programme start="20261117140000 +0000" stop="20261117150000 +0000" channel="iNews.vision">
 <title>iNews Prime (L)</title>
 </programme>
-<programme start="20261117150000 +0000" stop="20261117151500 +0000" channel="iNews.vision">
+<programme start="20261117150000 +0000" stop="20261117151000 +0000" channel="iNews.vision">
 <title>Breaking Goals (L)</title>
 </programme>
-<programme start="20261117151500 +0000" stop="20261117163000 +0000" channel="iNews.vision">
+<programme start="20261117151000 +0000" stop="20261117163000 +0000" channel="iNews.vision">
 <title>iNews Malam (Live)</title>
 </programme>
 <programme start="20261117163000 +0000" stop="20261117170000 +0000" channel="iNews.vision">
@@ -256,19 +256,13 @@
 <programme start="20261117181500 +0000" stop="20261117190000 +0000" channel="iNews.vision">
 <title>iNews Malam</title>
 </programme>
-<programme start="20261117190000 +0000" stop="20261117194500 +0000" channel="iNews.vision">
+<programme start="20261117190000 +0000" stop="20261117193000 +0000" channel="iNews.vision">
 <title>Breaking News</title>
 </programme>
-<programme start="20261117194500 +0000" stop="20261117203000 +0000" channel="iNews.vision">
-<title>Special Report</title>
+<programme start="20261117193000 +0000" stop="20261117214500 +0000" channel="iNews.vision">
+<title>iNews</title>
 </programme>
-<programme start="20261117203000 +0000" stop="20261117210000 +0000" channel="iNews.vision">
-<title>Realita</title>
-</programme>
-<programme start="20261117210000 +0000" stop="20261117211500 +0000" channel="iNews.vision">
-<title>Realita</title>
-</programme>
-<programme start="20261117211500 +0000" stop="20261117230000 +0000" channel="iNews.vision">
+<programme start="20261117214500 +0000" stop="20261117230000 +0000" channel="iNews.vision">
 <title>Inews Pagi (Live)</title>
 </programme>
 <programme start="20261117230000 +0000" stop="20261117231500 +0000" channel="iNews.vision">
@@ -304,10 +298,13 @@
 <programme start="20261118074500 +0000" stop="20261118091500 +0000" channel="iNews.vision">
 <title>Realita (L)</title>
 </programme>
-<programme start="20261118091500 +0000" stop="20261118114500 +0000" channel="iNews.vision">
+<programme start="20261118091500 +0000" stop="20261118112500 +0000" channel="iNews.vision">
 <title>Inews Sore (Live)</title>
 </programme>
-<programme start="20261118114500 +0000" stop="20261118140000 +0000" channel="iNews.vision">
+<programme start="20261118112500 +0000" stop="20261118113000 +0000" channel="iNews.vision">
+<title>iNews Terkini (L)</title>
+</programme>
+<programme start="20261118113000 +0000" stop="20261118140000 +0000" channel="iNews.vision">
 <title>iNews</title>
 </programme>
 <programme start="20261117000000 +0000" stop="20261117003000 +0000" channel="SindoNews.vision">
@@ -523,9 +520,6 @@
 <programme start="20261117054500 +0000" stop="20261117063000 +0000" channel="Trans 7.vision">
 <title>Bocah Petualang</title>
 </programme>
-<programme start="20261117063000 +0000" stop="20261117071500 +0000" channel="Trans 7.vision">
-<title>Indonesiaku</title>
-</programme>
 <programme start="20261117071500 +0000" stop="20261117074500 +0000" channel="Trans 7.vision">
 <title>Redaksi</title>
 </programme>
@@ -639,9 +633,6 @@
 </programme>
 <programme start="20261116230000 +0000" stop="20261117023000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20261117023000 +0000" stop="20261117060000 +0000" channel="ANTV.vision">
-<title>Baaghi 3</title>
 </programme>
 <programme start="20261117060000 +0000" stop="20261117073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
@@ -1312,9 +1303,6 @@
 <programme start="20261117030000 +0000" stop="20261117033000 +0000" channel="BTV.vision">
 <title>Jendela Nusantara</title>
 </programme>
-<programme start="20261117033000 +0000" stop="20261117040000 +0000" channel="BTV.vision">
-<title>Indonesia Update Cerita IDN</title>
-</programme>
 <programme start="20261117040000 +0000" stop="20261117050000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
@@ -1496,5 +1484,17 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261117150000 +0000" stop="20261117170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261117170000 +0000" stop="20261117190000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261117190000 +0000" stop="20261117210000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261117210000 +0000" stop="20261117230000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261117230000 +0000" stop="20261118010000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

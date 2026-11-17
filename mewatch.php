@@ -742,13 +742,16 @@
     <programme start="20261116160000 +0000" stop="20261117094500 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 17th November, Tuesday 5.45pm. Mizuho Blue Challenge 2026: Singapore vs Brazil </title>
     </programme>
-    <programme start="20261117094500 +0000" stop="20261117125500 +0000" channel="Live 2.mewatch">
+    <programme start="20261117094500 +0000" stop="20261117120500 +0000" channel="Live 2.mewatch">
         <title>Mizuho Blue Challenge 2026: Singapore vs Brazil</title>
     </programme>
-    <programme start="20261117125500 +0000" stop="20261117150000 +0000" channel="Live 2.mewatch">
+    <programme start="20261117120500 +0000" stop="20261117125500 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 17th November, Tuesday 8.55pm. Mizuho Blue Challenge 2026: Japan vs Paraguay</title>
+    </programme>
+    <programme start="20261117125500 +0000" stop="20261117151000 +0000" channel="Live 2.mewatch">
         <title>Mizuho Blue Challenge 2026: Japan vs Paraguay</title>
     </programme>
-    <programme start="20261117150000 +0000" stop="20261117160000 +0000" channel="Live 2.mewatch">
+    <programme start="20261117151000 +0000" stop="20261117160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 18th November, Wednesday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
     </programme>
     <programme start="20261117160000 +0000" stop="20261118113000 +0000" channel="Live 2.mewatch">
