@@ -458,7 +458,7 @@
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261118111500 +0000" stop="20261118130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - Prime Minister&#039;s Questions</title>
 </programme>
 <programme start="20261118130000 +0000" stop="20261118134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 13</title>
@@ -2354,7 +2354,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261118003000 +0000" stop="20261118010000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Newscast</title>
+    <title>Newscast - Can Milburn&#039;s Neets Report Help Britain&#039;s &#039;Lost Generation&#039;?</title>
 </programme>
 <programme start="20261118010000 +0000" stop="20261118013000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -2396,7 +2396,7 @@
     <title>Business Today</title>
 </programme>
 <programme start="20261118115500 +0000" stop="20261118130000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - Prime Minister&#039;s Questions</title>
 </programme>
 <programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News at One</title>
@@ -4073,7 +4073,7 @@
     <title>Lunchtime Live</title>
 </programme>
 <programme start="20261118130000 +0000" stop="20261118170000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
-    <title>Grand Slam of Darts - Day 4</title>
+    <title>Grand Slam of Darts - Grand Slam Of Darts D4 17.11 (1900-2300) Wolverhampton</title>
 </programme>
 <programme start="20261118170000 +0000" stop="20261118190000 +0000" channel="Sky_Sports_Plus_HD.virginmediatv">
     <title>The Premier League Show - Episode 157</title>
@@ -4955,7 +4955,7 @@
     <title>Lunchtime Live</title>
 </programme>
 <programme start="20261118130000 +0000" stop="20261118170000 +0000" channel="Sky_Sports_Plus.virginmediatv">
-    <title>Grand Slam of Darts - Day 4</title>
+    <title>Grand Slam of Darts - Grand Slam Of Darts D4 17.11 (1900-2300) Wolverhampton</title>
 </programme>
 <programme start="20261118170000 +0000" stop="20261118190000 +0000" channel="Sky_Sports_Plus.virginmediatv">
     <title>The Premier League Show - Episode 157</title>

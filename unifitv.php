@@ -12715,7 +12715,7 @@
   </programme>
   <programme start="20261117163300 +0000" stop="20261117170300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.45.</episode-num>
     <episode-num system="onscreen">S1E46</episode-num>
@@ -12744,7 +12744,7 @@
   </programme>
   <programme start="20261117193300 +0000" stop="20261117200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Is the AI boom a bubble and what happens if it bursts?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.62.</episode-num>
     <episode-num system="onscreen">S1E63</episode-num>
@@ -12817,7 +12817,7 @@
   </programme>
   <programme start="20261118043300 +0000" stop="20261118050300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Al Jazeera Explains</title>
-    <desc lang="en">Al Jazeera Explains goes beyond the headlines to bring clarity, context and the bigger picture to the stories shaping the world today.</desc>
+    <desc lang="en">As Al Jazeera English marks 20 years, we examine who shapes the global news agenda and how AI is changing what reaches you.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.7.</episode-num>
     <episode-num system="onscreen">S1E8</episode-num>
@@ -12839,7 +12839,7 @@
   </programme>
   <programme start="20261118063300 +0000" stop="20261118070300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Bottom Line</title>
-    <desc lang="en">Weekly discussion show on U.S. politics and policies hosted by Steve Clemons.</desc>
+    <desc lang="en">How will the U.S. Democratic Party navigate between its centrist establishment and the demands of its progressive members?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.45.</episode-num>
     <episode-num system="onscreen">S1E46</episode-num>
@@ -12856,7 +12856,7 @@
   </programme>
   <programme start="20261118083300 +0000" stop="20261118090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">A rape conviction for British online influencer Russell Brand and a reckoning for the media that made him. Plus, how Australia was sold a gambling habit.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.41.</episode-num>
     <episode-num system="onscreen">S1E42</episode-num>
@@ -12909,14 +12909,12 @@
   </programme>
   <programme start="20261118143300 +0000" stop="20261118150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Somali State Minister for Foreign Affairs discusses the country's recovery since its government collapsed 30 years ago.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.506.</episode-num>
-    <episode-num system="onscreen">S1E507</episode-num>
   </programme>
   <programme start="20261118150300 +0000" stop="20261118160300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
-    <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
+    <title lang="en">Newshour</title>
+    <desc lang="en">Latest news and in-depth analysis from around the world.</desc>
     <category lang="en">News</category>
   </programme>
   <channel id="cgtnhd.unifitv">
@@ -15800,7 +15798,7 @@
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261118052000 +0000" stop="20261118071000 +0000" channel="beinsports3.unifitv">
-    <title lang="en">AFCON Qualifiers - Togo vs Algeria</title>
+    <title lang="en">AFCON Qualifiers -Liberia vs Cape Verde</title>
     <desc lang="en">Catch all the action as the teams view for a spot in the 2027 Africa Cup of Nations, which will be jointly hosted by Kenya, Tanzania, and Uganda.</desc>
     <category lang="en">Sports</category>
   </programme>

@@ -646,9 +646,6 @@
 <programme start="20261117230000 +0000" stop="20261118023000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20261118023000 +0000" stop="20261118060000 +0000" channel="ANTV.vision">
-<title>Rocky Rani Ki Prem Kahani</title>
-</programme>
 <programme start="20261118060000 +0000" stop="20261118073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -711,12 +708,6 @@
 </programme>
 <programme start="20261118054500 +0000" stop="20261118061500 +0000" channel="RTV.vision">
 <title>Tawa Satwa</title>
-</programme>
-<programme start="20261118061500 +0000" stop="20261118073000 +0000" channel="RTV.vision">
-<title>Smurfs</title>
-</programme>
-<programme start="20261118073000 +0000" stop="20261118080000 +0000" channel="RTV.vision">
-<title>BOBOIBOY</title>
 </programme>
 <programme start="20261118080000 +0000" stop="20261118090000 +0000" channel="RTV.vision">
 <title>Tom &amp; Jerry</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261118110000 +0000" stop="20261118130000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261118130000 +0000" stop="20261118150000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261118150000 +0000" stop="20261118170000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261118170000 +0000" stop="20261118210000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>
