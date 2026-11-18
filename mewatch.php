@@ -748,13 +748,13 @@
     <programme start="20261118160000 +0000" stop="20261119110000 +0000" channel="Live 1.mewatch">
         <title>No programme available now. Next broadcast on 19th November, Thursday 7pm. The Wonder Shop Home Shopping</title>
     </programme>
-    <programme start="20261117160000 +0000" stop="20261118113000 +0000" channel="Live 2.mewatch">
-        <title>No Programme available now. Next Broadcast on 18th November, Wednesday 7.30pm. ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
+    <programme start="20261117160000 +0000" stop="20261118110200 +0000" channel="Live 2.mewatch">
+        <title>No Programme available now. Next Broadcast on 18th November, Wednesday 7.02pm. ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
     </programme>
-    <programme start="20261118113000 +0000" stop="20261118133000 +0000" channel="Live 2.mewatch">
+    <programme start="20261118110200 +0000" stop="20261118133500 +0000" channel="Live 2.mewatch">
         <title>ASEAN Shopee Cup™ 2026/2027: Tampines Rovers FC vs Ratchaburi FC</title>
     </programme>
-    <programme start="20261118133000 +0000" stop="20261118160000 +0000" channel="Live 2.mewatch">
+    <programme start="20261118133500 +0000" stop="20261118160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 29th November, Sunday 2pm. Singlife Nations Cup 2026</title>
     </programme>
     <programme start="20261118160000 +0000" stop="20261119160000 +0000" channel="Live 2.mewatch">

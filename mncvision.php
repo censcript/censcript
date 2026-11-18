@@ -143,7 +143,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20261118053000 +0000" stop="20261118060000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+    <title>Inside Story</title>
 </programme>
 <programme start="20261118060000 +0000" stop="20261118063000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -188,7 +188,7 @@
     <title>Talk To Al Jazeera</title>
 </programme>
 <programme start="20261118150000 +0000" stop="20261118160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
+    <title>Newshour: The Wider Story</title>
 </programme>
 <programme start="20261118160000 +0000" stop="20261118163000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -1283,7 +1283,7 @@
     <title>AFCON Qual. 2027: KEN Vs RSA</title>
 </programme>
 <programme start="20261118052000 +0000" stop="20261118071000 +0000" channel="beIN Sports 3.mncvision">
-    <title>AFCON Qual. 2027: TOG Vs ALG</title>
+    <title>AFCON Qual. 2027: LBR Vs CPV</title>
 </programme>
 <programme start="20261118071000 +0000" stop="20261118090000 +0000" channel="beIN Sports 3.mncvision">
     <title>AFCON Qual. 2027: GNB Vs MAD</title>
@@ -1334,7 +1334,7 @@
     <title>AFCON Qual. 2027: KEN Vs RSA</title>
 </programme>
 <programme start="20261118052000 +0000" stop="20261118071000 +0000" channel="beIN Sports 3 HD.mncvision">
-    <title>AFCON Qual. 2027: TOG Vs ALG</title>
+    <title>AFCON Qual. 2027: LBR Vs CPV</title>
 </programme>
 <programme start="20261118071000 +0000" stop="20261118090000 +0000" channel="beIN Sports 3 HD.mncvision">
     <title>AFCON Qual. 2027: GNB Vs MAD</title>
@@ -1392,6 +1392,42 @@
 </programme>
 <programme start="20261118151500 +0000" stop="20261118154500 +0000" channel="beIN SPORTS 4.mncvision">
     <title>beIN Sports 4</title>
+</programme>
+<programme start="20261117170000 +0000" stop="20261117190000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261117190000 +0000" stop="20261117210000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261117210000 +0000" stop="20261117230000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261117230000 +0000" stop="20261118010000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118010000 +0000" stop="20261118030000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118030000 +0000" stop="20261118050000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118050000 +0000" stop="20261118070000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118070000 +0000" stop="20261118090000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118090000 +0000" stop="20261118110000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118110000 +0000" stop="20261118130000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118130000 +0000" stop="20261118150000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
+</programme>
+<programme start="20261118150000 +0000" stop="20261118153000 +0000" channel="beIN SPORTS 5.mncvision">
+    <title>beIN Sports 5</title>
 </programme>
 <programme start="20261117170000 +0000" stop="20261117180000 +0000" channel="Bloomberg.mncvision">
     <title>Bloomberg Crypto</title>
@@ -3545,10 +3581,10 @@
     <title>Hannity</title>
 </programme>
 <programme start="20261118080000 +0000" stop="20261118090000 +0000" channel="FOX News.mncvision">
-    <title>Gutfeld!</title>
+    <title>Fox News Live</title>
 </programme>
 <programme start="20261118090000 +0000" stop="20261118100000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>Fox &amp; Friends First</title>
 </programme>
 <programme start="20261118100000 +0000" stop="20261118110000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
@@ -5095,11 +5131,11 @@
 <programme start="20261118090000 +0000" stop="20261118103000 +0000" channel="Kids TV.mncvision">
     <title>Petualangan Upin &amp; Ipin</title>
 </programme>
-<programme start="20261118103000 +0000" stop="20261118105000 +0000" channel="Kids TV.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20261118105000 +0000" stop="20261118110000 +0000" channel="Kids TV.mncvision">
+<programme start="20261118103000 +0000" stop="20261118104000 +0000" channel="Kids TV.mncvision">
     <title>Dunia Laluna</title>
+</programme>
+<programme start="20261118104000 +0000" stop="20261118110000 +0000" channel="Kids TV.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261118110000 +0000" stop="20261118113000 +0000" channel="Kids TV.mncvision">
     <title>Gecko&#039;s Garage</title>
@@ -5230,11 +5266,11 @@
 <programme start="20261118090000 +0000" stop="20261118103000 +0000" channel="Kids TV HD.mncvision">
     <title>Petualangan Upin &amp; Ipin</title>
 </programme>
-<programme start="20261118103000 +0000" stop="20261118105000 +0000" channel="Kids TV HD.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20261118105000 +0000" stop="20261118110000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20261118103000 +0000" stop="20261118104000 +0000" channel="Kids TV HD.mncvision">
     <title>Dunia Laluna</title>
+</programme>
+<programme start="20261118104000 +0000" stop="20261118110000 +0000" channel="Kids TV HD.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261118110000 +0000" stop="20261118113000 +0000" channel="Kids TV HD.mncvision">
     <title>Gecko&#039;s Garage</title>

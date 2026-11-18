@@ -1866,6 +1866,197 @@
     <episode-num system="xmltv_ns">0.9.</episode-num>
     <episode-num system="onscreen">S1E10</episode-num>
   </programme>
+  <programme start="20261117220000 +0000" stop="20261117220500 +0000" channel="unknown.unifitv">
+    <title lang="en">KLIP NEGARAKU</title>
+    <desc lang="en">Lagu Negaraku</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261117220500 +0000" stop="20261117221500 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261117221500 +0000" stop="20261117223000 +0000" channel="unknown.unifitv">
+    <title lang="en">INOVASI PRESTASI</title>
+    <desc lang="en">Pengisian berinformasi mengenai pembangunan dunia sukan moden melalui aplikasi teknologi dan inovasi dalam sukan.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20261117223000 +0000" stop="20261117230000 +0000" channel="unknown.unifitv">
+    <title lang="en">SUNRISE TO HEALTH</title>
+    <desc lang="en">Paparan gaya hidup sihat yang memberi tumpuan kepada panduan penjagaan kesihatan dan gaya hidup sihat untuk seisi keluarga.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20261117230000 +0000" stop="20261117233000 +0000" channel="unknown.unifitv">
+    <title lang="en">SIHAT HOLISTIK</title>
+    <desc lang="en">Sebuah rancangan gaya hidup sihat yang menampilkan pelbagai informasi kesihatan dan cara bagaimana membina personaliti yang unggul serta sejahtera</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20261117233000 +0000" stop="20261117234000 +0000" channel="unknown.unifitv">
+    <title lang="en">(L): STADIUM RTM</title>
+    <desc lang="en">Membawakan perkembangan terkini, isu-isu semasa Sukan dalam negara dan luar negara.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261117234000 +0000" stop="20261118000000 +0000" channel="unknown.unifitv">
+    <title lang="en">PADU FIZIKAL</title>
+    <desc lang="en">Rancangan yang mengetengahkan kaedah latihan dan pergerakan fizikal secara terperinci serta manfaatnya.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261118000000 +0000" stop="20261118003000 +0000" channel="unknown.unifitv">
+    <title lang="en">FIFA STORIES FROM THE CITIES</title>
+    <desc lang="en">Rancangan yang membawa penonton mengimbau kembali tentang Piala Dunia melalui cerita, budaya, dan jiwa setiap bandar serta menghubungkan manusia tanpa mengira sempadan.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.10.</episode-num>
+    <episode-num system="onscreen">S1E11</episode-num>
+  </programme>
+  <programme start="20261118003000 +0000" stop="20261118010000 +0000" channel="unknown.unifitv">
+    <title lang="en">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="en">Imbasan di sebalik tabir sepanjang kemeriahan kejohanan Piala Dunia FIFA 2026 yang telah berlangsung di tiga negara tuan rumah Amerika Syarikat, Kanada, dan Mexico.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.25.</episode-num>
+    <episode-num system="onscreen">S1E26</episode-num>
+  </programme>
+  <programme start="20261118010000 +0000" stop="20261118023000 +0000" channel="unknown.unifitv">
+    <title lang="en">FIH HOCKEY WORLD CUP 2026</title>
+    <desc lang="en">Saksikan siaran ulangan kejohanan Hoki Piala Dunia 2026.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118023000 +0000" stop="20261118030000 +0000" channel="unknown.unifitv">
+    <title lang="en">HUB SUKAN</title>
+    <desc lang="en">Rancangan yang mengupas pelbagai informasi mengenai sukan kompetitif serta faktor utama dalam melahirkan atlet bergelar juara.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20261118030000 +0000" stop="20261118031500 +0000" channel="unknown.unifitv">
+    <title lang="en">SPORT SHOOT</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
+  </programme>
+  <programme start="20261118031500 +0000" stop="20261118033000 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118033000 +0000" stop="20261118040000 +0000" channel="unknown.unifitv">
+    <title lang="en">FIFA WORLD CUP UNSEEN</title>
+    <desc lang="en">Imbasan di sebalik tabir sepanjang kemeriahan kejohanan Piala Dunia FIFA 2026 yang telah berlangsung di tiga negara tuan rumah Amerika Syarikat, Kanada, dan Mexico.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.26.</episode-num>
+    <episode-num system="onscreen">S1E27</episode-num>
+  </programme>
+  <programme start="20261118040000 +0000" stop="20261118043000 +0000" channel="unknown.unifitv">
+    <title lang="en">GAME CHANGER</title>
+    <desc lang="en">Memaparkan kisah, strategi, dan inovasi yang merevolusikan landskap sukan tempatan serta antarabangsa.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
+  </programme>
+  <programme start="20261118043000 +0000" stop="20261118054500 +0000" channel="unknown.unifitv">
+    <title lang="en">BADMINTON TERBUKA MALAYSIA 2026</title>
+    <desc lang="en">Saksikan ulangan Kejohanan Badminton Terbuka Malaysia 2026</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.43.</episode-num>
+    <episode-num system="onscreen">S1E44</episode-num>
+  </programme>
+  <programme start="20261118054500 +0000" stop="20261118060000 +0000" channel="unknown.unifitv">
+    <title lang="en">SPORT SHOOT</title>
+    <desc lang="en">Di sebalik tabir dunia sukan tanah air melalui keindahan seni fotografi dan visual aksi sukan.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261118060000 +0000" stop="20261118065000 +0000" channel="unknown.unifitv">
+    <title lang="en">BADMINTON TERBUKA MALAYSIA 2026</title>
+    <desc lang="en">Saksikan ulangan Kejohanan Badminton Terbuka Malaysia 2026</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.44.</episode-num>
+    <episode-num system="onscreen">S1E45</episode-num>
+  </programme>
+  <programme start="20261118065000 +0000" stop="20261118070000 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118070000 +0000" stop="20261118084500 +0000" channel="unknown.unifitv">
+    <title lang="en">SUKAN KOMANWEL GLASGOW 2026</title>
+    <desc lang="en">Saksikan siaran ulangan Sukan Komanwel Glasgow 2026.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.11.</episode-num>
+    <episode-num system="onscreen">S1E12</episode-num>
+  </programme>
+  <programme start="20261118084500 +0000" stop="20261118090000 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118090000 +0000" stop="20261118093000 +0000" channel="unknown.unifitv">
+    <title lang="en">HOUSE OF CHAMPIONS</title>
+    <desc lang="en">Memaparkan profil, kisah kejayaan, serta dedikasi atlet-atlet sukan tanah air yang telah berjaya mengharumkan nama Malaysia di persada dunia.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261118093000 +0000" stop="20261118100000 +0000" channel="unknown.unifitv">
+    <title lang="en">ARENA PIKSEL</title>
+    <desc lang="en">Menyingkap kisah di sebalik tabir dan perjalanan hidup para atlet e-sukan, berkongsi ilmu, tip permainan, serta perkembangan ekosistem e-sukan negara.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20261118100000 +0000" stop="20261118112500 +0000" channel="unknown.unifitv">
+    <title lang="en">HOCKEY MEN'S JUNIOR WORLD CUP 2025</title>
+    <desc lang="en">Saksikan siaran ulangan kejohanan Hoki Piala Dunia Remaja Lelaki FIH 2025.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118112500 +0000" stop="20261118114500 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118114500 +0000" stop="20261118120000 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118120000 +0000" stop="20261118140000 +0000" channel="unknown.unifitv">
+    <title lang="en">PERLAWANAN BOLA SEPAK PERSAHABATAN ANTARABANGSA</title>
+    <desc lang="en">Saksikan Siaran langsung perlawanan Bolasepak Antarabangsa Malaysia menetang Yemen.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118140000 +0000" stop="20261118150000 +0000" channel="unknown.unifitv">
+    <title lang="en">HIGHLIGHT MOTOGP GREAT BRITAIN, SILVERSTONE</title>
+    <desc lang="en">Saksikan sorotan Perlumbaan MotoGP Great Britain, Silverstone yang diadakan di Litar Silverstone, United Kingdom.</desc>
+    <category lang="en">sports</category>
+  </programme>
+  <programme start="20261118150000 +0000" stop="20261118153000 +0000" channel="unknown.unifitv">
+    <title lang="en">FIFA WORLD CUP 2026 PREVIEW SERIES</title>
+    <desc lang="en">Imbasan kembali dtik-detik awal menjelang kejohanan bola sepak paling berprestij dunia, Piala Dunia FIFA 2026</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
+  </programme>
+  <programme start="20261118153000 +0000" stop="20261118160000 +0000" channel="unknown.unifitv">
+    <title lang="en">AKSI 2026</title>
+    <desc lang="en">Memaparkan rangkuman pelbagai acara sukan lasak, ekstrem, dan bukan teras tempatan yang mencabar.</desc>
+    <category lang="en">sports</category>
+    <episode-num system="xmltv_ns">0.8.</episode-num>
+    <episode-num system="onscreen">S1E9</episode-num>
+  </programme>
+  <programme start="20261118160000 +0000" stop="20261118161500 +0000" channel="unknown.unifitv">
+    <title lang="en">KAPSUL RTM SPORTS</title>
+    <desc lang="en">Himpunan kapsul,promo dan selingan.</desc>
+    <category lang="en">sports</category>
+  </programme>
   <channel id="salamhd.unifitv">
     <display-name>Salam HD</display-name>
   </channel>
@@ -7939,7 +8130,7 @@
   </programme>
   <programme start="20261117200500 +0000" stop="20261117211000 +0000" channel="bbcearthhd.unifitv">
     <title lang="en">Blue Planet III</title>
-    <desc lang="en">The oceans have seasons just as the land does. Stretching across the temperate bands located between the freezing poles and the warm tropics lie the seasonal seas. Life is tough in these constantly changing waters, but if animals can persevere and adapt to change, there are myriad opportunities to not only survive but thrive here.</desc>
+    <desc lang="en">From winter storms to scorching summers, seasonal seas push animals to be resourceful, adaptable and adventurous. Those who can survive these dynamic seas reap rich rewards.</desc>
     <category lang="en">Knowledge</category>
     <episode-num system="xmltv_ns">2.2.</episode-num>
     <episode-num system="onscreen">S3E3</episode-num>
@@ -13879,7 +14070,7 @@
   </programme>
   <programme start="20261117180500 +0000" stop="20261117190500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
-    <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+    <desc lang="en">Yvonne Yong brings you the latest news from around the globe. Tonight: The US loses its measles elimination status, plus aid organisations warn funding for an Ebola outbreak in the DRC is not reaching frontline workers.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.181.</episode-num>
     <episode-num system="onscreen">S2026E182</episode-num>
@@ -13907,14 +14098,14 @@
   </programme>
   <programme start="20261118010500 +0000" stop="20261118013500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News At Noon</title>
-    <desc lang="en">The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+    <desc lang="en">The leading news at lunchtime. Fauziah Ibrahim brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.229.</episode-num>
     <episode-num system="onscreen">S2026E230</episode-num>
   </programme>
   <programme start="20261118013500 +0000" stop="20261118020500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+    <desc lang="en">The age-old industry of rendering re-imagined; plus fruit and vegetable growers protecting the Great Barrier Reef.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.38.</episode-num>
     <episode-num system="onscreen">S2026E39</episode-num>
@@ -13928,7 +14119,7 @@
   </programme>
   <programme start="20261118025000 +0000" stop="20261118031000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Linton Besser brings you a fearless critique of the week's journalism. (Final for 2026)</desc>
+    <desc lang="en">Usman Khawaja's sandpapergate claims raise questions about how the media struggles with cricket's code of silence. Internal ACMA documents lift the curtain on its controversial decision to breach a Four Corners investigation.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.40.</episode-num>
     <episode-num system="onscreen">S2026E41</episode-num>
@@ -13940,23 +14131,30 @@
     <episode-num system="xmltv_ns">0.6.</episode-num>
     <episode-num system="onscreen">S1E7</episode-num>
   </programme>
-  <programme start="20261118033500 +0000" stop="20261118043000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118033500 +0000" stop="20261118043500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Alone Australia</title>
     <desc lang="en">One survivalist's body begins to shut down another is forced to reckon with their enemies and a wildlife encounter threatens another's chance at winning.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">2.6.</episode-num>
     <episode-num system="onscreen">S3E7</episode-num>
   </programme>
-  <programme start="20261118043000 +0000" stop="20261118060500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Brand Bollywood Down Under</title>
-    <desc lang="en">Against the mesmerising Australian landscape, this documentary looks at Bollywoods journey, the magic, the dark side and how this unique, often misunderstood genre found its way into the hearts of millions.</desc>
+  <programme start="20261118043500 +0000" stop="20261118055500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Pacific Rising</title>
+    <desc lang="en">As rising seas threaten island homes, the people of the Pacific lead the way through humanity's most urgent challenge, climate change.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
+  <programme start="20261118055500 +0000" stop="20261118060500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Common Cause - Vanuatu - It's our time</title>
+    <desc lang="en">Climate activist, Vepaiamele Trief recalls travelling from Vanuatu to the world's highest court in The Hague to help make the case that the world's biggest polluters must be held accountable for the climate crisis.</desc>
+    <category lang="en">Factual</category>
+    <episode-num system="xmltv_ns">1.0.</episode-num>
+    <episode-num system="onscreen">S2E1</episode-num>
+  </programme>
   <programme start="20261118060500 +0000" stop="20261118070500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC News with Joe O'Brien</title>
-    <desc lang="en">Fauziah Ibrahim brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
+    <desc lang="en">Kathryn Robinson brings you a comprehensive summary of the day's events with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.229.</episode-num>
     <episode-num system="onscreen">S2026E230</episode-num>
@@ -13977,14 +14175,14 @@
   </programme>
   <programme start="20261118073500 +0000" stop="20261118080500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="en">Sam Wykes and Tinirau Arona bring you stories as the world's best rugby league nations go head-to-head, featuring exclusive interviews with some of the game's biggest players, coaches and personalities. (Final for 2026)</desc>
+    <desc lang="en">In the season finale, Sam Wykes and Tinirau Arona alongside special guests David Mead and Elianna Walton unpack the Rugby League World Cup Mens and Womens Finals and discuss what the campaign means for the Pacific.</desc>
     <category lang="en">Sports</category>
     <episode-num system="xmltv_ns">2025.40.</episode-num>
     <episode-num system="onscreen">S2026E41</episode-num>
   </programme>
   <programme start="20261118080500 +0000" stop="20261118083500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">ABC National News</title>
-    <desc lang="en">There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news, with more reporters to tell you what's going on and why it matters. Presented by Fauziah Ibrahim.</desc>
+    <desc lang="en">There's never been a more important time for transparency and trust. ABC News brings you the day's top stories and latest news with more reporters to tell you what's going on and why it matters. Presented by Kathryn Robinson.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.321.</episode-num>
     <episode-num system="onscreen">S2026E322</episode-num>
@@ -13996,82 +14194,68 @@
     <episode-num system="xmltv_ns">2025.182.</episode-num>
     <episode-num system="onscreen">S2026E183</episode-num>
   </programme>
-  <programme start="20261118090500 +0000" stop="20261118100500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Tomorrow Begins Here</title>
-    <desc lang="en">Explores the challenges and resilience of the people of Kiribati, focusing on their innovative efforts to sustain life amidst environmental challenges.</desc>
+  <programme start="20261118090500 +0000" stop="20261118102500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Pacific Rising</title>
+    <desc lang="en">As rising seas threaten island homes, the people of the Pacific lead the way through humanity's most urgent challenge, climate change.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261118100500 +0000" stop="20261118110000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118102500 +0000" stop="20261118112500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
     <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.182.</episode-num>
     <episode-num system="onscreen">S2026E183</episode-num>
   </programme>
-  <programme start="20261118110000 +0000" stop="20261118115000 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118112500 +0000" stop="20261118121000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Tampa: The Turning Point</title>
     <desc lang="en">When Afghan refugee Abbas Nazari boards a dilapidated Indonesian fishing vessel with over 400 others in 2001, he has no idea he's about to be at the centre of one of the most dramatic chapters in Australian history.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261118115000 +0000" stop="20261118120500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118121000 +0000" stop="20261118124000 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">I Was Actually There - Port Arthur Massacre</title>
+    <desc lang="en">On an autumn morning at Port Arthur's historic convict settlement, a gunman walked into the Broad Arrow Cafe, killing 35 people. We go deep inside the experience, hear from first hand witnesses to understand what happened.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261118124000 +0000" stop="20261118130000 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Media Watch</title>
-    <desc lang="en">Australia's leading forum for media analysis and comment. Linton Besser brings you a fearless critique of the week's journalism. (Final for 2026)</desc>
+    <desc lang="en">Usman Khawaja's sandpapergate claims raise questions about how the media struggles with cricket's code of silence. Internal ACMA documents lift the curtain on its controversial decision to breach a Four Corners investigation.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.40.</episode-num>
     <episode-num system="onscreen">S2026E41</episode-num>
   </programme>
-  <programme start="20261118120500 +0000" stop="20261118130500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118130000 +0000" stop="20261118135500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">Landline</title>
-    <desc lang="en">Hosted by award-winning journalist Pip Courtney, Landline is Australia's only national agricultural television program covering stories from Australia's rural and regional heartland.</desc>
+    <desc lang="en">Inside a ground-breaking pastoral empire in northern Australia; An electric future for agricultural heavy freight; High-tech blueberry farming; and swimming the length of the Darling River.</desc>
     <category lang="en">Factual</category>
     <episode-num system="xmltv_ns">2025.39.</episode-num>
     <episode-num system="onscreen">S2026E40</episode-num>
   </programme>
-  <programme start="20261118130500 +0000" stop="20261118132000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">ABC Late News</title>
-    <desc lang="en">End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart.</desc>
-    <category lang="en">News</category>
-    <episode-num system="xmltv_ns">2025.229.</episode-num>
-    <episode-num system="onscreen">S2026E230</episode-num>
-  </programme>
-  <programme start="20261118132000 +0000" stop="20261118133500 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">The Business</title>
-    <desc lang="en">Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, investors, employees and businesses big and small. Presented by Alicia Barry.</desc>
-    <category lang="en">Current Affairs</category>
-    <episode-num system="xmltv_ns">2025.166.</episode-num>
-    <episode-num system="onscreen">S2026E167</episode-num>
-  </programme>
-  <programme start="20261118133500 +0000" stop="20261118140500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118135500 +0000" stop="20261118142500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">7.30</title>
     <desc lang="en">Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Jacob Greber.</desc>
     <category lang="en">Current Affairs</category>
     <episode-num system="xmltv_ns">2025.182.</episode-num>
     <episode-num system="onscreen">S2026E183</episode-num>
   </programme>
-  <programme start="20261118140500 +0000" stop="20261118150500 +0000" channel="abcaustralia.unifitv">
+  <programme start="20261118142500 +0000" stop="20261118152500 +0000" channel="abcaustralia.unifitv">
     <title lang="en">The World</title>
     <desc lang="en">There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">2025.182.</episode-num>
     <episode-num system="onscreen">S2026E183</episode-num>
   </programme>
-  <programme start="20261118150500 +0000" stop="20261118160000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">Tomorrow Begins Here</title>
-    <desc lang="en">Explores the challenges and resilience of the people of Kiribati, focusing on their innovative efforts to sustain life amidst environmental challenges.</desc>
+  <programme start="20261118152500 +0000" stop="20261118164500 +0000" channel="abcaustralia.unifitv">
+    <title lang="en">Pacific Rising</title>
+    <desc lang="en">As rising seas threaten island homes, the people of the Pacific lead the way through humanity's most urgent challenge, climate change.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
-  </programme>
-  <programme start="20261118160000 +0000" stop="20261118163000 +0000" channel="abcaustralia.unifitv">
-    <title lang="en">That Pacific Sports Show - IRL Rugby League World Cup Special</title>
-    <desc lang="en">Sam Wykes and Tinirau Arona bring you stories as the world's best rugby league nations go head-to-head, featuring exclusive interviews with some of the game's biggest players, coaches and personalities. (Final for 2026)</desc>
-    <category lang="en">Sports</category>
-    <episode-num system="xmltv_ns">2025.40.</episode-num>
-    <episode-num system="onscreen">S2026E41</episode-num>
   </programme>
   <channel id="dw.unifitv">
     <display-name>DW</display-name>
