@@ -6310,6 +6310,138 @@
   <programme start="20261120224000 +0000" stop="20261120233500 +0000" channel="Love Nature.webtv.sk">
     <title lang="id">Žraločí komando (4)</title>
   </programme>
+  <programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261119233000 +0000" stop="20261120000000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120000000 +0000" stop="20261120004500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Chirurgia kedysi a dnes: od kameňa k laparoskopii</title>
+  </programme>
+  <programme start="20261120004500 +0000" stop="20261120010000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Dopravná nehoda v zime – ako bezpečne poskytnúť prvú pomoc</title>
+  </programme>
+  <programme start="20261120010000 +0000" stop="20261120013000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">E66.00 obezita - komorbidity a manažment</title>
+  </programme>
+  <programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120023000 +0000" stop="20261120030000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Hypermobilita u detí: kedy je ohybnosť problém?</title>
+  </programme>
+  <programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Črevný mikrobióm: neviditeľný svet, ktorý cítime každý deň</title>
+  </programme>
+  <programme start="20261120040000 +0000" stop="20261120043000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Hmatová kniha pre nevidiace deti vonia škoricou</title>
+  </programme>
+  <programme start="20261120043000 +0000" stop="20261120050000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120060000 +0000" stop="20261120070000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Agresia na urgente očami primára júliusa hodosyho</title>
+  </programme>
+  <programme start="20261120070000 +0000" stop="20261120073000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">E66.00 obezita - diagnostika</title>
+  </programme>
+  <programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Vrodená chyba srdca v dospelosti – kto preberá starostlivosť?</title>
+  </programme>
+  <programme start="20261120100000 +0000" stop="20261120103000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Únik moču nie je hanba, ale zdravotný problém</title>
+  </programme>
+  <programme start="20261120103000 +0000" stop="20261120110000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120110000 +0000" stop="20261120113000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120113000 +0000" stop="20261120120000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120120000 +0000" stop="20261120124500 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Chirurgia kedysi a dnes: od kameňa k laparoskopii</title>
+  </programme>
+  <programme start="20261120124500 +0000" stop="20261120130000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Dopravná nehoda v zime – ako bezpečne poskytnúť prvú pomoc</title>
+  </programme>
+  <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">E66.00 obezita - komorbidity a manažment</title>
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120150000 +0000" stop="20261120153000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Hypermobilita u detí: kedy je ohybnosť problém?</title>
+  </programme>
+  <programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Črevný mikrobióm: neviditeľný svet, ktorý cítime každý deň</title>
+  </programme>
+  <programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Hmatová kniha pre nevidiace deti vonia škoricou</title>
+  </programme>
+  <programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120170000 +0000" stop="20261120173000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120173000 +0000" stop="20261120180000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120180000 +0000" stop="20261120190000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Róbert babeľa v úlohe moderátora: nestačí sa iba pýtať</title>
+  </programme>
+  <programme start="20261120190000 +0000" stop="20261120193000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Estetická a plastická chirurgia</title>
+  </programme>
+  <programme start="20261120193000 +0000" stop="20261120200000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
+  <programme start="20261120200000 +0000" stop="20261120203000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Medi noviny</title>
+  </programme>
+  <programme start="20261120203000 +0000" stop="20261120210000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Jesenná itapa 2026 – kto sa postará o seniorov na slovensku?</title>
+  </programme>
+  <programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Robotická chirurgia pre detských pacientov: historický míľnik slovenskej medicíny</title>
+  </programme>
+  <programme start="20261120220000 +0000" stop="20261120223000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">Estetická a plastická chirurgia</title>
+  </programme>
+  <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="Doktor TV.webtv.sk">
+    <title lang="id">MUDr. Jana martinková, phd. o bolesti hlavy a migréne</title>
+  </programme>
   <programme start="20261119230000 +0000" stop="20261120000000 +0000" channel="PARK TV.webtv.sk">
     <title lang="id">RELAX S PARK TV</title>
   </programme>
@@ -16010,7 +16142,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20261120031500 +0000" stop="20261120034000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">I Choose Poland (31)</title>
+    <title lang="id">Control Room Brussels (9)</title>
   </programme>
   <programme start="20261120034000 +0000" stop="20261120035500 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News German</title>
@@ -16130,7 +16262,7 @@
     <title lang="id">World News Flash</title>
   </programme>
   <programme start="20261120121500 +0000" stop="20261120124000 +0000" channel="TVP World.webtv.sk">
-    <title lang="id">I Choose Poland (31)</title>
+    <title lang="id">Control Room Brussels (9)</title>
   </programme>
   <programme start="20261120124000 +0000" stop="20261120125000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">World News Flash</title>
@@ -17597,7 +17729,7 @@
     <title lang="id">Moo No Plan</title>
   </programme>
   <programme start="20261119233000 +0000" stop="20261119235000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature C</title>
+    <title lang="id">K-culture Minutes: K-now</title>
   </programme>
   <programme start="20261119235000 +0000" stop="20261120000000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">K-chat: Travel In Korea</title>
@@ -17636,7 +17768,7 @@
     <title lang="id">Moo No Plan</title>
   </programme>
   <programme start="20261120063000 +0000" stop="20261120065000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature C</title>
+    <title lang="id">K-culture Minutes: K-now</title>
   </programme>
   <programme start="20261120065000 +0000" stop="20261120070000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Smartbiz Accel 2</title>
@@ -17678,7 +17810,7 @@
     <title lang="id">K-culture Dive</title>
   </programme>
   <programme start="20261120123000 +0000" stop="20261120125000 +0000" channel="Arirang TV.webtv.sk">
-    <title lang="id">Exploring Korean Literature C</title>
+    <title lang="id">K-culture Minutes: K-now</title>
   </programme>
   <programme start="20261120125000 +0000" stop="20261120130000 +0000" channel="Arirang TV.webtv.sk">
     <title lang="id">Smartbiz Accel 2</title>
@@ -19085,7 +19217,7 @@
     <title lang="id">Un posto al sole XXX</title>
   </programme>
   <programme start="20261120202000 +0000" stop="20261120230000 +0000" channel="Rai Tre.webtv.sk">
-    <title lang="id">Mi manda Rai Tre</title>
+    <title lang="id">Mi manda RaiTre</title>
   </programme>
   <programme start="20261119230000 +0000" stop="20261119233000 +0000" channel="CGTN.webtv.sk">
     <title lang="id">The Heat</title>

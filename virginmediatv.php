@@ -154,10 +154,10 @@
 <programme start="20261118010000 +0000" stop="20261118015500 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>The Graham Norton Show - Episode 17</title>
 </programme>
-<programme start="20261118015500 +0000" stop="20261118023800 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20261118015500 +0000" stop="20261118024000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Vanderpump Rules - Palm Springs and Tiffany Rings</title>
 </programme>
-<programme start="20261118023800 +0000" stop="20261118065000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
+<programme start="20261118024000 +0000" stop="20261118065000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="Virgin_Media_Two_HD.virginmediatv">
@@ -292,10 +292,10 @@
 <programme start="20261117230500 +0000" stop="20261118000500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Snowpiercer - Ouroboros</title>
 </programme>
-<programme start="20261118000500 +0000" stop="20261118022200 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20261118000500 +0000" stop="20261118022500 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>This Morning - Episode 226</title>
 </programme>
-<programme start="20261118022200 +0000" stop="20261118070000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
+<programme start="20261118022500 +0000" stop="20261118070000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
     <title>Channel Off Air</title>
 </programme>
 <programme start="20261118120000 +0000" stop="20261118130000 +0000" channel="Virgin_Media_Four_HD.virginmediatv">
@@ -4486,10 +4486,10 @@
 <programme start="20261118020000 +0000" stop="20261118030000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>One-Day International Cricket - 2nd ODI: Australia v England</title>
 </programme>
-<programme start="20261118030000 +0000" stop="20261118114500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20261118030000 +0000" stop="20261118060000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: One-Day International Cricket - 3rd ODI: Australia v England</title>
 </programme>
-<programme start="20261118114500 +0000" stop="20261118123000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+<programme start="20261118120000 +0000" stop="20261118123000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Sign Up: Into Football - Episode 3</title>
 </programme>
 <programme start="20261118123000 +0000" stop="20261118130000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
