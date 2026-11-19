@@ -2440,11 +2440,8 @@
 <programme start="20261119140000 +0000" stop="20261119143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20261119143000 +0000" stop="20261119144500 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261119143000 +0000" stop="20261119150000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20261119144500 +0000" stop="20261119150000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
 </programme>
 <programme start="20261119150000 +0000" stop="20261119153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -4033,14 +4030,20 @@
 <programme start="20261119043500 +0000" stop="20261119073000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>Live: Women&#039;s Big Bash - Hobart Hurricanes v Perth Scorchers</title>
 </programme>
-<programme start="20261119073000 +0000" stop="20261119160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: Test Cricket - 1st Test, Day 5: South Africa v Bangladesh</title>
+<programme start="20261119113000 +0000" stop="20261119123000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 1: South Africa v Bangladesh</title>
 </programme>
-<programme start="20261119160000 +0000" stop="20261119161500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
+<programme start="20261119123000 +0000" stop="20261119133000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 2: South Africa v Bangladesh</title>
 </programme>
-<programme start="20261119161500 +0000" stop="20261119163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+<programme start="20261119133000 +0000" stop="20261119143000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 3: South Africa v Bangladesh</title>
+</programme>
+<programme start="20261119143000 +0000" stop="20261119153000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 4: South Africa v Bangladesh</title>
+</programme>
+<programme start="20261119153000 +0000" stop="20261119163000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
+    <title>ICC World Cup - Countdown To World Cup</title>
 </programme>
 <programme start="20261119163000 +0000" stop="20261119164500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2009: New Zealand v England</title>
@@ -4451,7 +4454,7 @@
     <title>The United Archives - 1991 European Super Cup: Manchester United v Red Star Belgrade</title>
 </programme>
 <programme start="20261119123000 +0000" stop="20261119130000 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - When Mainoo met Seedorf</title>
+    <title>Pochettino: The First Interview</title>
 </programme>
 <programme start="20261119130000 +0000" stop="20261119140000 +0000" channel="MUTV.virginmediatv">
     <title>The Official United Podcast - Inside Carrington - Academy</title>
@@ -4460,10 +4463,10 @@
     <title>The Official United Podcast - Inside Carrington - Maya Le Tissier</title>
 </programme>
 <programme start="20261119143000 +0000" stop="20261119150000 +0000" channel="MUTV.virginmediatv">
-    <title>The Official United Podcast - Inside Carrington - Youri Tielemans</title>
+    <title>Pochettino: The First Interview</title>
 </programme>
 <programme start="20261119150000 +0000" stop="20261119151500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Maya 150</title>
+    <title>Player Spotlight - Ella Toone: School Day</title>
 </programme>
 <programme start="20261119151500 +0000" stop="20261119153000 +0000" channel="MUTV.virginmediatv">
     <title>Top 20 Goals - Premier League Goals v Liverpool</title>
@@ -4472,16 +4475,19 @@
     <title>FA Women&#039;s League Cup - Highlights: Manchester United v Everton</title>
 </programme>
 <programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 1991 European Super Cup: Manchester United v Red Star Belgrade</title>
+    <title>Under 18 Premier League - U18s Highlights: Liverpool (H) 26/27</title>
 </programme>
 <programme start="20261119163000 +0000" stop="20261119170000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Manchester United v Tottenham Hotspur</title>
+    <title>Pochettino: The First Interview</title>
 </programme>
-<programme start="20261119170000 +0000" stop="20261119173000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Leeds United v Manchester United</title>
+<programme start="20261119170000 +0000" stop="20261119171500 +0000" channel="MUTV.virginmediatv">
+    <title>Fans Spotlight - Old Trafford: Tom&#039;s Experience</title>
 </programme>
-<programme start="20261119173000 +0000" stop="20261119180000 +0000" channel="MUTV.virginmediatv">
-    <title>Under 18 Premier League - Highlights: Burnley U18 v Manchester United U18</title>
+<programme start="20261119171500 +0000" stop="20261119173000 +0000" channel="MUTV.virginmediatv">
+    <title>Top 20 Goals - Top 20 League goals under Sir Alex</title>
+</programme>
+<programme start="20261119173000 +0000" stop="20261119190000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Sir Alex Anniversary</title>
 </programme>
 <programme start="20261118221500 +0000" stop="20261119003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Formula 1 - Las Vegas Grand Prix: Stand Alone Race</title>
@@ -4903,14 +4909,20 @@
 <programme start="20261119043500 +0000" stop="20261119073000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>Live: Women&#039;s Big Bash - Hobart Hurricanes v Perth Scorchers</title>
 </programme>
-<programme start="20261119073000 +0000" stop="20261119160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: Test Cricket - 1st Test, Day 5: South Africa v Bangladesh</title>
+<programme start="20261119113000 +0000" stop="20261119123000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 1: South Africa v Bangladesh</title>
 </programme>
-<programme start="20261119160000 +0000" stop="20261119161500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - Semi-Final: England v South Africa</title>
+<programme start="20261119123000 +0000" stop="20261119133000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 2: South Africa v Bangladesh</title>
 </programme>
-<programme start="20261119161500 +0000" stop="20261119163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>ICC Women&#039;s World Cup Cricket - 2017: England v India</title>
+<programme start="20261119133000 +0000" stop="20261119143000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 3: South Africa v Bangladesh</title>
+</programme>
+<programme start="20261119143000 +0000" stop="20261119153000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>Test Cricket - 1st Test, Day 4: South Africa v Bangladesh</title>
+</programme>
+<programme start="20261119153000 +0000" stop="20261119163000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
+    <title>ICC World Cup - Countdown To World Cup</title>
 </programme>
 <programme start="20261119163000 +0000" stop="20261119164500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2009: New Zealand v England</title>

@@ -649,17 +649,8 @@
 <programme start="20261119093000 +0000" stop="20261119104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261119104500 +0000" stop="20261119131500 +0000" channel="ANTV.vision">
-<title>Pengorbanan</title>
-</programme>
 <programme start="20261119131500 +0000" stop="20261119143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261119143000 +0000" stop="20261119164500 +0000" channel="ANTV.vision">
-<title>Itu Bisa Diatur</title>
-</programme>
-<programme start="20261119164500 +0000" stop="20261119183000 +0000" channel="ANTV.vision">
-<title>The Magnificent Scoundrels</title>
 </programme>
 <programme start="20261119183000 +0000" stop="20261119193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1496,5 +1487,14 @@
 <title>TVRI</title>
 </programme>
 <programme start="20261119050000 +0000" stop="20261119060000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261119060000 +0000" stop="20261119070000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261119070000 +0000" stop="20261119070300 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261119070300 +0000" stop="20261119080000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
 </programme>

@@ -10168,19 +10168,19 @@
   <programme start="20261121020000 +0000" stop="20261121022000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Avatar: Legenda o Aangovi II (2)</title>
   </programme>
-  <programme start="20261121022000 +0000" stop="20261121024500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20261121022000 +0000" stop="20261121024000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VII (128)</title>
   </programme>
-  <programme start="20261121024500 +0000" stop="20261121025500 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20261121024000 +0000" stop="20261121025500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VI (106)</title>
   </programme>
   <programme start="20261121025500 +0000" stop="20261121031500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VII (129)</title>
   </programme>
-  <programme start="20261121031500 +0000" stop="20261121034000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20261121031500 +0000" stop="20261121033500 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VII (130)</title>
   </programme>
-  <programme start="20261121034000 +0000" stop="20261121040000 +0000" channel="Nicktoons.webtv.sk">
+  <programme start="20261121033500 +0000" stop="20261121040000 +0000" channel="Nicktoons.webtv.sk">
     <title lang="id">Spongebob v kalhotách VII (131)</title>
   </programme>
   <programme start="20261121040000 +0000" stop="20261121042000 +0000" channel="Nicktoons.webtv.sk">
@@ -18791,7 +18791,7 @@
     <title lang="id">Affari tuoi</title>
   </programme>
   <programme start="20261121203000 +0000" stop="20261121225500 +0000" channel="Rai Uno.webtv.sk">
-    <title lang="id">Ballando con le Stelle</title>
+    <title lang="id">Ballando con le Stelle (8)</title>
   </programme>
   <programme start="20261121225500 +0000" stop="20261121230000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Tg1</title>
