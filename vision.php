@@ -181,14 +181,17 @@
 <programme start="20261119233000 +0000" stop="20261119234500 +0000" channel="GTV.vision">
 <title>The Helping Heroes</title>
 </programme>
-<programme start="20261119234500 +0000" stop="20261120011500 +0000" channel="GTV.vision">
+<programme start="20261119234500 +0000" stop="20261120004500 +0000" channel="GTV.vision">
 <title>Entong (GTV)</title>
 </programme>
-<programme start="20261120011500 +0000" stop="20261120050000 +0000" channel="GTV.vision">
+<programme start="20261120004500 +0000" stop="20261120050000 +0000" channel="GTV.vision">
 <title>Pada Zaman Dahulu</title>
 </programme>
-<programme start="20261120050000 +0000" stop="20261120103000 +0000" channel="GTV.vision">
+<programme start="20261120050000 +0000" stop="20261120090000 +0000" channel="GTV.vision">
 <title>Kiko</title>
+</programme>
+<programme start="20261120090000 +0000" stop="20261120103000 +0000" channel="GTV.vision">
+<title>Film Keluarga</title>
 </programme>
 <programme start="20261120103000 +0000" stop="20261120120000 +0000" channel="GTV.vision">
 <title>Film Keluarga</title>
@@ -636,9 +639,6 @@
 </programme>
 <programme start="20261118230000 +0000" stop="20261119023000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
-</programme>
-<programme start="20261119023000 +0000" stop="20261119060000 +0000" channel="ANTV.vision">
-<title>Tiger Zinda Hai</title>
 </programme>
 <programme start="20261119060000 +0000" stop="20261119073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>

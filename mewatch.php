@@ -529,8 +529,11 @@
     <programme start="20261118160000 +0000" stop="20261118160300 +0000" channel="CNA.mewatch">
         <title>Headline News</title>
     </programme>
-    <programme start="20261118160300 +0000" stop="20261118173000 +0000" channel="CNA.mewatch">
+    <programme start="20261118160300 +0000" stop="20261118170000 +0000" channel="CNA.mewatch">
         <title>East Asia Tonight</title>
+    </programme>
+    <programme start="20261118170000 +0000" stop="20261118173000 +0000" channel="CNA.mewatch">
+        <title>Call Us Wunderkind - EP 3</title>
     </programme>
     <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="CNA.mewatch">
         <title>Talking Point - EP 25</title>

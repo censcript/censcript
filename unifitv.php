@@ -15360,52 +15360,52 @@
   <programme start="20261118151200 +0000" stop="20261118162200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 MotoGP Rd 19 Petronas Grand Prix of Malaysia - Highlights</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Motorsports</category>
   </programme>
   <programme start="20261118162200 +0000" stop="20261118172700 +0000" channel="unknown.unifitv">
     <title lang="en">The AIG Women's Open Official Film 2026</title>
     <desc lang="en">The world's best female golfers compete for major championship glory, showcasing elite talent, resilience, and world-class competition in one of golf's most prestigious events</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20261118172700 +0000" stop="20261118180200 +0000" channel="unknown.unifitv">
     <title lang="en">SailGP: Racing on the Edge S6 - Ep 3</title>
     <desc lang="en">Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Sailing</category>
   </programme>
   <programme start="20261118180200 +0000" stop="20261118215200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 LET: La Sella Open - Day 4</title>
     <desc lang="en">La Sella Open features top female golfers battling for the title in one of Spain's premier women's golf tournaments.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20261118215200 +0000" stop="20261119002700 +0000" channel="unknown.unifitv">
     <title lang="en">2026 WTCS, Quiberon - Mixed Relay Series</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
   </programme>
   <programme start="20261119002700 +0000" stop="20261119025200 +0000" channel="unknown.unifitv">
     <title lang="en">Tour of Armenia 2026 - Stage 4</title>
     <desc lang="en">The Tour of Armenia sees professional cyclists tackle challenging routes across Armenia, battling for stage victories and overall honours in this demanding UCI road cycling event.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Cycling</category>
   </programme>
   <programme start="20261119025200 +0000" stop="20261119033200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 Global Champions League, Riesenbeck - Highlights</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20261119033200 +0000" stop="20261119041200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 Longines Global Champions Tour, Riesenbeck - Highlights</title>
     <desc lang="en">The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Extreme Sports</category>
   </programme>
   <programme start="20261119041200 +0000" stop="20261119075200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 WTCS, Hamburg - Women's and Men's Sprint Race</title>
     <desc lang="en">Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Triathlon</category>
   </programme>
   <programme start="20261119075200 +0000" stop="20261119090200 +0000" channel="unknown.unifitv">
     <title lang="en">SailGP S6: Emirates Great Britain Sail Grand Prix - Highlights</title>
     <desc lang="en">Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Sailing</category>
   </programme>
   <programme start="20261119090200 +0000" stop="20261119110200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 PYCL, Philippines S2 - Rd 1 Gfoxx Paragon vs Dream Skin Radiants</title>
@@ -15420,12 +15420,12 @@
   <programme start="20261119130200 +0000" stop="20261119141200 +0000" channel="unknown.unifitv">
     <title lang="en">The Open Official Film 2026</title>
     <desc lang="en">Relive the defining moments of The Open Championship, featuring the best action, memorable performances and exclusive behind-the-scenes footage from golf's oldest major championship.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20261119141200 +0000" stop="20261119180200 +0000" channel="unknown.unifitv">
     <title lang="en">2026 MotoGP Rd 20 Qatar Airways Grand Prix of Qatar - Free Practice 1</title>
     <desc lang="en">The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
-    <category lang="en">Sports</category>
+    <category lang="en">Motorsports</category>
   </programme>
   <channel id="spotv.unifitv">
     <display-name>SPOTV</display-name>

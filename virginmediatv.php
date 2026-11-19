@@ -476,7 +476,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261119121500 +0000" stop="20261119130000 +0000" channel="BBC_TWO_HD.virginmediatv">
-    <title>Politics Live</title>
+    <title>Politics Live - PM to sign deal with EU at key summit</title>
 </programme>
 <programme start="20261119130000 +0000" stop="20261119134500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Impossible - Episode 14</title>
@@ -2392,11 +2392,8 @@
 <programme start="20261119003000 +0000" stop="20261119010000 +0000" channel="BBC_News_24.virginmediatv">
     <title>The Climate Question - How Do You Build a Climate Friendly City?</title>
 </programme>
-<programme start="20261119010000 +0000" stop="20261119013000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261119010000 +0000" stop="20261119020000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20261119013000 +0000" stop="20261119020000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded - Is the AI Party Over?</title>
 </programme>
 <programme start="20261119020000 +0000" stop="20261119023000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Newsday</title>
@@ -2423,7 +2420,7 @@
     <title>Business Today</title>
 </programme>
 <programme start="20261119044500 +0000" stop="20261119050000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC Sport</title>
+    <title>Newsday</title>
 </programme>
 <programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -3305,7 +3302,7 @@
     <title>Bloomberg Tech</title>
 </programme>
 <programme start="20261119170000 +0000" stop="20261119180000 +0000" channel="Bloomberg.virginmediatv">
-    <title>Bloomberg ETF IQ - Special Edition</title>
+    <title>Bloomberg Markets</title>
 </programme>
 <programme start="20261118233500 +0000" stop="20261119011500 +0000" channel="Sky_Premiere_HD.virginmediatv">
     <title>Mutiny</title>
@@ -6217,7 +6214,7 @@
 <programme start="20261118185800 +0000" stop="20261119025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261119025800 +0000" stop="20261119060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261119025800 +0000" stop="20261119070000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261119115000 +0000" stop="20261119121500 +0000" channel="CBBC.virginmediatv">

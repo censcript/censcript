@@ -146,7 +146,7 @@
     <title>News (L)</title>
 </programme>
 <programme start="20261119053000 +0000" stop="20261119060000 +0000" channel="Al Jazeera English.mncvision">
-    <title>News (L)</title>
+    <title>Inside Story</title>
 </programme>
 <programme start="20261119060000 +0000" stop="20261119063000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
@@ -191,7 +191,7 @@
     <title>Beyond The Horizon: Gaza</title>
 </programme>
 <programme start="20261119150000 +0000" stop="20261119160000 +0000" channel="Al Jazeera English.mncvision">
-    <title>NewsHour</title>
+    <title>Newshour: The Wider Story</title>
 </programme>
 <programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="Al Jazeera English.mncvision">
     <title>News (L)</title>
