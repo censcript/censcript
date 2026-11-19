@@ -7810,50 +7810,50 @@
 <programme start="20261118184500 +0000" stop="20261118200000 +0000" channel="SCTV.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="SCTV.mncvision">
+<programme start="20261118200000 +0000" stop="20261118210400 +0000" channel="SCTV.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20261118210000 +0000" stop="20261118213000 +0000" channel="SCTV.mncvision">
+<programme start="20261118210400 +0000" stop="20261118213000 +0000" channel="SCTV.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20261118213000 +0000" stop="20261118220000 +0000" channel="SCTV.mncvision">
+<programme start="20261118213000 +0000" stop="20261118215500 +0000" channel="SCTV.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="SCTV.mncvision">
+<programme start="20261118215500 +0000" stop="20261118230000 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
 <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="SCTV.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20261119000000 +0000" stop="20261119013000 +0000" channel="SCTV.mncvision">
+<programme start="20261119000000 +0000" stop="20261119012900 +0000" channel="SCTV.mncvision">
     <title>Gaspol</title>
 </programme>
-<programme start="20261119013000 +0000" stop="20261119030000 +0000" channel="SCTV.mncvision">
-    <title>Calon Manten Elit, Move On...</title>
+<programme start="20261119012900 +0000" stop="20261119030600 +0000" channel="SCTV.mncvision">
+    <title>Buku Harian Monalisa</title>
 </programme>
-<programme start="20261119030000 +0000" stop="20261119050000 +0000" channel="SCTV.mncvision">
-    <title>Kenalin, Gue Lelaki Beruntung</title>
+<programme start="20261119030600 +0000" stop="20261119045800 +0000" channel="SCTV.mncvision">
+    <title>Tutor Dapat Restu Mami Plis</title>
 </programme>
-<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="SCTV.mncvision">
+<programme start="20261119045800 +0000" stop="20261119053200 +0000" channel="SCTV.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261119053000 +0000" stop="20261119100000 +0000" channel="SCTV.mncvision">
+<programme start="20261119053200 +0000" stop="20261119100000 +0000" channel="SCTV.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20261119100000 +0000" stop="20261119111500 +0000" channel="SCTV.mncvision">
+<programme start="20261119100000 +0000" stop="20261119112500 +0000" channel="SCTV.mncvision">
     <title>Asmara Gen Z Special</title>
 </programme>
-<programme start="20261119111500 +0000" stop="20261119130000 +0000" channel="SCTV.mncvision">
+<programme start="20261119112500 +0000" stop="20261119125500 +0000" channel="SCTV.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261119130000 +0000" stop="20261119143000 +0000" channel="SCTV.mncvision">
+<programme start="20261119125500 +0000" stop="20261119142500 +0000" channel="SCTV.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261119143000 +0000" stop="20261119160000 +0000" channel="SCTV.mncvision">
+<programme start="20261119142500 +0000" stop="20261119160200 +0000" channel="SCTV.mncvision">
     <title>Kesetiaan</title>
 </programme>
-<programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="SCTV.mncvision">
-    <title>Sekretaris Tomboy Vs OB Cantik</title>
+<programme start="20261119160200 +0000" stop="20261119163200 +0000" channel="SCTV.mncvision">
+    <title>When Gue Married Mendadak</title>
 </programme>
 <programme start="20261118173000 +0000" stop="20261118184500 +0000" channel="SCTV HD.mncvision">
     <title>Satpol PP Jatuh Cinta</title>
@@ -7861,50 +7861,50 @@
 <programme start="20261118184500 +0000" stop="20261118200000 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Malam</title>
 </programme>
-<programme start="20261118200000 +0000" stop="20261118210000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261118200000 +0000" stop="20261118210400 +0000" channel="SCTV HD.mncvision">
     <title>Sinema Dini Hari</title>
 </programme>
-<programme start="20261118210000 +0000" stop="20261118213000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261118210400 +0000" stop="20261118213000 +0000" channel="SCTV HD.mncvision">
     <title>Barakallah</title>
 </programme>
-<programme start="20261118213000 +0000" stop="20261118220000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261118213000 +0000" stop="20261118215500 +0000" channel="SCTV HD.mncvision">
     <title>Buser</title>
 </programme>
-<programme start="20261118220000 +0000" stop="20261118230000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261118215500 +0000" stop="20261118230000 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Pagi (L)</title>
 </programme>
 <programme start="20261118230000 +0000" stop="20261119000000 +0000" channel="SCTV HD.mncvision">
     <title>Halo Selebriti</title>
 </programme>
-<programme start="20261119000000 +0000" stop="20261119013000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119000000 +0000" stop="20261119012900 +0000" channel="SCTV HD.mncvision">
     <title>Gaspol</title>
 </programme>
-<programme start="20261119013000 +0000" stop="20261119030000 +0000" channel="SCTV HD.mncvision">
-    <title>Calon Manten Elit, Move On...</title>
+<programme start="20261119012900 +0000" stop="20261119030600 +0000" channel="SCTV HD.mncvision">
+    <title>Buku Harian Monalisa</title>
 </programme>
-<programme start="20261119030000 +0000" stop="20261119050000 +0000" channel="SCTV HD.mncvision">
-    <title>Kenalin, Gue Lelaki Beruntung</title>
+<programme start="20261119030600 +0000" stop="20261119045800 +0000" channel="SCTV HD.mncvision">
+    <title>Tutor Dapat Restu Mami Plis</title>
 </programme>
-<programme start="20261119050000 +0000" stop="20261119053000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119045800 +0000" stop="20261119053200 +0000" channel="SCTV HD.mncvision">
     <title>Liputan 6 Siang (L)</title>
 </programme>
-<programme start="20261119053000 +0000" stop="20261119100000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119053200 +0000" stop="20261119100000 +0000" channel="SCTV HD.mncvision">
     <title>Samudra Cinta</title>
 </programme>
-<programme start="20261119100000 +0000" stop="20261119111500 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119100000 +0000" stop="20261119112500 +0000" channel="SCTV HD.mncvision">
     <title>Asmara Gen Z Special</title>
 </programme>
-<programme start="20261119111500 +0000" stop="20261119130000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119112500 +0000" stop="20261119125500 +0000" channel="SCTV HD.mncvision">
     <title>Cinta Seluas Samudra</title>
 </programme>
-<programme start="20261119130000 +0000" stop="20261119143000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119125500 +0000" stop="20261119142500 +0000" channel="SCTV HD.mncvision">
     <title>Wajah Cinta Yang Lain</title>
 </programme>
-<programme start="20261119143000 +0000" stop="20261119160000 +0000" channel="SCTV HD.mncvision">
+<programme start="20261119142500 +0000" stop="20261119160200 +0000" channel="SCTV HD.mncvision">
     <title>Kesetiaan</title>
 </programme>
-<programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="SCTV HD.mncvision">
-    <title>Sekretaris Tomboy Vs OB Cantik</title>
+<programme start="20261119160200 +0000" stop="20261119163200 +0000" channel="SCTV HD.mncvision">
+    <title>When Gue Married Mendadak</title>
 </programme>
 <programme start="20261118173000 +0000" stop="20261118180000 +0000" channel="Sindo News TV.mncvision">
     <title>iNews Sport</title>
