@@ -15570,12 +15570,12 @@
     <desc lang="en">Relive every goal from the best players in 2024/25 season.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261120052800 +0000" stop="20261120061000 +0000" channel="beinsports.unifitv">
+  <programme start="20261120052800 +0000" stop="20261120061500 +0000" channel="beinsports.unifitv">
     <title lang="en">F1 Academy Qualifying - F1 ACADEMY RACING SERIES, ROUND 6 LAS VEGAS, 2026 (L)</title>
     <desc lang="en">Join us for the Qualifying session from F1 ACADEMY.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261120061000 +0000" stop="20261120071500 +0000" channel="beinsports.unifitv">
+  <programme start="20261120061500 +0000" stop="20261120071500 +0000" channel="beinsports.unifitv">
     <title lang="en">The F1 Show - FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 (L)</title>
     <desc lang="en">The F1 Show provides a sneak peek of the paddock and the personalities involved at the heart of the race.</desc>
     <category lang="en">Sports</category>
