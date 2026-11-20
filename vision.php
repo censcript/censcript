@@ -619,17 +619,8 @@
 <programme start="20261120093000 +0000" stop="20261120104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261120104500 +0000" stop="20261120131500 +0000" channel="ANTV.vision">
-<title>Perjuangan &amp; Doa</title>
-</programme>
 <programme start="20261120131500 +0000" stop="20261120143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261120143000 +0000" stop="20261120164500 +0000" channel="ANTV.vision">
-<title>Tahu Diri Dong</title>
-</programme>
-<programme start="20261120164500 +0000" stop="20261120183000 +0000" channel="ANTV.vision">
-<title>Faithfully Yours</title>
 </programme>
 <programme start="20261120183000 +0000" stop="20261120193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -676,8 +667,14 @@
 <programme start="20261120061500 +0000" stop="20261120073000 +0000" channel="RTV.vision">
 <title>SUPER WINGS</title>
 </programme>
+<programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="RTV.vision">
+<title>BoBoiBoy Galaxy</title>
+</programme>
 <programme start="20261120080000 +0000" stop="20261120090000 +0000" channel="RTV.vision">
 <title>Tom &amp; Jerry</title>
+</programme>
+<programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="RTV.vision">
+<title>Go Go Dino Guardians</title>
 </programme>
 <programme start="20261120100000 +0000" stop="20261120120000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -1497,4 +1494,7 @@
 </programme>
 <programme start="20261120104900 +0000" stop="20261120105900 +0000" channel="Originals.vision">
 <title>24 Hours With Sofia Carson</title>
+</programme>
+<programme start="20261120105900 +0000" stop="20261120122800 +0000" channel="Originals.vision">
+<title>Yamada Samurai Of Ayothaya</title>
 </programme>

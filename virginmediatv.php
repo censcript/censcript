@@ -2177,40 +2177,37 @@
     <title>Forbidden: Dying for Love - Love Is a Battlefield</title>
 </programme>
 <programme start="20261120000000 +0000" stop="20261120010000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
+    <title>Christmas Gifts with Prices</title>
 </programme>
 <programme start="20261120010000 +0000" stop="20261120020000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
+    <title>Christmas Gifts with Prices</title>
 </programme>
 <programme start="20261120020000 +0000" stop="20261120030000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
+    <title>Christmas Gifts with Prices</title>
 </programme>
 <programme start="20261120030000 +0000" stop="20261120040000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
+    <title>Christmas Gifts with Prices</title>
 </programme>
 <programme start="20261120040000 +0000" stop="20261120050000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
+    <title>Christmas Gifts with Prices</title>
 </programme>
 <programme start="20261120050000 +0000" stop="20261120060000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
+    <title>Christmas Gifts with Prices</title>
 </programme>
 <programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="QVC.virginmediatv">
     <title>Vero Moda Clothing</title>
 </programme>
 <programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="QVC.virginmediatv">
-    <title>Hair Gain</title>
-</programme>
-<programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="QVC.virginmediatv">
-    <title>The Christmas Grotto</title>
-</programme>
-<programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="QVC.virginmediatv">
-    <title>Northern Nights</title>
-</programme>
-<programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="QVC.virginmediatv">
     <title>Molton Brown Indulgent Gifts</title>
 </programme>
+<programme start="20261120140000 +0000" stop="20261120160000 +0000" channel="QVC.virginmediatv">
+    <title>Cozy Christmas with Prices Candles</title>
+</programme>
+<programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="QVC.virginmediatv">
+    <title>Ben de Lisi Outlet</title>
+</programme>
 <programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="QVC.virginmediatv">
-    <title>Fashion on Friday with Ben de Lisi</title>
+    <title>Fashion on Friday with SOYACONCEPT</title>
 </programme>
 <programme start="20261120000000 +0000" stop="20261120020000 +0000" channel="Food_Network.virginmediatv">
     <title>Holiday Baking Championship - Getting Ready for Thanksgiving</title>
@@ -2377,8 +2374,11 @@
 <programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
 </programme>
-<programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+<programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
+</programme>
+<programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News Now</title>
 </programme>
 <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News Now</title>
@@ -2810,7 +2810,7 @@
     <title>Select Committee on Budgetary Oversight</title>
 </programme>
 <programme start="20261120122000 +0000" stop="20261120141000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>To Be Announced</title>
+    <title>Joint Committee on the Implementation of the Good Friday Agreement</title>
 </programme>
 <programme start="20261120141000 +0000" stop="20261120160000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Joint Committee on Artificial Intelligence</title>
@@ -4303,8 +4303,11 @@
 <programme start="20261120120000 +0000" stop="20261120123000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: League Phase - Manchester United v AS Roma</title>
 </programme>
-<programme start="20261120123000 +0000" stop="20261120130000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261120123000 +0000" stop="20261120124500 +0000" channel="MUTV.virginmediatv">
     <title>Pochettino: The First Interview</title>
+</programme>
+<programme start="20261120124500 +0000" stop="20261120130000 +0000" channel="MUTV.virginmediatv">
+    <title>Player Spotlight - Ella Toone: School Day</title>
 </programme>
 <programme start="20261120130000 +0000" stop="20261120131500 +0000" channel="MUTV.virginmediatv">
     <title>Top 20 Goals - Premier League Goals v Liverpool</title>
@@ -4315,44 +4318,35 @@
 <programme start="20261120133000 +0000" stop="20261120134500 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - MUW: Swedes in Manchester</title>
 </programme>
-<programme start="20261120134500 +0000" stop="20261120140000 +0000" channel="MUTV.virginmediatv">
-    <title>A Day in the Life: Celin Bizet Donnum</title>
-</programme>
-<programme start="20261120140000 +0000" stop="20261120141500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Maya 150</title>
-</programme>
-<programme start="20261120141500 +0000" stop="20261120143000 +0000" channel="MUTV.virginmediatv">
-    <title>Top 20 Goals - Premier League Goals v Liverpool</title>
+<programme start="20261120134500 +0000" stop="20261120143000 +0000" channel="MUTV.virginmediatv">
+    <title>Live: Manager&#039;s Press Conference</title>
 </programme>
 <programme start="20261120143000 +0000" stop="20261120144500 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Simi Awujo: Seven Things About Me</title>
 </programme>
-<programme start="20261120144500 +0000" stop="20261120151500 +0000" channel="MUTV.virginmediatv">
-    <title>Live: Manager&#039;s Press Conference - Live: Press Conference: Liverpool (A)</title>
+<programme start="20261120144500 +0000" stop="20261120150000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
 </programme>
-<programme start="20261120151500 +0000" stop="20261120153000 +0000" channel="MUTV.virginmediatv">
-    <title>Fans Spotlight - Old Trafford: Tom&#039;s Experience</title>
+<programme start="20261120150000 +0000" stop="20261120154500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Ander Herrera</title>
 </programme>
-<programme start="20261120153000 +0000" stop="20261120160000 +0000" channel="MUTV.virginmediatv">
-    <title>FA Women&#039;s League Cup - Highlights: Manchester United v Everton</title>
-</programme>
-<programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="MUTV.virginmediatv">
-    <title>Under 18 Premier League - U18s Highlights: Liverpool (H) 26/27</title>
-</programme>
-<programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="MUTV.virginmediatv">
-    <title>Pochettino: The First Interview</title>
-</programme>
-<programme start="20261120170000 +0000" stop="20261120171500 +0000" channel="MUTV.virginmediatv">
+<programme start="20261120154500 +0000" stop="20261120160000 +0000" channel="MUTV.virginmediatv">
     <title>Player Spotlight - Maya 150</title>
 </programme>
-<programme start="20261120171500 +0000" stop="20261120173000 +0000" channel="MUTV.virginmediatv">
-    <title>Top 20 Goals - Premier League Goals v Liverpool</title>
+<programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="MUTV.virginmediatv">
+    <title>Manager&#039;s Press Conference - Press Conference: Liverpool (A)</title>
+</programme>
+<programme start="20261120163000 +0000" stop="20261120164500 +0000" channel="MUTV.virginmediatv">
+    <title>Pochettino: The First Interview</title>
+</programme>
+<programme start="20261120164500 +0000" stop="20261120173000 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Ander Herrera</title>
 </programme>
 <programme start="20261120173000 +0000" stop="20261120174500 +0000" channel="MUTV.virginmediatv">
     <title>Fans Spotlight - Old Trafford: Tom&#039;s Experience</title>
 </programme>
 <programme start="20261120174500 +0000" stop="20261120180000 +0000" channel="MUTV.virginmediatv">
-    <title>Manager&#039;s Press Conference - Press Conference: Liverpool (A)</title>
+    <title>Pochettino: The First Interview</title>
 </programme>
 <programme start="20261120000000 +0000" stop="20261120015500 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>Live: Formula 1 - Las Vegas Grand Prix: 1st Practice</title>
@@ -4610,7 +4604,7 @@
     <title>Live: Abu Dhabi T10 League - Qualifier: Arabian Aces v UAE Bulls</title>
 </programme>
 <programme start="20261120153000 +0000" stop="20261120181500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: Abu Dhabi T10 League - Final: Yas Lions v TBA</title>
+    <title>Live: Abu Dhabi T10 League - Final: UAE Bulls v Yas Lions</title>
 </programme>
 <programme start="20261120000000 +0000" stop="20261120015500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Formula 1 - Las Vegas Grand Prix: 1st Practice</title>
@@ -5663,7 +5657,7 @@
     <title>Zoonicorn - The Bigger the Lie</title>
 </programme>
 <programme start="20261120141800 +0000" stop="20261120143000 +0000" channel="Cula4_HD.virginmediatv">
-    <title>Let&#039;s Go, Bananas! - Papa the Daddy</title>
+    <title>Seo linn, a Bhananaí! - Papa The Daddy</title>
 </programme>
 <programme start="20261120143000 +0000" stop="20261120143900 +0000" channel="Cula4_HD.virginmediatv">
     <title>Réidh Eddie Gabh! - Growing Sunflowers</title>
@@ -6061,7 +6055,7 @@
 <programme start="20261119185800 +0000" stop="20261120025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261120025800 +0000" stop="20261120070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261120025800 +0000" stop="20261120060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261120115000 +0000" stop="20261120121500 +0000" channel="CBBC.virginmediatv">
