@@ -611,6 +611,8 @@
     <title lang="en">Innovation Nation (Ulangan)</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.15.</episode-num>
+    <episode-num system="onscreen">S1E16</episode-num>
   </programme>
   <programme start="20261119160000 +0000" stop="20261119163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -621,36 +623,50 @@
     <title lang="en">Kasih Malisa (Ulangan)</title>
     <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.16.</episode-num>
+    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20261119173000 +0000" stop="20261119180000 +0000" channel="tv1.unifitv">
     <title lang="en">Diari Borneo (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog yang memaparkan tentang tiga segmen iaitu Tradisi Borneo, Rahsia Borneo dan Resipi Borneo.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.1.</episode-num>
+    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261119180000 +0000" stop="20261119190000 +0000" channel="tv1.unifitv">
     <title lang="en">Skuad JPJ 2.0</title>
     <desc lang="en">Mengisahkan sebuah drama bersiri yang memaparkan operasi Jabatan Pengangkutan Jalan (JPJ) dalam menjaga keamanan serta membanteras pelbagai bentuk jenayah.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.7.</episode-num>
+    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="tv1.unifitv">
     <title lang="en">Pelikpedia (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog yang memaparkan keunikan dan kepelikan sesuatu tempat.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261119193000 +0000" stop="20261119203000 +0000" channel="tv1.unifitv">
     <title lang="en">Amanat Wasiat Sumayyah (Ulangan)</title>
     <desc lang="en">Sumayyah dan Hamzah berkahwin dan tinggal bersama ibubapa Sumayyah. Sumayyah adalah anak tiri pada Dato' Nasir. Arwah ayah Sumayyah telah mewasiatkan padanya mencari pakcik Amiruddin. Sumayyah cuba mencari pakcik Amiruddin walaupun mendapat bantahan dari ibu dan suaminya.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.4.</episode-num>
+    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261119203000 +0000" stop="20261119210000 +0000" channel="tv1.unifitv">
     <title lang="en">Kronologi Si Penjual Roti (Ulangan)</title>
     <desc lang="en">Saksikan drama lakonan Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Eunos Madeonos, Yana Alyahya, Shera Aiyob, Azhan Rani, Azizah Mahzan.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.5.</episode-num>
+    <episode-num system="onscreen">S1E6</episode-num>
   </programme>
   <programme start="20261119210000 +0000" stop="20261119213000 +0000" channel="tv1.unifitv">
     <title lang="en">Solusi Alam (Ulangan)</title>
     <desc lang="en">Bersama pengacara mencari khazanah alam dan melihat khasiat dan impak tumbuhan semula jadi dalam dunia kesihatan moden.</desc>
     <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261119213000 +0000" stop="20261119220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Ar-Rahman (2026)</title>

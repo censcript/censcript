@@ -1577,7 +1577,7 @@
     <title>Bloomberg Open Interest</title>
 </programme>
 <programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="Bloomberg.mncvision">
-    <title>Bloomberg Money</title>
+    <title>Bloomberg Tech</title>
 </programme>
 <programme start="20261119170000 +0000" stop="20261119174500 +0000" channel="BTV.mncvision">
     <title>UIPM 2026</title>
@@ -6515,7 +6515,7 @@
     <title>Newsline Asia 24</title>
 </programme>
 <programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="NHK World.mncvision">
-    <title>NHK World Selection</title>
+    <title>Yayoi Kusama: My Eternal Soul</title>
 </programme>
 <programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="NHK World.mncvision">
     <title>NHK Newsline</title>
@@ -9053,94 +9053,94 @@
     <title>Evie</title>
 </programme>
 <programme start="20261119171500 +0000" stop="20261119174500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Redaksi Malam</title>
 </programme>
 <programme start="20261119174500 +0000" stop="20261119183000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Sport7</title>
 </programme>
 <programme start="20261119183000 +0000" stop="20261119190000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Best Fishing</title>
 </programme>
 <programme start="20261119190000 +0000" stop="20261119193000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Best Fishing</title>
 </programme>
 <programme start="20261119193000 +0000" stop="20261119201500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Super Tawa</title>
 </programme>
 <programme start="20261119201500 +0000" stop="20261119210000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>LOL ComediHa!</title>
 </programme>
 <programme start="20261119210000 +0000" stop="20261119214500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Big-Bang!</title>
 </programme>
 <programme start="20261119214500 +0000" stop="20261119223000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Pesantrend</title>
 </programme>
 <programme start="20261119223000 +0000" stop="20261119233000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Redaksi Pagi</title>
 </programme>
 <programme start="20261119233000 +0000" stop="20261120003000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Spotlite</title>
 </programme>
 <programme start="20261120003000 +0000" stop="20261120013000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Pagi</title>
 </programme>
 <programme start="20261120013000 +0000" stop="20261120023000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>FYP (For Your Pagi)</title>
 </programme>
 <programme start="20261120023000 +0000" stop="20261120031500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Heits</title>
 </programme>
 <programme start="20261120031500 +0000" stop="20261120041500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Big-Bang!</title>
 </programme>
 <programme start="20261120041500 +0000" stop="20261120050000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Enah Bikin Enak</title>
 </programme>
 <programme start="20261120050000 +0000" stop="20261120054500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Jejak Si Gundul</title>
 </programme>
 <programme start="20261120054500 +0000" stop="20261120063000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Bocah Petualang</title>
 </programme>
 <programme start="20261120063000 +0000" stop="20261120071500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Kepo</title>
 </programme>
 <programme start="20261120071500 +0000" stop="20261120074500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Redaksi</title>
 </programme>
 <programme start="20261120074500 +0000" stop="20261120081500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Spotlite Anti Kudet</title>
 </programme>
 <programme start="20261120081500 +0000" stop="20261120090000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Bisik-Bisik Warga</title>
 </programme>
 <programme start="20261120090000 +0000" stop="20261120100000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Makan Receh</title>
 </programme>
 <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Selebrita Update</title>
 </programme>
 <programme start="20261120110000 +0000" stop="20261120114500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>On The Spot</title>
 </programme>
 <programme start="20261120114500 +0000" stop="20261120121500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Secret Story</title>
 </programme>
 <programme start="20261120121500 +0000" stop="20261120130000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>POV (Pasti Obrolan Viral)</title>
 </programme>
 <programme start="20261120130000 +0000" stop="20261120143000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Arisan</title>
 </programme>
 <programme start="20261120143000 +0000" stop="20261120154500 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Lapor Pak!</title>
 </programme>
 <programme start="20261120154500 +0000" stop="20261120163000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>The Police</title>
 </programme>
 <programme start="20261120163000 +0000" stop="20261119170000 +0000" channel="Trans 7.mncvision">
-    <title>Trans7</title>
+    <title>Misteri Dunia</title>
 </programme>
 <programme start="20261119170000 +0000" stop="20261119220000 +0000" channel="Trans TV.mncvision">
     <title>CNN Indonesia Connected</title>
@@ -9173,7 +9173,7 @@
     <title>CNN Indonesia News Update</title>
 </programme>
 <programme start="20261120093000 +0000" stop="20261120103000 +0000" channel="Trans TV.mncvision">
-    <title>Dream Box Indonesia</title>
+    <title>King Hura Hura</title>
 </programme>
 <programme start="20261120103000 +0000" stop="20261120114500 +0000" channel="Trans TV.mncvision">
     <title>Bikin Laper</title>

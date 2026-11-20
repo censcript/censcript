@@ -190,6 +190,9 @@
     <programme start="20261120000000 +0000" stop="20261121235959 +0000" channel="995495.shahid">
         <title>TV guide is not available</title>
     </programme>
+    <programme start="20261120000000 +0000" stop="20261121235959 +0000" channel="49923086870104.shahid">
+        <title>TV guide is not available</title>
+    </programme>
     <programme start="20261120000000 +0000" stop="20261120001955 +0000" channel="969745.shahid">
         <title>Makhraj 7 Season 1 Episode 13</title>
     </programme>
@@ -429,9 +432,6 @@
     </programme>
     <programme start="20261121232517 +0000" stop="20261121235959 +0000" channel="969745.shahid">
         <title>Tash Ma Tash Season 18 Episode 16</title>
-    </programme>
-    <programme start="20261120000000 +0000" stop="20261121235959 +0000" channel="49923086870104.shahid">
-        <title>TV guide is not available</title>
     </programme>
     <programme start="20261120000000 +0000" stop="20261121235959 +0000" channel="49922763510387.shahid">
         <title>TV guide is not available</title>
@@ -3238,195 +3238,6 @@
     <programme start="20261120000000 +0000" stop="20261121235959 +0000" channel="49922904934759.shahid">
         <title>TV guide is not available</title>
     </programme>
-    <programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120003000 +0000" stop="20261120010000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120010000 +0000" stop="20261120013000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120023000 +0000" stop="20261120030000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120040000 +0000" stop="20261120043000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120043000 +0000" stop="20261120050000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120060000 +0000" stop="20261120070000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20261120070000 +0000" stop="20261120073000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20261120090000 +0000" stop="20261120110000 +0000" channel="387288.shahid">
-        <title>Studio Al Hadath</title>
-    </programme>
-    <programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120170000 +0000" stop="20261120190000 +0000" channel="387288.shahid">
-        <title>Al Akhbar Al Layla</title>
-    </programme>
-    <programme start="20261120190000 +0000" stop="20261120210000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="387288.shahid">
-        <title>03-10-2022</title>
-    </programme>
-    <programme start="20261121090000 +0000" stop="20261121110000 +0000" channel="387288.shahid">
-        <title>Studio Al Hadath</title>
-    </programme>
-    <programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121170000 +0000" stop="20261121190000 +0000" channel="387288.shahid">
-        <title>Al Akhbar Al Layla</title>
-    </programme>
-    <programme start="20261121190000 +0000" stop="20261121210000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121220000 +0000" stop="20261121230000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
-    <programme start="20261122000000 +0000" stop="20261121235959 +0000" channel="387288.shahid">
-        <title>Al Hadath News</title>
-    </programme>
     <programme start="20261120000000 +0000" stop="20261120002558 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 12 Episode 7</title>
     </programme>
@@ -3676,185 +3487,194 @@
     <programme start="20261121233306 +0000" stop="20261121235959 +0000" channel="963543.shahid">
         <title>Tash Ma Tash Season 15 Episode 22</title>
     </programme>
-    <programme start="20261120000000 +0000" stop="20261120001500 +0000" channel="387238.shahid">
-        <title>El Sitt Monalisa Season 1 Episode 4</title>
+    <programme start="20261120000000 +0000" stop="20261120003000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120001500 +0000" stop="20261120004500 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 2 Episode 3</title>
+    <programme start="20261120003000 +0000" stop="20261120010000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120004500 +0000" stop="20261120013000 +0000" channel="387238.shahid">
-        <title>Mawlana Season 1 Episode 28</title>
+    <programme start="20261120010000 +0000" stop="20261120013000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120013000 +0000" stop="20261120021500 +0000" channel="387238.shahid">
-        <title>Ahla Naseeb Season 1 Episode 33</title>
+    <programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120021500 +0000" stop="20261120030000 +0000" channel="387238.shahid">
-        <title>El Sitt Monalisa Season 1 Episode 4</title>
+    <programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="387238.shahid">
-        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 351</title>
+    <programme start="20261120023000 +0000" stop="20261120030000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120033000 +0000" stop="20261120050000 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
+    <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120050000 +0000" stop="20261120054500 +0000" channel="387238.shahid">
-        <title>Malaffat Mansiyya Season 1 Episode 19</title>
+    <programme start="20261120033000 +0000" stop="20261120040000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120054500 +0000" stop="20261120060000 +0000" channel="387238.shahid">
-        <title>Sikkat Safar Season 2 Episode 3</title>
+    <programme start="20261120040000 +0000" stop="20261120043000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120060000 +0000" stop="20261120073000 +0000" channel="387238.shahid">
-        <title>Big Time Podcast Season 1 Episode 14</title>
+    <programme start="20261120043000 +0000" stop="20261120050000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120073000 +0000" stop="20261120090000 +0000" channel="387238.shahid">
-        <title>Kalam Nawa&#039;em Season 23 Episode 29</title>
+    <programme start="20261120050000 +0000" stop="20261120053000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120090000 +0000" stop="20261120091500 +0000" channel="387238.shahid">
-        <title>Kafo Season 1 Episode 9</title>
+    <programme start="20261120053000 +0000" stop="20261120060000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120091500 +0000" stop="20261120093500 +0000" channel="387238.shahid">
-        <title>Rehla Fi Seerat Al Nabi Season 1 Episode 9</title>
+    <programme start="20261120060000 +0000" stop="20261120070000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
     </programme>
-    <programme start="20261120093500 +0000" stop="20261120100000 +0000" channel="387238.shahid">
-        <title>Malek Bel Taweela Season 8 Episode 9</title>
+    <programme start="20261120070000 +0000" stop="20261120073000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="387238.shahid">
-        <title>Al Liqaa Min Al Sifr Season 8 Episode 18</title>
+    <programme start="20261120073000 +0000" stop="20261120080000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120110000 +0000" stop="20261120130100 +0000" channel="387238.shahid">
-        <title>MBC Fi Osbou&#039;</title>
+    <programme start="20261120080000 +0000" stop="20261120083000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
     </programme>
-    <programme start="20261120130100 +0000" stop="20261120140000 +0000" channel="387238.shahid">
-        <title>The Floor: Al Ard Lak Eksabha Season 1 Episode 2</title>
+    <programme start="20261120083000 +0000" stop="20261120090000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
     </programme>
-    <programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="387238.shahid">
-        <title>Layla Fontastic Ma&#039; Abla Fahita Season 1 Episode 8</title>
+    <programme start="20261120090000 +0000" stop="20261120110000 +0000" channel="387288.shahid">
+        <title>Studio Al Hadath</title>
     </programme>
-    <programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="387238.shahid">
-        <title>Taht Al Daght Season 1 Episode 11</title>
+    <programme start="20261120110000 +0000" stop="20261120120000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="387238.shahid">
-        <title>Ard Al Million Season 2 Episode 10</title>
+    <programme start="20261120120000 +0000" stop="20261120130000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="387238.shahid">
-        <title>Min Ela</title>
+    <programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
+    <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120183000 +0000" stop="20261120200000 +0000" channel="387238.shahid">
-        <title>Big Time Podcast Season 1 Episode 23</title>
+    <programme start="20261120143000 +0000" stop="20261120150000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120200000 +0000" stop="20261120213000 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
+    <programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120213000 +0000" stop="20261120223000 +0000" channel="387238.shahid">
-        <title>Taht Al Daght Season 1 Episode 11</title>
+    <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261120223000 +0000" stop="20261121000000 +0000" channel="387238.shahid">
-        <title>Kalam Nawa&#039;em Season 23 Episode 29</title>
+    <programme start="20261120170000 +0000" stop="20261120190000 +0000" channel="387288.shahid">
+        <title>Al Akhbar Al Layla</title>
     </programme>
-    <programme start="20261121000000 +0000" stop="20261121013000 +0000" channel="387238.shahid">
-        <title>Big Time Podcast Season 1 Episode 23</title>
+    <programme start="20261120190000 +0000" stop="20261120210000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121013000 +0000" stop="20261121023000 +0000" channel="387238.shahid">
-        <title>The Floor: Al Ard Lak Eksabha Season 1 Episode 2</title>
+    <programme start="20261120210000 +0000" stop="20261120220000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121023000 +0000" stop="20261121033000 +0000" channel="387238.shahid">
-        <title>Min Ela</title>
+    <programme start="20261120220000 +0000" stop="20261120230000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121033000 +0000" stop="20261121050000 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
+    <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121050000 +0000" stop="20261121051500 +0000" channel="387238.shahid">
-        <title>Kafo Season 1 Episode 9</title>
+    <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121051500 +0000" stop="20261121053500 +0000" channel="387238.shahid">
-        <title>Rehla Fi Seerat Al Nabi Season 1 Episode 9</title>
+    <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121053500 +0000" stop="20261121055500 +0000" channel="387238.shahid">
-        <title>Malek Bel Taweela Season 8 Episode 9</title>
+    <programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121055500 +0000" stop="20261121060000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121060000 +0000" stop="20261121065400 +0000" channel="387238.shahid">
-        <title>Layla Fontastic Ma&#039; Abla Fahita Season 1 Episode 8</title>
+    <programme start="20261121013000 +0000" stop="20261121020000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121065400 +0000" stop="20261121070000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121020000 +0000" stop="20261121023000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121070000 +0000" stop="20261121075300 +0000" channel="387238.shahid">
-        <title>The Floor: Al Ard Lak Eksabha</title>
+    <programme start="20261121023000 +0000" stop="20261121030000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121075300 +0000" stop="20261121080000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121080000 +0000" stop="20261121084700 +0000" channel="387238.shahid">
-        <title>Min Ela</title>
+    <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121084700 +0000" stop="20261121090000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121090000 +0000" stop="20261121094200 +0000" channel="387238.shahid">
-        <title>Al Liqaa Min Al Sifr Season 8 Episode 18</title>
+    <programme start="20261121043000 +0000" stop="20261121050000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121094200 +0000" stop="20261121100000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121050000 +0000" stop="20261121053000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121100000 +0000" stop="20261121104700 +0000" channel="387238.shahid">
-        <title>Ard Al Million Season 2 Episode 10</title>
+    <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121104700 +0000" stop="20261121110000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121060000 +0000" stop="20261121070000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
     </programme>
-    <programme start="20261121110000 +0000" stop="20261121130000 +0000" channel="387238.shahid">
-        <title>MBC Fi Osbou&#039;</title>
+    <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121130000 +0000" stop="20261121145000 +0000" channel="387238.shahid">
-        <title>Al Maa Wa Al Nar</title>
+    <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121145000 +0000" stop="20261121153000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
     </programme>
-    <programme start="20261121153000 +0000" stop="20261121164500 +0000" channel="387238.shahid">
-        <title>Kalam Nawa&#039;em Season 23 Episode 29</title>
+    <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="387288.shahid">
+        <title>03-10-2022</title>
     </programme>
-    <programme start="20261121164500 +0000" stop="20261121170000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121090000 +0000" stop="20261121110000 +0000" channel="387288.shahid">
+        <title>Studio Al Hadath</title>
     </programme>
-    <programme start="20261121170000 +0000" stop="20261121174200 +0000" channel="387238.shahid">
-        <title>Al Liqaa Min Al Sifr Season 8 Episode 18</title>
+    <programme start="20261121110000 +0000" stop="20261121120000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121174200 +0000" stop="20261121180000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121120000 +0000" stop="20261121130000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="387238.shahid">
-        <title>Al Akhbar MBC</title>
+    <programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="387238.shahid">
-        <title>Ahla Ma Tash</title>
+    <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121190000 +0000" stop="20261121194100 +0000" channel="387238.shahid">
-        <title>Taht Al Daght</title>
+    <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121194100 +0000" stop="20261121200000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121200000 +0000" stop="20261121211400 +0000" channel="387238.shahid">
-        <title>Nadeena</title>
+    <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121211400 +0000" stop="20261121213000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121170000 +0000" stop="20261121190000 +0000" channel="387288.shahid">
+        <title>Al Akhbar Al Layla</title>
     </programme>
-    <programme start="20261121213000 +0000" stop="20261121222300 +0000" channel="387238.shahid">
-        <title>The Floor: Al Ard Lak Eksabha</title>
+    <programme start="20261121190000 +0000" stop="20261121210000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121222300 +0000" stop="20261121223000 +0000" channel="387238.shahid">
-        <title>TV guide is not available</title>
+    <programme start="20261121210000 +0000" stop="20261121220000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
-    <programme start="20261121223000 +0000" stop="20261121235959 +0000" channel="387238.shahid">
-        <title>Al Maa Wa Al Nar</title>
+    <programme start="20261121220000 +0000" stop="20261121230000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20261121230000 +0000" stop="20261121233000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
+    </programme>
+    <programme start="20261122000000 +0000" stop="20261121235959 +0000" channel="387288.shahid">
+        <title>Al Hadath News</title>
     </programme>
     <programme start="20261120000000 +0000" stop="20261120000249 +0000" channel="49923172117967.shahid">
         <title>Naam Naam</title>
@@ -5280,6 +5100,186 @@
     </programme>
     <programme start="20261121235441 +0000" stop="20261121235959 +0000" channel="49923172117967.shahid">
         <title>Naam Naam</title>
+    </programme>
+    <programme start="20261120000000 +0000" stop="20261120001500 +0000" channel="387238.shahid">
+        <title>El Sitt Monalisa Season 1 Episode 4</title>
+    </programme>
+    <programme start="20261120001500 +0000" stop="20261120004500 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 2 Episode 3</title>
+    </programme>
+    <programme start="20261120004500 +0000" stop="20261120013000 +0000" channel="387238.shahid">
+        <title>Mawlana Season 1 Episode 28</title>
+    </programme>
+    <programme start="20261120013000 +0000" stop="20261120021500 +0000" channel="387238.shahid">
+        <title>Ahla Naseeb Season 1 Episode 33</title>
+    </programme>
+    <programme start="20261120021500 +0000" stop="20261120030000 +0000" channel="387238.shahid">
+        <title>El Sitt Monalisa Season 1 Episode 4</title>
+    </programme>
+    <programme start="20261120030000 +0000" stop="20261120033000 +0000" channel="387238.shahid">
+        <title>Al Madeena Al Ba&#039;eeda Season 3 Episode 351</title>
+    </programme>
+    <programme start="20261120033000 +0000" stop="20261120050000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20261120050000 +0000" stop="20261120054500 +0000" channel="387238.shahid">
+        <title>Malaffat Mansiyya Season 1 Episode 19</title>
+    </programme>
+    <programme start="20261120054500 +0000" stop="20261120060000 +0000" channel="387238.shahid">
+        <title>Sikkat Safar Season 2 Episode 3</title>
+    </programme>
+    <programme start="20261120060000 +0000" stop="20261120073000 +0000" channel="387238.shahid">
+        <title>Big Time Podcast Season 1 Episode 14</title>
+    </programme>
+    <programme start="20261120073000 +0000" stop="20261120090000 +0000" channel="387238.shahid">
+        <title>Kalam Nawa&#039;em Season 23 Episode 29</title>
+    </programme>
+    <programme start="20261120090000 +0000" stop="20261120091500 +0000" channel="387238.shahid">
+        <title>Kafo Season 1 Episode 9</title>
+    </programme>
+    <programme start="20261120091500 +0000" stop="20261120093500 +0000" channel="387238.shahid">
+        <title>Rehla Fi Seerat Al Nabi Season 1 Episode 9</title>
+    </programme>
+    <programme start="20261120093500 +0000" stop="20261120100000 +0000" channel="387238.shahid">
+        <title>Malek Bel Taweela Season 8 Episode 9</title>
+    </programme>
+    <programme start="20261120100000 +0000" stop="20261120110000 +0000" channel="387238.shahid">
+        <title>Al Liqaa Min Al Sifr Season 8 Episode 18</title>
+    </programme>
+    <programme start="20261120110000 +0000" stop="20261120130100 +0000" channel="387238.shahid">
+        <title>MBC Fi Osbou&#039;</title>
+    </programme>
+    <programme start="20261120130100 +0000" stop="20261120140000 +0000" channel="387238.shahid">
+        <title>The Floor: Al Ard Lak Eksabha Season 1 Episode 2</title>
+    </programme>
+    <programme start="20261120140000 +0000" stop="20261120150000 +0000" channel="387238.shahid">
+        <title>Layla Fontastic Ma&#039; Abla Fahita Season 1 Episode 8</title>
+    </programme>
+    <programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="387238.shahid">
+        <title>Taht Al Daght Season 1 Episode 11</title>
+    </programme>
+    <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="387238.shahid">
+        <title>Ard Al Million Season 2 Episode 10</title>
+    </programme>
+    <programme start="20261120170000 +0000" stop="20261120180000 +0000" channel="387238.shahid">
+        <title>Min Ela</title>
+    </programme>
+    <programme start="20261120180000 +0000" stop="20261120183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20261120183000 +0000" stop="20261120200000 +0000" channel="387238.shahid">
+        <title>Big Time Podcast Season 1 Episode 23</title>
+    </programme>
+    <programme start="20261120200000 +0000" stop="20261120213000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20261120213000 +0000" stop="20261120223000 +0000" channel="387238.shahid">
+        <title>Taht Al Daght Season 1 Episode 11</title>
+    </programme>
+    <programme start="20261120223000 +0000" stop="20261121000000 +0000" channel="387238.shahid">
+        <title>Kalam Nawa&#039;em Season 23 Episode 29</title>
+    </programme>
+    <programme start="20261121000000 +0000" stop="20261121013000 +0000" channel="387238.shahid">
+        <title>Big Time Podcast Season 1 Episode 23</title>
+    </programme>
+    <programme start="20261121013000 +0000" stop="20261121023000 +0000" channel="387238.shahid">
+        <title>The Floor: Al Ard Lak Eksabha Season 1 Episode 2</title>
+    </programme>
+    <programme start="20261121023000 +0000" stop="20261121033000 +0000" channel="387238.shahid">
+        <title>Min Ela</title>
+    </programme>
+    <programme start="20261121033000 +0000" stop="20261121050000 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20261121050000 +0000" stop="20261121051500 +0000" channel="387238.shahid">
+        <title>Kafo Season 1 Episode 9</title>
+    </programme>
+    <programme start="20261121051500 +0000" stop="20261121053500 +0000" channel="387238.shahid">
+        <title>Rehla Fi Seerat Al Nabi Season 1 Episode 9</title>
+    </programme>
+    <programme start="20261121053500 +0000" stop="20261121055500 +0000" channel="387238.shahid">
+        <title>Malek Bel Taweela Season 8 Episode 9</title>
+    </programme>
+    <programme start="20261121055500 +0000" stop="20261121060000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121060000 +0000" stop="20261121065400 +0000" channel="387238.shahid">
+        <title>Layla Fontastic Ma&#039; Abla Fahita Season 1 Episode 8</title>
+    </programme>
+    <programme start="20261121065400 +0000" stop="20261121070000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121070000 +0000" stop="20261121075300 +0000" channel="387238.shahid">
+        <title>The Floor: Al Ard Lak Eksabha</title>
+    </programme>
+    <programme start="20261121075300 +0000" stop="20261121080000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121080000 +0000" stop="20261121084700 +0000" channel="387238.shahid">
+        <title>Min Ela</title>
+    </programme>
+    <programme start="20261121084700 +0000" stop="20261121090000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121090000 +0000" stop="20261121094200 +0000" channel="387238.shahid">
+        <title>Al Liqaa Min Al Sifr Season 8 Episode 18</title>
+    </programme>
+    <programme start="20261121094200 +0000" stop="20261121100000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121100000 +0000" stop="20261121104700 +0000" channel="387238.shahid">
+        <title>Ard Al Million Season 2 Episode 10</title>
+    </programme>
+    <programme start="20261121104700 +0000" stop="20261121110000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121110000 +0000" stop="20261121130000 +0000" channel="387238.shahid">
+        <title>MBC Fi Osbou&#039;</title>
+    </programme>
+    <programme start="20261121130000 +0000" stop="20261121145000 +0000" channel="387238.shahid">
+        <title>Al Maa Wa Al Nar</title>
+    </programme>
+    <programme start="20261121145000 +0000" stop="20261121153000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121153000 +0000" stop="20261121164500 +0000" channel="387238.shahid">
+        <title>Kalam Nawa&#039;em Season 23 Episode 29</title>
+    </programme>
+    <programme start="20261121164500 +0000" stop="20261121170000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121170000 +0000" stop="20261121174200 +0000" channel="387238.shahid">
+        <title>Al Liqaa Min Al Sifr Season 8 Episode 18</title>
+    </programme>
+    <programme start="20261121174200 +0000" stop="20261121180000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121180000 +0000" stop="20261121183000 +0000" channel="387238.shahid">
+        <title>Al Akhbar MBC</title>
+    </programme>
+    <programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="387238.shahid">
+        <title>Ahla Ma Tash</title>
+    </programme>
+    <programme start="20261121190000 +0000" stop="20261121194100 +0000" channel="387238.shahid">
+        <title>Taht Al Daght</title>
+    </programme>
+    <programme start="20261121194100 +0000" stop="20261121200000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121200000 +0000" stop="20261121211400 +0000" channel="387238.shahid">
+        <title>Nadeena</title>
+    </programme>
+    <programme start="20261121211400 +0000" stop="20261121213000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121213000 +0000" stop="20261121222300 +0000" channel="387238.shahid">
+        <title>The Floor: Al Ard Lak Eksabha</title>
+    </programme>
+    <programme start="20261121222300 +0000" stop="20261121223000 +0000" channel="387238.shahid">
+        <title>TV guide is not available</title>
+    </programme>
+    <programme start="20261121223000 +0000" stop="20261121235959 +0000" channel="387238.shahid">
+        <title>Al Maa Wa Al Nar</title>
     </programme>
     <programme start="20261120000000 +0000" stop="20261121235959 +0000" channel="49923264736646.shahid">
         <title>TV guide is not available</title>

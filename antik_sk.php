@@ -2581,17 +2581,29 @@
   <programme start="20261122192000 +0000" stop="20261122230000 +0000" channel="Šláger Originál.webtv.sk">
     <title lang="id">Večerní pořad</title>
   </programme>
-  <programme start="20261121230000 +0000" stop="20261122070000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261121230000 +0000" stop="20261122050000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Lidový Šlágr mišmaš</title>
+  </programme>
+  <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Harmoniky</title>
+  </programme>
+  <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
   </programme>
   <programme start="20261122070000 +0000" stop="20261122113000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
   </programme>
-  <programme start="20261122113000 +0000" stop="20261122133000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261122113000 +0000" stop="20261122123000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
   </programme>
-  <programme start="20261122133000 +0000" stop="20261122173000 +0000" channel="Šláger Muzika.webtv.sk">
+  <programme start="20261122123000 +0000" stop="20261122133000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Z dechovky do dechovky</title>
+  </programme>
+  <programme start="20261122133000 +0000" stop="20261122145500 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Zábava na dvojce</title>
+  </programme>
+  <programme start="20261122145500 +0000" stop="20261122173000 +0000" channel="Šláger Muzika.webtv.sk">
+    <title lang="id">Hitparáda bílého slona</title>
   </programme>
   <programme start="20261122173000 +0000" stop="20261122183000 +0000" channel="Šláger Muzika.webtv.sk">
     <title lang="id">Písničky na přání</title>
@@ -2902,19 +2914,19 @@
   <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="NOE.webtv.sk">
     <title lang="id">Viděli jsme 5+</title>
   </programme>
-  <programme start="20261121222700 +0000" stop="20261122001500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261121222600 +0000" stop="20261122001500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Komisař Montalbano (2)</title>
   </programme>
-  <programme start="20261122001500 +0000" stop="20261122004600 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261122001500 +0000" stop="20261122004500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Reportéři +</title>
   </programme>
-  <programme start="20261122004600 +0000" stop="20261122011500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261122004500 +0000" stop="20261122011500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Kura Kura</title>
   </programme>
-  <programme start="20261122011500 +0000" stop="20261122024800 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261122011500 +0000" stop="20261122024700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Sama doma</title>
   </programme>
-  <programme start="20261122024800 +0000" stop="20261122040000 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261122024700 +0000" stop="20261122040000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Manéž Bolka Polívky</title>
   </programme>
   <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="ČT1.webtv.sk">
@@ -3001,10 +3013,10 @@
   <programme start="20261122224000 +0000" stop="20261122233000 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Případy detektiva Murdocha XVII (24)</title>
   </programme>
-  <programme start="20261121222000 +0000" stop="20261122001900 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261121222000 +0000" stop="20261122001800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Čarodějky ze Salemu</title>
   </programme>
-  <programme start="20261122001900 +0000" stop="20261122004300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261122001800 +0000" stop="20261122004300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Království divočiny: Včelojed chocholatý</title>
   </programme>
   <programme start="20261122004300 +0000" stop="20261122011500 +0000" channel="ČT2.webtv.sk">
@@ -3013,10 +3025,10 @@
   <programme start="20261122011500 +0000" stop="20261122013100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Mojžíš</title>
   </programme>
-  <programme start="20261122013100 +0000" stop="20261122015800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261122013100 +0000" stop="20261122015700 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Čeští poutníci v Římě - Bazilika svaté Praxedy a okolí</title>
   </programme>
-  <programme start="20261122015800 +0000" stop="20261122021300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261122015700 +0000" stop="20261122021300 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Vladimír Morávek, režisér</title>
   </programme>
   <programme start="20261122021300 +0000" stop="20261122024000 +0000" channel="ČT2.webtv.sk">
@@ -3085,10 +3097,10 @@
   <programme start="20261122124800 +0000" stop="20261122134100 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Ještě než zmizí</title>
   </programme>
-  <programme start="20261122134100 +0000" stop="20261122143300 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261122134100 +0000" stop="20261122143400 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Divoká říše (3/3)</title>
   </programme>
-  <programme start="20261122143300 +0000" stop="20261122145800 +0000" channel="ČT2.webtv.sk">
+  <programme start="20261122143400 +0000" stop="20261122145800 +0000" channel="ČT2.webtv.sk">
     <title lang="id">Království divočiny: Národní park Širetoko</title>
   </programme>
   <programme start="20261122145800 +0000" stop="20261122155100 +0000" channel="ČT2.webtv.sk">
@@ -3280,25 +3292,25 @@
   <programme start="20261121213000 +0000" stop="20261121230500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Otec</title>
   </programme>
-  <programme start="20261121230500 +0000" stop="20261121235000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261121230500 +0000" stop="20261121235200 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hvězdy stříbrného plátna I</title>
   </programme>
-  <programme start="20261121235000 +0000" stop="20261122012600 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261121235200 +0000" stop="20261122012800 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Příběh Syda Barretta a Pink Floyd</title>
   </programme>
-  <programme start="20261122012600 +0000" stop="20261122015500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122012800 +0000" stop="20261122015500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Uchem jehly</title>
   </programme>
-  <programme start="20261122015500 +0000" stop="20261122020500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122015500 +0000" stop="20261122020600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Islandská čítanka</title>
   </programme>
-  <programme start="20261122020500 +0000" stop="20261122023200 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122020600 +0000" stop="20261122023300 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Divadlo žije!</title>
   </programme>
-  <programme start="20261122023200 +0000" stop="20261122031800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122023300 +0000" stop="20261122031900 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Crescendo</title>
   </programme>
-  <programme start="20261122031800 +0000" stop="20261122041000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122031900 +0000" stop="20261122041000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">ArtZóna</title>
   </programme>
   <programme start="20261122041000 +0000" stop="20261122050000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3358,13 +3370,13 @@
   <programme start="20261122120900 +0000" stop="20261122121600 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Zvědavci</title>
   </programme>
-  <programme start="20261122121600 +0000" stop="20261122124500 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122121600 +0000" stop="20261122124100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">AZ kvíz junior</title>
   </programme>
-  <programme start="20261122124500 +0000" stop="20261122124800 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122124100 +0000" stop="20261122124500 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">V divočině, tam to žije</title>
   </programme>
-  <programme start="20261122124800 +0000" stop="20261122125100 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122124500 +0000" stop="20261122125100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">V divočině, tam to žije</title>
   </programme>
   <programme start="20261122125100 +0000" stop="20261122132000 +0000" channel="ČT :D - ČT art.webtv.sk">
@@ -3439,7 +3451,7 @@
   <programme start="20261122211500 +0000" stop="20261122221000 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Hvězdy stříbrného plátna I</title>
   </programme>
-  <programme start="20261122221000 +0000" stop="20261122234000 +0000" channel="ČT :D - ČT art.webtv.sk">
+  <programme start="20261122221000 +0000" stop="20261122234100 +0000" channel="ČT :D - ČT art.webtv.sk">
     <title lang="id">Müller/Koller: Kryl</title>
   </programme>
   <programme start="20261121221500 +0000" stop="20261121232000 +0000" channel="Nova International.webtv.sk">
@@ -4621,122 +4633,128 @@
   <programme start="20261122214500 +0000" stop="20261123003000 +0000" channel="Nova Sport 2.webtv.sk">
     <title lang="id">KSW 123: Mircea vs. Held</title>
   </programme>
-  <programme start="20261121230000 +0000" stop="20261122003000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261121220000 +0000" stop="20261121233000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
-  <programme start="20261122003000 +0000" stop="20261122020000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261121233000 +0000" stop="20261122003000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Běžecké lyžování: SP v Ruce</title>
   </programme>
-  <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261122003000 +0000" stop="20261122011500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Killingtonu</title>
   </programme>
-  <programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261122011500 +0000" stop="20261122020000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
   </programme>
-  <programme start="20261122040000 +0000" stop="20261122060000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122020000 +0000" stop="20261122040000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20261122060000 +0000" stop="20261122073000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122040000 +0000" stop="20261122054500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
-  <programme start="20261122073000 +0000" stop="20261122084500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122054500 +0000" stop="20261122064500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Killingtonu</title>
   </programme>
-  <programme start="20261122084500 +0000" stop="20261122091500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122064500 +0000" stop="20261122074500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
   </programme>
-  <programme start="20261122091500 +0000" stop="20261122110000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122074500 +0000" stop="20261122083000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Severská kombinace: SP v Ruce</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261122123000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122083000 +0000" stop="20261122084500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Power of Sport: Magazín</title>
   </programme>
-  <programme start="20261122123000 +0000" stop="20261122133000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122084500 +0000" stop="20261122100000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Běžecké lyžování: SP v Ruce</title>
   </programme>
-  <programme start="20261122133000 +0000" stop="20261122143000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Severská kombinace: SP v Ruce</title>
   </programme>
-  <programme start="20261122143000 +0000" stop="20261122144500 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Power of Sports: Magazín</title>
+  <programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Běžecké lyžování: SP v Ruce</title>
   </programme>
-  <programme start="20261122144500 +0000" stop="20261122170000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122120000 +0000" stop="20261122131500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Biatlon: SP v Kontiolahti</title>
   </programme>
-  <programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122131500 +0000" stop="20261122150000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
-  <programme start="20261122180000 +0000" stop="20261122203000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Jezdectví: Global Champions League ve Veroně</title>
+  <programme start="20261122150000 +0000" stop="20261122164500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Biatlon: SP v Kontiolahti</title>
   </programme>
-  <programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122164500 +0000" stop="20261122183000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
   </programme>
-  <programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122183000 +0000" stop="20261122194500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Killingtonu</title>
+  </programme>
+  <programme start="20261122194500 +0000" stop="20261122211500 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
+  </programme>
+  <programme start="20261122211500 +0000" stop="20261122220000 +0000" channel="Eurosport 1.webtv.sk">
+    <title lang="id">Biatlon: SP v Kontiolahti</title>
   </programme>
   <programme start="20261122220000 +0000" stop="20261122230000 +0000" channel="Eurosport 1.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+    <title lang="id">Biatlon: SP v Kontiolahti</title>
   </programme>
-  <programme start="20261121230000 +0000" stop="20261122000000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261121230000 +0000" stop="20261121234500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Severská kombinace: SP v Ruce</title>
   </programme>
-  <programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261121234500 +0000" stop="20261122003000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Severská kombinace: SP v Ruce</title>
   </programme>
-  <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122003000 +0000" stop="20261122020000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
-  <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122020000 +0000" stop="20261122030000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Killingtonu</title>
   </programme>
-  <programme start="20261122023000 +0000" stop="20261122040000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122030000 +0000" stop="20261122040000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
   </programme>
-  <programme start="20261122040000 +0000" stop="20261122050000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261122040000 +0000" stop="20261122060000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261122060000 +0000" stop="20261122064500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Severská kombinace: SP v Ruce</title>
   </programme>
-  <programme start="20261122060000 +0000" stop="20261122073000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122064500 +0000" stop="20261122073000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Běžecké lyžování: SP v Ruce</title>
   </programme>
-  <programme start="20261122073000 +0000" stop="20261122093000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Jezdectví: Global Champions League ve Veroně</title>
+  <programme start="20261122073000 +0000" stop="20261122090000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20261122093000 +0000" stop="20261122110000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122090000 +0000" stop="20261122110000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Hinzenbachu</title>
   </programme>
-  <programme start="20261122110000 +0000" stop="20261122120000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Horská kola: SP</title>
+  <programme start="20261122110000 +0000" stop="20261122114500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Copper Mountain</title>
   </programme>
-  <programme start="20261122120000 +0000" stop="20261122124500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklokros: HG Cross v Lokerenu</title>
+  <programme start="20261122114500 +0000" stop="20261122124500 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Skoky na lyžích: SP v Ruce</title>
   </programme>
-  <programme start="20261122124500 +0000" stop="20261122134500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklokros: X2O Trophy v Beringenu</title>
+  <programme start="20261122124500 +0000" stop="20261122130000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Power of Sport: Magazín</title>
   </programme>
-  <programme start="20261122134500 +0000" stop="20261122140000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklistika: Cycling Show</title>
+  <programme start="20261122130000 +0000" stop="20261122163000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20261122140000 +0000" stop="20261122151500 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Cyklokros: X2O Trophy v Beringenu</title>
+  <programme start="20261122163000 +0000" stop="20261122170000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Saně: SP ve Winterbergu</title>
   </programme>
-  <programme start="20261122151500 +0000" stop="20261122170000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122170000 +0000" stop="20261122173000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Saně: SP ve Winterbergu</title>
   </programme>
-  <programme start="20261122170000 +0000" stop="20261122180000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Snooker: Northern Ireland Open</title>
+  <programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Běžecké lyžování: SP v Ruce</title>
   </programme>
-  <programme start="20261122180000 +0000" stop="20261122210000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Golf: PGA Tour</title>
+  <programme start="20261122180000 +0000" stop="20261122190000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Skoky na lyžích: SP v Lillehammeru</title>
+  <programme start="20261122190000 +0000" stop="20261122223000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Snooker: UK Championship</title>
   </programme>
-  <programme start="20261122220000 +0000" stop="20261122230000 +0000" channel="Eurosport 2.webtv.sk">
-    <title lang="id">Alpské lyžování: SP v Gurglu</title>
+  <programme start="20261122223000 +0000" stop="20261122230000 +0000" channel="Eurosport 2.webtv.sk">
+    <title lang="id">Alpské lyžování: SP v Killingtonu</title>
   </programme>
   <programme start="20261121214500 +0000" stop="20261121234500 +0000" channel="Sport 1.webtv.sk">
     <title lang="id">Fotbal: Lazio - Lecce</title>
@@ -14797,32 +14815,23 @@
   <programme start="20261122220000 +0000" stop="20261123041000 +0000" channel="Life TV.webtv.sk">
     <title lang="id">Program z Domu modlitieb a chvál v Kansas City</title>
   </programme>
-  <programme start="20261121214300 +0000" stop="20261121230700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261121225300 +0000" stop="20261122001700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Monika Sofiya Soročinová</title>
   </programme>
-  <programme start="20261121230700 +0000" stop="20261122000900 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122001700 +0000" stop="20261122011900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Ladislav Rovinský</title>
   </programme>
-  <programme start="20261122000900 +0000" stop="20261122003500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122011900 +0000" stop="20261122014500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA ŠÍRAVE - Ako dopadla letná sezóna 2026?</title>
   </programme>
-  <programme start="20261122003500 +0000" stop="20261122011500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122014500 +0000" stop="20261122022400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Ján Sklár po voľbách</title>
   </programme>
-  <programme start="20261122011500 +0000" stop="20261122023600 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122022400 +0000" stop="20261122034600 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA VÝCHODE: Vavrinec Žeňuch - História colníctva</title>
   </programme>
-  <programme start="20261122023600 +0000" stop="20261122032200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122034600 +0000" stop="20261122040000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
-  </programme>
-  <programme start="20261122032200 +0000" stop="20261122033900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Ruská Bystrá</title>
-  </programme>
-  <programme start="20261122033900 +0000" stop="20261122035900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Hutorime i bisidujeme - Lekárovce</title>
-  </programme>
-  <programme start="20261122035900 +0000" stop="20261122040000 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Záznam zo zastupiteľstva KSK - 24.8.2026</title>
   </programme>
   <programme start="20261122040000 +0000" stop="20261122040500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Otcovia púšte</title>
@@ -14854,26 +14863,20 @@
   <programme start="20261122065100 +0000" stop="20261122070000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Diabol bude napísaný stále s malým d</title>
   </programme>
-  <programme start="20261122070000 +0000" stop="20261122075500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Katedrála Bratislava - Utiereň</title>
   </programme>
-  <programme start="20261122075500 +0000" stop="20261122080200 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122080000 +0000" stop="20261122110500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Živý prenos - Katedrála Bratislava - Sv. liturgia</title>
+  </programme>
+  <programme start="20261122110500 +0000" stop="20261122111200 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
   </programme>
-  <programme start="20261122080200 +0000" stop="20261122084400 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
-  </programme>
-  <programme start="20261122084400 +0000" stop="20261122085000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261122111200 +0000" stop="20261122111900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zvyky od Martina do Vianoc - sv. Martin</title>
   </programme>
-  <programme start="20261122085000 +0000" stop="20261122090100 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: Prečo sa modliť ruženec?</title>
-  </programme>
-  <programme start="20261122090100 +0000" stop="20261122111900 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Živý prenos - Katedrála Prešov - Sv. liturgia</title>
-  </programme>
   <programme start="20261122111900 +0000" stop="20261122112500 +0000" channel="TV Zemplín.webtv.sk">
-    <title lang="id">Litmanovská Vizionárka Iveta: O čom je štastie</title>
+    <title lang="id">Litmanovská vizionárka Iveta: Varovanie Slovensku: Ľudia nechcú byť, chcú mať</title>
   </programme>
   <programme start="20261122112500 +0000" stop="20261122114500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - 336</title>
@@ -16231,43 +16234,49 @@
   <programme start="20261122225500 +0000" stop="20261122230000 +0000" channel="TVP World.webtv.sk">
     <title lang="id">Weather</title>
   </programme>
-  <programme start="20261121224500 +0000" stop="20261121230300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261121224500 +0000" stop="20261121230400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
-  <programme start="20261121230300 +0000" stop="20261122000000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261121230400 +0000" stop="20261122000000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Salonowiec (13)</title>
   </programme>
   <programme start="20261122000000 +0000" stop="20261122002800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Program informacyjny 19.30</title>
   </programme>
-  <programme start="20261122002800 +0000" stop="20261122004800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122002800 +0000" stop="20261122004600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pytanie dnia (874)</title>
   </programme>
-  <programme start="20261122004800 +0000" stop="20261122010500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122004600 +0000" stop="20261122010000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Teleplotki</title>
   </programme>
-  <programme start="20261122010500 +0000" stop="20261122012000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122010000 +0000" stop="20261122011500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie jutro</title>
   </programme>
-  <programme start="20261122012000 +0000" stop="20261122013500 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122011500 +0000" stop="20261122013000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rewers</title>
   </programme>
-  <programme start="20261122013500 +0000" stop="20261122020000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122013000 +0000" stop="20261122014500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20261122020000 +0000" stop="20261122025000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122014500 +0000" stop="20261122020000 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Panorama Dnia</title>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122024600 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">100 pytan do... (59)</title>
   </programme>
-  <programme start="20261122025000 +0000" stop="20261122032300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122024600 +0000" stop="20261122025700 +0000" channel="TVP Info.webtv.sk">
+    <title lang="id">Dekalog wg Jana Pawła II (2)</title>
+  </programme>
+  <programme start="20261122025700 +0000" stop="20261122032500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polacy w kosmosie</title>
   </programme>
-  <programme start="20261122032300 +0000" stop="20261122041900 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122032500 +0000" stop="20261122042000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Powstania Slaskie... Muzyczne historie</title>
   </programme>
-  <programme start="20261122041900 +0000" stop="20261122044100 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122042000 +0000" stop="20261122044200 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rok w ogrodzie (1192)</title>
   </programme>
-  <programme start="20261122044100 +0000" stop="20261122045800 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122044200 +0000" stop="20261122045800 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Rok w ogrodzie Extra (465)</title>
   </programme>
   <programme start="20261122045800 +0000" stop="20261122050000 +0000" channel="TVP Info.webtv.sk">
@@ -16381,10 +16390,10 @@
   <programme start="20261122123000 +0000" stop="20261122131300 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Polscy szpiedzy (12)</title>
   </programme>
-  <programme start="20261122131300 +0000" stop="20261122132400 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122131300 +0000" stop="20261122132500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Dzien</title>
   </programme>
-  <programme start="20261122132400 +0000" stop="20261122133000 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122132500 +0000" stop="20261122133000 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Pogoda Info</title>
   </programme>
   <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="TVP Info.webtv.sk">
@@ -16436,7 +16445,7 @@
     <title lang="id">Pytanie dnia (875)</title>
   </programme>
   <programme start="20261122191500 +0000" stop="20261122200000 +0000" channel="TVP Info.webtv.sk">
-    <title lang="id">Raport specjalny (50)</title>
+    <title lang="id">Raport specjalny (49)</title>
   </programme>
   <programme start="20261122200000 +0000" stop="20261122201500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Serwis Info Wieczór</title>
@@ -16462,7 +16471,7 @@
   <programme start="20261122223000 +0000" stop="20261122224500 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Wydarzy sie w pogodzie</title>
   </programme>
-  <programme start="20261122224500 +0000" stop="20261122230300 +0000" channel="TVP Info.webtv.sk">
+  <programme start="20261122224500 +0000" stop="20261122230400 +0000" channel="TVP Info.webtv.sk">
     <title lang="id">Panorama Dnia</title>
   </programme>
   <programme start="20261121230000 +0000" stop="20261121234000 +0000" channel="TVP Polonia.webtv.sk">

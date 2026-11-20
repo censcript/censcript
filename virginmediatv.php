@@ -341,7 +341,7 @@
     <title>Today - Episode 145</title>
 </programme>
 <programme start="20261119232500 +0000" stop="20261120002500 +0000" channel="BBC1_HD.virginmediatv">
-    <title>Question Time</title>
+    <title>Question Time - Benefits Bill is a &#039;Moral Failure&#039;</title>
 </programme>
 <programme start="20261120002500 +0000" stop="20261120005500 +0000" channel="BBC1_HD.virginmediatv">
     <title>Newscast - The Week: The Trump, Xi, Putin Summit</title>
@@ -353,7 +353,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="BBC1_HD.virginmediatv">
-    <title>The Interface</title>
+    <title>The Interface - How Will We Know if AI Becomes Conscious?</title>
 </programme>
 <programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Newsday</title>
@@ -2336,7 +2336,7 @@
     <title>BBC News</title>
 </programme>
 <programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>The Interface</title>
+    <title>The Interface - How Will We Know if AI Becomes Conscious?</title>
 </programme>
 <programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Newsday</title>
@@ -2698,8 +2698,11 @@
 <programme start="20261120144500 +0000" stop="20261120150000 +0000" channel="CNN_HD.virginmediatv">
     <title>World Sport</title>
 </programme>
-<programme start="20261120150000 +0000" stop="20261120160000 +0000" channel="CNN_HD.virginmediatv">
+<programme start="20261120150000 +0000" stop="20261120154500 +0000" channel="CNN_HD.virginmediatv">
     <title>Connect the World</title>
+</programme>
+<programme start="20261120154500 +0000" stop="20261120160000 +0000" channel="CNN_HD.virginmediatv">
+    <title>Marketplace Asia - Data Centers; Tennis</title>
 </programme>
 <programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="CNN_HD.virginmediatv">
     <title>One World With Zain Asher</title>
@@ -2803,20 +2806,17 @@
 <programme start="20261120030000 +0000" stop="20261120063000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>
 </programme>
-<programme start="20261120100000 +0000" stop="20261120121000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261120100000 +0000" stop="20261120122000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Select Committee on Budgetary Oversight</title>
 </programme>
-<programme start="20261120121000 +0000" stop="20261120142000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261120122000 +0000" stop="20261120141000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>To Be Announced</title>
 </programme>
-<programme start="20261120142000 +0000" stop="20261120160000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261120141000 +0000" stop="20261120160000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Artificial Intelligence</title>
 </programme>
-<programme start="20261120160000 +0000" stop="20261120163000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
-</programme>
-<programme start="20261120163000 +0000" stop="20261120170000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261120160000 +0000" stop="20261120170000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Comhchoiste na Gaeilge, na Gaeltachta agus Phobal Labhartha</title>
 </programme>
 <programme start="20261120170000 +0000" stop="20261120200000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues</title>
@@ -4607,10 +4607,10 @@
     <title>Abu Dhabi T10 League - Emirates Eagles v United Tigers</title>
 </programme>
 <programme start="20261120130000 +0000" stop="20261120153000 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: Abu Dhabi T10 League - Qualifier: TBA v TBA</title>
+    <title>Live: Abu Dhabi T10 League - Qualifier: Arabian Aces v UAE Bulls</title>
 </programme>
 <programme start="20261120153000 +0000" stop="20261120181500 +0000" channel="Premier_Sports_2_HD.virginmediatv">
-    <title>Live: Abu Dhabi T10 League - Final: TBA v TBA</title>
+    <title>Live: Abu Dhabi T10 League - Final: Yas Lions v TBA</title>
 </programme>
 <programme start="20261120000000 +0000" stop="20261120015500 +0000" channel="Sky_Sports_Main_Event.virginmediatv">
     <title>Live: Formula 1 - Las Vegas Grand Prix: 1st Practice</title>
