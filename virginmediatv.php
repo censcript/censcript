@@ -25,16 +25,16 @@
 <programme start="20261121163000 +0000" stop="20261121191400 +0000" channel="Virgin_Media_One_HD.virginmediatv">
     <title>Live: Nations Championship - Ireland v South Africa</title>
 </programme>
-<programme start="20261120231500 +0000" stop="20261121012000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261120232000 +0000" stop="20261121012500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Ice Storm</title>
 </programme>
-<programme start="20261121012000 +0000" stop="20261121015000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261121012500 +0000" stop="20261121015500 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Nationwide - Episode 130</title>
 </programme>
-<programme start="20261121015000 +0000" stop="20261121023500 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261121015500 +0000" stop="20261121024000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 54</title>
 </programme>
-<programme start="20261121023500 +0000" stop="20261121060000 +0000" channel="RTE_One_HD.virginmediatv">
+<programme start="20261121024000 +0000" stop="20261121060000 +0000" channel="RTE_One_HD.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261121110500 +0000" stop="20261121121000 +0000" channel="RTE_One_HD.virginmediatv">
@@ -241,16 +241,19 @@
 <programme start="20261120223500 +0000" stop="20261121001500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Late Late Show - Episode 25</title>
 </programme>
-<programme start="20261121001500 +0000" stop="20261121022000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261121001500 +0000" stop="20261121002000 +0000" channel="RTE_One_+1.virginmediatv">
+    <title>Weather</title>
+</programme>
+<programme start="20261121002000 +0000" stop="20261121022500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Ice Storm</title>
 </programme>
-<programme start="20261121022000 +0000" stop="20261121025000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261121022500 +0000" stop="20261121025500 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Nationwide - Episode 130</title>
 </programme>
-<programme start="20261121025000 +0000" stop="20261121033500 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261121025500 +0000" stop="20261121034000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>The Kelly Clarkson Show - Episode 54</title>
 </programme>
-<programme start="20261121033500 +0000" stop="20261121070000 +0000" channel="RTE_One_+1.virginmediatv">
+<programme start="20261121034000 +0000" stop="20261121070000 +0000" channel="RTE_One_+1.virginmediatv">
     <title>Euronews</title>
 </programme>
 <programme start="20261121100500 +0000" stop="20261121120500 +0000" channel="RTE_One_+1.virginmediatv">
@@ -2555,7 +2558,7 @@
     <title>Quest&#039;s World of Wonder</title>
 </programme>
 <programme start="20261121130000 +0000" stop="20261121140000 +0000" channel="CNN_HD.virginmediatv">
-    <title>First of All With Victor Blackwell</title>
+    <title>CNN This Morning Weekend</title>
 </programme>
 <programme start="20261121140000 +0000" stop="20261121150000 +0000" channel="CNN_HD.virginmediatv">
     <title>Smerconish</title>
@@ -2564,7 +2567,7 @@
     <title>CNN Creators</title>
 </programme>
 <programme start="20261121153000 +0000" stop="20261121160000 +0000" channel="CNN_HD.virginmediatv">
-    <title>Inside Africa</title>
+    <title>Inside Africa - Kenyan Aquaculture</title>
 </programme>
 <programme start="20261121160000 +0000" stop="20261121170000 +0000" channel="CNN_HD.virginmediatv">
     <title>The Amanpour Hour</title>
@@ -3787,8 +3790,8 @@
 <programme start="20261121130000 +0000" stop="20261121160000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>RSM Classic, PGA Tour Golf - Day 2</title>
 </programme>
-<programme start="20261121160000 +0000" stop="20261121180000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>CME Group Tour Championship LPGA Golf - Day 2</title>
+<programme start="20261121160000 +0000" stop="20261121190000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>Live: CME Group Tour Championship LPGA Golf - Day 3</title>
 </programme>
 <programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>The Insiders - Episode 210</title>
@@ -4510,8 +4513,8 @@
 <programme start="20261121130000 +0000" stop="20261121160000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>RSM Classic, PGA Tour Golf - Day 2</title>
 </programme>
-<programme start="20261121160000 +0000" stop="20261121180000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>CME Group Tour Championship LPGA Golf - Day 2</title>
+<programme start="20261121160000 +0000" stop="20261121190000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>Live: CME Group Tour Championship LPGA Golf - Day 3</title>
 </programme>
 <programme start="20261121000000 +0000" stop="20261121010000 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>The Insiders - Episode 210</title>

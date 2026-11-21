@@ -625,14 +625,8 @@
 <programme start="20261121093000 +0000" stop="20261121104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261121104500 +0000" stop="20261121131500 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari</title>
-</programme>
 <programme start="20261121131500 +0000" stop="20261121143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261121143000 +0000" stop="20261121164500 +0000" channel="ANTV.vision">
-<title>Anaconda</title>
 </programme>
 <programme start="20261121164500 +0000" stop="20261121183000 +0000" channel="ANTV.vision">
 <title>Mojin Returns To South China...</title>
@@ -1477,17 +1471,11 @@
 <programme start="20261121130500 +0000" stop="20261121130900 +0000" channel="Originals.vision">
 <title>24 Hours With A$Ap Ferg</title>
 </programme>
-<programme start="20261121130900 +0000" stop="20261121144200 +0000" channel="Originals.vision">
-<title>Badge Of Honor</title>
-</programme>
 <programme start="20261121144200 +0000" stop="20261121145000 +0000" channel="Originals.vision">
 <title>73 Questions With Daisy Ridley</title>
 </programme>
 <programme start="20261121145000 +0000" stop="20261121145500 +0000" channel="Originals.vision">
 <title>24 Hours With Katy Perry</title>
-</programme>
-<programme start="20261121145500 +0000" stop="20261121162200 +0000" channel="Originals.vision">
-<title>Full Out 2: You Got This!</title>
 </programme>
 <programme start="20261121162200 +0000" stop="20261121163000 +0000" channel="Originals.vision">
 <title>73 Questions With Emily Blunt</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20261121163800 +0000" stop="20261121182400 +0000" channel="Originals.vision">
 <title>Tapped Out</title>
+</programme>
+<programme start="20261121182400 +0000" stop="20261121183200 +0000" channel="Originals.vision">
+<title>73 Questions With D. Zoolander</title>
+</programme>
+<programme start="20261121183200 +0000" stop="20261121183600 +0000" channel="Originals.vision">
+<title>24 Hours With Katy Perry</title>
+</programme>
+<programme start="20261121183600 +0000" stop="20261121195800 +0000" channel="Originals.vision">
+<title>Human Traces</title>
+</programme>
+<programme start="20261121195800 +0000" stop="20261121200800 +0000" channel="Originals.vision">
+<title>24 Hours With Ellie Goulding</title>
 </programme>
