@@ -544,12 +544,6 @@
 <programme start="20261121163000 +0000" stop="20261121183000 +0000" channel="Trans 7.vision">
 <title>Misteri Dunia</title>
 </programme>
-<programme start="20261121183000 +0000" stop="20261121190000 +0000" channel="Trans 7.vision">
-<title>MotoGP</title>
-</programme>
-<programme start="20261121190000 +0000" stop="20261121191500 +0000" channel="Trans 7.vision">
-<title>MotoGP</title>
-</programme>
 <programme start="20261121191500 +0000" stop="20261121194500 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -628,17 +622,8 @@
 <programme start="20261121131500 +0000" stop="20261121143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
 </programme>
-<programme start="20261121164500 +0000" stop="20261121183000 +0000" channel="ANTV.vision">
-<title>Mojin Returns To South China...</title>
-</programme>
 <programme start="20261121183000 +0000" stop="20261121191500 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
-</programme>
-<programme start="20261121191500 +0000" stop="20261121213000 +0000" channel="ANTV.vision">
-<title>Serie A Liga Italia</title>
-</programme>
-<programme start="20261121213000 +0000" stop="20261121221500 +0000" channel="ANTV.vision">
-<title>Total Football: Highlight</title>
 </programme>
 <programme start="20261121221500 +0000" stop="20261121230000 +0000" channel="ANTV.vision">
 <title>Bikin Mewek</title>
@@ -858,9 +843,6 @@
 </programme>
 <programme start="20261121151500 +0000" stop="20261121173000 +0000" channel="Kompas TV.vision">
 <title>Eredivisie 2026/27</title>
-</programme>
-<programme start="20261121173000 +0000" stop="20261121190000 +0000" channel="Kompas TV.vision">
-<title>Rosi On Location</title>
 </programme>
 <programme start="20261121190000 +0000" stop="20261121200000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama</title>
@@ -1483,18 +1465,36 @@
 <programme start="20261121163000 +0000" stop="20261121163800 +0000" channel="Originals.vision">
 <title>73 Questions With G. Rodriguez</title>
 </programme>
-<programme start="20261121163800 +0000" stop="20261121182400 +0000" channel="Originals.vision">
-<title>Tapped Out</title>
-</programme>
 <programme start="20261121182400 +0000" stop="20261121183200 +0000" channel="Originals.vision">
 <title>73 Questions With D. Zoolander</title>
 </programme>
 <programme start="20261121183200 +0000" stop="20261121183600 +0000" channel="Originals.vision">
 <title>24 Hours With Katy Perry</title>
 </programme>
-<programme start="20261121183600 +0000" stop="20261121195800 +0000" channel="Originals.vision">
-<title>Human Traces</title>
-</programme>
 <programme start="20261121195800 +0000" stop="20261121200800 +0000" channel="Originals.vision">
 <title>24 Hours With Ellie Goulding</title>
+</programme>
+<programme start="20261121200800 +0000" stop="20261121201800 +0000" channel="Originals.vision">
+<title>73 Questions With G. Rodriguez</title>
+</programme>
+<programme start="20261121201800 +0000" stop="20261121202200 +0000" channel="Originals.vision">
+<title>24 Hours With A$Ap Ferg</title>
+</programme>
+<programme start="20261121202200 +0000" stop="20261121203400 +0000" channel="Originals.vision">
+<title>7 Riverdale Fans Explain Why...</title>
+</programme>
+<programme start="20261121203400 +0000" stop="20261121215400 +0000" channel="Originals.vision">
+<title>Epiphany</title>
+</programme>
+<programme start="20261121215400 +0000" stop="20261121231800 +0000" channel="Originals.vision">
+<title>Legendary Voyages</title>
+</programme>
+<programme start="20261121231800 +0000" stop="20261121232400 +0000" channel="Originals.vision">
+<title>24 Hours With Burna Boy</title>
+</programme>
+<programme start="20261121232400 +0000" stop="20261121233800 +0000" channel="Originals.vision">
+<title>7 Riverdale Fans Explain Why...</title>
+</programme>
+<programme start="20261121233800 +0000" stop="20261122011800 +0000" channel="Originals.vision">
+<title>Leaves Of Grass</title>
 </programme>

@@ -234,11 +234,11 @@
     <title lang="id">FTV PRIMETIME : FROM GADO GADO TO MILYUNER CINTA</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261121171000 +0000" stop="20261121192700 +0000">
+  <programme channel="204" start="20261121171000 +0000" stop="20261121193200 +0000">
     <title lang="id">Newcastle United Vs Arsenal - Premier League - Live</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261121192700 +0000" stop="20261121201700 +0000">
+  <programme channel="204" start="20261121193200 +0000" stop="20261121201700 +0000">
     <title lang="id">Sinema Malam: Aku Cinta Kamu Tapi Gengsi</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -305,7 +305,7 @@
   <programme channel="204" start="20261122125100 +0000" stop="20261122143000 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/BMQr1Uq_rEe_g_7YAyNPm9B6S9c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447762/04f2d1.jpg"/>
   </programme>
   <programme channel="204" start="20261122143000 +0000" stop="20261122155600 +0000">
     <title lang="id">Kesetiaan</title>
@@ -617,35 +617,35 @@
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261122013000 +0000" stop="20261122033000 +0000">
-    <title lang="id">Kejurnas U19 (LIVE)</title>
-    <desc lang="id">KEJURNAS U19 (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261122013000 +0000" stop="20261122040000 +0000">
+    <title lang="id">Putri: Bhayangkara Smansa Pro Manado vs Ajaib Wahana - Kejurnas Bola Voli Antarklub U19</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putri: Bhayangkara Smansa Pro Manado vs Ajaib Wahana - Kejurnas Bola Voli Antarklub U19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ibGTn-hN7gJUNTsA1vqUj2Cr2XI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447962/7665fc.jpg"/>
   </programme>
-  <programme channel="206" start="20261122033000 +0000" stop="20261122053000 +0000">
-    <title lang="id">Kejurnas U19 (LIVE)</title>
-    <desc lang="id">KEJURNAS U19 (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261122040000 +0000" stop="20261122060000 +0000">
+    <title lang="id">Putra: Singo Yudha Kutai Barat vs Smano Lampung - Kejurnas Bola Voli Antarklub U19</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: Singo Yudha Kutai Barat vs Smano Lampung - Kejurnas Bola Voli Antarklub U19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/dEGVd4IQe72hGvmqQcWUjXzqObk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447963/ec5a87.jpg"/>
   </programme>
-  <programme channel="206" start="20261122053000 +0000" stop="20261122073000 +0000">
-    <title lang="id">Kejurnas U19 (LIVE)</title>
-    <desc lang="id">KEJURNAS U19 (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261122060000 +0000" stop="20261122080000 +0000">
+    <title lang="id">Putra: Bright Jos Elektrik Sulut vs Bimaloka Maldeva - Kejurnas Bola Voli Antarklub U19</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: Bright Jos Elektrik Sulut vs Bimaloka Maldeva - Kejurnas Bola Voli Antarklub U19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/ef8YU3IOFD29DQKE0MKfhdVwCRg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447964/e622e5.jpg"/>
   </programme>
-  <programme channel="206" start="20261122073000 +0000" stop="20261122093000 +0000">
-    <title lang="id">Kejurnas U19 (LIVE)</title>
-    <desc lang="id">KEJURNAS U19 (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261122080000 +0000" stop="20261122100000 +0000">
+    <title lang="id">Putri: Vini Vidi Vici vs Ivoba Sulaone - Kejurnas Bola Voli Antarklub U19</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putri: Vini Vidi Vici vs Ivoba Sulaone - Kejurnas Bola Voli Antarklub U19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/p7S70afaeBviE7MgZFKPsCIE580=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447965/ec3bf4.jpg"/>
   </programme>
-  <programme channel="206" start="20261122093000 +0000" stop="20261122113000 +0000">
-    <title lang="id">Kejurnas U19 (LIVE)</title>
-    <desc lang="id">KEJURNAS U19 (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261122100000 +0000" stop="20261122120000 +0000">
+    <title lang="id">Putri: JVC Pakalolo Kongdjie vs Batam Tectona - Kejurnas Bola Voli Antarklub U19</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putri: JVC Pakalolo Kongdjie vs Batam Tectona - Kejurnas Bola Voli Antarklub U19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/6BZlCLLBC1x4CglOk3POzSbIkZU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447966/c056dc.jpg"/>
   </programme>
-  <programme channel="206" start="20261122113000 +0000" stop="20261122140000 +0000">
-    <title lang="id">Kejurnas U19 (LIVE)</title>
-    <desc lang="id">KEJURNAS U19 (LIVE)</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  <programme channel="206" start="20261122120000 +0000" stop="20261122140000 +0000">
+    <title lang="id">Putra: SMKN 1 Bengkulu vs BS Lima Puluh Kota - Kejurnas Bola Voli Antarklub U19</title>
+    <desc lang="id">Nonton streaming pertandingan seru Putra: SMKN 1 Bengkulu vs BS Lima Puluh Kota - Kejurnas Bola Voli Antarklub U19. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Hdi5BQoBNpOzTc-mzjrw9kqbDTQ=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447967/c7cafc.jpg"/>
   </programme>
   <programme channel="206" start="20261122140000 +0000" stop="20261122164700 +0000">
     <title lang="id">VNL 2026</title>
@@ -5687,11 +5687,11 @@
     <title lang="id">TVRI Program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261121180000 +0000" stop="20261121200000 +0000">
+  <programme channel="6441" start="20261121180000 +0000" stop="20261121201800 +0000">
     <title lang="id">TVRI Program</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
-  <programme channel="6441" start="20261121200000 +0000" stop="20261121210000 +0000">
+  <programme channel="6441" start="20261121201800 +0000" stop="20261121210000 +0000">
     <title lang="id">Flashback</title>
     <icon src="https://thumbor.prod.vidiocdn.com/evEGE66rxb4154kDlbbZLziXPow=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg"/>
   </programme>
@@ -12869,17 +12869,17 @@
     <desc lang="id">Umpan-umpan presisi Los Verdiblancos siap membelah pertahanan lawan!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/MOm1BoP4IOPh0KuLwICpDQPX7OY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442250/f377e7.jpg"/>
   </programme>
-  <programme channel="6299" start="20261121194000 +0000" stop="20261121195500 +0000">
+  <programme channel="6299" start="20261121194000 +0000" stop="20261121195700 +0000">
     <title lang="id">Girona vs Athletic Bilbao : LaLiga Match Highlights 2024/25</title>
     <desc lang="id">Girona vs Athletic Bilbao</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
   </programme>
-  <programme channel="6299" start="20261121195500 +0000" stop="20261121220000 +0000">
+  <programme channel="6299" start="20261121195700 +0000" stop="20261121220500 +0000">
     <title lang="id">Real Madrid vs Celta Vigo - LaLiga</title>
     <desc lang="id">Sanggupkah Celta Vigo menahan gempuran tuan rumah?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/ESkC8COAMW6nmbAr87jP2_s7Y8g=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442251/e89280.jpg"/>
   </programme>
-  <programme channel="6299" start="20261121220000 +0000" stop="20261121222000 +0000">
+  <programme channel="6299" start="20261121220500 +0000" stop="20261121222000 +0000">
     <title lang="id">Yassir Zabiri : LaLiga Rookies 2026/27</title>
     <desc lang="id">Yassir Zabiri</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5yUHYfv_b1sZi7kdFElm8JqF2RY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-4bd997.jpg"/>
@@ -13545,18 +13545,22 @@
     <title lang="id">Billie Jean King Cup 2026</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261121180000 +0000" stop="20261121194500 +0000">
+  <programme channel="6685" start="20261121180000 +0000" stop="20261121194900 +0000">
     <title lang="id">Feyenoord vs Excelsior : [LIVE] Dutch League Eredivisie 2026/27</title>
     <desc lang="id">Feyenoord vs Excelsior</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261121194500 +0000" stop="20261121214500 +0000">
+  <programme channel="6685" start="20261121194900 +0000" stop="20261121205400 +0000">
+    <title lang="id">Billie Jean King Cup 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  </programme>
+  <programme channel="6685" start="20261121205400 +0000" stop="20261121214400 +0000">
     <title lang="id">Strasbourg vs Brest - Ligue 1</title>
     <desc lang="id">Nonton streaming pertandingan seru Strasbourg vs Brest - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/8bAy_Q9DnRZu8etd3Q55_kEv0mM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442995/2aa9da.jpg"/>
   </programme>
-  <programme channel="6685" start="20261121214500 +0000" stop="20261121223000 +0000">
-    <title lang="id">EFL 2026/27</title>
+  <programme channel="6685" start="20261121214400 +0000" stop="20261121223000 +0000">
+    <title lang="id">filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
   <programme channel="6685" start="20261121223000 +0000" stop="20261122000000 +0000">
@@ -13724,19 +13728,23 @@
     <desc lang="id">Mampukah Chelsea meraih kemenangan mudah di Stamford Bridge saat kedatangan tim tamu, Leeds United?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/6djmjzNU0OrHhml-bHOlxoNRFu0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442690/df2e7d.jpg"/>
   </programme>
-  <programme channel="9182" start="20261121171200 +0000" stop="20261121193000 +0000">
+  <programme channel="9182" start="20261121171200 +0000" stop="20261121193500 +0000">
     <title lang="id">Newcastle vs Arsenal : [LIVE] Premier League 2026/27</title>
     <desc lang="id">NEWCASTLE vs ARSENAL</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261121193000 +0000" stop="20261121194000 +0000">
+  <programme channel="9182" start="20261121193500 +0000" stop="20261121194000 +0000">
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261121194000 +0000" stop="20261121215500 +0000">
+  <programme channel="9182" start="20261121194000 +0000" stop="20261121214500 +0000">
     <title lang="id">Lille vs Lyon - Ligue 1</title>
     <desc lang="id">Benteng kokoh Calvin Verdonk siap redam gempuran Olympique Lyonnais di Stade Pierre-Mauroy!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/AVN5QULx_SI65ba2dVn1AGDmZ0I=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442846/3dbeca.jpg"/>
+  </programme>
+  <programme channel="9182" start="20261121214500 +0000" stop="20261121215500 +0000">
+    <title lang="id">Filler</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
   <programme channel="9182" start="20261121215500 +0000" stop="20261121220000 +0000">
     <title lang="id">Filler Ligue 1</title>
@@ -14647,27 +14655,27 @@
     <desc lang="id">17</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261121164500 +0000" stop="20261121190000 +0000">
+  <programme channel="6786" start="20261121164500 +0000" stop="20261121185100 +0000">
     <title lang="id">Parma vs Roma - Serie A</title>
     <desc lang="id">Akankah tekanan publik Tardini mendorong Parma mengamankan poin penuh berharga?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FN9UsTihZVZmqef3lyQnu9NLX_E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442807/deaf51.jpg"/>
   </programme>
-  <programme channel="6786" start="20261121164500 +0000" stop="20261121190000 +0000">
+  <programme channel="6786" start="20261121164500 +0000" stop="20261121185100 +0000">
     <title lang="id">Parma vs Roma - Serie A</title>
     <desc lang="id">Akankah tekanan publik Tardini mendorong Parma mengamankan poin penuh berharga?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/FN9UsTihZVZmqef3lyQnu9NLX_E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442807/deaf51.jpg"/>
   </programme>
-  <programme channel="6786" start="20261121190000 +0000" stop="20261121193000 +0000">
+  <programme channel="6786" start="20261121185100 +0000" stop="20261121193000 +0000">
     <title lang="id">Show 10 : NFL Extra 2026/27</title>
     <desc lang="id">Show 10</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261121193000 +0000" stop="20261121215000 +0000">
+  <programme channel="6786" start="20261121193000 +0000" stop="20261121214600 +0000">
     <title lang="id">Napoli vs Torino - Serie A</title>
     <desc lang="id">Akankah atmosfer panas Maradona mendorong Napoli mengamankan poin berharga?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Hw_kwiu8xYHWI_8ahdgmFUrFiCI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442808/1cefb8.jpg"/>
   </programme>
-  <programme channel="6786" start="20261121215000 +0000" stop="20261121220000 +0000">
+  <programme channel="6786" start="20261121214600 +0000" stop="20261121220000 +0000">
     <title lang="id">Filler Ligue 1 Prancis MD 8 : Filler Ligue 1 Prancis MD 8</title>
     <desc lang="id">Filler Ligue 1 Prancis MD 8</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
@@ -15562,7 +15570,15 @@
     <title lang="id">DUTCH LEAGUE EREDIVISIE 2026/27 - Highlight</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261121183000 +0000" stop="20261121203000 +0000">
+  <programme channel="6686" start="20261121183000 +0000" stop="20261121210000 +0000">
+    <title lang="id">Billie Jean King Cup 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261121210000 +0000" stop="20261121212500 +0000">
+    <title lang="id">Filler NFL</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  </programme>
+  <programme channel="6686" start="20261121212500 +0000" stop="20261122010000 +0000">
     <title lang="id">USA vs Hungary - Billie Jean King Cup Play-offs 2026</title>
     <desc lang="id">Nonton streaming pertandingan seru USA vs Hungary. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/9MWTyizjPctLtzd2haAaR0zlGpY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5444118/a35a6f.png"/>
@@ -15719,12 +15735,12 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261121194000 +0000" stop="20261121215000 +0000">
+  <programme channel="9183" start="20261121194000 +0000" stop="20261121214600 +0000">
     <title lang="id">AS Monaco vs AJ Auxerre - Ligue 1</title>
     <desc lang="id">Tuan rumah sedang on-fire, raksasa ibu kota mengincar kemenangan beruntun!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Xe6JCFaCOaZqmrbFXbXQDKiC78A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5442845/6efa46.jpg"/>
   </programme>
-  <programme channel="9183" start="20261121215000 +0000" stop="20261121220000 +0000">
+  <programme channel="9183" start="20261121214600 +0000" stop="20261121220000 +0000">
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
@@ -15928,17 +15944,17 @@
     <desc lang="id">Anfield takes centre stage as Liverpool host Manchester United. We also preview Arsenal's trip to Newcastle and Manchester City taking on Fulham.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261121113000 +0000" stop="20261121200000 +0000">
+  <programme channel="9353" start="20261121113000 +0000" stop="20261121200800 +0000">
     <title lang="id">Manchester City V Fulham / Chelsea V Leeds United (Goal Rush) / Newcastle United V Arsenal : Premier League LIVE</title>
     <desc lang="id">The Premier League returns after the international break with Manchester City playing Fulham, Chelsea against Leeds United headlining Goal Rush and Newcastle United versus Arsenal completing the action.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261121113000 +0000" stop="20261121200000 +0000">
+  <programme channel="9353" start="20261121113000 +0000" stop="20261121200800 +0000">
     <title lang="id">Manchester City V Fulham / Chelsea V Leeds United (Goal Rush) / Newcastle United V Arsenal : Premier League LIVE</title>
     <desc lang="id">The Premier League returns after the international break with Manchester City playing Fulham, Chelsea against Leeds United headlining Goal Rush and Newcastle United versus Arsenal completing the action.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
   </programme>
-  <programme channel="9353" start="20261121200000 +0000" stop="20261121210000 +0000">
+  <programme channel="9353" start="20261121200800 +0000" stop="20261121210000 +0000">
     <title lang="id">Sat 21 Nov : The Saturday Wrap</title>
     <desc lang="id">A complete review of all the day's Premier League football, with highlights and studio discussion. The Saturday Wrap broadcasts immediately after Premier League Live on Saturday.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kVQp-Ruzgrl_YjveAVjaxlZ-bLA=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg"/>
@@ -35304,9 +35320,9 @@
     <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
   </programme>
   <programme channel="18189" start="20261122180000 +0000" stop="20261122210000 +0000">
-    <title lang="id">PGA TOUR</title>
-    <desc lang="id">The RSM Classic - Round 4</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/84KfVJ1EkCZE1TUxZXNvtr5sNmk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18189/champions-golf-1-ffdd6c.jpg"/>
+    <title lang="id">Round 4 - The RSM Classic 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - The RSM Classic 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/5fVs6MB6RrCkW9C7FbZiNgCpf5A=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447969/967387.png"/>
   </programme>
   <programme channel="18189" start="20261122210000 +0000" stop="20261123000000 +0000">
     <title lang="id">PGA TOUR</title>
@@ -35742,5 +35758,10 @@
     <title lang="id">LPGA 2026 THE ANNIKA DRIVEN</title>
     <desc lang="id">ROUND 2</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/IccXQd6EOZjWCT9QQQrsC0nCTZQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18190/champions-golf-2-3c2aa9.jpg"/>
+  </programme>
+  <programme channel="18190" start="20261122180000 +0000" stop="20261122210000 +0000">
+    <title lang="id">Round 4 - CME Group Tour Championship 2026</title>
+    <desc lang="id">Nonton streaming pertandingan seru Round 4 - CME Group Tour Championship 2026. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/DBBLy7g3YO8tILCkdzQGzxPrBok=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447968/c5fc2b.png"/>
   </programme>
 </tv>

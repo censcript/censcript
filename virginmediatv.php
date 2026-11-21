@@ -4183,8 +4183,11 @@
 <programme start="20261121110000 +0000" stop="20261121150000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: Premier League - Manchester City v Fulham</title>
 </programme>
-<programme start="20261121150000 +0000" stop="20261121160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: MotoGP - Portuguese Grand Prix: MotoGP Sprint</title>
+<programme start="20261121150000 +0000" stop="20261121151500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Xtra Time - Manchester City v Fulham</title>
+</programme>
+<programme start="20261121151500 +0000" stop="20261121160000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
+    <title>Ally&#039;s Social Club - Gianfranco Zola</title>
 </programme>
 <programme start="20261121160000 +0000" stop="20261121180000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>Live: The Ultimate Fighting Championship - UFC Fight Night: Prelims</title>
@@ -4228,7 +4231,7 @@
 <programme start="20261121050000 +0000" stop="20261121070000 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>Live: Women&#039;s Australian Rules - Second Preliminary Final: Melbourne Demons v Carlton Blues</title>
 </programme>
-<programme start="20261121114500 +0000" stop="20261121121500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
+<programme start="20261121120000 +0000" stop="20261121121500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
     <title>T100 Triathlon World Tour - Saudi Arabia</title>
 </programme>
 <programme start="20261121121500 +0000" stop="20261121134500 +0000" channel="TNT_Sports_3_HD.virginmediatv">
@@ -5650,7 +5653,7 @@
 <programme start="20261120185800 +0000" stop="20261121025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261121025800 +0000" stop="20261121070000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261121025800 +0000" stop="20261121060000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261121120000 +0000" stop="20261121122500 +0000" channel="CBBC.virginmediatv">
