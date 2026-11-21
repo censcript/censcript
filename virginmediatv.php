@@ -340,16 +340,16 @@
 <programme start="20261121175000 +0000" stop="20261121183500 +0000" channel="BBC1_HD.virginmediatv">
     <title>The Famous Finish Line - Episode 3</title>
 </programme>
-<programme start="20261120230000 +0000" stop="20261121010000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261120232000 +0000" stop="20261121012000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>The Dead Don&#039;t Hurt</title>
 </programme>
-<programme start="20261121010000 +0000" stop="20261121020000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261121012000 +0000" stop="20261121022000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Panorama - The Predator in the Police</title>
 </programme>
-<programme start="20261121020000 +0000" stop="20261121030000 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261121022000 +0000" stop="20261121032000 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This City Is Ours - Episode 8</title>
 </programme>
-<programme start="20261121030000 +0000" stop="20261121061500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261121032000 +0000" stop="20261121061500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="BBC_TWO_HD.virginmediatv">

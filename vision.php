@@ -613,9 +613,6 @@
 <programme start="20261122113000 +0000" stop="20261122121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20261120230000 +0000" stop="20261121023000 +0000" channel="ANTV.vision">
-<title>Student Of The Year 2</title>
-</programme>
 <programme start="20261121023000 +0000" stop="20261121060000 +0000" channel="ANTV.vision">
 <title>Singham Returns</title>
 </programme>
@@ -1432,17 +1429,11 @@
 <programme start="20261121020600 +0000" stop="20261121021300 +0000" channel="Originals.vision">
 <title>73 Questions With D. Radcliffe</title>
 </programme>
-<programme start="20261121021300 +0000" stop="20261121035600 +0000" channel="Originals.vision">
-<title>A Perfect Day</title>
-</programme>
 <programme start="20261121035600 +0000" stop="20261121035900 +0000" channel="Originals.vision">
 <title>4 Celebrities: Serial Cheaters</title>
 </programme>
 <programme start="20261121035900 +0000" stop="20261121041100 +0000" channel="Originals.vision">
 <title>7 Riverdale Fans Explain Why...</title>
-</programme>
-<programme start="20261121041100 +0000" stop="20261121053700 +0000" channel="Originals.vision">
-<title>The Perfect Stalker</title>
 </programme>
 <programme start="20261121053700 +0000" stop="20261121054700 +0000" channel="Originals.vision">
 <title>24 Hours With Sofia Carson</title>
@@ -1497,4 +1488,13 @@
 </programme>
 <programme start="20261121145500 +0000" stop="20261121162200 +0000" channel="Originals.vision">
 <title>Full Out 2: You Got This!</title>
+</programme>
+<programme start="20261121162200 +0000" stop="20261121163000 +0000" channel="Originals.vision">
+<title>73 Questions With Emily Blunt</title>
+</programme>
+<programme start="20261121163000 +0000" stop="20261121163800 +0000" channel="Originals.vision">
+<title>73 Questions With G. Rodriguez</title>
+</programme>
+<programme start="20261121163800 +0000" stop="20261121182400 +0000" channel="Originals.vision">
+<title>Tapped Out</title>
 </programme>
