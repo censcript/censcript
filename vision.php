@@ -532,12 +532,6 @@
 <programme start="20261122154500 +0000" stop="20261122163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20261122163000 +0000" stop="20261122173000 +0000" channel="Trans 7.vision">
-<title>MotoGP 2026 Portugal GP</title>
-</programme>
-<programme start="20261122173000 +0000" stop="20261122183000 +0000" channel="Trans 7.vision">
-<title>Moto2 2026 Portugal GP</title>
-</programme>
 <programme start="20261122183000 +0000" stop="20261122190000 +0000" channel="Trans 7.vision">
 <title>Best Fishing</title>
 </programme>
@@ -616,17 +610,8 @@
 <programme start="20261122093000 +0000" stop="20261122104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261122104500 +0000" stop="20261122131500 +0000" channel="ANTV.vision">
-<title>Menggapai Matahari 2</title>
-</programme>
 <programme start="20261122131500 +0000" stop="20261122143000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261122143000 +0000" stop="20261122164500 +0000" channel="ANTV.vision">
-<title>Anacondas: The Hunt For Blood</title>
-</programme>
-<programme start="20261122164500 +0000" stop="20261122183000 +0000" channel="ANTV.vision">
-<title>King Xian&#039;s Worm Valley Of...</title>
 </programme>
 <programme start="20261122183000 +0000" stop="20261122193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -1114,9 +1099,6 @@
 <programme start="20261122163000 +0000" stop="20261122173000 +0000" channel="BTV.vision">
 <title>Supercar Championship</title>
 </programme>
-<programme start="20261122173000 +0000" stop="20261122180000 +0000" channel="BTV.vision">
-<title>Gearing Up</title>
-</programme>
 <programme start="20261122180000 +0000" stop="20261122182700 +0000" channel="BTV.vision">
 <title>The Outdoor Sports</title>
 </programme>
@@ -1496,5 +1478,23 @@
 <title>Bali TV</title>
 </programme>
 <programme start="20261122050000 +0000" stop="20261122070000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122070000 +0000" stop="20261122103000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122103000 +0000" stop="20261122120000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122120000 +0000" stop="20261122133000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122133000 +0000" stop="20261122154500 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122154500 +0000" stop="20261122180000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122180000 +0000" stop="20261122184500 +0000" channel="Bali TV.vision">
 <title>Bali TV</title>
 </programme>

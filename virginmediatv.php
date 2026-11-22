@@ -2206,11 +2206,8 @@
 <programme start="20261122123000 +0000" stop="20261122130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
-<programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Tech Now</title>
 </programme>
 <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
