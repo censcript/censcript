@@ -3823,8 +3823,8 @@
 <programme start="20261122174500 +0000" stop="20261122180000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2013: Australia v England</title>
 </programme>
-<programme start="20261121220000 +0000" stop="20261122010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
-    <title>RSM Classic, PGA Tour Golf - Day 3</title>
+<programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
+    <title>WTGL - Motor City Golf Club v Los Angeles Golf Club</title>
 </programme>
 <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="Sky_Sports_Golf_HD.virginmediatv">
     <title>The Open Championship Official Film - 1987</title>
@@ -4591,8 +4591,8 @@
 <programme start="20261122174500 +0000" stop="20261122180000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2013: Australia v England</title>
 </programme>
-<programme start="20261121220000 +0000" stop="20261122010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
-    <title>RSM Classic, PGA Tour Golf - Day 3</title>
+<programme start="20261122000000 +0000" stop="20261122010000 +0000" channel="Sky_Sports_Golf.virginmediatv">
+    <title>WTGL - Motor City Golf Club v Los Angeles Golf Club</title>
 </programme>
 <programme start="20261122010000 +0000" stop="20261122020000 +0000" channel="Sky_Sports_Golf.virginmediatv">
     <title>The Open Championship Official Film - 1987</title>

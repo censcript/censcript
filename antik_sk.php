@@ -670,13 +670,13 @@
   <programme start="20261123231000 +0000" stop="20261124003000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Utajený šéf I (3)</title>
   </programme>
-  <programme start="20261124003000 +0000" stop="20261124013000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261124003000 +0000" stop="20261124012500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXV (9)</title>
   </programme>
-  <programme start="20261124013000 +0000" stop="20261124021500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261124012500 +0000" stop="20261124021000 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Kobra 11 XXV (10)</title>
   </programme>
-  <programme start="20261124021500 +0000" stop="20261124033500 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261124021000 +0000" stop="20261124033500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Zámena manželiek</title>
   </programme>
   <programme start="20261124033500 +0000" stop="20261124042000 +0000" channel="Markíza +1.webtv.sk">
@@ -739,7 +739,7 @@
   <programme start="20261124203000 +0000" stop="20261124215500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Dunaj, k vašim službám XVI (12)</title>
   </programme>
-  <programme start="20261124215500 +0000" stop="20261124231000 +0000" channel="Markíza +1.webtv.sk">
+  <programme start="20261124215500 +0000" stop="20261124231500 +0000" channel="Markíza +1.webtv.sk">
     <title lang="id">Farma XVIII (57)</title>
   </programme>
   <programme start="20261123223500 +0000" stop="20261123233000 +0000" channel="Markíza Klasik.webtv.sk">
@@ -18988,10 +18988,10 @@
   <programme start="20261124193500 +0000" stop="20261124203000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Affari tuoi</title>
   </programme>
-  <programme start="20261124203000 +0000" stop="20261124213000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20261124203000 +0000" stop="20261124214000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Una finestra vista lago I (1)</title>
   </programme>
-  <programme start="20261124213000 +0000" stop="20261124224000 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20261124214000 +0000" stop="20261124224000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Una finestra vista lago I (2)</title>
   </programme>
   <programme start="20261124224000 +0000" stop="20261124225500 +0000" channel="Rai Uno.webtv.sk">

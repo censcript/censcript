@@ -514,9 +514,6 @@
 <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="Trans 7.vision">
 <title>Makan Receh</title>
 </programme>
-<programme start="20261122100000 +0000" stop="20261122110000 +0000" channel="Trans 7.vision">
-<title>Moto3 2026 Portugal GP</title>
-</programme>
 <programme start="20261122110000 +0000" stop="20261122113000 +0000" channel="Trans 7.vision">
 <title>Legenda Bertuah</title>
 </programme>
@@ -610,9 +607,6 @@
 <programme start="20261123114500 +0000" stop="20261123121500 +0000" channel="Trans 7.vision">
 <title>Secret Story</title>
 </programme>
-<programme start="20261122023000 +0000" stop="20261122060000 +0000" channel="ANTV.vision">
-<title>Singham Again</title>
-</programme>
 <programme start="20261122060000 +0000" stop="20261122073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -690,9 +684,6 @@
 </programme>
 <programme start="20261122073000 +0000" stop="20261122090000 +0000" channel="RTV.vision">
 <title>Robocar Poli</title>
-</programme>
-<programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="RTV.vision">
-<title>Makania</title>
 </programme>
 <programme start="20261122100000 +0000" stop="20261122120000 +0000" channel="RTV.vision">
 <title>Bread Barbershop</title>
@@ -796,9 +787,6 @@
 <programme start="20261122000000 +0000" stop="20261122023000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Pagi</title>
 </programme>
-<programme start="20261122023000 +0000" stop="20261122033000 +0000" channel="Kompas TV.vision">
-<title>VVIP</title>
-</programme>
 <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="Kompas TV.vision">
 <title>Jalan-Jalan</title>
 </programme>
@@ -813,9 +801,6 @@
 </programme>
 <programme start="20261122060000 +0000" stop="20261122070000 +0000" channel="Kompas TV.vision">
 <title>Kalam Hati</title>
-</programme>
-<programme start="20261122070000 +0000" stop="20261122080000 +0000" channel="Kompas TV.vision">
-<title>VVIP</title>
 </programme>
 <programme start="20261122080000 +0000" stop="20261122083000 +0000" channel="Kompas TV.vision">
 <title>Laporan Khusus</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20261123073000 +0000" stop="20261123090500 +0000" channel="MDTV.vision">
 <title>MDTV</title>
+</programme>
+<programme start="20261123090500 +0000" stop="20261123103500 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20261123103500 +0000" stop="20261123120000 +0000" channel="MDTV.vision">
+<title>MDTV</title>
+</programme>
+<programme start="20261121233000 +0000" stop="20261122010000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122010000 +0000" stop="20261122050000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
+</programme>
+<programme start="20261122050000 +0000" stop="20261122070000 +0000" channel="Bali TV.vision">
+<title>Bali TV</title>
 </programme>

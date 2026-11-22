@@ -3407,13 +3407,13 @@
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261121173500 +0000" stop="20261121180500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">tbc</desc>
+    <title lang="en">Game On! Let's Rally Together</title>
+    <desc lang="en">Hosted by Chung Chi-kwong and captained by former table tennis player Ruco Chan, over 30 TVB artists compete in spirited trials for six spots on the All-Star Table Tennis Team. After undergoing intensive professional coaching and rallying community spirit ahead of the WTT Finals Hong Kong 2026, the celebrity squad faces off in an ultimate exhibition match against top Hong Kong table tennis stars.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261121180500 +0000" stop="20261121190500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">tbc</desc>
+    <title lang="en">Programme Presentation 2027</title>
+    <desc lang="en">Hosted by Bob Lam, Toby Chan, and Kevin Tang, nearly 100 TVB artists gather to unveil TVB's blockbuster lineup of dramas, variety shows, and 60th-anniversary specials for 2027. Featuring exclusive previews of major upcoming productions—including The Queen of News 3, The Model Lawyers, and Midlife, Sing &amp; Shine! 5—this star-studded showcase offers viewers a first look at the year's biggest television highlights.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261121190500 +0000" stop="20261121193500 +0000" channel="tvbjade.unifitv">
@@ -3432,7 +3432,7 @@
   </programme>
   <programme start="20261121200500 +0000" stop="20261121203500 +0000" channel="tvbjade.unifitv">
     <title lang="en">The Shaw Prize Award Presentation 2026</title>
-    <desc lang="en">The 2026 Shaw Prize in Life Sciences and Medicine will be awarded equally to Anne Deschamps, Dai Yuge, and Chen Zhu for their discovery of the molecular and cellular pathogenic basis of acute promyelocytic leukemia and for pioneering synergistic targeted therapy, which has transformed this disease from one of the deadliest cancers to one of the most curable cancers, with a cure rate of over 90%.</desc>
+    <desc lang="en">Established in 2002 by media pioneer Sir Run Run Shaw, The Shaw Prize (often referred to as the "Nobel Prize of the East") honors international scientists whose groundbreaking research has advanced human civilization and knowledge.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261121203500 +0000" stop="20261121210500 +0000" channel="tvbjade.unifitv">
@@ -3496,14 +3496,14 @@
     <episode-num system="xmltv_ns">0.1828.</episode-num>
     <episode-num system="onscreen">S1E1829</episode-num>
   </programme>
-  <programme start="20261122020500 +0000" stop="20261122050500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">73rd Macau Grand Prix (Live)</title>
-    <desc lang="en">This live sports coverage brings viewers straight to Macau's legendary, high-speed Guia Circuit a grueling and narrow temporary street circuit renowned worldwide for its tight bends, steep climbs, and zero-margin-for-error barriers.</desc>
+  <programme start="20261122020500 +0000" stop="20261122023500 +0000" channel="tvbjade.unifitv">
+    <title lang="en">Game On! Let's Rally Together</title>
+    <desc lang="en">Hosted by Chung Chi-kwong and captained by former table tennis player Ruco Chan, over 30 TVB artists compete in spirited trials for six spots on the All-Star Table Tennis Team. After undergoing intensive professional coaching and rallying community spirit ahead of the WTT Finals Hong Kong 2026, the celebrity squad faces off in an ultimate exhibition match against top Hong Kong table tennis stars.</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261122050500 +0000" stop="20261122052000 +0000" channel="tvbjade.unifitv">
-    <title lang="en">TBC</title>
-    <desc lang="en">tbc</desc>
+  <programme start="20261122023500 +0000" stop="20261122052000 +0000" channel="tvbjade.unifitv">
+    <title lang="en">73rd Macau Grand Prix (Live)</title>
+    <desc lang="en">This live sports coverage brings viewers straight to Macau's legendary, high-speed Guia Circuit a grueling and narrow temporary street circuit renowned worldwide for its tight bends, steep climbs, and zero-margin-for-error barriers.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261122052000 +0000" stop="20261122083500 +0000" channel="tvbjade.unifitv">
@@ -3560,7 +3560,7 @@
   </programme>
   <programme start="20261122120500 +0000" stop="20261122123500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Something's Missing</title>
-    <desc lang="en">A lighthearted and engaging factual program that explores everyday mysteries, lost items, forgotten pieces of history, or relatable everyday predicaments where things mysteriously go missing.</desc>
+    <desc lang="en">With AI becoming increasingly powerful, what happens if crucial details in a scene are subtly erased by it? Will everyone be able to retrieve the missing parts from memory, or will they all be left in a state of "brain fog"? Ruco Chan, along withJenny Ian and Felix Lam, co-host the quiz game show "Something's Missing", inviting two teams of celebrity artists each episode to battle wits and compete for a prize. In the show, AI acts as a "memory eraser," altering familiar dramas, classic music, landmark scenes, and more. Team members must use their memories to uncover the erased truth. After four rounds of intense brainpower, the team with the highest accumulated score will have the chance to win the Jackpot!</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
