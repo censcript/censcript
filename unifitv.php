@@ -2841,15 +2841,29 @@
     <desc lang="en">Detik Dunia membawakan rangkuman berita antarabangsa, mengetengahkan perkembangan global serta kisah-kisah yang membentuk landskap dunia hari ini.</desc>
     <category lang="en">Current Affairs</category>
   </programme>
-  <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="tvs.unifitv">
+  <programme start="20261123020000 +0000" stop="20261123030000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Sarawak Decides 2026</title>
     <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
     <category lang="en">Politics</category>
   </programme>
-  <programme start="20261123023000 +0000" stop="20261123040000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Majlis Perasmian Sarawakku Sayang</title>
-    <desc lang="en">Siaran langsung Majlis Perasmian Sarawakku Sayang, di Halaman Samarahan (berhampiran perkarangan Majlis Perbandaran Kota Samarahan / MPKS), Sarawak.</desc>
+  <programme start="20261123030000 +0000" stop="20261123031500 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Berita Iban TVS</title>
+    <desc lang="en">Berita Iban memaparkan berita-berita terkini di seluruh Malaysia dalam bahasa Iban</desc>
     <category lang="en">News</category>
+  </programme>
+  <programme start="20261123031500 +0000" stop="20261123034500 +0000" channel="tvs.unifitv">
+    <title lang="en">My Journey With Nature</title>
+    <desc lang="en">Pengembaraan seorang wanita ke kawasan pendalaman yang belum diterokai diceritakan dalam "My Journey with Nature", yang menampilkan tarikan pelancongan alam semula jadi.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.6.</episode-num>
+    <episode-num system="onscreen">S1E7</episode-num>
+  </programme>
+  <programme start="20261123034500 +0000" stop="20261123040000 +0000" channel="tvs.unifitv">
+    <title lang="en">Kamek, Ali Wallace</title>
+    <desc lang="en">Alfred Russel Wallace's study in Southeast Asia relied on Ali, a Malay teen from Sarawak, who helped collect 125,660 specimens over 8 years, contributing to The Malay Archipelago and earning global recognition in natural history.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261123040000 +0000" stop="20261123041500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) TVS Tengahari</title>
@@ -2874,63 +2888,44 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261123051500 +0000" stop="20261123053000 +0000" channel="tvs.unifitv">
-    <title lang="en">Serian Food Trails &amp; Stays</title>
-    <desc lang="en">Serian reveals not only a colourful lifestyle and palatable cuisine but also limestone hills, waterfalls, and lush trekking paths that lead to unforgettable homestay experiences. All of this unfolds in the villages, where the stories of locals who have made their mark in their communities come to life.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
-  </programme>
-  <programme start="20261123053000 +0000" stop="20261123060000 +0000" channel="tvs.unifitv">
-    <title lang="en">Bridging Borneo</title>
-    <desc lang="en">Bridging Borneo is a documentary series that features 6 bridges and the places of interest that it connects to along the Sarawak coastal road network.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20261123060000 +0000" stop="20261123060500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261123060500 +0000" stop="20261123070000 +0000" channel="tvs.unifitv">
-    <title lang="en">Anggun</title>
-    <desc lang="en">ANGGUN is a magazine to showcase trending topics surrounding women related to fashion, women empowerment, their involvements and achievements.</desc>
-    <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
-  </programme>
-  <programme start="20261123070000 +0000" stop="20261123080000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Sarawak Decides 2026</title>
-    <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
-    <category lang="en">Politics</category>
-  </programme>
-  <programme start="20261123080000 +0000" stop="20261123080500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20261123080500 +0000" stop="20261123081500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Fillers</title>
-    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
-    <category lang="en">Culture</category>
-  </programme>
-  <programme start="20261123081500 +0000" stop="20261123083000 +0000" channel="tvs.unifitv">
     <title lang="en">Jelajah Sarawakku Sayang</title>
     <desc lang="en">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261123083000 +0000" stop="20261123090000 +0000" channel="tvs.unifitv">
-    <title lang="en">My Journey With Nature</title>
-    <desc lang="en">Pengembaraan seorang wanita ke kawasan pendalaman yang belum diterokai diceritakan dalam "My Journey with Nature", yang menampilkan tarikan pelancongan alam semula jadi.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.6.</episode-num>
-    <episode-num system="onscreen">S1E7</episode-num>
+  <programme start="20261123053000 +0000" stop="20261123063000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Sarawak Decides 2026</title>
+    <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
+    <category lang="en">Politics</category>
   </programme>
-  <programme start="20261123090000 +0000" stop="20261123093000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Berita Wilayah TVS</title>
-    <desc lang="en">Berita Wilayah TVS membawakan berita dari negeri-negeri di seluruh negara.</desc>
+  <programme start="20261123063000 +0000" stop="20261123064500 +0000" channel="tvs.unifitv">
+    <title lang="en">Borneo Wildlife &amp; Nature</title>
+    <desc lang="en">Breathtaking documentary that uncovers the extraordinary world of wildlife and nature, taking audiences on an unparalleled journey through one of the world's most diverse and fascinating ecosystems.</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.3.</episode-num>
+    <episode-num system="onscreen">S1E4</episode-num>
+  </programme>
+  <programme start="20261123064500 +0000" stop="20261123070000 +0000" channel="tvs.unifitv">
+    <title lang="en">Momentum</title>
+    <desc lang="en">Filem dokumentari MOMENTUM menelusuri inisiatif berterusan kerajaan dalam memperkasa pembangunan infrastruktur, jaringan jalan raya, sistem saliran dan tebatan banjir, kemudahan perumahan serta kesejahteraan komuniti di kawasan Dewan Undangan Negeri (DUN) Sarawak untuk tempoh tahun 2021 hingga 2026.</desc>
+    <category lang="en">Documentary</category>
+  </programme>
+  <programme start="20261123070000 +0000" stop="20261123073000 +0000" channel="tvs.unifitv">
+    <title lang="en">Gemilang Teater Bangsawan</title>
+    <desc lang="en">Dokumentari ini menyingkap sejarah dan perkembangan seni teater bangsawan di Sarawak sebagai satu bentuk seni persembahan tradisional yang menggabungkan lakonan, muzik, tarian, dan cerita rakyat melalui perjalanan tukang cerita/pengacara (host).</desc>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
+  </programme>
+  <programme start="20261123073000 +0000" stop="20261123074500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
+  </programme>
+  <programme start="20261123074500 +0000" stop="20261123093000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Majlis Perasmian Sarawakku Sayang</title>
+    <desc lang="en">Siaran langsung Majlis Perasmian Sarawakku Sayang, di Halaman Samarahan (berhampiran perkarangan Majlis Perbandaran Kota Samarahan / MPKS), Sarawak.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20261123093000 +0000" stop="20261123100000 +0000" channel="tvs.unifitv">
@@ -15125,7 +15120,7 @@
   </programme>
   <programme start="20261122180500 +0000" stop="20261122190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK World-Japan's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="en">81 years after Hiroshima and Nagasaki, newly declassified documents reveal how South Korean atomic bomb survivors were denied state relief, caught in the geopolitical crossfire between two nations.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5209.</episode-num>
     <episode-num system="onscreen">S1E5210</episode-num>
@@ -15138,9 +15133,11 @@
     <episode-num system="onscreen">S1E5037</episode-num>
   </programme>
   <programme start="20261122191500 +0000" stop="20261122200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Showcase</title>
-    <desc lang="en">This programme covers a variety of genres, including pilot episodes of newly-developed programmes and special features.</desc>
+    <title lang="en">The Lost Textile of Ryukyu</title>
+    <desc lang="en">Under the Ryukyu Dynasty (15C-19C), Okinawa saw the birth of many exquisite textiles. Leading textile designer Sudo Reiko travels the area, searching for the secret of a particularly elusive fabric.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5208.</episode-num>
+    <episode-num system="onscreen">S1E5209</episode-num>
   </programme>
   <programme start="20261122200500 +0000" stop="20261122201500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15157,9 +15154,11 @@
     <episode-num system="onscreen">S1E5129</episode-num>
   </programme>
   <programme start="20261122204500 +0000" stop="20261122210500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">NHK World-Japan presents a variety of programmes focusing on Japan.</desc>
+    <title lang="en">The Wakey Show</title>
+    <desc lang="en">This episode features "Wakey's Door" on clouds, "Become an Athlete for Three Minutes," with boxing exercises, and a music performance, "A Musical Journey." It energises kids.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5203.</episode-num>
+    <episode-num system="onscreen">S1E5204</episode-num>
   </programme>
   <programme start="20261122210500 +0000" stop="20261122211500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15170,8 +15169,10 @@
   </programme>
   <programme start="20261122211500 +0000" stop="20261122214500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">J-Melo</title>
-    <desc lang="en">Japan's exciting music scene with pop, rock, traditional, live performances, artist interviews, all the latest news, video releases and more!</desc>
+    <desc lang="en">Tune in to J-Melo for great Japanese music! This week: Aoi Eir (an anisong diva with a brand-new release) and GPP (an 8-piece all-female group with their sights on going international).</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5099.</episode-num>
+    <episode-num system="onscreen">S1E5100</episode-num>
   </programme>
   <programme start="20261122214500 +0000" stop="20261122215500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Little Charo</title>
@@ -15185,8 +15186,10 @@
   </programme>
   <programme start="20261122220000 +0000" stop="20261122220500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">A Cat's-Eye View of Japan</title>
-    <desc lang="en">Discover the lesser-known charms and customs of regions through the eyes of cats in this unique trip around Japan filmed by wildlife photographer Iwago Mitsuaki!</desc>
+    <desc lang="en">A cat patrols Ogaki Castle and has a special place where he cools off on hot days. In Magome-juku, a 400-year-old post town, two cats live at a souvenir store. We capture an unexpected interaction!</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5154.</episode-num>
+    <episode-num system="onscreen">S1E5155</episode-num>
   </programme>
   <programme start="20261122220500 +0000" stop="20261122221500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15196,24 +15199,32 @@
     <episode-num system="onscreen">S1E5038</episode-num>
   </programme>
   <programme start="20261122221500 +0000" stop="20261122223000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">RICE in JAPAN</title>
+    <desc lang="en">Enjoy freshly cooked rice. Discover the story behind Koshihikari, Japan's iconic rice variety. Uncover the secrets of traditional rice cooking.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5208.</episode-num>
+    <episode-num system="onscreen">S1E5209</episode-num>
   </programme>
   <programme start="20261122223000 +0000" stop="20261122223500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Core Kyoto Mini</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">On February 3, the Lunar New Year's Eve, various rites are held to expel calamity and welcome good fortune in the coming year.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5146.</episode-num>
+    <episode-num system="onscreen">S1E5147</episode-num>
   </programme>
   <programme start="20261122223500 +0000" stop="20261122225000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Easy Japanese for Work</title>
-    <desc lang="en">Accelerate your Japanese language skills! Learn practical and effective workplace expressions, understand business culture, and improve your kanji.</desc>
+    <desc lang="en">The first in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5119.</episode-num>
+    <episode-num system="onscreen">S1E5120</episode-num>
   </programme>
   <programme start="20261122225000 +0000" stop="20261122230500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Zero Waste Life</title>
-    <desc lang="en">Meet people around Japan who strive for a life without waste under the traditional philosophy of 'mottainai', which values cherishing the things we have.</desc>
+    <desc lang="en">Meet people around Japan who strive for a life without waste under the traditional philosophy of "MOTTAINAI," which values cherishing the things we have.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5126.</episode-num>
+    <episode-num system="onscreen">S1E5127</episode-num>
   </programme>
   <programme start="20261122230500 +0000" stop="20261122231500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15226,16 +15237,22 @@
     <title lang="en">The World Heritage Sites in Japan</title>
     <desc lang="en">From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5185.</episode-num>
+    <episode-num system="onscreen">S1E5186</episode-num>
   </programme>
   <programme start="20261122233000 +0000" stop="20261122233500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Seasons of Yamato</title>
-    <desc lang="en">A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with pianist Mine Kawakami - for which she plays exclusive pieces - helps you experience each season.</desc>
+    <desc lang="en">A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5152.</episode-num>
+    <episode-num system="onscreen">S1E5153</episode-num>
   </programme>
   <programme start="20261122233500 +0000" stop="20261123000500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 22, Day 15 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261123000500 +0000" stop="20261123001500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15246,28 +15263,38 @@
   </programme>
   <programme start="20261123001500 +0000" stop="20261123002000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Chatroom Japan</title>
-    <desc lang="en">A spotlight on our diverse international community as we report on issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc lang="en">Chinese mother Yang Hu finds reassurance in a Japanese word that helps her connect with others while navigating cultural differences in Tokyo.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5158.</episode-num>
+    <episode-num system="onscreen">S1E5159</episode-num>
   </programme>
   <programme start="20261123002000 +0000" stop="20261123003000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Impacts</title>
-    <desc lang="en">The entire Earth is affected by climate change occurring with a greater speed and scale than ever before - this programme uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="en">Impacts: Climates Change the World</title>
+    <desc lang="en">Due to global warming, the bamboo habitat range in Japan is expanding and abandoned bamboo groves are encroaching on forests and farmland nationwide. How should we associate with this iconic plant?</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5182.</episode-num>
+    <episode-num system="onscreen">S1E5183</episode-num>
   </programme>
   <programme start="20261123003000 +0000" stop="20261123003500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design Museum Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <desc lang="en">Fukasawa Naoto (Product designer) visits Shimane. Red "Sekishu" roof tiles are perfectly suited to cold, snowy regions. Fukasawa considers design that embodies the community it comes from.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5166.</episode-num>
+    <episode-num system="onscreen">S1E5167</episode-num>
   </programme>
   <programme start="20261123003500 +0000" stop="20261123010000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Join us as we visit a factory where they produce the freshest, crunchiest pre-cut, pre-packed vegetables. Find out the "dark arts" of mung bean sprout cultivation, and just why they're so cheap.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5142.</episode-num>
+    <episode-num system="onscreen">S1E5143</episode-num>
   </programme>
   <programme start="20261123010000 +0000" stop="20261123010500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time-Lapse Japan</title>
-    <desc lang="en">NHK World-Japan presents a variety of short programmes focusing on Japan and Asia.</desc>
+    <title lang="en">Yonezawa</title>
+    <desc lang="en">Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red colour associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5161.</episode-num>
+    <episode-num system="onscreen">S1E5162</episode-num>
   </programme>
   <programme start="20261123010500 +0000" stop="20261123011500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15278,33 +15305,45 @@
   </programme>
   <programme start="20261123011500 +0000" stop="20261123012000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Seasons of Yamato</title>
-    <desc lang="en">A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with pianist Mine Kawakami - for which she plays exclusive pieces - helps you experience each season.</desc>
+    <desc lang="en">A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5152.</episode-num>
+    <episode-num system="onscreen">S1E5153</episode-num>
   </programme>
   <programme start="20261123012000 +0000" stop="20261123013500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Bosai: Science That Can Save Your Life</title>
-    <desc lang="en">Japan has a long history of natural disasters - 'Bosai' explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="en">Tokyo Skytree, one of Japan's most famous tourist attractions, is equipped with many countermeasures against disasters. We'll go behind the scenes to explore the tower's advanced technologies.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5123.</episode-num>
+    <episode-num system="onscreen">S1E5124</episode-num>
   </programme>
   <programme start="20261123013500 +0000" stop="20261123014500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to the night. Explore the unique culture behind them.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5125.</episode-num>
+    <episode-num system="onscreen">S1E5126</episode-num>
   </programme>
   <programme start="20261123014500 +0000" stop="20261123015000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Easy Japanese</title>
-    <desc lang="en">A new version of Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying; tune in and start speaking.</desc>
+    <desc lang="en">#48 When I graduate, I want to work in Japan. / To explain your plan, say a verb in the "ta" form followed by "ra," to indicate the circumstance, and then whatever your plan is.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5144.</episode-num>
+    <episode-num system="onscreen">S1E5145</episode-num>
   </programme>
   <programme start="20261123015000 +0000" stop="20261123020000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Hana no Kai is an elderly day care facility in Kobe that welcomes people from diverse backgrounds. It makes the lives of those living out their final years in a foreign land more active and dignified.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5121.</episode-num>
+    <episode-num system="onscreen">S1E5122</episode-num>
   </programme>
   <programme start="20261123020000 +0000" stop="20261123020500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">Following the passing of Yayoi Kusama on August 14, NHK World-Japan looks back on her life and artistic legacy through rare archival footage and past NHK programmes.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5133.</episode-num>
+    <episode-num system="onscreen">S1E5134</episode-num>
   </programme>
   <programme start="20261123020500 +0000" stop="20261123021500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15314,14 +15353,18 @@
     <episode-num system="onscreen">S1E5025</episode-num>
   </programme>
   <programme start="20261123021500 +0000" stop="20261123023500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the 'Somewhere Street' series, 'A Short Stroll' explores cities around the world. This episode invites people who love hills to explore Genoa, Italy.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5184.</episode-num>
+    <episode-num system="onscreen">S1E5185</episode-num>
   </programme>
   <programme start="20261123023500 +0000" stop="20261123030500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Seasoning the Seasons</title>
     <desc lang="en">This programme visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5104.</episode-num>
+    <episode-num system="onscreen">S1E5105</episode-num>
   </programme>
   <programme start="20261123030500 +0000" stop="20261123031500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15331,14 +15374,18 @@
     <episode-num system="onscreen">S1E5026</episode-num>
   </programme>
   <programme start="20261123031500 +0000" stop="20261123033500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Ramen Japan</title>
+    <desc lang="en">Okinawa Soba, the treasure of a lonely island. The pride of Okinawa; taste the new wave of this south-sea original!</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5208.</episode-num>
+    <episode-num system="onscreen">S1E5209</episode-num>
   </programme>
   <programme start="20261123033500 +0000" stop="20261123040500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Biz Stream</title>
     <desc lang="en">This upbeat programme combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5118.</episode-num>
+    <episode-num system="onscreen">S1E5119</episode-num>
   </programme>
   <programme start="20261123040500 +0000" stop="20261123041500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15348,9 +15395,11 @@
     <episode-num system="onscreen">S1E5027</episode-num>
   </programme>
   <programme start="20261123041500 +0000" stop="20261123043000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Join our explorers as they pursue the cinematic beauty of Japan. Kyle Card hikes the newly designated long trail around majestic Mt. Fuji and discovers its secrets.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5186.</episode-num>
+    <episode-num system="onscreen">S1E5187</episode-num>
   </programme>
   <programme start="20261123043000 +0000" stop="20261123043500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Japan Delish 5min.</title>
@@ -15361,8 +15410,10 @@
   </programme>
   <programme start="20261123043500 +0000" stop="20261123050500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 22, Day 15 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261123050500 +0000" stop="20261123051500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15372,14 +15423,25 @@
     <episode-num system="onscreen">S1E5028</episode-num>
   </programme>
   <programme start="20261123051500 +0000" stop="20261123053500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">The World Heritage Sites in Japan</title>
+    <desc lang="en">From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5185.</episode-num>
+    <episode-num system="onscreen">S1E5186</episode-num>
   </programme>
-  <programme start="20261123053500 +0000" stop="20261123060500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20261123053500 +0000" stop="20261123060000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Join us as we visit a factory where they produce the freshest, crunchiest pre-cut, pre-packed vegetables. Find out the "dark arts" of mung bean sprout cultivation, and just why they're so cheap.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5142.</episode-num>
+    <episode-num system="onscreen">S1E5143</episode-num>
+  </programme>
+  <programme start="20261123060000 +0000" stop="20261123060500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yonezawa</title>
+    <desc lang="en">Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red colour associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5161.</episode-num>
+    <episode-num system="onscreen">S1E5162</episode-num>
   </programme>
   <programme start="20261123060500 +0000" stop="20261123061500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15389,24 +15451,32 @@
     <episode-num system="onscreen">S1E5029</episode-num>
   </programme>
   <programme start="20261123061500 +0000" stop="20261123063500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Ekiben Japan</title>
+    <desc lang="en">There's a brand-new ekiben in Okinawa, Japan's southern prefecture. Featuring beloved local dishes with a long history, it's sparking a new ekiben culture in the region.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5208.</episode-num>
+    <episode-num system="onscreen">S1E5209</episode-num>
   </programme>
   <programme start="20261123063500 +0000" stop="20261123065000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Magical Japanese</title>
-    <desc lang="en">We look at the unique world of the Japanese language accompanied with scenes from Japan - many fascinating aspects of Japanese like onomatopoeia are also introduced.</desc>
+    <desc lang="en">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to the night. Explore the unique culture behind them.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5125.</episode-num>
+    <episode-num system="onscreen">S1E5126</episode-num>
   </programme>
   <programme start="20261123065000 +0000" stop="20261123070000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Hana no Kai is an elderly day care facility in Kobe that welcomes people from diverse backgrounds. It makes the lives of those living out their final years in a foreign land more active and dignified.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5121.</episode-num>
+    <episode-num system="onscreen">S1E5122</episode-num>
   </programme>
   <programme start="20261123070000 +0000" stop="20261123070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">Following the passing of Yayoi Kusama on August 14, NHK World-Japan looks back on her life and artistic legacy through rare archival footage and past NHK programmes.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5133.</episode-num>
+    <episode-num system="onscreen">S1E5134</episode-num>
   </programme>
   <programme start="20261123070500 +0000" stop="20261123071500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15416,14 +15486,18 @@
     <episode-num system="onscreen">S1E5030</episode-num>
   </programme>
   <programme start="20261123071500 +0000" stop="20261123073500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">The World Heritage Sites in Japan</title>
+    <desc lang="en">From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5185.</episode-num>
+    <episode-num system="onscreen">S1E5186</episode-num>
   </programme>
   <programme start="20261123073500 +0000" stop="20261123080500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Seasoning the Seasons</title>
     <desc lang="en">This programme visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5104.</episode-num>
+    <episode-num system="onscreen">S1E5105</episode-num>
   </programme>
   <programme start="20261123080500 +0000" stop="20261123081500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15432,22 +15506,19 @@
     <episode-num system="xmltv_ns">0.5030.</episode-num>
     <episode-num system="onscreen">S1E5031</episode-num>
   </programme>
-  <programme start="20261123081500 +0000" stop="20261123083000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261123081500 +0000" stop="20261123083500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the 'Somewhere Street' series, 'A Short Stroll' explores cities around the world. This time we visit Faro, the southernmost city in Portugal.</desc>
     <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20261123083000 +0000" stop="20261123083500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japan Delish 5min.</title>
-    <desc lang="en">Curry rice, 'one of Japan's most iconic national dishes. How did Jimbocho, Tokyo become a curry town?'</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5170.</episode-num>
-    <episode-num system="onscreen">S1E5171</episode-num>
+    <episode-num system="xmltv_ns">0.5184.</episode-num>
+    <episode-num system="onscreen">S1E5185</episode-num>
   </programme>
   <programme start="20261123083500 +0000" stop="20261123090500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Grand Sumo Highlights</title>
-    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe featuring higher ranked wrestlers' best bouts.</desc>
+    <desc lang="en">NHK World-Japan presents a sumo highlights programme for fans around the globe. Today the show features all top-division bouts from November 22, Day 15 of the Grand Sumo Tournament in Fukuoka.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5112.</episode-num>
+    <episode-num system="onscreen">S1E5113</episode-num>
   </programme>
   <programme start="20261123090500 +0000" stop="20261123091500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15457,9 +15528,11 @@
     <episode-num system="onscreen">S1E5032</episode-num>
   </programme>
   <programme start="20261123091500 +0000" stop="20261123093500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Join our explorers as they pursue the cinematic beauty of Japan. Kyle Card hikes the newly designated long trail around majestic Mt. Fuji and discovers its secrets.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5186.</episode-num>
+    <episode-num system="onscreen">S1E5187</episode-num>
   </programme>
   <programme start="20261123093500 +0000" stop="20261123100500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Journeys in Japan</title>
@@ -15476,14 +15549,25 @@
     <episode-num system="onscreen">S1E5033</episode-num>
   </programme>
   <programme start="20261123102000 +0000" stop="20261123103500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Ramen Japan</title>
+    <desc lang="en">Okinawa Soba, the treasure of a lonely island. The pride of Okinawa; taste the new wave of this south-sea original!</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5208.</episode-num>
+    <episode-num system="onscreen">S1E5209</episode-num>
   </programme>
-  <programme start="20261123103500 +0000" stop="20261123110500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20261123103500 +0000" stop="20261123110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Join us as we visit a factory where they produce the freshest, crunchiest pre-cut, pre-packed vegetables. Find out the "dark arts" of mung bean sprout cultivation, and just why they're so cheap.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5142.</episode-num>
+    <episode-num system="onscreen">S1E5143</episode-num>
+  </programme>
+  <programme start="20261123110000 +0000" stop="20261123110500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yonezawa</title>
+    <desc lang="en">Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red colour associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5161.</episode-num>
+    <episode-num system="onscreen">S1E5162</episode-num>
   </programme>
   <programme start="20261123110500 +0000" stop="20261123112000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15501,18 +15585,24 @@
   </programme>
   <programme start="20261123113300 +0000" stop="20261123114800 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Direct Talk</title>
-    <desc lang="en">An in-depth interview programme featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+    <desc lang="en">In May 2026, Ashizawa Akiko received the Pierre Angenieux Tribute, an award honouring outstanding cinematographers. She talks about visual style and capturing the subtle nuances of light and shadow.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5111.</episode-num>
+    <episode-num system="onscreen">S1E5112</episode-num>
   </programme>
   <programme start="20261123114800 +0000" stop="20261123120000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Culture Crossroads</title>
-    <desc lang="en">This programme provides information for a multicultural society - we cover interesting topics from various angles such as Japanese local movements and disaster preparedness.</desc>
+    <desc lang="en">Hana no Kai is an elderly day care facility in Kobe that welcomes people from diverse backgrounds. It makes the lives of those living out their final years in a foreign land more active and dignified.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5121.</episode-num>
+    <episode-num system="onscreen">S1E5122</episode-num>
   </programme>
   <programme start="20261123120000 +0000" stop="20261123120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Hello! NHK World-Japan</title>
-    <desc lang="en">We introduce the contents and activities of NHK World-Japan to make the channel and its programmes known to more people - this is the window of the station to the world!</desc>
+    <desc lang="en">Following the passing of Yayoi Kusama on August 14, NHK World-Japan looks back on her life and artistic legacy through rare archival footage and past NHK programmes.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5133.</episode-num>
+    <episode-num system="onscreen">S1E5134</episode-num>
   </programme>
   <programme start="20261123120500 +0000" stop="20261123122000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15542,22 +15632,19 @@
     <episode-num system="xmltv_ns">0.5034.</episode-num>
     <episode-num system="onscreen">S1E5035</episode-num>
   </programme>
-  <programme start="20261123131500 +0000" stop="20261123133000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261123131500 +0000" stop="20261123133500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Somewhere Street A Short Stroll</title>
+    <desc lang="en">A 15-minute spin-off of the 'Somewhere Street' series, 'A Short Stroll' explores cities around the world. This episode invites people who love hills to explore Genoa, Italy.</desc>
     <category lang="en">Infotainment</category>
-  </programme>
-  <programme start="20261123133000 +0000" stop="20261123133500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Japan Delish 5min.</title>
-    <desc lang="en">Curry rice, 'one of Japan's most iconic national dishes. How did Jimbocho, Tokyo become a curry town?'</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5170.</episode-num>
-    <episode-num system="onscreen">S1E5171</episode-num>
+    <episode-num system="xmltv_ns">0.5184.</episode-num>
+    <episode-num system="onscreen">S1E5185</episode-num>
   </programme>
   <programme start="20261123133500 +0000" stop="20261123140500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Seasoning the Seasons</title>
     <desc lang="en">This programme visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5104.</episode-num>
+    <episode-num system="onscreen">S1E5105</episode-num>
   </programme>
   <programme start="20261123140500 +0000" stop="20261123141500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15567,9 +15654,11 @@
     <episode-num system="onscreen">S1E5036</episode-num>
   </programme>
   <programme start="20261123141500 +0000" stop="20261123143500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <title lang="en">Cinematic Journey</title>
+    <desc lang="en">Join our explorers as they pursue the cinematic beauty of Japan. Kyle Card hikes the newly designated long trail around majestic Mt. Fuji and discovers its secrets.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5186.</episode-num>
+    <episode-num system="onscreen">S1E5187</episode-num>
   </programme>
   <programme start="20261123143500 +0000" stop="20261123150500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Medical Frontiers</title>
@@ -15585,22 +15674,26 @@
     <episode-num system="xmltv_ns">0.5035.</episode-num>
     <episode-num system="onscreen">S1E5036</episode-num>
   </programme>
-  <programme start="20261123151500 +0000" stop="20261123153000 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World Selection</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261123151500 +0000" stop="20261123153500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">The World Heritage Sites in Japan</title>
+    <desc lang="en">From natural landscapes to historic architecture representing centuries of cultural development, Japan's World Heritage sites offer a wide range of glimpses into history and the beauty of nature.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5185.</episode-num>
+    <episode-num system="onscreen">S1E5186</episode-num>
   </programme>
-  <programme start="20261123153000 +0000" stop="20261123153500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">The Masterpieces of Tsutaju</title>
-    <desc lang="en">This miniseries presents the masterpieces of Tsutaju, a brilliant ukiyo-e producer of the Edo period. This episode features ukiyo-e artist Sharaku's "The Actor Ichikawa Ebizo as Takemura Sadanoshin."</desc>
-    <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5168.</episode-num>
-    <episode-num system="onscreen">S1E5169</episode-num>
-  </programme>
-  <programme start="20261123153500 +0000" stop="20261123160500 +0000" channel="nhkworldjapan.unifitv">
+  <programme start="20261123153500 +0000" stop="20261123160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Factory Wonders</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+    <desc lang="en">Join us as we visit a factory where they produce the freshest, crunchiest pre-cut, pre-packed vegetables. Find out the "dark arts" of mung bean sprout cultivation, and just why they're so cheap.</desc>
     <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5142.</episode-num>
+    <episode-num system="onscreen">S1E5143</episode-num>
+  </programme>
+  <programme start="20261123160000 +0000" stop="20261123160500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Yonezawa</title>
+    <desc lang="en">Since ancient times, safflowers grown in Yonezawa have been used to dye fabric a deep red colour associated with the sun. Experience its mysterious, vivid beauty through time-lapse footage.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5161.</episode-num>
+    <episode-num system="onscreen">S1E5162</episode-num>
   </programme>
   <channel id="unifisports1.unifitv">
     <display-name>Unifi Sports 1</display-name>

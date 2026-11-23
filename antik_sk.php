@@ -1640,7 +1640,7 @@
     <title lang="id">Téma s Petrom Bielikom</title>
   </programme>
   <programme start="20261125065500 +0000" stop="20261125074000 +0000" channel="Kanal1.webtv.sk">
-    <title lang="id">Doslova</title>
+    <title lang="id">Doslova - Otto Eibl</title>
   </programme>
   <programme start="20261125074000 +0000" stop="20261125083500 +0000" channel="Kanal1.webtv.sk">
     <title lang="id">Kalendár prírody (4)</title>
@@ -3052,10 +3052,10 @@
   <programme start="20261125142500 +0000" stop="20261125144500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">StarDance XIV... když hvězdy tančí - Rozhodnutí</title>
   </programme>
-  <programme start="20261125144500 +0000" stop="20261125154500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261125144500 +0000" stop="20261125154700 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na krok od nebe VII (7)</title>
   </programme>
-  <programme start="20261125154500 +0000" stop="20261125161500 +0000" channel="ČT1.webtv.sk">
+  <programme start="20261125154700 +0000" stop="20261125161500 +0000" channel="ČT1.webtv.sk">
     <title lang="id">Na cestě po poloostrově Izu</title>
   </programme>
   <programme start="20261125161500 +0000" stop="20261125164200 +0000" channel="ČT1.webtv.sk">
@@ -14956,8 +14956,11 @@
   <programme start="20261125025000 +0000" stop="20261125033700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Zemplínska šírava - Príbeh vody IV</title>
   </programme>
-  <programme start="20261125033700 +0000" stop="20261125040500 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261125033700 +0000" stop="20261125040000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Záznam zo zastupiteľstva KSK - 24.8.2026</title>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125040500 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
   </programme>
   <programme start="20261125040500 +0000" stop="20261125044700 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA SLOVÍČKO - Ján Sklár po voľbách</title>
@@ -15013,8 +15016,11 @@
   <programme start="20261125111400 +0000" stop="20261125112400 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - 336</title>
   </programme>
-  <programme start="20261125112400 +0000" stop="20261125114700 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261125112400 +0000" stop="20261125113000 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Varovanie Slovensku: Ľudia nechcú byť, chcú mať</title>
+  </programme>
+  <programme start="20261125113000 +0000" stop="20261125114700 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
   </programme>
   <programme start="20261125114700 +0000" stop="20261125123100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">NA ŠÍRAVE - Ako dopadla letná sezóna 2026?</title>
@@ -15022,8 +15028,11 @@
   <programme start="20261125123100 +0000" stop="20261125125100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Živý prenos - Kňazský seminár Prešov - Putovanie do Betlehema</title>
   </programme>
-  <programme start="20261125125100 +0000" stop="20261125130000 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261125125100 +0000" stop="20261125125500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Litmanovská vizionárka Iveta: Človek vie viac o rozpínavosti vesmíru, než o svojej duši</title>
+  </programme>
+  <programme start="20261125125500 +0000" stop="20261125130000 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
   </programme>
   <programme start="20261125130000 +0000" stop="20261125134900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Pacerki z Budkovec</title>
@@ -15040,8 +15049,11 @@
   <programme start="20261125142400 +0000" stop="20261125145500 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Gréckokatolícky magazín - 336</title>
   </programme>
-  <programme start="20261125145500 +0000" stop="20261125151400 +0000" channel="TV Zemplín.webtv.sk">
+  <programme start="20261125145500 +0000" stop="20261125150900 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Sobranský magazín - 594</title>
+  </programme>
+  <programme start="20261125150900 +0000" stop="20261125151400 +0000" channel="TV Zemplín.webtv.sk">
+    <title lang="id">Otcovia púšte</title>
   </programme>
   <programme start="20261125151400 +0000" stop="20261125152100 +0000" channel="TV Zemplín.webtv.sk">
     <title lang="id">Evanjelium na dnes</title>
