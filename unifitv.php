@@ -2948,34 +2948,27 @@
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261124060000 +0000" stop="20261124060500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
-    <category lang="en">News</category>
+  <programme start="20261124060000 +0000" stop="20261124070000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Sarawak Decides 2026</title>
+    <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
+    <category lang="en">Politics</category>
   </programme>
-  <programme start="20261124060500 +0000" stop="20261124061500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
+  <programme start="20261124070000 +0000" stop="20261124071500 +0000" channel="tvs.unifitv">
+    <title lang="en">TVS Fillers</title>
+    <desc lang="en">TVS Fillers delivers quick, engaging segments on Sarawakian culture, local trends, and more, keeping viewers entertained between programs.</desc>
+    <category lang="en">Culture</category>
   </programme>
-  <programme start="20261124061500 +0000" stop="20261124063000 +0000" channel="tvs.unifitv">
-    <title lang="en">Fail 420</title>
-    <desc lang="en">A crime documentary on scam cases reported to Sarawak's Police Commercial Unit, revealing modus operandi, victim profiles, true-event reenactments, and expert advice on detecting and avoiding scams.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
-  </programme>
-  <programme start="20261124063000 +0000" stop="20261124070000 +0000" channel="tvs.unifitv">
-    <title lang="en">Jelu Siga</title>
-    <desc lang="en">Documentary about wildlife and endangered species in Borneo, focusing on habitat, personality, characteristics, public awareness, and various methods to save these species, derived from the Iban language.</desc>
+  <programme start="20261124071500 +0000" stop="20261124073000 +0000" channel="tvs.unifitv">
+    <title lang="en">A Legacy</title>
+    <desc lang="en">An evocative docuseries exploring the history and cultural significance of Kek Lapis, Tuak, and beadmaking in Borneo, preserving these traditions for the future.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
-  <programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Sarawak Decides 2026</title>
-    <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
-    <category lang="en">Politics</category>
+  <programme start="20261124073000 +0000" stop="20261124080000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Terkini TVS: Rancangan Khas</title>
+    <desc lang="en">Terkini TVS: Social Impact Assessment In Emerging Economies Conference, speech by honourable YAB Datuk Patinggi Tan Sri (Dr) Abang Haji Abdul Rahman Zohari bin Tun Datuk Abang Haji Openg.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20261124080000 +0000" stop="20261124080500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -3036,11 +3029,9 @@
     <category lang="en">Current Affairs</category>
   </programme>
   <programme start="20261124123000 +0000" stop="20261124133000 +0000" channel="tvs.unifitv">
-    <title lang="en">Halalkan Aku</title>
-    <desc lang="en">Drama ini mengisahkan perkahwinan tanpa kerelaan yang berlaku akibat desakan keluarga sehingga mencetuskan konflik emosi, salah faham dan tekanan mental antara pasangan</desc>
-    <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
+    <title lang="en">(L) Terkini TVS: Rancangan Khas</title>
+    <desc lang="en">Siaran langsung Terkini TVS: Majlis Perasmian Kompleks Hikmah dirasmikan oleh Datuk Patinggi Tan Sri (Dr) Abang Haji Abdul Rahman Zohari bin Tun Datuk Abang Haji Openg.</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20261124133000 +0000" stop="20261124143000 +0000" channel="tvs.unifitv">
     <title lang="en">Dialog TVS</title>
@@ -15676,15 +15667,20 @@
     <desc lang="en">Relive the defining moments of The Open Championship, featuring the best action, memorable performances and exclusive behind-the-scenes footage from golf's oldest major championship.</desc>
     <category lang="en">Golf</category>
   </programme>
-  <programme start="20261123180000 +0000" stop="20261123200000 +0000" channel="spotv.unifitv">
+  <programme start="20261123180000 +0000" stop="20261123193000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 PYCL, Philippines S2 - Rd 2 Dream Skin Radiants vs Black Mamba Aces</title>
     <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261123200000 +0000" stop="20261123220000 +0000" channel="spotv.unifitv">
+  <programme start="20261123193000 +0000" stop="20261123210000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 PYCL, Philippines S2 - Rd 2 Cebuana Lhuillier Gems vs Gfoxx Paragon</title>
     <desc lang="en">The Philippines' top pickleball talents battle in the Pickle Yard Conference League, as franchise teams compete in fast-paced action for the Season 2 championship.</desc>
     <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261123210000 +0000" stop="20261123220000 +0000" channel="spotv.unifitv">
+    <title lang="en">The Open Official Film 2026</title>
+    <desc lang="en">Relive the defining moments of The Open Championship, featuring the best action, memorable performances and exclusive behind-the-scenes footage from golf's oldest major championship.</desc>
+    <category lang="en">Golf</category>
   </programme>
   <programme start="20261123220000 +0000" stop="20261124020000 +0000" channel="spotv.unifitv">
     <title lang="en">2026 Dubai T100 - Elite Men's &amp; Women's Race</title>
@@ -15706,12 +15702,12 @@
     <desc lang="en">Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
     <category lang="en">Surfing</category>
   </programme>
-  <programme start="20261124090000 +0000" stop="20261124110000 +0000" channel="spotv.unifitv">
+  <programme start="20261124090000 +0000" stop="20261124110500 +0000" channel="spotv.unifitv">
     <title lang="en">A-League Men 26/27 MW 5 - Western Sydney Wanderers FC vs Adelaide United</title>
     <desc lang="en">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>
   </programme>
-  <programme start="20261124110000 +0000" stop="20261124130000 +0000" channel="spotv.unifitv">
+  <programme start="20261124110500 +0000" stop="20261124130000 +0000" channel="spotv.unifitv">
     <title lang="en">A-League Men 26/27 MW 5 - Central Coast Mariners vs Perth Glory</title>
     <desc lang="en">Top flight men's soccer returns in the A-League Men's new season. Catch every moment on SPOTV NOW as 12 teams compete in the regular season with top 4 advancing to a single-game knockout.</desc>
     <category lang="en">Football</category>

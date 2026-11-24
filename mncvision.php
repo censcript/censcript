@@ -3605,7 +3605,7 @@
     <title>Gutfeld!</title>
 </programme>
 <programme start="20261124090000 +0000" stop="20261124100000 +0000" channel="FOX News.mncvision">
-    <title>The Ingraham Angle</title>
+    <title>Fox News At Night</title>
 </programme>
 <programme start="20261124100000 +0000" stop="20261124110000 +0000" channel="FOX News.mncvision">
     <title>Fox &amp; Friends First</title>
