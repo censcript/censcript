@@ -2375,16 +2375,10 @@
     <title>BBC News Now</title>
 </programme>
 <programme start="20261124130000 +0000" stop="20261124140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News at One</title>
+    <title>BBC News</title>
 </programme>
-<programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
-</programme>
-<programme start="20261124143000 +0000" stop="20261124144500 +0000" channel="BBC_News_24.virginmediatv">
-    <title>Business Today - NYSE Opening Bell</title>
-</programme>
-<programme start="20261124144500 +0000" stop="20261124150000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>BBC News Now</title>
+<programme start="20261124140000 +0000" stop="20261124150000 +0000" channel="BBC_News_24.virginmediatv">
+    <title>BBC News</title>
 </programme>
 <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="BBC_News_24.virginmediatv">
     <title>Verified Live</title>
@@ -3514,8 +3508,14 @@
 <programme start="20261124034500 +0000" stop="20261124074500 +0000" channel="Film_Four.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20261124110000 +0000" stop="20261124135500 +0000" channel="Film_Four.virginmediatv">
+<programme start="20261124110000 +0000" stop="20261124134000 +0000" channel="Film_Four.virginmediatv">
     <title>For Whom the Bell Tolls</title>
+</programme>
+<programme start="20261124134000 +0000" stop="20261124135000 +0000" channel="Film_Four.virginmediatv">
+    <title>Film4 Interview Programmes: Talking Film</title>
+</programme>
+<programme start="20261124135000 +0000" stop="20261124135500 +0000" channel="Film_Four.virginmediatv">
+    <title>Film4 Interview Programmes: Talking Film</title>
 </programme>
 <programme start="20261124135500 +0000" stop="20261124184000 +0000" channel="Film_Four.virginmediatv">
     <title>Cleopatra</title>
@@ -3781,8 +3781,14 @@
 <programme start="20261124034500 +0000" stop="20261124074500 +0000" channel="Film4_HD.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20261124110000 +0000" stop="20261124135500 +0000" channel="Film4_HD.virginmediatv">
+<programme start="20261124110000 +0000" stop="20261124134000 +0000" channel="Film4_HD.virginmediatv">
     <title>For Whom the Bell Tolls</title>
+</programme>
+<programme start="20261124134000 +0000" stop="20261124135000 +0000" channel="Film4_HD.virginmediatv">
+    <title>Film4 Interview Programmes: Talking Film</title>
+</programme>
+<programme start="20261124135000 +0000" stop="20261124135500 +0000" channel="Film4_HD.virginmediatv">
+    <title>Film4 Interview Programmes: Talking Film</title>
 </programme>
 <programme start="20261124135500 +0000" stop="20261124184000 +0000" channel="Film4_HD.virginmediatv">
     <title>Cleopatra</title>
@@ -4360,32 +4366,53 @@
 <programme start="20261124053000 +0000" stop="20261124060000 +0000" channel="MUTV.virginmediatv">
     <title>Premier League Highlights - Manchester United v Tottenham Hotspur</title>
 </programme>
-<programme start="20261124120000 +0000" stop="20261124140000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League - Liverpool v Manchester United</title>
+<programme start="20261124120000 +0000" stop="20261124122000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Andrea Medina</title>
+</programme>
+<programme start="20261124122000 +0000" stop="20261124124000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Monica Jusu Bah</title>
+</programme>
+<programme start="20261124124000 +0000" stop="20261124130000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Maya Le Tissier</title>
+</programme>
+<programme start="20261124130000 +0000" stop="20261124134500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Ander Herrera</title>
+</programme>
+<programme start="20261124134500 +0000" stop="20261124140000 +0000" channel="MUTV.virginmediatv">
+    <title>Pochettino: The First Interview</title>
 </programme>
 <programme start="20261124140000 +0000" stop="20261124143000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - 2026/27: Manchester United v Ipswich Town</title>
+    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
 </programme>
 <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Everton v Manchester United</title>
+    <title>UEFA Champions League Football - Highlights: League Phase - Manchester United v AS Roma</title>
 </programme>
 <programme start="20261124150000 +0000" stop="20261124153000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Fulham v Manchester United</title>
-</programme>
-<programme start="20261124153000 +0000" stop="20261124160000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Manchester United v Tottenham Hotspur</title>
-</programme>
-<programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Leeds United v Manchester United</title>
-</programme>
-<programme start="20261124163000 +0000" stop="20261124170000 +0000" channel="MUTV.virginmediatv">
     <title>FA Women&#039;s League Cup - Highlights: Manchester United v Everton</title>
 </programme>
-<programme start="20261124170000 +0000" stop="20261124173000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Manchester United v Aston Villa</title>
+<programme start="20261124153000 +0000" stop="20261124154500 +0000" channel="MUTV.virginmediatv">
+    <title>Top 20 Goals - Goals by Portuguese Reds</title>
 </programme>
-<programme start="20261124173000 +0000" stop="20261124180000 +0000" channel="MUTV.virginmediatv">
-    <title>Premier League Highlights - Liverpool v Manchester United</title>
+<programme start="20261124154500 +0000" stop="20261124160000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Celin Bizet Donnum</title>
+</programme>
+<programme start="20261124160000 +0000" stop="20261124162000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Andrea Medina</title>
+</programme>
+<programme start="20261124162000 +0000" stop="20261124164000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Monica Jusu Bah</title>
+</programme>
+<programme start="20261124164000 +0000" stop="20261124170000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Maya Le Tissier</title>
+</programme>
+<programme start="20261124170000 +0000" stop="20261124171500 +0000" channel="MUTV.virginmediatv">
+    <title>Top 20 Goals - Top 20 European Away Goals</title>
+</programme>
+<programme start="20261124171500 +0000" stop="20261124173000 +0000" channel="MUTV.virginmediatv">
+    <title>Top 20 Goals - Cristiano Ronaldo Goals</title>
+</programme>
+<programme start="20261124173000 +0000" stop="20261124181500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Ander Herrera</title>
 </programme>
 <programme start="20261123233000 +0000" stop="20261124003000 +0000" channel="Sky_Sports_F1_HD.virginmediatv">
     <title>F1 Academy - Las Vegas: Race 2</title>
@@ -5476,8 +5503,14 @@
 <programme start="20261124044500 +0000" stop="20261124084500 +0000" channel="FILMFOUR_+1.virginmediatv">
     <title>Teleshopping</title>
 </programme>
-<programme start="20261124120000 +0000" stop="20261124145500 +0000" channel="FILMFOUR_+1.virginmediatv">
+<programme start="20261124120000 +0000" stop="20261124144000 +0000" channel="FILMFOUR_+1.virginmediatv">
     <title>For Whom the Bell Tolls</title>
+</programme>
+<programme start="20261124144000 +0000" stop="20261124145000 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>Film4 Interview Programmes: Talking Film</title>
+</programme>
+<programme start="20261124145000 +0000" stop="20261124145500 +0000" channel="FILMFOUR_+1.virginmediatv">
+    <title>Film4 Interview Programmes: Talking Film</title>
 </programme>
 <programme start="20261124145500 +0000" stop="20261124194000 +0000" channel="FILMFOUR_+1.virginmediatv">
     <title>Cleopatra</title>

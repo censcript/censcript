@@ -646,9 +646,6 @@
 <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
 </programme>
-<programme start="20261124023000 +0000" stop="20261124060000 +0000" channel="ANTV.vision">
-<title>Khuda Haafiz</title>
-</programme>
 <programme start="20261124060000 +0000" stop="20261124073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -658,14 +655,8 @@
 <programme start="20261124093000 +0000" stop="20261124104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261124104500 +0000" stop="20261124131500 +0000" channel="ANTV.vision">
-<title>Gitar Tua</title>
-</programme>
 <programme start="20261124131500 +0000" stop="20261124150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261124150000 +0000" stop="20261124170000 +0000" channel="ANTV.vision">
-<title>Pokoknya Beres</title>
 </programme>
 <programme start="20261124170000 +0000" stop="20261124183000 +0000" channel="ANTV.vision">
 <title>The Happy Ghost</title>
@@ -936,9 +927,6 @@
 </programme>
 <programme start="20261124143000 +0000" stop="20261124150000 +0000" channel="Kompas TV.vision">
 <title>Laporan Khusus</title>
-</programme>
-<programme start="20261124150000 +0000" stop="20261124160000 +0000" channel="Kompas TV.vision">
-<title>B-Talk</title>
 </programme>
 <programme start="20261124160000 +0000" stop="20261124163000 +0000" channel="Kompas TV.vision">
 <title>Berkas Kompas</title>
@@ -1324,9 +1312,6 @@
 <programme start="20261124053000 +0000" stop="20261124070000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
-<programme start="20261124070000 +0000" stop="20261124080000 +0000" channel="BTV.vision">
-<title>Ruang Tengah</title>
-</programme>
 <programme start="20261124080000 +0000" stop="20261124083000 +0000" channel="BTV.vision">
 <title>Berita Kriminal</title>
 </programme>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20261124050000 +0000" stop="20261124060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
+</programme>
+<programme start="20261124060000 +0000" stop="20261124080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261124080000 +0000" stop="20261124080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261124080300 +0000" stop="20261124090000 +0000" channel="TVRI.vision">
+<title>Pengen Beken</title>
+</programme>
+<programme start="20261124090000 +0000" stop="20261124090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261124090300 +0000" stop="20261124093000 +0000" channel="TVRI.vision">
+<title>Ragam Kain Nusantara</title>
 </programme>
