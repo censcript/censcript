@@ -649,17 +649,8 @@
 <programme start="20261125093000 +0000" stop="20261125104500 +0000" channel="ANTV.vision">
 <title>Naagin</title>
 </programme>
-<programme start="20261125104500 +0000" stop="20261125131500 +0000" channel="ANTV.vision">
-<title>Begadang</title>
-</programme>
 <programme start="20261125131500 +0000" stop="20261125150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261125150000 +0000" stop="20261125170000 +0000" channel="ANTV.vision">
-<title>Gantian Dong</title>
-</programme>
-<programme start="20261125170000 +0000" stop="20261125183000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 2</title>
 </programme>
 <programme start="20261125183000 +0000" stop="20261125193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -915,9 +906,6 @@
 </programme>
 <programme start="20261125123000 +0000" stop="20261125133000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama (Live)</title>
-</programme>
-<programme start="20261125133000 +0000" stop="20261125143000 +0000" channel="Kompas TV.vision">
-<title>Satu Meja The Forum</title>
 </programme>
 <programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="Kompas TV.vision">
 <title>Kompas Malam</title>
@@ -1497,4 +1485,16 @@
 </programme>
 <programme start="20261125040300 +0000" stop="20261125050000 +0000" channel="TVRI.vision">
 <title>Seblak Show</title>
+</programme>
+<programme start="20261125050000 +0000" stop="20261125060000 +0000" channel="TVRI.vision">
+<title>Berita Siang</title>
+</programme>
+<programme start="20261125060000 +0000" stop="20261125080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261125080000 +0000" stop="20261125080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261125080300 +0000" stop="20261125090000 +0000" channel="TVRI.vision">
+<title>Pengen Beken</title>
 </programme>
