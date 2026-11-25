@@ -1177,11 +1177,9 @@
     <episode-num system="onscreen">S1E148</episode-num>
   </programme>
   <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="tv3.unifitv">
-    <title lang="en">FAIL MAHKAMAH 2026/2027</title>
-    <desc lang="en">FAIL MAHKAMAH 2026/2027</desc>
+    <title lang="en">DIALOG NEGARA KHAS BERSAMA YAB PERDANA MENTERI: “DI SEBALIK KEPUTUSAN...”</title>
+    <desc lang="en">DIALOG NEGARA KHAS BERSAMA YAB PERDANA MENTERI: “DI SEBALIK KEPUTUSAN...”</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.21.</episode-num>
-    <episode-num system="onscreen">S1E22</episode-num>
   </programme>
   <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="tv3.unifitv">
     <title lang="en">SEPENUH HATI RINDU</title>
