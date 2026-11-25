@@ -1561,20 +1561,20 @@
 <programme start="20261125100000 +0000" stop="20261125103000 +0000" channel="BTV.mncvision">
     <title>Berita Merah Putih</title>
 </programme>
-<programme start="20261125103000 +0000" stop="20261125120000 +0000" channel="BTV.mncvision">
+<programme start="20261125103000 +0000" stop="20261125113000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
-<programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
+<programme start="20261125113000 +0000" stop="20261125133000 +0000" channel="BTV.mncvision">
+    <title>Apresiasi Pemerintah Daerah...</title>
 </programme>
-<programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="BTV.mncvision">
+<programme start="20261125133000 +0000" stop="20261125143000 +0000" channel="BTV.mncvision">
     <title>Jendela Dunia</title>
 </programme>
-<programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="BTV.mncvision">
+<programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="BTV.mncvision">
     <title>Berita Satu Utama</title>
 </programme>
-<programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="BTV.mncvision">
-    <title>Berita Satu Malam</title>
+<programme start="20261125153000 +0000" stop="20261125160000 +0000" channel="BTV.mncvision">
+    <title>Berita Kriminal</title>
 </programme>
 <programme start="20261125160000 +0000" stop="20261125163000 +0000" channel="BTV.mncvision">
     <title>Mitos Tengah Malam</title>
@@ -8359,14 +8359,8 @@
 <programme start="20261125150000 +0000" stop="20261125153000 +0000" channel="sportstars 3 HD.mncvision">
     <title>V-League Men</title>
 </programme>
-<programme start="20261124170000 +0000" stop="20261124180000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261124170000 +0000" stop="20261124190000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
-</programme>
-<programme start="20261124180000 +0000" stop="20261124183000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20261124183000 +0000" stop="20261124190000 +0000" channel="Sportstars 4.mncvision">
-    <title>iNews Sport</title>
 </programme>
 <programme start="20261124190000 +0000" stop="20261124210000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Elite</title>
@@ -8374,74 +8368,32 @@
 <programme start="20261124210000 +0000" stop="20261124230000 +0000" channel="Sportstars 4.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20261124230000 +0000" stop="20261124233000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="Sportstars 4.mncvision">
     <title>V-League Men</title>
 </programme>
-<programme start="20261124233000 +0000" stop="20261125000000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20261125000000 +0000" stop="20261125003000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20261125003000 +0000" stop="20261125010000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League 2025-2026: Women</title>
-</programme>
-<programme start="20261125010000 +0000" stop="20261125023000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125010000 +0000" stop="20261125030000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Elite</title>
 </programme>
-<programme start="20261125023000 +0000" stop="20261125030000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League 2025-2026: Men</title>
-</programme>
-<programme start="20261125030000 +0000" stop="20261125043000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125030000 +0000" stop="20261125050000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20261125043000 +0000" stop="20261125050000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125050000 +0000" stop="20261125070000 +0000" channel="Sportstars 4.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20261125053000 +0000" stop="20261125070000 +0000" channel="Sportstars 4.mncvision">
-    <title>Best Of Badminton</title>
-</programme>
-<programme start="20261125070000 +0000" stop="20261125073000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125070000 +0000" stop="20261125090000 +0000" channel="Sportstars 4.mncvision">
     <title>V-League Men</title>
 </programme>
-<programme start="20261125073000 +0000" stop="20261125090000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League 2025-2026: Women</title>
-</programme>
-<programme start="20261125090000 +0000" stop="20261125093000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125090000 +0000" stop="20261125110000 +0000" channel="Sportstars 4.mncvision">
     <title>Timnas Special</title>
 </programme>
-<programme start="20261125093000 +0000" stop="20261125100000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sports Today</title>
-</programme>
-<programme start="20261125100000 +0000" stop="20261125110000 +0000" channel="Sportstars 4.mncvision">
-    <title>V-League 2026-2027: Women (L)</title>
-</programme>
-<programme start="20261125110000 +0000" stop="20261125120000 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125110000 +0000" stop="20261125130000 +0000" channel="Sportstars 4.mncvision">
     <title>AFC Champions League Elite</title>
 </programme>
-<programme start="20261125120000 +0000" stop="20261125123000 +0000" channel="Sportstars 4.mncvision">
-    <title>iNews Sport</title>
-</programme>
-<programme start="20261125123000 +0000" stop="20261125130000 +0000" channel="Sportstars 4.mncvision">
-    <title>30 Minutes Extreme</title>
-</programme>
-<programme start="20261125130000 +0000" stop="20261125134500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125130000 +0000" stop="20261125150000 +0000" channel="Sportstars 4.mncvision">
     <title>UEFA Nations League</title>
 </programme>
-<programme start="20261125134500 +0000" stop="20261125150000 +0000" channel="Sportstars 4.mncvision">
-    <title>AFC Champions League Two (L)</title>
-</programme>
-<programme start="20261125150000 +0000" stop="20261125154500 +0000" channel="Sportstars 4.mncvision">
+<programme start="20261125150000 +0000" stop="20261125153000 +0000" channel="Sportstars 4.mncvision">
     <title>V-League Men</title>
-</programme>
-<programme start="20261125154500 +0000" stop="20261125160000 +0000" channel="Sportstars 4.mncvision">
-    <title>Sportrivia</title>
-</programme>
-<programme start="20261125160000 +0000" stop="20261125163000 +0000" channel="Sportstars 4.mncvision">
-    <title>AFC Champions League Two (L)</title>
 </programme>
 <programme start="20261124170000 +0000" stop="20261124190000 +0000" channel="Sportstars 4 HD.mncvision">
     <title>Timnas Special</title>

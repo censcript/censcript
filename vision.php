@@ -640,9 +640,6 @@
 <programme start="20261125020000 +0000" stop="20261125023000 +0000" channel="ANTV.vision">
 <title>Di Balik Layar Alas Roban...</title>
 </programme>
-<programme start="20261125023000 +0000" stop="20261125060000 +0000" channel="ANTV.vision">
-<title>Tu Meri Main Tera Main Tera...</title>
-</programme>
 <programme start="20261125060000 +0000" stop="20261125073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -900,9 +897,6 @@
 </programme>
 <programme start="20261125060000 +0000" stop="20261125070000 +0000" channel="Kompas TV.vision">
 <title>Sapa Indonesia Siang</title>
-</programme>
-<programme start="20261125070000 +0000" stop="20261125073000 +0000" channel="Kompas TV.vision">
-<title>Laporan Khusus</title>
 </programme>
 <programme start="20261125073000 +0000" stop="20261125080000 +0000" channel="Kompas TV.vision">
 <title>Jurnal Nusantara</title>
@@ -1497,4 +1491,10 @@
 </programme>
 <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="TVRI.vision">
 <title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20261125040000 +0000" stop="20261125040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261125040300 +0000" stop="20261125050000 +0000" channel="TVRI.vision">
+<title>Seblak Show</title>
 </programme>

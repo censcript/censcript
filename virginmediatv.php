@@ -436,16 +436,19 @@
 <programme start="20261125171500 +0000" stop="20261125180000 +0000" channel="BBC1_HD.virginmediatv">
     <title>Pointless - Episode 2</title>
 </programme>
-<programme start="20261125000000 +0000" stop="20261125015500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261124231000 +0000" stop="20261125001000 +0000" channel="BBC_TWO_HD.virginmediatv">
+    <title>Rise of the Rockstar Chef - Episode 3</title>
+</programme>
+<programme start="20261125001000 +0000" stop="20261125020500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Sound of Metal</title>
 </programme>
-<programme start="20261125015500 +0000" stop="20261125025500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261125020500 +0000" stop="20261125030500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>MasterChef: The Professionals - Episode 7</title>
 </programme>
-<programme start="20261125025500 +0000" stop="20261125035500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261125030500 +0000" stop="20261125040500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>Lucy Worsley&#039;s Keys to the Castle - Doge&#039;s Palace</title>
 </programme>
-<programme start="20261125035500 +0000" stop="20261125061500 +0000" channel="BBC_TWO_HD.virginmediatv">
+<programme start="20261125040500 +0000" stop="20261125061500 +0000" channel="BBC_TWO_HD.virginmediatv">
     <title>This Is BBC TWO</title>
 </programme>
 <programme start="20261125111500 +0000" stop="20261125130000 +0000" channel="BBC_TWO_HD.virginmediatv">
@@ -4150,7 +4153,7 @@
 <programme start="20261125042500 +0000" stop="20261125045000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - West Indies v Sri Lanka</title>
 </programme>
-<programme start="20261125045000 +0000" stop="20261125081500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
+<programme start="20261125045000 +0000" stop="20261125060000 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
     <title>Live: ICC Women&#039;s Emerging Nations Trophy - Final: Sri Lanka v Ireland</title>
 </programme>
 <programme start="20261125120000 +0000" stop="20261125121500 +0000" channel="Sky_Sports_Mix_HD.virginmediatv">
@@ -5014,7 +5017,7 @@
 <programme start="20261125042500 +0000" stop="20261125045000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>ICC Women&#039;s T20 World Cup - West Indies v Sri Lanka</title>
 </programme>
-<programme start="20261125045000 +0000" stop="20261125081500 +0000" channel="Sky_Sports_Mix.virginmediatv">
+<programme start="20261125045000 +0000" stop="20261125060000 +0000" channel="Sky_Sports_Mix.virginmediatv">
     <title>Live: ICC Women&#039;s Emerging Nations Trophy - Final: Sri Lanka v Ireland</title>
 </programme>
 <programme start="20261125120000 +0000" stop="20261125121500 +0000" channel="Sky_Sports_Mix.virginmediatv">

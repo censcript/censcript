@@ -1176,24 +1176,22 @@
     <episode-num system="xmltv_ns">0.147.</episode-num>
     <episode-num system="onscreen">S1E148</episode-num>
   </programme>
-  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="tv3.unifitv">
+  <programme start="20261125130000 +0000" stop="20261125143000 +0000" channel="tv3.unifitv">
     <title lang="en">DIALOG NEGARA KHAS BERSAMA YAB PERDANA MENTERI: “DI SEBALIK KEPUTUSAN...”</title>
     <desc lang="en">DIALOG NEGARA KHAS BERSAMA YAB PERDANA MENTERI: “DI SEBALIK KEPUTUSAN...”</desc>
     <category lang="en">Entertainment</category>
   </programme>
-  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="tv3.unifitv">
+  <programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="tv3.unifitv">
     <title lang="en">SEPENUH HATI RINDU</title>
     <desc lang="en">Luth melancarkan perang psikologi dan undang-undang secara terbuka bagi membuktikan ketidakstabilan Summayah demi hak penjagaan penuh Qhalifah. Dalam pada itu, Summayah terpaksa membuat satu keputusan yang amat menyakitkan.</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.17.</episode-num>
     <episode-num system="onscreen">S1E18</episode-num>
   </programme>
-  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="tv3.unifitv">
-    <title lang="en">FIRST LADY</title>
-    <desc lang="en">Min Cheol mendapati Su Yeon secara diam-diam memasang alat pengintip bagi memantau gerak-gerinya. Dalam satu temu bual TV, Su Yeon mengakui bahawa dia mengintip suaminya untuk melindunginya daripada musuh politiknya.</desc>
+  <programme start="20261125153000 +0000" stop="20261125160000 +0000" channel="tv3.unifitv">
+    <title lang="en">ISTIMEWA MAJALAH 3</title>
+    <desc lang="en">ISTIMEWA MAJALAH 3</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.4.</episode-num>
-    <episode-num system="onscreen">S1E5</episode-num>
   </programme>
   <programme start="20261125160000 +0000" stop="20261125163000 +0000" channel="tv3.unifitv">
     <title lang="en">NIGHTLINE (2026/2027)</title>
@@ -1233,24 +1231,22 @@
     <episode-num system="xmltv_ns">0.19.</episode-num>
     <episode-num system="onscreen">S1E20</episode-num>
   </programme>
-  <programme start="20261125000000 +0000" stop="20261125003000 +0000" channel="didiktv.unifitv">
-    <title lang="en">PECUTAN SPM 2024</title>
-    <desc lang="en">Episod ini menyediakan perkongsian teknik menjawab soalan bagi kertas peperiksaan Sijil Pelajaran Malaysia (SPM) dengan fokus utama slot ini adalah untuk memberi pendedahan kepada murid tentang bentuk soalan dan teknik menjawab soalan.</desc>
-    <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.77.</episode-num>
-    <episode-num system="onscreen">S1E78</episode-num>
-  </programme>
-  <programme start="20261125003000 +0000" stop="20261125050000 +0000" channel="didiktv.unifitv">
-    <title lang="en">PROGRAM KHAS 2026</title>
-    <desc lang="en">PROGRAM KHAS 2026</desc>
+  <programme start="20261125000000 +0000" stop="20261125033000 +0000" channel="didiktv.unifitv">
+    <title lang="en">ANUGERAH NYALA KPM 2026</title>
+    <desc lang="en">ANUGERAH NYALA KPM 2026</desc>
     <category lang="en">Education</category>
   </programme>
-  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="didiktv.unifitv">
-    <title lang="en">BULETIN DIDIK 2026</title>
-    <desc lang="en">BULETIN DIDIK 2026</desc>
+  <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MENENGAH ATAS 24/25</title>
+    <desc lang="en">Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
     <category lang="en">Education</category>
-    <episode-num system="xmltv_ns">0.146.</episode-num>
-    <episode-num system="onscreen">S1E147</episode-num>
+    <episode-num system="xmltv_ns">0.53.</episode-num>
+    <episode-num system="onscreen">S1E54</episode-num>
+  </programme>
+  <programme start="20261125040000 +0000" stop="20261125053000 +0000" channel="didiktv.unifitv">
+    <title lang="en">MAJLIS PELUNCURAN PRAKASA AI</title>
+    <desc lang="en">MAJLIS PELUNCURAN PRAKASA AI</desc>
+    <category lang="en">Education</category>
   </programme>
   <programme start="20261125053000 +0000" stop="20261125060000 +0000" channel="didiktv.unifitv">
     <title lang="en">GENERASI MADANI 2026</title>
@@ -2796,8 +2792,6 @@
     <title lang="en">Jelajah Sarawakku Sayang</title>
     <desc lang="en">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125013000 +0000" stop="20261125014500 +0000" channel="tvs.unifitv">
     <title lang="en">TVS Fillers</title>
@@ -2827,11 +2821,9 @@
     <episode-num system="onscreen">S1E4</episode-num>
   </programme>
   <programme start="20261125034500 +0000" stop="20261125040000 +0000" channel="tvs.unifitv">
-    <title lang="en">Sarawak My Pride</title>
-    <desc lang="en">This 6-episode TV magazine series follows some of Sarawak's most inspiring individuals who've made their mark across Malaysia.</desc>
-    <category lang="en">Documentary</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <title lang="en">(L) Terkini TVS: Sidang Media Khas</title>
+    <desc lang="en">Siaran langsung Terkini TVS: Watikah Penyerahan Parti Pesaka Bumiputera Bersatu (PBB).</desc>
+    <category lang="en">News</category>
   </programme>
   <programme start="20261125040000 +0000" stop="20261125041500 +0000" channel="tvs.unifitv">
     <title lang="en">(L) TVS Tengahari</title>
@@ -2859,8 +2851,6 @@
     <title lang="en">Jelajah Sarawakku Sayang</title>
     <desc lang="en">Jelajah Sarawakku Sayang 2026, menjelajah 12 bahagian Sarawak dengan temu bual khas, hiburan, dan aktiviti budaya.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.0.</episode-num>
-    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125053000 +0000" stop="20261125063000 +0000" channel="tvs.unifitv">
     <title lang="en">(L) Sarawak Decides 2026</title>
@@ -12700,7 +12690,7 @@
     <episode-num system="onscreen">S1E47</episode-num>
   </programme>
   <programme start="20261124170300 +0000" stop="20261124173300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">NEWS 30min: Lives in Focus</title>
+    <title lang="en">NEWS 30min: Lives in</title>
     <desc lang="en">A people-centred show amplifying human stories and voices, bringing attention to global events and underreported regions.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12723,7 +12713,7 @@
   </programme>
   <programme start="20261124193300 +0000" stop="20261124200300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Counting the Cost</title>
-    <desc lang="en">Counting the Cost provides background to the economics stories that shape our world and impact the lives of ordinary people.</desc>
+    <desc lang="en">Can South Africa attract the investment it needs to revive growth and create jobs?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.63.</episode-num>
     <episode-num system="onscreen">S1E64</episode-num>
@@ -12835,7 +12825,7 @@
   </programme>
   <programme start="20261125083300 +0000" stop="20261125090300 +0000" channel="aljazeera.unifitv">
     <title lang="en">The Listening Post</title>
-    <desc lang="en">What is being reported by world media and how? Richard Gizbert guides you through the global news maze.</desc>
+    <desc lang="en">The Cockroach Janta Party is challenging India's political and media establishment. What's fuelling its rise and what does it reveal about journalism's future?</desc>
     <category lang="en">News</category>
     <episode-num system="xmltv_ns">0.42.</episode-num>
     <episode-num system="onscreen">S1E43</episode-num>
@@ -12875,7 +12865,7 @@
     <category lang="en">News</category>
   </programme>
   <programme start="20261125130300 +0000" stop="20261125140300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">NEWSHOUR: The World Now</title>
+    <title lang="en">NEWSHOUR: The World</title>
     <desc lang="en">A fast-paced, live global news show capturing the latest developments as they unfold.</desc>
     <category lang="en">News</category>
   </programme>
@@ -12886,13 +12876,11 @@
   </programme>
   <programme start="20261125143300 +0000" stop="20261125150300 +0000" channel="aljazeera.unifitv">
     <title lang="en">Talk to Al Jazeera</title>
-    <desc lang="en">One-on-one conversations with global leaders, icons, influencers and alternative voices shaping our times.</desc>
+    <desc lang="en">Former Prime Minister of Iceland discusses climate change, Arctic sovereignty and the politics of compromise in a polarized world.</desc>
     <category lang="en">News</category>
-    <episode-num system="xmltv_ns">0.507.</episode-num>
-    <episode-num system="onscreen">S1E508</episode-num>
   </programme>
   <programme start="20261125150300 +0000" stop="20261125160300 +0000" channel="aljazeera.unifitv">
-    <title lang="en">NEWSHOUR: The Wider Story</title>
+    <title lang="en">NEWSHOUR: The Wider</title>
     <desc lang="en">A deeper look at the major stories, unpacking the unanswered questions and making sense of the developments shaping the headlines.</desc>
     <category lang="en">News</category>
   </programme>
@@ -14266,15 +14254,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261124171800 +0000" stop="20261124173300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">The AI revolution needs electricity. And electricity needs transformers. But the world is running short of them. Delivery times have stretched to several years, raw material costs are rising, and the explosive growth of data centers is putting unprecedented pressure on the industry. The consequences range from delayed renewable energy projects to bottlenecks in the expansion of AI infrastructure.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261124173300 +0000" stop="20261124180300 +0000" channel="dw.unifitv">
     <title lang="en">REV</title>
-    <desc lang="en">REV</desc>
+    <desc lang="en">Dormant microbes that are awakened by water can seal cracks in concrete infrastructure. Learn how that could benefit motorists. Plus: Ride with an e-hailing driver, visit BMW in Munich and catch Prague's black tram.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14288,7 +14276,7 @@
   </programme>
   <programme start="20261124183300 +0000" stop="20261124190300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">A flood-ravaged Nairobi settlement bolsters itself by building drainage systems, green spaces and community-led climate defenses. Plus: Artificial wetlands transform polluted river water.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14308,15 +14296,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261124191800 +0000" stop="20261124193300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">The AI revolution needs electricity. And electricity needs transformers. But the world is running short of them. Delivery times have stretched to several years, raw material costs are rising, and the explosive growth of data centers is putting unprecedented pressure on the industry. The consequences range from delayed renewable energy projects to bottlenecks in the expansion of AI infrastructure.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261124193300 +0000" stop="20261124200300 +0000" channel="dw.unifitv">
     <title lang="en">Tomorrow Today</title>
-    <desc lang="en">Tomorrow Today</desc>
+    <desc lang="en">Seagrass stores CO?, protects coastlines, and provides habitat for numerous species. We meet researchers restoring these underwater meadows. Also: One Health; amoebae as a natural crop fungicide; and axolotls under threat.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14358,7 +14346,7 @@
   </programme>
   <programme start="20261124214800 +0000" stop="20261124220300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14379,7 +14367,7 @@
   </programme>
   <programme start="20261124223300 +0000" stop="20261124230300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14399,8 +14387,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261124231800 +0000" stop="20261124233300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">The AI revolution needs electricity. And electricity needs transformers. But the world is running short of them. Delivery times have stretched to several years, raw material costs are rising, and the explosive growth of data centers is putting unprecedented pressure on the industry. The consequences range from delayed renewable energy projects to bottlenecks in the expansion of AI infrastructure.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14490,15 +14478,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125031800 +0000" stop="20261125033300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">The AI revolution needs electricity. And electricity needs transformers. But the world is running short of them. Delivery times have stretched to several years, raw material costs are rising, and the explosive growth of data centers is putting unprecedented pressure on the industry. The consequences range from delayed renewable energy projects to bottlenecks in the expansion of AI infrastructure.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125033300 +0000" stop="20261125040300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">A flood-ravaged Nairobi settlement bolsters itself by building drainage systems, green spaces and community-led climate defenses. Plus: Artificial wetlands transform polluted river water.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14560,8 +14548,8 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125061800 +0000" stop="20261125063300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">Transforming Business</title>
+    <desc lang="en">The AI revolution needs electricity. And electricity needs transformers. But the world is running short of them. Delivery times have stretched to several years, raw material costs are rising, and the explosive growth of data centers is putting unprecedented pressure on the industry. The consequences range from delayed renewable energy projects to bottlenecks in the expansion of AI infrastructure.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14596,7 +14584,7 @@
   </programme>
   <programme start="20261125074800 +0000" stop="20261125080300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14610,14 +14598,14 @@
   </programme>
   <programme start="20261125080500 +0000" stop="20261125083300 +0000" channel="dw.unifitv">
     <title lang="en">The 77 Percent</title>
-    <desc lang="en">The 77 Percent</desc>
+    <desc lang="en">This week on The 77 Percent, we dive into the realities of modern relationships across Africa. We explore a question many young people face: should you marry for love before achieving financial stability, or wait until you're more secure?</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125083300 +0000" stop="20261125090300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">Decentralized electricity generation could play a vital role in Kerala's energy independence. Plus: emerging economies are racing ahead on electrification, and air pollution in coal mining towns.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14659,7 +14647,7 @@
   </programme>
   <programme start="20261125104800 +0000" stop="20261125110300 +0000" channel="dw.unifitv">
     <title lang="en">Shift</title>
-    <desc lang="en">Shift</desc>
+    <desc lang="en">From cuddly robots to symbolic "marriages” with AI avatars: AI that simulates emotional closeness is reshaping expectations and becoming part of everyday life — for children, in care homes and even in matters of love.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14721,15 +14709,15 @@
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125131800 +0000" stop="20261125133300 +0000" channel="dw.unifitv">
-    <title lang="en">Best of DW-online Content</title>
-    <desc lang="en">Best of DW-online Content</desc>
+    <title lang="en">History</title>
+    <desc lang="en">Between 1973 and 1990, the Pinochet regime in Chile left thousands dead — victims of crimes that are well documented and acknowledged by most Chileans. However, their views on the perpetrators have changed over time. How is it possible that a system of repression based on torture, extrajudicial executions, and forced disappearances is viewed favorably by a segment of Chilean society today?</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261125133300 +0000" stop="20261125140300 +0000" channel="dw.unifitv">
     <title lang="en">Eco Africa</title>
-    <desc lang="en">Eco Africa</desc>
+    <desc lang="en">A flood-ravaged Nairobi settlement bolsters itself by building drainage systems, green spaces and community-led climate defenses. Plus: Artificial wetlands transform polluted river water.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -14757,7 +14745,7 @@
   </programme>
   <programme start="20261125153300 +0000" stop="20261125160300 +0000" channel="dw.unifitv">
     <title lang="en">Eco India</title>
-    <desc lang="en">Eco India</desc>
+    <desc lang="en">Decentralized electricity generation could play a vital role in Kerala's energy independence. Plus: emerging economies are racing ahead on electrification, and air pollution in coal mining towns.</desc>
     <category lang="en">Magazine</category>
     <episode-num system="xmltv_ns">0.0.</episode-num>
     <episode-num system="onscreen">S1E1</episode-num>
@@ -15525,7 +15513,7 @@
   <channel id="beinsports.unifitv">
     <display-name>beIN SPORTS 1</display-name>
   </channel>
-  <programme start="20261124145500 +0000" stop="20261124170000 +0000" channel="beinsports.unifitv">
+  <programme start="20261124145600 +0000" stop="20261124170000 +0000" channel="beinsports.unifitv">
     <title lang="en">UEFA Youth League - Feyenoord vs Porto - MD5 (L)</title>
     <desc lang="en">The UEFA Youth League is an elite international club football tournament for the under-19 academies of Europe's top teams, running in parallel to the prestigious UEFA Champions League.</desc>
     <category lang="en">Sports</category>

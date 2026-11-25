@@ -18766,8 +18766,26 @@
   <programme start="20261127221000 +0000" stop="20261127230000 +0000" channel="France 24.webtv.sk">
     <title lang="id">LE CAFE DES SPORTS</title>
   </programme>
-  <programme start="20261126225900 +0000" stop="20261127052800 +0000" channel="Rai Uno.webtv.sk">
+  <programme start="20261126225900 +0000" stop="20261127003500 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">Porta a porta</title>
+  </programme>
+  <programme start="20261127003500 +0000" stop="20261127013000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">La Pennicanza</title>
+  </programme>
+  <programme start="20261127013000 +0000" stop="20261127013500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Che tempo fa</title>
+  </programme>
+  <programme start="20261127013500 +0000" stop="20261127021000 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tutti pazzi per amore I (21)</title>
+  </programme>
+  <programme start="20261127021000 +0000" stop="20261127031500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">Tutti pazzi per amore I (22)</title>
+  </programme>
+  <programme start="20261127031500 +0000" stop="20261127045500 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">RaiNews</title>
+  </programme>
+  <programme start="20261127045500 +0000" stop="20261127052800 +0000" channel="Rai Uno.webtv.sk">
+    <title lang="id">1mattina News</title>
   </programme>
   <programme start="20261127052800 +0000" stop="20261127053000 +0000" channel="Rai Uno.webtv.sk">
     <title lang="id">CCISS - Viaggiare informati</title>

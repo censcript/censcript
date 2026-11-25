@@ -37,37 +37,37 @@
     <programme start="20261125061000 +0000" stop="20261125063000 +0000" channel="VTV1 HD.mytv">
         <title> Chào buổi sáng </title>
     </programme>
-    <programme start="20261125063000 +0000" stop="20261125080000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125063000 +0000" stop="20261125080100 +0000" channel="VTV1 HD.mytv">
         <title> Tài chính - Kinh doanh </title>
     </programme>
-    <programme start="20261125080000 +0000" stop="20261125082500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125080100 +0000" stop="20261125082400 +0000" channel="VTV1 HD.mytv">
         <title> Vì một tương lai xanh: Giữ rừng từ gốc </title>
     </programme>
-    <programme start="20261125082500 +0000" stop="20261125083000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125082400 +0000" stop="20261125083000 +0000" channel="VTV1 HD.mytv">
         <title> Nhớ Người: Lời Bác dặn giữ nét đẹp chèo Việt Nam </title>
     </programme>
     <programme start="20261125083000 +0000" stop="20261125084500 +0000" channel="VTV1 HD.mytv">
         <title> Khám phá Việt Nam: Khi mùa vàng gọi hội </title>
     </programme>
-    <programme start="20261125084500 +0000" stop="20261125090000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125084500 +0000" stop="20261125085900 +0000" channel="VTV1 HD.mytv">
         <title> Cuộc sống nhiệm màu: Mất ngủ kéo dài </title>
     </programme>
-    <programme start="20261125090000 +0000" stop="20261125091500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125085900 +0000" stop="20261125091000 +0000" channel="VTV1 HD.mytv">
         <title> Sống mới </title>
     </programme>
-    <programme start="20261125091500 +0000" stop="20261125094500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125091000 +0000" stop="20261125094400 +0000" channel="VTV1 HD.mytv">
         <title> Phóng sự </title>
     </programme>
-    <programme start="20261125094500 +0000" stop="20261125100000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125094400 +0000" stop="20261125100000 +0000" channel="VTV1 HD.mytv">
         <title> Thời sự </title>
     </programme>
-    <programme start="20261125100000 +0000" stop="20261125101500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125100000 +0000" stop="20261125101200 +0000" channel="VTV1 HD.mytv">
         <title> Doanh nghiệp quốc gia: Tự chủ chiến lược về năng lượng </title>
     </programme>
-    <programme start="20261125101500 +0000" stop="20261125104500 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125101200 +0000" stop="20261125104000 +0000" channel="VTV1 HD.mytv">
         <title> Tiêu điểm: Giá trị của sự ưu tiên </title>
     </programme>
-    <programme start="20261125104500 +0000" stop="20261125110000 +0000" channel="VTV1 HD.mytv">
+    <programme start="20261125104000 +0000" stop="20261125110000 +0000" channel="VTV1 HD.mytv">
         <title> Khởi nghiệp trẻ: Công nghệ đánh thức di sản </title>
     </programme>
     <programme start="20261125110000 +0000" stop="20261125113000 +0000" channel="VTV1 HD.mytv">
