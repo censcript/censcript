@@ -2854,17 +2854,17 @@
 <programme start="20261126124500 +0000" stop="20261126131000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Questions on Promised Legislation Live</title>
 </programme>
-<programme start="20261126131000 +0000" stop="20261126141000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Topical Issues Live</title>
+<programme start="20261126131000 +0000" stop="20261126140000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Live: Committee of Public Accounts</title>
 </programme>
-<programme start="20261126141000 +0000" stop="20261126145000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261126140000 +0000" stop="20261126145000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Live - Joint Committee on Key Issues affecting the Traveller Community</title>
 </programme>
-<programme start="20261126145000 +0000" stop="20261126153000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261126145000 +0000" stop="20261126171500 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Live: Dáil Statements</title>
 </programme>
-<programme start="20261126153000 +0000" stop="20261126180000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Live - Joint Committee on Health</title>
+<programme start="20261126171500 +0000" stop="20261126193000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Dáil Éireann - Dáil Éireann Motion</title>
 </programme>
 <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="Discovery_HD.virginmediatv">
     <title>Deadliest Catch - Breaking Point</title>
@@ -3412,11 +3412,8 @@
 <programme start="20261126051500 +0000" stop="20261126065000 +0000" channel="Sky_Horror_HD.virginmediatv">
     <title>Ouija</title>
 </programme>
-<programme start="20261126101500 +0000" stop="20261126121500 +0000" channel="Sky_Horror_HD.virginmediatv">
+<programme start="20261126101500 +0000" stop="20261126143500 +0000" channel="Sky_Horror_HD.virginmediatv">
     <title>Assassin&#039;s Creed</title>
-</programme>
-<programme start="20261126121500 +0000" stop="20261126143500 +0000" channel="Sky_Horror_HD.virginmediatv">
-    <title>Pacific Rim</title>
 </programme>
 <programme start="20261126143500 +0000" stop="20261126162000 +0000" channel="Sky_Horror_HD.virginmediatv">
     <title>It Feeds</title>
@@ -3463,8 +3460,8 @@
 <programme start="20261126053000 +0000" stop="20261126074000 +0000" channel="Sky_Thriller_HD.virginmediatv">
     <title>Murder by Numbers</title>
 </programme>
-<programme start="20261126112000 +0000" stop="20261126135000 +0000" channel="Sky_Thriller_HD.virginmediatv">
-    <title>Detroit</title>
+<programme start="20261126094000 +0000" stop="20261126135000 +0000" channel="Sky_Thriller_HD.virginmediatv">
+    <title>Hungry</title>
 </programme>
 <programme start="20261126135000 +0000" stop="20261126160500 +0000" channel="Sky_Thriller_HD.virginmediatv">
     <title>Red Dragon</title>
@@ -3484,8 +3481,8 @@
 <programme start="20261126053500 +0000" stop="20261126072000 +0000" channel="Sky_Drama_HD.virginmediatv">
     <title>Poison</title>
 </programme>
-<programme start="20261126112000 +0000" stop="20261126135000 +0000" channel="Sky_Drama_HD.virginmediatv">
-    <title>Cast Away</title>
+<programme start="20261126072000 +0000" stop="20261126135000 +0000" channel="Sky_Drama_HD.virginmediatv">
+    <title>Love Me</title>
 </programme>
 <programme start="20261126135000 +0000" stop="20261126155000 +0000" channel="Sky_Drama_HD.virginmediatv">
     <title>Air</title>
@@ -3679,11 +3676,8 @@
 <programme start="20261126051500 +0000" stop="20261126065000 +0000" channel="Sky_Horror.virginmediatv">
     <title>Ouija</title>
 </programme>
-<programme start="20261126101500 +0000" stop="20261126121500 +0000" channel="Sky_Horror.virginmediatv">
+<programme start="20261126101500 +0000" stop="20261126143500 +0000" channel="Sky_Horror.virginmediatv">
     <title>Assassin&#039;s Creed</title>
-</programme>
-<programme start="20261126121500 +0000" stop="20261126143500 +0000" channel="Sky_Horror.virginmediatv">
-    <title>Pacific Rim</title>
 </programme>
 <programme start="20261126143500 +0000" stop="20261126162000 +0000" channel="Sky_Horror.virginmediatv">
     <title>It Feeds</title>
@@ -3730,8 +3724,8 @@
 <programme start="20261126053000 +0000" stop="20261126074000 +0000" channel="Sky_Thriller.virginmediatv">
     <title>Murder by Numbers</title>
 </programme>
-<programme start="20261126112000 +0000" stop="20261126135000 +0000" channel="Sky_Thriller.virginmediatv">
-    <title>Detroit</title>
+<programme start="20261126094000 +0000" stop="20261126135000 +0000" channel="Sky_Thriller.virginmediatv">
+    <title>Hungry</title>
 </programme>
 <programme start="20261126135000 +0000" stop="20261126160500 +0000" channel="Sky_Thriller.virginmediatv">
     <title>Red Dragon</title>
@@ -3751,8 +3745,8 @@
 <programme start="20261126053500 +0000" stop="20261126072000 +0000" channel="Sky_Drama.virginmediatv">
     <title>Poison</title>
 </programme>
-<programme start="20261126112000 +0000" stop="20261126135000 +0000" channel="Sky_Drama.virginmediatv">
-    <title>Cast Away</title>
+<programme start="20261126072000 +0000" stop="20261126135000 +0000" channel="Sky_Drama.virginmediatv">
+    <title>Love Me</title>
 </programme>
 <programme start="20261126135000 +0000" stop="20261126155000 +0000" channel="Sky_Drama.virginmediatv">
     <title>Air</title>
@@ -3965,7 +3959,7 @@
     <title>ICC World Cup - Countdown To World Cup</title>
 </programme>
 <programme start="20261126130000 +0000" stop="20261126160000 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
-    <title>Live: Women&#039;s Big Bash - Sydney Thunder v Adelaide Strikers</title>
+    <title>Women&#039;s Big Bash - Sydney Thunder v Adelaide Strikers</title>
 </programme>
 <programme start="20261126160000 +0000" stop="20261126161500 +0000" channel="Sky_Sports_Cricket_HD.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2013: Australia v England</title>
@@ -4310,7 +4304,7 @@
     <title>Cantona: Reflections of an Artist</title>
 </programme>
 <programme start="20261126053000 +0000" stop="20261126063000 +0000" channel="MUTV.virginmediatv">
-    <title>La Philosophie de Cantona - The Rebel Speaks</title>
+    <title>UEFA Youth League Football - Sporting CP U19 v Manchester United U19</title>
 </programme>
 <programme start="20261126120000 +0000" stop="20261126140000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - League Phase: Sporting CP v Manchester United</title>
@@ -4318,14 +4312,11 @@
 <programme start="20261126140000 +0000" stop="20261126143000 +0000" channel="MUTV.virginmediatv">
     <title>Match Day Review - UEFA Champions League: Sporting CP v Manchester United</title>
 </programme>
-<programme start="20261126143000 +0000" stop="20261126153000 +0000" channel="MUTV.virginmediatv">
-    <title>La Philosophie de Cantona - The Rebel Speaks</title>
+<programme start="20261126143000 +0000" stop="20261126163500 +0000" channel="MUTV.virginmediatv">
+    <title>UEFA Youth League Football - Sporting CP U19 v Manchester United U19</title>
 </programme>
-<programme start="20261126153000 +0000" stop="20261126164500 +0000" channel="MUTV.virginmediatv">
-    <title>La Philosophie de Cantona - The Art of Rebellion</title>
-</programme>
-<programme start="20261126164500 +0000" stop="20261126170000 +0000" channel="MUTV.virginmediatv">
-    <title>What I Wore - Eric Cantona</title>
+<programme start="20261126163500 +0000" stop="20261126170000 +0000" channel="MUTV.virginmediatv">
+    <title>A Day in the Life: Maya Le Tissier</title>
 </programme>
 <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - League Phase: Sporting CP v Manchester United</title>
@@ -4802,7 +4793,7 @@
     <title>ICC World Cup - Countdown To World Cup</title>
 </programme>
 <programme start="20261126130000 +0000" stop="20261126160000 +0000" channel="Sky_Sports_Cricket.virginmediatv">
-    <title>Live: Women&#039;s Big Bash - Sydney Thunder v Adelaide Strikers</title>
+    <title>Women&#039;s Big Bash - Sydney Thunder v Adelaide Strikers</title>
 </programme>
 <programme start="20261126160000 +0000" stop="20261126161500 +0000" channel="Sky_Sports_Cricket.virginmediatv">
     <title>ICC Women&#039;s World Cup Cricket - 2013: Australia v England</title>
@@ -6088,7 +6079,7 @@
 <programme start="20261125185800 +0000" stop="20261126025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261126025800 +0000" stop="20261126060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261126025800 +0000" stop="20261126070000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261126115000 +0000" stop="20261126121500 +0000" channel="CBBC.virginmediatv">

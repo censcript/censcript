@@ -31,10 +31,10 @@
 <programme start="20261126170000 +0000" stop="20261126190000 +0000" channel="RCTI.vision">
 <title>Jangan Bercerai Bunda</title>
 </programme>
-<programme start="20261126190000 +0000" stop="20261126200000 +0000" channel="RCTI.vision">
+<programme start="20261126190000 +0000" stop="20261126210000 +0000" channel="RCTI.vision">
 <title>Roman Picisan</title>
 </programme>
-<programme start="20261126200000 +0000" stop="20261126221500 +0000" channel="RCTI.vision">
+<programme start="20261126210000 +0000" stop="20261126221500 +0000" channel="RCTI.vision">
 <title>Anak Jalanan</title>
 </programme>
 <programme start="20261126221500 +0000" stop="20261126224500 +0000" channel="RCTI.vision">
@@ -649,9 +649,6 @@
 <programme start="20261125230000 +0000" stop="20261126023000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20261126023000 +0000" stop="20261126060000 +0000" channel="ANTV.vision">
-<title>Taarzan: The Wonder Car</title>
-</programme>
 <programme start="20261126060000 +0000" stop="20261126073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -660,9 +657,6 @@
 </programme>
 <programme start="20261126093000 +0000" stop="20261126104500 +0000" channel="ANTV.vision">
 <title>Suami Pengganti</title>
-</programme>
-<programme start="20261126104500 +0000" stop="20261126131500 +0000" channel="ANTV.vision">
-<title>Senggol-Senggolan</title>
 </programme>
 <programme start="20261126131500 +0000" stop="20261126150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
@@ -717,9 +711,6 @@
 </programme>
 <programme start="20261126061500 +0000" stop="20261126073000 +0000" channel="RTV.vision">
 <title>SUPER WINGS</title>
-</programme>
-<programme start="20261126073000 +0000" stop="20261126080000 +0000" channel="RTV.vision">
-<title>BOBOIBOY</title>
 </programme>
 <programme start="20261126080000 +0000" stop="20261126090000 +0000" channel="RTV.vision">
 <title>Tom &amp; Jerry</title>
@@ -930,9 +921,6 @@
 </programme>
 <programme start="20261126123000 +0000" stop="20261126133000 +0000" channel="Kompas TV.vision">
 <title>Berita Utama (Live)</title>
-</programme>
-<programme start="20261126133000 +0000" stop="20261126143000 +0000" channel="Kompas TV.vision">
-<title>Rosi</title>
 </programme>
 <programme start="20261126143000 +0000" stop="20261126153000 +0000" channel="Kompas TV.vision">
 <title>Kompas Malam</title>
@@ -1333,9 +1321,6 @@
 <programme start="20261126050500 +0000" stop="20261126053000 +0000" channel="BTV.vision">
 <title>Berita Satu Siang</title>
 </programme>
-<programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="BTV.vision">
-<title>Polri</title>
-</programme>
 <programme start="20261126060000 +0000" stop="20261126063000 +0000" channel="BTV.vision">
 <title>Jalan Dakwah</title>
 </programme>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20261126023000 +0000" stop="20261126030000 +0000" channel="TVRI.vision">
 <title>Mimbar Agama</title>
+</programme>
+<programme start="20261126030000 +0000" stop="20261126030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261126030300 +0000" stop="20261126033000 +0000" channel="TVRI.vision">
+<title>Jurnal World Cup U-17</title>
+</programme>
+<programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="TVRI.vision">
+<title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20261126040000 +0000" stop="20261126040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261126040300 +0000" stop="20261126050000 +0000" channel="TVRI.vision">
+<title>Seblak Show</title>
 </programme>

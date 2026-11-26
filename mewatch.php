@@ -817,25 +817,25 @@
     <programme start="20261126160000 +0000" stop="20261127160000 +0000" channel="Live 2.mewatch">
         <title>No Programme available now. Next Broadcast on 29th November, Sunday 2pm. Singlife Nations Cup 2026</title>
     </programme>
-    <programme start="20261125160000 +0000" stop="20261126100000 +0000" channel="Live 5.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th November, Thursday 6pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
+    <programme start="20261125160000 +0000" stop="20261126095000 +0000" channel="Live 5.mewatch">
+        <title>No Programme available now. Next Broadcast on 26th November, Thursday 05.50pm. AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
     </programme>
-    <programme start="20261126100000 +0000" stop="20261126120000 +0000" channel="Live 5.mewatch">
+    <programme start="20261126095000 +0000" stop="20261126121500 +0000" channel="Live 5.mewatch">
         <title>AFC Champions League Two 2026/27: Tampines Rovers FC vs Shanghai Shenhua FC</title>
     </programme>
-    <programme start="20261126120000 +0000" stop="20261126160000 +0000" channel="Live 5.mewatch">
+    <programme start="20261126121500 +0000" stop="20261126160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs Tai Po FC</title>
     </programme>
     <programme start="20261126160000 +0000" stop="20261127160000 +0000" channel="Live 5.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: Lion City Sailors FC vs Tai Po FC</title>
     </programme>
-    <programme start="20261125160000 +0000" stop="20261126121500 +0000" channel="Live 6.mewatch">
-        <title>No Programme available now. Next Broadcast on 26th November, Thursday 8.15pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
+    <programme start="20261125160000 +0000" stop="20261126120500 +0000" channel="Live 6.mewatch">
+        <title>No Programme available now. Next Broadcast on 26th November, Thursday 8.05pm. AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
     </programme>
-    <programme start="20261126121500 +0000" stop="20261126141500 +0000" channel="Live 6.mewatch">
+    <programme start="20261126120500 +0000" stop="20261126143000 +0000" channel="Live 6.mewatch">
         <title>AFC Champions League Two 2026/27: BG Pathum United vs Lion City Sailors FC</title>
     </programme>
-    <programme start="20261126141500 +0000" stop="20261126160000 +0000" channel="Live 6.mewatch">
+    <programme start="20261126143000 +0000" stop="20261126160000 +0000" channel="Live 6.mewatch">
         <title>No Programme available now. Next Broadcast on 3rd December, Thursday 6pm. AFC Champions League Two 2026/27: FC Machida Zelvia vs Tampines Rovers FC </title>
     </programme>
     <programme start="20261126160000 +0000" stop="20261127160000 +0000" channel="Live 6.mewatch">

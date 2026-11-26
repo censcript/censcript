@@ -2951,39 +2951,29 @@
     <episode-num system="xmltv_ns">0.1.</episode-num>
     <episode-num system="onscreen">S1E2</episode-num>
   </programme>
-  <programme start="20261126053000 +0000" stop="20261126060000 +0000" channel="tvs.unifitv">
+  <programme start="20261126053000 +0000" stop="20261126063000 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Sarawak Decides 2026</title>
+    <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
+    <category lang="en">Politics</category>
+  </programme>
+  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="tvs.unifitv">
     <title lang="en">Journey of The Bidayuh</title>
     <desc lang="en">James Ritchie will take us to discover more about the Bidayuh. A documentary series that will touch on the aspects of Bidayuh culture, tradition, history and where this race fares in today's world.</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
-  <programme start="20261126060000 +0000" stop="20261126060500 +0000" channel="tvs.unifitv">
-    <title lang="en">(DL) TVS Ringkas</title>
-    <desc lang="en">TVS Ringkas brings the latest breaking news, offering quick and essential updates from both within the country and around the globe.</desc>
+  <programme start="20261126070000 +0000" stop="20261126074500 +0000" channel="tvs.unifitv">
+    <title lang="en">(L) Terkini TVS: Rancangan Khas</title>
+    <desc lang="en">Siaran langsung Terkini TVS: Majlis Perasmian Jambatan Batang Lupar No. 2, dirasmikan oleh YAB Datu Patinggi Tan Sri (Dr) Abang Johari Tun Openg.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20261126060500 +0000" stop="20261126061500 +0000" channel="tvs.unifitv">
-    <title lang="en">TVS Music</title>
-    <desc lang="en">TVS Music is a compilation of songs that celebrates the rich and diverse musical talents of the region, featuring a mix of contemporary hits and culturally inspired tracks from local artists.</desc>
-    <category lang="en">Pop Culture</category>
-  </programme>
-  <programme start="20261126061500 +0000" stop="20261126063000 +0000" channel="tvs.unifitv">
+  <programme start="20261126074500 +0000" stop="20261126080000 +0000" channel="tvs.unifitv">
     <title lang="en">Borneo From Above</title>
     <desc lang="en">To promote and highlighting development of Sarawak</desc>
     <category lang="en">Documentary</category>
     <episode-num system="xmltv_ns">1.21.</episode-num>
     <episode-num system="onscreen">S2E22</episode-num>
-  </programme>
-  <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="tvs.unifitv">
-    <title lang="en">Lawas Uncovered</title>
-    <desc lang="en">Rancangan dokumentari "Lawas Uncovered" memaparkan penerokaan sejarah, warisan, era peperangan, serta budaya dan kehidupan komuniti tanah tinggi di Daerah Lawas, Sarawak.</desc>
-    <category lang="en">Documentary</category>
-  </programme>
-  <programme start="20261126070000 +0000" stop="20261126080000 +0000" channel="tvs.unifitv">
-    <title lang="en">(L) Sarawak Decides 2026</title>
-    <desc lang="en">Sarawak Decides membawakan liputan menyeluruh PRU DUN Sarawak di 82 kawasan, merangkumi landskap politik, isu setempat dan pembangunan, berasaskan fakta dan data, demi menyuarakan aspirasi rakyat.</desc>
-    <category lang="en">Politics</category>
   </programme>
   <programme start="20261126080000 +0000" stop="20261126080500 +0000" channel="tvs.unifitv">
     <title lang="en">(DL) TVS Ringkas</title>
@@ -3646,7 +3636,7 @@
   </programme>
   <programme start="20261126023500 +0000" stop="20261126030500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Chill. Hike. Camping</title>
-    <desc lang="en">Chill. Hike. Camping</desc>
+    <desc lang="en">With travel restricted due to the pandemic, many people have opted to connect with nature and discover the joys of local outings and camping. Four former Miss Hong Kong contestants—Ho Wing-sau, Liu Wai-yee, Wu Mei-yee, and Chan Yeuk-sze—set aside their formalities and escaped the hustle and bustle of city life, joining various "outdoor experts" on adventures. They explored mountains and seas, experiencing outdoor activities like picnics, mountain art photography, car parking, diving, kitesurfing, and even taking on challenges like mountain art tests, boating to collect trash on deserted beaches, and rappelling on a deserted island. These diverse outdoor activities included experiencing a flash flood and witnessing the power of nature! Will they ultimately become Hong Kong "wild women" with exceptional physical strength, willpower, and environmental awareness?</desc>
     <category lang="en">Entertainment</category>
     <episode-num system="xmltv_ns">0.14.</episode-num>
     <episode-num system="onscreen">S1E15</episode-num>
@@ -5506,7 +5496,12 @@
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
   </programme>
-  <programme start="20261125183000 +0000" stop="20261125193000 +0000" channel="unknown.unifitv">
+  <programme start="20261125183000 +0000" stop="20261125190000 +0000" channel="unknown.unifitv">
+    <title lang="en">Free Ticket</title>
+    <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20261125190000 +0000" stop="20261125193000 +0000" channel="unknown.unifitv">
     <title lang="en">Free Ticket</title>
     <desc lang="en">The host presents a comprehensive compilation of songs and snippets from some of the most popular and trending Tamil movies.</desc>
     <category lang="en">Music</category>
@@ -15309,9 +15304,49 @@
     <desc lang="en">Barcelona club captain and Spanish national team legend Gerard Pique has called time on his career. This is a whirlwind look back at the illustrious career of a man who has won everything the game has to offer.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261126060000 +0000" stop="20261126153000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261126060000 +0000" stop="20261126083000 +0000" channel="unifisports1.unifitv">
     <title lang="en">UFC Reloaded - UFC 313: Pereira vs Ankalaev</title>
     <desc lang="en">After a historic 2024 that saw him defend his UFC light heavyweight title three times with three knockouts, Brazilian superstar Alex Pereira begins the new year in Las Vegas with a main event clash against number one contender Magomed Ankalaev. Plus former interim lightweight champion Justin Gaithje battles Rafael Fiziev for the second time, and much much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126083000 +0000" stop="20261126090000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Mencari Ramli Musim Ke - 3 - 5</title>
+    <desc lang="en">Mencari Ramli adalah program pencarian bakat bola sepak yang hebat. Program ini memberi peluang kepada bakat muda untuk merealisasikan impian mereka menjadi pemain bola sepak terbaik di peringkat kebangsaan dan antarabangsa. Program ini mencungkil bakat bola sepak anak-anak muda berusia bawah 14 tahun dan bawah 16 tahun.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126090000 +0000" stop="20261126093000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">Sensasi Bola - 5</title>
+    <desc lang="en">Sensasi Bola merupakan satu program bual bicara berdurasi setengah jam bersama pemain bola sepak, selebriti, jurulatih dan peminat sebagai tetamu undangan setiap minggu. Antara topik menarik yang akan dikupas adalah isu mengenai bola sepak tempatan dan antarabangsa, temubual ekslusif bersama lagenda bola sepak, tips kesihatan serta isu semasa yang menjadi perbualan masa kini.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126093000 +0000" stop="20261126100000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Flashback - UFC 305: Du Plessis vs Adesanya</title>
+    <desc lang="en">UFC 305 featured the battle for the middleweight title as reigning champion Dricus "Stillknocks" Du Plessis defended his belt against former champion Israel "The Last Stylebender" Adesanya. See their fight like never before with enhanced replays and angles, new footage, and exclusive audio.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126100000 +0000" stop="20261126123000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Reloaded - UFC 315: Muhammad vs Della Maddalena</title>
+    <desc lang="en">When the Octagon returns to Montreal for the first time since 2015, fans are treated to a stacked card headlined by a championship doubleheader. In the main event, Belal Muhammad defends his welterweight crown for the first time against Australian powerhouse Jack Della Maddalena, and Manon Fiorot battles to be the first female French champion against Flyweight phenom Valentina Shevchenko. Plus, the return of Jose Aldo and much more on UFC Reloaded.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126123000 +0000" stop="20261126130000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - Hispanic Heritage Month 2023</title>
+    <desc lang="en">UFC Ultimate Knockouts celebrates Hispanic Heritage Month. See Edson Barboza, Polyana Viana, Marlon Vera, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126130000 +0000" stop="20261126135500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Countdown - UFC 322: Della Maddalena vs Makhachev</title>
+    <desc lang="en">UFC 322 Countdown previews a massive title-fight double header as Islam Makhachev moves up to challenge welterweight champ Jack Della Maddalena, and Zhang Weili faces dominant flyweight queen Valentina Shevchenko</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126135500 +0000" stop="20261126140000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">LALIGA LEGENDS - PEP GUARDIOLA</title>
+    <desc lang="en">More than a title-winning machine, Pep Guardiola changed the face of football. Trace the evolution of his famed “tiki-taka” style of play that propelled the likes of Messi, Xavi, Iniesta and Busquets to footballing royalty.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261126140000 +0000" stop="20261126195500 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Fight Night: Procházka vs. Stirling - Main</title>
+    <desc lang="en">On Saturday, November 21, UFC returns to ABHA Arena in Doha, Qatar for a second consecutive year, bringing with it a UFC Fight Night event headlined by a crucial light heavyweight clash between former champion Jiri Prochazka and unbeaten rising star Navajo Stirling. The 34-year-old Prochazka has been a mainstay in the title picture since arriving in the promotion in 2021, having won the title at UFC 275 and since registered stoppage wins over former champ Jamahal Hill and title challenger Khalil Rountree Jr.</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261125151200 +0000" stop="20261125161200 +0000" channel="unknown.unifitv">

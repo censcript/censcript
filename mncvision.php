@@ -1961,7 +1961,7 @@
     <title>Arjuna In Switzerland</title>
 </programme>
 <programme start="20261126050000 +0000" stop="20261126060000 +0000" channel="Celebrities TV.mncvision">
-    <title>Tamu Tak Diundang</title>
+    <title>Terlanjur Mencintaimu</title>
 </programme>
 <programme start="20261126060000 +0000" stop="20261126070000 +0000" channel="Celebrities TV.mncvision">
     <title>Manda Curhat</title>
