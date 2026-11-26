@@ -2854,17 +2854,17 @@
 <programme start="20261126124500 +0000" stop="20261126131000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Questions on Promised Legislation Live</title>
 </programme>
-<programme start="20261126131000 +0000" stop="20261126140000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Live: Committee of Public Accounts</title>
+<programme start="20261126131000 +0000" stop="20261126141000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Topical Issues Live</title>
 </programme>
-<programme start="20261126140000 +0000" stop="20261126145000 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261126141000 +0000" stop="20261126145000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Live - Joint Committee on Key Issues affecting the Traveller Community</title>
 </programme>
-<programme start="20261126145000 +0000" stop="20261126171500 +0000" channel="Oireachtas_TV.virginmediatv">
+<programme start="20261126145000 +0000" stop="20261126153000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Live: Dáil Statements</title>
 </programme>
-<programme start="20261126171500 +0000" stop="20261126193000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Dáil Éireann - Dáil Éireann Motion</title>
+<programme start="20261126153000 +0000" stop="20261126180000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Live - Joint Committee on Health</title>
 </programme>
 <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="Discovery_HD.virginmediatv">
     <title>Deadliest Catch - Breaking Point</title>
