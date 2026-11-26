@@ -617,8 +617,6 @@
     <title lang="en">Innovation Nation (Ulangan)</title>
     <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.18.</episode-num>
-    <episode-num system="onscreen">S1E19</episode-num>
   </programme>
   <programme start="20261125160000 +0000" stop="20261125163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -629,50 +627,36 @@
     <title lang="en">Kasih Malisa (Ulangan)</title>
     <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20261125173000 +0000" stop="20261125180000 +0000" channel="tv1.unifitv">
     <title lang="en">Diari Borneo (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog yang memaparkan tentang tiga segmen iaitu Tradisi Borneo, Rahsia Borneo dan Resipi Borneo.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.2.</episode-num>
-    <episode-num system="onscreen">S1E3</episode-num>
   </programme>
   <programme start="20261125180000 +0000" stop="20261125190000 +0000" channel="tv1.unifitv">
     <title lang="en">Isteri Untuk Diiktiraf (Ulangan)</title>
     <desc lang="en">Sebuah drama bersiri berkisar kekeluargaan lakonan Elvina Mohamad, Redza Rosli, Dayana Roza, Janna Nick, Shiela Rusly, Shah Jazle.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.16.</episode-num>
-    <episode-num system="onscreen">S1E17</episode-num>
   </programme>
   <programme start="20261125190000 +0000" stop="20261125193000 +0000" channel="tv1.unifitv">
     <title lang="en">Pelikpedia (Ulangan)</title>
     <desc lang="en">Sebuah majalah travelog yang memaparkan keunikan dan kepelikan sesuatu tempat.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261125193000 +0000" stop="20261125203000 +0000" channel="tv1.unifitv">
     <title lang="en">Amanat Wasiat Sumayyah (Ulangan)</title>
     <desc lang="en">Sumayyah dan Hamzah berkahwin dan tinggal bersama ibubapa Sumayyah. Sumayyah adalah anak tiri pada Dato' Nasir. Arwah ayah Sumayyah telah mewasiatkan padanya mencari pakcik Amiruddin. Sumayyah cuba mencari pakcik Amiruddin walaupun mendapat bantahan dari ibu dan suaminya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.7.</episode-num>
-    <episode-num system="onscreen">S1E8</episode-num>
   </programme>
   <programme start="20261125203000 +0000" stop="20261125210000 +0000" channel="tv1.unifitv">
     <title lang="en">Kronologi Si Penjual Roti (Ulangan)</title>
     <desc lang="en">Saksikan drama lakonan Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Eunos Madeonos, Yana Alyahya, Shera Aiyob, Azhan Rani, Azizah Mahzan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261125210000 +0000" stop="20261125213500 +0000" channel="tv1.unifitv">
     <title lang="en">Solusi Alam (Ulangan)</title>
     <desc lang="en">Bersama pengacara mencari khazanah alam dan melihat khasiat dan impak tumbuhan semula jadi dalam dunia kesihatan moden.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
   </programme>
   <programme start="20261125213500 +0000" stop="20261125220200 +0000" channel="tv1.unifitv">
     <title lang="en">Surah Al-Mulk (2026)</title>
@@ -680,7 +664,7 @@
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261125220200 +0000" stop="20261125230000 +0000" channel="tv1.unifitv">
-    <title lang="en">Fikrah 2026</title>
+    <title lang="en">Fikrah 2026 (Ulangan)</title>
     <desc lang="en">Bersama pengacara dan tetamu undangan membincangkan isu-isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -699,18 +683,15 @@
     <desc lang="en">Bersama-sama pengacara membincangkan isu-isu terkini dalam Selamat Pagi Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261126020000 +0000" stop="20261126040000 +0000" channel="tv1.unifitv">
-    <title lang="en">Langsung Dari Parlimen</title>
+  <programme start="20261126020000 +0000" stop="20261126040500 +0000" channel="tv1.unifitv">
+    <title lang="en">LANGSUNG DARI PARLIMEN</title>
     <desc lang="en">Ikuti Mesyuarat Ketiga, Penggal Kelima, Parlimen Malaysia ke-15. Siaran Langsung Dewan Rakyat pada 05 Oktober 2026 hingga 08 Disember 2026 dan Dewan Negara pada 30 November 2026 hingga 22 Disember 2026.</desc>
     <category lang="en">Drama</category>
   </programme>
-  <programme start="20261126040000 +0000" stop="20261126050000 +0000" channel="tv1.unifitv">
-    <title lang="en">Help! We Bought A Village</title>
-    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hamper runtuh, sambil meniup nafas baharu ke dalam perkampungan
-terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
+  <programme start="20261126040500 +0000" stop="20261126050000 +0000" channel="tv1.unifitv">
+    <title lang="en">Help! We Bought A Village (Ulangan)</title>
+    <desc lang="en">Dokumentari tentang warga Britain yang berani kini giat memulihkan penempatan terbiar yang hampir runtuh, sambil meniup nafas baharu ke dalam perkampungan terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20261126050000 +0000" stop="20261126053000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH HARI</title>
@@ -718,22 +699,14 @@ terpencil, dusun, borgo, dan cortijo di luar negara.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126053000 +0000" stop="20261126063000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kasih Malisa</title>
-    <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.
-
-Pelakon : Zara Zya, Fizz Fairuz, Qazem Nor, Zarina Zainoordin, Shakilla Khoriri, Zachery Francis, Roy Azman, Watie Sadali, Lydiawati dan Ridzuan Hashim.</desc>
+    <title lang="en">Kasih Malisa (Ulangan)</title>
+    <desc lang="en">Malisa, seorang wanita baik hati, lembut namun tegas yang datang ke Kuala Lumpur untuk bekerja. Di tempat kerja, dia berkenalan dengan Salmi, Faridah, Adib dan Azman, namun kehadirannya pada awalnya tidak disenangi Faridah. Pelbagai konflik, suka duka dan pengalaman dilalui Malisa bersama rakan-rakan baharunya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.20.</episode-num>
-    <episode-num system="onscreen">S1E21</episode-num>
   </programme>
   <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="tv1.unifitv">
-    <title lang="en">Kronologi Si Penjual Roti</title>
-    <desc lang="en">Tiga generasi keluarga, Baba, Madi dan Budi, yang mewarisi kegiatan mencuri sehingga dikenali dan dibenci penduduk kampung. Sikap masyarakat yang  memulaukan mereka mencerminkan cabaran keluarga tersebut dalam kehidupan bermasyarakat.
-
-Pelakon : Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Sharifah Aryana, Azhan Rani, Sheira Aiyob, Azizah Mahzan.</desc>
+    <title lang="en">Kronologi Si Penjual Roti (Ulangan)</title>
+    <desc lang="en">Saksikan drama lakonan Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Eunos Madeonos, Yana Alyahya, Shera Aiyob, Azhan Rani, Azizah Mahzan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.9.</episode-num>
-    <episode-num system="onscreen">S1E10</episode-num>
   </programme>
   <programme start="20261126070000 +0000" stop="20261126070500 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : BERITA SEMASA</title>
@@ -741,7 +714,7 @@ Pelakon : Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Sharifah Aryana, Azha
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126070500 +0000" stop="20261126080000 +0000" channel="tv1.unifitv">
-    <title lang="en">Diari Rawat 2026</title>
+    <title lang="en">Diari Rawat 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perbincangan bersama pakar kesihatan dengan isu-isu kesihatan terkini dalam Diari Rawat.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -751,14 +724,12 @@ Pelakon : Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Sharifah Aryana, Azha
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126080500 +0000" stop="20261126083000 +0000" channel="tv1.unifitv">
-    <title lang="en">Ringgit &amp; Anda</title>
+    <title lang="en">Ringgit &amp; Anda (Ulangan)</title>
     <desc lang="en">Sebuah dokumentari yang memaparkan tips-tips pengurusan kewangan dalam kehidupan.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.17.</episode-num>
-    <episode-num system="onscreen">S1E18</episode-num>
   </programme>
   <programme start="20261126083000 +0000" stop="20261126090000 +0000" channel="tv1.unifitv">
-    <title lang="en">Biz Malaysia 2026</title>
+    <title lang="en">Biz Malaysia 2026 (Ulangan)</title>
     <desc lang="en">Saksikan perkembangan terkini dunia ekonomi Malaysia dalam Biz Malaysia.</desc>
     <category lang="en">Drama</category>
   </programme>
@@ -768,18 +739,14 @@ Pelakon : Zahiril Adzim, Mior Hashim Manaf, Yassin Salleh, Sharifah Aryana, Azha
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126100000 +0000" stop="20261126104500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dengarlah Dulu......</title>
+    <title lang="en">Dengarlah Dulu.. (Ulangan)</title>
     <desc lang="en">Dengarlah Dulu... ialah program bual bicara yang mengupas pelbagai isu kehidupan, kekeluargaan dan kemasyarakatan dari perspektif Islam. Dengan pendekatan santai dan penuh hikmah, program ini mengajak penonton memahami sesuatu perkara sebelum membuat penilaian atau keputusan.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126104500 +0000" stop="20261126114400 +0000" channel="tv1.unifitv">
-    <title lang="en">Amanat Wasiat Sumayyah</title>
-    <desc lang="en">Sumayyah yang berusaha menunaikan wasiat arwah ayahnya untuk mencari Pakcik Amiruddin, meskipun mendapat tentangan daripada ibu dan suaminya, Hamzah.
-
-Pelakon : Dayang Areeda, Hazman Al-Idrus, Arash Mohd, Shajiry, Liza Rafar, Lia Natalia, Farah Nadiah, Alif Hadi</desc>
+    <title lang="en">Amanat Wasiat Sumayyah (Ulangan)</title>
+    <desc lang="en">Sumayyah dan Hamzah berkahwin dan tinggal bersama ibubapa Sumayyah. Sumayyah adalah anak tiri pada Dato' Nasir. Arwah ayah Sumayyah telah mewasiatkan padanya mencari pakcik Amiruddin. Sumayyah cuba mencari pakcik Amiruddin walaupun mendapat bantahan dari ibu dan suaminya.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261126114400 +0000" stop="20261126120000 +0000" channel="tv1.unifitv">
     <title lang="en">LIVE : KANTA 744</title>
@@ -797,34 +764,29 @@ Pelakon : Dayang Areeda, Hazman Al-Idrus, Arash Mohd, Shajiry, Liza Rafar, Lia N
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126130000 +0000" stop="20261126140000 +0000" channel="tv1.unifitv">
-    <title lang="en">Siaran Langsung : Forum Perdana Ehwal Islam</title>
+    <title lang="en">LIVE : FORUM PERDANA EHWAL ISLAM</title>
     <desc lang="en">Ikuti perbincangan mengenai permasalahan berkaitan agama dan isu semasa.</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126140000 +0000" stop="20261126141500 +0000" channel="tv1.unifitv">
-    <title lang="en">Dunia 10</title>
-    <desc lang="en">Dunia 10</desc>
+    <title lang="en">DUNIA 10</title>
+    <desc lang="en">Berita Dunia</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126141500 +0000" stop="20261126143000 +0000" channel="tv1.unifitv">
-    <title lang="en">Promo/ PSA/ Kapsul</title>
-    <desc lang="en">Promo/ PSA/ Kapsul</desc>
+    <title lang="en">Promo / PSA / Kapsul</title>
+    <desc lang="en">Promo / PSA / Kapsul</desc>
     <category lang="en">Drama</category>
   </programme>
   <programme start="20261126143000 +0000" stop="20261126153000 +0000" channel="tv1.unifitv">
     <title lang="en">Skuad JPJ 2.0</title>
-    <desc lang="en">Mengisahkan sebuah drama bersiri yang memaparkan operasi Jabatan Pengangkutan Jalan (JPJ) dalam menjaga keamanan serta membanteras pelbagai bentuk jenayah.
-Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shahira dan Rashdan Baba.</desc>
+    <desc lang="en">Mengisahkan sebuah drama bersiri yang memaparkan operasi Jabatan Pengangkutan Jalan (JPJ) dalam menjaga keamanan serta membanteras pelbagai bentuk jenayah.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.8.</episode-num>
-    <episode-num system="onscreen">S1E9</episode-num>
   </programme>
   <programme start="20261126153000 +0000" stop="20261126160000 +0000" channel="tv1.unifitv">
-    <title lang="en">Innovation Nation</title>
-    <desc lang="en">Saksikan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan professional dan komersil.</desc>
+    <title lang="en">Innovation Nation (Ulangan)</title>
+    <desc lang="en">Rancangan majalah yang memaparkan pelbagai inovasi dan teknologi terkini dari serata dunia dalam penghasilan produk akhir bagi kegunaan profesional dan komersil.</desc>
     <category lang="en">Drama</category>
-    <episode-num system="xmltv_ns">0.19.</episode-num>
-    <episode-num system="onscreen">S1E20</episode-num>
   </programme>
   <programme start="20261126160000 +0000" stop="20261126163000 +0000" channel="tv1.unifitv">
     <title lang="en">BERITA TENGAH MALAM</title>
@@ -15709,24 +15671,29 @@ Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shah
     <desc lang="en">Catch all the highlights from the BWSL, the pinnacle of women's professional football in England.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261125160000 +0000" stop="20261125173000 +0000" channel="beinsports2.unifitv">
+  <programme start="20261125160000 +0000" stop="20261125170500 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Madrid P1 Day 2 Match 2</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261125173000 +0000" stop="20261125190000 +0000" channel="beinsports2.unifitv">
+  <programme start="20261125170500 +0000" stop="20261125181500 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Madrid P1 Day 2 Match 3</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261125190000 +0000" stop="20261125192500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">HSBC SVNS World Championships - South Africa vs Argentina - Cup Final, Hong Kong - Men</title>
-    <desc lang="en">Catch the action from the world's very best rugby sevens stars from the top tier of a new three-division global Sevens model, from sunrise to sunset.</desc>
+  <programme start="20261125181500 +0000" stop="20261125193500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel - Madrid P1 Day 2 Match 6</title>
+    <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261125192500 +0000" stop="20261125195500 +0000" channel="beinsports2.unifitv">
-    <title lang="en">This Is Paris - Episode Number 12</title>
-    <desc lang="en">An exclusive weekly look behind the scenes at French superclub, Paris Saint-Germain.</desc>
+  <programme start="20261125193500 +0000" stop="20261125194500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - Dubai P1 Women</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261125194500 +0000" stop="20261125195500 +0000" channel="beinsports2.unifitv">
+    <title lang="en">Premier Padel Match Highlights - Dubai P1 Men</title>
+    <desc lang="en">Men &amp; Women's Final Match Highlights from Premier Padel Tour 2026</desc>
     <category lang="en">Sports</category>
   </programme>
   <programme start="20261125195500 +0000" stop="20261125220000 +0000" channel="beinsports2.unifitv">
@@ -15814,7 +15781,7 @@ Pelakon: Aliff Aziz, Trisha Ooi, Amyza Aznan, Meor Mohd, Sugeindhiran, Erin Shah
     <desc lang="en">Catch every PSG match from Ligue 1 and Coupe de France amongst others only on beIN Sports</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126173000 +0000" channel="beinsports2.unifitv">
+  <programme start="20261126160000 +0000" stop="20261126171500 +0000" channel="beinsports2.unifitv">
     <title lang="en">Premier Padel - Madrid P1 Day 2 Match 4</title>
     <desc lang="en">The official global Padel tour. Catch world's top players battle it out across the globe.</desc>
     <category lang="en">Sports</category>

@@ -3005,7 +3005,7 @@
     <title>History: Pinochet In Chile</title>
 </programme>
 <programme start="20261126033000 +0000" stop="20261126040000 +0000" channel="DW English.mncvision">
-    <title>Eco India: A Power Shift</title>
+    <title>Conflict Zone</title>
 </programme>
 <programme start="20261126040000 +0000" stop="20261126040200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3035,7 +3035,7 @@
     <title>History: Pinochet In Chile</title>
 </programme>
 <programme start="20261126063000 +0000" stop="20261126070000 +0000" channel="DW English.mncvision">
-    <title>DocFilm</title>
+    <title>Conflict Zone</title>
 </programme>
 <programme start="20261126070000 +0000" stop="20261126070300 +0000" channel="DW English.mncvision">
     <title>DW News</title>
@@ -3047,10 +3047,10 @@
     <title>DW News</title>
 </programme>
 <programme start="20261126080200 +0000" stop="20261126083000 +0000" channel="DW English.mncvision">
-    <title>Made In Germany: Business</title>
+    <title>Made In Germany: Maritime</title>
 </programme>
 <programme start="20261126083000 +0000" stop="20261126090000 +0000" channel="DW English.mncvision">
-    <title>Focus On Europe: People</title>
+    <title>Conflict Zone</title>
 </programme>
 <programme start="20261126090000 +0000" stop="20261126090200 +0000" channel="DW English.mncvision">
     <title>DW News</title>
