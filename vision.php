@@ -634,14 +634,8 @@
 <programme start="20261127093000 +0000" stop="20261127104500 +0000" channel="ANTV.vision">
 <title>Suami Pengganti</title>
 </programme>
-<programme start="20261127104500 +0000" stop="20261127131500 +0000" channel="ANTV.vision">
-<title>Pandangan Pertama</title>
-</programme>
 <programme start="20261127131500 +0000" stop="20261127150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261127150000 +0000" stop="20261127170000 +0000" channel="ANTV.vision">
-<title>Kesempatan Dalam Kesempitan</title>
 </programme>
 <programme start="20261127170000 +0000" stop="20261127183000 +0000" channel="ANTV.vision">
 <title>Happy Ghost 4</title>
@@ -1450,23 +1444,11 @@
 <programme start="20261127090000 +0000" stop="20261127090300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>
-<programme start="20261127090300 +0000" stop="20261127093000 +0000" channel="TVRI.vision">
-<title>Kampung Vibes</title>
-</programme>
-<programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="TVRI.vision">
-<title>Pesona Indonesia</title>
-</programme>
 <programme start="20261127100000 +0000" stop="20261127100300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>
-<programme start="20261127100300 +0000" stop="20261127103000 +0000" channel="TVRI.vision">
-<title>Teras Istana</title>
-</programme>
 <programme start="20261127103000 +0000" stop="20261127113000 +0000" channel="TVRI.vision">
 <title>Berita Petang</title>
-</programme>
-<programme start="20261127113000 +0000" stop="20261127123000 +0000" channel="TVRI.vision">
-<title>Indonesia Bicara</title>
 </programme>
 <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
@@ -1497,4 +1479,22 @@
 </programme>
 <programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="TVRI.vision">
 <title>Jejak Islam</title>
+</programme>
+<programme start="20261127213000 +0000" stop="20261127230000 +0000" channel="TVRI.vision">
+<title>Serambi Islami</title>
+</programme>
+<programme start="20261127230000 +0000" stop="20261128000000 +0000" channel="TVRI.vision">
+<title>Berita Pagi</title>
+</programme>
+<programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="TVRI.vision">
+<title>Jendela Negeri</title>
+</programme>
+<programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="TVRI.vision">
+<title>Bikin Asik Aja</title>
+</programme>
+<programme start="20261128020000 +0000" stop="20261128020300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261128020300 +0000" stop="20261128023000 +0000" channel="TVRI.vision">
+<title>Bermain Matematika</title>
 </programme>

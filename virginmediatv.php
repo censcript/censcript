@@ -2803,20 +2803,14 @@
 <programme start="20261127030000 +0000" stop="20261127063000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Committees Replay</title>
 </programme>
-<programme start="20261127100000 +0000" stop="20261127121000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261127115000 +0000" stop="20261127135000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Artificial Intelligence</title>
 </programme>
-<programme start="20261127121000 +0000" stop="20261127142000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261127135000 +0000" stop="20261127153000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Justice, Home Affairs and Migration</title>
 </programme>
-<programme start="20261127142000 +0000" stop="20261127160000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
-</programme>
-<programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
-</programme>
-<programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="Oireachtas_TV.virginmediatv">
-    <title>Committees Replay</title>
+<programme start="20261127153000 +0000" stop="20261127170000 +0000" channel="Oireachtas_TV.virginmediatv">
+    <title>Joint Committee on Public Petitions and the Ombudsmen</title>
 </programme>
 <programme start="20261127170000 +0000" stop="20261127200000 +0000" channel="Oireachtas_TV.virginmediatv">
     <title>Topical Issues</title>
@@ -4040,7 +4034,7 @@
     <title>NFL Football - Pittsburgh Steelers at Cincinnati Bengals</title>
 </programme>
 <programme start="20261127051500 +0000" stop="20261127053000 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
-    <title>49 Hours</title>
+    <title>49 Hours - Episode 9</title>
 </programme>
 <programme start="20261127053000 +0000" stop="20261127054500 +0000" channel="Sky_Sports_Action_HD.virginmediatv">
     <title>NFL Football - Minnesota Vikings at Green Bay Packers</title>
@@ -4357,8 +4351,11 @@
 <programme start="20261127054500 +0000" stop="20261127060000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - 2021/22: Brentford v Manchester United</title>
 </programme>
-<programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="MUTV.virginmediatv">
-    <title>Match Day Review - UEFA Champions League: Sporting CP v Manchester United</title>
+<programme start="20261127120000 +0000" stop="20261127121500 +0000" channel="MUTV.virginmediatv">
+    <title>The United Archives - 2021/22: Brentford v Manchester United</title>
+</programme>
+<programme start="20261127121500 +0000" stop="20261127123000 +0000" channel="MUTV.virginmediatv">
+    <title>The United Archives - PL: United v Brentford 22/23</title>
 </programme>
 <programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Youth League Football - Highlights: Sporting CP U19 v Manchester United U19</title>
@@ -4378,14 +4375,20 @@
 <programme start="20261127141500 +0000" stop="20261127143000 +0000" channel="MUTV.virginmediatv">
     <title>The United Archives - PL: United v Brentford 22/23</title>
 </programme>
-<programme start="20261127143000 +0000" stop="20261127161500 +0000" channel="MUTV.virginmediatv">
-    <title>The United Archives - 2010/11: Manchester United v Blackburn Rovers</title>
+<programme start="20261127143000 +0000" stop="20261127151500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Nani</title>
+</programme>
+<programme start="20261127151500 +0000" stop="20261127153000 +0000" channel="MUTV.virginmediatv">
+    <title>Manager&#039;s Press Conference - Press Conference: Brentford (H)</title>
+</programme>
+<programme start="20261127153000 +0000" stop="20261127161500 +0000" channel="MUTV.virginmediatv">
+    <title>The Official United Podcast - Inside Carrington - Ander Herrera</title>
 </programme>
 <programme start="20261127161500 +0000" stop="20261127163000 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference - Press Conference: Brentford (H)</title>
 </programme>
 <programme start="20261127163000 +0000" stop="20261127170000 +0000" channel="MUTV.virginmediatv">
-    <title>UEFA Champions League Football - Highlights: Manchester United v Sabah FK</title>
+    <title>All the Goals - Nani</title>
 </programme>
 <programme start="20261127170000 +0000" stop="20261127173000 +0000" channel="MUTV.virginmediatv">
     <title>UEFA Champions League Football - Highlights: League Phase - Manchester United v AS Roma</title>
@@ -4928,7 +4931,7 @@
     <title>NFL Football - Pittsburgh Steelers at Cincinnati Bengals</title>
 </programme>
 <programme start="20261127051500 +0000" stop="20261127053000 +0000" channel="Sky_Sports_Action.virginmediatv">
-    <title>49 Hours</title>
+    <title>49 Hours - Episode 9</title>
 </programme>
 <programme start="20261127053000 +0000" stop="20261127054500 +0000" channel="Sky_Sports_Action.virginmediatv">
     <title>NFL Football - Minnesota Vikings at Green Bay Packers</title>
@@ -6172,7 +6175,7 @@
 <programme start="20261126185800 +0000" stop="20261127025800 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
-<programme start="20261127025800 +0000" stop="20261127060000 +0000" channel="CBBC.virginmediatv">
+<programme start="20261127025800 +0000" stop="20261127070000 +0000" channel="CBBC.virginmediatv">
     <title>This is CBBC!</title>
 </programme>
 <programme start="20261127115000 +0000" stop="20261127121500 +0000" channel="CBBC.virginmediatv">
