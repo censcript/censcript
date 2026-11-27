@@ -625,9 +625,6 @@
 <programme start="20261126230000 +0000" stop="20261127023000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20261127023000 +0000" stop="20261127060000 +0000" channel="ANTV.vision">
-<title>Sangdil Sanam</title>
-</programme>
 <programme start="20261127060000 +0000" stop="20261127073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -1426,14 +1423,8 @@
 <programme start="20261127000000 +0000" stop="20261127010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
 </programme>
-<programme start="20261127010000 +0000" stop="20261127020000 +0000" channel="TVRI.vision">
-<title>Women&#039;s Insight</title>
-</programme>
 <programme start="20261127020000 +0000" stop="20261127020300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
-</programme>
-<programme start="20261127020300 +0000" stop="20261127023000 +0000" channel="TVRI.vision">
-<title>Dapur Devina</title>
 </programme>
 <programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="TVRI.vision">
 <title>Mimbar Agama</title>
@@ -1449,12 +1440,6 @@
 </programme>
 <programme start="20261127040000 +0000" stop="20261127040300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
-</programme>
-<programme start="20261127040300 +0000" stop="20261127050000 +0000" channel="TVRI.vision">
-<title>Masjid Dunia</title>
-</programme>
-<programme start="20261127050000 +0000" stop="20261127060000 +0000" channel="TVRI.vision">
-<title>Salat Jumat</title>
 </programme>
 <programme start="20261127060000 +0000" stop="20261127070000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
@@ -1497,4 +1482,19 @@
 </programme>
 <programme start="20261127160000 +0000" stop="20261127170000 +0000" channel="TVRI.vision">
 <title>TVRI</title>
+</programme>
+<programme start="20261127170000 +0000" stop="20261127180000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261127180000 +0000" stop="20261127183000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261127183000 +0000" stop="20261127203000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261127203000 +0000" stop="20261127210000 +0000" channel="TVRI.vision">
+<title>Flashback</title>
+</programme>
+<programme start="20261127210000 +0000" stop="20261127213000 +0000" channel="TVRI.vision">
+<title>Jejak Islam</title>
 </programme>

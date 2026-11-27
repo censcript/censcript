@@ -168,60 +168,60 @@
     <title lang="id">Halo Selebriti</title>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261127000000 +0000" stop="20261127013000 +0000">
+  <programme channel="204" start="20261127000400 +0000" stop="20261127010300 +0000">
     <title lang="id">Pop Up!</title>
     <icon src="https://thumbor.prod.vidiocdn.com/9k86sZUUEiycDeNsxTnYjffGwLY=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5449833/5e442c.jpg"/>
   </programme>
-  <programme channel="204" start="20261127013000 +0000" stop="20261127030000 +0000">
+  <programme channel="204" start="20261127010300 +0000" stop="20261127025100 +0000">
     <title lang="id">FTV Pagi Spesial: Abang Sate Cintanya Mulai Dari Nol Ya Senin Harga Naik!</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/Buq8Q5o46x2Sk0WgAxal8eTaqt8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5448061/8ee9f7.jpg"/>
   </programme>
-  <programme channel="204" start="20261127030000 +0000" stop="20261127050000 +0000">
+  <programme channel="204" start="20261127025100 +0000" stop="20261127045300 +0000">
     <title lang="id">FTV Pagi: Plenger Plenger Gini Bisa Bikin Romantis</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/jYa_k2sBJn-hAf-ZE-hEcI3r0dE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5457855/f49b5e.jpg"/>
   </programme>
-  <programme channel="204" start="20261127050000 +0000" stop="20261127053000 +0000">
+  <programme channel="204" start="20261127045300 +0000" stop="20261127053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IGI8qDFSLfdIxthSscvzj-ea41s=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382359/6232e3.jpg"/>
   </programme>
-  <programme channel="204" start="20261127053000 +0000" stop="20261127101500 +0000">
+  <programme channel="204" start="20261127053000 +0000" stop="20261127102500 +0000">
     <title lang="id">Samudra Cinta</title>
     <desc lang="id">Kisah bermula di dalam rumah sederhana Rusdi dan Bi Lila melakukan kesalahan dalam hubungan yang terlarang kemudian melahirkan bayi mungil bernama Cinta. meskipun terlahir dari seorang wanita penghibur Cinta beruntung bertemu dengan Samudra yang tulus sayang kepadanya. Dibintangi oleh Rangga Azof, Mischa Chandrawinta, Dylan Car, Cut Syifa, Angela Gilsha, Ben Kasyafani, Haico Van der Veken, dan lain lainnya</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/v6ZwikDyh8-EszLqKHJ0b7pahsg=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/20630/5143d0.jpg"/>
   </programme>
-  <programme channel="204" start="20261127101500 +0000" stop="20261127123000 +0000">
+  <programme channel="204" start="20261127102500 +0000" stop="20261127122600 +0000">
     <title lang="id">Cinta Seluas Samudra</title>
     <desc lang="id">Sinetron Cinta Seluas Samudra bercerita tentang pernikahan palsu yang terpaksa dijalani Andrian dengan asisten rumah tangganya, Maya, demi menyelamatkan nama baik keluarga pasca-kaburnya sang pengantin asli, perlahan menumbuhkan cinta tulus yang diuji oleh intrik balas dendam. Saksikan setiap hari pukul 18.25 WIB.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nBaxpy4tDhEiaJcX2Xkh5UliRJ0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/413911/4472ed.jpg"/>
   </programme>
-  <programme channel="204" start="20261127123000 +0000" stop="20261127141500 +0000">
+  <programme channel="204" start="20261127122600 +0000" stop="20261127140700 +0000">
     <title lang="id">Wajah Cinta Yang Lain</title>
     <desc lang="id">Rasa sakit dan cinta di ingatakanku akan terus kekal. Dan Sekarang, cinta itu kembali dengan wajah yang lain..? Wajah Cinta Yang lain dibintangi oleh Dinda Kirana, Ibrahim Risyad, Oka Antara, Aulia Sarah, Andi Anissa, dan Andri Mashadi.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/62MNXKMdQpqbQQ2C05LyzIJuJsM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/410050/14e87b.jpg"/>
   </programme>
-  <programme channel="204" start="20261127141500 +0000" stop="20261127160000 +0000">
+  <programme channel="204" start="20261127140700 +0000" stop="20261127160500 +0000">
     <title lang="id">Kesetiaan</title>
     <desc lang="id">Nadya (ANGGIKA BOLSTERLI), seorang dosen sukses, telah menikah dengan Pram (OMAR DANIEL). Setelah Pram kehilangan pekerjaan dan berkali-kali gagal membangun bisnis karena insiden kecelakaan di masa lalu, Nadya menjadi tulang punggung keluarga. Merasa rendah diri, Pram berubah menjadi suami toxic yang suka merendahkan, mengontrol, dan selalu cemburu dengan istrinya, apalagi ada Aris (RIONALDO STOCKHORST) mantan pacar Nadya yang juga menjadi dosen di kampus, semakin membuat Pram menjadi insecure sebagai suami Nadya. Namun semua berubah ketika Nadya membawa Citra (KEYSHA ANGELICA), mahasiswinya yang sedang mengalami kesulitan hidup untuk tinggal di kostan milik Pram dan Nadya. Pram yang merasa minder dengan istrinya ternyata menemukan kenyamanan yang ia dambakan ketika bersama Citra??? Saksikan keseruan ceritanya dalam SINETRON TERBARU KESETIAAN</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/KVTJ-RPVh_sMukzpFnuK0Rk8JEo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/416099/f74fe5.jpg"/>
   </programme>
-  <programme channel="204" start="20261127160000 +0000" stop="20261127173000 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20261127160500 +0000" stop="20261127174500 +0000">
+    <title lang="id">FTV PRIMETIME : DEAR MAS LEON, I LOVE YOU SEKEBON</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261127160000 +0000" stop="20261127173000 +0000">
-    <title lang="id">FTV Primetime</title>
+  <programme channel="204" start="20261127160500 +0000" stop="20261127174500 +0000">
+    <title lang="id">FTV PRIMETIME : DEAR MAS LEON, I LOVE YOU SEKEBON</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261127173000 +0000" stop="20261127184500 +0000">
-    <title lang="id">FTV Utama</title>
+  <programme channel="204" start="20261127174500 +0000" stop="20261127190000 +0000">
+    <title lang="id">FTV UTAMA : MIE AYAM PEMANGGIL CINTA</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
   </programme>
-  <programme channel="204" start="20261127184500 +0000" stop="20261127200000 +0000">
+  <programme channel="204" start="20261127190000 +0000" stop="20261127200000 +0000">
     <title lang="id">Sinema Malam: Blogger Cinta Dan Backpacker</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
@@ -250,17 +250,17 @@
   </programme>
   <programme channel="204" start="20261128000000 +0000" stop="20261128013000 +0000">
     <title lang="id">Pop Up!</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/_1qnrLRM9afzmTtszVseMDC0qt4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5449834/648a91.jpg"/>
   </programme>
   <programme channel="204" start="20261128013000 +0000" stop="20261128030000 +0000">
     <title lang="id">FTV Pagi Spesial: Ratu Es Cintanya Bikin Shik Shak Shock</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/flwZTtNugSj-MJov44qWScA7SKo=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5448067/3828ee.jpg"/>
   </programme>
   <programme channel="204" start="20261128030000 +0000" stop="20261128050000 +0000">
     <title lang="id">FTV Pagi: Kebab Toping Rockerwati Cadas</title>
     <desc lang="id">Film televisi yang mengangkat kisah romantisme kehidupan dengan konflik yang menarik. Tayang setiap hari.</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/N99E8BD1OJ5vvymwPBj0c-BU5J4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-5ef966.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/JmJ3sL1RElV0ntYbyWgretHKsCM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5457856/eeb30d.jpg"/>
   </programme>
   <programme channel="204" start="20261128050000 +0000" stop="20261128053000 +0000">
     <title lang="id">Liputan 6 Siang</title>
@@ -680,17 +680,21 @@
     <desc lang="id">UNGKAP</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127013000 +0000" stop="20261127040000 +0000">
+  <programme channel="206" start="20261127013000 +0000" stop="20261127034500 +0000">
     <title lang="id">Kejurnas U19 2026 Putri (LIVE)</title>
     <desc lang="id">KEJURNAS U19 2026 PUTRI (LIVE)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127040000 +0000" stop="20261127063000 +0000">
+  <programme channel="206" start="20261127034500 +0000" stop="20261127040000 +0000">
+    <title lang="id">AVC Nation Cup 2026</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
+  </programme>
+  <programme channel="206" start="20261127040000 +0000" stop="20261127062200 +0000">
     <title lang="id">Tercyduk</title>
     <desc lang="id">TERCYDUK</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127063000 +0000" stop="20261127090000 +0000">
+  <programme channel="206" start="20261127062200 +0000" stop="20261127090000 +0000">
     <title lang="id">Kejurnas U19 2026 Putra (LIVE)</title>
     <desc lang="id">KEJURNAS U19 2026 PUTRA (LIVE)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -705,22 +709,20 @@
     <desc lang="id">KEJURNAS U19 2026 PUTRA (LIVE)</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127140000 +0000" stop="20261127155100 +0000">
-    <title lang="id">UEFA Champions League</title>
-    <desc lang="id">UEFA CHAMPIONS LEAGUE</desc>
+  <programme channel="206" start="20261127140000 +0000" stop="20261127160000 +0000">
+    <title lang="id">UEL: Olympiacos vs AC Milan</title>
+    <desc lang="id">UEL: Olympiacos vs AC Milan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127155100 +0000" stop="20261127175600 +0000">
-    <title lang="id">SEA V Cup 2026</title>
-    <desc lang="id">SEA V CUP 2026</desc>
+  <programme channel="206" start="20261127160000 +0000" stop="20261127180000 +0000">
+    <title lang="id">UEL: Juventus vs Omonia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127155100 +0000" stop="20261127175600 +0000">
-    <title lang="id">SEA V Cup 2026</title>
-    <desc lang="id">SEA V CUP 2026</desc>
+  <programme channel="206" start="20261127160000 +0000" stop="20261127180000 +0000">
+    <title lang="id">UEL: Juventus vs Omonia</title>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
   </programme>
-  <programme channel="206" start="20261127175600 +0000" stop="20261127195600 +0000">
+  <programme channel="206" start="20261127180000 +0000" stop="20261127195600 +0000">
     <title lang="id">SEA V Cup 2026</title>
     <desc lang="id">SEA V CUP 2026</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/NdmzqkxqnWVnlngtk_ObYNT-wiY=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a5bd3e.jpg"/>
@@ -1414,6 +1416,258 @@
     <title lang="id">Bioskop Trans TV</title>
     <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
   </programme>
+  <programme channel="733" start="20261129171500 +0000" stop="20261129220000 +0000">
+    <title lang="id">CNN Tech News</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261129220000 +0000" stop="20261129233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261129233000 +0000" stop="20261130003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/LSql61kXic5blvZVXV7p0QBjOD4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/549/92eb68.png"/>
+  </programme>
+  <programme channel="733" start="20261130003000 +0000" stop="20261130013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130013000 +0000" stop="20261130033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130033000 +0000" stop="20261130053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130053000 +0000" stop="20261130070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130070000 +0000" stop="20261130080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130080000 +0000" stop="20261130090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130090000 +0000" stop="20261130093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130093000 +0000" stop="20261130103000 +0000">
+    <title lang="id">Monitor Ketua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VfgJzcPGSjzhm5_W9J5h3gJsWeE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401852/bdb858.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130103000 +0000" stop="20261130114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261130114500 +0000" stop="20261130130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261130130000 +0000" stop="20261130150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261130150000 +0000" stop="20261130170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261130150000 +0000" stop="20261130170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261130170000 +0000" stop="20261130220000 +0000">
+    <title lang="id">CNN Indonesia Connected</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261130220000 +0000" stop="20261130233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261130233000 +0000" stop="20261201003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/LSql61kXic5blvZVXV7p0QBjOD4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/549/92eb68.png"/>
+  </programme>
+  <programme channel="733" start="20261201003000 +0000" stop="20261201013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201013000 +0000" stop="20261201033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201033000 +0000" stop="20261201053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201053000 +0000" stop="20261201070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201070000 +0000" stop="20261201080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201080000 +0000" stop="20261201090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201090000 +0000" stop="20261201093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201093000 +0000" stop="20261201103000 +0000">
+    <title lang="id">Monitor Ketua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VfgJzcPGSjzhm5_W9J5h3gJsWeE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401852/bdb858.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201103000 +0000" stop="20261201114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261201114500 +0000" stop="20261201130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261201130000 +0000" stop="20261201150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261201150000 +0000" stop="20261201170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261201150000 +0000" stop="20261201170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261201170000 +0000" stop="20261201220000 +0000">
+    <title lang="id">CNN Indonesia Connected</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261201220000 +0000" stop="20261201233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261201233000 +0000" stop="20261202003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/LSql61kXic5blvZVXV7p0QBjOD4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/549/92eb68.png"/>
+  </programme>
+  <programme channel="733" start="20261202003000 +0000" stop="20261202013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202013000 +0000" stop="20261202033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202033000 +0000" stop="20261202053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202053000 +0000" stop="20261202070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202070000 +0000" stop="20261202080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202080000 +0000" stop="20261202090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202090000 +0000" stop="20261202093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202093000 +0000" stop="20261202103000 +0000">
+    <title lang="id">Monitor Ketua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VfgJzcPGSjzhm5_W9J5h3gJsWeE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401852/bdb858.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202103000 +0000" stop="20261202114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261202114500 +0000" stop="20261202130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261202130000 +0000" stop="20261202150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261202150000 +0000" stop="20261202170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261202150000 +0000" stop="20261202170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261202170000 +0000" stop="20261202220000 +0000">
+    <title lang="id">CNN Indonesia Connected</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261202220000 +0000" stop="20261202233000 +0000">
+    <title lang="id">Islam Itu Indah</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/HBM2gVPFPe8KTgbUfPIW4MGE8Tw=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382639/f36c89.png"/>
+  </programme>
+  <programme channel="733" start="20261202233000 +0000" stop="20261203003000 +0000">
+    <title lang="id">Insert Pagi</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/LSql61kXic5blvZVXV7p0QBjOD4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/549/92eb68.png"/>
+  </programme>
+  <programme channel="733" start="20261203003000 +0000" stop="20261203013000 +0000">
+    <title lang="id">CNN Indonesia Good Morning</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203013000 +0000" stop="20261203033000 +0000">
+    <title lang="id">Pagi-Pagi Ambyar</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/BuoW2t4ytxc7nVhsAGw74Zyq5g8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/382642/ca36ba.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203033000 +0000" stop="20261203053000 +0000">
+    <title lang="id">Insert Siang</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203053000 +0000" stop="20261203070000 +0000">
+    <title lang="id">Brownis (Obrowlan Manis)</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/wzZes-mcERlA2YnSvHzdFRvzKQM=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390376/918919.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203070000 +0000" stop="20261203080000 +0000">
+    <title lang="id">Rumpi: No Secret</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/dkRv09QWkDuivnkBdH6V0aid5Go=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/390377/d43a93.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203080000 +0000" stop="20261203090000 +0000">
+    <title lang="id">Insert Today</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203090000 +0000" stop="20261203093000 +0000">
+    <title lang="id">CNN Indonesia News Update</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/eDxnkfbC9tu2_nK1bM0d9sAA8pc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-3836a5.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203093000 +0000" stop="20261203103000 +0000">
+    <title lang="id">Monitor Ketua</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/VfgJzcPGSjzhm5_W9J5h3gJsWeE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/401852/bdb858.jpg"/>
+  </programme>
+  <programme channel="733" start="20261203103000 +0000" stop="20261203114500 +0000">
+    <title lang="id">Bikin Laper</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/w3OIvSDWe1QFx_YzV0Azw_5zuJc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/537/282b15.png"/>
+  </programme>
+  <programme channel="733" start="20261203114500 +0000" stop="20261203130000 +0000">
+    <title lang="id">Insert Story</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/FMbqn0c-lX-Ktghj3f14jhSCCHs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/538/2d0442.png"/>
+  </programme>
+  <programme channel="733" start="20261203130000 +0000" stop="20261203150000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
+  <programme channel="733" start="20261203150000 +0000" stop="20261203170000 +0000">
+    <title lang="id">Bioskop Trans TV</title>
+    <icon src="https://thumbor.prod.vidiocdn.com/SC_eckbE3BOyQ_fqIHd_Ob8pKvU=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/543/94c2f3.png"/>
+  </programme>
   <programme channel="783" start="20261126163000 +0000" stop="20261126180000 +0000">
     <title lang="id">Kabar Petang</title>
     <icon src="https://thumbor.prod.vidiocdn.com/JWgue2FjyaENyWCb2DvD5dY5hM4=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/381756/f334d4.jpg"/>
@@ -1549,17 +1803,17 @@
     <desc lang="id">Radha Mohan</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/drsWhF9ueNK3aVHnzWZYhxDwvOs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/388099/2eb962.jpg"/>
   </programme>
-  <programme channel="782" start="20261127023000 +0000" stop="20261127060000 +0000">
+  <programme channel="782" start="20261127023000 +0000" stop="20261127054500 +0000">
     <title lang="id">Mega Bollywood : Sangdil Sanam</title>
     <desc lang="id">Mega Bollywood : Sangdil Sanam</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/C-0z7QHrwG1JP8dvnYMrPv1_KPs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5446825/378b0d.png"/>
   </programme>
-  <programme channel="782" start="20261127060000 +0000" stop="20261127073000 +0000">
+  <programme channel="782" start="20261127054500 +0000" stop="20261127072900 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
   </programme>
-  <programme channel="782" start="20261127073000 +0000" stop="20261127093000 +0000">
+  <programme channel="782" start="20261127072900 +0000" stop="20261127093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
@@ -1617,22 +1871,22 @@
   <programme channel="782" start="20261128003000 +0000" stop="20261128030000 +0000">
     <title lang="id">Mega Bollywood : Cirkus</title>
     <desc lang="id">Mega Bollywood : Cirkus</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/upUZhejqIuGeCClQhA2SbVhuTcI=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5446829/089e83.png"/>
   </programme>
   <programme channel="782" start="20261128030000 +0000" stop="20261128060000 +0000">
     <title lang="id">Mega Bollywood : Bas Itna Sa Khwaab Hai</title>
     <desc lang="id">Mega Bollywood : Bas Itna Sa Khwaab Hai</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/20tRQaK9Gps_wFQL5rY-XgRbrs4=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/782/antv-de8530.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/vzMk_WI-k72OSspBZAmKOvCjeYE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5446830/6ef1af.png"/>
   </programme>
   <programme channel="782" start="20261128060000 +0000" stop="20261128073000 +0000">
     <title lang="id">Jhanak</title>
     <desc lang="id">Jhanak</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/V5X923WuyZdmUslktroOY_CdRew=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/397344/2cce4f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/GK1AlYyymNtfTjaF6ZyLEtxJWfA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5446768/8d217f.jpg"/>
   </programme>
   <programme channel="782" start="20261128073000 +0000" stop="20261128093000 +0000">
     <title lang="id">Sayali</title>
     <desc lang="id">Sayali</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/g4OQ6Mrd2S6GtYakVcir8s89IXc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/406491/87abb1.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/6CgT8SzIc5tGI2mWI9PqREl2Yug=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5446775/0db1dd.jpg"/>
   </programme>
   <programme channel="782" start="20261128093000 +0000" stop="20261128104500 +0000">
     <title lang="id">Suami Pengganti</title>
@@ -3763,7 +4017,7 @@
   </programme>
   <programme channel="875" start="20261128040000 +0000" stop="20261128050500 +0000">
     <title lang="id">Suci</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/WF3_Z5GB2Z2YlHbrFpXxUiX93Xs=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/408082/7d14f5.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/25zRCtzZM2dG9VpU3rhUSPIbChE=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447729/5ef8e8.png"/>
   </programme>
   <programme channel="875" start="20261128050500 +0000" stop="20261128060000 +0000">
     <title lang="id">Resep Chef Devina</title>
@@ -3783,7 +4037,7 @@
   </programme>
   <programme channel="875" start="20261128100500 +0000" stop="20261128105500 +0000">
     <title lang="id">Md Teledrama: Marisol</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/iPFXZ7Xg3Cy-7pWDsK-PyOSaYMk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/tv_program/thumbnail/412375/1bdb1f.jpg"/>
+    <icon src="https://thumbor.prod.vidiocdn.com/Kx0dij8GIe2MtY7z8Lotmt3sN6c=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5447678/28437c.jpg"/>
   </programme>
   <programme channel="875" start="20261128105500 +0000" stop="20261128120000 +0000">
     <title lang="id">Md Teledrama: Cinta Paulina</title>
@@ -7670,25 +7924,15 @@
     <desc lang="id">Doncaster Rovers vs Huddersfield Town</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
   </programme>
-  <programme channel="6685" start="20261127150000 +0000" stop="20261127170000 +0000">
-    <title lang="id">WINNER QF1 V WINNER QF2 : [LIVE] DAVIS CUP 2026</title>
-    <desc lang="id">WINNER QF1 V WINNER QF2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20261127150000 +0000" stop="20261127210000 +0000">
+    <title lang="id">Italy vs Czechia - Semifinal | Davis Cup by Generali Final 8 2026</title>
+    <desc lang="id">Mampukah pasukan tuan rumah mengusir Jiri Lehecka dkk?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xCsoj1gHOlZV_hU0Sm3JHeSadgA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5458192/225ebf.png"/>
   </programme>
-  <programme channel="6685" start="20261127150000 +0000" stop="20261127170000 +0000">
-    <title lang="id">WINNER QF1 V WINNER QF2 : [LIVE] DAVIS CUP 2026</title>
-    <desc lang="id">WINNER QF1 V WINNER QF2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20261127170000 +0000" stop="20261127190000 +0000">
-    <title lang="id">WINNER QF1 V WINNER QF2 : [LIVE] DAVIS CUP 2026</title>
-    <desc lang="id">WINNER QF1 V WINNER QF2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
-  </programme>
-  <programme channel="6685" start="20261127190000 +0000" stop="20261127210000 +0000">
-    <title lang="id">WINNER QF1 V WINNER QF2 : [LIVE] DAVIS CUP 2026</title>
-    <desc lang="id">WINNER QF1 V WINNER QF2</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20261127150000 +0000" stop="20261127210000 +0000">
+    <title lang="id">Italy vs Czechia - Semifinal | Davis Cup by Generali Final 8 2026</title>
+    <desc lang="id">Mampukah pasukan tuan rumah mengusir Jiri Lehecka dkk?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/xCsoj1gHOlZV_hU0Sm3JHeSadgA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5458192/225ebf.png"/>
   </programme>
   <programme channel="6685" start="20261127210000 +0000" stop="20261127213000 +0000">
     <title lang="id">Highlight - Matchday 11 : Ligue 1 Prancis 2026/27</title>
@@ -7769,10 +8013,10 @@
     <desc lang="id">Sanggupkah Go Ahead Eagles meredam keganasan lini serang PSV?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/SOEFve3jAWT8SmAL4wolPWBOG_U=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5457864/ae15b1.jpg"/>
   </programme>
-  <programme channel="6685" start="20261128194500 +0000" stop="20261128215000 +0000">
-    <title lang="id">Nice vs Troyes : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">Nice vs Troyes</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/edoqRinFCRhrRwQ2ngcXacb_q74=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-54e282.jpg"/>
+  <programme channel="6685" start="20261128194500 +0000" stop="20261128214500 +0000">
+    <title lang="id">OGC Nice vs Troyes - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru OGC Nice vs Troyes - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/Voc97a0wt11JzLhnLZ-WqO1jlUk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5458309/42c7e9.jpg"/>
   </programme>
   <programme channel="6685" start="20261128215000 +0000" stop="20261128220000 +0000">
     <title lang="id">Filler</title>
@@ -8036,14 +8280,10 @@
     <title lang="id">Filler Ligue 1</title>
     <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
   </programme>
-  <programme channel="9182" start="20261128194000 +0000" stop="20261128214000 +0000">
-    <title lang="id">PSG vs Lorient : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">PSG vs LORIENT</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
-  </programme>
-  <programme channel="9182" start="20261128214000 +0000" stop="20261128220000 +0000">
-    <title lang="id">Filler Ligue 1</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/IL9iR4zOR2RhBXo3fgRZEI0eA8k=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-829fa0.png"/>
+  <programme channel="9182" start="20261128194500 +0000" stop="20261128214500 +0000">
+    <title lang="id">PSG vs FC Lorient - Ligue 1</title>
+    <desc lang="id">Mampukah PSG mempertahankan intensitas tekanan hingga peluit akhir berbunyi?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/DyL1-AuiMHKMM3DGwckCaQaGZ4E=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5458310/90f9b8.jpg"/>
   </programme>
   <programme channel="9182" start="20261128220000 +0000" stop="20261128230000 +0000">
     <title lang="id">Matchweek 12 : Team Talks 2026/27</title>
@@ -8610,24 +8850,25 @@
     <desc lang="id">LAZIO vs LECCE</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
-  <programme channel="6786" start="20261126180000 +0000" stop="20261126213000 +0000">
+  <programme channel="6786" start="20261126180000 +0000" stop="20261126213500 +0000">
     <title lang="id">NFL Thanksgiving: Chicago Bears vs Detroit Lions - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru NFL Thanksgiving: Chicago Bears vs Detroit Lions - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/kl87NnTCftCR9uMZvzRERoa7XWk=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5457723/8ffbb7.jpg"/>
   </programme>
-  <programme channel="6786" start="20261126213000 +0000" stop="20261127010000 +0000">
+  <programme channel="6786" start="20261126213500 +0000" stop="20261127014500 +0000">
     <title lang="id">NFL Thanksgiving: Philadelphia Eagles vs Dallas Cowboys - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru NFL Thanksgiving: Philadelphia Eagles vs Dallas Cowboys - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/5ozJmu5yoa9y7Dl8VW0Qbuwv1Tc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5457722/c9bc2d.jpg"/>
   </programme>
-  <programme channel="6786" start="20261127010000 +0000" stop="20261127010500 +0000">
-    <title lang="id">Filler NFL</title>
-    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
-  </programme>
-  <programme channel="6786" start="20261127012000 +0000" stop="20261127045000 +0000">
+  <programme channel="6786" start="20261127014500 +0000" stop="20261127043600 +0000">
     <title lang="id">NFL Thanksgiving: Kansas City Chiefs vs Buffalo Bills - NFL</title>
     <desc lang="id">Nonton streaming pertandingan seru NFL Thanksgiving: Kansas City Chiefs vs Buffalo Bills - NFL. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/HaQp1XbdoSbcNJFwV_gzSSL8bng=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5457724/6e41d7.jpg"/>
+  </programme>
+  <programme channel="6786" start="20261127043600 +0000" stop="20261127063000 +0000">
+    <title lang="id">NAPOLI vs TORINO : Serie A 2026/27</title>
+    <desc lang="id">NAPOLI vs TORINO</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/nY0aFklpYf6yONLaFJjxhiSuthc=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg"/>
   </programme>
   <programme channel="6786" start="20261127063000 +0000" stop="20261127083000 +0000">
     <title lang="id">COMO vs CAGLIARI : Serie A 2026/27</title>
@@ -9037,7 +9278,7 @@
   </programme>
   <programme channel="17875" start="20261128200000 +0000" stop="20261128220000 +0000">
     <title lang="id">Real Madrid vs Alaves - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru Real Madrid vs Alaves - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah low block disiplin Alaves meredam progresi bola Real Madrid?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/EqcRc0VX7ArwybjThcgBTY1evw0=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5450027/8356b0.jpg"/>
   </programme>
   <programme channel="17875" start="20261128220000 +0000" stop="20261129040000 +0000">
@@ -9157,12 +9398,12 @@
   </programme>
   <programme channel="17875" start="20261129151500 +0000" stop="20261129171500 +0000">
     <title lang="id">RC Deportivo vs Barcelona - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru RC Deportivo vs Barcelona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah RC Deportivo meredam gempuran serangan sayap Barcelona di kandang sendiri?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/g9t0A5J85dL54TtK12P75jmuDe8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5450030/a5fd90.jpg"/>
   </programme>
   <programme channel="17875" start="20261129151500 +0000" stop="20261129171500 +0000">
     <title lang="id">RC Deportivo vs Barcelona - LaLiga</title>
-    <desc lang="id">Nonton streaming pertandingan seru RC Deportivo vs Barcelona - LaLiga. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <desc lang="id">Mampukah RC Deportivo meredam gempuran serangan sayap Barcelona di kandang sendiri?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/g9t0A5J85dL54TtK12P75jmuDe8=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5450030/a5fd90.jpg"/>
   </programme>
   <programme channel="17875" start="20261129172500 +0000" stop="20261129194000 +0000">
@@ -9493,10 +9734,10 @@
     <title lang="id">Filler Ligue 1 2026/27</title>
     <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
   </programme>
-  <programme channel="6686" start="20261128194000 +0000" stop="20261128214500 +0000">
-    <title lang="id">Le Havre vs Strasbourg : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">LE HAVRE vs STRASBOURG</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/xgkik6iws0EJ01bi5cJsIjYWjOM=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-681a27.jpg"/>
+  <programme channel="6686" start="20261128194500 +0000" stop="20261128214500 +0000">
+    <title lang="id">Havre AC vs Strasbourg - Ligue 1</title>
+    <desc lang="id">Nonton streaming pertandingan seru Havre AC vs Strasbourg - Ligue 1. Saksikan aksi-aksi terbaik dari tim yang bersaing ketat untuk meraih kemenangan. Dapatkan informasi lengkap mengenai jadwal pertandingan dan hasil pertandingan terbaru hanya di Vidio.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/SZSJ6Lqi4twhjFr2KH417aZxxvc=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5458308/53fce9.jpg"/>
   </programme>
   <programme channel="6686" start="20261128214500 +0000" stop="20261128220000 +0000">
     <title lang="id">Filler Ligue 1 2026/27</title>
@@ -9762,10 +10003,10 @@
     <title lang="id">Filler</title>
     <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
   </programme>
-  <programme channel="9183" start="20261128194000 +0000" stop="20261128215000 +0000">
-    <title lang="id">Le Mans vs LOSC : [LIVE] Ligue 1 Prancis 2026/27</title>
-    <desc lang="id">Le Mans vs LOSC</desc>
-    <icon src="https://thumbor.prod.vidiocdn.com/nlnibO0uAP7jbvzqilD2waGzXjs=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-646d1e.png"/>
+  <programme channel="9183" start="20261128194500 +0000" stop="20261128214500 +0000">
+    <title lang="id">Le Mans vs Lille - Ligue 1</title>
+    <desc lang="id">Mampukah pertahanan rapat Le Mans meredam agresivitas serangan Lille sepanjang laga?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/-RvfOPhhVyisce4F_WvpLvTUJtA=/287x162/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5458311/24173a.jpg"/>
   </programme>
   <programme channel="9183" start="20261128215000 +0000" stop="20261128220000 +0000">
     <title lang="id">Filler</title>
@@ -17993,8 +18234,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127073000 +0000" stop="20261127080000 +0000">
-    <title lang="id">Special Program</title>
-    <desc lang="id">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="id">Road Infrastructure Health Check</title>
+    <desc lang="id">Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive health checkups.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127080000 +0000" stop="20261127083000 +0000">
@@ -18004,7 +18245,7 @@
   </programme>
   <programme channel="7968" start="20261127083000 +0000" stop="20261127090000 +0000">
     <title lang="id">Document 72 Hours</title>
-    <desc lang="id">Stay in one location for 72 hours, catching glimpses into people's lives as they open up and share.</desc>
+    <desc lang="id">Locals have slurped down bowls of noodles at a 24-hour ramen restaurant in Fukuoka for five decades. For three days, we asked customers why this simple ramen is more than just a cheap meal.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127090000 +0000" stop="20261127093000 +0000">
@@ -18014,7 +18255,7 @@
   </programme>
   <programme channel="7968" start="20261127093000 +0000" stop="20261127100000 +0000">
     <title lang="id">Japan Railway Journal</title>
-    <desc lang="id">Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <desc lang="id">Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127100000 +0000" stop="20261127103000 +0000">
@@ -18023,8 +18264,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127103000 +0000" stop="20261127110000 +0000">
-    <title lang="id">Japan In Focus</title>
-    <desc lang="id">Dive into Japan's current social landscape through a wide range of topics including initiatives tackling global challenges, domestic issues and emerging trends.</desc>
+    <title lang="id">Every Second Counts</title>
+    <desc lang="id">Operating helicopters, members of ARROWS (Airborne Rescue &amp; Relief Operations With Search) race around Japan to provide emergency support following major disasters.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127110000 +0000" stop="20261127112800 +0000">
@@ -18034,17 +18275,17 @@
   </programme>
   <programme channel="7968" start="20261127112800 +0000" stop="20261127114300 +0000">
     <title lang="id">Direct Talk</title>
-    <desc lang="id">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="id">Sakanishi Miiku won the Best New Narrative Director Award in the International Narrative Competition at the 2026 Tribeca Festival. He talks about his film Memorizu and his thoughts on filmmaking.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127114300 +0000" stop="20261127115500 +0000">
-    <title lang="id">Impacts</title>
-    <desc lang="id">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="id">Impacts: Climates Change The World</title>
+    <desc lang="id">The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127115500 +0000" stop="20261127120000 +0000">
     <title lang="id">Chatroom Japan</title>
-    <desc lang="id">Chatroom Japan puts a spotlight on our diverse international community. We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc lang="id">Passang Lama Bhotia fell in love with Mt. Fuji as a child in Nepal. After becoming a Himalayan mountain guide, he came to Japan and now works on the mountain he dreamed of, guiding foreign tourists.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127120000 +0000" stop="20261127123000 +0000">
@@ -18054,7 +18295,7 @@
   </programme>
   <programme channel="7968" start="20261127123000 +0000" stop="20261127130000 +0000">
     <title lang="id">Asia Insight</title>
-    <desc lang="id">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="id">As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's knights as they race through the city in search of a better future.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127130000 +0000" stop="20261127133000 +0000">
@@ -18063,8 +18304,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127133000 +0000" stop="20261127140000 +0000">
-    <title lang="id">Special Program</title>
-    <desc lang="id">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="id">Road Infrastructure Health Check</title>
+    <desc lang="id">Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive health checkups.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127140000 +0000" stop="20261127143000 +0000">
@@ -18074,7 +18315,7 @@
   </programme>
   <programme channel="7968" start="20261127143000 +0000" stop="20261127150000 +0000">
     <title lang="id">Design X Stories</title>
-    <desc lang="id">Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="id">Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127150000 +0000" stop="20261127153000 +0000">
@@ -18083,8 +18324,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127153000 +0000" stop="20261127160000 +0000">
-    <title lang="id">Japan In Focus</title>
-    <desc lang="id">Dive into Japan's current social landscape through a wide range of topics including initiatives tackling global challenges, domestic issues and emerging trends.</desc>
+    <title lang="id">Every Second Counts</title>
+    <desc lang="id">Operating helicopters, members of ARROWS (Airborne Rescue &amp; Relief Operations With Search) race around Japan to provide emergency support following major disasters.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127160000 +0000" stop="20261127163000 +0000">
@@ -18094,12 +18335,12 @@
   </programme>
   <programme channel="7968" start="20261127163000 +0000" stop="20261127170000 +0000">
     <title lang="id">Frontrunners</title>
-    <desc lang="id">FRONTRUNNERS highlights professionals at the very forefront of their field. We showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+    <desc lang="id">Ohno-Matsui Kyoko is an expert in high myopia-severe nearsightedness. She runs the world's first specialized clinic, and pushes the boundaries of diagnosis and treatment.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127163000 +0000" stop="20261127170000 +0000">
     <title lang="id">Frontrunners</title>
-    <desc lang="id">FRONTRUNNERS highlights professionals at the very forefront of their field. We showcase their amazing work, discover their motivations, and learn about the challenges they face in the future.</desc>
+    <desc lang="id">Ohno-Matsui Kyoko is an expert in high myopia-severe nearsightedness. She runs the world's first specialized clinic, and pushes the boundaries of diagnosis and treatment.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127170000 +0000" stop="20261127173000 +0000">
@@ -18109,7 +18350,7 @@
   </programme>
   <programme channel="7968" start="20261127173000 +0000" stop="20261127180000 +0000">
     <title lang="id">Asia Insight</title>
-    <desc lang="id">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="id">As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's knights as they race through the city in search of a better future.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127180000 +0000" stop="20261127182800 +0000">
@@ -18119,27 +18360,27 @@
   </programme>
   <programme channel="7968" start="20261127182800 +0000" stop="20261127184300 +0000">
     <title lang="id">Direct Talk</title>
-    <desc lang="id">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="id">Sakanishi Miiku won the Best New Narrative Director Award in the International Narrative Competition at the 2026 Tribeca Festival. He talks about his film Memorizu and his thoughts on filmmaking.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127184300 +0000" stop="20261127185500 +0000">
-    <title lang="id">Impacts</title>
-    <desc lang="id">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="id">Impacts: Climates Change The World</title>
+    <desc lang="id">The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127185500 +0000" stop="20261127190000 +0000">
-    <title lang="id">Ukiyoe Edo-Life</title>
-    <desc lang="id">Centuries ago, Tokyo was known as EDO. More than a million people enjoyed life in this city, they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore the soul of old Tokyo.</desc>
+    <title lang="id">Ukiyoe Edo-Life: At Roben Falls</title>
+    <desc lang="id">We journey to a sacred mountain where pilgrims are purifying themselves in a waterfall before moving on. Some of them have even brought along offerings. And it turns out they have something to prove.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127190000 +0000" stop="20261127193000 +0000">
-    <title lang="id">Medical Frontiers</title>
-    <desc lang="id">From prevention to cure! The groundbreaking world of Japanese medical technology and healthcare. For your healthy lifestyle, this program shows tips of superfoods and easy exercises.</desc>
+    <title lang="id">Medical Frontiers 2026</title>
+    <desc lang="id">Every minute counts in ischemic stroke care. Japanese researchers are developing a drug that could extend the treatment window from 4.5 to 12 hours. We also introduce stroke prevention indicator.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127193000 +0000" stop="20261127200000 +0000">
-    <title lang="id">Special Program</title>
-    <desc lang="id">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="id">Road Infrastructure Health Check</title>
+    <desc lang="id">Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive health checkups.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127200000 +0000" stop="20261127203000 +0000">
@@ -18149,7 +18390,7 @@
   </programme>
   <programme channel="7968" start="20261127203000 +0000" stop="20261127210000 +0000">
     <title lang="id">Design X Stories</title>
-    <desc lang="id">Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="id">Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127210000 +0000" stop="20261127213000 +0000">
@@ -18158,8 +18399,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127213000 +0000" stop="20261127220000 +0000">
-    <title lang="id">Japan In Focus</title>
-    <desc lang="id">Dive into Japan's current social landscape through a wide range of topics including initiatives tackling global challenges, domestic issues and emerging trends.</desc>
+    <title lang="id">Every Second Counts</title>
+    <desc lang="id">Operating helicopters, members of ARROWS (Airborne Rescue &amp; Relief Operations With Search) race around Japan to provide emergency support following major disasters.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127220000 +0000" stop="20261127223000 +0000">
@@ -18169,7 +18410,7 @@
   </programme>
   <programme channel="7968" start="20261127223000 +0000" stop="20261127230000 +0000">
     <title lang="id">Asia Insight</title>
-    <desc lang="id">An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+    <desc lang="id">As China's economy slows, the last refuge for the millions of unemployed is to become food delivery riders. We follow Beijing's knights as they race through the city in search of a better future.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127230000 +0000" stop="20261127231000 +0000">
@@ -18179,17 +18420,17 @@
   </programme>
   <programme channel="7968" start="20261127231000 +0000" stop="20261127231500 +0000">
     <title lang="id">Chatroom Japan</title>
-    <desc lang="id">Chatroom Japan puts a spotlight on our diverse international community. We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc lang="id">Passang Lama Bhotia fell in love with Mt. Fuji as a child in Nepal. After becoming a Himalayan mountain guide, he came to Japan and now works on the mountain he dreamed of, guiding foreign tourists.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127231500 +0000" stop="20261127233000 +0000">
     <title lang="id">Japan'S Top Inventions</title>
-    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time:</desc>
+    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time: tofu snack bars</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261127233000 +0000" stop="20261128000000 +0000">
     <title lang="id">Japanology Plus</title>
-    <desc lang="id">Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974. Each time, Peter himself discovers something new about Japan.</desc>
+    <desc lang="id">The number of bookstores in Japan is decreasing, but both major chains and independent stores are finding creative ways to attract book lovers. We look at the next chapter for Japan's bookstores.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128000000 +0000" stop="20261128001000 +0000">
@@ -18199,7 +18440,7 @@
   </programme>
   <programme channel="7968" start="20261128001000 +0000" stop="20261128010000 +0000">
     <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="id">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128010000 +0000" stop="20261128011000 +0000">
@@ -18207,9 +18448,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128011000 +0000" stop="20261128020000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261128011000 +0000" stop="20261128015500 +0000">
+    <title lang="id">Voyagers Of Japan</title>
+    <desc lang="id">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128015500 +0000" stop="20261128020000 +0000">
+    <title lang="id">Japan Delish 5Min.</title>
+    <desc lang="id">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128020000 +0000" stop="20261128021000 +0000">
@@ -18217,9 +18463,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128021000 +0000" stop="20261128030000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  <programme channel="7968" start="20261128021000 +0000" stop="20261128025500 +0000">
+    <title lang="id">The Professionals</title>
+    <desc lang="id">Koreeda Hirokazu, acclaimed director of Shoplifters, Nobody Knows and Monster, returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128025500 +0000" stop="20261128030000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Dashimaki Omelet. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128030000 +0000" stop="20261128031000 +0000">
@@ -18229,12 +18480,17 @@
   </programme>
   <programme channel="7968" start="20261128031000 +0000" stop="20261128034000 +0000">
     <title lang="id">Design X Stories</title>
-    <desc lang="id">Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="id">Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128034000 +0000" stop="20261128040000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261128034000 +0000" stop="20261128035000 +0000">
+    <title lang="id">U&amp;I</title>
+    <desc lang="id">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128035000 +0000" stop="20261128040000 +0000">
+    <title lang="id">Viewpoint Science</title>
+    <desc lang="id">The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128040000 +0000" stop="20261128041000 +0000">
@@ -18242,9 +18498,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128041000 +0000" stop="20261128050000 +0000">
-    <title lang="id">Time And Tide</title>
-    <desc lang="id">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="7968" start="20261128041000 +0000" stop="20261128044000 +0000">
+    <title lang="id">History Uncovered</title>
+    <desc lang="id">Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128044000 +0000" stop="20261128050000 +0000">
+    <title lang="id">My Street Piano</title>
+    <desc lang="id">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128050000 +0000" stop="20261128051000 +0000">
@@ -18254,17 +18515,17 @@
   </programme>
   <programme channel="7968" start="20261128051000 +0000" stop="20261128052500 +0000">
     <title lang="id">Bosai</title>
-    <desc lang="id">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128052500 +0000" stop="20261128053000 +0000">
-    <title lang="id">Design Musium Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="id">Design Museum Japan</title>
+    <desc lang="id">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128053000 +0000" stop="20261128060000 +0000">
     <title lang="id">Kabuki Kool</title>
-    <desc lang="id">Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="id">Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128060000 +0000" stop="20261128061000 +0000">
@@ -18274,7 +18535,7 @@
   </programme>
   <programme channel="7968" start="20261128061000 +0000" stop="20261128070000 +0000">
     <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="id">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128070000 +0000" stop="20261128071000 +0000">
@@ -18282,9 +18543,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128071000 +0000" stop="20261128080000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261128071000 +0000" stop="20261128075500 +0000">
+    <title lang="id">Voyagers Of Japan</title>
+    <desc lang="id">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128075500 +0000" stop="20261128080000 +0000">
+    <title lang="id">Japan Delish 5Min.</title>
+    <desc lang="id">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128080000 +0000" stop="20261128081000 +0000">
@@ -18292,9 +18558,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128081000 +0000" stop="20261128090000 +0000">
-    <title lang="id">Time And Tide</title>
-    <desc lang="id">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="7968" start="20261128081000 +0000" stop="20261128084000 +0000">
+    <title lang="id">History Uncovered</title>
+    <desc lang="id">Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128084000 +0000" stop="20261128090000 +0000">
+    <title lang="id">My Street Piano</title>
+    <desc lang="id">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128090000 +0000" stop="20261128091000 +0000">
@@ -18304,12 +18575,17 @@
   </programme>
   <programme channel="7968" start="20261128091000 +0000" stop="20261128094000 +0000">
     <title lang="id">Design X Stories</title>
-    <desc lang="id">Crafts, fashion, products, buildings, and food: explore a diverse range of Japanese designs and the ideas and values of their creators. Our presenters visit designers at work to reveal new stories.</desc>
+    <desc lang="id">Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128094000 +0000" stop="20261128100000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261128094000 +0000" stop="20261128095000 +0000">
+    <title lang="id">U&amp;I</title>
+    <desc lang="id">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128095000 +0000" stop="20261128100000 +0000">
+    <title lang="id">Viewpoint Science</title>
+    <desc lang="id">The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128100000 +0000" stop="20261128101000 +0000">
@@ -18317,9 +18593,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128101000 +0000" stop="20261128110000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  <programme channel="7968" start="20261128101000 +0000" stop="20261128105500 +0000">
+    <title lang="id">The Professionals</title>
+    <desc lang="id">Koreeda Hirokazu, acclaimed director of Shoplifters, Nobody Knows and Monster, returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128105500 +0000" stop="20261128110000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Dashimaki Omelet. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128110000 +0000" stop="20261128111000 +0000">
@@ -18329,17 +18610,17 @@
   </programme>
   <programme channel="7968" start="20261128111000 +0000" stop="20261128112500 +0000">
     <title lang="id">Bosai</title>
-    <desc lang="id">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128112500 +0000" stop="20261128113000 +0000">
     <title lang="id">Design Museum Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="id">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128113000 +0000" stop="20261128120000 +0000">
     <title lang="id">Kabuki Kool</title>
-    <desc lang="id">Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="id">Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128120000 +0000" stop="20261128121000 +0000">
@@ -18349,7 +18630,7 @@
   </programme>
   <programme channel="7968" start="20261128121000 +0000" stop="20261128130000 +0000">
     <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="id">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128130000 +0000" stop="20261128131000 +0000">
@@ -18357,9 +18638,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128131000 +0000" stop="20261128140000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261128131000 +0000" stop="20261128135500 +0000">
+    <title lang="id">Voyagers Of Japan</title>
+    <desc lang="id">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128135500 +0000" stop="20261128140000 +0000">
+    <title lang="id">Japan Delish 5Min.</title>
+    <desc lang="id">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128140000 +0000" stop="20261128141000 +0000">
@@ -18369,7 +18655,7 @@
   </programme>
   <programme channel="7968" start="20261128141000 +0000" stop="20261128143500 +0000">
     <title lang="id">Darwin'S Amazing Animals</title>
-    <desc lang="id">A natural history show that's a huge hit with families in Japan has gone global! The series explores the amazing and delightful stories of animals all around the world, including Japan.</desc>
+    <desc lang="id">In Part 5 of our series, the Darwin team track 3 male lions on separate paths toward their destinies. Brawls, injury and trust-building are some of the rites of passage in any quest for the throne.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128143500 +0000" stop="20261128144000 +0000">
@@ -18377,9 +18663,14 @@
     <desc lang="id">Kamikochi is a beautiful mountainous region in Nagano Prefecture that's 1,500m above sea level. With a mirror-like pond and rime ice, see the frozen beauty of Kamikochi through time-lapse photography.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128144000 +0000" stop="20261128150000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261128144000 +0000" stop="20261128145000 +0000">
+    <title lang="id">U&amp;I</title>
+    <desc lang="id">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128145000 +0000" stop="20261128150000 +0000">
+    <title lang="id">Viewpoint Science</title>
+    <desc lang="id">The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128150000 +0000" stop="20261128151000 +0000">
@@ -18387,9 +18678,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128151000 +0000" stop="20261128160000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  <programme channel="7968" start="20261128151000 +0000" stop="20261128155500 +0000">
+    <title lang="id">The Professionals</title>
+    <desc lang="id">Koreeda Hirokazu, acclaimed director of Shoplifters, Nobody Knows and Monster, returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128155500 +0000" stop="20261128160000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Dashimaki Omelet. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128160000 +0000" stop="20261128161000 +0000">
@@ -18397,14 +18693,19 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128161000 +0000" stop="20261128170000 +0000">
-    <title lang="id">Time And Tide</title>
-    <desc lang="id">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="7968" start="20261128161000 +0000" stop="20261128164000 +0000">
+    <title lang="id">History Uncovered</title>
+    <desc lang="id">Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128161000 +0000" stop="20261128170000 +0000">
-    <title lang="id">Time And Tide</title>
-    <desc lang="id">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="7968" start="20261128164000 +0000" stop="20261128170000 +0000">
+    <title lang="id">My Street Piano</title>
+    <desc lang="id">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128164000 +0000" stop="20261128170000 +0000">
+    <title lang="id">My Street Piano</title>
+    <desc lang="id">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128170000 +0000" stop="20261128171000 +0000">
@@ -18414,17 +18715,17 @@
   </programme>
   <programme channel="7968" start="20261128171000 +0000" stop="20261128172500 +0000">
     <title lang="id">Bosai</title>
-    <desc lang="id">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128172500 +0000" stop="20261128173000 +0000">
     <title lang="id">Design Museum Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="id">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128173000 +0000" stop="20261128180000 +0000">
     <title lang="id">Kabuki Kool</title>
-    <desc lang="id">Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="id">Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128180000 +0000" stop="20261128181000 +0000">
@@ -18434,7 +18735,7 @@
   </programme>
   <programme channel="7968" start="20261128181000 +0000" stop="20261128190000 +0000">
     <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="id">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128190000 +0000" stop="20261128191000 +0000">
@@ -18442,9 +18743,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128191000 +0000" stop="20261128200000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261128191000 +0000" stop="20261128195500 +0000">
+    <title lang="id">Voyagers Of Japan</title>
+    <desc lang="id">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128195500 +0000" stop="20261128200000 +0000">
+    <title lang="id">Japan Delish 5Min.</title>
+    <desc lang="id">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128200000 +0000" stop="20261128201000 +0000">
@@ -18454,7 +18760,7 @@
   </programme>
   <programme channel="7968" start="20261128201000 +0000" stop="20261128203500 +0000">
     <title lang="id">Darwin'S Amazing Animals</title>
-    <desc lang="id">A natural history show that's a huge hit with families in Japan has gone global! The series explores the amazing and delightful stories of animals all around the world, including Japan.</desc>
+    <desc lang="id">In Part 5 of our series, the Darwin team track 3 male lions on separate paths toward their destinies. Brawls, injury and trust-building are some of the rites of passage in any quest for the throne.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128203500 +0000" stop="20261128204000 +0000">
@@ -18462,9 +18768,14 @@
     <desc lang="id">Kamikochi is a beautiful mountainous region in Nagano Prefecture that's 1,500m above sea level. With a mirror-like pond and rime ice, see the frozen beauty of Kamikochi through time-lapse photography.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128204000 +0000" stop="20261128210000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261128204000 +0000" stop="20261128205000 +0000">
+    <title lang="id">U&amp;I</title>
+    <desc lang="id">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128205000 +0000" stop="20261128210000 +0000">
+    <title lang="id">Viewpoint Science</title>
+    <desc lang="id">The proactive science education program which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128210000 +0000" stop="20261128211000 +0000">
@@ -18472,9 +18783,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128211000 +0000" stop="20261128220000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+  <programme channel="7968" start="20261128211000 +0000" stop="20261128215500 +0000">
+    <title lang="id">The Professionals</title>
+    <desc lang="id">Koreeda Hirokazu, acclaimed director of Shoplifters, Nobody Knows and Monster, returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128215500 +0000" stop="20261128220000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Dashimaki Omelet. Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128220000 +0000" stop="20261128221000 +0000">
@@ -18482,9 +18798,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261128221000 +0000" stop="20261128230000 +0000">
-    <title lang="id">Time And Tide</title>
-    <desc lang="id">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK WORLD-JAPAN on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme channel="7968" start="20261128221000 +0000" stop="20261128224000 +0000">
+    <title lang="id">History Uncovered</title>
+    <desc lang="id">Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261128224000 +0000" stop="20261128230000 +0000">
+    <title lang="id">My Street Piano</title>
+    <desc lang="id">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128230000 +0000" stop="20261128231000 +0000">
@@ -18494,22 +18815,22 @@
   </programme>
   <programme channel="7968" start="20261128231000 +0000" stop="20261128232500 +0000">
     <title lang="id">Bosai</title>
-    <desc lang="id">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128232500 +0000" stop="20261128233000 +0000">
     <title lang="id">Design Museum Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="id">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261128233000 +0000" stop="20261129000000 +0000">
     <title lang="id">Kabuki Kool</title>
-    <desc lang="id">Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="id">Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129000000 +0000" stop="20261129010000 +0000">
-    <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="id">Documentary360</title>
+    <desc lang="id">Chronicling Yayoi Kusama at the launch of her world tour, we explore masterpieces on show in Madrid, hear from collectors, and join conversations with fellow artists. Originally aired in 2011.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129010000 +0000" stop="20261129011000 +0000">
@@ -18517,9 +18838,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129011000 +0000" stop="20261129020000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261129011000 +0000" stop="20261129015500 +0000">
+    <title lang="id">Demolition Kingdom</title>
+    <desc lang="id">In Shizuoka Prefecture stands a wooden Catholic church built in 1935. Thought to be the work of shipbuilders, and was loved by locals. Can it be dismantled without damaging a single piece?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129015500 +0000" stop="20261129020000 +0000">
+    <title lang="id">Ramen Japan 5Min.</title>
+    <desc lang="id">Enjoy a hot helping of ramen in Asahikawa, the coldest town in Japan! College kids give their all to a summer of ramen.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129020000 +0000" stop="20261129021000 +0000">
@@ -18528,23 +18854,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129021000 +0000" stop="20261129024000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Tiny Desk Concerts Japan</title>
+    <desc lang="id">ROTH BART BARON, the globally acclaimed folk rock band helmed by Mifune Masaya, is based in Tokyo and Berlin and renowned for their distinct sound. The group brings a one-of-a-kind performance to tdcJ</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129024000 +0000" stop="20261129025000 +0000">
     <title lang="id">Little Charo</title>
-    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home.</desc>
+    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home. Season 2-12.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129025000 +0000" stop="20261129025500 +0000">
     <title lang="id">Japanology Plus Mini</title>
-    <desc lang="id">Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of Japanology Plus.)</desc>
+    <desc lang="id">Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129025500 +0000" stop="20261129030000 +0000">
-    <title lang="id">A Cat'S Eye View Of Japan</title>
-    <desc lang="id">On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <title lang="id">A Cat'S-Eye View Of Japan</title>
+    <desc lang="id">We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129030000 +0000" stop="20261129031000 +0000">
@@ -18554,12 +18880,17 @@
   </programme>
   <programme channel="7968" start="20261129031000 +0000" stop="20261129034000 +0000">
     <title lang="id">Anime Manga Explosion</title>
-    <desc lang="id">ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc lang="id">Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129034000 +0000" stop="20261129040000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261129034000 +0000" stop="20261129035000 +0000">
+    <title lang="id">I Love 'Mee'</title>
+    <desc lang="id">Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a Bedwetting Counselor, Mee learns that physical growth varies from person to person...</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129035000 +0000" stop="20261129040000 +0000">
+    <title lang="id">Design Ah Neo: Dimensions Special</title>
+    <desc lang="id">Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A Dimensions special episode.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129040000 +0000" stop="20261129041000 +0000">
@@ -18569,7 +18900,7 @@
   </programme>
   <programme channel="7968" start="20261129041000 +0000" stop="20261129050000 +0000">
     <title lang="id">Somewhere Street</title>
-    <desc lang="id">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="id">San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a magical town, it was voted the World's Most Popular City by a U.S. travel magazine.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129050000 +0000" stop="20261129051000 +0000">
@@ -18578,23 +18909,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129051000 +0000" stop="20261129052500 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Rice In Japan</title>
+    <desc lang="id">Discover the rice breeders in Fukui, who spent 10 years developing a new variety! Enjoy Fukui's delicious local dishes with freshly cooked rice!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129052500 +0000" stop="20261129053000 +0000">
-    <title lang="id">Core Kyoto Mini.</title>
-    <desc lang="id">The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title lang="id">Core Kyoto Mini</title>
+    <desc lang="id">Elegant and practical, braided cords are essential for kimono and other aspects of everyday life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129053000 +0000" stop="20261129054500 +0000">
     <title lang="id">Easy Japanese For Work</title>
-    <desc lang="id">Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc lang="id">The second in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129054500 +0000" stop="20261129060000 +0000">
     <title lang="id">Zero Waste Life</title>
-    <desc lang="id">Meet people around Japan who strive for a life without waste under the traditional philosophy of MOTTAINAI, which values cherishing the things we have.</desc>
+    <desc lang="id">Artisan Takezawa Mutsumi's workshop lies at the foot of a mountain west of Tokyo. She makes pieces using leather from animals culled as pests, hides usually thrown away, but she gives them new life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129060000 +0000" stop="20261129061000 +0000">
@@ -18603,8 +18934,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129061000 +0000" stop="20261129070000 +0000">
-    <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="id">Elderly Cardboard Collectors</title>
+    <desc lang="id">South Korea's birthrate is falling and its population is aging.Amidst the country's struggling social security system, some elderly people in Seoul collect recyclable materials to survive.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129070000 +0000" stop="20261129071000 +0000">
@@ -18612,9 +18943,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129071000 +0000" stop="20261129080000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261129071000 +0000" stop="20261129075500 +0000">
+    <title lang="id">Demolition Kingdom</title>
+    <desc lang="id">In Shizuoka Prefecture stands a wooden Catholic church built in 1935. Thought to be the work of shipbuilders, and was loved by locals. Can it be dismantled without damaging a single piece?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129075500 +0000" stop="20261129080000 +0000">
+    <title lang="id">Ramen Japan 5Min.</title>
+    <desc lang="id">Enjoy a hot helping of ramen in Asahikawa, the coldest town in Japan! College kids give their all to a summer of ramen.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129080000 +0000" stop="20261129081000 +0000">
@@ -18624,7 +18960,7 @@
   </programme>
   <programme channel="7968" start="20261129081000 +0000" stop="20261129090000 +0000">
     <title lang="id">Somewhere Street</title>
-    <desc lang="id">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="id">San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a magical town, it was voted the World's Most Popular City by a U.S. travel magazine.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129090000 +0000" stop="20261129091000 +0000">
@@ -18634,12 +18970,17 @@
   </programme>
   <programme channel="7968" start="20261129091000 +0000" stop="20261129094000 +0000">
     <title lang="id">Anime Manga Explosion</title>
-    <desc lang="id">ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc lang="id">Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129094000 +0000" stop="20261129100000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261129094000 +0000" stop="20261129095000 +0000">
+    <title lang="id">I Love 'Mee'</title>
+    <desc lang="id">Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a Bedwetting Counselor, Mee learns that physical growth varies from person to person...</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129095000 +0000" stop="20261129100000 +0000">
+    <title lang="id">Design Ah Neo: Dimensions Special</title>
+    <desc lang="id">Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A Dimensions special episode.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129100000 +0000" stop="20261129101000 +0000">
@@ -18648,23 +18989,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129101000 +0000" stop="20261129104000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Tiny Desk Concerts Japan Miura Daichi</title>
+    <desc lang="id">Miura Daichi appears on tiny desk concerts.Known for his remarkable vocal ability and expressive performance style,For this session, he is joined by an 18-member gospel choir in powerful ensemble.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129104000 +0000" stop="20261129105000 +0000">
     <title lang="id">Little Charo</title>
-    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home.</desc>
+    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home. Season 2-12.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129105000 +0000" stop="20261129105500 +0000">
     <title lang="id">Japanology Plus Mini</title>
-    <desc lang="id">Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of Japanology Plus.)</desc>
+    <desc lang="id">Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129105500 +0000" stop="20261129110000 +0000">
     <title lang="id">A Cat'S-Eye View Of Japan</title>
-    <desc lang="id">On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <desc lang="id">We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129110000 +0000" stop="20261129111000 +0000">
@@ -18673,23 +19014,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129111000 +0000" stop="20261129112500 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Rice In Japan</title>
+    <desc lang="id">Discover the rice breeders in Fukui, who spent 10 years developing a new variety! Enjoy Fukui's delicious local dishes with freshly cooked rice!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129112500 +0000" stop="20261129113000 +0000">
-    <title lang="id">Core Kyoto Mini.</title>
-    <desc lang="id">The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title lang="id">Core Kyoto Mini</title>
+    <desc lang="id">Elegant and practical, braided cords are essential for kimono and other aspects of everyday life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129113000 +0000" stop="20261129114500 +0000">
     <title lang="id">Easy Japanese For Work</title>
-    <desc lang="id">Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc lang="id">The second in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129114500 +0000" stop="20261129120000 +0000">
     <title lang="id">Zero Waste Life</title>
-    <desc lang="id">Meet people around Japan who strive for a life without waste under the traditional philosophy of MOTTAINAI, which values cherishing the things we have.</desc>
+    <desc lang="id">Artisan Takezawa Mutsumi's workshop lies at the foot of a mountain west of Tokyo. She makes pieces using leather from animals culled as pests, hides usually thrown away, but she gives them new life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129120000 +0000" stop="20261129121000 +0000">
@@ -18698,8 +19039,8 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129121000 +0000" stop="20261129130000 +0000">
-    <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="id">Elderly Cardboard Collectors</title>
+    <desc lang="id">South Korea's birthrate is falling and its population is aging.Amidst the country's struggling social security system, some elderly people in Seoul collect recyclable materials to survive.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129130000 +0000" stop="20261129131000 +0000">
@@ -18707,9 +19048,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129131000 +0000" stop="20261129140000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261129131000 +0000" stop="20261129135500 +0000">
+    <title lang="id">Demolition Kingdom</title>
+    <desc lang="id">In Shizuoka Prefecture stands a wooden Catholic church built in 1935. Thought to be the work of shipbuilders, and was loved by locals. Can it be dismantled without damaging a single piece?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129135500 +0000" stop="20261129140000 +0000">
+    <title lang="id">Ramen Japan 5Min.</title>
+    <desc lang="id">Enjoy a hot helping of ramen in Asahikawa, the coldest town in Japan! College kids give their all to a summer of ramen.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129140000 +0000" stop="20261129141000 +0000">
@@ -18719,12 +19065,17 @@
   </programme>
   <programme channel="7968" start="20261129141000 +0000" stop="20261129144000 +0000">
     <title lang="id">Anime Manga Explosion</title>
-    <desc lang="id">ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc lang="id">Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129144000 +0000" stop="20261129150000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261129144000 +0000" stop="20261129145000 +0000">
+    <title lang="id">I Love 'Mee'</title>
+    <desc lang="id">Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a Bedwetting Counselor, Mee learns that physical growth varies from person to person...</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129145000 +0000" stop="20261129150000 +0000">
+    <title lang="id">Design Ah Neo: Dimensions Special</title>
+    <desc lang="id">Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A Dimensions special episode.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129150000 +0000" stop="20261129151000 +0000">
@@ -18733,23 +19084,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129151000 +0000" stop="20261129154000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Tiny Dek Concerts Japan</title>
+    <desc lang="id">This tiny desk concerts JAPAN features producer and beatmaker STUTS, a leading figure in Japan's hip-hop scene.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129154000 +0000" stop="20261129155000 +0000">
     <title lang="id">Little Charo</title>
-    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home.</desc>
+    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home. Season 2-12.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129155000 +0000" stop="20261129155500 +0000">
     <title lang="id">Japanology Plus Mini</title>
-    <desc lang="id">Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of Japanology Plus.)</desc>
+    <desc lang="id">Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129155500 +0000" stop="20261129160000 +0000">
     <title lang="id">A Cat'S-Eye View Of Japan</title>
-    <desc lang="id">On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <desc lang="id">We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129160000 +0000" stop="20261129161000 +0000">
@@ -18759,12 +19110,12 @@
   </programme>
   <programme channel="7968" start="20261129161000 +0000" stop="20261129170000 +0000">
     <title lang="id">Somewhere Street</title>
-    <desc lang="id">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="id">San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a magical town, it was voted the World's Most Popular City by a U.S. travel magazine.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129161000 +0000" stop="20261129170000 +0000">
     <title lang="id">Somewhere Street</title>
-    <desc lang="id">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="id">San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a magical town, it was voted the World's Most Popular City by a U.S. travel magazine.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129170000 +0000" stop="20261129171000 +0000">
@@ -18773,28 +19124,28 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129171000 +0000" stop="20261129172500 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Rice In Japan</title>
+    <desc lang="id">Discover the rice breeders in Fukui, who spent 10 years developing a new variety! Enjoy Fukui's delicious local dishes with freshly cooked rice!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129172500 +0000" stop="20261129173000 +0000">
-    <title lang="id">Core Kyoto Mini.</title>
-    <desc lang="id">The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title lang="id">Core Kyoto Mini</title>
+    <desc lang="id">Elegant and practical, braided cords are essential for kimono and other aspects of everyday life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129173000 +0000" stop="20261129174500 +0000">
     <title lang="id">Easy Japanese For Work</title>
-    <desc lang="id">Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc lang="id">The second in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129174500 +0000" stop="20261129180000 +0000">
     <title lang="id">Zero Waste Life</title>
-    <desc lang="id">Meet people around Japan who strive for a life without waste under the traditional philosophy of MOTTAINAI, which values cherishing the things we have.</desc>
+    <desc lang="id">Artisan Takezawa Mutsumi's workshop lies at the foot of a mountain west of Tokyo. She makes pieces using leather from animals culled as pests, hides usually thrown away, but she gives them new life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129180000 +0000" stop="20261129190000 +0000">
-    <title lang="id">Documentary 360</title>
-    <desc lang="id">NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <title lang="id">Documentary360</title>
+    <desc lang="id">Chronicling Yayoi Kusama at the launch of her world tour, we explore masterpieces on show in Madrid, hear from collectors, and join conversations with fellow artists. Originally aired in 2011.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129190000 +0000" stop="20261129191000 +0000">
@@ -18802,9 +19153,9 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129191000 +0000" stop="20261129200000 +0000">
-    <title lang="id">NHK World Showcase</title>
-    <desc lang="id">NHK WORLD SHOWCASE covers a variety of genres, including special features and pilot episodes of newly-developed programs.</desc>
+  <programme channel="7968" start="20261129191000 +0000" stop="20261129194000 +0000">
+    <title lang="id">Demolition Kingdom</title>
+    <desc lang="id">In Shizuoka Prefecture stands a wooden Catholic church built in 1935. Thought to be the work of shipbuilders, and was loved by locals. Can it be dismantled without damaging a single piece?</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129200000 +0000" stop="20261129201000 +0000">
@@ -18814,12 +19165,17 @@
   </programme>
   <programme channel="7968" start="20261129201000 +0000" stop="20261129204000 +0000">
     <title lang="id">Anime Manga Explosion</title>
-    <desc lang="id">ANIME MANGA EXPLOSION features major Japanese anime and manga works that are highly recognized by international fans. Each episode explores the secrets of the works' popularity.</desc>
+    <desc lang="id">Discover how JoJo's Bizarre Adventure became anime, with stories from its early production. Then go behind the scenes of the latest series, STEEL BALL RUN, with 3DCG horse races and bold colors.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261129204000 +0000" stop="20261129210000 +0000">
-    <title lang="id">Kids Edutainment</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261129204000 +0000" stop="20261129205000 +0000">
+    <title lang="id">I Love 'Mee'</title>
+    <desc lang="id">Mee wets the bed even after making sure to go to the bathroom and not drink any water before bed. Through a Bedwetting Counselor, Mee learns that physical growth varies from person to person...</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261129205000 +0000" stop="20261129210000 +0000">
+    <title lang="id">Design Ah Neo: Dimensions Special</title>
+    <desc lang="id">Design is fun! Design feels good! Cutting-edge images and music guide children to enjoy exploring the ideas and tweaks in the designs all around us. A Dimensions special episode.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129210000 +0000" stop="20261129211000 +0000">
@@ -18828,23 +19184,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129211000 +0000" stop="20261129214000 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Tiny Desk Concerts Japan</title>
+    <desc lang="id">Miura Daichi appears on tiny desk concerts.Known for his remarkable vocal ability and expressive performance style,For this session, he is joined by an 18-member gospel choir in powerful ensemble.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129214000 +0000" stop="20261129215000 +0000">
     <title lang="id">Little Charo</title>
-    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home.</desc>
+    <desc lang="id">Little Charo is an animation series about a Japanese dog who got lost in NY. I want to see my owner again! Charo starts his adventure back home. Season 2-12.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129215000 +0000" stop="20261129215500 +0000">
     <title lang="id">Japanology Plus Mini</title>
-    <desc lang="id">Five-minute shows presenting the limitless, kaleidoscopic appeal of Japanese culture, traditions, and lifestyles in sushi-sized helpings. (Digest versions of Japanology Plus.)</desc>
+    <desc lang="id">Highly nutritious and increasingly popular overseas, natto is a traditional Japanese food linked to longevity. Now, there are even hopes that it could help solve environmental issues.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129215500 +0000" stop="20261129220000 +0000">
-    <title lang="id">A Cat'S Eye View Of Japan</title>
-    <desc lang="id">On this unique trip around Japan, discover the lesser-known charms and customs of regions through the eyes of cats! Filmed by wildlife photographer, Iwago Mitsuaki.</desc>
+    <title lang="id">A Cat'S-Eye View Of Japan</title>
+    <desc lang="id">We meet Kiiro, a cat who draws admirers whenever he goes out for a stroll. Children and adults alike gather to scratch his head. We also visit a beauty salon where a cat provides customer service!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129220000 +0000" stop="20261129221000 +0000">
@@ -18853,23 +19209,23 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129221000 +0000" stop="20261129222500 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Rice In Japan</title>
+    <desc lang="id">Discover the rice breeders in Fukui, who spent 10 years developing a new variety! Enjoy Fukui's delicious local dishes with freshly cooked rice!</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129222500 +0000" stop="20261129223000 +0000">
-    <title lang="id">Core Kyoto Mini.</title>
-    <desc lang="id">The timeless heart of Japan's ancient capital. Against its rich backdrop of culture and tradition, today's Kyoto continues to innovate and inspire.</desc>
+    <title lang="id">Core Kyoto Mini</title>
+    <desc lang="id">Elegant and practical, braided cords are essential for kimono and other aspects of everyday life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129223000 +0000" stop="20261129224500 +0000">
     <title lang="id">Easy Japanese For Work</title>
-    <desc lang="id">Accelerate your Japanese language skills! Learn practical, effective workplace expressions, understand business culture and improve your kanji.</desc>
+    <desc lang="id">The second in a special two-part EJW series. On Easy Japanese for Work, we've looked at many Japanese phrases that people use at work. Today, we review past phrases and learn keego through fun games.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129224500 +0000" stop="20261129230000 +0000">
     <title lang="id">Zero Waste Life</title>
-    <desc lang="id">Meet people around Japan who strive for a life without waste under the traditional philosophy of MOTTAINAI, which values cherishing the things we have.</desc>
+    <desc lang="id">Artisan Takezawa Mutsumi's workshop lies at the foot of a mountain west of Tokyo. She makes pieces using leather from animals culled as pests, hides usually thrown away, but she gives them new life.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261129230000 +0000" stop="20261129231000 +0000">
@@ -18879,7 +19235,7 @@
   </programme>
   <programme channel="7968" start="20261129231000 +0000" stop="20261130000000 +0000">
     <title lang="id">Somewhere Street</title>
-    <desc lang="id">A unique walking-eye view of cities around the globe! Chat to the locals and enjoy encounters that only strolling the streets can bring.</desc>
+    <desc lang="id">San Miguel de Allende sits in Mexico's central highlands at about 1,900 meters above sea level. Often called a magical town, it was voted the World's Most Popular City by a U.S. travel magazine.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130000000 +0000" stop="20261130001000 +0000">
@@ -18889,27 +19245,27 @@
   </programme>
   <programme channel="7968" start="20261130001000 +0000" stop="20261130001500 +0000">
     <title lang="id">Chatroom Japan</title>
-    <desc lang="id">Chatroom Japan puts a spotlight on our diverse international community. We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+    <desc lang="id">Passang Lama Bhotia fell in love with Mt. Fuji as a child in Nepal. After becoming a Himalayan mountain guide, he came to Japan and now works on the mountain he dreamed of, guiding foreign tourists.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130001500 +0000" stop="20261130002500 +0000">
-    <title lang="id">Impacts</title>
-    <desc lang="id">The entire Earth is affected by climate change, occurring with a greater speed and scale than ever before. This program uses scientific data and the latest findings to raise awareness on its impact.</desc>
+    <title lang="id">Impacts: Climates Change The World</title>
+    <desc lang="id">The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130002500 +0000" stop="20261130003000 +0000">
     <title lang="id">Design Museum Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="id">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130003000 +0000" stop="20261130005500 +0000">
     <title lang="id">The Factory Wonders</title>
-    <desc lang="id">Comedians Reiji and Tsuyoshi of the duo Nakagawake and Suchiko explore the many wonders of Japanese manufacturing. They learn about the latest technology and even try their hand at expert skills.</desc>
+    <desc lang="id">Join the team at a factory making various airlines' in-flight meals, where we meet chefs from around the world, and learn tricks forensuring meals are identically beautiful and don't spill in flight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130005500 +0000" stop="20261130010000 +0000">
-    <title lang="id">Time-Lapse Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="id">Yonezawa: A Gift From Melted Snow</title>
+    <desc lang="id">As snow melts in Yonezawa, it provides water used for growing rice. Beautiful time-lapse images show how a 400-year-old brewery turns this rice into sake, using human expertise instead of machines.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130010000 +0000" stop="20261130011000 +0000">
@@ -18919,27 +19275,27 @@
   </programme>
   <programme channel="7968" start="20261130011000 +0000" stop="20261130011500 +0000">
     <title lang="id">The Seasons Of Yamato</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="id">A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130011500 +0000" stop="20261130013000 +0000">
     <title lang="id">Bosai</title>
-    <desc lang="id">Japan has a long history of natural disasters. BOSAI explores how to overcome them and save lives with the power of science.</desc>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130013000 +0000" stop="20261130014000 +0000">
-    <title lang="id">Magical Japanese</title>
-    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history and culture. Explore the unique culture behind them.</desc>
+    <title lang="id">Magical Japanese House</title>
+    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to houses. Explore the unique culture behind them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130014000 +0000" stop="20261130014500 +0000">
     <title lang="id">Easy Japanese</title>
-    <desc lang="id">A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+    <desc lang="id">#1 Where is Haru-san House? / Learn how to ask about locations. If you want to know where something is, simply put wa doko desu ka after its name.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130014500 +0000" stop="20261130015500 +0000">
     <title lang="id">Culture Crossroads</title>
-    <desc lang="id">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="id">The fact that Japan is very dry in winter greatly increases the risk of fire. We learn tips for preventing fires occurring and how to respond effectively when a fire breaks out.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130015500 +0000" stop="20261130020000 +0000">
@@ -18964,7 +19320,7 @@
   </programme>
   <programme channel="7968" start="20261130033000 +0000" stop="20261130035500 +0000">
     <title lang="id">Darwin'S Amazing Animals</title>
-    <desc lang="id">A natural history show that's a huge hit with families in Japan has gone global! The series explores the amazing and delightful stories of animals all around the world, including Japan.</desc>
+    <desc lang="id">In Part 5 of our series, the Darwin team track 3 male lions on separate paths toward their destinies. Brawls, injury and trust-building are some of the rites of passage in any quest for the throne.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130035500 +0000" stop="20261130040000 +0000">
@@ -18977,9 +19333,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261130043000 +0000" stop="20261130050000 +0000">
+  <programme channel="7968" start="20261130043000 +0000" stop="20261130045700 +0000">
     <title lang="id">Hometown Stories</title>
-    <desc lang="id">Stories about people, stories about life. Intimate portraits of people from around Japan, each leading diverse lives while enriching lives of others.</desc>
+    <desc lang="id">After being diagnosed with leprosy as a teenager, Hiroshi was sent to live on an island far from his birthplace. Now, at age 90, he is free to travel and sharing his story with people across Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130045700 +0000" stop="20261130050000 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#47 How do you do it? / To ask how to do something, say doo yatte, meaning how, followed with a verb like suru, (to do), and then n desuka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130050000 +0000" stop="20261130053000 +0000">
@@ -18989,12 +19350,12 @@
   </programme>
   <programme channel="7968" start="20261130053000 +0000" stop="20261130055500 +0000">
     <title lang="id">The Factory Wonders</title>
-    <desc lang="id">Comedians Reiji and Tsuyoshi of the duo Nakagawake and Suchiko explore the many wonders of Japanese manufacturing. They learn about the latest technology and even try their hand at expert skills.</desc>
+    <desc lang="id">Join the team at a factory making various airlines' in-flight meals, where we meet chefs from around the world, and learn tricks forensuring meals are identically beautiful and don't spill in flight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130055500 +0000" stop="20261130060000 +0000">
-    <title lang="id">Time-Lapse Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="id">Yonezawa: A Gift From Melted Snow</title>
+    <desc lang="id">As snow melts in Yonezawa, it provides water used for growing rice. Beautiful time-lapse images show how a 400-year-old brewery turns this rice into sake, using human expertise instead of machines.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130060000 +0000" stop="20261130063000 +0000">
@@ -19003,18 +19364,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130063000 +0000" stop="20261130064000 +0000">
-    <title lang="id">Magical Japanese</title>
-    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history and culture. Explore the unique culture behind them.</desc>
+    <title lang="id">Magical Japanese House</title>
+    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to houses. Explore the unique culture behind them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130064000 +0000" stop="20261130064500 +0000">
     <title lang="id">Easy Japanese</title>
-    <desc lang="id">A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+    <desc lang="id">#1 Where is Haru-san House? / Learn how to ask about locations. If you want to know where something is, simply put wa doko desu ka after its name.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130064500 +0000" stop="20261130065500 +0000">
     <title lang="id">Culture Crossroads</title>
-    <desc lang="id">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="id">The fact that Japan is very dry in winter greatly increases the risk of fire. We learn tips for preventing fires occurring and how to respond effectively when a fire breaks out.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130065500 +0000" stop="20261130070000 +0000">
@@ -19037,9 +19398,14 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261130083000 +0000" stop="20261130090000 +0000">
+  <programme channel="7968" start="20261130083000 +0000" stop="20261130085700 +0000">
     <title lang="id">Hometown Stories</title>
-    <desc lang="id">Stories about people, stories about life. Intimate portraits of people from around Japan, each leading diverse lives while enriching lives of others.</desc>
+    <desc lang="id">After being diagnosed with leprosy as a teenager, Hiroshi was sent to live on an island far from his birthplace. Now, at age 90, he is free to travel and sharing his story with people across Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130085700 +0000" stop="20261130090000 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#47 How do you do it? / To ask how to do something, say doo yatte, meaning how, followed with a verb like suru, (to do), and then n desuka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130090000 +0000" stop="20261130093000 +0000">
@@ -19049,7 +19415,7 @@
   </programme>
   <programme channel="7968" start="20261130093000 +0000" stop="20261130100000 +0000">
     <title lang="id">Journeys In Japan</title>
-    <desc lang="id">Explore a different side of Japan. Meet the locals and discover traditions and cultures not usually found in guidebooks!</desc>
+    <desc lang="id">Rachael Aoki follows 19th-century explorer Isabella Bird from Futamigaura, near Ise Grand Shrine, to Otsu.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130100000 +0000" stop="20261130103000 +0000">
@@ -19059,12 +19425,12 @@
   </programme>
   <programme channel="7968" start="20261130103000 +0000" stop="20261130105500 +0000">
     <title lang="id">The Factory Wonders</title>
-    <desc lang="id">Comedians Reiji and Tsuyoshi of the duo Nakagawake and Suchiko explore the many wonders of Japanese manufacturing. They learn about the latest technology and even try their hand at expert skills.</desc>
+    <desc lang="id">Join the team at a factory making various airlines' in-flight meals, where we meet chefs from around the world, and learn tricks forensuring meals are identically beautiful and don't spill in flight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130105500 +0000" stop="20261130110000 +0000">
-    <title lang="id">Time-Lapse Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="id">Yonezawa: A Gift From Melted Snow</title>
+    <desc lang="id">As snow melts in Yonezawa, it provides water used for growing rice. Beautiful time-lapse images show how a 400-year-old brewery turns this rice into sake, using human expertise instead of machines.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130110000 +0000" stop="20261130112800 +0000">
@@ -19074,12 +19440,12 @@
   </programme>
   <programme channel="7968" start="20261130112800 +0000" stop="20261130114300 +0000">
     <title lang="id">Direct Talk</title>
-    <desc lang="id">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="id">In January 2026, WBO super flyweight champion Hiruta Mizuki was chosen as Female Fighter of the Year by the boxing world's most prestigious magazine. She speaks about what boxing means to her.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130114300 +0000" stop="20261130115500 +0000">
     <title lang="id">Culture Crossroads</title>
-    <desc lang="id">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="id">The fact that Japan is very dry in winter greatly increases the risk of fire. We learn tips for preventing fires occurring and how to respond effectively when a fire breaks out.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130115500 +0000" stop="20261130120000 +0000">
@@ -19094,7 +19460,7 @@
   </programme>
   <programme channel="7968" start="20261130123000 +0000" stop="20261130130000 +0000">
     <title lang="id">Dive In Tokyo</title>
-    <desc lang="id">Tokyo: where both tradition and the latest trends coexist. Join us on a journey to historic old towns and encounter many fun surprises along the way.</desc>
+    <desc lang="id">Koishikawa is a residential area in the city center that is home to a botanical garden and a temple associated with the Edo shogunate. As we explore, we discover a legacy of printing and bookbinding.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130130000 +0000" stop="20261130133000 +0000">
@@ -19114,7 +19480,7 @@
   </programme>
   <programme channel="7968" start="20261130143000 +0000" stop="20261130150000 +0000">
     <title lang="id">Medical Frontiers</title>
-    <desc lang="id">From prevention to cure! The groundbreaking world of Japanese medical technology and healthcare. For your healthy lifestyle, this program shows tips of superfoods and easy exercises.</desc>
+    <desc lang="id">Hip osteoarthritis causes severe pain and may require artificial hip joint surgery. A Japanese university and a company have developed a long-lasting artificial joint, offering hope to many patients.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130150000 +0000" stop="20261130153000 +0000">
@@ -19124,12 +19490,12 @@
   </programme>
   <programme channel="7968" start="20261130153000 +0000" stop="20261130155500 +0000">
     <title lang="id">The Factory Wonders</title>
-    <desc lang="id">Comedians Reiji and Tsuyoshi of the duo Nakagawake and Suchiko explore the many wonders of Japanese manufacturing. They learn about the latest technology and even try their hand at expert skills.</desc>
+    <desc lang="id">Join the team at a factory making various airlines' in-flight meals, where we meet chefs from around the world, and learn tricks forensuring meals are identically beautiful and don't spill in flight</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130155500 +0000" stop="20261130160000 +0000">
-    <title lang="id">Time-Lapse Japan</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <title lang="id">Yonezawa: A Gift From Melted Snow</title>
+    <desc lang="id">As snow melts in Yonezawa, it provides water used for growing rice. Beautiful time-lapse images show how a 400-year-old brewery turns this rice into sake, using human expertise instead of machines.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130160000 +0000" stop="20261130163000 +0000">
@@ -19137,14 +19503,19 @@
     <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261130163000 +0000" stop="20261130170000 +0000">
+  <programme channel="7968" start="20261130163000 +0000" stop="20261130165700 +0000">
     <title lang="id">Hometown Stories</title>
-    <desc lang="id">Stories about people, stories about life. Intimate portraits of people from around Japan, each leading diverse lives while enriching lives of others.</desc>
+    <desc lang="id">After being diagnosed with leprosy as a teenager, Hiroshi was sent to live on an island far from his birthplace. Now, at age 90, he is free to travel and sharing his story with people across Japan.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261130163000 +0000" stop="20261130170000 +0000">
-    <title lang="id">Hometown Stories</title>
-    <desc lang="id">Stories about people, stories about life. Intimate portraits of people from around Japan, each leading diverse lives while enriching lives of others.</desc>
+  <programme channel="7968" start="20261130165700 +0000" stop="20261130170000 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#47 How do you do it? / To ask how to do something, say doo yatte, meaning how, followed with a verb like suru, (to do), and then n desuka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130165700 +0000" stop="20261130170000 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#47 How do you do it? / To ask how to do something, say doo yatte, meaning how, followed with a verb like suru, (to do), and then n desuka.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130170000 +0000" stop="20261130173000 +0000">
@@ -19153,18 +19524,18 @@
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130173000 +0000" stop="20261130174000 +0000">
-    <title lang="id">Magical Japanese</title>
-    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history and culture. Explore the unique culture behind them.</desc>
+    <title lang="id">Magical Japanese House</title>
+    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to houses. Explore the unique culture behind them.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130174000 +0000" stop="20261130174500 +0000">
     <title lang="id">Easy Japanese</title>
-    <desc lang="id">A new version of Radio Japan's Easy Japanese is coming to TV first this time. Learn simple expressions you can put to use whether you're visiting or staying. Tune in and start speaking.</desc>
+    <desc lang="id">#1 Where is Haru-san House? / Learn how to ask about locations. If you want to know where something is, simply put wa doko desu ka after its name.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130174500 +0000" stop="20261130175500 +0000">
     <title lang="id">Culture Crossroads</title>
-    <desc lang="id">Culture Crossroads is a program themed around creating a multicultural society. It also offers tips on disaster preparedness.</desc>
+    <desc lang="id">The fact that Japan is very dry in winter greatly increases the risk of fire. We learn tips for preventing fires occurring and how to respond effectively when a fire breaks out.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130175500 +0000" stop="20261130180000 +0000">
@@ -19179,27 +19550,902 @@
   </programme>
   <programme channel="7968" start="20261130182800 +0000" stop="20261130184300 +0000">
     <title lang="id">Direct Talk</title>
-    <desc lang="id">Direct and in-depth. Interviews exploring the minds and motivations of the leaders, visionaries, artists and entrepreneurs who are changing our world.</desc>
+    <desc lang="id">In January 2026, WBO super flyweight champion Hiruta Mizuki was chosen as Female Fighter of the Year by the boxing world's most prestigious magazine. She speaks about what boxing means to her.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130184300 +0000" stop="20261130185500 +0000">
-    <title lang="id">NHK World Selection</title>
-    <desc lang="id">NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+    <title lang="id">Nun'S Seasonal Calendar</title>
+    <desc lang="id">In this episode, we learn about the winter dates of Taisetsu and Toji. The nuns enjoy yuzu pepper, pumpkin soup and kagami-mochi rice cakes made specially for the end of the year.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130185500 +0000" stop="20261130190000 +0000">
-    <title lang="id">Ukiyoe Edo-Life</title>
-    <desc lang="id">Centuries ago, Tokyo was known as EDO. More than a million people enjoyed life in this city, they live on in ukiyo-e woodblock prints. Take a deep dive into ukiyo-e and explore the soul of old Tokyo.</desc>
+    <title lang="id">Ukiyoe Edo-Life: Off To Go Bathing</title>
+    <desc lang="id">A mother and daughter brave the rain to visit their local bathhouse, exchanging words with a young girl along the way. We learn that regular bathing was an essential part of life for the townspeople.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
-  <programme channel="7968" start="20261130190000 +0000" stop="20261130193000 +0000">
-    <title lang="id">NHK World TV Special Program</title>
-    <desc lang="id">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme channel="7968" start="20261130190000 +0000" stop="20261130192300 +0000">
+    <title lang="id">The Business Keyhole</title>
+    <desc lang="id">A backstage look at the coldest products on the market, frozen foods! From Japan's unique take on one-plate meals to the uniquely Japanese udon noodles, sample the latest and hottest in chilled chow!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130192300 +0000" stop="20261130193000 +0000">
+    <title lang="id">Ukiyoe Edo-Life: A Spring Party</title>
+    <desc lang="id">We visit one of the most famous cherry blossom spots in Edo. Flower viewing parties were for eating, drinking and making merry. It was also an opportunity for young men and women to mingle.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="7968" start="20261130193000 +0000" stop="20261130200000 +0000">
     <title lang="id">Seasoning The Seasons</title>
     <desc lang="id">This program visits places across Japan to introduce the charms of their local daily life and festivals fostered by the nation's long history.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130200000 +0000" stop="20261130203000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130203000 +0000" stop="20261130210000 +0000">
+    <title lang="id">Medical Frontiers</title>
+    <desc lang="id">Hip osteoarthritis causes severe pain and may require artificial hip joint surgery. A Japanese university and a company have developed a long-lasting artificial joint, offering hope to many patients.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130210000 +0000" stop="20261130213000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130213000 +0000" stop="20261130214500 +0000">
+    <title lang="id">Bosai</title>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130214500 +0000" stop="20261130215500 +0000">
+    <title lang="id">Impacts: Climates Change The World</title>
+    <desc lang="id">The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130215500 +0000" stop="20261130220000 +0000">
+    <title lang="id">Yonezawa: Uesugi Yozan</title>
+    <desc lang="id">A feudal lord admired by John F. Kennedy, Uesugi Yozan saved the Yonezawa Domain from financial ruin 250 years ago. Stunning time-lapse images show the historic sites that preserve his legacy.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130220000 +0000" stop="20261130223000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130223000 +0000" stop="20261130224000 +0000">
+    <title lang="id">Magical Japanese House</title>
+    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to houses. Explore the unique culture behind them.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130224000 +0000" stop="20261130224500 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#1 Where is Haru-san House? / Learn how to ask about locations. If you want to know where something is, simply put wa doko desu ka after its name.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130224500 +0000" stop="20261130225500 +0000">
+    <title lang="id">Culture Crossroads</title>
+    <desc lang="id">The fact that Japan is very dry in winter greatly increases the risk of fire. We learn tips for preventing fires occurring and how to respond effectively when a fire breaks out.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130225500 +0000" stop="20261130230000 +0000">
+    <title lang="id">Hello!NHK World Japan</title>
+    <desc lang="id">We intorduce the contents and activities of NHK WORLD-JAPAN to make the station and programs known to more people all over the world. This is the window of the station to the world.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130230000 +0000" stop="20261130233000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130233000 +0000" stop="20261130235700 +0000">
+    <title lang="id">Hometown Stories</title>
+    <desc lang="id">After being diagnosed with leprosy as a teenager, Hiroshi was sent to live on an island far from his birthplace. Now, at age 90, he is free to travel and sharing his story with people across Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261130235700 +0000" stop="20261201000000 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#47 How do you do it? / To ask how to do something, say doo yatte, meaning how, followed with a verb like suru, (to do), and then n desuka.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201000000 +0000" stop="20261201003000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201003000 +0000" stop="20261201010000 +0000">
+    <title lang="id">Journeys In Japan</title>
+    <desc lang="id">Maria Brandmann follows the route taken by 19th century British explorer Isabella Bird from Yamagata to Akita.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201010000 +0000" stop="20261201013000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201013000 +0000" stop="20261201020000 +0000">
+    <title lang="id">Dining With The Chef</title>
+    <desc lang="id">Traditional techniques and resourceful recipes! Chefs Saito, Rika, and a lineup of master chefs share their unique approaches to Japanese cooking.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201020000 +0000" stop="20261201023000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201023000 +0000" stop="20261201030000 +0000">
+    <title lang="id">Document 72 Hours</title>
+    <desc lang="id">Many customers at a drive-through restaurant in Niigata Prefecture order Italian - fried noodles topped with meat sauce. For three days, we asked them why this comfort food always hits the spot.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201030000 +0000" stop="20261201033000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201033000 +0000" stop="20261201040000 +0000">
+    <title lang="id">Medical Frontiers</title>
+    <desc lang="id">Hip osteoarthritis causes severe pain and may require artificial hip joint surgery. A Japanese university and a company have developed a long-lasting artificial joint, offering hope to many patients.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201040000 +0000" stop="20261201043000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201043000 +0000" stop="20261201044500 +0000">
+    <title lang="id">Activate Your Japanese!</title>
+    <desc lang="id">Learn how to make the most of your Japanese skills. Watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on senpai in Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201044500 +0000" stop="20261201045500 +0000">
+    <title lang="id">Dig More Japan</title>
+    <desc lang="id">People from all over the world call Japan home. Dig a little deeper, meeting folks who, despite the challenges, don't just survive, they thrive!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201045500 +0000" stop="20261201050000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Buttered Mackerel with Ponzu/ Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201050000 +0000" stop="20261201053000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201053000 +0000" stop="20261201060000 +0000">
+    <title lang="id">Journeys In Japan</title>
+    <desc lang="id">Maria Brandmann follows the route taken by 19th century British explorer Isabella Bird from Yamagata to Akita.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201060000 +0000" stop="20261201063000 +0000">
+    <title lang="id">Newsline Asia 24</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201063000 +0000" stop="20261201070000 +0000">
+    <title lang="id">Dining With The Chef</title>
+    <desc lang="id">Traditional techniques and resourceful recipes! Chefs Saito, Rika, and a lineup of master chefs share their unique approaches to Japanese cooking.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201070000 +0000" stop="20261201073000 +0000">
+    <title lang="id">Newsline Asia 24</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201073000 +0000" stop="20261201080000 +0000">
+    <title lang="id">Document 72 Hours</title>
+    <desc lang="id">Many customers at a drive-through restaurant in Niigata Prefecture order Italian - fried noodles topped with meat sauce. For three days, we asked them why this comfort food always hits the spot.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201080000 +0000" stop="20261201083000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201083000 +0000" stop="20261201084500 +0000">
+    <title lang="id">Activate Your Japanese!</title>
+    <desc lang="id">Learn how to make the most of your Japanese skills. Watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on senpai in Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201084500 +0000" stop="20261201090000 +0000">
+    <title lang="id">Bosai</title>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201090000 +0000" stop="20261201093000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201093000 +0000" stop="20261201100000 +0000">
+    <title lang="id">Medical Frontiers</title>
+    <desc lang="id">Hip osteoarthritis causes severe pain and may require artificial hip joint surgery. A Japanese university and a company have developed a long-lasting artificial joint, offering hope to many patients.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201100000 +0000" stop="20261201103000 +0000">
+    <title lang="id">NHK News 7</title>
+    <desc lang="id">NEWS 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201103000 +0000" stop="20261201105500 +0000">
+    <title lang="id">Darwin'S Amazing Animals</title>
+    <desc lang="id">In Part 5 of our series, the Darwin team track 3 male lions on separate paths toward their destinies. Brawls, injury and trust-building are some of the rites of passage in any quest for the throne.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201105500 +0000" stop="20261201110000 +0000">
+    <title lang="id">Time-Lapse Journey</title>
+    <desc lang="id">Kamikochi is a beautiful mountainous region in Nagano Prefecture that's 1,500m above sea level. With a mirror-like pond and rime ice, see the frozen beauty of Kamikochi through time-lapse photography.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201110000 +0000" stop="20261201112800 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201112800 +0000" stop="20261201114300 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">Hosono Hitomi's botanically themed ceramics are highly acclaimed and held in museum collections across the world. She talks about her intricate designs and unmatched technique.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201114300 +0000" stop="20261201115500 +0000">
+    <title lang="id">Magical Japanese House</title>
+    <desc lang="id">The Japanese language is rich in words and expressions influenced by nature, history, and culture. This episode looks at words related to houses. Explore the unique culture behind them.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201115500 +0000" stop="20261201120000 +0000">
+    <title lang="id">Easy Japanese</title>
+    <desc lang="id">#1 Where is Haru-san House? / Learn how to ask about locations. If you want to know where something is, simply put wa doko desu ka after its name.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201120000 +0000" stop="20261201123000 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201123000 +0000" stop="20261201130000 +0000">
+    <title lang="id">Dining With The Chef</title>
+    <desc lang="id">Traditional techniques and resourceful recipes! Chefs Saito, Rika, and a lineup of master chefs share their unique approaches to Japanese cooking.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201130000 +0000" stop="20261201133000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201133000 +0000" stop="20261201140000 +0000">
+    <title lang="id">Document 72 Hours</title>
+    <desc lang="id">Many customers at a drive-through restaurant in Niigata Prefecture order Italian - fried noodles topped with meat sauce. For three days, we asked them why this comfort food always hits the spot.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201140000 +0000" stop="20261201143000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201143000 +0000" stop="20261201150000 +0000">
+    <title lang="id">Science View</title>
+    <desc lang="id">This episode accompanies researchers studying the amazing survival strategies of weeds, often thought a nuisance, but respected for their resilience.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201150000 +0000" stop="20261201153000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201153000 +0000" stop="20261201160000 +0000">
+    <title lang="id">Journeys In Japan</title>
+    <desc lang="id">Maria Brandmann follows the route taken by 19th century British explorer Isabella Bird from Yamagata to Akita.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201160000 +0000" stop="20261201163000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201163000 +0000" stop="20261201164500 +0000">
+    <title lang="id">Activate Your Japanese!</title>
+    <desc lang="id">Learn how to make the most of your Japanese skills. Watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on senpai in Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201164500 +0000" stop="20261201165500 +0000">
+    <title lang="id">Dig More Japan</title>
+    <desc lang="id">People from all over the world call Japan home. Dig a little deeper, meeting folks who, despite the challenges, don't just survive, they thrive!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201165500 +0000" stop="20261201170000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Buttered Mackerel with Ponzu/ Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201165500 +0000" stop="20261201170000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Buttered Mackerel with Ponzu/ Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201170000 +0000" stop="20261201173000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201173000 +0000" stop="20261201180000 +0000">
+    <title lang="id">Dining With The Chef</title>
+    <desc lang="id">Traditional techniques and resourceful recipes! Chefs Saito, Rika, and a lineup of master chefs share their unique approaches to Japanese cooking.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201180000 +0000" stop="20261201182800 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201182800 +0000" stop="20261201184300 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">Hosono Hitomi's botanically themed ceramics are highly acclaimed and held in museum collections across the world. She talks about her intricate designs and unmatched technique.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201184300 +0000" stop="20261201184800 +0000">
+    <title lang="id">Dosukoi Sumo Salon 5 Minutes</title>
+    <desc lang="id">We look at the penultimate 14th day of sumo tournaments, and dive into historical moments that prove this day can be as or more exciting than the final one, like an emotional brotherly title win!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201184800 +0000" stop="20261201185500 +0000">
+    <title lang="id">Dosukoi Sumo Salon 5 Minutes</title>
+    <desc lang="id">This is a move that can be used either for defense or offense. We take a deep dive into how it works and how it's been employed throughout sumo history to trip up even fearsome opponents!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201185500 +0000" stop="20261201190000 +0000">
+    <title lang="id">Ukiyoe Edo-Life: Clam-Digging</title>
+    <desc lang="id">It's spring, and a group of young men and women have come to the beach for some recreational clam-digging. The sea breeze mixes with the smell of freshly-cooked seafood. There's also love in the air.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201190000 +0000" stop="20261201193000 +0000">
+    <title lang="id">Every Second Counts</title>
+    <desc lang="id">Operating helicopters, members of ARROWS (Airborne Rescue &amp; Relief Operations With Search) race around Japan to provide emergency support following major disasters.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201193000 +0000" stop="20261201200000 +0000">
+    <title lang="id">Document 72 Hours</title>
+    <desc lang="id">Many customers at a drive-through restaurant in Niigata Prefecture order Italian - fried noodles topped with meat sauce. For three days, we asked them why this comfort food always hits the spot.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201200000 +0000" stop="20261201203000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201203000 +0000" stop="20261201210000 +0000">
+    <title lang="id">Science View</title>
+    <desc lang="id">This episode accompanies researchers studying the amazing survival strategies of weeds, often thought a nuisance, but respected for their resilience.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201210000 +0000" stop="20261201213000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201213000 +0000" stop="20261201220000 +0000">
+    <title lang="id">Journeys In Japan</title>
+    <desc lang="id">Maria Brandmann follows the route taken by 19th century British explorer Isabella Bird from Yamagata to Akita.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201220000 +0000" stop="20261201223000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201223000 +0000" stop="20261201230000 +0000">
+    <title lang="id">Dining With The Chef</title>
+    <desc lang="id">Traditional techniques and resourceful recipes! Chefs Saito, Rika, and a lineup of master chefs share their unique approaches to Japanese cooking.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201230000 +0000" stop="20261201233000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201233000 +0000" stop="20261201234500 +0000">
+    <title lang="id">Activate Your Japanese!</title>
+    <desc lang="id">Learn how to make the most of your Japanese skills. Watch our drama that features useful communication strategies, our snappy videos about onomatopoeia, and our documentaries on senpai in Japan.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201234500 +0000" stop="20261201235500 +0000">
+    <title lang="id">Dig More Japan</title>
+    <desc lang="id">People from all over the world call Japan home. Dig a little deeper, meeting folks who, despite the challenges, don't just survive, they thrive!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261201235500 +0000" stop="20261202000000 +0000">
+    <title lang="id">Dining With The Chef Mini</title>
+    <desc lang="id">Featured recipe: Buttered Mackerel with Ponzu/ Learn about Japanese home cooking with Master Chef Saito, based on traditional Japanese cooking techniques in five minutes!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202000000 +0000" stop="20261202003000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202003000 +0000" stop="20261202010000 +0000">
+    <title lang="id">Dive In Tokyo</title>
+    <desc lang="id">Kokubunji City in western Tokyo is famous for its spring water, which has been a lifeline for over 1,000 years. We visit an ancient temple, explore historic former villas, and meet local farmers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202010000 +0000" stop="20261202013000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202013000 +0000" stop="20261202014500 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In April 2026, one of Ito Yuki's fishing rods was named Best of the Best in the prestigious Red Dot Design Award competition. Ito talks about his passion for creating innovative fishing tackle.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202014500 +0000" stop="20261202020000 +0000">
+    <title lang="id">Japan'S Top Inventions</title>
+    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time: ceramic masterpiece panels.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202020000 +0000" stop="20261202023000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202023000 +0000" stop="20261202030000 +0000">
+    <title lang="id">Frontrunners</title>
+    <desc lang="id">Nakamura Takatoshi runs a recycling company in Vietnam. He works with junk buyers, who collect recyclables from shops and homes, to improve the country's recycling rate and build a sustainable future.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202030000 +0000" stop="20261202033000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202033000 +0000" stop="20261202040000 +0000">
+    <title lang="id">Science View</title>
+    <desc lang="id">This episode accompanies researchers studying the amazing survival strategies of weeds, often thought a nuisance, but respected for their resilience.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202040000 +0000" stop="20261202043000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202043000 +0000" stop="20261202050000 +0000">
+    <title lang="id">Face To Face</title>
+    <desc lang="id">Kiuchi Shigeo is one of Japan's leading miyadaiku, craftsmen who build and restore wooden temples and shrines. Discover the skill and dedicationbehind preserving these structures for centuries.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202050000 +0000" stop="20261202053000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202053000 +0000" stop="20261202060000 +0000">
+    <title lang="id">Dive In Tokyo</title>
+    <desc lang="id">Kokubunji City in western Tokyo is famous for its spring water, which has been a lifeline for over 1,000 years. We visit an ancient temple, explore historic former villas, and meet local farmers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202060000 +0000" stop="20261202063000 +0000">
+    <title lang="id">Newsline Asia 24</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202063000 +0000" stop="20261202064500 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In April 2026, one of Ito Yuki's fishing rods was named Best of the Best in the prestigious Red Dot Design Award competition. Ito talks about his passion for creating innovative fishing tackle.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202064500 +0000" stop="20261202070000 +0000">
+    <title lang="id">Japan'S Top Inventions</title>
+    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time: ceramic masterpiece panels.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202070000 +0000" stop="20261202073000 +0000">
+    <title lang="id">Newsline Asia 24</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202073000 +0000" stop="20261202080000 +0000">
+    <title lang="id">Frontrunners</title>
+    <desc lang="id">Nakamura Takatoshi runs a recycling company in Vietnam. He works with junk buyers, who collect recyclables from shops and homes, to improve the country's recycling rate and build a sustainable future.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202080000 +0000" stop="20261202083000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202083000 +0000" stop="20261202090000 +0000">
+    <title lang="id">Face To Face</title>
+    <desc lang="id">Kiuchi Shigeo is one of Japan's leading miyadaiku, craftsmen who build and restore wooden temples and shrines. Discover the skill and dedicationbehind preserving these structures for centuries.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202090000 +0000" stop="20261202093000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202093000 +0000" stop="20261202100000 +0000">
+    <title lang="id">Science View</title>
+    <desc lang="id">This episode accompanies researchers studying the amazing survival strategies of weeds, often thought a nuisance, but respected for their resilience.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202100000 +0000" stop="20261202103000 +0000">
+    <title lang="id">NHK News 7</title>
+    <desc lang="id">NEWS 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202103000 +0000" stop="20261202104500 +0000">
+    <title lang="id">Bosai</title>
+    <desc lang="id">Earthquakes often cause water pipes to break, leading to water outages. That's why efforts are underway to make water pipes more earthquake-resistant and anticipate areas of potential damage.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202104500 +0000" stop="20261202105500 +0000">
+    <title lang="id">Impacts: Climates Change The World</title>
+    <desc lang="id">The key to global warming may lie underground: soil contains far more carbon than the atmosphere, but overdevelopment of farmland releases it as CO2. We explore efforts to capture carbon in the soil.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202105500 +0000" stop="20261202110000 +0000">
+    <title lang="id">Yonezawa: Uesugi Yozan</title>
+    <desc lang="id">A feudal lord admired by John F. Kennedy, Uesugi Yozan saved the Yonezawa Domain from financial ruin 250 years ago. Stunning time-lapse images show the historic sites that preserve his legacy.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202110000 +0000" stop="20261202112800 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202112800 +0000" stop="20261202114300 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In July 2025, Hayashi Hisashi became the first Japanese winner of a prestigious German award for the best board game of the year. How does he design games that captivate players around the world?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202114300 +0000" stop="20261202115500 +0000">
+    <title lang="id">Nun'S Seasonal Calendar</title>
+    <desc lang="id">In this episode, we learn about the winter dates of Taisetsu and Toji. The nuns enjoy yuzu pepper, pumpkin soup and kagami-mochi rice cakes made specially for the end of the year.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202115500 +0000" stop="20261202120000 +0000">
+    <title lang="id">Ukiyoe Edo-Life: Clam-Digging</title>
+    <desc lang="id">It's spring, and a group of young men and women have come to the beach for some recreational clam-digging. The sea breeze mixes with the smell of freshly-cooked seafood. There's also love in the air.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202120000 +0000" stop="20261202123000 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202123000 +0000" stop="20261202124500 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In April 2026, one of Ito Yuki's fishing rods was named Best of the Best in the prestigious Red Dot Design Award competition. Ito talks about his passion for creating innovative fishing tackle.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202124500 +0000" stop="20261202130000 +0000">
+    <title lang="id">Japan'S Top Inventions</title>
+    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time: ceramic masterpiece panels.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202130000 +0000" stop="20261202133000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202133000 +0000" stop="20261202140000 +0000">
+    <title lang="id">Frontrunners</title>
+    <desc lang="id">Nakamura Takatoshi runs a recycling company in Vietnam. He works with junk buyers, who collect recyclables from shops and homes, to improve the country's recycling rate and build a sustainable future.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202140000 +0000" stop="20261202143000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202143000 +0000" stop="20261202150000 +0000">
+    <title lang="id">Trails To Oishii Tokyo</title>
+    <desc lang="id">Japanese yams are a traditional ingredient loved for their sticky texture. Experience a harvest using heavy machinery to dig deep underground, then savor dishes including tororo over rice.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202150000 +0000" stop="20261202153000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202153000 +0000" stop="20261202160000 +0000">
+    <title lang="id">Dive In Tokyo</title>
+    <desc lang="id">Kokubunji City in western Tokyo is famous for its spring water, which has been a lifeline for over 1,000 years. We visit an ancient temple, explore historic former villas, and meet local farmers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202160000 +0000" stop="20261202163000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202163000 +0000" stop="20261202170000 +0000">
+    <title lang="id">Face To Face</title>
+    <desc lang="id">Kiuchi Shigeo is one of Japan's leading miyadaiku, craftsmen who build and restore wooden temples and shrines. Discover the skill and dedicationbehind preserving these structures for centuries.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202163000 +0000" stop="20261202170000 +0000">
+    <title lang="id">Face To Face</title>
+    <desc lang="id">Kiuchi Shigeo is one of Japan's leading miyadaiku, craftsmen who build and restore wooden temples and shrines. Discover the skill and dedicationbehind preserving these structures for centuries.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202170000 +0000" stop="20261202173000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202173000 +0000" stop="20261202174500 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In April 2026, one of Ito Yuki's fishing rods was named Best of the Best in the prestigious Red Dot Design Award competition. Ito talks about his passion for creating innovative fishing tackle.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202174500 +0000" stop="20261202180000 +0000">
+    <title lang="id">Japan'S Top Inventions</title>
+    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time: ceramic masterpiece panels.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202180000 +0000" stop="20261202182800 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202182800 +0000" stop="20261202184300 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In July 2025, Hayashi Hisashi became the first Japanese winner of a prestigious German award for the best board game of the year. How does he design games that captivate players around the world?</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202184300 +0000" stop="20261202184800 +0000">
+    <title lang="id">On The Wings 5Min.</title>
+    <desc lang="id">Fly high from Shizuoka Airport, the nearest to Mt. Fuji! Breathtaking window views and special cockpit footage await!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202184800 +0000" stop="20261202185500 +0000">
+    <title lang="id">National Parks Of Japan</title>
+    <desc lang="id">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202185500 +0000" stop="20261202190000 +0000">
+    <title lang="id">Ukiyoe Edo-Life: Takinogawa River</title>
+    <desc lang="id">We travel to a well-known tourist resort just outside of Edo, where day-trippers are enjoying river recreation and forest walks, praying at local shrines, and sitting down for riverside picnics.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202190000 +0000" stop="20261202193000 +0000">
+    <title lang="id">Science View</title>
+    <desc lang="id">This episode accompanies researchers studying the amazing survival strategies of weeds, often thought a nuisance, but respected for their resilience.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202193000 +0000" stop="20261202200000 +0000">
+    <title lang="id">Frontrunners</title>
+    <desc lang="id">Nakamura Takatoshi runs a recycling company in Vietnam. He works with junk buyers, who collect recyclables from shops and homes, to improve the country's recycling rate and build a sustainable future.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202200000 +0000" stop="20261202203000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202203000 +0000" stop="20261202210000 +0000">
+    <title lang="id">Trails To Oishii Tokyo</title>
+    <desc lang="id">Japanese yams are a traditional ingredient loved for their sticky texture. Experience a harvest using heavy machinery to dig deep underground, then savor dishes including tororo over rice.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202210000 +0000" stop="20261202213000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202213000 +0000" stop="20261202220000 +0000">
+    <title lang="id">Dive In Tokyo</title>
+    <desc lang="id">Kokubunji City in western Tokyo is famous for its spring water, which has been a lifeline for over 1,000 years. We visit an ancient temple, explore historic former villas, and meet local farmers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202220000 +0000" stop="20261202223000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202223000 +0000" stop="20261202224500 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In April 2026, one of Ito Yuki's fishing rods was named Best of the Best in the prestigious Red Dot Design Award competition. Ito talks about his passion for creating innovative fishing tackle.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202224500 +0000" stop="20261202230000 +0000">
+    <title lang="id">Japan'S Top Inventions</title>
+    <desc lang="id">Discover the stories behind renowned Japanese products alongside our reporter. This time: ceramic masterpiece panels.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202230000 +0000" stop="20261202233000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261202233000 +0000" stop="20261203000000 +0000">
+    <title lang="id">Face To Face</title>
+    <desc lang="id">Kiuchi Shigeo is one of Japan's leading miyadaiku, craftsmen who build and restore wooden temples and shrines. Discover the skill and dedicationbehind preserving these structures for centuries.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203000000 +0000" stop="20261203003000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203003000 +0000" stop="20261203010000 +0000">
+    <title lang="id">Today'S Close-Up</title>
+    <desc lang="id">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203010000 +0000" stop="20261203013000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203013000 +0000" stop="20261203020000 +0000">
+    <title lang="id">Core Kyoto</title>
+    <desc lang="id">One Kyoto Buddhist sculpture workshop, founded in 1962, is run by 3rd- and 4th-generation artisans of a family dedicated to sculpting and adorning an extraordinary array of Buddhist deities.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203020000 +0000" stop="20261203023000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203023000 +0000" stop="20261203030000 +0000">
+    <title lang="id">Japanology Plus</title>
+    <desc lang="id">Once a poor fisher boy, John Manjiro became the first Japanese person to receive a formal education in the US and played a key role in Japan's modernization. Peter Barakan visits his hometown in Tosa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203030000 +0000" stop="20261203033000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203033000 +0000" stop="20261203040000 +0000">
+    <title lang="id">Trails To Oishii Tokyo</title>
+    <desc lang="id">Japanese yams are a traditional ingredient loved for their sticky texture. Experience a harvest using heavy machinery to dig deep underground, then savor dishes including tororo over rice.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203040000 +0000" stop="20261203043000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203043000 +0000" stop="20261203050000 +0000">
+    <title lang="id">Backstage Japan</title>
+    <desc lang="id">In Japan, where disaster strikes all too often, responders and individuals need fast, accurate information. Today we visit a research center designed to keep people safe.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203050000 +0000" stop="20261203053000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203053000 +0000" stop="20261203060000 +0000">
+    <title lang="id">Today'S Close-Up</title>
+    <desc lang="id">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203060000 +0000" stop="20261203063000 +0000">
+    <title lang="id">Newsline Asia 24</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203063000 +0000" stop="20261203070000 +0000">
+    <title lang="id">Core Kyoto</title>
+    <desc lang="id">One Kyoto Buddhist sculpture workshop, founded in 1962, is run by 3rd- and 4th-generation artisans of a family dedicated to sculpting and adorning an extraordinary array of Buddhist deities.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203070000 +0000" stop="20261203073000 +0000">
+    <title lang="id">Newsline Asia 24</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203073000 +0000" stop="20261203080000 +0000">
+    <title lang="id">Japanology Plus</title>
+    <desc lang="id">Once a poor fisher boy, John Manjiro became the first Japanese person to receive a formal education in the US and played a key role in Japan's modernization. Peter Barakan visits his hometown in Tosa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203080000 +0000" stop="20261203083000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203083000 +0000" stop="20261203090000 +0000">
+    <title lang="id">Backstage Japan</title>
+    <desc lang="id">In Japan, where disaster strikes all too often, responders and individuals need fast, accurate information. Today we visit a research center designed to keep people safe.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203090000 +0000" stop="20261203093000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203093000 +0000" stop="20261203100000 +0000">
+    <title lang="id">Trails To Oishii Tokyo</title>
+    <desc lang="id">Japanese yams are a traditional ingredient loved for their sticky texture. Experience a harvest using heavy machinery to dig deep underground, then savor dishes including tororo over rice.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203100000 +0000" stop="20261203103000 +0000">
+    <title lang="id">NHK News 7</title>
+    <desc lang="id">NEWS 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203103000 +0000" stop="20261203110000 +0000">
+    <title lang="id">Today'S Close-Up</title>
+    <desc lang="id">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203110000 +0000" stop="20261203112800 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203112800 +0000" stop="20261203114300 +0000">
+    <title lang="id">Direct Talk</title>
+    <desc lang="id">In July 2025, Ibuki became the first Japanese winner of the world's most prestigious magic competition. He talks about his swift rise to success, and explains how he comes up with original tricks.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203114300 +0000" stop="20261203114800 +0000">
+    <title lang="id">Dosukoi Sumo Salon 5 Minutes</title>
+    <desc lang="id">We look at the penultimate 14th day of sumo tournaments, and dive into historical moments that prove this day can be as or more exciting than the final one, like an emotional brotherly title win!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203114800 +0000" stop="20261203115500 +0000">
+    <title lang="id">Dosukoi Sumo Salon 5 Minutes</title>
+    <desc lang="id">This is a move that can be used either for defense or offense. We take a deep dive into how it works and how it's been employed throughout sumo history to trip up even fearsome opponents!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203115500 +0000" stop="20261203120000 +0000">
+    <title lang="id">Ukiyoe Edo-Life: Takinogawa River</title>
+    <desc lang="id">We travel to a well-known tourist resort just outside of Edo, where day-trippers are enjoying river recreation and forest walks, praying at local shrines, and sitting down for riverside picnics.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203120000 +0000" stop="20261203123000 +0000">
+    <title lang="id">Newsroom Tokyo</title>
+    <desc lang="id">NEWSROOM TOKYO dives deeper into the day's news with insight and analysis, from the perspective of Japan and the rest of Asia. We put a spotlight on what you need to know to understand the issues.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203123000 +0000" stop="20261203130000 +0000">
+    <title lang="id">Core Kyoto</title>
+    <desc lang="id">One Kyoto Buddhist sculpture workshop, founded in 1962, is run by 3rd- and 4th-generation artisans of a family dedicated to sculpting and adorning an extraordinary array of Buddhist deities.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203130000 +0000" stop="20261203133000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203133000 +0000" stop="20261203140000 +0000">
+    <title lang="id">Japanology Plus</title>
+    <desc lang="id">Once a poor fisher boy, John Manjiro became the first Japanese person to receive a formal education in the US and played a key role in Japan's modernization. Peter Barakan visits his hometown in Tosa.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203140000 +0000" stop="20261203143000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203143000 +0000" stop="20261203150000 +0000">
+    <title lang="id">Japan Railway Journal</title>
+    <desc lang="id">Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203150000 +0000" stop="20261203153000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203153000 +0000" stop="20261203160000 +0000">
+    <title lang="id">Today'S Close-Up</title>
+    <desc lang="id">Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203160000 +0000" stop="20261203163000 +0000">
+    <title lang="id">NHK Newsline</title>
+    <desc lang="id">NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
+  </programme>
+  <programme channel="7968" start="20261203163000 +0000" stop="20261203170000 +0000">
+    <title lang="id">Backstage Japan</title>
+    <desc lang="id">In Japan, where disaster strikes all too often, responders and individuals need fast, accurate information. Today we visit a research center designed to keep people safe.</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/tlLkUXIdMKNbmLEbrNf9B2edEfk=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-world-japan-bd94ce.jpg"/>
   </programme>
   <programme channel="6411" start="20261126160300 +0000" stop="20261126170000 +0000">
@@ -24726,6 +25972,361 @@
   <programme channel="7464" start="20261129173000 +0000" stop="20261129183000 +0000">
     <title lang="id">30 Hari 30 Juz</title>
     <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261130173000 +0000" stop="20261130183000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261130183000 +0000" stop="20261130213000 +0000">
+    <title lang="id">Live Makkah</title>
+    <desc lang="id">Live Makkah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261130213000 +0000" stop="20261130220000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Subuh</title>
+    <desc lang="id">Live Adzan Dan Sholat Subuh</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261130220000 +0000" stop="20261130230000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <desc lang="id">Mamah Dan Aa Beraksi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261130230000 +0000" stop="20261201000000 +0000">
+    <title lang="id">Sejadah</title>
+    <desc lang="id">Sejadah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201000000 +0000" stop="20261201010000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201010000 +0000" stop="20261201020000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <desc lang="id">Syair Syiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201020000 +0000" stop="20261201030000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <desc lang="id">Pesantren Dan Rock N Roll</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201030000 +0000" stop="20261201043000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201043000 +0000" stop="20261201050000 +0000">
+    <title lang="id">Indahnya Kebersamaan</title>
+    <desc lang="id">Indahnya Kebersamaan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201050000 +0000" stop="20261201053000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Dzuhur</title>
+    <desc lang="id">Live Adzan Dan Sholat Dzuhur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201053000 +0000" stop="20261201063000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <desc lang="id">Tafsir Al-Quran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201063000 +0000" stop="20261201073000 +0000">
+    <title lang="id">Sejadah</title>
+    <desc lang="id">Sejadah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201073000 +0000" stop="20261201083000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <desc lang="id">Syair Syiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201083000 +0000" stop="20261201093000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <desc lang="id">Pesantren Dan Rock N Roll</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201093000 +0000" stop="20261201110000 +0000">
+    <title lang="id">Para Pencari Tuhan</title>
+    <desc lang="id">Para Pencari Tuhan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201110000 +0000" stop="20261201113000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Maghrib</title>
+    <desc lang="id">Live Adzan Dan Sholat Maghrib</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201113000 +0000" stop="20261201120000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Barakallah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201120000 +0000" stop="20261201123000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Isya</title>
+    <desc lang="id">Live Adzan Dan Sholat Isya</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201123000 +0000" stop="20261201133000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <desc lang="id">Mamah Dan Aa Beraksi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201133000 +0000" stop="20261201143000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <desc lang="id">Tafsir Al-Quran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201143000 +0000" stop="20261201160000 +0000">
+    <title lang="id">Para Pencari Tuhan</title>
+    <desc lang="id">Para Pencari Tuhan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201160000 +0000" stop="20261201173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201160000 +0000" stop="20261201173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201173000 +0000" stop="20261201183000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201183000 +0000" stop="20261201213000 +0000">
+    <title lang="id">Live Makkah</title>
+    <desc lang="id">Live Makkah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201213000 +0000" stop="20261201220000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Subuh</title>
+    <desc lang="id">Live Adzan Dan Sholat Subuh</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201220000 +0000" stop="20261201230000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <desc lang="id">Mamah Dan Aa Beraksi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261201230000 +0000" stop="20261202000000 +0000">
+    <title lang="id">Sejadah</title>
+    <desc lang="id">Sejadah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202000000 +0000" stop="20261202010000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202010000 +0000" stop="20261202020000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <desc lang="id">Syair Syiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202020000 +0000" stop="20261202030000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <desc lang="id">Pesantren Dan Rock N Roll</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202030000 +0000" stop="20261202043000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202043000 +0000" stop="20261202050000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Barakallah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202050000 +0000" stop="20261202053000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Dzuhur</title>
+    <desc lang="id">Live Adzan Dan Sholat Dzuhur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202053000 +0000" stop="20261202063000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <desc lang="id">Tafsir Al-Quran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202063000 +0000" stop="20261202073000 +0000">
+    <title lang="id">Sejadah</title>
+    <desc lang="id">Sejadah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202073000 +0000" stop="20261202083000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <desc lang="id">Syair Syiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202083000 +0000" stop="20261202093000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <desc lang="id">Pesantren Dan Rock N Roll</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202093000 +0000" stop="20261202110000 +0000">
+    <title lang="id">Para Pencari Tuhan</title>
+    <desc lang="id">Para Pencari Tuhan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202110000 +0000" stop="20261202113000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Maghrib</title>
+    <desc lang="id">Live Adzan Dan Sholat Maghrib</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202113000 +0000" stop="20261202120000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Barakallah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202120000 +0000" stop="20261202123000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Isya</title>
+    <desc lang="id">Live Adzan Dan Sholat Isya</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202123000 +0000" stop="20261202133000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <desc lang="id">Mamah Dan Aa Beraksi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202133000 +0000" stop="20261202143000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <desc lang="id">Tafsir Al-Quran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202143000 +0000" stop="20261202160000 +0000">
+    <title lang="id">Para Pencari Tuhan</title>
+    <desc lang="id">Para Pencari Tuhan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202160000 +0000" stop="20261202173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202160000 +0000" stop="20261202173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202173000 +0000" stop="20261202183000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202183000 +0000" stop="20261202213000 +0000">
+    <title lang="id">Live Makkah</title>
+    <desc lang="id">Live Makkah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202213000 +0000" stop="20261202220000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Subuh</title>
+    <desc lang="id">Live Adzan Dan Sholat Subuh</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202220000 +0000" stop="20261202230000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <desc lang="id">Mamah Dan Aa Beraksi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261202230000 +0000" stop="20261203000000 +0000">
+    <title lang="id">Sejadah</title>
+    <desc lang="id">Sejadah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203000000 +0000" stop="20261203010000 +0000">
+    <title lang="id">30 Hari 30 Juz</title>
+    <desc lang="id">30 Hari 30 Juz</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203010000 +0000" stop="20261203020000 +0000">
+    <title lang="id">Syair Syiar</title>
+    <desc lang="id">Syair Syiar</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203020000 +0000" stop="20261203030000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <desc lang="id">Pesantren Dan Rock N Roll</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203030000 +0000" stop="20261203043000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203043000 +0000" stop="20261203050000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Barakallah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203050000 +0000" stop="20261203053000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Dzuhur</title>
+    <desc lang="id">Live Adzan Dan Sholat Dzuhur</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203053000 +0000" stop="20261203063000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <desc lang="id">Tafsir Al-Quran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203063000 +0000" stop="20261203073000 +0000">
+    <title lang="id">Sejadah</title>
+    <desc lang="id">Sejadah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203073000 +0000" stop="20261203083000 +0000">
+    <title lang="id">Ilhami</title>
+    <desc lang="id">Ilhami</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203083000 +0000" stop="20261203093000 +0000">
+    <title lang="id">Pesantren Dan Rock N Roll</title>
+    <desc lang="id">Pesantren Dan Rock N Roll</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203093000 +0000" stop="20261203110000 +0000">
+    <title lang="id">Para Pencari Tuhan</title>
+    <desc lang="id">Para Pencari Tuhan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203110000 +0000" stop="20261203113000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Maghrib</title>
+    <desc lang="id">Live Adzan Dan Sholat Maghrib</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203113000 +0000" stop="20261203120000 +0000">
+    <title lang="id">Barakallah</title>
+    <desc lang="id">Barakallah</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203120000 +0000" stop="20261203123000 +0000">
+    <title lang="id">Live Adzan Dan Sholat Isya</title>
+    <desc lang="id">Live Adzan Dan Sholat Isya</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203123000 +0000" stop="20261203133000 +0000">
+    <title lang="id">Mamah Dan Aa Beraksi</title>
+    <desc lang="id">Mamah Dan Aa Beraksi</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203133000 +0000" stop="20261203143000 +0000">
+    <title lang="id">Tafsir Al-Quran</title>
+    <desc lang="id">Tafsir Al-Quran</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203143000 +0000" stop="20261203160000 +0000">
+    <title lang="id">Para Pencari Tuhan</title>
+    <desc lang="id">Para Pencari Tuhan</desc>
+    <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
+  </programme>
+  <programme channel="7464" start="20261203160000 +0000" stop="20261203173000 +0000">
+    <title lang="id">Ftv Islami</title>
+    <desc lang="id">Ftv Islami</desc>
     <icon src="https://thumbor.prod.vidiocdn.com/rNFvm_1tsCHnmhiWUk82o-iqeUQ=/287x162/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-dad8c3.jpg"/>
   </programme>
   <programme channel="18189" start="20261126140000 +0000" stop="20261126170000 +0000">

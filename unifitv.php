@@ -2475,7 +2475,7 @@
   <programme start="20261126160000 +0000" stop="20261126163000 +0000" channel="tvalhijrahhd.unifitv">
     <title lang="en">Reflections</title>
     <desc lang="en">Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
-    <category lang="en">Education</category>
+    <category lang="en">education</category>
     <episode-num system="xmltv_ns">0.4.</episode-num>
     <episode-num system="onscreen">S1E5</episode-num>
   </programme>
@@ -2676,7 +2676,7 @@
   <programme start="20261127160000 +0000" stop="20261127163000 +0000" channel="tvalhijrahhd.unifitv">
     <title lang="en">Reflections</title>
     <desc lang="en">Reflection rancangan yang menyentuh amalan kehidupan seseorang muslim untuk dijadikan teladan dan panduan dalam mengejar redha Allah.</desc>
-    <category lang="en">Education</category>
+    <category lang="en">education</category>
     <episode-num system="xmltv_ns">0.5.</episode-num>
     <episode-num system="onscreen">S1E6</episode-num>
   </programme>
@@ -15224,7 +15224,12 @@
     <desc lang="en">UFC 322 Countdown previews a massive title-fight double header as Islam Makhachev moves up to challenge welterweight champ Jack Della Maddalena, and Zhang Weili faces dominant flyweight queen Valentina Shevchenko</desc>
     <category lang="en">Sports</category>
   </programme>
-  <programme start="20261127080000 +0000" stop="20261127110000 +0000" channel="unifisports1.unifitv">
+  <programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="unifisports1.unifitv">
+    <title lang="en">UFC Ultimate Knockouts - Dana White's Contender Series Alum</title>
+    <desc lang="en">UFC Ultimate Knockouts delivers jaw-dropping finishes from fighters who earned their spots through Dana White's Contender Series. See rising stars and future champions like Jack Della Maddalena, Carlos Prates, Sean O'Malley, and more.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20261127083000 +0000" stop="20261127110000 +0000" channel="unifisports1.unifitv">
     <title lang="en">(L) AFLW Premiership Season - AFLW Grand Final North Melbourne v Melbourne.</title>
     <desc lang="en">ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFLW Premiership Season.</desc>
     <category lang="en">Sports</category>

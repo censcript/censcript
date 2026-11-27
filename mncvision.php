@@ -3107,7 +3107,7 @@
     <title>Family 100</title>
 </programme>
 <programme start="20261127143000 +0000" stop="20261127153000 +0000" channel="Entertainment.mncvision">
-    <title>Dibalik Kisah Misteri</title>
+    <title>Ngebor Rezeki</title>
 </programme>
 <programme start="20261127153000 +0000" stop="20261127160000 +0000" channel="Entertainment.mncvision">
     <title>Road To Kilau Raya: Jogetin...</title>
@@ -5131,11 +5131,11 @@
 <programme start="20261127090000 +0000" stop="20261127103000 +0000" channel="Kids TV.mncvision">
     <title>Petualangan Upin &amp; Ipin</title>
 </programme>
-<programme start="20261127103000 +0000" stop="20261127105000 +0000" channel="Kids TV.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20261127105000 +0000" stop="20261127110000 +0000" channel="Kids TV.mncvision">
+<programme start="20261127103000 +0000" stop="20261127104000 +0000" channel="Kids TV.mncvision">
     <title>Dunia Laluna</title>
+</programme>
+<programme start="20261127104000 +0000" stop="20261127110000 +0000" channel="Kids TV.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="Kids TV.mncvision">
     <title>Gecko&#039;s Garage</title>
@@ -5269,11 +5269,11 @@
 <programme start="20261127090000 +0000" stop="20261127103000 +0000" channel="Kids TV HD.mncvision">
     <title>Petualangan Upin &amp; Ipin</title>
 </programme>
-<programme start="20261127103000 +0000" stop="20261127105000 +0000" channel="Kids TV HD.mncvision">
-    <title>Go Buster</title>
-</programme>
-<programme start="20261127105000 +0000" stop="20261127110000 +0000" channel="Kids TV HD.mncvision">
+<programme start="20261127103000 +0000" stop="20261127104000 +0000" channel="Kids TV HD.mncvision">
     <title>Dunia Laluna</title>
+</programme>
+<programme start="20261127104000 +0000" stop="20261127110000 +0000" channel="Kids TV HD.mncvision">
+    <title>Go Buster</title>
 </programme>
 <programme start="20261127110000 +0000" stop="20261127113000 +0000" channel="Kids TV HD.mncvision">
     <title>Gecko&#039;s Garage</title>
@@ -6405,156 +6405,6 @@
 </programme>
 <programme start="20261127163000 +0000" stop="20261126170000 +0000" channel="Muslim TV.mncvision">
     <title>Siraman Qolbu, Ust. Dhanu</title>
-</programme>
-<programme start="20261126170000 +0000" stop="20261126173000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261126173000 +0000" stop="20261126180000 +0000" channel="NHK World.mncvision">
-    <title>Core Kyoto</title>
-</programme>
-<programme start="20261126180000 +0000" stop="20261126182800 +0000" channel="NHK World.mncvision">
-    <title>Newsroom Tokyo</title>
-</programme>
-<programme start="20261126182800 +0000" stop="20261126184300 +0000" channel="NHK World.mncvision">
-    <title>Direct Talk</title>
-</programme>
-<programme start="20261126184300 +0000" stop="20261126184800 +0000" channel="NHK World.mncvision">
-    <title>Dosukoi Sumo Salon</title>
-</programme>
-<programme start="20261126184800 +0000" stop="20261126185500 +0000" channel="NHK World.mncvision">
-    <title>Dosukoi Sumo Salon</title>
-</programme>
-<programme start="20261126185500 +0000" stop="20261126190000 +0000" channel="NHK World.mncvision">
-    <title>Ukiyoe Edo-Life: A Napping Boy</title>
-</programme>
-<programme start="20261126190000 +0000" stop="20261126192700 +0000" channel="NHK World.mncvision">
-    <title>Hometown Stories</title>
-</programme>
-<programme start="20261126192700 +0000" stop="20261126193000 +0000" channel="NHK World.mncvision">
-    <title>Easy Japanese</title>
-</programme>
-<programme start="20261126193000 +0000" stop="20261126200000 +0000" channel="NHK World.mncvision">
-    <title>Japanology Plus</title>
-</programme>
-<programme start="20261126200000 +0000" stop="20261126203000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261126203000 +0000" stop="20261126210000 +0000" channel="NHK World.mncvision">
-    <title>Japan Railway Journal</title>
-</programme>
-<programme start="20261126210000 +0000" stop="20261126213000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261126213000 +0000" stop="20261126220000 +0000" channel="NHK World.mncvision">
-    <title>The Business Keyhole</title>
-</programme>
-<programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261126223000 +0000" stop="20261126230000 +0000" channel="NHK World.mncvision">
-    <title>Core Kyoto</title>
-</programme>
-<programme start="20261126230000 +0000" stop="20261126233000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261126233000 +0000" stop="20261127000000 +0000" channel="NHK World.mncvision">
-    <title>Backstage Japan</title>
-</programme>
-<programme start="20261127000000 +0000" stop="20261127003000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="NHK World.mncvision">
-    <title>Every Second Counts</title>
-</programme>
-<programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127013000 +0000" stop="20261127020000 +0000" channel="NHK World.mncvision">
-    <title>Asia Insight</title>
-</programme>
-<programme start="20261127020000 +0000" stop="20261127023000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127023000 +0000" stop="20261127030000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
-</programme>
-<programme start="20261127030000 +0000" stop="20261127033000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127033000 +0000" stop="20261127040000 +0000" channel="NHK World.mncvision">
-    <title>Japan Railway Journal</title>
-</programme>
-<programme start="20261127040000 +0000" stop="20261127043000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="NHK World.mncvision">
-    <title>Seasoning The Seasons</title>
-</programme>
-<programme start="20261127050000 +0000" stop="20261127053000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127053000 +0000" stop="20261127060000 +0000" channel="NHK World.mncvision">
-    <title>Every Second Counts</title>
-</programme>
-<programme start="20261127060000 +0000" stop="20261127063000 +0000" channel="NHK World.mncvision">
-    <title>Newsline Asia 24</title>
-</programme>
-<programme start="20261127063000 +0000" stop="20261127070000 +0000" channel="NHK World.mncvision">
-    <title>Asia Insight</title>
-</programme>
-<programme start="20261127070000 +0000" stop="20261127073000 +0000" channel="NHK World.mncvision">
-    <title>Newsline Asia 24</title>
-</programme>
-<programme start="20261127073000 +0000" stop="20261127080000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
-</programme>
-<programme start="20261127080000 +0000" stop="20261127083000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127083000 +0000" stop="20261127090000 +0000" channel="NHK World.mncvision">
-    <title>Document 72 Hours</title>
-</programme>
-<programme start="20261127090000 +0000" stop="20261127093000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="NHK World.mncvision">
-    <title>Japan Railway Journal</title>
-</programme>
-<programme start="20261127100000 +0000" stop="20261127103000 +0000" channel="NHK World.mncvision">
-    <title>NHK News 7</title>
-</programme>
-<programme start="20261127103000 +0000" stop="20261127110000 +0000" channel="NHK World.mncvision">
-    <title>Every Second Counts</title>
-</programme>
-<programme start="20261127110000 +0000" stop="20261127112800 +0000" channel="NHK World.mncvision">
-    <title>Newsroom Tokyo</title>
-</programme>
-<programme start="20261127112800 +0000" stop="20261127114300 +0000" channel="NHK World.mncvision">
-    <title>Direct Talk</title>
-</programme>
-<programme start="20261127114300 +0000" stop="20261127115500 +0000" channel="NHK World.mncvision">
-    <title>Impacts: Climates Change...</title>
-</programme>
-<programme start="20261127115500 +0000" stop="20261127120000 +0000" channel="NHK World.mncvision">
-    <title>Chatroom Japan</title>
-</programme>
-<programme start="20261127120000 +0000" stop="20261127123000 +0000" channel="NHK World.mncvision">
-    <title>Newsroom Tokyo</title>
-</programme>
-<programme start="20261127123000 +0000" stop="20261127130000 +0000" channel="NHK World.mncvision">
-    <title>Asia Insight</title>
-</programme>
-<programme start="20261127130000 +0000" stop="20261127133000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127133000 +0000" stop="20261127140000 +0000" channel="NHK World.mncvision">
-    <title>Special Program</title>
-</programme>
-<programme start="20261127140000 +0000" stop="20261127143000 +0000" channel="NHK World.mncvision">
-    <title>NHK Newsline</title>
-</programme>
-<programme start="20261127143000 +0000" stop="20261127150000 +0000" channel="NHK World.mncvision">
-    <title>Design X Stories</title>
 </programme>
 <programme start="20261126171000 +0000" stop="20261126174000 +0000" channel="NHK World Premium.mncvision">
     <title>Asaichi On ETV</title>
@@ -8120,10 +7970,10 @@
     <title>Sportrivia</title>
 </programme>
 <programme start="20261127003000 +0000" stop="20261127023000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Women</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20261127023000 +0000" stop="20261127043000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League Men</title>
 </programme>
 <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8135,7 +7985,7 @@
     <title>Best Of Badminton</title>
 </programme>
 <programme start="20261127073000 +0000" stop="20261127093000 +0000" channel="Sportstars.mncvision">
-    <title>V-League 2025-2026: Women</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="Sportstars.mncvision">
     <title>Sports Today</title>
@@ -8438,10 +8288,10 @@
     <title>Sportrivia</title>
 </programme>
 <programme start="20261127003000 +0000" stop="20261127023000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20261127023000 +0000" stop="20261127043000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Men</title>
+    <title>V-League Men</title>
 </programme>
 <programme start="20261127043000 +0000" stop="20261127050000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
@@ -8453,7 +8303,7 @@
     <title>Best Of Badminton</title>
 </programme>
 <programme start="20261127073000 +0000" stop="20261127093000 +0000" channel="Sportstars HD.mncvision">
-    <title>V-League 2025-2026: Women</title>
+    <title>V-League Women</title>
 </programme>
 <programme start="20261127093000 +0000" stop="20261127100000 +0000" channel="Sportstars HD.mncvision">
     <title>Sports Today</title>
