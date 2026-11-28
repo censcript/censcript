@@ -637,12 +637,6 @@
 <programme start="20261127230000 +0000" stop="20261128003000 +0000" channel="ANTV.vision">
 <title>Radha Mohan</title>
 </programme>
-<programme start="20261128003000 +0000" stop="20261128030000 +0000" channel="ANTV.vision">
-<title>Cirkus</title>
-</programme>
-<programme start="20261128030000 +0000" stop="20261128060000 +0000" channel="ANTV.vision">
-<title>Bas Itna Sa Khwaab Hai</title>
-</programme>
 <programme start="20261128060000 +0000" stop="20261128073000 +0000" channel="ANTV.vision">
 <title>Jhanak</title>
 </programme>
@@ -705,9 +699,6 @@
 </programme>
 <programme start="20261128010000 +0000" stop="20261128013000 +0000" channel="RTV.vision">
 <title>Yaiba Samurai Legend</title>
-</programme>
-<programme start="20261128013000 +0000" stop="20261128020000 +0000" channel="RTV.vision">
-<title>MTLB Goo!</title>
 </programme>
 <programme start="20261128020000 +0000" stop="20261128033000 +0000" channel="RTV.vision">
 <title>Adit Sopo Jarwo</title>
@@ -1393,17 +1384,8 @@
 <programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="TVRI.vision">
 <title>Jendela Negeri</title>
 </programme>
-<programme start="20261128010000 +0000" stop="20261128020000 +0000" channel="TVRI.vision">
-<title>Bikin Asik Aja</title>
-</programme>
 <programme start="20261128020000 +0000" stop="20261128020300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
-</programme>
-<programme start="20261128020300 +0000" stop="20261128023000 +0000" channel="TVRI.vision">
-<title>Bermain Matematika</title>
-</programme>
-<programme start="20261128023000 +0000" stop="20261128030000 +0000" channel="TVRI.vision">
-<title>Mari Menggambar</title>
 </programme>
 <programme start="20261128030000 +0000" stop="20261128030300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
@@ -1420,9 +1402,6 @@
 <programme start="20261128040300 +0000" stop="20261128043000 +0000" channel="TVRI.vision">
 <title>Anak Indonesia</title>
 </programme>
-<programme start="20261128043000 +0000" stop="20261128050000 +0000" channel="TVRI.vision">
-<title>Belajar Bersama Bahasa Inggris</title>
-</programme>
 <programme start="20261128050000 +0000" stop="20261128060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
 </programme>
@@ -1437,9 +1416,6 @@
 </programme>
 <programme start="20261128090000 +0000" stop="20261128090300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
-</programme>
-<programme start="20261128090300 +0000" stop="20261128093000 +0000" channel="TVRI.vision">
-<title>Jajan Story</title>
 </programme>
 <programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="TVRI.vision">
 <title>Extra Time Cinta Mengejar Mimpi</title>
@@ -1497,4 +1473,28 @@
 </programme>
 <programme start="20261129010000 +0000" stop="20261129013000 +0000" channel="TVRI.vision">
 <title>Feature LKBN Antara</title>
+</programme>
+<programme start="20261129013000 +0000" stop="20261129030000 +0000" channel="TVRI.vision">
+<title>Misa Minggu</title>
+</programme>
+<programme start="20261129030000 +0000" stop="20261129030300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261129030300 +0000" stop="20261129033000 +0000" channel="TVRI.vision">
+<title>Jurnal World Cup U-17</title>
+</programme>
+<programme start="20261129033000 +0000" stop="20261129040000 +0000" channel="TVRI.vision">
+<title>Inspirasi Indonesia</title>
+</programme>
+<programme start="20261129040000 +0000" stop="20261129040300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261129040300 +0000" stop="20261129043000 +0000" channel="TVRI.vision">
+<title>Anak Indonesia</title>
+</programme>
+<programme start="20261129043000 +0000" stop="20261129050000 +0000" channel="TVRI.vision">
+<title>Belajar Bersama Matematika</title>
+</programme>
+<programme start="20261129050000 +0000" stop="20261129060000 +0000" channel="TVRI.vision">
+<title>Berita Siang</title>
 </programme>

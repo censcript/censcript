@@ -1444,13 +1444,16 @@
 <programme start="20261128173500 +0000" stop="20261128180000 +0000" channel="True_Crime.virginmediatv">
     <title>Judge Judy - Dysfunctional Household?!; My Tenant, the Vandal?!</title>
 </programme>
-<programme start="20261127235500 +0000" stop="20261128015500 +0000" channel="ITV3_HD.virginmediatv">
+<programme start="20261127231500 +0000" stop="20261128001000 +0000" channel="ITV3_HD.virginmediatv">
+    <title>Agatha Christie&#039;s Poirot - The Adventure of the Egyptian Tomb</title>
+</programme>
+<programme start="20261128001000 +0000" stop="20261128015500 +0000" channel="ITV3_HD.virginmediatv">
     <title>A Touch of Frost - Close Encounters</title>
 </programme>
-<programme start="20261128015500 +0000" stop="20261128022000 +0000" channel="ITV3_HD.virginmediatv">
+<programme start="20261128015500 +0000" stop="20261128021000 +0000" channel="ITV3_HD.virginmediatv">
     <title>George and Mildred - Your Money or Your Life</title>
 </programme>
-<programme start="20261128022000 +0000" stop="20261128023000 +0000" channel="ITV3_HD.virginmediatv">
+<programme start="20261128021000 +0000" stop="20261128023000 +0000" channel="ITV3_HD.virginmediatv">
     <title>Unwind with ITV - Episode 15</title>
 </programme>
 <programme start="20261128023000 +0000" stop="20261128060000 +0000" channel="ITV3_HD.virginmediatv">
@@ -4153,10 +4156,7 @@
 <programme start="20261128105500 +0000" stop="20261128130000 +0000" channel="MUTV.virginmediatv">
     <title>Live: Under 18 Premier League - Leeds United U18 v Manchester United U18</title>
 </programme>
-<programme start="20261128130000 +0000" stop="20261128131500 +0000" channel="MUTV.virginmediatv">
-    <title>Player Spotlight - Terland: Being a fan</title>
-</programme>
-<programme start="20261128131500 +0000" stop="20261128133000 +0000" channel="MUTV.virginmediatv">
+<programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="MUTV.virginmediatv">
     <title>Manager&#039;s Press Conference - Press Conference: Brentford (H)</title>
 </programme>
 <programme start="20261128133000 +0000" stop="20261128150000 +0000" channel="MUTV.virginmediatv">
