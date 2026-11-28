@@ -2254,11 +2254,8 @@
 <programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
 </programme>
-<programme start="20261128130000 +0000" stop="20261128133000 +0000" channel="BBC_News_24.virginmediatv">
+<programme start="20261128130000 +0000" stop="20261128140000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
-</programme>
-<programme start="20261128133000 +0000" stop="20261128140000 +0000" channel="BBC_News_24.virginmediatv">
-    <title>AI Decoded</title>
 </programme>
 <programme start="20261128140000 +0000" stop="20261128143000 +0000" channel="BBC_News_24.virginmediatv">
     <title>BBC News</title>
@@ -4229,7 +4226,7 @@
     <title>Live: IBU World Cup Biathlon - Kontiolahti: Single Mixed Relay</title>
 </programme>
 <programme start="20261128131500 +0000" stop="20261128163000 +0000" channel="TNT_Sports_1_HD.virginmediatv">
-    <title>Live: UK Championship Snooker - Round 1</title>
+    <title>Live: UK Championship Snooker - Round 1: Mark Selby v Matthew Selt</title>
 </programme>
 <programme start="20261128163000 +0000" stop="20261128164500 +0000" channel="TNT_Sports_1_HD.virginmediatv">
     <title>TNT Sports Cricket Reload - Australia v England: 1st T20</title>

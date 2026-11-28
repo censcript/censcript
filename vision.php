@@ -568,9 +568,6 @@
 <programme start="20261128154500 +0000" stop="20261128163000 +0000" channel="Trans 7.vision">
 <title>The Police</title>
 </programme>
-<programme start="20261128163000 +0000" stop="20261128174500 +0000" channel="Trans 7.vision">
-<title>FTV</title>
-</programme>
 <programme start="20261128174500 +0000" stop="20261128190000 +0000" channel="Trans 7.vision">
 <title>MotoGP Sprint Race 2026</title>
 </programme>
@@ -646,17 +643,8 @@
 <programme start="20261128093000 +0000" stop="20261128104500 +0000" channel="ANTV.vision">
 <title>Suami Pengganti</title>
 </programme>
-<programme start="20261128104500 +0000" stop="20261128131500 +0000" channel="ANTV.vision">
-<title>Khana</title>
-</programme>
 <programme start="20261128131500 +0000" stop="20261128150000 +0000" channel="ANTV.vision">
 <title>Alas Roban The Series</title>
-</programme>
-<programme start="20261128150000 +0000" stop="20261128170000 +0000" channel="ANTV.vision">
-<title>Boa Vs Python</title>
-</programme>
-<programme start="20261128170000 +0000" stop="20261128183000 +0000" channel="ANTV.vision">
-<title>Happy Ghost 5</title>
 </programme>
 <programme start="20261128183000 +0000" stop="20261128193000 +0000" channel="ANTV.vision">
 <title>Garis Tangan</title>
@@ -717,9 +705,6 @@
 </programme>
 <programme start="20261128103000 +0000" stop="20261128113000 +0000" channel="RTV.vision">
 <title>Adit Sopo Jarwo</title>
-</programme>
-<programme start="20261128113000 +0000" stop="20261128133000 +0000" channel="RTV.vision">
-<title>Crayon Shinchan The Movie</title>
 </programme>
 <programme start="20261128133000 +0000" stop="20261128143000 +0000" channel="RTV.vision">
 <title>Shinbi&#039;s House</title>
@@ -1288,9 +1273,6 @@
 <programme start="20261128163000 +0000" stop="20261128173000 +0000" channel="BTV.vision">
 <title>Supercar Championship</title>
 </programme>
-<programme start="20261128173000 +0000" stop="20261128182700 +0000" channel="BTV.vision">
-<title>Africa Eco Race 2026</title>
-</programme>
 <programme start="20261128182700 +0000" stop="20261128183000 +0000" channel="BTV.vision">
 <title>Tanah Airku</title>
 </programme>
@@ -1417,9 +1399,6 @@
 <programme start="20261128090000 +0000" stop="20261128090300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>
-<programme start="20261128093000 +0000" stop="20261128100000 +0000" channel="TVRI.vision">
-<title>Extra Time Cinta Mengejar Mimpi</title>
-</programme>
 <programme start="20261128100000 +0000" stop="20261128100300 +0000" channel="TVRI.vision">
 <title>Info Terkini</title>
 </programme>
@@ -1428,12 +1407,6 @@
 </programme>
 <programme start="20261128110000 +0000" stop="20261128120000 +0000" channel="TVRI.vision">
 <title>Berita Petang</title>
-</programme>
-<programme start="20261128120000 +0000" stop="20261128123000 +0000" channel="TVRI.vision">
-<title>Wajah Negeri</title>
-</programme>
-<programme start="20261128123000 +0000" stop="20261128130000 +0000" channel="TVRI.vision">
-<title>Rumah Cahaya</title>
 </programme>
 <programme start="20261128130000 +0000" stop="20261128140000 +0000" channel="TVRI.vision">
 <title>TVRI Klasik: Pondokan</title>
@@ -1446,9 +1419,6 @@
 </programme>
 <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="TVRI.vision">
 <title>Berita Malam</title>
-</programme>
-<programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="TVRI.vision">
-<title>Playback</title>
 </programme>
 <programme start="20261128180000 +0000" stop="20261128183000 +0000" channel="TVRI.vision">
 <title>Sportpedia</title>
@@ -1497,4 +1467,34 @@
 </programme>
 <programme start="20261129050000 +0000" stop="20261129060000 +0000" channel="TVRI.vision">
 <title>Berita Siang</title>
+</programme>
+<programme start="20261129060000 +0000" stop="20261129080000 +0000" channel="TVRI.vision">
+<title>TVRI</title>
+</programme>
+<programme start="20261129080000 +0000" stop="20261129080300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261129080300 +0000" stop="20261129090000 +0000" channel="TVRI.vision">
+<title>Kabayan Milenial</title>
+</programme>
+<programme start="20261129090000 +0000" stop="20261129090300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261129090300 +0000" stop="20261129093000 +0000" channel="TVRI.vision">
+<title>Spot Check</title>
+</programme>
+<programme start="20261129093000 +0000" stop="20261129100000 +0000" channel="TVRI.vision">
+<title>Extra Time Cinta Konsekuensi</title>
+</programme>
+<programme start="20261129100000 +0000" stop="20261129100300 +0000" channel="TVRI.vision">
+<title>Info Terkini</title>
+</programme>
+<programme start="20261129100300 +0000" stop="20261129110000 +0000" channel="TVRI.vision">
+<title>Buah Hatiku Sayang</title>
+</programme>
+<programme start="20261129110000 +0000" stop="20261129120000 +0000" channel="TVRI.vision">
+<title>Berita Petang</title>
+</programme>
+<programme start="20261127230500 +0000" stop="20261128000500 +0000" channel="MDTV.vision">
+<title>Jelajah Masjid Nusantara</title>
 </programme>
