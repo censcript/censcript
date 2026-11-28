@@ -3709,20 +3709,20 @@
   </programme>
   <programme start="20261128120500 +0000" stop="20261128133500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Airport Voice Music Competition</title>
-    <desc lang="en">Set against the backdrop of the Hong Kong International Airport, Airport Voice Music Competition spotlights hidden vocal talents working across various aviation and airport roles—from ground crew and terminal operations to airline staff. Serving as a special crossover between TVB's popular aviation drama The Airport Diary II (????II) and its flagship singing contest Midlife, Sing &amp; Shine!, the show follows everyday airport employees as they trade their uniforms for a spot on the big stage.</desc>
+    <desc lang="en">While Hong Kong International Airport helps millions of travelers fulfill their journeys, this competition gives a stage to the roughly 75,000 dedicated staff working across the airport community—many of whom harbor a passion for singing behind their everyday duties. Following preliminary auditions held in September 2026 with over 200 aviation industry participants, eight finalists advance to a grand live showcase. Seated as "first-class VIPs," a panel of celebrity judges selects the champion, first runner-up, and second runner-up, while the live audience votes for the Audience's Favorite Voice Award.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261128133500 +0000" stop="20261128143500 +0000" channel="tvbjade.unifitv">
     <title lang="en">Walking the Charity Journey with TWGHs</title>
-    <desc lang="en">Walking the Charity Journey with TWGHs is a documentary-style special that goes beyond the TV studio to showcase the real-life impact of TWGHs' medical, educational, and community programs. Airing one week before the main December 5 live gala, the program combines on-location stories of grassroots aid and overseas student exchanges with donor reflections and formal cheque presentations.</desc>
+    <desc lang="en">This live star-studded gala brings together top singers, TV artistes, and Cantonese opera masters to raise funds for TWGHs' medical, education, and community services. Performers take on exciting variety acts and daring stunts—including high-altitude abseiling and motorcycle fire-ring jumps—while viewers in Hong Kong and overseas can donate live via phone hotlines and digital platforms.</desc>
     <category lang="en">Entertainment</category>
   </programme>
   <programme start="20261128143500 +0000" stop="20261128150500 +0000" channel="tvbjade.unifitv">
-    <title lang="en">The Joy Of Nature (Sr.3)</title>
-    <desc lang="en">The "The Joy Of Nature (Sr.3)" embark on another journey, with hosts Maggie Lam,Joey Leung ,Michelle Ip,Verena Wong exploring Jeju Island in South Korea, Hualien in Taiwan, and Taitung in Taiwan, healing their minds and bodies in the embrace of nature. Jeju Island is renowned for its volcanic landscapes and refreshing sea breezes, where the "Nature-Style Beauties" enjoyed natural hot spring spas and immersed themselves in the festive atmosphere of a traditional wildfire festival; they also took speedboats deep into sea caves and off-road vehicles traversing mountains, embarking on an adventurous journey. Moving on to Hualien and Taitung, they discovered hidden gems and exciting activities, including a whale and dolphin hunt at sea; wandering through mountain valleys and enjoying wild hot springs. The team also experienced tribal culture, savoring campfire cuisine; and strolling through a forest "museum" to explore the lives of indigenous people.</desc>
+    <title lang="en">The Elites Talk</title>
+    <desc lang="en">In the first episode, Chiu Kwok-hung is joined by two guests—Patrick Liu, Tax and Business Advisory Leader for Hong Kong at Deloitte China, and Jason Fong, Global Head of Family Offices at InvestHK—to analyze how Hong Kong has attracted a large number of family offices. This success is driven by favorable conditions, including a diverse range of investment products, a simple tax regime, ease of investment, and the "One Country, Two Systems" framework. By the end of 2025, Hong Kong was home to 3,380 single-family offices—an increase of over 25% compared to the end of 2023. Through their direct operating expenditures, these family offices contribute more than HK$12.6 billion to Hong Kong's economy annually.</desc>
     <category lang="en">Entertainment</category>
-    <episode-num system="xmltv_ns">0.1.</episode-num>
-    <episode-num system="onscreen">S1E2</episode-num>
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <episode-num system="onscreen">S1E1</episode-num>
   </programme>
   <programme start="20261128150500 +0000" stop="20261128153500 +0000" channel="tvbjade.unifitv">
     <title lang="en">News Roundup</title>
@@ -14897,7 +14897,7 @@
   </programme>
   <programme start="20261127190000 +0000" stop="20261127190500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Ukiyo-e Edo-Life</title>
-    <desc lang="en">When a little boy's nap is disturbed by a bad dream, his mother comes to his rescue. What was terrorising him? We examine a print that shows how much the Edo townspeople cherished their kids.</desc>
+    <desc lang="en">We journey to a sacred mountain where pilgrims are purifying themselves in a waterfall before moving on. Some of them have even brought along offerings. And it turns out they have something to prove.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5148.</episode-num>
     <episode-num system="onscreen">S1E5149</episode-num>
@@ -14910,8 +14910,8 @@
     <episode-num system="onscreen">S1E5110</episode-num>
   </programme>
   <programme start="20261127193500 +0000" stop="20261127200500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Special Programme</title>
-    <desc lang="en">A wide range of topics featuring Japanese culture and society are introduced.</desc>
+    <title lang="en">Road Infrastructure Health Check</title>
+    <desc lang="en">Seeing Hidden Risks: Are road collapses truly unpredictable? Could such accidents be stopped before they happen? A national project aims to give roads preventive "health checkups."</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5989.</episode-num>
     <episode-num system="onscreen">S1E5990</episode-num>
@@ -14995,10 +14995,10 @@
   </programme>
   <programme start="20261128001500 +0000" stop="20261128010500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK World-Japan's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="en">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5134.</episode-num>
-    <episode-num system="onscreen">S1E5135</episode-num>
+    <episode-num system="xmltv_ns">0.5209.</episode-num>
+    <episode-num system="onscreen">S1E5210</episode-num>
   </programme>
   <programme start="20261128010500 +0000" stop="20261128011500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15007,12 +15007,19 @@
     <episode-num system="xmltv_ns">0.5023.</episode-num>
     <episode-num system="onscreen">S1E5024</episode-num>
   </programme>
-  <programme start="20261128011500 +0000" stop="20261128020500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261128011500 +0000" stop="20261128020000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Voyagers of Japan</title>
+    <desc lang="en">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
+  </programme>
+  <programme start="20261128020000 +0000" stop="20261128020500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5170.</episode-num>
+    <episode-num system="onscreen">S1E5171</episode-num>
   </programme>
   <programme start="20261128020500 +0000" stop="20261128021500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15023,7 +15030,7 @@
   </programme>
   <programme start="20261128021500 +0000" stop="20261128030000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5136.</episode-num>
     <episode-num system="onscreen">S1E5137</episode-num>
@@ -15049,12 +15056,19 @@
     <episode-num system="xmltv_ns">0.5130.</episode-num>
     <episode-num system="onscreen">S1E5131</episode-num>
   </programme>
-  <programme start="20261128034500 +0000" stop="20261128040500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261128034500 +0000" stop="20261128035500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">u&amp;i</title>
+    <desc lang="en">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5215.</episode-num>
-    <episode-num system="onscreen">S1E5216</episode-num>
+    <episode-num system="xmltv_ns">0.5191.</episode-num>
+    <episode-num system="onscreen">S1E5192</episode-num>
+  </programme>
+  <programme start="20261128035500 +0000" stop="20261128040500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Viewpoint Science</title>
+    <desc lang="en">The proactive science education programme which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5192.</episode-num>
+    <episode-num system="onscreen">S1E5193</episode-num>
   </programme>
   <programme start="20261128040500 +0000" stop="20261128041500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15063,12 +15077,19 @@
     <episode-num system="xmltv_ns">0.5026.</episode-num>
     <episode-num system="onscreen">S1E5027</episode-num>
   </programme>
-  <programme start="20261128041500 +0000" stop="20261128050500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK World-Japan on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme start="20261128041500 +0000" stop="20261128044500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">History Uncovered</title>
+    <desc lang="en">Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5207.</episode-num>
     <episode-num system="onscreen">S1E5208</episode-num>
+  </programme>
+  <programme start="20261128044500 +0000" stop="20261128050500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">My Street Piano</title>
+    <desc lang="en">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5188.</episode-num>
+    <episode-num system="onscreen">S1E5189</episode-num>
   </programme>
   <programme start="20261128050500 +0000" stop="20261128051500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15086,14 +15107,14 @@
   </programme>
   <programme start="20261128053000 +0000" stop="20261128053500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design Museum Japan</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="en">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5166.</episode-num>
     <episode-num system="onscreen">S1E5167</episode-num>
   </programme>
   <programme start="20261128053500 +0000" stop="20261128060500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Kabuki Kool</title>
-    <desc lang="en">Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="en">Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5107.</episode-num>
     <episode-num system="onscreen">S1E5108</episode-num>
@@ -15107,10 +15128,10 @@
   </programme>
   <programme start="20261128061500 +0000" stop="20261128070500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK World-Japan's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="en">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5134.</episode-num>
-    <episode-num system="onscreen">S1E5135</episode-num>
+    <episode-num system="xmltv_ns">0.5209.</episode-num>
+    <episode-num system="onscreen">S1E5210</episode-num>
   </programme>
   <programme start="20261128070500 +0000" stop="20261128071500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15119,12 +15140,19 @@
     <episode-num system="xmltv_ns">0.5029.</episode-num>
     <episode-num system="onscreen">S1E5030</episode-num>
   </programme>
-  <programme start="20261128071500 +0000" stop="20261128080500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261128071500 +0000" stop="20261128080000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Voyagers of Japan</title>
+    <desc lang="en">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
+  </programme>
+  <programme start="20261128080000 +0000" stop="20261128080500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5170.</episode-num>
+    <episode-num system="onscreen">S1E5171</episode-num>
   </programme>
   <programme start="20261128080500 +0000" stop="20261128081500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15133,12 +15161,19 @@
     <episode-num system="xmltv_ns">0.5030.</episode-num>
     <episode-num system="onscreen">S1E5031</episode-num>
   </programme>
-  <programme start="20261128081500 +0000" stop="20261128090500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Time and Tide</title>
-    <desc lang="en">Time and Tide transcends time to detail extraordinary historical events in Japan and the world. Join NHK World-Japan on a journey that reveals the truth behind some of the turning points of the past.</desc>
+  <programme start="20261128081500 +0000" stop="20261128084500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">History Uncovered</title>
+    <desc lang="en">Worn by samurai on formal occasions, in-ro were palm-sized containers crafted with masterful skill. In each piece, we uncover the refined spirit of samurai dandyism.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5207.</episode-num>
     <episode-num system="onscreen">S1E5208</episode-num>
+  </programme>
+  <programme start="20261128084500 +0000" stop="20261128090500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">My Street Piano</title>
+    <desc lang="en">On a shopping street in front of Kagoshima Chuo Station sits Japan' s original street piano, which passersby love to visit and play from the heart.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5188.</episode-num>
+    <episode-num system="onscreen">S1E5189</episode-num>
   </programme>
   <programme start="20261128090500 +0000" stop="20261128091500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15154,12 +15189,19 @@
     <episode-num system="xmltv_ns">0.5130.</episode-num>
     <episode-num system="onscreen">S1E5131</episode-num>
   </programme>
-  <programme start="20261128094500 +0000" stop="20261128100500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261128094500 +0000" stop="20261128095500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">u&amp;i</title>
+    <desc lang="en">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5215.</episode-num>
-    <episode-num system="onscreen">S1E5216</episode-num>
+    <episode-num system="xmltv_ns">0.5191.</episode-num>
+    <episode-num system="onscreen">S1E5192</episode-num>
+  </programme>
+  <programme start="20261128095500 +0000" stop="20261128100500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Viewpoint Science</title>
+    <desc lang="en">The proactive science education programme which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5192.</episode-num>
+    <episode-num system="onscreen">S1E5193</episode-num>
   </programme>
   <programme start="20261128100500 +0000" stop="20261128101500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15170,7 +15212,7 @@
   </programme>
   <programme start="20261128101500 +0000" stop="20261128110000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5136.</episode-num>
     <episode-num system="onscreen">S1E5137</episode-num>
@@ -15198,14 +15240,14 @@
   </programme>
   <programme start="20261128113000 +0000" stop="20261128113500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Design Museum Japan</title>
-    <desc lang="en">NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+    <desc lang="en">Miyamae Yoshiyuki (Fashion designer) visits Kochi. Kochi's Sunday market features around 500 stalls with fixed locations. Miyamae contemplates how communication has contributed to its longevity.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5166.</episode-num>
     <episode-num system="onscreen">S1E5167</episode-num>
   </programme>
   <programme start="20261128113500 +0000" stop="20261128120500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Kabuki Kool</title>
-    <desc lang="en">Dive into the world of Kabuki! Fascinating insights into this traditional Japanese theatre. Famous plays, ornate costumes, make-up, scenery and more!</desc>
+    <desc lang="en">Kataoka Ainosuke takes his first turn as our host. Ainosuke is a renowned kabuki actor. He'll be our guide to the attractions of kabuki looking at some of the roles he's played.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5107.</episode-num>
     <episode-num system="onscreen">S1E5108</episode-num>
@@ -15219,10 +15261,10 @@
   </programme>
   <programme start="20261128121500 +0000" stop="20261128130500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">Documentary 360</title>
-    <desc lang="en">NHK World-Japan's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+    <desc lang="en">Following the passing of Yayoi Kusama, this special rebroadcast revisits the pioneering artist's extraordinary life and creative vision, celebrating her enduring legacy.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5134.</episode-num>
-    <episode-num system="onscreen">S1E5135</episode-num>
+    <episode-num system="xmltv_ns">0.5209.</episode-num>
+    <episode-num system="onscreen">S1E5210</episode-num>
   </programme>
   <programme start="20261128130500 +0000" stop="20261128131500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15231,12 +15273,19 @@
     <episode-num system="xmltv_ns">0.5034.</episode-num>
     <episode-num system="onscreen">S1E5035</episode-num>
   </programme>
-  <programme start="20261128131500 +0000" stop="20261128140500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">NHK World TV Special Programme</title>
-    <desc lang="en">A selection of acclaimed programmes from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261128131500 +0000" stop="20261128140000 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Voyagers of Japan</title>
+    <desc lang="en">We investigate global historical archives to shed light on the adventures of diverse Japanese pioneers. This time we head to the U.S. to trace the 150-year-old footsteps of a group of businessmen.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5210.</episode-num>
     <episode-num system="onscreen">S1E5211</episode-num>
+  </programme>
+  <programme start="20261128140000 +0000" stop="20261128140500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Japan Delish 5min.</title>
+    <desc lang="en">Ever heard of an-pan?! From fruit sandwiches to curry-filled delights, Japanese bread is full of delicious surprises!</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5170.</episode-num>
+    <episode-num system="onscreen">S1E5171</episode-num>
   </programme>
   <programme start="20261128140500 +0000" stop="20261128141500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15259,12 +15308,19 @@
     <episode-num system="xmltv_ns">0.5157.</episode-num>
     <episode-num system="onscreen">S1E5158</episode-num>
   </programme>
-  <programme start="20261128144500 +0000" stop="20261128150500 +0000" channel="nhkworldjapan.unifitv">
-    <title lang="en">Kids Edutainment</title>
-    <desc lang="en">A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+  <programme start="20261128144500 +0000" stop="20261128145500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">u&amp;i</title>
+    <desc lang="en">This show for kids promotes a greater understanding for people with difficulties and helps develop empathy. With the help of two fairies, the main character thinks about what can be done to help.</desc>
     <category lang="en">Infotainment</category>
-    <episode-num system="xmltv_ns">0.5215.</episode-num>
-    <episode-num system="onscreen">S1E5216</episode-num>
+    <episode-num system="xmltv_ns">0.5191.</episode-num>
+    <episode-num system="onscreen">S1E5192</episode-num>
+  </programme>
+  <programme start="20261128145500 +0000" stop="20261128150500 +0000" channel="nhkworldjapan.unifitv">
+    <title lang="en">Viewpoint Science</title>
+    <desc lang="en">The proactive science education programme which encourages primary and lower secondary school children to discover and investigate the mysteries which puzzle them.</desc>
+    <category lang="en">Infotainment</category>
+    <episode-num system="xmltv_ns">0.5192.</episode-num>
+    <episode-num system="onscreen">S1E5193</episode-num>
   </programme>
   <programme start="20261128150500 +0000" stop="20261128151500 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">NHK Newsline</title>
@@ -15275,7 +15331,7 @@
   </programme>
   <programme start="20261128151500 +0000" stop="20261128160000 +0000" channel="nhkworldjapan.unifitv">
     <title lang="en">The Professionals</title>
-    <desc lang="en">A documentary series that focuses on first-class professionals from various fields.</desc>
+    <desc lang="en">Koreeda Hirokazu, acclaimed director of "Shoplifters", "Nobody Knows" and "Monster", returns with his first original feature in eight years. A rare look at the two-year journey behind its creation.</desc>
     <category lang="en">Infotainment</category>
     <episode-num system="xmltv_ns">0.5136.</episode-num>
     <episode-num system="onscreen">S1E5137</episode-num>
